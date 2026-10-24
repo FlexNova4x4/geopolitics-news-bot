@@ -12,9 +12,10 @@
     "1658cc6f4dd2dc07a2a2ede5": {
       "published_at": "2026-10-24T21:39:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10029,
       "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "updated_at": "2026-10-24T23:59:27.312323+00:00",
+      "updated_at": "2026-10-24T23:59:32.703737+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss"
     },
     "2f7502d1d5dcda5ebf8cff6a": {
@@ -55,9 +56,10 @@
     "4a067e46333580ef31d07718": {
       "published_at": "2026-10-24T21:30:11+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10028,
       "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-      "updated_at": "2026-10-24T23:59:27.312307+00:00",
+      "updated_at": "2026-10-24T23:59:28.971835+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
     },
     "551ad10991720ea0b069d61c": {
@@ -262,6 +264,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:27.312365+00:00",
+  "last_cycle_at": "2026-10-24T23:59:35.903985+00:00",
   "schema_version": 1
 }
