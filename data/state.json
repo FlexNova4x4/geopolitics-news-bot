@@ -21,9 +21,10 @@
     "1f4bee06e2b5fa2cf7ec1b97": {
       "published_at": "2026-10-24T23:49:00+00:00",
       "source": "rss.dw.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10033,
       "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
-      "updated_at": "2026-10-24T23:59:50.541211+00:00",
+      "updated_at": "2026-10-24T23:59:55.903959+00:00",
       "url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-xml-mrss"
     },
     "2f7502d1d5dcda5ebf8cff6a": {
@@ -46,9 +47,10 @@
     "34a74e5845756f13fb70f040": {
       "published_at": "2026-10-24T23:08:16+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10032,
       "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-      "updated_at": "2026-10-24T23:59:50.541196+00:00",
+      "updated_at": "2026-10-24T23:59:52.150385+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -298,6 +300,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:50.541257+00:00",
+  "last_cycle_at": "2026-10-24T23:59:59.104196+00:00",
   "schema_version": 1
 }
