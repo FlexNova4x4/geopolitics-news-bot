@@ -87,6 +87,14 @@
       "updated_at": "2026-10-24T22:52:55.758669+00:00",
       "url": "https://thediplomat.com/2026/10/the-next-chapter-of-africa-china-climate-cooperation"
     },
+    "9b1d1f14a9b8f9bec8a19d49": {
+      "published_at": "2026-10-24T19:12:51+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "filtered",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "updated_at": "2026-10-24T23:59:02.292236+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+    },
     "9d88192a0527d290d8a1c75e": {
       "published_at": "2026-10-23T15:46:00+00:00",
       "source": "Website",
@@ -102,6 +110,22 @@
       "title": "South Korea’s Ruling Democratic Party Is Tumbling in the Polls",
       "updated_at": "2026-10-24T22:37:01.931303+00:00",
       "url": "https://thediplomat.com/2026/10/south-koreas-ruling-democratic-party-is-tumbling-in-the-polls"
+    },
+    "a04f408c43583c8279d8587a": {
+      "published_at": "2026-10-24T18:30:56+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Thousands gather at new Albanian antigovernment rally",
+      "updated_at": "2026-10-24T23:59:02.292214+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss"
+    },
+    "bbe4e89a16c2f35966d008d8": {
+      "published_at": "2026-10-24T19:11:48+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "updated_at": "2026-10-24T23:59:02.292233+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
     },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
@@ -137,6 +161,14 @@
       "updated_at": "2026-10-24T22:36:56.620531+00:00",
       "url": "https://www.youtube.com/watch?v=XZOj6eFnCB0"
     },
+    "f7f51206ecc16baa12f85335": {
+      "published_at": "2026-10-24T19:01:52+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "updated_at": "2026-10-24T23:59:02.292230+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
+    },
     "fdba67a815094e53c43d669e": {
       "published_at": "2026-10-23T14:59:00+00:00",
       "source": "Website",
@@ -147,6 +179,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T22:52:57.070901+00:00",
+  "last_cycle_at": "2026-10-24T23:59:02.292269+00:00",
   "schema_version": 1
 }
