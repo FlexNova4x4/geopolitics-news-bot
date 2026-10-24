@@ -1,5 +1,5 @@
 """Environment-backed configuration for the Geopolitics News Bot."""
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 import os
 
 from dotenv import load_dotenv
@@ -14,6 +14,20 @@ def _int(name: str, default: int, minimum: int = 1) -> int:
         return default
 
 
+
+def _rss_urls() -> list[str]:
+    default = (
+        "https://thediplomat.com/feed/,"
+        "https://indianexpress.com/section/world/feed/,"
+        "https://indianexpress.com/section/explained/explained-global/feed/,"
+        "https://indianexpress.com/section/india/feed/"
+    )
+    configured = os.getenv("WEBSITE_RSS_URLS", "").strip()
+    if not configured:
+        configured = os.getenv("WEBSITE_RSS_URL", default).strip()
+    return [url.strip() for url in configured.split(",") if url.strip()]
+
+
 @dataclass(frozen=True)
 class Settings:
     telegram_bot_token: str = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
@@ -22,7 +36,7 @@ class Settings:
     groq_api_key: str = os.getenv("GROQ_API_KEY", "").strip()
     gemini_model: str = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite").strip()
     groq_model: str = os.getenv("GROQ_MODEL", "qwen/qwen3.8-27b").strip()
-    website_rss_urls: list[str] = [u.strip() for u in (os.getenv("WEBSITE_RSS_URLS", "").strip() or os.getenv("WEBSITE_RSS_URL", "https://thediplomat.com/feed/,https://indianexpress.com/section/world/feed/,https://indianexpress.com/section/explained/explained-global/feed/,https://indianexpress.com/section/india/feed/")).split(",") if u.strip()]
+    website_rss_urls: list[str] = field(default_factory=_rss_urls)
     youtube_channel_id: str = os.getenv("YOUTUBE_CHANNEL_ID", "").strip()
     cycle_minutes: int = _int("CYCLE_MINUTES", 30, 5)
     service_minutes: int = _int("SERVICE_MINUTES", 350, 1)
