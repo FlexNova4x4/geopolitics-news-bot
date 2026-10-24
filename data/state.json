@@ -11,25 +11,25 @@
     "80d1513b974e9b68ccf0d9bb": {
       "published_at": "2026-10-23T17:09:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "send_failed_no_retry",
       "title": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
-      "updated_at": "2026-10-24T22:36:56.620536+00:00",
+      "updated_at": "2026-10-24T22:37:02.457882+00:00",
       "url": "https://thediplomat.com/2026/10/xi-jinping-may-have-his-own-reasons-to-avert-a-china-russia-us-summit"
     },
     "9d88192a0527d290d8a1c75e": {
       "published_at": "2026-10-23T15:46:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "send_failed_no_retry",
       "title": "The China-Taiwan Diplomatic War Is More About Politics Than Economics",
-      "updated_at": "2026-10-24T22:36:56.620539+00:00",
+      "updated_at": "2026-10-24T22:37:02.974901+00:00",
       "url": "https://thediplomat.com/2026/10/the-china-taiwan-diplomatic-war-is-more-about-politics-than-economics"
     },
     "9f6220e20379b9fa65b9674b": {
       "published_at": "2026-10-23T18:05:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "send_failed_no_retry",
       "title": "South Korea’s Ruling Democratic Party Is Tumbling in the Polls",
-      "updated_at": "2026-10-24T22:36:56.620534+00:00",
+      "updated_at": "2026-10-24T22:37:01.931303+00:00",
       "url": "https://thediplomat.com/2026/10/south-koreas-ruling-democratic-party-is-tumbling-in-the-polls"
     },
     "df0599f31410b2f5951a384e": {
@@ -49,6 +49,6 @@
       "url": "https://www.youtube.com/watch?v=XZOj6eFnCB0"
     }
   },
-  "last_cycle_at": "2026-10-24T22:36:56.620559+00:00",
+  "last_cycle_at": "2026-10-24T22:37:02.975330+00:00",
   "schema_version": 1
 }
