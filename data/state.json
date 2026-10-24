@@ -72,9 +72,10 @@
     "62ac872982ab0d91921c6e13": {
       "published_at": "2026-10-24T21:08:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10027,
       "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-      "updated_at": "2026-10-24T23:59:19.369185+00:00",
+      "updated_at": "2026-10-24T23:59:20.979589+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
     },
     "67d1399f3ae7ffec1ecbb2ae": {
@@ -245,6 +246,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:19.369224+00:00",
+  "last_cycle_at": "2026-10-24T23:59:24.179817+00:00",
   "schema_version": 1
 }
