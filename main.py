@@ -20,10 +20,10 @@ def main() -> int:
     duration_minutes = args.duration_minutes or settings.service_minutes
     interval_minutes = args.interval_minutes or settings.cycle_minutes
 
-    print("[startup] Geopolitics News Bot starting (English posts only).")
-    print(f"[startup] Website RSS configured: {'yes' if settings.website_rss_url else 'no'}")
+    print("[startup] Geopolitics News Bot starting (Hindi posts, India-focused analysis).")
+    print(f"[startup] Website RSS configured: {'yes' if settings.website_rss_urls else 'no'}")
     print(f"[startup] YouTube channel configured: {'yes' if settings.youtube_channel_id else 'no'}")
-    print(f"[startup] Cycle={interval_minutes}m; max posts/cycle={settings.max_posts_per_cycle}; service={duration_minutes}m")
+    print(f"[startup] Cycle={interval_minutes}m; all eligible stories per cycle; service={duration_minutes}m")
 
     try:
         state = StateStore(settings.github_repository, settings.github_token,

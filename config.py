@@ -22,11 +22,10 @@ class Settings:
     groq_api_key: str = os.getenv("GROQ_API_KEY", "").strip()
     gemini_model: str = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite").strip()
     groq_model: str = os.getenv("GROQ_MODEL", "qwen/qwen3.8-27b").strip()
-    website_rss_url: str = os.getenv("WEBSITE_RSS_URL", "https://thediplomat.com/feed/").strip()
+    website_rss_urls: list[str] = [u.strip() for u in (os.getenv("WEBSITE_RSS_URLS", "").strip() or os.getenv("WEBSITE_RSS_URL", "https://thediplomat.com/feed/,https://indianexpress.com/section/world/feed/,https://indianexpress.com/section/explained/explained-global/feed/,https://indianexpress.com/section/india/feed/")).split(",") if u.strip()]
     youtube_channel_id: str = os.getenv("YOUTUBE_CHANNEL_ID", "").strip()
     cycle_minutes: int = _int("CYCLE_MINUTES", 30, 5)
     service_minutes: int = _int("SERVICE_MINUTES", 350, 1)
-    max_posts_per_cycle: int = min(6, _int("MAX_POSTS_PER_CYCLE", 6, 1))
     max_item_age_hours: int = _int("MAX_ITEM_AGE_HOURS", 36, 1)
     max_state_items: int = _int("MAX_STATE_ITEMS", 5000, 500)
     github_repository: str = os.getenv("GITHUB_REPOSITORY", "").strip()
@@ -38,5 +37,5 @@ class Settings:
             raise ValueError("Set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID in GitHub Actions Secrets or local .env.")
         if not self.gemini_api_key and not self.groq_api_key:
             raise ValueError("Set at least one AI key: GEMINI_API_KEY or GROQ_API_KEY.")
-        if not self.website_rss_url and not self.youtube_channel_id:
+        if not self.website_rss_urls and not self.youtube_channel_id:
             raise ValueError("Configure at least one source: WEBSITE_RSS_URL or YOUTUBE_CHANNEL_ID.")

@@ -1,4 +1,4 @@
-"""Telegram publisher with duplicate-conscious retry handling."""
+"""Telegram Bot API publisher with FloodWait-aware pacing and duplicate-conscious retries."""
 import time
 import requests
 
@@ -12,25 +12,22 @@ def send_post(bot_token: str, chat_id: str, text: str) -> int:
         text = text[:3850].rsplit(" ", 1)[0] + "…"
 
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    payload = {
-        "chat_id": chat_id,
-        "text": text,
-        "disable_web_page_preview": False,
-    }
+    payload = {"chat_id": chat_id, "text": text, "disable_web_page_preview": False}
 
-    for attempt in range(3):
+    while True:
         try:
             response = requests.post(url, json=payload, timeout=25)
         except requests.RequestException as exc:
+            # Outcome is ambiguous: Telegram may have accepted the message. Do not retry.
             raise TelegramError(
-                "Network timeout; delivery is uncertain. Not retrying."
+                "Network error/timeout; delivery is uncertain, so automatic retry was skipped to avoid duplicates."
             ) from exc
 
         try:
             data = response.json()
         except ValueError as exc:
             raise TelegramError(
-                "Unrecognized Telegram response; not retrying."
+                f"Unreadable Telegram response (HTTP {response.status_code}); delivery is uncertain."
             ) from exc
 
         if response.ok and data.get("ok"):
@@ -39,19 +36,18 @@ def send_post(bot_token: str, chat_id: str, text: str) -> int:
         code = int(data.get("error_code", response.status_code))
         description = str(data.get("description", response.text[:250]))
 
-        # An explicit 429 means Telegram rejected the request for rate limits.
-        if code == 429 and attempt < 2:
-            wait = int(data.get("parameters", {}).get("retry_after", 5))
-            time.sleep(min(max(wait, 1) + 1, 60))
+        if code == 429:
+            # Telegram explicitly rejected this request; retrying after retry_after is safe.
+            retry_after = int(data.get("parameters", {}).get("retry_after", 5))
+            wait_seconds = max(1, retry_after) + 1
+            print(f"[telegram] FloodWait/429. Sleeping {wait_seconds}s before retry. {description}")
+            time.sleep(wait_seconds)
             continue
 
-        # Do not retry ambiguous server errors: Telegram might have accepted it.
         if code >= 500:
+            # Ambiguous delivery; do not retry automatically to avoid duplicate messages.
             raise TelegramError(
-                f"HTTP/API {code}; delivery may be uncertain. "
-                f"Not retrying: {description}"
+                f"Telegram API {code}; delivery may be uncertain, so not retrying: {description}"
             )
 
         raise TelegramError(f"Telegram API {code}: {description}")
-
-    raise TelegramError("Telegram rate limit persisted after retries.")

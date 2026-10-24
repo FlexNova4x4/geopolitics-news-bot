@@ -1,13 +1,18 @@
 # Geopolitics News Bot (English)
 
-A small Python bot that reads **one geopolitical news RSS feed** and optionally **one YouTube channel RSS feed**, filters duplicates, prepares concise English posts with Gemini and falls back to Groq, then sends individual posts to one Telegram group.
+A small Python bot that reads **The Diplomat plus Indian Express RSS feeds** and optionally **one YouTube channel RSS feed**, filters duplicates, prepares concise English posts with Gemini and falls back to Groq, then sends individual posts to one Telegram group.
 
 ## What it does
 
 - Checks configured sources every 30 minutes.
+- Processes every newly eligible story exposed by the configured RSS feeds; there is no fixed cap of 6 or 10 posts per cycle. AI calls are split into internal batches of 4 stories (configurable) for token control.
+- Telegram group sends are spaced 3.2 seconds apart and explicit HTTP 429 responses are retried after Telegram's `retry_after` wait. Network/5xx outcomes are not retried automatically because delivery may be ambiguous.
+- Reads The Diplomat's all-site RSS plus Indian Express World, Explained Global, and India RSS feeds. The RSS publisher decides which recent entries are available; no feed guarantees a fixed daily story count.
+- Keeps only stories published on the current calendar date in Asia/Kolkata; undated entries and previous-day stories are skipped. Oldest eligible stories are processed first, all separate Telegram posts for eligible stories, without a fixed per-cycle post cap, to drain today's backlog without flooding AI requests.
+- Includes a publication timestamp, geographic region, topic labels/hashtags, source link, and India-relevance analysis in each post.
 - Reads website RSS and only fetches article pages when the site's `robots.txt` permits it.
 - Reads YouTube channel RSS metadata (video title, description, publication time and link). It does **not** download videos or scrape transcripts; the AI is instructed not to infer video contents from a title alone.
-- Sends at most 6 individual posts per check, and sends fewer when fewer new eligible stories exist.
+- Sends every new eligible story exposed by the configured feeds; there is no fixed 6-post cap per 30-minute cycle. AI calls use small internal batches (default 4 stories/request) to manage token usage. Telegram messages are spaced 3.2 seconds apart and explicit 429 FloodWait responses are retried after Telegram's retry_after delay.
 - Makes one AI request per batch when possible, rather than one request for every story.
 - Tries Gemini first (`gemini-3.5-flash-lite`), then Groq (`qwen/qwen3.8-27b`) if the Gemini call fails. Each provider still has its own quota and model availability limits.
 - Keeps a durable deduplication state in the `bot-state` GitHub branch when running in Actions; local runs use `data/state.local.json`.
@@ -43,7 +48,7 @@ The bot state is committed to the separate `bot-state` branch through the workfl
    - `GEMINI_API_KEY`
    - `GROQ_API_KEY`
 3. Open **Settings → Secrets and variables → Actions → Variables** and optionally add:
-   - `WEBSITE_RSS_URL` — defaults to The Diplomat RSS: `https://thediplomat.com/feed/`
+   - `WEBSITE_RSS_URLS` — defaults to The Diplomat RSS: `https://thediplomat.com/feed/,https://indianexpress.com/section/world/feed/,https://indianexpress.com/section/explained/explained-global/feed/,https://indianexpress.com/section/india/feed/`
    - `YOUTUBE_CHANNEL_ID` — channel ID normally beginning with `UC`; leave blank until you choose the one channel
    - `GEMINI_MODEL` — defaults to `gemini-3.5-flash-lite`
    - `GROQ_MODEL` — defaults to `qwen/qwen3.8-27b`

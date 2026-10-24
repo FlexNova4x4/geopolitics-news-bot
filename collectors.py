@@ -8,8 +8,11 @@ from __future__ import annotations
 import calendar
 import hashlib
 import html
+import os
 import re
 import time
+from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 from urllib.robotparser import RobotFileParser
@@ -59,8 +62,39 @@ def _published(entry) -> tuple[str, float]:
         ts = calendar.timegm(parsed)
         dt = datetime.fromtimestamp(ts, tz=timezone.utc)
         return dt.isoformat(), ts
-    raw = entry.get("published") or entry.get("updated") or ""
-    return str(raw), time.time()
+
+    raw = str(entry.get("published") or entry.get("updated") or "").strip()
+    if raw:
+        try:
+            dt = parsedate_to_datetime(raw)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            ts = dt.timestamp()
+            return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat(), ts
+        except (TypeError, ValueError, OverflowError):
+            try:
+                dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                ts = dt.timestamp()
+                return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat(), ts
+            except (TypeError, ValueError, OverflowError):
+                pass
+
+    # Never pretend an undated item is new; that can replay old articles after restarts.
+    return raw, 0.0
+
+
+def _today_start_ts() -> float:
+    """Today's midnight in NEWS_TIMEZONE (Asia/Kolkata by default), as UTC epoch."""
+    zone_name = os.getenv("NEWS_TIMEZONE", "Asia/Kolkata").strip() or "Asia/Kolkata"
+    try:
+        zone = ZoneInfo(zone_name)
+    except Exception:
+        zone = ZoneInfo("Asia/Kolkata")
+    now_local = datetime.now(zone)
+    midnight = now_local.replace(hour=0, minute=0, second=0, microsecond=0)
+    return midnight.astimezone(timezone.utc).timestamp()
 
 
 def _robots_allows(url: str) -> bool:
@@ -118,28 +152,58 @@ def _parse_feed(url: str, source: str, max_age_hours: int) -> list[Story]:
         return []
 
     now = time.time()
+    today_start_ts = _today_start_ts()
     stories: list[Story] = []
-    for entry in parsed.entries[:30]:
+    for entry in parsed.entries:
         link = str(entry.get("link", "")).strip()
         title = clean_html(str(entry.get("title", "")))
         if not link or not title:
             continue
+
         published_at, published_ts = _published(entry)
+        # Today's India-date only: do not publish 23 October or other previous-day items.
+        if published_ts <= 0 or published_ts < today_start_ts:
+            continue
+        if published_ts > now + 15 * 60:
+            continue
         if now - published_ts > max_age_hours * 3600:
             continue
+
         summary = clean_html(str(entry.get("summary", "") or entry.get("description", "")))[:2500]
-        # Fetch only feed metadata at collection time. The engine enriches only the
-        # few new candidates selected for this cycle, avoiding repeated article reads.
+        source_tags = []
+        for tag in entry.get("tags", []) or []:
+            if isinstance(tag, dict):
+                value = clean_html(str(tag.get("term") or tag.get("label") or ""))
+                if value and value.lower() not in {x.lower() for x in source_tags}:
+                    source_tags.append(value[:80])
         key = story_key(link, title)
-        stories.append(Story(key, source, title, normalize_url(link), published_at,
-                             published_ts, summary, summary))
-    return sorted(stories, key=lambda story: story.published_ts, reverse=True)
+        stories.append(Story(
+            key, source, title, normalize_url(link), published_at, published_ts,
+            summary, summary, source_tags[:12],
+        ))
+    # Oldest-first ensures all newly eligible articles are processed in publication order.
+    return sorted(stories, key=lambda story: story.published_ts)
 
 
-def collect_sources(website_rss_url: str, youtube_channel_id: str, max_age_hours: int) -> list[Story]:
+def _source_label(url: str) -> str:
+    host = (urlparse(url).hostname or "").lower().removeprefix("www.")
+    if host.endswith("thediplomat.com"):
+        return "The Diplomat"
+    if host.endswith("indianexpress.com"):
+        return "The Indian Express"
+    return host or "Website"
+
+
+def collect_sources(website_rss_urls: list[str] | str, youtube_channel_id: str, max_age_hours: int) -> list[Story]:
     all_stories: list[Story] = []
-    if website_rss_url:
-        all_stories.extend(_parse_feed(website_rss_url, "Website", max_age_hours))
+    if isinstance(website_rss_urls, str):
+        website_urls = [url.strip() for url in website_rss_urls.split(",") if url.strip()]
+    else:
+        website_urls = [str(url).strip() for url in website_rss_urls if str(url).strip()]
+
+    for feed_url in website_urls:
+        all_stories.extend(_parse_feed(feed_url, _source_label(feed_url), max_age_hours))
+
     if youtube_channel_id:
         channel_id = youtube_channel_id.strip()
         if channel_id.startswith("UC"):
@@ -147,16 +211,18 @@ def collect_sources(website_rss_url: str, youtube_channel_id: str, max_age_hours
             all_stories.extend(_parse_feed(yt_url, "YouTube", max_age_hours))
         else:
             print("[collector] YOUTUBE_CHANNEL_ID must be the channel ID (normally starts with UC). Skipping YouTube for this cycle.")
+
     # Dedupe within this collection by normalized URL/key.
     unique: dict[str, Story] = {}
     for story in all_stories:
         unique.setdefault(story.key, story)
-    return sorted(unique.values(), key=lambda story: story.published_ts, reverse=True)
+    # Oldest-first lets each 30-minute cycle process every newly eligible item without a fixed post cap.
+    return sorted(unique.values(), key=lambda story: story.published_ts)
 
 
 def enrich_story(story: Story) -> Story:
     """Fetch a website article body only for a newly selected story, respecting robots.txt."""
-    if story.source == "Website" and story.url.startswith(("https://", "http://")):
+    if story.source != "YouTube" and story.url.startswith(("https://", "http://")):
         body = _article_text(story.url)
         if body:
             story.content = body
