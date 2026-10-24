@@ -122,9 +122,10 @@
     "bbe4e89a16c2f35966d008d8": {
       "published_at": "2026-10-24T19:11:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10025,
       "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-      "updated_at": "2026-10-24T23:59:02.292233+00:00",
+      "updated_at": "2026-10-24T23:59:03.924944+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
     },
     "d293915be054fcbc4e578f87": {
@@ -179,6 +180,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:02.292269+00:00",
+  "last_cycle_at": "2026-10-24T23:59:07.125186+00:00",
   "schema_version": 1
 }
