@@ -1,5 +1,13 @@
 {
   "items": {
+    "04b0f0953fbbaa43cc19de9e": {
+      "published_at": "2026-10-24T19:33:00+00:00",
+      "source": "rss.dw.com",
+      "status": "reserved",
+      "title": "Ukraine: Starlink satellite speeds restored to normal",
+      "updated_at": "2026-10-24T23:59:10.577018+00:00",
+      "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
+    },
     "32c983b7e11bcff8fc05449d": {
       "published_at": "2026-10-23T13:18:00+00:00",
       "source": "Website",
@@ -70,6 +78,22 @@
       "updated_at": "2026-10-24T22:47:15.509558+00:00",
       "url": "https://thediplomat.com/2026/10/what-states-make-of-military-exercises-ulchi-and-beyond"
     },
+    "6a7b3fd69ceb0551ff4a4945": {
+      "published_at": "2026-10-24T20:03:29+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "updated_at": "2026-10-24T23:59:10.577038+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
+    },
+    "75158c1834e1c18ed588fa82": {
+      "published_at": "2026-10-24T20:37:02+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "updated_at": "2026-10-24T23:59:10.577041+00:00",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
+    },
     "80d1513b974e9b68ccf0d9bb": {
       "published_at": "2026-10-23T17:09:00+00:00",
       "source": "Website",
@@ -137,6 +161,14 @@
       "updated_at": "2026-10-24T22:47:14.918839+00:00",
       "url": "https://thediplomat.com/2026/10/with-strict-agendas-and-silent-corridors-kazakhstans-kurultai-is-muzzling-the-press"
     },
+    "d58590effe1c443fb536bca4": {
+      "published_at": "2026-10-24T19:37:35+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "filtered",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "updated_at": "2026-10-24T23:59:10.577035+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+    },
     "df0599f31410b2f5951a384e": {
       "published_at": "2026-10-23T16:16:07+00:00",
       "source": "YouTube",
@@ -180,6 +212,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:07.125186+00:00",
+  "last_cycle_at": "2026-10-24T23:59:10.577076+00:00",
   "schema_version": 1
 }
