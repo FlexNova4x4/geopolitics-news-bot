@@ -3,9 +3,10 @@
     "3deb5ef23a745550ea5ecfc5": {
       "published_at": "2026-10-23T14:17:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10018,
       "title": "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang",
-      "updated_at": "2026-10-24T22:47:12.523493+00:00",
+      "updated_at": "2026-10-24T22:47:16.072650+00:00",
       "url": "https://thediplomat.com/2026/10/karakoram-2026-inside-china-pakistan-joint-military-training-in-xinjiang"
     },
     "551ad10991720ea0b069d61c": {
@@ -27,9 +28,10 @@
     "69ed75e6ee354f52f12f4df9": {
       "published_at": "2026-10-23T14:42:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10017,
       "title": "What States Make of Military Exercises: Ulchi and Beyond",
-      "updated_at": "2026-10-24T22:47:12.523490+00:00",
+      "updated_at": "2026-10-24T22:47:15.509558+00:00",
       "url": "https://thediplomat.com/2026/10/what-states-make-of-military-exercises-ulchi-and-beyond"
     },
     "80d1513b974e9b68ccf0d9bb": {
@@ -59,9 +61,10 @@
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10016,
       "title": "With Strict Agendas and Silent Corridors Kazakhstan’s Kurultai Is Muzzling the Press",
-      "updated_at": "2026-10-24T22:47:12.523487+00:00",
+      "updated_at": "2026-10-24T22:47:14.918839+00:00",
       "url": "https://thediplomat.com/2026/10/with-strict-agendas-and-silent-corridors-kazakhstans-kurultai-is-muzzling-the-press"
     },
     "df0599f31410b2f5951a384e": {
@@ -75,9 +78,10 @@
     "ebe36ea7d3528c57697ce421": {
       "published_at": "2026-10-23T13:28:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10019,
       "title": "Japan Needs Higher Interest Rates",
-      "updated_at": "2026-10-24T22:47:12.523497+00:00",
+      "updated_at": "2026-10-24T22:47:16.636863+00:00",
       "url": "https://thediplomat.com/2026/10/japan-needs-higher-interest-rates"
     },
     "f719c2e59baa960efe4b3af5": {
@@ -91,12 +95,13 @@
     "fdba67a815094e53c43d669e": {
       "published_at": "2026-10-23T14:59:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10015,
       "title": "South China Sea Code of Conduct: A Deal Is Not Enough",
-      "updated_at": "2026-10-24T22:47:12.523472+00:00",
+      "updated_at": "2026-10-24T22:47:14.348366+00:00",
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T22:47:12.523523+00:00",
+  "last_cycle_at": "2026-10-24T22:47:16.636925+00:00",
   "schema_version": 1
 }
