@@ -1,0 +1,52 @@
+name: Geopolitics News Bot
+
+on:
+  schedule:
+    # Start every 6 hours, outside the top of the hour to reduce GitHub schedule congestion.
+    # Each job runs for 5h50m, leaving a 10-minute gap before the next scheduled session.
+    - cron: "13 0,6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: geopolitics-news-bot
+  cancel-in-progress: false
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: Checkout public source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
+
+      - name: Run the 5h50m service window
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL || 'qwen/qwen3.8-27b' }}
+          WEBSITE_RSS_URL: ${{ vars.WEBSITE_RSS_URL || 'https://thediplomat.com/feed/' }}
+          YOUTUBE_CHANNEL_ID: ${{ vars.YOUTUBE_CHANNEL_ID || '' }}
+          CYCLE_MINUTES: "30"
+          SERVICE_MINUTES: "350"
+          MAX_POSTS_PER_CYCLE: "6"
+          MAX_ITEM_AGE_HOURS: "36"
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATE_BRANCH: bot-state
+        run: python main.py --duration-minutes 350 --interval-minutes 30
