@@ -1,5 +1,54 @@
 {
-  "schema_version": 1,
-  "items": {},
-  "last_cycle_at": null
+  "items": {
+    "551ad10991720ea0b069d61c": {
+      "published_at": "2026-10-24T14:13:25+00:00",
+      "source": "YouTube",
+      "status": "filtered",
+      "title": "MONEY FROM INDIA, DEFENCE PACT WITH PAKISTAN! Maldives Signs 20 MoUs; India Sends Warships | Kinjal",
+      "updated_at": "2026-10-24T22:36:56.620517+00:00",
+      "url": "https://www.youtube.com/watch?v=ZumvuSjM_0Q"
+    },
+    "80d1513b974e9b68ccf0d9bb": {
+      "published_at": "2026-10-23T17:09:00+00:00",
+      "source": "Website",
+      "status": "reserved",
+      "title": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
+      "updated_at": "2026-10-24T22:36:56.620536+00:00",
+      "url": "https://thediplomat.com/2026/10/xi-jinping-may-have-his-own-reasons-to-avert-a-china-russia-us-summit"
+    },
+    "9d88192a0527d290d8a1c75e": {
+      "published_at": "2026-10-23T15:46:00+00:00",
+      "source": "Website",
+      "status": "reserved",
+      "title": "The China-Taiwan Diplomatic War Is More About Politics Than Economics",
+      "updated_at": "2026-10-24T22:36:56.620539+00:00",
+      "url": "https://thediplomat.com/2026/10/the-china-taiwan-diplomatic-war-is-more-about-politics-than-economics"
+    },
+    "9f6220e20379b9fa65b9674b": {
+      "published_at": "2026-10-23T18:05:00+00:00",
+      "source": "Website",
+      "status": "reserved",
+      "title": "South Korea’s Ruling Democratic Party Is Tumbling in the Polls",
+      "updated_at": "2026-10-24T22:36:56.620534+00:00",
+      "url": "https://thediplomat.com/2026/10/south-koreas-ruling-democratic-party-is-tumbling-in-the-polls"
+    },
+    "df0599f31410b2f5951a384e": {
+      "published_at": "2026-10-23T16:16:07+00:00",
+      "source": "YouTube",
+      "status": "filtered",
+      "title": "ZELENSKY ACCEPTS DEFEAT? Trump Dumps Ukraine for Putin | Melania Oleshky Ceasefire, India | Kinjal",
+      "updated_at": "2026-10-24T22:36:56.620537+00:00",
+      "url": "https://www.youtube.com/watch?v=AaCjss6WHw8"
+    },
+    "f719c2e59baa960efe4b3af5": {
+      "published_at": "2026-10-24T07:53:40+00:00",
+      "source": "YouTube",
+      "status": "filtered",
+      "title": "INDIA’S BRAHMOS & ASTRA AT RISK: Indonesia Can Leak Missile Tech to Pakistan via Badr Pact? | Kinjal",
+      "updated_at": "2026-10-24T22:36:56.620531+00:00",
+      "url": "https://www.youtube.com/watch?v=XZOj6eFnCB0"
+    }
+  },
+  "last_cycle_at": "2026-10-24T22:36:56.620559+00:00",
+  "schema_version": 1
 }
