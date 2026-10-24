@@ -3,17 +3,19 @@
     "32c983b7e11bcff8fc05449d": {
       "published_at": "2026-10-23T13:18:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10020,
       "title": "TenPayGo and China’s Digital Opening to Foreigners",
-      "updated_at": "2026-10-24T22:52:52.808185+00:00",
+      "updated_at": "2026-10-24T22:52:54.734274+00:00",
       "url": "https://thediplomat.com/2026/10/tenpaygo-and-chinas-digital-opening-to-foreigners"
     },
     "3af44a52fcd33ca6e3248004": {
       "published_at": "2026-10-23T11:08:38+00:00",
       "source": "YouTube",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10024,
       "title": "INDIA-CHINA FACE-OFF IN ARUNACHAL: ITBP Chief Confirms, Shaurya Commandos Push PLA Back | Kinjal",
-      "updated_at": "2026-10-24T22:52:52.808208+00:00",
+      "updated_at": "2026-10-24T22:52:57.070828+00:00",
       "url": "https://www.youtube.com/watch?v=eivRR5HFKqE"
     },
     "3deb5ef23a745550ea5ecfc5": {
@@ -44,17 +46,19 @@
     "5c4349ed93fa8b75fd8fbee4": {
       "published_at": "2026-10-23T12:13:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10023,
       "title": "Rubio’s Unusual Visit to India Marks a Paradigm Shift in India-US Ties",
-      "updated_at": "2026-10-24T22:52:52.808206+00:00",
+      "updated_at": "2026-10-24T22:52:56.309431+00:00",
       "url": "https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties"
     },
     "67d1399f3ae7ffec1ecbb2ae": {
       "published_at": "2026-10-23T12:41:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10021,
       "title": "Xi’s Military Purges Make US Deterrence More Urgent",
-      "updated_at": "2026-10-24T22:52:52.808201+00:00",
+      "updated_at": "2026-10-24T22:52:55.258004+00:00",
       "url": "https://thediplomat.com/2026/10/xis-military-purges-make-us-deterrence-more-urgent"
     },
     "69ed75e6ee354f52f12f4df9": {
@@ -77,9 +81,10 @@
     "85b13889261ddb1c19a1f5fe": {
       "published_at": "2026-10-23T12:38:00+00:00",
       "source": "Website",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10022,
       "title": "The Next Chapter of Africa-China Climate Cooperation",
-      "updated_at": "2026-10-24T22:52:52.808204+00:00",
+      "updated_at": "2026-10-24T22:52:55.758669+00:00",
       "url": "https://thediplomat.com/2026/10/the-next-chapter-of-africa-china-climate-cooperation"
     },
     "9d88192a0527d290d8a1c75e": {
@@ -142,6 +147,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T22:52:52.808236+00:00",
+  "last_cycle_at": "2026-10-24T22:52:57.070901+00:00",
   "schema_version": 1
 }
