@@ -49,4 +49,4 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           STATE_BRANCH: bot-state
-        run: python main.py --duration-minutes 350 --interval-minutes 30
+        run: python -u main.py --duration-minutes 350 --interval-minutes 30
