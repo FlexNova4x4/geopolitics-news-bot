@@ -56,9 +56,10 @@
     "3fcd6f10560124f915c94c5a": {
       "published_at": "2026-10-24T23:02:06+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10031,
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "updated_at": "2026-10-24T23:59:38.869435+00:00",
+      "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
     "4a067e46333580ef31d07718": {
@@ -190,9 +191,10 @@
     "a2b868bf8a4831b551cd6e0b": {
       "published_at": "2026-10-24T22:08:47+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10030,
       "title": "Who are the candidates in Brazil's presidential election?",
-      "updated_at": "2026-10-24T23:59:38.869421+00:00",
+      "updated_at": "2026-10-24T23:59:40.444527+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
     },
     "aba0ba17c15dbef6d9f7f677": {
@@ -280,6 +282,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:38.869478+00:00",
+  "last_cycle_at": "2026-10-24T23:59:47.379295+00:00",
   "schema_version": 1
 }
