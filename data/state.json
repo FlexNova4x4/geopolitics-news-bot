@@ -9,6 +9,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "2f7502d1d5dcda5ebf8cff6a": {
+      "published_at": "2026-10-24T21:02:55+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Train slams into crane that collapsed onto railway line in Brazil",
+      "updated_at": "2026-10-24T23:59:19.369182+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss"
+    },
     "32c983b7e11bcff8fc05449d": {
       "published_at": "2026-10-23T13:18:00+00:00",
       "source": "Website",
@@ -60,6 +68,14 @@
       "title": "Rubio’s Unusual Visit to India Marks a Paradigm Shift in India-US Ties",
       "updated_at": "2026-10-24T22:52:56.309431+00:00",
       "url": "https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties"
+    },
+    "62ac872982ab0d91921c6e13": {
+      "published_at": "2026-10-24T21:08:51+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "updated_at": "2026-10-24T23:59:19.369185+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
     },
     "67d1399f3ae7ffec1ecbb2ae": {
       "published_at": "2026-10-23T12:41:00+00:00",
@@ -144,6 +160,14 @@
       "updated_at": "2026-10-24T23:59:02.292214+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss"
     },
+    "aba0ba17c15dbef6d9f7f677": {
+      "published_at": "2026-10-24T20:52:55+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Severe hunger stalks people in Gaza as bakeries close down",
+      "updated_at": "2026-10-24T23:59:19.369179+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss"
+    },
     "bbe4e89a16c2f35966d008d8": {
       "published_at": "2026-10-24T19:11:48+00:00",
       "source": "aljazeera.com",
@@ -152,6 +176,14 @@
       "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
       "updated_at": "2026-10-24T23:59:03.924944+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
+    },
+    "c0a0ccf8c248421b74d84a78": {
+      "published_at": "2026-10-24T20:39:08+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Violent clashes as Albanian government cracks down on protests",
+      "updated_at": "2026-10-24T23:59:19.369164+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
     },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
@@ -213,6 +245,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:16.081772+00:00",
+  "last_cycle_at": "2026-10-24T23:59:19.369224+00:00",
   "schema_version": 1
 }
