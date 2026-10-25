@@ -952,6 +952,14 @@
       "updated_at": "2026-10-25T06:34:53.310221+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
     },
+    "37a56c5e2966e74e495c5811": {
+      "published_at": "2026-10-25T18:55:39+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+      "updated_at": "2026-10-25T19:12:30.693884+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    },
     "386a2aa773ec9dd15c86253e": {
       "published_at": "2026-10-25T07:34:00+00:00",
       "source": "hindustantimes.com",
@@ -1686,6 +1694,14 @@
       "title": "Akhilesh Yadav's effigy burnt in Haldwani after row over ‘infiltrator’ remark against Uttarakhand people",
       "updated_at": "2026-10-25T15:12:24.794914+00:00",
       "url": "https://www.hindustantimes.com/india-news/akhileshs-effigy-burnt-in-haldwani-after-row-over-infiltrator-remark-against-uttarakhand-people-101792929935825.html"
+    },
+    "64bb329b19abcb6e715f5cc4": {
+      "published_at": "2026-10-25T18:37:31+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Collegium decisions unanimous, says ex-CJI Chandrachud",
+      "updated_at": "2026-10-25T19:12:30.693877+00:00",
+      "url": "https://www.hindustantimes.com/india-news/justice-lalit-changed-case-listing-approach-as-cji-says-justice-kaul-101792953451949.html"
     },
     "65053c0b0bf5eaa367864d8d": {
       "published_at": "2026-10-25T14:39:47+00:00",
@@ -2723,6 +2739,14 @@
       "title": "More Lula, or back to the Bolsonaros? Brazil votes in cliffhanger",
       "updated_at": "2026-10-25T05:40:02.473715+00:00",
       "url": "https://www.thehindu.com/news/international/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger/article71622490.ece"
+    },
+    "a5b20317fcda667d50feb840": {
+      "published_at": "2026-10-25T18:42:45+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Uttar Pradesh CEO orders reverification of all forms submitted through computer operators",
+      "updated_at": "2026-10-25T19:12:30.693881+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece"
     },
     "a64835e6eaad02a31722902d": {
       "published_at": "2026-10-25T05:33:10+00:00",
@@ -4023,6 +4047,14 @@
       "updated_at": "2026-10-25T07:05:07.182384+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-vanni-arasu-reviews-monsoon-preparedness-in-villupuram/article71622629.ece"
     },
+    "f9dd08526927395b333cca00": {
+      "published_at": "2026-10-25T18:34:19+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+      "updated_at": "2026-10-25T19:12:30.693861+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss"
+    },
     "f9e2e6b3702535ba7f4a91b3": {
       "published_at": "2026-10-25T15:32:51+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4176,6 +4208,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:41:40.379949+00:00",
+  "last_cycle_at": "2026-10-25T19:12:30.694511+00:00",
   "schema_version": 1
 }
