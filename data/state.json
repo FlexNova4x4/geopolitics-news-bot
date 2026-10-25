@@ -408,9 +408,10 @@
     "1cc15881eea0f528d98c3672": {
       "published_at": "2026-10-25T15:21:26+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10395,
       "title": "Thousands mourn victims of deadly Jordan church attack",
-      "updated_at": "2026-10-25T16:14:50.284115+00:00",
+      "updated_at": "2026-10-25T16:14:52.489118+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
     },
     "1f4bee06e2b5fa2cf7ec1b97": {
@@ -702,9 +703,10 @@
     "2fc9182cfe3c596ec571b8b6": {
       "published_at": "2026-10-25T15:23:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10396,
       "title": "Keralam police inspector suspended over woman’s allegation of promise to marry",
-      "updated_at": "2026-10-25T16:14:50.284133+00:00",
+      "updated_at": "2026-10-25T16:14:56.445044+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-police-inspector-suspended-over-womans-allegation-of-promise-to-marry/article71623884.ece"
     },
     "2fd3d586b7968cece97a8173": {
@@ -881,9 +883,10 @@
     "3c497751b4196702db1904df": {
       "published_at": "2026-10-25T15:23:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10398,
       "title": "Ghulam Nabi Azad, Altaf Thakur flay Farooq Abdullah’s remarks on Pakistan as ‘Kashmir’s saviour’",
-      "updated_at": "2026-10-25T16:14:50.284144+00:00",
+      "updated_at": "2026-10-25T16:15:04.481562+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ghulam-nabi-azad-altaf-thakur-flay-farooqabdullahs-remarks-on-pakistan-as-kashmirs-saviour/article71623853.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -3197,9 +3200,10 @@
     "ec14316aecc5793351e25bbe": {
       "published_at": "2026-10-25T15:23:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10397,
       "title": "Kakinada, East Godavari districts step up cyclone preparedness",
-      "updated_at": "2026-10-25T16:14:50.284139+00:00",
+      "updated_at": "2026-10-25T16:15:00.373938+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-east-godavari-districts-step-up-cyclone-preparedness/article71623978.ece"
     },
     "ee273e8d6d2effa2e3171640": {
@@ -3524,6 +3528,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:14:50.284779+00:00",
+  "last_cycle_at": "2026-10-25T16:15:07.682671+00:00",
   "schema_version": 1
 }
