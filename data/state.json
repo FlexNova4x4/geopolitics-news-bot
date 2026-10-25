@@ -252,6 +252,14 @@
       "updated_at": "2026-10-25T07:34:34.503550+00:00",
       "url": "https://www.hindustantimes.com/india-news/we-cannot-remain-helpless-spectators-jaishankar-presses-on-dialogue-and-diplomacy-amid-wars-in-west-asia-ukraine-101792911167963.html"
     },
+    "0e95f80adfdd1d3b92c27851": {
+      "published_at": "2026-10-25T17:53:23+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "US and Israel elections: New leaders, same policies?",
+      "updated_at": "2026-10-25T18:14:20.577867+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
+    },
     "0eabb853ee40d8249aec4ccd": {
       "published_at": "2026-10-24T19:18:46+00:00",
       "source": "thehindu.com",
@@ -1221,6 +1229,14 @@
       "title": "Foot marches held across district ahead of elections",
       "updated_at": "2026-10-25T05:41:25.001668+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-foot-marches-in-sensitive-areas-in-andhra-pradesh/article71622525.ece"
+    },
+    "48acc4d59e98dcd9e457b0cf": {
+      "published_at": "2026-10-25T17:44:41+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Mumbai Police detains 25, including comedian Masoom Rajwani, over candle march for IIT Bombay suicide victim",
+      "updated_at": "2026-10-25T18:14:20.577852+00:00",
+      "url": "https://www.hindustantimes.com/india-news/mumbai-police-detains-25-including-comedian-masoom-rajwani-over-candle-march-for-iit-bombay-suicide-victim-101792949307131.html"
     },
     "48dbfdd4de2907130813dd72": {
       "published_at": "2026-10-25T04:06:16+00:00",
@@ -2232,6 +2248,14 @@
       "title": "Beyond national interest: role of ethics and emotions in world politics",
       "updated_at": "2026-10-25T17:13:31.076818+00:00",
       "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece"
+    },
+    "87837867cfa1c31a96738fb2": {
+      "published_at": "2026-10-25T17:53:31+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "6 arrested, over 1,400 bank accounts frozen in Manipur, Mizoram as ED busts cross-border ‘narco-hawala’ scam",
+      "updated_at": "2026-10-25T18:14:20.577870+00:00",
+      "url": "https://www.hindustantimes.com/india-news/6-arrested-over-1-400-bank-accounts-seized-in-manipur-mizoram-as-ed-busts-cross-border-narco-hawala-scam-101792949971320.html"
     },
     "8805445d4dc8a6f6155ccd33": {
       "published_at": "2026-10-25T02:22:19+00:00",
@@ -3468,6 +3492,14 @@
       "updated_at": "2026-10-25T17:12:13.103401+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/well-planned-dasara-boosts-mysuru-tourism-lakshman/article71624014.ece"
     },
+    "db9673288de97ba705ae50ff": {
+      "published_at": "2026-10-25T18:02:35+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "19 candidates in fray for VMC Mayor’s post",
+      "updated_at": "2026-10-25T18:14:20.577873+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/19-candidates-in-fray-for-vmc-mayors-post/article71624110.ece"
+    },
     "dbb0b52c0936cf87cf620ae9": {
       "published_at": "2026-10-25T05:33:41+00:00",
       "source": "aljazeera.com",
@@ -4113,6 +4145,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:14:15.543941+00:00",
+  "last_cycle_at": "2026-10-25T18:14:20.578403+00:00",
   "schema_version": 1
 }
