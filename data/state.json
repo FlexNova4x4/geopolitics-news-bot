@@ -126,6 +126,14 @@
       "updated_at": "2026-10-25T07:34:26.496118+00:00",
       "url": "https://www.hindustantimes.com/india-news/17yearold-in-mercedes-benz-rams-scooter-in-kochi-killing-55-year-old-street-food-vendor-101792911143816.html"
     },
+    "0b39f1cd6a335de9b5360408": {
+      "published_at": "2026-10-25T10:39:18+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Telangana’s H1 revenue below expectations as expenditure remains high",
+      "updated_at": "2026-10-25T11:04:22.574375+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telanganas-h1-revenue-below-expectations-as-expenditure-remains-high/article71622829.ece"
+    },
     "0b7a7abdb90c68a961048592": {
       "published_at": "2026-10-25T02:25:55+00:00",
       "source": "dawn.com",
@@ -1153,6 +1161,14 @@
       "updated_at": "2026-10-25T05:37:35.871400+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
     },
+    "81f3c1491a3f03128e98de7b": {
+      "published_at": "2026-10-25T10:29:07+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'Looted wealth in Lord Ram's name': Kharge targets BJP over Ayodhya temple fund theft case",
+      "updated_at": "2026-10-25T11:04:22.574357+00:00",
+      "url": "https://www.hindustantimes.com/india-news/looted-wealth-in-lord-rams-name-kharge-targets-bjp-over-ayodhya-temple-fund-theft-case-101792923957003.html"
+    },
     "83a1ffacabe7c1272dc6457f": {
       "published_at": "2026-10-25T02:07:29+00:00",
       "source": "aljazeera.com",
@@ -1410,6 +1426,14 @@
       "updated_at": "2026-10-25T05:39:45.079255+00:00",
       "url": "https://www.thehindu.com/news/international/military-ups-death-toll-in-mali-attack-to-54/article71622485.ece"
     },
+    "a4b2d6578e450babafb00268": {
+      "published_at": "2026-10-25T10:33:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Heavy rain lashes Puducherry",
+      "updated_at": "2026-10-25T11:04:22.574373+00:00",
+      "url": "https://www.thehindu.com/news/cities/puducherry/heavy-rain-lashes-puducherry/article71622916.ece"
+    },
     "a506a69459cf8c8e4ee3d549": {
       "published_at": "2026-10-25T03:33:25+00:00",
       "source": "thehindu.com",
@@ -1454,6 +1478,14 @@
       "title": "Five IPOs to open next week; companies eye close to ₹2,600 crore",
       "updated_at": "2026-10-25T10:04:51.935472+00:00",
       "url": "https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece"
+    },
+    "a7efd346b673dc8f4f1151ac": {
+      "published_at": "2026-10-25T10:42:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Electricity Employees’ Federation of India cry foul over delay in issuing work order for Phase II of smart metering in Keralam",
+      "updated_at": "2026-10-25T11:04:22.574377+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/electricity-employees-federation-of-india-cry-foul-over-delay-in-issuing-work-order-for-phase-ii-of-smart-metering-in-keralam/article71622809.ece"
     },
     "a88b3d03ee9856d2bd56a75a": {
       "published_at": "2026-10-24T23:03:09+00:00",
@@ -2169,6 +2201,6 @@
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T10:34:56.718455+00:00",
+  "last_cycle_at": "2026-10-25T11:04:22.574675+00:00",
   "schema_version": 1
 }
