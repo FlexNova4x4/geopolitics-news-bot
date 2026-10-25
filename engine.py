@@ -179,26 +179,54 @@ def run_cycle(settings, state_store) -> dict:
         lookup = {story.key: story for story in batch}
         approved = {}
         resolved_keys = set()
-        for item in ai_items:
-            if not isinstance(item, dict):
-                continue
-            key = str(item.get("id", ""))
-            if key not in lookup:
+        ai_dicts = [item for item in ai_items if isinstance(item, dict)]
+        matched_by_id = {}
+        for item in ai_dicts:
+            key = str(item.get("id", "")).strip()
+            if key in lookup and key not in matched_by_id:
+                matched_by_id[key] = item
+
+        # Some model responses contain complete posts but accidentally alter/omit IDs.
+        # Only use response-order mapping when NO IDs match and the model returned
+        # exactly one dictionary per input story, as requested by the prompt.
+        used_order_fallback = False
+        if not matched_by_id and len(ai_dicts) == len(batch):
+            matched_by_id = {story.key: item for story, item in zip(batch, ai_dicts)}
+            used_order_fallback = True
+            print("[cycle] AI IDs did not match; safely mapping the complete response by input order.")
+
+        matched_count = len(matched_by_id)
+        missing_text_count = 0
+        for story in batch:
+            item = matched_by_id.get(story.key)
+            if not item:
                 continue
             headline = str(item.get("headline", "")).strip()
             summary = str(item.get("summary", "")).strip()
             if not headline or not summary:
-                continue  # malformed/missing output can be retried next cycle
-            # Intentionally ignore the model's relevance flag: all newly collected source stories are wanted.
+                missing_text_count += 1
+                continue  # keep malformed posts unreserved so the next cycle can retry
+            # Intentionally ignore the model's relevance flag: every new source story is wanted.
+            item["id"] = story.key
             item["relevant"] = True
             if not str(item.get("region", "")).strip():
                 item["region"] = "Global"
             topics = item.get("topics", [])
-            if not isinstance(topics, list):
-                topics = [topics] if topics else []
+            if isinstance(topics, str):
+                topics = [part.strip() for part in topics.replace(",", "|").split("|") if part.strip()]
+            elif not isinstance(topics, list):
+                topics = []
             item["topics"] = [str(topic).strip() for topic in topics if str(topic).strip()][:3]
-            approved[key] = item
-            resolved_keys.add(key)
+            if not isinstance(item.get("positions", []), list):
+                item["positions"] = []
+            approved[story.key] = item
+            resolved_keys.add(story.key)
+
+        print(
+            f"[cycle] AI response diagnostic: returned={len(ai_items)}, dict_posts={len(ai_dicts)}, "
+            f"matched_ids={matched_count}, accepted_posts={len(approved)}, "
+            f"missing_headline_or_summary={missing_text_count}, order_fallback={used_order_fallback}."
+        )
 
         # A valid AI response is published irrespective of topic/relevance labels.
         resolved_batch = [story for story in batch if story.key in resolved_keys]
