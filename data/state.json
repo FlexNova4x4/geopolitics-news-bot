@@ -201,9 +201,10 @@
     "16096f0dc25490e677420adf": {
       "published_at": "2026-10-25T07:34:24+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10193,
       "title": "PM Modi urges support for local artisans, highlights Indian products in Mann Ki Baat",
-      "updated_at": "2026-10-25T08:04:44.533860+00:00",
+      "updated_at": "2026-10-25T08:04:58.772039+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-urges-support-for-local-artisans-highlights-indian-products-in-mann-ki-baat-101792913665068.html"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
@@ -432,9 +433,10 @@
     "31fb567f7c421891b63b619c": {
       "published_at": "2026-10-25T07:33:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10190,
       "title": "Blast that killed seven in ASR district leaves 10 tribal families with damaged homes",
-      "updated_at": "2026-10-25T08:04:44.533836+00:00",
+      "updated_at": "2026-10-25T08:04:46.791550+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/blast-that-killed-seven-in-asr-district-leaves-10-tribal-families-with-damaged-homes/article71622770.ece"
     },
     "32c983b7e11bcff8fc05449d": {
@@ -476,9 +478,10 @@
     "386a2aa773ec9dd15c86253e": {
       "published_at": "2026-10-25T07:34:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10192,
       "title": "Heavy rainfall hits Tamil Nadu, IMD issues alert for next 3 days as rain-triggered mudslide kills 1 in Nilgiris",
-      "updated_at": "2026-10-25T08:04:44.533857+00:00",
+      "updated_at": "2026-10-25T08:04:54.603714+00:00",
       "url": "https://www.hindustantimes.com/india-news/tamil-nadu-rains-imd-alert-mudslide-nilgiris-krishnagiri-bridge-chennai-rains-traffic-cyclone-bay-of-bengal-weather-update-101792908753243.html"
     },
     "390b335947f0cfae8304a891": {
@@ -610,9 +613,10 @@
     "4fb0b6aa4688db957ab7fb59": {
       "published_at": "2026-10-25T07:33:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10191,
       "title": "Raj Thackeray deletes PM Modi-Adani documentary from social media after Mumbai Police chief's request",
-      "updated_at": "2026-10-25T08:04:44.533854+00:00",
+      "updated_at": "2026-10-25T08:04:50.664307+00:00",
       "url": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece"
     },
     "50646b1f51a7a5ac5f3a5f3c": {
@@ -1706,6 +1710,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:04:44.534039+00:00",
+  "last_cycle_at": "2026-10-25T08:05:01.972489+00:00",
   "schema_version": 1
 }
