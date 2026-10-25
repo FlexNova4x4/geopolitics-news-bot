@@ -3,9 +3,10 @@
     "00f750aac2590202af7dd8a9": {
       "published_at": "2026-10-25T22:57:17+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10497,
       "title": "Bulgaria election heads to a run-off amid low voter turnout",
-      "updated_at": "2026-10-25T23:30:34.325537+00:00",
+      "updated_at": "2026-10-25T23:30:36.978415+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss"
     },
     "014f5be9fc4a7789c2c85aef": {
@@ -4400,6 +4401,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T23:30:34.326068+00:00",
+  "last_cycle_at": "2026-10-25T23:30:40.179366+00:00",
   "schema_version": 1
 }
