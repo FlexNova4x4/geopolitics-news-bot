@@ -412,6 +412,14 @@
       "updated_at": "2026-10-24T23:59:19.369182+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss"
     },
+    "2fd3d586b7968cece97a8173": {
+      "published_at": "2026-10-25T07:32:26+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Dhanush to meet over 3,000 women fan club members today amid buzz on political debut",
+      "updated_at": "2026-10-25T08:04:22.061121+00:00",
+      "url": "https://www.hindustantimes.com/india-news/dhanush-narpani-iyakkam-fan-club-meeting-political-entry-debut-c-joseph-vijay-tamil-nadu-101792913100558.html"
+    },
     "32c983b7e11bcff8fc05449d": {
       "published_at": "2026-10-23T13:18:00+00:00",
       "source": "Website",
@@ -591,6 +599,14 @@
       "title": "JUI-F KP directs leaders to quit ARDC",
       "updated_at": "2026-10-25T03:35:16.710380+00:00",
       "url": "https://www.dawn.com/news/2039587/jui-f-kp-directs-leaders-to-quit-ardc"
+    },
+    "529aab26d4b950650e27e9db": {
+      "published_at": "2026-10-25T07:28:47+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Photos: Clashes erupt in France during protests over rising living costs",
+      "updated_at": "2026-10-25T08:04:22.061114+00:00",
+      "url": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
     },
     "5371b78848329d56511c19ce": {
       "published_at": "2026-10-25T03:58:07+00:00",
@@ -999,6 +1015,14 @@
       "title": "Delhi man arrested for posting ‘sting op’ clip targeting Siddaramaiah",
       "updated_at": "2026-10-25T05:39:20.188935+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-man-arrested-for-posting-sting-op-clip-targeting-siddaramaiah-101792869975968.html"
+    },
+    "9696e1d2aa2b24343e43f01e": {
+      "published_at": "2026-10-25T05:49:42+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "France protests intensify as anger grows against Macron government",
+      "updated_at": "2026-10-25T08:04:22.061096+00:00",
+      "url": "https://www.thehindu.com/videos/france-protests-intensify-as-anger-grows-against-macron-government/article71622662.ece"
     },
     "982fd09da3a2325f2e1358d8": {
       "published_at": "2026-10-25T01:19:51+00:00",
@@ -1424,6 +1448,14 @@
       "updated_at": "2026-10-24T22:36:56.620537+00:00",
       "url": "https://www.youtube.com/watch?v=AaCjss6WHw8"
     },
+    "e0662c36b9b20f30a85c2460": {
+      "published_at": "2026-10-25T07:29:06+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Depression over Bay of Bengal intensifies, cyclone warning issued at 9 Tamil Nadu, Puducherry ports",
+      "updated_at": "2026-10-25T08:04:22.061118+00:00",
+      "url": "https://www.hindustantimes.com/india-news/bay-of-bengal-depression-cyclone-tracker-very-severe-cyclonic-storm-oct-28-warnings-tamil-nadu-puducherry-andhra-imd-weather-news-101792909401361.html"
+    },
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
       "source": "hindustantimes.com",
@@ -1638,6 +1670,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:35:56.301570+00:00",
+  "last_cycle_at": "2026-10-25T08:04:22.061289+00:00",
   "schema_version": 1
 }
