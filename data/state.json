@@ -3,9 +3,10 @@
     "014f5be9fc4a7789c2c85aef": {
       "published_at": "2026-10-25T10:42:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10257,
       "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-      "updated_at": "2026-10-25T11:34:21.342622+00:00",
+      "updated_at": "2026-10-25T11:34:31.683508+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss"
     },
     "01b41b5451f03931ce810285": {
@@ -720,9 +721,10 @@
     "4c6f6dc2f81840c7b9d13812": {
       "published_at": "2026-10-25T10:45:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10258,
       "title": "Police in Albania filmed beating protester unconscious",
-      "updated_at": "2026-10-25T11:34:21.342625+00:00",
+      "updated_at": "2026-10-25T11:34:35.711871+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss"
     },
     "4f371849fb9efa7fc2fcfcc8": {
@@ -1101,9 +1103,10 @@
     "79549203377c1e7ccbeca6b5": {
       "published_at": "2026-10-25T10:14:43+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10255,
       "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
-      "updated_at": "2026-10-25T11:34:21.342604+00:00",
+      "updated_at": "2026-10-25T11:34:23.888810+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss"
     },
     "7959a2ce930c454f6a73f3b9": {
@@ -2258,9 +2261,10 @@
     "fea88e332656e9d9d93c9a21": {
       "published_at": "2026-10-25T10:27:36+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10256,
       "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
-      "updated_at": "2026-10-25T11:34:21.342620+00:00",
+      "updated_at": "2026-10-25T11:34:27.744738+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss"
     },
     "ff00da6ff48d059a4de4b5a6": {
@@ -2282,6 +2286,6 @@
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T11:34:21.343003+00:00",
+  "last_cycle_at": "2026-10-25T11:34:38.912736+00:00",
   "schema_version": 1
 }
