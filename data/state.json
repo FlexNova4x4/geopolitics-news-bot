@@ -88,6 +88,14 @@
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
+    "431f5566a31b29b49c93579a": {
+      "published_at": "2026-10-24T21:09:27+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "updated_at": "2026-10-25T01:05:14.628424+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+    },
     "4a067e46333580ef31d07718": {
       "published_at": "2026-10-24T21:30:11+00:00",
       "source": "aljazeera.com",
@@ -172,6 +180,14 @@
       "title": "Could Israel’s military crackdown influence Tuesday’s election?",
       "updated_at": "2026-10-24T23:59:10.577041+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
+    },
+    "78a627de04bf75729389fd34": {
+      "published_at": "2026-10-25T00:34:43+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+      "updated_at": "2026-10-25T01:05:14.628441+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
     },
     "80d1513b974e9b68ccf0d9bb": {
       "published_at": "2026-10-23T17:09:00+00:00",
@@ -342,6 +358,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T00:49:19.583929+00:00",
+  "last_cycle_at": "2026-10-25T01:05:14.628491+00:00",
   "schema_version": 1
 }
