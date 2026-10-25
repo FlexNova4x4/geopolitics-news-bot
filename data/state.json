@@ -559,9 +559,10 @@
     "445f038d3ae1ed2abd9cd056": {
       "published_at": "2026-10-25T07:57:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10198,
       "title": "KSSP supports distribution of generic drugs for SMA patients in Keralam",
-      "updated_at": "2026-10-25T08:05:27.521716+00:00",
+      "updated_at": "2026-10-25T08:05:29.594923+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kssp-supports-distribution-of-generic-drugs-for-sma-patients-in-keralam/article71622756.ece"
     },
     "476fcdd51b26ff98975ea435": {
@@ -1214,9 +1215,10 @@
     "a69196b87b64c5fc7edfb39f": {
       "published_at": "2026-10-25T07:59:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10199,
       "title": "Woman APEPDCL engineer found dead on road near Rajam; family says it was no accident",
-      "updated_at": "2026-10-25T08:05:27.521734+00:00",
+      "updated_at": "2026-10-25T08:05:33.472139+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/woman-apepdcl-engineer-found-dead-on-road-near-rajam-family-says-it-was-no-accident/article71622635.ece"
     },
     "a6def70ddd121613b81f6e1c": {
@@ -1762,6 +1764,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:05:27.521953+00:00",
+  "last_cycle_at": "2026-10-25T08:05:36.673020+00:00",
   "schema_version": 1
 }
