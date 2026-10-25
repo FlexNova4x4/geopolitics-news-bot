@@ -1225,9 +1225,10 @@
     "4777d9cdd5aa53785a3fc75d": {
       "published_at": "2026-10-25T18:32:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10470,
       "title": "Universities urged to embrace continuous learning and innovation in AI era",
-      "updated_at": "2026-10-25T18:41:34.651440+00:00",
+      "updated_at": "2026-10-25T18:41:37.178993+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/universities-urged-to-embrace-continuous-learning-and-innovation-in-ai-era/article71623743.ece"
     },
     "477c872a0b59fe25db26952d": {
@@ -4175,6 +4176,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:41:34.651981+00:00",
+  "last_cycle_at": "2026-10-25T18:41:40.379949+00:00",
   "schema_version": 1
 }
