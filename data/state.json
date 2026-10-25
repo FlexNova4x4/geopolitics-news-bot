@@ -982,9 +982,10 @@
     "3e7176795d4b39605b2e31a5": {
       "published_at": "2026-10-25T16:11:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10421,
       "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "updated_at": "2026-10-25T16:41:15.818411+00:00",
+      "updated_at": "2026-10-25T16:41:29.914434+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
     },
     "3fcd6f10560124f915c94c5a": {
@@ -1438,9 +1439,10 @@
     "5eefe6d9715e9d963c9a7361": {
       "published_at": "2026-10-25T16:05:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10418,
       "title": "14 rice millers arrested over diversion of fine variety rice in Telangana",
-      "updated_at": "2026-10-25T16:41:15.818390+00:00",
+      "updated_at": "2026-10-25T16:41:18.184950+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/14-rice-millers-arrested-over-diversion-of-fine-variety-rice-in-telangana/article71623299.ece"
     },
     "5efff453f7a429a066a90766": {
@@ -2814,9 +2816,10 @@
     "c04a9a419822bc3122170059": {
       "published_at": "2026-10-25T16:07:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10419,
       "title": "Rice pre-booking to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
-      "updated_at": "2026-10-25T16:41:15.818405+00:00",
+      "updated_at": "2026-10-25T16:41:22.092886+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-people-pre-book-rice-harvest-to-lock-prices-farmers-get-3000-3500-per-quintal-in-open-markets/article71622910.ece"
     },
     "c0a0ccf8c248421b74d84a78": {
@@ -2857,9 +2860,10 @@
     "c36ad6347a250b24af4d36b4": {
       "published_at": "2026-10-25T16:08:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10420,
       "title": "Revanth to meet Fadnavis for Tummidihatti project height approval in Mumbai",
-      "updated_at": "2026-10-25T16:41:15.818408+00:00",
+      "updated_at": "2026-10-25T16:41:26.020270+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/revanth-to-meet-fadnavis-for-tummidihatti-project-height-approval-in-mumbai/article71623293.ece"
     },
     "c4687dd68edc0199915d6241": {
@@ -3731,6 +3735,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:41:15.819045+00:00",
+  "last_cycle_at": "2026-10-25T16:41:33.115558+00:00",
   "schema_version": 1
 }
