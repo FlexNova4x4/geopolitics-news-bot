@@ -434,9 +434,10 @@
     "2b4e65cf9720ea1333d81868": {
       "published_at": "2026-10-25T11:39:41+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10278,
       "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "updated_at": "2026-10-25T12:05:15.145768+00:00",
+      "updated_at": "2026-10-25T12:05:21.397089+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss"
     },
     "2caa284e65eddd0f925f4ecf": {
@@ -1058,9 +1059,10 @@
     "6e46a68082f58c83b49ebacf": {
       "published_at": "2026-10-25T11:42:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10279,
       "title": "Karnataka CM warns of action against private firms sidelining Kannadigas",
-      "updated_at": "2026-10-25T12:05:15.145771+00:00",
+      "updated_at": "2026-10-25T12:05:25.292256+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-warns-of-action-against-private-firms-sidelining-kannadigas/article71623006.ece"
     },
     "6e4d517edd5a8941aaa88838": {
@@ -1734,9 +1736,10 @@
     "b4f660e47e6161bc60c10661": {
       "published_at": "2026-10-25T11:46:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10280,
       "title": "Tourist bus overturns near Bekal bridge in Keralam’s Kasaragod; passengers escape without serious injuries",
-      "updated_at": "2026-10-25T12:05:15.145773+00:00",
+      "updated_at": "2026-10-25T12:05:29.257730+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/tourist-bus-overturns-near-bekal-bridge-in-keralams-kasaragod-passengers-escape-without-serious-injuries/article71623009.ece"
     },
     "b6afaa754d9dc95c5397ceae": {
@@ -2180,9 +2183,10 @@
     "e8374bfa1407713775077eba": {
       "published_at": "2026-10-25T11:39:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10277,
       "title": "Donald Trump says Audi to invest $4.2 billion in its first U.S. auto plant",
-      "updated_at": "2026-10-25T12:05:15.145750+00:00",
+      "updated_at": "2026-10-25T12:05:17.522877+00:00",
       "url": "https://www.thehindu.com/news/international/donald-trump-says-audi-to-invest-42-billion-in-its-first-us-auto-plant/article71623143.ece"
     },
     "e8e8485050729ea9bcf12f69": {
@@ -2480,6 +2484,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T12:05:15.146098+00:00",
+  "last_cycle_at": "2026-10-25T12:05:32.458675+00:00",
   "schema_version": 1
 }
