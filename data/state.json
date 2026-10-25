@@ -293,9 +293,10 @@
     "75811f096b6c58d05903ca1c": {
       "published_at": "2026-10-25T04:58:53+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10067,
       "title": "Insurance worker booked for rape in Sahiwal",
-      "updated_at": "2026-10-25T05:05:51.929610+00:00",
+      "updated_at": "2026-10-25T05:06:02.358538+00:00",
       "url": "https://www.dawn.com/news/2039546/insurance-worker-booked-for-rape-in-sahiwal"
     },
     "774e9fc1f4419ee269fc435f": {
@@ -372,9 +373,10 @@
     "9418581b7f6efb4b6eff5009": {
       "published_at": "2026-10-25T04:49:55+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10065,
       "title": "Governor rejects ex-health CEO’s plea in Jhang embezzlement case",
-      "updated_at": "2026-10-25T05:05:51.929591+00:00",
+      "updated_at": "2026-10-25T05:05:54.162144+00:00",
       "url": "https://www.dawn.com/news/2039545/governor-rejects-ex-health-ceos-plea-in-jhang-embezzlement-case"
     },
     "982fd09da3a2325f2e1358d8": {
@@ -473,9 +475,10 @@
     "c57c995aed21182697ff6a61": {
       "published_at": "2026-10-25T04:52:21+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10066,
       "title": "Objectionable material: Lahore man arrested for blackmailing minors",
-      "updated_at": "2026-10-25T05:05:51.929606+00:00",
+      "updated_at": "2026-10-25T05:05:58.252770+00:00",
       "url": "https://www.dawn.com/news/2039547/objectionable-material-lahore-man-arrested-for-blackmailing-minors"
     },
     "d293915be054fcbc4e578f87": {
@@ -582,6 +585,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:05:51.929702+00:00",
+  "last_cycle_at": "2026-10-25T05:06:05.559270+00:00",
   "schema_version": 1
 }
