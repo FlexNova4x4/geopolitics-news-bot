@@ -57,9 +57,10 @@
     "1465f4d8bc4c6500e418081c": {
       "published_at": "2026-10-24T19:08:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10075,
       "title": "Fans hail ‘Telugu brothers’ Tilak Varma, Nitish Kumar Reddy after India’s Christchurch T20I win",
-      "updated_at": "2026-10-25T05:36:15.245879+00:00",
+      "updated_at": "2026-10-25T05:36:29.098065+00:00",
       "url": "https://www.thehindu.com/news/cities/Visakhapatnam/telugu-brothers-steal-the-show-set-social-media-abuzz-with-finishing-act-against-new-zealand/article71621038.ece"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
@@ -337,9 +338,10 @@
     "77786d5be8b00ee0754c51c2": {
       "published_at": "2026-10-24T19:02:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10074,
       "title": "Iran vows ‘apocalyptic war’ if U.S. strikes again",
-      "updated_at": "2026-10-25T05:36:15.245876+00:00",
+      "updated_at": "2026-10-25T05:36:25.189526+00:00",
       "url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece"
     },
     "78a627de04bf75729389fd34": {
@@ -380,9 +382,10 @@
     "8156fc1e4b308fb02f8cdaa3": {
       "published_at": "2026-10-24T18:53:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10072,
       "title": "Eight KLE tech varsity researchers feature in global top 2% list of scientists",
-      "updated_at": "2026-10-25T05:36:15.245859+00:00",
+      "updated_at": "2026-10-25T05:36:17.240320+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/eight-kle-tech-varsity-researchers-feature-in-global-top-2-list-of-scientists/article71619939.ece"
     },
     "83a1ffacabe7c1272dc6457f": {
@@ -500,9 +503,10 @@
     "bb98a7dc91a3507590460b1d": {
       "published_at": "2026-10-24T18:55:15+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10073,
       "title": "At least 150 Kuki militants missing from Manipur camp, security agencies alert Centre",
-      "updated_at": "2026-10-25T05:36:15.245873+00:00",
+      "updated_at": "2026-10-25T05:36:21.216926+00:00",
       "url": "https://www.hindustantimes.com/india-news/at-least-150-kuki-militants-missing-from-manipur-camp-security-agencies-alert-centre-101792868115733.html"
     },
     "bbe4e89a16c2f35966d008d8": {
@@ -653,6 +657,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:36:15.245997+00:00",
+  "last_cycle_at": "2026-10-25T05:36:32.298420+00:00",
   "schema_version": 1
 }
