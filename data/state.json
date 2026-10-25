@@ -417,9 +417,10 @@
     "1de0a7d997e5e681ceda7b87": {
       "published_at": "2026-10-25T15:41:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10409,
       "title": "Pramoda Devi expresses ‘deep disappointment’ over conduct of Dasara 2026; proposes shifting deity’s Ambari procession to Rathotsava day",
-      "updated_at": "2026-10-25T16:16:25.577462+00:00",
+      "updated_at": "2026-10-25T16:16:36.212144+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/pramoda-devi-expresses-deep-disappointment-over-conduct-of-dasara-2026-proposes-shifting-deitys-ambari-procession-to-rathotsava-day/article71623569.ece"
     },
     "1e8268a244f5025ec8e01dc4": {
@@ -819,9 +820,10 @@
     "33ef30747933f683959b65a6": {
       "published_at": "2026-10-25T15:40:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10407,
       "title": "Two Indian-American candidates face key U.S. midterm races as early voting begins",
-      "updated_at": "2026-10-25T16:16:25.577444+00:00",
+      "updated_at": "2026-10-25T16:16:28.272903+00:00",
       "url": "https://www.thehindu.com/news/international/two-indian-american-candidates-face-key-us-midterm-races-as-early-voting-begins/article71624107.ece"
     },
     "3499ac59864dbf3cd0ccf248": {
@@ -2018,9 +2020,10 @@
     "90fd25d5e400c10fb50f1c26": {
       "published_at": "2026-10-25T15:40:25+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10408,
       "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-      "updated_at": "2026-10-25T16:16:25.577459+00:00",
+      "updated_at": "2026-10-25T16:16:32.315694+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
     },
     "916bbc5d420590d132b56582": {
@@ -2463,9 +2466,10 @@
     "aad5a01d7fc6de7b00e1bb87": {
       "published_at": "2026-10-25T15:44:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10410,
       "title": "Three North Andhra districts step up cyclone preparedness",
-      "updated_at": "2026-10-25T16:16:25.577465+00:00",
+      "updated_at": "2026-10-25T16:16:40.235500+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-north-andhra-districts-step-up-cyclone-preparedness/article71624037.ece"
     },
     "ab32eb13a859b69f063f9d9a": {
@@ -3632,6 +3636,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:16:25.577906+00:00",
+  "last_cycle_at": "2026-10-25T16:16:43.436709+00:00",
   "schema_version": 1
 }
