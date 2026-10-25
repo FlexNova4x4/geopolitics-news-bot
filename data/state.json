@@ -426,9 +426,10 @@
     "2160e874762219e12d91d878": {
       "published_at": "2026-10-25T14:46:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10364,
       "title": "Two killed after van hits median worker and collides with HMDA water tanker on Hyderabad’s ORR near",
-      "updated_at": "2026-10-25T15:41:27.955773+00:00",
+      "updated_at": "2026-10-25T15:41:38.145081+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/two-killed-after-van-hits-median-worker-and-collides-with-hmda-water-tanker-on-hyderabads-orr-near/article71623671.ece"
     },
     "21ab0ac81916b29cdb5a7452": {
@@ -1830,9 +1831,10 @@
     "916bbc5d420590d132b56582": {
       "published_at": "2026-10-25T14:46:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10365,
       "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-      "updated_at": "2026-10-25T15:41:27.955775+00:00",
+      "updated_at": "2026-10-25T15:41:42.038042+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss"
     },
     "91ee9952970e21fd9a42b354": {
@@ -2669,9 +2671,10 @@
     "d41c5fa062606ff1945c817d": {
       "published_at": "2026-10-25T14:46:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10363,
       "title": "Concerns about quality of health care, unemployment, as RMPs in Keralam cross one-lakh mark",
-      "updated_at": "2026-10-25T15:41:27.955770+00:00",
+      "updated_at": "2026-10-25T15:41:34.222633+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/concerns-about-quality-of-health-care-unemployment-as-rmps-in-keralam-cross-one-lakh-mark/article71623503.ece"
     },
     "d42be53c179ee655ec60cb49": {
@@ -3017,9 +3020,10 @@
     "f603ab89ebe7bf49606dc2ed": {
       "published_at": "2026-10-25T14:44:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10362,
       "title": "Karnataka Deputy Chief Minister warns of reduced food production after 80% crop loss",
-      "updated_at": "2026-10-25T15:41:27.955758+00:00",
+      "updated_at": "2026-10-25T15:41:30.293689+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-warns-of-reduced-food-production-after-80-crop-loss/article71623615.ece"
     },
     "f6245cb0e0afb3f33f69c4ff": {
@@ -3236,6 +3240,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:41:27.956150+00:00",
+  "last_cycle_at": "2026-10-25T15:41:45.239047+00:00",
   "schema_version": 1
 }
