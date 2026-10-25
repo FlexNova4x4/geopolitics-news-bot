@@ -210,9 +210,10 @@
     "20bc2993885a8d17c66192d6": {
       "published_at": "2026-10-25T06:34:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10162,
       "title": "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
-      "updated_at": "2026-10-25T07:04:22.266690+00:00",
+      "updated_at": "2026-10-25T07:04:28.446103+00:00",
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece"
     },
     "20ca3b29a47494e78697a699": {
@@ -876,9 +877,10 @@
     "91ee9952970e21fd9a42b354": {
       "published_at": "2026-10-25T06:34:06+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10161,
       "title": "ISRO plans four functional launch pads by 2029; chief Narayanan outlines Gaganyaan roadmap",
-      "updated_at": "2026-10-25T07:04:22.266672+00:00",
+      "updated_at": "2026-10-25T07:04:24.573422+00:00",
       "url": "https://www.hindustantimes.com/india-news/isro-plans-four-functional-launch-pads-by-2029-outlines-gaganyaan-mission-roadmap-sslv-complex-kulasekarapattinam-tamil-nadu-101792908657184.html"
     },
     "9374b36218aa40d4d311bff3": {
@@ -1095,9 +1097,10 @@
     "bb08f7fcdd3802b3637fb4bf": {
       "published_at": "2026-10-25T06:34:24+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10163,
       "title": "Manipur to form committee of 36 communities to promote peace and harmony, says CM",
-      "updated_at": "2026-10-25T07:04:22.266693+00:00",
+      "updated_at": "2026-10-25T07:04:32.341033+00:00",
       "url": "https://www.hindustantimes.com/india-news/manipur-to-form-committee-of-36-communities-to-promote-peace-and-harmony-says-cm-101792910065093.html"
     },
     "bb98a7dc91a3507590460b1d": {
@@ -1192,9 +1195,10 @@
     "d3d27d9386f5b4b33262c0fd": {
       "published_at": "2026-10-25T06:40:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10164,
       "title": "JD(U) is finished: Anant Singh says a day after being expelled from party",
-      "updated_at": "2026-10-25T07:04:22.266695+00:00",
+      "updated_at": "2026-10-25T07:04:36.218811+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/jdu-is-finished-anant-singh-says-a-day-after-being-expelled-from-party/article71622689.ece"
     },
     "d3e7b9cbf9024513b1444315": {
@@ -1454,6 +1458,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:04:22.266863+00:00",
+  "last_cycle_at": "2026-10-25T07:04:39.419576+00:00",
   "schema_version": 1
 }
