@@ -155,16 +155,24 @@ def run_cycle(settings, state_store) -> dict:
             if not isinstance(item, dict):
                 continue
             key = str(item.get("id", ""))
-            if key not in lookup or not isinstance(item.get("relevant"), bool):
+            if key not in lookup:
                 continue
-            if item["relevant"]:
-                headline = str(item.get("headline", "")).strip()
-                summary = str(item.get("summary", "")).strip()
-                if not headline or not summary:
-                    continue  # malformed AI result remains unreserved and can be retried next cycle
-                approved[key] = item
-            resolved_keys.add(key)  # explicit relevant=true/false result received
+            headline = str(item.get("headline", "")).strip()
+            summary = str(item.get("summary", "")).strip()
+            if not headline or not summary:
+                continue  # malformed/missing output can be retried next cycle
+            # Intentionally ignore the model's relevance flag: all newly collected source stories are wanted.
+            item["relevant"] = True
+            if not str(item.get("region", "")).strip():
+                item["region"] = "Global"
+            topics = item.get("topics", [])
+            if not isinstance(topics, list):
+                topics = [topics] if topics else []
+            item["topics"] = [str(topic).strip() for topic in topics if str(topic).strip()][:3]
+            approved[key] = item
+            resolved_keys.add(key)
 
+        # A valid AI response is published irrespective of topic/relevance labels.
         resolved_batch = [story for story in batch if story.key in resolved_keys]
         unresolved_total += len(batch) - len(resolved_batch)
         if resolved_batch:

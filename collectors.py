@@ -225,8 +225,16 @@ def collect_sources(website_rss_urls: list[str] | str, youtube_channel_id: str, 
     if youtube_channel_id:
         channel_id = youtube_channel_id.strip()
         if channel_id.startswith("UC"):
-            yt_url = f"https://www.youtube.com/xml/feeds/videos.xml?channel_id={channel_id}"
-            all_stories.extend(_parse_feed(yt_url, "YouTube", max_age_hours))
+            # The standard public feed uses /feeds/videos.xml. Some YouTube edges intermittently
+            # return 404 for channel_id feeds, so also try the channel's uploads playlist (UU + UC suffix).
+            yt_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+            yt_stories = _parse_feed(yt_url, "YouTube", max_age_hours)
+            if not yt_stories:
+                uploads_playlist_id = "UU" + channel_id[2:]
+                uploads_url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={uploads_playlist_id}"
+                print("[collector] YouTube channel feed returned no eligible items; trying uploads-playlist feed.")
+                yt_stories = _parse_feed(uploads_url, "YouTube", max_age_hours)
+            all_stories.extend(yt_stories)
         else:
             print("[collector] YOUTUBE_CHANNEL_ID must be the channel ID (normally starts with UC). Skipping YouTube for this cycle.")
 

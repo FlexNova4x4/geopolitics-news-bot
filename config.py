@@ -18,6 +18,7 @@ def _int(name: str, default: int, minimum: int = 1) -> int:
 def _rss_urls() -> list[str]:
     default = (
         "https://thediplomat.com/feed/,"
+        "https://feeds.bbci.co.uk/news/world/rss.xml,"
         "https://feeds.bbci.co.uk/news/world/asia/rss.xml,"
         "https://www.dawn.com/feeds/pakistan/,"
         "https://www.aljazeera.com/xml/rss/all.xml,"
