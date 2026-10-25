@@ -272,9 +272,10 @@
     "27a26879f4896f4862e2f97e": {
       "published_at": "2026-10-25T06:41:41+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10165,
       "title": "Who Israel elects matters, and not just for Israelis",
-      "updated_at": "2026-10-25T07:04:45.032318+00:00",
+      "updated_at": "2026-10-25T07:04:47.297151+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss"
     },
     "2ac5d225560f70aa9efb31de": {
@@ -1167,9 +1168,10 @@
     "c4687dd68edc0199915d6241": {
       "published_at": "2026-10-25T06:42:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10166,
       "title": "Main LPG distributors' unions oppose strike, seek dialogue for commission hike",
-      "updated_at": "2026-10-25T07:04:45.032336+00:00",
+      "updated_at": "2026-10-25T07:04:51.189137+00:00",
       "url": "https://www.thehindu.com/news/national/main-lpg-distributors-unions-oppose-strike-seek-dialogue-for-commission-hike/article71622690.ece"
     },
     "c47d88325070e88f1bfdaaf3": {
@@ -1202,9 +1204,10 @@
     "cb69f01837fe6e170f43fe8b": {
       "published_at": "2026-10-25T06:50:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10167,
       "title": "Diversification plan: NMDC scouts for mining assets across four continents",
-      "updated_at": "2026-10-25T07:04:45.032338+00:00",
+      "updated_at": "2026-10-25T07:04:55.118878+00:00",
       "url": "https://www.thehindu.com/news/national/nmdc-targets-diversification-scouting-minerals-across-four-continents/article71622669.ece"
     },
     "d293915be054fcbc4e578f87": {
@@ -1343,9 +1346,10 @@
     "f0f5ef2154d5bdcbb14fe4cb": {
       "published_at": "2026-10-25T06:55:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10168,
       "title": "Flight disruptions leave Andhra Umrah pilgrims stranded in Saudi Arabia; 40 to fly back to Hyderabad on October 26",
-      "updated_at": "2026-10-25T07:04:45.032340+00:00",
+      "updated_at": "2026-10-25T07:04:58.985953+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/flight-disruptions-leave-andhra-umrah-pilgrims-stranded-in-saudi-arabia-40-to-fly-back-to-hyderabad-on-october-26/article71622665.ece"
     },
     "f17074f2bff6dfa7b5decd9b": {
@@ -1490,6 +1494,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:04:45.032527+00:00",
+  "last_cycle_at": "2026-10-25T07:05:02.186871+00:00",
   "schema_version": 1
 }
