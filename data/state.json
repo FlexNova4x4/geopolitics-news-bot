@@ -763,9 +763,10 @@
     "61b023b54352ba94a7e64f4f": {
       "published_at": "2026-10-25T08:52:39+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10215,
       "title": "'200 seats are our right': Congress poster seen in Lucknow as UP poll seat-sharing talks with SP intensify",
-      "updated_at": "2026-10-25T09:04:48.321228+00:00",
+      "updated_at": "2026-10-25T09:04:58.332362+00:00",
       "url": "https://www.hindustantimes.com/india-news/200-seats-are-our-right-congress-poster-seen-in-lucknow-as-up-poll-seat-sharing-talks-with-sp-intensify-101792912946489.html"
     },
     "61b95814bd7b1e80b16ea8b4": {
@@ -1128,9 +1129,10 @@
     "94ac3732d3c8ed7c2187849f": {
       "published_at": "2026-10-25T08:36:47+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10213,
       "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-      "updated_at": "2026-10-25T09:04:48.321206+00:00",
+      "updated_at": "2026-10-25T09:04:50.508724+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
     },
     "96578dc5c73bfdb3c492472c": {
@@ -1508,9 +1510,10 @@
     "c351f010dedea817fe298a64": {
       "published_at": "2026-10-25T08:44:17+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10214,
       "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-      "updated_at": "2026-10-25T09:04:48.321225+00:00",
+      "updated_at": "2026-10-25T09:04:54.469451+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
     },
     "c4687dd68edc0199915d6241": {
@@ -1712,9 +1715,10 @@
     "eb486ba09741805407207e33": {
       "published_at": "2026-10-25T08:54:59+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10216,
       "title": "Book Box: Two Himalayan bookstores, a birthday and a borrowed book",
-      "updated_at": "2026-10-25T09:04:48.321231+00:00",
+      "updated_at": "2026-10-25T09:05:02.401311+00:00",
       "url": "https://www.hindustantimes.com/india-news/book-box-two-himalayan-bookstores-a-birthday-and-a-borrowed-book-101792918146209.html"
     },
     "ebe36ea7d3528c57697ce421": {
@@ -1913,6 +1917,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:04:48.321422+00:00",
+  "last_cycle_at": "2026-10-25T09:05:05.602181+00:00",
   "schema_version": 1
 }
