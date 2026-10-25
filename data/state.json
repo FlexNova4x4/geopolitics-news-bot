@@ -565,6 +565,14 @@
       "updated_at": "2026-10-24T22:52:54.734274+00:00",
       "url": "https://thediplomat.com/2026/10/tenpaygo-and-chinas-digital-opening-to-foreigners"
     },
+    "336d07ff0bf8ed86ad2c2f7a": {
+      "published_at": "2026-10-25T12:38:54+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
+      "updated_at": "2026-10-25T15:11:09.136781+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss"
+    },
     "3379ff067c67e965f75450d0": {
       "published_at": "2026-10-25T11:36:08+00:00",
       "source": "thehindu.com",
@@ -672,6 +680,14 @@
       "title": "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang",
       "updated_at": "2026-10-24T22:47:16.072650+00:00",
       "url": "https://thediplomat.com/2026/10/karakoram-2026-inside-china-pakistan-joint-military-training-in-xinjiang"
+    },
+    "3e6aa50c9b6b63e9d83faef0": {
+      "published_at": "2026-10-25T12:37:49+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
+      "updated_at": "2026-10-25T15:11:09.136762+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss"
     },
     "3fcd6f10560124f915c94c5a": {
       "published_at": "2026-10-24T23:02:06+00:00",
@@ -1127,6 +1143,14 @@
       "title": "Jagan urges Sharmila to reconsider Bengaluru wedding venue over security concerns",
       "updated_at": "2026-10-25T07:34:49.387552+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-urges-sharmila-to-reconsider-bengaluru-wedding-venue-over-security-concerns/article71620355.ece"
+    },
+    "6fe185b26c7b94045b10f1f1": {
+      "published_at": "2026-10-25T12:40:20+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
+      "updated_at": "2026-10-25T15:11:09.136785+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss"
     },
     "700aa372894a48b9998e49bd": {
       "published_at": "2026-10-25T07:20:36+00:00",
@@ -2252,6 +2276,14 @@
       "updated_at": "2026-10-25T15:10:33.886958+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
     },
+    "e45447987be3d824ed5c553c": {
+      "published_at": "2026-10-25T12:40:51+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "MBBS student, 24, found dead on hostel lawn in Pratapgarh, probe underway",
+      "updated_at": "2026-10-25T15:11:09.136788+00:00",
+      "url": "https://www.hindustantimes.com/india-news/mbbs-student-24-found-dead-on-hostel-lawn-in-pratapgarh-probe-underway-101792927664152.html"
+    },
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
       "source": "hindustantimes.com",
@@ -2592,6 +2624,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:11:04.468368+00:00",
+  "last_cycle_at": "2026-10-25T15:11:09.137144+00:00",
   "schema_version": 1
 }
