@@ -423,6 +423,14 @@
       "updated_at": "2026-10-25T11:34:50.447400+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/mcc-renews-push-for-flex-free-city-beyond-dasara/article71623051.ece"
     },
+    "2160e874762219e12d91d878": {
+      "published_at": "2026-10-25T14:46:31+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Two killed after van hits median worker and collides with HMDA water tanker on Hyderabad’s ORR near",
+      "updated_at": "2026-10-25T15:41:27.955773+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/two-killed-after-van-hits-median-worker-and-collides-with-hmda-water-tanker-on-hyderabads-orr-near/article71623671.ece"
+    },
     "21ab0ac81916b29cdb5a7452": {
       "published_at": "2026-10-25T09:40:55+00:00",
       "source": "thehindu.com",
@@ -1819,6 +1827,14 @@
       "updated_at": "2026-10-25T11:35:37.422297+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kozhikode-tourism-committees-remain-inactive-fail-to-propose-development-projects/article71622982.ece"
     },
+    "916bbc5d420590d132b56582": {
+      "published_at": "2026-10-25T14:46:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+      "updated_at": "2026-10-25T15:41:27.955775+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss"
+    },
     "91ee9952970e21fd9a42b354": {
       "published_at": "2026-10-25T06:34:06+00:00",
       "source": "hindustantimes.com",
@@ -2650,6 +2666,14 @@
       "updated_at": "2026-10-25T06:06:06.162861+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss"
     },
+    "d41c5fa062606ff1945c817d": {
+      "published_at": "2026-10-25T14:46:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Concerns about quality of health care, unemployment, as RMPs in Keralam cross one-lakh mark",
+      "updated_at": "2026-10-25T15:41:27.955770+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/concerns-about-quality-of-health-care-unemployment-as-rmps-in-keralam-cross-one-lakh-mark/article71623503.ece"
+    },
     "d42be53c179ee655ec60cb49": {
       "published_at": "2026-10-24T19:28:11+00:00",
       "source": "thehindu.com",
@@ -2990,6 +3014,14 @@
       "updated_at": "2026-10-25T08:34:35.223421+00:00",
       "url": "https://www.hindustantimes.com/india-news/kerala-bjp-chief-urges-equal-respect-for-faiths-amid-cafe-video-row-accuses-cm-satheesan-of-selective-secularism-101792912926527.html"
     },
+    "f603ab89ebe7bf49606dc2ed": {
+      "published_at": "2026-10-25T14:44:48+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Karnataka Deputy Chief Minister warns of reduced food production after 80% crop loss",
+      "updated_at": "2026-10-25T15:41:27.955758+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-warns-of-reduced-food-production-after-80-crop-loss/article71623615.ece"
+    },
     "f6245cb0e0afb3f33f69c4ff": {
       "published_at": "2026-10-25T11:21:33+00:00",
       "source": "thehindu.com",
@@ -3204,6 +3236,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:18:02.069936+00:00",
+  "last_cycle_at": "2026-10-25T15:41:27.956150+00:00",
   "schema_version": 1
 }
