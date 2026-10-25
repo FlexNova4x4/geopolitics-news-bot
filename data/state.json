@@ -1222,6 +1222,14 @@
       "updated_at": "2026-10-25T06:35:38.565808+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-to-cross-andhra-coast-on-october-28-people-in-low-lying-areas-from-bapatla-to-vizianagaram-to-be-evacuated/article71620236.ece"
     },
+    "4777d9cdd5aa53785a3fc75d": {
+      "published_at": "2026-10-25T18:32:32+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Universities urged to embrace continuous learning and innovation in AI era",
+      "updated_at": "2026-10-25T18:41:34.651440+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/universities-urged-to-embrace-continuous-learning-and-innovation-in-ai-era/article71623743.ece"
+    },
     "477c872a0b59fe25db26952d": {
       "published_at": "2026-10-24T18:52:57+00:00",
       "source": "thehindu.com",
@@ -4167,6 +4175,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:14:51.747035+00:00",
+  "last_cycle_at": "2026-10-25T18:41:34.651981+00:00",
   "schema_version": 1
 }
