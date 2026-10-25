@@ -72,6 +72,14 @@
       "updated_at": "2026-10-25T06:06:35.906176+00:00",
       "url": "https://www.hindustantimes.com/india-news/the-great-regional-retreat-is-meghalaya-s-politics-being-recast-by-national-parties-101792906464778.html"
     },
+    "05e0ca9115aec66df425cb7f": {
+      "published_at": "2026-10-25T14:08:25+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Opinion of Cabinet sub-committee will be taken in reforming KSPC, says Karnataka Chief Minister",
+      "updated_at": "2026-10-25T15:14:01.293384+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/opinion-of-cabinet-sub-committee-will-be-taken-in-reforming-kspc-says-karnataka-chief-minister/article71623494.ece"
+    },
     "06275aa865466e5b1644448d": {
       "published_at": "2026-10-25T04:31:39+00:00",
       "source": "hindustantimes.com",
@@ -907,6 +915,14 @@
       "updated_at": "2026-10-25T08:05:16.910779+00:00",
       "url": "https://www.thehindu.com/news/international/serbia-elections-amid-students-protest/article71622730.ece"
     },
+    "513d4a9797c2ede1430e1545": {
+      "published_at": "2026-10-25T14:07:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bengaluru: Customs seize ganja, gold worth ₹2.55 crore at KIA",
+      "updated_at": "2026-10-25T15:14:01.293379+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-customs-seize-ganja-gold-worth-255-crore-at-kia/article71623453.ece"
+    },
     "520abfc2877cc30ff2ea52bf": {
       "published_at": "2026-10-25T11:54:30+00:00",
       "source": "thehindu.com",
@@ -1297,6 +1313,14 @@
       "title": "Insurance worker booked for rape in Sahiwal",
       "updated_at": "2026-10-25T05:06:02.358538+00:00",
       "url": "https://www.dawn.com/news/2039546/insurance-worker-booked-for-rape-in-sahiwal"
+    },
+    "763215db47b2e1ed894b5208": {
+      "published_at": "2026-10-25T14:09:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "How people’s genes are revealing why some languages are so unique",
+      "updated_at": "2026-10-25T15:14:01.293388+00:00",
+      "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
     },
     "774e9fc1f4419ee269fc435f": {
       "published_at": "2026-10-25T02:45:43+00:00",
@@ -2047,6 +2071,14 @@
       "title": "At least 150 Kuki militants missing from Manipur camp, security agencies alert Centre",
       "updated_at": "2026-10-25T05:36:21.216926+00:00",
       "url": "https://www.hindustantimes.com/india-news/at-least-150-kuki-militants-missing-from-manipur-camp-security-agencies-alert-centre-101792868115733.html"
+    },
+    "bbc2f387807a9766ce675cf9": {
+      "published_at": "2026-10-25T14:06:24+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "YSRCP alleges intimidation, irregularities in Chittoor municipal polls",
+      "updated_at": "2026-10-25T15:14:01.293364+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-alleges-intimidation-irregularities-in-chittoor-municipal-polls/article71623186.ece"
     },
     "bbcaa5c1370222d2080fe0ba": {
       "published_at": "2026-10-25T03:02:18+00:00",
@@ -2844,6 +2876,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:13:55.680500+00:00",
+  "last_cycle_at": "2026-10-25T15:14:01.293828+00:00",
   "schema_version": 1
 }
