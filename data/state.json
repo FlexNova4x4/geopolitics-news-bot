@@ -72,6 +72,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "05051e64daefbf734033befa": {
+      "published_at": "2026-10-25T15:44:50+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "TGSRTC woman conductor pushed off a moving bus by passenger, injured",
+      "updated_at": "2026-10-25T16:16:50.152774+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/tgsrtc-woman-conductor-pushed-off-a-moving-bus-by-passenger-injured/article71624089.ece"
+    },
     "058ce8f9ca82f475c2cdb219": {
       "published_at": "2026-10-25T05:34:24+00:00",
       "source": "hindustantimes.com",
@@ -530,6 +538,14 @@
       "title": "BIE says 3,241 junior colleges granted admission permissions across Telangana",
       "updated_at": "2026-10-25T16:14:04.187977+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/bie-says-3241-junior-colleges-granted-admission-permissions-across-telangana/article71623819.ece"
+    },
+    "25055fe601576605c587032b": {
+      "published_at": "2026-10-25T15:48:52+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kalaburagi’s GI-tagged tur dal wins PM’s praise after export to Maldives",
+      "updated_at": "2026-10-25T16:16:50.152795+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/kalaburagis-gi-tagged-tur-dal-wins-pms-praise-after-maldives-export/article71623784.ece"
     },
     "26315826209faa6b9171dad7": {
       "published_at": "2026-10-24T22:28:37+00:00",
@@ -1095,6 +1111,14 @@
       "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
       "updated_at": "2026-10-25T06:34:24.747375+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss"
+    },
+    "4c4507b441e36f8a51901405": {
+      "published_at": "2026-10-25T15:47:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Trained 108 ambulance EMTs to provide first aid for eye trauma",
+      "updated_at": "2026-10-25T16:16:50.152792+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/trained-108-ambulance-emts-to-provide-first-aid-for-eye-trauma/article71624067.ece"
     },
     "4c6f6dc2f81840c7b9d13812": {
       "published_at": "2026-10-25T10:45:51+00:00",
@@ -2875,6 +2899,14 @@
       "updated_at": "2026-10-25T15:15:15.014913+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
     },
+    "ce6e9e29c1f44014c788c4b6": {
+      "published_at": "2026-10-25T15:45:49+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Centre dispatches 250 RAF personnel to Arunachal Pradesh as Siang hydropower project protest turns violent",
+      "updated_at": "2026-10-25T16:16:50.152788+00:00",
+      "url": "https://www.hindustantimes.com/india-news/arunachal-pradesh-violence-centre-dispatches-250-raf-personnel-amid-siang-hydropower-project-protest-101792941341346.html"
+    },
     "cf59a2d6364a524f8ecc208a": {
       "published_at": "2026-10-25T08:13:32+00:00",
       "source": "hindustantimes.com",
@@ -3636,6 +3668,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:16:43.436709+00:00",
+  "last_cycle_at": "2026-10-25T16:16:50.153412+00:00",
   "schema_version": 1
 }
