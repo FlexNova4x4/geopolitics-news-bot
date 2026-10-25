@@ -1201,9 +1201,10 @@
     "964cfdee41a23f48c9e18345": {
       "published_at": "2026-10-25T09:57:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10237,
       "title": "Bangladesh seeks details from Saudi Arabia on execution of two citizens: report",
-      "updated_at": "2026-10-25T10:05:06.362675+00:00",
+      "updated_at": "2026-10-25T10:05:08.555758+00:00",
       "url": "https://www.thehindu.com/news/international/bangladesh-seeks-details-from-saudi-arabia-on-execution-of-two-citizens-report/article71622976.ece"
     },
     "96578dc5c73bfdb3c492472c": {
@@ -2105,6 +2106,6 @@
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T10:05:06.362999+00:00",
+  "last_cycle_at": "2026-10-25T10:05:11.756436+00:00",
   "schema_version": 1
 }
