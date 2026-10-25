@@ -2736,9 +2736,10 @@
     "a0f98c42e671b2d28e2a751a": {
       "published_at": "2026-10-25T22:22:53+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10496,
       "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-      "updated_at": "2026-10-25T23:00:30.668829+00:00",
+      "updated_at": "2026-10-25T23:00:33.413228+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
     },
     "a115a13265dec7156f4d0964": {
@@ -4391,6 +4392,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T23:00:30.669428+00:00",
+  "last_cycle_at": "2026-10-25T23:00:36.613958+00:00",
   "schema_version": 1
 }
