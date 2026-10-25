@@ -269,6 +269,14 @@
       "updated_at": "2026-10-25T06:34:49.398404+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
     },
+    "2afbfe3aee06e59f7a0deee7": {
+      "published_at": "2026-10-25T06:28:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Nilgiris district hit by 62 minor landslips in a day till October 25 morning",
+      "updated_at": "2026-10-25T06:35:28.343336+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/nilgiris-district-hit-by-62-minor-landslips-in-a-day-till-october-25-2026-morning/article71622616.ece"
+    },
     "2cdc6dcb065cda9bbc26f623": {
       "published_at": "2026-10-25T01:00:56+00:00",
       "source": "hindustantimes.com",
@@ -438,6 +446,14 @@
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "updated_at": "2026-10-25T01:05:16.564108+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+    },
+    "476fcdd51b26ff98975ea435": {
+      "published_at": "2026-10-25T06:31:48+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone to cross Andhra coast on October 28; people in low-lying areas from Bapatla to Vizianagaram to be evacuated",
+      "updated_at": "2026-10-25T06:35:28.343341+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-to-cross-andhra-coast-on-october-28-people-in-low-lying-areas-from-bapatla-to-vizianagaram-to-be-evacuated/article71620236.ece"
     },
     "477c872a0b59fe25db26952d": {
       "published_at": "2026-10-24T18:52:57+00:00",
@@ -1314,6 +1330,14 @@
       "updated_at": "2026-10-25T06:05:58.357941+00:00",
       "url": "https://www.thehindu.com/news/international/france-october-17-protest-the-hindu-profiles/article71621130.ece"
     },
+    "f8b134d77ef1591439ded823": {
+      "published_at": "2026-10-25T06:26:50+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "India slams Pakistan at UN, says military remains country’s ‘real rulers’",
+      "updated_at": "2026-10-25T06:35:28.343316+00:00",
+      "url": "https://www.thehindu.com/news/national/india-slams-pakistan-at-un-says-military-remains-countrys-real-rulers/article71622651.ece"
+    },
     "fbadcc89aedcb56ee9198ebb": {
       "published_at": "2026-10-25T05:09:13+00:00",
       "source": "thehindu.com",
@@ -1395,6 +1419,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T06:35:23.804891+00:00",
+  "last_cycle_at": "2026-10-25T06:35:28.343503+00:00",
   "schema_version": 1
 }
