@@ -72,6 +72,14 @@
       "updated_at": "2026-10-25T02:35:47.273504+00:00",
       "url": "https://www.dawn.com/news/2039678/pakistan-railways-declares-emergency-until-dec-31-after-repeated-accidents"
     },
+    "1bddb0948a2186c4c5b46ab9": {
+      "published_at": "2026-10-25T04:30:24+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Nasirabad pylon blast cuts power to many areas of Sindh, Punjab",
+      "updated_at": "2026-10-25T05:05:29.794660+00:00",
+      "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas-of-sindh-punjab"
+    },
     "1f4bee06e2b5fa2cf7ec1b97": {
       "published_at": "2026-10-24T23:49:00+00:00",
       "source": "rss.dw.com",
@@ -219,6 +227,14 @@
       "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
       "updated_at": "2026-10-25T00:19:16.212300+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
+    },
+    "6256f5fe4e7f2e3850af8799": {
+      "published_at": "2026-10-25T04:43:16+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Two Ahmadis sentenced in hate speech case by Lahore sessions court",
+      "updated_at": "2026-10-25T05:05:29.794663+00:00",
+      "url": "https://www.dawn.com/news/2039552/two-ahmadis-sentenced-in-hate-speech-case-by-lahore-sessions-court"
     },
     "62ac872982ab0d91921c6e13": {
       "published_at": "2026-10-24T21:08:51+00:00",
@@ -479,6 +495,22 @@
       "updated_at": "2026-10-24T22:47:16.636863+00:00",
       "url": "https://thediplomat.com/2026/10/japan-needs-higher-interest-rates"
     },
+    "f17074f2bff6dfa7b5decd9b": {
+      "published_at": "2026-10-25T01:20:19+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Revenue target for NHA more than doubled, says minister",
+      "updated_at": "2026-10-25T05:05:29.794642+00:00",
+      "url": "https://www.dawn.com/news/2039549/revenue-target-for-nha-more-than-doubled-says-minister"
+    },
+    "f32c61db06e6f953d3a969c4": {
+      "published_at": "2026-10-25T04:19:35+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Factors behind Pakistan’s push for joint production in defence pacts",
+      "updated_at": "2026-10-25T05:05:29.794657+00:00",
+      "url": "https://www.dawn.com/news/2039659/factors-behind-pakistans-push-for-joint-production-in-defence-pacts"
+    },
     "f719c2e59baa960efe4b3af5": {
       "published_at": "2026-10-24T07:53:40+00:00",
       "source": "YouTube",
@@ -522,6 +554,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T04:36:03.612421+00:00",
+  "last_cycle_at": "2026-10-25T05:05:29.794735+00:00",
   "schema_version": 1
 }
