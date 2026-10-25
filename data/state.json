@@ -3445,9 +3445,10 @@
     "d54947b887a680d3177878d0": {
       "published_at": "2026-10-25T19:02:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10475,
       "title": "A Korean cultural evening in Hyderabad, with a distinctly Telangana touch",
-      "updated_at": "2026-10-25T19:12:51.737105+00:00",
+      "updated_at": "2026-10-25T19:12:54.048864+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/a-korean-cultural-evening-in-hyderabad-with-a-distinctly-telangana-touch/article71624250.ece"
     },
     "d58590effe1c443fb536bca4": {
@@ -4220,6 +4221,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T19:12:51.737836+00:00",
+  "last_cycle_at": "2026-10-25T19:12:57.250069+00:00",
   "schema_version": 1
 }
