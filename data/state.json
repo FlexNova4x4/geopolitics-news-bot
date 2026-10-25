@@ -9,6 +9,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "08d9f98c6cf930410f2f0c4c": {
+      "published_at": "2026-10-25T03:20:22+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "ATC warns Imaan, Hadi of verdict sans testimony in security breach case",
+      "updated_at": "2026-10-25T03:35:14.476508+00:00",
+      "url": "https://www.dawn.com/news/2039682/atc-warns-imaan-hadi-of-verdict-sans-testimony-in-security-breach-case"
+    },
     "0b7a7abdb90c68a961048592": {
       "published_at": "2026-10-25T02:25:55+00:00",
       "source": "dawn.com",
@@ -123,6 +131,22 @@
       "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
       "updated_at": "2026-10-24T23:59:28.971835+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
+    },
+    "50646b1f51a7a5ac5f3a5f3c": {
+      "published_at": "2026-10-25T03:16:52+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Supreme Court questions Sindh govt’s property claim",
+      "updated_at": "2026-10-25T03:35:14.476505+00:00",
+      "url": "https://www.dawn.com/news/2039585/supreme-court-questions-sindh-govts-property-claim"
+    },
+    "512296d1fdccc4355da3c305": {
+      "published_at": "2026-10-25T03:04:15+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "JUI-F KP directs leaders to quit ARDC",
+      "updated_at": "2026-10-25T03:35:14.476485+00:00",
+      "url": "https://www.dawn.com/news/2039587/jui-f-kp-directs-leaders-to-quit-ardc"
     },
     "551ad10991720ea0b069d61c": {
       "published_at": "2026-10-24T14:13:25+00:00",
@@ -345,6 +369,14 @@
       "updated_at": "2026-10-24T23:59:10.577035+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
     },
+    "db03056f068ac83473e99bf4": {
+      "published_at": "2026-10-25T03:12:41+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Wapda inks Rs133bn deal for Diamer-Bhasha Dam project",
+      "updated_at": "2026-10-25T03:35:14.476502+00:00",
+      "url": "https://www.dawn.com/news/2039586/wapda-inks-rs133bn-deal-for-diamer-bhasha-dam-project"
+    },
     "df0599f31410b2f5951a384e": {
       "published_at": "2026-10-23T16:16:07+00:00",
       "source": "YouTube",
@@ -405,6 +437,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T03:05:32.729247+00:00",
+  "last_cycle_at": "2026-10-25T03:35:14.476574+00:00",
   "schema_version": 1
 }
