@@ -333,6 +333,14 @@
       "updated_at": "2026-10-25T05:37:28.037684+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece"
     },
+    "20da4af74ca59b81bc2bd93f": {
+      "published_at": "2026-10-25T11:09:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "MCC renews push for ‘flex-free’ city beyond Dasara",
+      "updated_at": "2026-10-25T11:34:44.468325+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/mcc-renews-push-for-flex-free-city-beyond-dasara/article71623051.ece"
+    },
     "21ab0ac81916b29cdb5a7452": {
       "published_at": "2026-10-25T09:40:55+00:00",
       "source": "thehindu.com",
@@ -664,6 +672,14 @@
       "updated_at": "2026-10-25T08:05:29.594923+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kssp-supports-distribution-of-generic-drugs-for-sma-patients-in-keralam/article71622756.ece"
     },
+    "465ed40cfd3b0af7cd8f17a9": {
+      "published_at": "2026-10-25T10:50:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+      "updated_at": "2026-10-25T11:34:44.468307+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
+    },
     "476fcdd51b26ff98975ea435": {
       "published_at": "2026-10-25T06:31:48+00:00",
       "source": "thehindu.com",
@@ -850,6 +866,14 @@
       "title": "Korean Dramas: Ukraine, Russia, and Where South Korea Begins",
       "updated_at": "2026-10-24T22:47:12.523495+00:00",
       "url": "https://thediplomat.com/2026/10/korean-dramas-ukraine-russia-and-where-south-korea-begins"
+    },
+    "5c2d244e8a615ca8f4db9e35": {
+      "published_at": "2026-10-25T11:12:50+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Schools shut, officials' leaves cancelled: Odisha steps up preparedness as severe cyclonic storm nears Andhra coast",
+      "updated_at": "2026-10-25T11:34:44.468328+00:00",
+      "url": "https://www.hindustantimes.com/india-news/odisha-schools-offices-severe-cyclonic-storm-bay-of-bengal-andhra-coast-tamil-nadu-rainfall-imd-alert-101792920225200.html"
     },
     "5c4349ed93fa8b75fd8fbee4": {
       "published_at": "2026-10-23T12:13:00+00:00",
@@ -2284,8 +2308,16 @@
       "title": "Rahul Gandhi likely to appear before special MP/MLA court in UP on October 26",
       "updated_at": "2026-10-25T10:04:55.807954+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
+    },
+    "ffd1e83ff40598d74f8dab76": {
+      "published_at": "2026-10-25T11:15:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rajasthan gram panchayat polls: second phase held amid reports of minor clashes, protests",
+      "updated_at": "2026-10-25T11:34:44.468330+00:00",
+      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T11:34:38.912736+00:00",
+  "last_cycle_at": "2026-10-25T11:34:44.468605+00:00",
   "schema_version": 1
 }
