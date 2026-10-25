@@ -53,17 +53,19 @@ def _tag_slug(value: str) -> str:
 
 
 def _format_post(item: dict, story) -> str:
-    headline = str(item.get("headline", "")).strip()[:220]
-    summary = str(item.get("summary", "")).strip()[:1500]
-    analysis = str(item.get("analysis", "")).strip()[:700]
+    """Build the agreed compact post: English headline/category, Hindi body, date/time in headline."""
+    headline = str(item.get("headline", "")).strip()[:180]
+    summary = str(item.get("summary", "")).strip()[:1200]
+    analysis = str(item.get("analysis", "")).strip()[:650]
 
     try:
         local_dt = datetime.fromtimestamp(story.published_ts, ZoneInfo("Asia/Kolkata"))
-        date_line = local_dt.strftime("%d %b %Y, %I:%M %p IST")
+        date_part = local_dt.strftime("%d %b")
+        time_part = local_dt.strftime("%I %p").lstrip("0")
+        date_line = f"{date_part} · {time_part}"
     except (ValueError, OSError, OverflowError):
-        date_line = story.published_at or "Date unavailable"
+        date_line = "Date/time unavailable"
 
-    region = str(item.get("region", "")).strip()[:60]
     topics_value = item.get("topics", [])
     if isinstance(topics_value, str):
         topics = [t.strip() for t in re.split(r"[,;|]", topics_value) if t.strip()]
@@ -71,31 +73,57 @@ def _format_post(item: dict, story) -> str:
         topics = [str(t).strip() for t in topics_value if str(t).strip()]
     else:
         topics = []
-    if not topics and getattr(story, "tags", None):
-        topics = list(story.tags[:3])
-    if not region:
-        region = "Global"
-    topics = topics[:3]
-
-    # Canonical region/topic labels are in English for consistent searchable tags;
-    # the story itself remains in Hindi.
-    hashtag_values = []
-    for value in [region, *topics]:
-        slug = _tag_slug(value)
-        if slug and slug.lower() not in {x.lower() for x in hashtag_values}:
-            hashtag_values.append(slug)
-    tag_line = " ".join("#" + value for value in hashtag_values[:4])
+    topics = topics[:3] or ["World News"]
 
     pieces = [
-        f"🌍 {headline}",
-        f"📅 प्रकाशित: {date_line}",
-        f"🗺️ क्षेत्र / Region: {region}",
-        ("🏷️ विषय / Topics: " + " · ".join(topics)) if topics else "",
-        summary,
-        ("🇮🇳 भारत के लिए महत्व: " + analysis) if analysis else "",
-        tag_line,
-        f"स्रोत: {story.source}\n{story.url}",
+        f"🌍 {headline} | {date_line}",
+        "🏷️ Category: " + " · ".join(topics),
     ]
+
+    positions_value = item.get("positions", [])
+    positions = []
+    if isinstance(positions_value, list):
+        for entry in positions_value[:3]:
+            if not isinstance(entry, dict):
+                continue
+            side = str(entry.get("side", "")).strip()[:90]
+            position = str(entry.get("position", "")).strip()[:650]
+            if side and position:
+                positions.append(f"🔹 {side}: {position}")
+
+    # Show separately attributed positions where the source supports them;
+    # otherwise keep the regular Hindi news summary.
+    if positions:
+        pieces.extend(positions)
+    elif summary:
+        pieces.append("📰 " + summary)
+
+    if analysis:
+        pieces.append("🇮🇳 भारत पर असर: " + analysis)
+
+    source_key = str(getattr(story, "source", "")).strip().lower()
+    source_hosts = {
+        "aljazeera.com": "Al Jazeera",
+        "www.aljazeera.com": "Al Jazeera",
+        "thediplomat.com": "The Diplomat",
+        "www.thediplomat.com": "The Diplomat",
+        "bbc.com": "BBC News",
+        "www.bbc.com": "BBC News",
+        "bbc.co.uk": "BBC News",
+        "www.bbc.co.uk": "BBC News",
+        "dawn.com": "Dawn",
+        "www.dawn.com": "Dawn",
+        "mea.gov.in": "MEA India",
+        "www.mea.gov.in": "MEA India",
+        "pib.gov.in": "PIB India",
+        "www.pib.gov.in": "PIB India",
+        "youtube.com": "YouTube",
+        "www.youtube.com": "YouTube",
+        "youtu.be": "YouTube",
+    }
+    # Existing collector source labels are usually a hostname; leave named labels untouched.
+    source_label = source_hosts.get(source_key, str(getattr(story, "source", "Source")).strip() or "Source")
+    pieces.append(f"🔗 स्रोत: {source_label}\n{story.url}")
     return "\n\n".join(piece for piece in pieces if piece).strip()
 
 
