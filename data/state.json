@@ -414,6 +414,14 @@
       "updated_at": "2026-10-25T16:14:52.489118+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
     },
+    "1e8268a244f5025ec8e01dc4": {
+      "published_at": "2026-10-25T15:25:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Farmers should explore crops that need less water: SPDCL CMD",
+      "updated_at": "2026-10-25T16:15:39.709653+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/farmers-should-explore-crops-that-need-less-water-spdcl-cmd/article71623902.ece"
+    },
     "1f4bee06e2b5fa2cf7ec1b97": {
       "published_at": "2026-10-24T23:49:00+00:00",
       "source": "rss.dw.com",
@@ -1614,6 +1622,14 @@
       "updated_at": "2026-10-25T05:40:50.126815+00:00",
       "url": "https://www.thehindu.com/news/international/musk-accuses-ukraine-of-violating-starlink-terms-by-using-it-for-offensive-drone-strikes/article71622539.ece"
     },
+    "71624a917528bbf7518c37d2": {
+      "published_at": "2026-10-25T15:26:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Hyderabad’s Osmania General Hospital strengthens gender-affirming surgical care for transgender people",
+      "updated_at": "2026-10-25T16:15:39.709670+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-osmania-general-hospital-strengthens-gender-affirming-surgical-care-for-transgender-people/article71622590.ece"
+    },
     "72409e7b4cb4479b8e842e1e": {
       "published_at": "2026-10-25T09:16:33+00:00",
       "source": "thehindu.com",
@@ -2132,6 +2148,14 @@
       "title": "Govt. to fund half the cost of deepwater wells, recover money from winners",
       "updated_at": "2026-10-25T07:35:28.169086+00:00",
       "url": "https://www.thehindu.com/news/national/government-to-pay-up-to-half-the-cost-of-risky-deepwater-exploration-wells/article71622746.ece"
+    },
+    "9d323ce167023fbd221d1f68": {
+      "published_at": "2026-10-25T15:27:48+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "CoRWA summit to discuss NH 66 bypass woes, delay in Kochi metro’s Kakkanad extension",
+      "updated_at": "2026-10-25T16:15:39.709674+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/corwa-summit-to-discuss-nh-66-bypass-woes-delay-in-kochi-metros-kakkanad-extension/article71616711.ece"
     },
     "9d88192a0527d290d8a1c75e": {
       "published_at": "2026-10-23T15:46:00+00:00",
@@ -3384,6 +3408,14 @@
       "updated_at": "2026-10-25T07:05:07.182384+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-vanni-arasu-reviews-monsoon-preparedness-in-villupuram/article71622629.ece"
     },
+    "f9e2e6b3702535ba7f4a91b3": {
+      "published_at": "2026-10-25T15:32:51+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "updated_at": "2026-10-25T16:15:39.709678+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+    },
     "fbadcc89aedcb56ee9198ebb": {
       "published_at": "2026-10-25T05:09:13+00:00",
       "source": "thehindu.com",
@@ -3528,6 +3560,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:15:07.682671+00:00",
+  "last_cycle_at": "2026-10-25T16:15:39.710272+00:00",
   "schema_version": 1
 }
