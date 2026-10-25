@@ -729,9 +729,10 @@
     "a506a69459cf8c8e4ee3d549": {
       "published_at": "2026-10-25T03:33:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10113,
       "title": "More Lula, or back to the Bolsonaros? Brazil votes in cliffhanger",
-      "updated_at": "2026-10-25T05:39:56.481503+00:00",
+      "updated_at": "2026-10-25T05:40:02.473715+00:00",
       "url": "https://www.thehindu.com/news/international/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger/article71622490.ece"
     },
     "a6def70ddd121613b81f6e1c": {
@@ -860,9 +861,10 @@
     "d6cfd4f710ea8c69c5d628b0": {
       "published_at": "2026-10-25T03:54:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10114,
       "title": "Trump casts his midterm ballot early in Florida",
-      "updated_at": "2026-10-25T05:39:56.481507+00:00",
+      "updated_at": "2026-10-25T05:40:06.378235+00:00",
       "url": "https://www.thehindu.com/news/international/trump-casts-his-midterm-ballot-early-in-florida/article71621475.ece"
     },
     "d7326455d3174baa940e497a": {
@@ -894,9 +896,10 @@
     "e749d6eb84069fcff952587f": {
       "published_at": "2026-10-25T03:29:32+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10112,
       "title": "5 of family among 6 killed in Rajasthan car-truck collision, infant sole survivor",
-      "updated_at": "2026-10-25T05:39:56.481489+00:00",
+      "updated_at": "2026-10-25T05:39:58.539535+00:00",
       "url": "https://www.hindustantimes.com/india-news/5-of-family-among-6-killed-in-rajasthan-car-truck-collision-infant-sole-survivor-101792896406354.html"
     },
     "ebe36ea7d3528c57697ce421": {
@@ -972,9 +975,10 @@
     "fcec1db741d9563f60fbb768": {
       "published_at": "2026-10-25T03:55:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10115,
       "title": "Immigrants seeking U.S. citizenship targeted in Trump administration's illegal voting crackdown",
-      "updated_at": "2026-10-25T05:39:56.481510+00:00",
+      "updated_at": "2026-10-25T05:40:10.284436+00:00",
       "url": "https://www.thehindu.com/news/international/immigrants-seeking-us-citizenship-face-charges-in-a-crackdown-on-illegal-voting-and-citizenship-fraud/article71614953.ece"
     },
     "fd30241a8824df844b722f5a": {
@@ -1013,6 +1017,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:39:56.481713+00:00",
+  "last_cycle_at": "2026-10-25T05:40:13.485210+00:00",
   "schema_version": 1
 }
