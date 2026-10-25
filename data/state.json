@@ -21,9 +21,10 @@
     "02b08a92237d2df1fc69e714": {
       "published_at": "2026-10-25T09:54:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10239,
       "title": "When safety slips through a gaping hole in Chennai’s MRTS stations",
-      "updated_at": "2026-10-25T10:34:21.596586+00:00",
+      "updated_at": "2026-10-25T10:34:24.149742+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/safety-at-the-mrts-railway-stations-in-chennai/article71620990.ece"
     },
     "0341e669e1f302ba2fe8096c": {
@@ -65,9 +66,10 @@
     "0747f4615b93967f2301b568": {
       "published_at": "2026-10-25T09:57:40+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10240,
       "title": "Qatar official calls for peace and security to boost trade, investment",
-      "updated_at": "2026-10-25T10:34:21.596596+00:00",
+      "updated_at": "2026-10-25T10:34:28.036251+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss"
     },
     "08d15d0a4ec86561e07bee5e": {
@@ -154,9 +156,10 @@
     "1067f720ed8ddbd666d764f0": {
       "published_at": "2026-10-25T10:06:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10241,
       "title": "At least 22 killed in Kenya bus crash near site of previous fatal accident",
-      "updated_at": "2026-10-25T10:34:21.596599+00:00",
+      "updated_at": "2026-10-25T10:34:31.916837+00:00",
       "url": "https://www.thehindu.com/news/international/kenya-bus-crash-several-killed-october-25-2026/article71622975.ece"
     },
     "106d7357b4775c08523ac5fe": {
@@ -2016,9 +2019,10 @@
     "f844d6e4d9c58ea3d5d8d3a9": {
       "published_at": "2026-10-25T10:08:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10242,
       "title": "PM Modi witnesses IAF air show in Varanasi",
-      "updated_at": "2026-10-25T10:34:21.596600+00:00",
+      "updated_at": "2026-10-25T10:34:35.751416+00:00",
       "url": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece"
     },
     "f8b134d77ef1591439ded823": {
@@ -2138,6 +2142,6 @@
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T10:34:21.596793+00:00",
+  "last_cycle_at": "2026-10-25T10:34:38.952199+00:00",
   "schema_version": 1
 }
