@@ -254,9 +254,10 @@
     "2ac5d225560f70aa9efb31de": {
       "published_at": "2026-10-25T02:27:15+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10151,
       "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "updated_at": "2026-10-25T06:34:43.574006+00:00",
+      "updated_at": "2026-10-25T06:34:49.398404+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
     },
     "2cdc6dcb065cda9bbc26f623": {
@@ -342,9 +343,10 @@
     "35c67fdb10b3910ba1b39a56": {
       "published_at": "2026-10-25T03:20:16+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10152,
       "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
-      "updated_at": "2026-10-25T06:34:43.574009+00:00",
+      "updated_at": "2026-10-25T06:34:53.310221+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
     },
     "390b335947f0cfae8304a891": {
@@ -1218,9 +1220,10 @@
     "ee273e8d6d2effa2e3171640": {
       "published_at": "2026-10-24T23:50:02+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10150,
       "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-      "updated_at": "2026-10-25T06:34:43.573990+00:00",
+      "updated_at": "2026-10-25T06:34:45.538216+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
     },
     "f17074f2bff6dfa7b5decd9b": {
@@ -1349,12 +1352,13 @@
     "ff00da6ff48d059a4de4b5a6": {
       "published_at": "2026-10-25T05:15:52+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10153,
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "updated_at": "2026-10-25T06:34:43.574011+00:00",
+      "updated_at": "2026-10-25T06:34:57.183129+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T06:34:43.574183+00:00",
+  "last_cycle_at": "2026-10-25T06:35:00.384186+00:00",
   "schema_version": 1
 }
