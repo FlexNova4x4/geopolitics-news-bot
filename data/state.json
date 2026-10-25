@@ -439,6 +439,14 @@
       "updated_at": "2026-10-24T23:59:28.971835+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
     },
+    "4ae7702a22d3612dfcd0dec6": {
+      "published_at": "2026-10-24T22:58:43+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+      "updated_at": "2026-10-25T06:34:22.713218+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss"
+    },
     "50646b1f51a7a5ac5f3a5f3c": {
       "published_at": "2026-10-25T03:16:52+00:00",
       "source": "dawn.com",
@@ -605,6 +613,14 @@
       "title": "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
       "updated_at": "2026-10-25T05:41:28.882730+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
+    },
+    "6e81a0dcdc2b30442b469f92": {
+      "published_at": "2026-10-24T23:02:51+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "updated_at": "2026-10-25T06:34:22.713234+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss"
     },
     "7132157c130931055a1a4ad2": {
       "published_at": "2026-10-25T04:18:21+00:00",
@@ -784,6 +800,14 @@
       "updated_at": "2026-10-25T05:36:03.443176+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece"
     },
+    "9374b36218aa40d4d311bff3": {
+      "published_at": "2026-10-24T23:03:21+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "updated_at": "2026-10-25T06:34:22.713240+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss"
+    },
     "9418581b7f6efb4b6eff5009": {
       "published_at": "2026-10-25T04:49:55+00:00",
       "source": "dawn.com",
@@ -905,6 +929,14 @@
       "title": "Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand",
       "updated_at": "2026-10-25T05:39:12.335310+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
+    },
+    "a88b3d03ee9856d2bd56a75a": {
+      "published_at": "2026-10-24T23:03:09+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "updated_at": "2026-10-25T06:34:22.713237+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
     },
     "a9fc2dd191984b3d6a7c9816": {
       "published_at": "2026-10-25T04:18:38+00:00",
@@ -1287,6 +1319,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T06:07:04.585806+00:00",
+  "last_cycle_at": "2026-10-25T06:34:22.713387+00:00",
   "schema_version": 1
 }
