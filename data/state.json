@@ -718,6 +718,14 @@
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
+    "409489efcdb60ceddcd8840f": {
+      "published_at": "2026-10-25T14:02:24+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Safeguard financial institutions against cyber terrorists: PM Modi",
+      "updated_at": "2026-10-25T15:13:12.211764+00:00",
+      "url": "https://www.thehindu.com/news/national/odisha/safeguard-financial-institutions-against-cyber-terrorists-pm-modi/article71623483.ece"
+    },
     "40a0e8deac5616f4dc155fc7": {
       "published_at": "2026-10-25T13:29:56+00:00",
       "source": "aljazeera.com",
@@ -1477,6 +1485,14 @@
       "updated_at": "2026-10-24T22:52:55.758669+00:00",
       "url": "https://thediplomat.com/2026/10/the-next-chapter-of-africa-china-climate-cooperation"
     },
+    "85d0a0f97459b6e714b3b2be": {
+      "published_at": "2026-10-25T14:02:05+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Congress assure advocates of support on welfare issues, seeks support for party candidates in Graduate MLC polls",
+      "updated_at": "2026-10-25T15:13:12.211747+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/congress-assure-advocates-of-support-on-welfare-issues-seeks-support-for-party-candidates-in-graduate-mlc-polls/article71619990.ece"
+    },
     "8805445d4dc8a6f6155ccd33": {
       "published_at": "2026-10-25T02:22:19+00:00",
       "source": "dawn.com",
@@ -2155,6 +2171,14 @@
       "updated_at": "2026-10-25T15:10:53.455800+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss"
     },
+    "c5ec3b788912388614a1a403": {
+      "published_at": "2026-10-25T14:03:17+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+      "updated_at": "2026-10-25T15:13:12.211768+00:00",
+      "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss"
+    },
     "c5eee0900e364d6e8023dd0d": {
       "published_at": "2026-10-25T06:00:48+00:00",
       "source": "thehindu.com",
@@ -2495,6 +2519,14 @@
       "updated_at": "2026-10-25T09:34:44.140369+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss"
     },
+    "ebdfa33b4b0124e46db66ce8": {
+      "published_at": "2026-10-25T14:04:40+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Etala Rajender calls for permanent solution to Jawahar Nagar dumpyard pollution",
+      "updated_at": "2026-10-25T15:13:12.211771+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/etala-rajender-calls-for-permanent-solution-to-jawahar-nagar-dumpyard-pollution/article71623343.ece"
+    },
     "ebe36ea7d3528c57697ce421": {
       "published_at": "2026-10-23T13:28:00+00:00",
       "source": "Website",
@@ -2772,6 +2804,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:13:02.584302+00:00",
+  "last_cycle_at": "2026-10-25T15:13:12.212251+00:00",
   "schema_version": 1
 }
