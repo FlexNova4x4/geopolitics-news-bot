@@ -72,6 +72,14 @@
       "updated_at": "2026-10-25T05:38:19.479925+00:00",
       "url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
     },
+    "11f78ea66b52139c2900f3c1": {
+      "published_at": "2026-10-25T02:21:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Fresh clashes rock France as protesters march on",
+      "updated_at": "2026-10-25T05:39:10.385189+00:00",
+      "url": "https://www.thehindu.com/news/international/fresh-clashes-rock-france-as-protesters-march-on/article71622465.ece"
+    },
     "135bf913908718e670af8c71": {
       "published_at": "2026-10-24T21:17:02+00:00",
       "source": "thehindu.com",
@@ -622,6 +630,14 @@
       "updated_at": "2026-10-25T05:05:54.162144+00:00",
       "url": "https://www.dawn.com/news/2039545/governor-rejects-ex-health-ceos-plea-in-jhang-embezzlement-case"
     },
+    "96578dc5c73bfdb3c492472c": {
+      "published_at": "2026-10-25T02:17:20+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Delhi man arrested for posting ‘sting op’ clip targeting Siddaramaiah",
+      "updated_at": "2026-10-25T05:39:10.385186+00:00",
+      "url": "https://www.hindustantimes.com/india-news/delhi-man-arrested-for-posting-sting-op-clip-targeting-siddaramaiah-101792869975968.html"
+    },
     "982fd09da3a2325f2e1358d8": {
       "published_at": "2026-10-25T01:19:51+00:00",
       "source": "dawn.com",
@@ -672,6 +688,14 @@
       "updated_at": "2026-10-25T05:38:37.523425+00:00",
       "url": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece"
     },
+    "a1c8c1e947d667f0f7bc9ad7": {
+      "published_at": "2026-10-25T02:16:00+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "ED moves SC against HC order quashing case against NewsClick",
+      "updated_at": "2026-10-25T05:39:10.385183+00:00",
+      "url": "https://www.hindustantimes.com/india-news/ed-moves-sc-against-hc-order-quashing-case-against-newsclick-101792869616370.html"
+    },
     "a2b868bf8a4831b551cd6e0b": {
       "published_at": "2026-10-24T22:08:47+00:00",
       "source": "feeds.bbci.co.uk",
@@ -680,6 +704,14 @@
       "title": "Who are the candidates in Brazil's presidential election?",
       "updated_at": "2026-10-24T23:59:40.444527+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+    },
+    "a6def70ddd121613b81f6e1c": {
+      "published_at": "2026-10-25T02:04:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand",
+      "updated_at": "2026-10-25T05:39:10.385169+00:00",
+      "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
     },
     "ab32eb13a859b69f063f9d9a": {
       "published_at": "2026-10-24T20:41:06+00:00",
@@ -909,6 +941,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:39:05.649263+00:00",
+  "last_cycle_at": "2026-10-25T05:39:10.385365+00:00",
   "schema_version": 1
 }
