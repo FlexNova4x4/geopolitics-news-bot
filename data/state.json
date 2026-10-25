@@ -568,9 +568,10 @@
     "336d07ff0bf8ed86ad2c2f7a": {
       "published_at": "2026-10-25T12:38:54+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10295,
       "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-      "updated_at": "2026-10-25T15:11:09.136781+00:00",
+      "updated_at": "2026-10-25T15:11:15.497014+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss"
     },
     "3379ff067c67e965f75450d0": {
@@ -684,9 +685,10 @@
     "3e6aa50c9b6b63e9d83faef0": {
       "published_at": "2026-10-25T12:37:49+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10294,
       "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-      "updated_at": "2026-10-25T15:11:09.136762+00:00",
+      "updated_at": "2026-10-25T15:11:11.501849+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss"
     },
     "3fcd6f10560124f915c94c5a": {
@@ -1147,9 +1149,10 @@
     "6fe185b26c7b94045b10f1f1": {
       "published_at": "2026-10-25T12:40:20+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10296,
       "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-      "updated_at": "2026-10-25T15:11:09.136785+00:00",
+      "updated_at": "2026-10-25T15:11:19.401308+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss"
     },
     "700aa372894a48b9998e49bd": {
@@ -2279,9 +2282,10 @@
     "e45447987be3d824ed5c553c": {
       "published_at": "2026-10-25T12:40:51+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10297,
       "title": "MBBS student, 24, found dead on hostel lawn in Pratapgarh, probe underway",
-      "updated_at": "2026-10-25T15:11:09.136788+00:00",
+      "updated_at": "2026-10-25T15:11:23.416817+00:00",
       "url": "https://www.hindustantimes.com/india-news/mbbs-student-24-found-dead-on-hostel-lawn-in-pratapgarh-probe-underway-101792927664152.html"
     },
     "e636add91535f9ff2712dc4e": {
@@ -2624,6 +2628,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:11:09.137144+00:00",
+  "last_cycle_at": "2026-10-25T15:11:26.617672+00:00",
   "schema_version": 1
 }
