@@ -75,9 +75,10 @@
     "11f78ea66b52139c2900f3c1": {
       "published_at": "2026-10-25T02:21:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10107,
       "title": "Fresh clashes rock France as protesters march on",
-      "updated_at": "2026-10-25T05:39:10.385189+00:00",
+      "updated_at": "2026-10-25T05:39:24.078330+00:00",
       "url": "https://www.thehindu.com/news/international/fresh-clashes-rock-france-as-protesters-march-on/article71622465.ece"
     },
     "135bf913908718e670af8c71": {
@@ -633,9 +634,10 @@
     "96578dc5c73bfdb3c492472c": {
       "published_at": "2026-10-25T02:17:20+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10106,
       "title": "Delhi man arrested for posting ‘sting op’ clip targeting Siddaramaiah",
-      "updated_at": "2026-10-25T05:39:10.385186+00:00",
+      "updated_at": "2026-10-25T05:39:20.188935+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-man-arrested-for-posting-sting-op-clip-targeting-siddaramaiah-101792869975968.html"
     },
     "982fd09da3a2325f2e1358d8": {
@@ -691,9 +693,10 @@
     "a1c8c1e947d667f0f7bc9ad7": {
       "published_at": "2026-10-25T02:16:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10105,
       "title": "ED moves SC against HC order quashing case against NewsClick",
-      "updated_at": "2026-10-25T05:39:10.385183+00:00",
+      "updated_at": "2026-10-25T05:39:16.289493+00:00",
       "url": "https://www.hindustantimes.com/india-news/ed-moves-sc-against-hc-order-quashing-case-against-newsclick-101792869616370.html"
     },
     "a2b868bf8a4831b551cd6e0b": {
@@ -708,9 +711,10 @@
     "a6def70ddd121613b81f6e1c": {
       "published_at": "2026-10-25T02:04:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10104,
       "title": "Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand",
-      "updated_at": "2026-10-25T05:39:10.385169+00:00",
+      "updated_at": "2026-10-25T05:39:12.335310+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
     },
     "ab32eb13a859b69f063f9d9a": {
@@ -941,6 +945,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:39:10.385365+00:00",
+  "last_cycle_at": "2026-10-25T05:39:27.279139+00:00",
   "schema_version": 1
 }
