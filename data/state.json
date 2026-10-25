@@ -224,6 +224,14 @@
       "updated_at": "2026-10-25T05:38:15.558260+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece"
     },
+    "26ba1981b8f9a2a095f54a1f": {
+      "published_at": "2026-10-25T05:56:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Back pain: Lancet review calls for clinical assessment over routine scans",
+      "updated_at": "2026-10-25T06:06:47.627799+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/back-pain-lancet-review-calls-for-clinical-assessment-over-routine-scans/article71616294.ece"
+    },
     "27503d917e5b5fbcc9257584": {
       "published_at": "2026-10-25T04:06:14+00:00",
       "source": "thehindu.com",
@@ -286,6 +294,14 @@
       "title": "IAS officer Sajjan Singh Yadav named new J&K chief secretary, to take charge from November 1",
       "updated_at": "2026-10-25T05:39:02.448517+00:00",
       "url": "https://www.hindustantimes.com/india-news/sajjan-singh-yadav-appointed-chief-secretary-of-jammu-and-kashmir-101792864816023.html"
+    },
+    "2f73e0a6fb17dd4bf124b1ac": {
+      "published_at": "2026-10-25T05:53:44+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "ISRO to have four launch pads by 2029, says Narayanan",
+      "updated_at": "2026-10-25T06:06:47.627781+00:00",
+      "url": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece"
     },
     "2f7502d1d5dcda5ebf8cff6a": {
       "published_at": "2026-10-24T21:02:55+00:00",
@@ -1003,6 +1019,14 @@
       "updated_at": "2026-10-24T23:59:19.369164+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
     },
+    "c47d88325070e88f1bfdaaf3": {
+      "published_at": "2026-10-25T05:58:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Influencer Diya Krishna faces potential legal notice for allegedly endorsing ‘divisive’ Instagram post",
+      "updated_at": "2026-10-25T06:06:47.627805+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/influencer-diya-krishna-faces-potential-legal-notice-for-allegedly-endorsing-divisive-instagram-post/article71622583.ece"
+    },
     "c57c995aed21182697ff6a61": {
       "published_at": "2026-10-25T04:52:21+00:00",
       "source": "dawn.com",
@@ -1011,6 +1035,14 @@
       "title": "Objectionable material: Lahore man arrested for blackmailing minors",
       "updated_at": "2026-10-25T05:05:58.252770+00:00",
       "url": "https://www.dawn.com/news/2039547/objectionable-material-lahore-man-arrested-for-blackmailing-minors"
+    },
+    "c5eee0900e364d6e8023dd0d": {
+      "published_at": "2026-10-25T06:00:48+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Police hold flag march in Narasaraopet ahead of local body polls",
+      "updated_at": "2026-10-25T06:06:47.627809+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-hold-flag-march-in-narasaraopet-ahead-of-local-body-polls/article71619593.ece"
     },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
@@ -1251,6 +1283,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T06:06:43.191868+00:00",
+  "last_cycle_at": "2026-10-25T06:06:47.628223+00:00",
   "schema_version": 1
 }
