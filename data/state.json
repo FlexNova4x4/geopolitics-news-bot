@@ -961,6 +961,14 @@
       "updated_at": "2026-10-25T05:36:43.493948+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/brs-hits-back-at-govt-terms-as-lies-claims-on-energy-water-for-irrigation/article71620843.ece"
     },
+    "39176560a1962c7c7f42a98e": {
+      "published_at": "2026-10-25T17:34:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Free medical camp held for construction workers in Vellore",
+      "updated_at": "2026-10-25T18:13:58.270592+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/free-medical-camp-held-for-construction-workers-in-vellore/article71623138.ece"
+    },
     "394c1b37d8ee881b2942a9f7": {
       "published_at": "2026-10-25T11:23:11+00:00",
       "source": "thehindu.com",
@@ -1696,6 +1704,14 @@
       "updated_at": "2026-10-25T04:06:13.654815+00:00",
       "url": "https://www.dawn.com/news/2039684/death-toll-from-collision-between-passenger-coach-and-minibus-near-balochistans-uthal-rises-to-15"
     },
+    "6997007871d52ae3dc68d285": {
+      "published_at": "2026-10-25T17:39:42+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Can protests in Europe bring about change?",
+      "updated_at": "2026-10-25T18:13:58.270599+00:00",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss"
+    },
     "69ed75e6ee354f52f12f4df9": {
       "published_at": "2026-10-23T14:42:00+00:00",
       "source": "Website",
@@ -2358,6 +2374,14 @@
       "title": "Governor rejects ex-health CEO’s plea in Jhang embezzlement case",
       "updated_at": "2026-10-25T05:05:54.162144+00:00",
       "url": "https://www.dawn.com/news/2039545/governor-rejects-ex-health-ceos-plea-in-jhang-embezzlement-case"
+    },
+    "94642db6a084efb54b352850": {
+      "published_at": "2026-10-25T17:26:22+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+      "updated_at": "2026-10-25T18:13:58.270578+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss"
     },
     "94ac3732d3c8ed7c2187849f": {
       "published_at": "2026-10-25T08:36:47+00:00",
@@ -3719,6 +3743,14 @@
       "updated_at": "2026-10-25T18:12:44.262713+00:00",
       "url": "https://www.thehindu.com/news/national/the-road-ahead-for-the-asiatic-lion/article71309290.ece"
     },
+    "efec5c59c8280662ace8c082": {
+      "published_at": "2026-10-25T17:38:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Two persons arrested in Ranipet for stealing two-wheelers",
+      "updated_at": "2026-10-25T18:13:58.270596+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-in-ranipet-for-stealing-two-wheelers/article71623047.ece"
+    },
     "f0d9af4482809cd2e7b0e187": {
       "published_at": "2026-10-25T16:55:08+00:00",
       "source": "thehindu.com",
@@ -4077,6 +4109,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:13:49.823869+00:00",
+  "last_cycle_at": "2026-10-25T18:13:58.271212+00:00",
   "schema_version": 1
 }
