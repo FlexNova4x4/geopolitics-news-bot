@@ -36,6 +36,14 @@
       "updated_at": "2026-10-25T10:34:24.149742+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/safety-at-the-mrts-railway-stations-in-chennai/article71620990.ece"
     },
+    "031348487f4a98c88df65555": {
+      "published_at": "2026-10-25T12:24:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Stranded Iranian sailors receive urgent medical assistance in Sri Lanka",
+      "updated_at": "2026-10-25T15:10:47.192293+00:00",
+      "url": "https://www.thehindu.com/news/international/stranded-iranian-sailors-receive-urgent-medical-assistance-in-sri-lanka/article71623159.ece"
+    },
     "0341e669e1f302ba2fe8096c": {
       "published_at": "2026-10-25T07:18:57+00:00",
       "source": "thehindu.com",
@@ -1617,6 +1625,14 @@
       "updated_at": "2026-10-24T23:59:40.444527+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
     },
+    "a2eb6e51b01654396342a2e5": {
+      "published_at": "2026-10-25T12:11:03+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Delhi to set up first-aid facilities in all 1,086 government schools at annual cost of ₹48.87 crore",
+      "updated_at": "2026-10-25T15:10:47.192272+00:00",
+      "url": "https://www.hindustantimes.com/india-news/delhi-government-to-set-up-first-aid-medical-facilities-in-all-1086-government-schools-at-annual-cost-of-4887-crore-101792929121639.html"
+    },
     "a415c1d81a438dca9784d4bd": {
       "published_at": "2026-10-25T03:04:37+00:00",
       "source": "thehindu.com",
@@ -1777,6 +1793,14 @@
       "title": "Tourist bus overturns near Bekal bridge in Keralam’s Kasaragod; passengers escape without serious injuries",
       "updated_at": "2026-10-25T12:05:29.257730+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/tourist-bus-overturns-near-bekal-bridge-in-keralams-kasaragod-passengers-escape-without-serious-injuries/article71623009.ece"
+    },
+    "b5d9266f353567a04a585657": {
+      "published_at": "2026-10-25T12:19:41+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
+      "updated_at": "2026-10-25T15:10:47.192290+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss"
     },
     "b6afaa754d9dc95c5397ceae": {
       "published_at": "2026-10-24T19:13:56+00:00",
@@ -2001,6 +2025,14 @@
       "title": "Objectionable material: Lahore man arrested for blackmailing minors",
       "updated_at": "2026-10-25T05:05:58.252770+00:00",
       "url": "https://www.dawn.com/news/2039547/objectionable-material-lahore-man-arrested-for-blackmailing-minors"
+    },
+    "c5ad7620cc7650b5be6eec44": {
+      "published_at": "2026-10-25T12:17:39+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+      "updated_at": "2026-10-25T15:10:47.192287+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss"
     },
     "c5eee0900e364d6e8023dd0d": {
       "published_at": "2026-10-25T06:00:48+00:00",
@@ -2556,6 +2588,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:10:40.989913+00:00",
+  "last_cycle_at": "2026-10-25T15:10:47.192623+00:00",
   "schema_version": 1
 }
