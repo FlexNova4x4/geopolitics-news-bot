@@ -72,6 +72,14 @@
       "updated_at": "2026-10-25T06:06:35.906176+00:00",
       "url": "https://www.hindustantimes.com/india-news/the-great-regional-retreat-is-meghalaya-s-politics-being-recast-by-national-parties-101792906464778.html"
     },
+    "05d58d43bb53eab2690ffce3": {
+      "published_at": "2026-10-25T14:40:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Gem Granites’ Veeramani POCSO cases in Tamil Nadu: a compilation",
+      "updated_at": "2026-10-25T15:17:20.761771+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-pocso-case-in-tamil-nadu-a-compilation/article71507647.ece"
+    },
     "05e0ca9115aec66df425cb7f": {
       "published_at": "2026-10-25T14:08:25+00:00",
       "source": "thehindu.com",
@@ -817,6 +825,14 @@
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
+    "40802b12010463f02e668cc7": {
+      "published_at": "2026-10-25T14:40:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Case registered after Class X student allegedly morphs classmates’ photos in Keralam",
+      "updated_at": "2026-10-25T15:17:20.761778+00:00",
+      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/case-registered-after-class-x-student-allegedly-morphs-classmates-photos-in-keralam/article71623869.ece"
+    },
     "409489efcdb60ceddcd8840f": {
       "published_at": "2026-10-25T14:02:24+00:00",
       "source": "thehindu.com",
@@ -1264,6 +1280,14 @@
       "updated_at": "2026-10-25T15:12:24.794914+00:00",
       "url": "https://www.hindustantimes.com/india-news/akhileshs-effigy-burnt-in-haldwani-after-row-over-infiltrator-remark-against-uttarakhand-people-101792929935825.html"
     },
+    "65053c0b0bf5eaa367864d8d": {
+      "published_at": "2026-10-25T14:39:47+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "updated_at": "2026-10-25T15:17:20.761757+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+    },
     "66f17fc2b8b886527e781167": {
       "published_at": "2026-10-25T08:20:20+00:00",
       "source": "aljazeera.com",
@@ -1370,6 +1394,14 @@
       "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
       "updated_at": "2026-10-25T06:34:28.632404+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss"
+    },
+    "6e9cf2331b193e7ad012378f": {
+      "published_at": "2026-10-25T14:40:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Modi ka baap bhi jayega’: Kharge’s remark in Bihar sparks row; BJP says Congress seems more like ‘mafia’",
+      "updated_at": "2026-10-25T15:17:20.761775+00:00",
+      "url": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece"
     },
     "6f0e207533a1fc9ad84b0709": {
       "published_at": "2026-10-25T07:06:11+00:00",
@@ -3132,6 +3164,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:17:12.641663+00:00",
+  "last_cycle_at": "2026-10-25T15:17:20.762184+00:00",
   "schema_version": 1
 }
