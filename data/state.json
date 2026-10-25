@@ -21,9 +21,10 @@
     "06275aa865466e5b1644448d": {
       "published_at": "2026-10-25T04:31:39+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10125,
       "title": "Meerut ‘blue drum’ murder convicts Muskan, Sahil challenge death sentence in high court",
-      "updated_at": "2026-10-25T05:41:01.390916+00:00",
+      "updated_at": "2026-10-25T05:41:07.445855+00:00",
       "url": "https://www.hindustantimes.com/india-news/meerut-blue-drum-murder-convicts-muskan-sahil-challenge-death-sentence-in-high-court-101792901033913.html"
     },
     "08d15d0a4ec86561e07bee5e": {
@@ -342,9 +343,10 @@
     "42f5f151d5cde4369775590a": {
       "published_at": "2026-10-25T04:24:36+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10124,
       "title": "Amid Jamia row, ABVP claims ‘Free Umar Khalid’, ‘Long Live Naxalbari’ slogans written on JNU walls, seeks action",
-      "updated_at": "2026-10-25T05:41:01.390901+00:00",
+      "updated_at": "2026-10-25T05:41:03.381352+00:00",
       "url": "https://www.hindustantimes.com/india-news/abvp-alleges-free-umar-khalid-kashmir-long-live-naxalbari-slogans-written-on-jnu-walls-jamia-university-seeks-action-101792900049100.html"
     },
     "431f5566a31b29b49c93579a": {
@@ -624,9 +626,10 @@
     "7f9b731e641233dfddd23d01": {
       "published_at": "2026-10-25T04:51:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10127,
       "title": "Panel formed to probe spurious liquor death claims in Madhya Pradesh's Dewas; report in 15 days",
-      "updated_at": "2026-10-25T05:41:01.390923+00:00",
+      "updated_at": "2026-10-25T05:41:15.304821+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/panel-formed-to-probe-spurious-liquor-death-claims-in-madhya-pradeshs-dewas-report-in-15-days/article71622566.ece"
     },
     "80d1513b974e9b68ccf0d9bb": {
@@ -860,9 +863,10 @@
     "b9f9fa8a918318197c588c92": {
       "published_at": "2026-10-25T04:43:06+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10126,
       "title": "Serbia votes in election pitting longtime leader against student movement",
-      "updated_at": "2026-10-25T05:41:01.390920+00:00",
+      "updated_at": "2026-10-25T05:41:11.356397+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
     },
     "bb98a7dc91a3507590460b1d": {
@@ -1121,6 +1125,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:41:01.391089+00:00",
+  "last_cycle_at": "2026-10-25T05:41:18.505607+00:00",
   "schema_version": 1
 }
