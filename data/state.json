@@ -18,6 +18,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "058ce8f9ca82f475c2cdb219": {
+      "published_at": "2026-10-25T05:34:24+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "The great regional retreat: Is Meghalaya’s politics being recast by national parties?",
+      "updated_at": "2026-10-25T06:06:26.104098+00:00",
+      "url": "https://www.hindustantimes.com/india-news/the-great-regional-retreat-is-meghalaya-s-politics-being-recast-by-national-parties-101792906464778.html"
+    },
     "06275aa865466e5b1644448d": {
       "published_at": "2026-10-25T04:31:39+00:00",
       "source": "hindustantimes.com",
@@ -517,6 +525,14 @@
       "updated_at": "2026-10-24T23:59:20.979589+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
     },
+    "678653f20fa6e9d1577ed4a2": {
+      "published_at": "2026-10-25T05:52:31+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kochi metro to operate more services on October 25",
+      "updated_at": "2026-10-25T06:06:26.104101+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-metro-to-operate-more-services-on-october-25/article71621135.ece"
+    },
     "67d1399f3ae7ffec1ecbb2ae": {
       "published_at": "2026-10-23T12:41:00+00:00",
       "source": "Website",
@@ -852,6 +868,14 @@
       "updated_at": "2026-10-25T05:40:02.473715+00:00",
       "url": "https://www.thehindu.com/news/international/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger/article71622490.ece"
     },
+    "a64835e6eaad02a31722902d": {
+      "published_at": "2026-10-25T05:33:10+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+      "updated_at": "2026-10-25T06:06:26.104080+00:00",
+      "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss"
+    },
     "a6def70ddd121613b81f6e1c": {
       "published_at": "2026-10-25T02:04:47+00:00",
       "source": "thehindu.com",
@@ -1047,6 +1071,14 @@
       "updated_at": "2026-10-25T03:35:20.756149+00:00",
       "url": "https://www.dawn.com/news/2039586/wapda-inks-rs133bn-deal-for-diamer-bhasha-dam-project"
     },
+    "dbb0b52c0936cf87cf620ae9": {
+      "published_at": "2026-10-25T05:33:41+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Nigeria’s missing: Families in the northeast still wait for answers",
+      "updated_at": "2026-10-25T06:06:26.104094+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss"
+    },
     "df0599f31410b2f5951a384e": {
       "published_at": "2026-10-23T16:16:07+00:00",
       "source": "YouTube",
@@ -1215,6 +1247,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T06:06:09.363638+00:00",
+  "last_cycle_at": "2026-10-25T06:06:26.104312+00:00",
   "schema_version": 1
 }
