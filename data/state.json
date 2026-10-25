@@ -9,6 +9,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "08d15d0a4ec86561e07bee5e": {
+      "published_at": "2026-10-25T04:06:28+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+      "updated_at": "2026-10-25T04:35:46.594245+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss"
+    },
     "08d9f98c6cf930410f2f0c4c": {
       "published_at": "2026-10-25T03:20:22+00:00",
       "source": "dawn.com",
@@ -35,6 +43,14 @@
       "title": "Pakistan reopens Gabd border crossing with Iran, restores bilateral trade after weeklong suspension",
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
+    },
+    "106d7357b4775c08523ac5fe": {
+      "published_at": "2026-10-25T03:47:56+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+      "updated_at": "2026-10-25T04:35:46.594235+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
       "published_at": "2026-10-24T21:39:29+00:00",
@@ -96,6 +112,14 @@
       "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
       "updated_at": "2026-10-24T23:59:52.150385+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
+    },
+    "3a1848b68d0a30ff13abf2c0": {
+      "published_at": "2026-10-25T03:40:52+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+      "updated_at": "2026-10-25T04:35:46.594215+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
     },
     "3af44a52fcd33ca6e3248004": {
       "published_at": "2026-10-23T11:08:38+00:00",
@@ -279,6 +303,14 @@
       "title": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
       "updated_at": "2026-10-24T22:37:02.457882+00:00",
       "url": "https://thediplomat.com/2026/10/xi-jinping-may-have-his-own-reasons-to-avert-a-china-russia-us-summit"
+    },
+    "8142849d81d7fb15273d8478": {
+      "published_at": "2026-10-25T03:57:13+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+      "updated_at": "2026-10-25T04:35:46.594241+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss"
     },
     "83a1ffacabe7c1272dc6457f": {
       "published_at": "2026-10-25T02:07:29+00:00",
@@ -486,6 +518,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T04:06:16.855486+00:00",
+  "last_cycle_at": "2026-10-25T04:35:46.594548+00:00",
   "schema_version": 1
 }
