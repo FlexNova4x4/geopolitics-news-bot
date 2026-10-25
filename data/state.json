@@ -3532,6 +3532,14 @@
       "updated_at": "2026-10-25T09:35:20.741597+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
     },
+    "d3d23ea5050c7b57542467b5": {
+      "published_at": "2026-10-25T22:05:30+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Why Israel's election is one of the most important in its history",
+      "updated_at": "2026-10-25T22:30:31.678993+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
+    },
     "d3d27d9386f5b4b33262c0fd": {
       "published_at": "2026-10-25T06:40:36+00:00",
       "source": "thehindu.com",
@@ -4319,6 +4327,14 @@
       "updated_at": "2026-10-24T22:47:14.348366+00:00",
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     },
+    "fe2cbd9325d39f55a5f8c7af": {
+      "published_at": "2026-10-25T22:11:13+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "updated_at": "2026-10-25T22:30:31.679007+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+    },
     "fe7123951aecd4e340901a65": {
       "published_at": "2026-10-24T19:38:00+00:00",
       "source": "thehindu.com",
@@ -4365,6 +4381,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T22:01:03.019566+00:00",
+  "last_cycle_at": "2026-10-25T22:30:31.679413+00:00",
   "schema_version": 1
 }
