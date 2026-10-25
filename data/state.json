@@ -721,9 +721,10 @@
     "409489efcdb60ceddcd8840f": {
       "published_at": "2026-10-25T14:02:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10315,
       "title": "Safeguard financial institutions against cyber terrorists: PM Modi",
-      "updated_at": "2026-10-25T15:13:12.211764+00:00",
+      "updated_at": "2026-10-25T15:13:18.507539+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/safeguard-financial-institutions-against-cyber-terrorists-pm-modi/article71623483.ece"
     },
     "40a0e8deac5616f4dc155fc7": {
@@ -1488,9 +1489,10 @@
     "85d0a0f97459b6e714b3b2be": {
       "published_at": "2026-10-25T14:02:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10314,
       "title": "Congress assure advocates of support on welfare issues, seeks support for party candidates in Graduate MLC polls",
-      "updated_at": "2026-10-25T15:13:12.211747+00:00",
+      "updated_at": "2026-10-25T15:13:14.542313+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/congress-assure-advocates-of-support-on-welfare-issues-seeks-support-for-party-candidates-in-graduate-mlc-polls/article71619990.ece"
     },
     "8805445d4dc8a6f6155ccd33": {
@@ -2174,9 +2176,10 @@
     "c5ec3b788912388614a1a403": {
       "published_at": "2026-10-25T14:03:17+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10316,
       "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-      "updated_at": "2026-10-25T15:13:12.211768+00:00",
+      "updated_at": "2026-10-25T15:13:22.544105+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss"
     },
     "c5eee0900e364d6e8023dd0d": {
@@ -2522,9 +2525,10 @@
     "ebdfa33b4b0124e46db66ce8": {
       "published_at": "2026-10-25T14:04:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10317,
       "title": "Etala Rajender calls for permanent solution to Jawahar Nagar dumpyard pollution",
-      "updated_at": "2026-10-25T15:13:12.211771+00:00",
+      "updated_at": "2026-10-25T15:13:26.483833+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/etala-rajender-calls-for-permanent-solution-to-jawahar-nagar-dumpyard-pollution/article71623343.ece"
     },
     "ebe36ea7d3528c57697ce421": {
@@ -2804,6 +2808,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:13:12.212251+00:00",
+  "last_cycle_at": "2026-10-25T15:13:29.684706+00:00",
   "schema_version": 1
 }
