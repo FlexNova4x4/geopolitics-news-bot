@@ -282,9 +282,10 @@
     "17b0c5e907073177988a3c1c": {
       "published_at": "2026-10-25T11:23:07+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10272,
       "title": "Tigress T-2403 spotted with three cubs in Ranthambore Tiger Reserve",
-      "updated_at": "2026-10-25T12:04:23.457320+00:00",
+      "updated_at": "2026-10-25T12:04:37.359590+00:00",
       "url": "https://www.hindustantimes.com/india-news/tigress-t-2403-spotted-with-three-cubs-in-ranthambore-tiger-reserve-101792923074600.html"
     },
     "1bddb0948a2186c4c5b46ab9": {
@@ -1031,9 +1032,10 @@
     "6bdce6883efacced3468740e": {
       "published_at": "2026-10-25T10:56:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10271,
       "title": "IndiGo to shift 12 daily international departures from Mumbai’s CSMIA to Navi Mumbai airport from February",
-      "updated_at": "2026-10-25T12:04:23.457317+00:00",
+      "updated_at": "2026-10-25T12:04:33.503575+00:00",
       "url": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece"
     },
     "6e4d517edd5a8941aaa88838": {
@@ -1218,9 +1220,10 @@
     "7ece01532c3fa5d6f81bb9b9": {
       "published_at": "2026-10-25T10:53:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10270,
       "title": "NHAI issues guidelines for upgradation, maintenance, smart monitoring of toilet facilities, parking at National Highway toll plazas",
-      "updated_at": "2026-10-25T12:04:23.457314+00:00",
+      "updated_at": "2026-10-25T12:04:29.646947+00:00",
       "url": "https://www.thehindu.com/news/cities/Mangalore/nhai-issues-guidelines-for-upgradation-maintenance-smart-monitoring-of-toilet-facilities-parking-at-national-highway-toll-plazas/article71622980.ece"
     },
     "7f9b731e641233dfddd23d01": {
@@ -1688,9 +1691,10 @@
     "abaaa0381cca85162ecc5df3": {
       "published_at": "2026-10-25T08:20:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10269,
       "title": "FDA destroys 564 litres of milk in Mumbai; statewide crackdown nets food stock worth ₹1.56 crore",
-      "updated_at": "2026-10-25T12:04:23.457295+00:00",
+      "updated_at": "2026-10-25T12:04:25.787157+00:00",
       "url": "https://www.thehindu.com/news/cities/mumbai/fda-destroys-564-litres-of-milk-in-mumbai-statewide-crackdown-nets-food-stock-worth-156-crore/article71622655.ece"
     },
     "b6afaa754d9dc95c5397ceae": {
@@ -2408,6 +2412,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T12:04:23.457579+00:00",
+  "last_cycle_at": "2026-10-25T12:04:40.560464+00:00",
   "schema_version": 1
 }
