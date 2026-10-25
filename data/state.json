@@ -350,6 +350,14 @@
       "updated_at": "2026-10-25T06:35:34.673456+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/nilgiris-district-hit-by-62-minor-landslips-in-a-day-till-october-25-2026-morning/article71622616.ece"
     },
+    "2caa284e65eddd0f925f4ecf": {
+      "published_at": "2026-10-25T09:26:57+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
+      "updated_at": "2026-10-25T09:34:56.618907+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss"
+    },
     "2cdc6dcb065cda9bbc26f623": {
       "published_at": "2026-10-25T01:00:56+00:00",
       "source": "hindustantimes.com",
@@ -1275,6 +1283,14 @@
       "updated_at": "2026-10-25T05:39:16.289493+00:00",
       "url": "https://www.hindustantimes.com/india-news/ed-moves-sc-against-hc-order-quashing-case-against-newsclick-101792869616370.html"
     },
+    "a2034b6f74ba8226530c3c3e": {
+      "published_at": "2026-10-25T09:20:56+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Robert Vadra pens note for son Raihan amid Bikaner House exhibition row: ‘Every challenge is a lesson’",
+      "updated_at": "2026-10-25T09:34:56.618905+00:00",
+      "url": "https://www.hindustantimes.com/india-news/robert-vadra-pens-heartfelt-note-for-son-raihan-vadra-amid-bikaner-house-exhibition-controversy-every-challenge-is-a-lesson-101792915861060.html"
+    },
     "a2b868bf8a4831b551cd6e0b": {
       "published_at": "2026-10-24T22:08:47+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1712,6 +1728,14 @@
       "updated_at": "2026-10-25T08:04:32.514417+00:00",
       "url": "https://www.hindustantimes.com/india-news/bay-of-bengal-depression-cyclone-tracker-very-severe-cyclonic-storm-oct-28-warnings-tamil-nadu-puducherry-andhra-imd-weather-news-101792909401361.html"
     },
+    "e06f6312f4a9f8e6c625cda4": {
+      "published_at": "2026-10-25T09:16:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "India advises its nationals in Saudi Arabia against filming missile interceptions",
+      "updated_at": "2026-10-25T09:34:56.618888+00:00",
+      "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece"
+    },
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
       "source": "hindustantimes.com",
@@ -1836,6 +1860,14 @@
       "title": "INDIA’S BRAHMOS & ASTRA AT RISK: Indonesia Can Leak Missile Tech to Pakistan via Badr Pact? | Kinjal",
       "updated_at": "2026-10-24T22:36:56.620531+00:00",
       "url": "https://www.youtube.com/watch?v=XZOj6eFnCB0"
+    },
+    "f731bead83b21dffde58848d": {
+      "published_at": "2026-10-25T09:26:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Thevar Jayanthi: Edappadi Palaniswami to pay tributes at Pasumpon on October 30",
+      "updated_at": "2026-10-25T09:34:56.618909+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/thevar-jayanthi-edappadi-palaniswami-to-pay-tributes-at-pasumpon-on-october-30/article71622886.ece"
     },
     "f7f51206ecc16baa12f85335": {
       "published_at": "2026-10-24T19:01:52+00:00",
@@ -1962,6 +1994,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:34:51.202708+00:00",
+  "last_cycle_at": "2026-10-25T09:34:56.619122+00:00",
   "schema_version": 1
 }
