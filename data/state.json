@@ -547,6 +547,14 @@
       "updated_at": "2026-10-24T22:52:54.734274+00:00",
       "url": "https://thediplomat.com/2026/10/tenpaygo-and-chinas-digital-opening-to-foreigners"
     },
+    "3379ff067c67e965f75450d0": {
+      "published_at": "2026-10-25T11:36:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Delhi court upholds cheating case against M3M, its promoters in ₹450-crore land dispute",
+      "updated_at": "2026-10-25T12:04:50.828070+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-court-upholds-cheating-case-against-m3m-its-promoters-in-450-crore-land-dispute/article71622997.ece"
+    },
     "3499ac59864dbf3cd0ccf248": {
       "published_at": "2026-10-25T07:04:24+00:00",
       "source": "hindustantimes.com",
@@ -1234,6 +1242,14 @@
       "title": "Panel formed to probe spurious liquor death claims in Madhya Pradesh's Dewas; report in 15 days",
       "updated_at": "2026-10-25T05:41:15.304821+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/panel-formed-to-probe-spurious-liquor-death-claims-in-madhya-pradeshs-dewas-report-in-15-days/article71622566.ece"
+    },
+    "80ae74cf8c48278793d44730": {
+      "published_at": "2026-10-25T11:23:27+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Cities can't be run from state capitals: NITI Aayog's Rajiv Gauba calls for empowered urban governments",
+      "updated_at": "2026-10-25T12:04:50.828051+00:00",
+      "url": "https://www.hindustantimes.com/india-news/cities-cant-be-run-from-state-capitals-niti-aayogs-rajiv-gauba-calls-for-empowered-urban-governments-101792926294328.html"
     },
     "80d1513b974e9b68ccf0d9bb": {
       "published_at": "2026-10-23T17:09:00+00:00",
@@ -2037,6 +2053,14 @@
       "updated_at": "2026-10-25T05:37:01.631747+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-flag-safety-risk-as-silt-removed-from-canals-piles-up-along-city-roads/article71608743.ece"
     },
+    "d802b933a3e2c94fa8000d4e": {
+      "published_at": "2026-10-25T11:36:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "CPI launches signature campaign against Tamil Nadu’s new Secretariat project at Pattinapakkam",
+      "updated_at": "2026-10-25T12:04:50.828073+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cpi-launches-signature-campaign-against-tamil-nadus-new-secretariat-project-at-pattinapakkam/article71622978.ece"
+    },
     "dab6a6339517cfec1da101e4": {
       "published_at": "2026-10-25T09:43:06+00:00",
       "source": "thehindu.com",
@@ -2215,6 +2239,14 @@
       "title": "Factors behind Pakistan’s push for joint production in defence pacts",
       "updated_at": "2026-10-25T05:05:36.678286+00:00",
       "url": "https://www.dawn.com/news/2039659/factors-behind-pakistans-push-for-joint-production-in-defence-pacts"
+    },
+    "f3b63f8d0b46daefc276af34": {
+      "published_at": "2026-10-25T11:37:02+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "India, EU race to finalise FTA before December deadline to coincide with PM Modi's Brussels visit",
+      "updated_at": "2026-10-25T12:04:50.828076+00:00",
+      "url": "https://www.hindustantimes.com/india-news/india-eu-race-to-finalise-fta-before-december-deadline-to-coincide-with-pm-modis-brussels-visit-101792926809767.html"
     },
     "f41bb9d90381ef81b56f0ae5": {
       "published_at": "2026-10-25T08:00:33+00:00",
@@ -2412,6 +2444,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T12:04:40.560464+00:00",
+  "last_cycle_at": "2026-10-25T12:04:50.828332+00:00",
   "schema_version": 1
 }
