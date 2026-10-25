@@ -1006,9 +1006,10 @@
     "62b1c163f6c94e08a10c71f3": {
       "published_at": "2026-10-25T11:55:53+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10287,
       "title": "PM Modi inaugurates ₹169-crore RBI data centre, cybersecurity training institute in Odisha",
-      "updated_at": "2026-10-25T15:10:23.492982+00:00",
+      "updated_at": "2026-10-25T15:10:29.970988+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-inaugurates-rs-169-crore-rbi-data-centre-cybersecurity-training-institute-in-odisha-101792929176646.html"
     },
     "66f17fc2b8b886527e781167": {
@@ -1682,9 +1683,10 @@
     "a7ae1940091eb3a32e895a07": {
       "published_at": "2026-10-25T11:49:34+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10286,
       "title": "Jamia protest intensifies over student union demand; 4 students on hunger strike, heavy security outside campus",
-      "updated_at": "2026-10-25T15:10:23.492968+00:00",
+      "updated_at": "2026-10-25T15:10:26.013118+00:00",
       "url": "https://www.hindustantimes.com/india-news/jamia-protest-live-news-over-student-union-demand-students-on-hunger-strike-heavy-security-outside-campus-101792925553428.html"
     },
     "a7efd346b673dc8f4f1151ac": {
@@ -2021,9 +2023,10 @@
     "c94066e09036726fec15eff8": {
       "published_at": "2026-10-25T12:05:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10289,
       "title": "Flight ops to shift from Mumbai to Navi Mumbai airport: Adani Airports, Air India Group announce plan",
-      "updated_at": "2026-10-25T15:10:23.492989+00:00",
+      "updated_at": "2026-10-25T15:10:37.789323+00:00",
       "url": "https://www.hindustantimes.com/india-news/flight-ops-to-shift-from-mumbai-to-navi-mumbai-airport-adani-airports-air-india-group-announce-plan-indigo-101792929144268.html"
     },
     "cb69f01837fe6e170f43fe8b": {
@@ -2207,9 +2210,10 @@
     "e0d6b4ef1cd7f602a559664c": {
       "published_at": "2026-10-25T12:05:16+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10288,
       "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "updated_at": "2026-10-25T15:10:23.492986+00:00",
+      "updated_at": "2026-10-25T15:10:33.886958+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
     },
     "e636add91535f9ff2712dc4e": {
@@ -2552,6 +2556,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:10:23.493306+00:00",
+  "last_cycle_at": "2026-10-25T15:10:40.989913+00:00",
   "schema_version": 1
 }
