@@ -246,9 +246,10 @@
     "10af2605d95664da2720988e": {
       "published_at": "2026-10-25T14:54:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10375,
       "title": "BEL to invest ₹2,500 crore in defence ecosystem in Sri Sathya Sai district",
-      "updated_at": "2026-10-25T16:12:40.202628+00:00",
+      "updated_at": "2026-10-25T16:12:42.649444+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/bel-to-invest-2500-crore-in-defence-ecosystem-in-sri-sathya-sai-district/article71623910.ece"
     },
     "11518b6023a3677f9818ff72": {
@@ -1178,9 +1179,10 @@
     "59b4867865910abe7cc097e2": {
       "published_at": "2026-10-25T14:56:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10377,
       "title": "Chief Minister behind ₹600 crore deal to ‘finish off’ HDD family, accuses Kumaraswamy",
-      "updated_at": "2026-10-25T16:12:40.202647+00:00",
+      "updated_at": "2026-10-25T16:12:50.449183+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/chief-minister-behind-600-crore-deal-to-finish-off-hdd-family-accuses-kumaraswamy/article71623694.ece"
     },
     "5a9a2f091ca68114c93c8cdf": {
@@ -2328,9 +2330,10 @@
     "b1921293cc4a250f809ac09f": {
       "published_at": "2026-10-25T14:57:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10378,
       "title": "Visakhapatnam’s air quality dips to ‘Poor’ category, AQI touches 254",
-      "updated_at": "2026-10-25T16:12:40.202649+00:00",
+      "updated_at": "2026-10-25T16:12:54.400042+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-air-quality-dips-to-poor-category-aqi-touches-254/article71623259.ece"
     },
     "b4f660e47e6161bc60c10661": {
@@ -2417,9 +2420,10 @@
     "ba197f922032f8cdf091127e": {
       "published_at": "2026-10-25T14:54:53+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10376,
       "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
-      "updated_at": "2026-10-25T16:12:40.202643+00:00",
+      "updated_at": "2026-10-25T16:12:46.542816+00:00",
       "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss"
     },
     "bb08f7fcdd3802b3637fb4bf": {
@@ -3344,6 +3348,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:12:40.203379+00:00",
+  "last_cycle_at": "2026-10-25T16:12:57.601037+00:00",
   "schema_version": 1
 }
