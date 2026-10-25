@@ -48,9 +48,10 @@
     "03171d3a1c9a2a36efd5a5c9": {
       "published_at": "2026-10-25T14:42:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10358,
       "title": "Gem Granites Veeramani case: Chennai Police issue LOC restraining five suspects from leaving India",
-      "updated_at": "2026-10-25T15:17:44.924673+00:00",
+      "updated_at": "2026-10-25T15:17:47.049402+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-case-chennai-police-issue-loc-restraining-five-suspects-from-leaving-india/article71623500.ece"
     },
     "0341e669e1f302ba2fe8096c": {
@@ -1481,9 +1482,10 @@
     "73f7bc52cc2e773dbb96ba13": {
       "published_at": "2026-10-25T14:42:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10360,
       "title": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
-      "updated_at": "2026-10-25T15:17:44.924699+00:00",
+      "updated_at": "2026-10-25T15:17:54.883118+00:00",
       "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece"
     },
     "75158c1834e1c18ed588fa82": {
@@ -1560,9 +1562,10 @@
     "77c61bd2e57ddcceb5eec631": {
       "published_at": "2026-10-25T14:43:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10361,
       "title": "India will not have lasting peace until RSS ideology is dismantled: Kharge",
-      "updated_at": "2026-10-25T15:17:44.924703+00:00",
+      "updated_at": "2026-10-25T15:17:58.868882+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/india-will-not-have-lasting-peace-until-rss-ideology-is-dismantled-kharge/article71623455.ece"
     },
     "78a627de04bf75729389fd34": {
@@ -2166,9 +2169,10 @@
     "a8c2acd357780544054ea091": {
       "published_at": "2026-10-25T14:42:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10359,
       "title": "Hundreds demand removal of Gyanesh Kumar in anti-SIR protest in Hyderabad",
-      "updated_at": "2026-10-25T15:17:44.924695+00:00",
+      "updated_at": "2026-10-25T15:17:50.977557+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/hundreds-demand-removal-of-gyanesh-kumar-in-anti-sir-protest-in-hyderabad/article71623736.ece"
     },
     "a9263e36b2903f34a79ecd7d": {
@@ -3200,6 +3204,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:17:44.925092+00:00",
+  "last_cycle_at": "2026-10-25T15:18:02.069936+00:00",
   "schema_version": 1
 }
