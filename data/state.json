@@ -111,9 +111,10 @@
     "20ca3b29a47494e78697a699": {
       "published_at": "2026-10-24T19:40:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10085,
       "title": "Social security, welfare fund board pensions in Keralam to be distributed from October 26",
-      "updated_at": "2026-10-25T05:37:21.994181+00:00",
+      "updated_at": "2026-10-25T05:37:28.037684+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece"
     },
     "26315826209faa6b9171dad7": {
@@ -127,9 +128,10 @@
     "2dc380cfa0488430591621c1": {
       "published_at": "2026-10-24T19:49:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10086,
       "title": "A development dream linked to Ravana’s birthplace",
-      "updated_at": "2026-10-25T05:37:21.994184+00:00",
+      "updated_at": "2026-10-25T05:37:31.931132+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/a-development-dream-linked-to-ravanas-birthplace/article71616208.ece"
     },
     "2ea4ef0039b41c2eb90b426e": {
@@ -452,9 +454,10 @@
     "8170df8fd3fa3982677d4bc5": {
       "published_at": "2026-10-24T20:06:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10087,
       "title": "Amid outcry, poll body orders re-poll at three polling stations under Agra Teachers MLC seat",
-      "updated_at": "2026-10-25T05:37:21.994206+00:00",
+      "updated_at": "2026-10-25T05:37:35.871400+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
     },
     "83a1ffacabe7c1272dc6457f": {
@@ -755,12 +758,13 @@
     "fe7123951aecd4e340901a65": {
       "published_at": "2026-10-24T19:38:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10084,
       "title": "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
-      "updated_at": "2026-10-25T05:37:21.994166+00:00",
+      "updated_at": "2026-10-25T05:37:24.102780+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:37:21.994340+00:00",
+  "last_cycle_at": "2026-10-25T05:37:39.072042+00:00",
   "schema_version": 1
 }
