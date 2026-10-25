@@ -27,6 +27,14 @@
       "updated_at": "2026-10-24T23:59:55.903959+00:00",
       "url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "26315826209faa6b9171dad7": {
+      "published_at": "2026-10-24T22:28:37+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "updated_at": "2026-10-25T00:19:16.212297+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
+    },
     "2f7502d1d5dcda5ebf8cff6a": {
       "published_at": "2026-10-24T21:02:55+00:00",
       "source": "aljazeera.com",
@@ -113,6 +121,14 @@
       "title": "Rubio’s Unusual Visit to India Marks a Paradigm Shift in India-US Ties",
       "updated_at": "2026-10-24T22:52:56.309431+00:00",
       "url": "https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties"
+    },
+    "605943d1806b7d3baa4680a1": {
+      "published_at": "2026-10-24T22:35:45+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "updated_at": "2026-10-25T00:19:16.212300+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
     },
     "62ac872982ab0d91921c6e13": {
       "published_at": "2026-10-24T21:08:51+00:00",
@@ -290,6 +306,22 @@
       "updated_at": "2026-10-24T23:59:02.292230+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
     },
+    "fcc15f0e001ca52f5347dc70": {
+      "published_at": "2026-10-25T00:00:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "updated_at": "2026-10-25T00:19:16.212302+00:00",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
+    },
+    "fd7dab0cce59f4579a049873": {
+      "published_at": "2026-10-24T21:36:23+00:00",
+      "source": "aljazeera.com",
+      "status": "filtered",
+      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "updated_at": "2026-10-25T00:19:16.212278+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss"
+    },
     "fdba67a815094e53c43d669e": {
       "published_at": "2026-10-23T14:59:00+00:00",
       "source": "Website",
@@ -300,6 +332,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-24T23:59:59.104196+00:00",
+  "last_cycle_at": "2026-10-25T00:19:16.212338+00:00",
   "schema_version": 1
 }
