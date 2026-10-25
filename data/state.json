@@ -129,9 +129,10 @@
     "0754330016c29494f14d3085": {
       "published_at": "2026-10-25T16:05:15+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10417,
       "title": "Early reports suggest record high turnout in Serbia elections",
-      "updated_at": "2026-10-25T16:17:12.576878+00:00",
+      "updated_at": "2026-10-25T16:17:22.811340+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
     },
     "0779980b6101bb6bb57ce453": {
@@ -945,9 +946,10 @@
     "3cdf4781ac896ddb88acc487": {
       "published_at": "2026-10-25T15:52:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10415,
       "title": "Yamunotri, Kedarnath receive season’s first snowfall",
-      "updated_at": "2026-10-25T16:17:12.576859+00:00",
+      "updated_at": "2026-10-25T16:17:14.990332+00:00",
       "url": "https://www.thehindu.com/news/national/uttarakhand/yamunotri-kedarnath-receive-seasons-first-snowfall/article71623722.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -1223,9 +1225,10 @@
     "5142316aa797a3db43b53d74": {
       "published_at": "2026-10-25T15:58:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10416,
       "title": "NDA secures six of nine urban local bodies in Kadapa district unopposed",
-      "updated_at": "2026-10-25T16:17:12.576874+00:00",
+      "updated_at": "2026-10-25T16:17:18.920900+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-secures-six-of-nine-urban-local-bodies-in-kadapa-district-unopposed/article71623806.ece"
     },
     "520abfc2877cc30ff2ea52bf": {
@@ -3696,6 +3699,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:17:12.577558+00:00",
+  "last_cycle_at": "2026-10-25T16:17:26.012470+00:00",
   "schema_version": 1
 }
