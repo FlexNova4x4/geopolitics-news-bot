@@ -48,9 +48,10 @@
     "0eabb853ee40d8249aec4ccd": {
       "published_at": "2026-10-24T19:18:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10078,
       "title": "Heavy rain to hit Chennai, northern, delta and western districts on Sunday",
-      "updated_at": "2026-10-25T05:36:37.403846+00:00",
+      "updated_at": "2026-10-25T05:36:47.446479+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/heavy-rain-to-hit-chennai-northern-delta-and-western-districts-on-sunday/article71620782.ece"
     },
     "106d7357b4775c08523ac5fe": {
@@ -153,9 +154,10 @@
     "390b335947f0cfae8304a891": {
       "published_at": "2026-10-24T19:15:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10077,
       "title": "BRS hits back at govt., terms as lies claims on energy, water for irrigation",
-      "updated_at": "2026-10-25T05:36:37.403842+00:00",
+      "updated_at": "2026-10-25T05:36:43.493948+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/brs-hits-back-at-govt-terms-as-lies-claims-on-energy-water-for-irrigation/article71620843.ece"
     },
     "3a1848b68d0a30ff13abf2c0": {
@@ -275,9 +277,10 @@
     "61b95814bd7b1e80b16ea8b4": {
       "published_at": "2026-10-24T19:20:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10079,
       "title": "Missing KRIDL engineer traced to Mumbai after 40 days",
-      "updated_at": "2026-10-25T05:36:37.403849+00:00",
+      "updated_at": "2026-10-25T05:36:51.407659+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/missing-kridl-engineer-traced-to-mumbai-after-40-days/article71621056.ece"
     },
     "6256f5fe4e7f2e3850af8799": {
@@ -518,9 +521,10 @@
     "b6afaa754d9dc95c5397ceae": {
       "published_at": "2026-10-24T19:13:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10076,
       "title": "Albanian police fire tear gas as anti-government student protests turn violent",
-      "updated_at": "2026-10-25T05:36:37.403828+00:00",
+      "updated_at": "2026-10-25T05:36:39.448949+00:00",
       "url": "https://www.thehindu.com/news/international/albanian-police-fire-tear-gas-as-anti-government-student-protests-turn-violent/article71621342.ece"
     },
     "b6c7003a5a2c3ea73103dc55": {
@@ -689,6 +693,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:36:37.403965+00:00",
+  "last_cycle_at": "2026-10-25T05:36:54.608418+00:00",
   "schema_version": 1
 }
