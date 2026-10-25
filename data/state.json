@@ -18,6 +18,14 @@
       "updated_at": "2026-10-25T06:35:12.810041+00:00",
       "url": "https://www.thehindu.com/news/international/florida-campus-university-shooting-many-injured/article71622656.ece"
     },
+    "0341e669e1f302ba2fe8096c": {
+      "published_at": "2026-10-25T07:18:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Another worker succumbs to injuries in Vellore; cracker unit owner arrested",
+      "updated_at": "2026-10-25T07:35:22.226170+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece"
+    },
     "04b0f0953fbbaa43cc19de9e": {
       "published_at": "2026-10-24T19:33:00+00:00",
       "source": "rss.dw.com",
@@ -999,6 +1007,14 @@
       "updated_at": "2026-10-24T23:59:02.292236+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
     },
+    "9ce2be0619732bfb37a0d55d": {
+      "published_at": "2026-10-25T07:12:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Govt. to fund half the cost of deepwater wells, recover money from winners",
+      "updated_at": "2026-10-25T07:35:22.226165+00:00",
+      "url": "https://www.thehindu.com/news/national/government-to-pay-up-to-half-the-cost-of-risky-deepwater-exploration-wells/article71622746.ece"
+    },
     "9d88192a0527d290d8a1c75e": {
       "published_at": "2026-10-23T15:46:00+00:00",
       "source": "Website",
@@ -1157,6 +1173,14 @@
       "updated_at": "2026-10-25T05:41:49.101938+00:00",
       "url": "https://www.thehindu.com/news/national/theaterisation-must-reflect-indias-security-needs-air-chief-marshal/article71622594.ece"
     },
+    "b96dc3dff51789390e24457a": {
+      "published_at": "2026-10-25T07:15:38+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Andhra CM alerts officials about the cyclone in Bay of Bengal",
+      "updated_at": "2026-10-25T07:35:22.226168+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-cm-naidu-orders-alertness-disaster-planning-ahead-of-cyclone-rainfall/article71619149.ece"
+    },
     "b9f9fa8a918318197c588c92": {
       "published_at": "2026-10-25T04:43:06+00:00",
       "source": "aljazeera.com",
@@ -1236,6 +1260,14 @@
       "title": "Violent clashes as Albanian government cracks down on protests",
       "updated_at": "2026-10-24T23:59:19.369164+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
+    },
+    "c155aba7bdd9dd0a4a4e8f26": {
+      "published_at": "2026-10-25T07:10:52+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israeli elections: What are the possible outcomes?",
+      "updated_at": "2026-10-25T07:35:22.226148+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
     },
     "c4687dd68edc0199915d6241": {
       "published_at": "2026-10-25T06:42:13+00:00",
@@ -1575,6 +1607,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:35:04.235240+00:00",
+  "last_cycle_at": "2026-10-25T07:35:22.226363+00:00",
   "schema_version": 1
 }
