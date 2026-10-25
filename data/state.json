@@ -1831,6 +1831,14 @@
       "updated_at": "2026-10-24T22:47:14.918839+00:00",
       "url": "https://thediplomat.com/2026/10/with-strict-agendas-and-silent-corridors-kazakhstans-kurultai-is-muzzling-the-press"
     },
+    "d2f76d83e37404181994790c": {
+      "published_at": "2026-10-25T10:59:03+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Delhi schoolgirl's death: Police question teachers, examine CCTV footage",
+      "updated_at": "2026-10-25T11:05:04.652341+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece"
+    },
     "d393a3d57a0f4b3af6d2e577": {
       "published_at": "2026-10-25T09:27:03+00:00",
       "source": "aljazeera.com",
@@ -2241,6 +2249,6 @@
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T11:05:01.968632+00:00",
+  "last_cycle_at": "2026-10-25T11:05:04.652746+00:00",
   "schema_version": 1
 }
