@@ -717,6 +717,14 @@
       "updated_at": "2026-10-24T22:36:56.620517+00:00",
       "url": "https://www.youtube.com/watch?v=ZumvuSjM_0Q"
     },
+    "55b61fdfa8f065b445e71ae5": {
+      "published_at": "2026-10-25T08:54:47+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Indigenous communities worry Brazil’s election could hurt environment",
+      "updated_at": "2026-10-25T09:34:33.682418+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss"
+    },
     "596344f7ed56b23cef4c3a08": {
       "published_at": "2026-10-24T19:30:42+00:00",
       "source": "thehindu.com",
@@ -902,6 +910,14 @@
       "title": "Musk accuses Ukraine of violating Starlink's terms of service",
       "updated_at": "2026-10-25T05:40:50.126815+00:00",
       "url": "https://www.thehindu.com/news/international/musk-accuses-ukraine-of-violating-starlink-terms-by-using-it-for-offensive-drone-strikes/article71622539.ece"
+    },
+    "72409e7b4cb4479b8e842e1e": {
+      "published_at": "2026-10-25T09:16:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Pakistan reopens Iran border crossing after week-long suspension of trade",
+      "updated_at": "2026-10-25T09:34:33.682441+00:00",
+      "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece"
     },
     "75158c1834e1c18ed588fa82": {
       "published_at": "2026-10-24T20:37:02+00:00",
@@ -1338,6 +1354,14 @@
       "updated_at": "2026-10-25T05:40:54.012202+00:00",
       "url": "https://www.hindustantimes.com/india-news/up-congress-alleges-voter-discrepancies-were-being-corrected-through-form8-101792899110349.html"
     },
+    "aa094f75c9fa174f89ce8c1a": {
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
+      "updated_at": "2026-10-25T09:34:33.682436+00:00",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss"
+    },
     "aaa731da7deaa2d7e7c4bc0c": {
       "published_at": "2026-10-25T05:45:31+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1730,6 +1754,14 @@
       "updated_at": "2026-10-25T09:05:02.401311+00:00",
       "url": "https://www.hindustantimes.com/india-news/book-box-two-himalayan-bookstores-a-birthday-and-a-borrowed-book-101792918146209.html"
     },
+    "ebabd24cd98299557972ea38": {
+      "published_at": "2026-10-25T09:14:07+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
+      "updated_at": "2026-10-25T09:34:33.682439+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss"
+    },
     "ebe36ea7d3528c57697ce421": {
       "published_at": "2026-10-23T13:28:00+00:00",
       "source": "Website",
@@ -1926,6 +1958,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:05:14.002428+00:00",
+  "last_cycle_at": "2026-10-25T09:34:33.682740+00:00",
   "schema_version": 1
 }
