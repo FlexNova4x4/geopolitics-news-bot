@@ -125,6 +125,14 @@
       "updated_at": "2026-10-25T00:19:16.212297+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
     },
+    "276c9169e9e25c837bd41331": {
+      "published_at": "2026-10-24T20:12:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Starshield | The non-state sovereigns",
+      "updated_at": "2026-10-25T05:37:43.549227+00:00",
+      "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
+    },
     "2dc380cfa0488430591621c1": {
       "published_at": "2026-10-24T19:49:24+00:00",
       "source": "thehindu.com",
@@ -258,6 +266,14 @@
       "title": "JUI-F KP directs leaders to quit ARDC",
       "updated_at": "2026-10-25T03:35:16.710380+00:00",
       "url": "https://www.dawn.com/news/2039587/jui-f-kp-directs-leaders-to-quit-ardc"
+    },
+    "550da544b03b04299d531968": {
+      "published_at": "2026-10-24T21:06:25+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Life convicts can avail 40 days of annual leave in two instalments, rules Madras High Court",
+      "updated_at": "2026-10-25T05:37:43.549247+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece"
     },
     "551ad10991720ea0b069d61c": {
       "published_at": "2026-10-24T14:13:25+00:00",
@@ -416,6 +432,14 @@
       "updated_at": "2026-10-25T01:05:20.509465+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
     },
+    "78fd986ba58c922cb055b92e": {
+      "published_at": "2026-10-24T20:53:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Another alleged hooch tragedy claims over 10 in Madhya Pradesh district; administration denies",
+      "updated_at": "2026-10-25T05:37:43.549244+00:00",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/another-alleged-hooch-tragedy-claims-over-10-in-madhya-pradesh-district-administration-denies/article71620685.ece"
+    },
     "7a1d120985829e41204a3378": {
       "published_at": "2026-10-25T03:34:02+00:00",
       "source": "dawn.com",
@@ -554,6 +578,14 @@
       "title": "Who are the candidates in Brazil's presidential election?",
       "updated_at": "2026-10-24T23:59:40.444527+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+    },
+    "ab32eb13a859b69f063f9d9a": {
+      "published_at": "2026-10-24T20:41:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "₹1.84 lakh collected as fine from erring motorists in Keralam’s Kochi",
+      "updated_at": "2026-10-25T05:37:43.549241+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/184-lakh-collected-as-fine-from-erring-motorists-in-keralams-kochi/article71620973.ece"
     },
     "aba0ba17c15dbef6d9f7f677": {
       "published_at": "2026-10-24T20:52:55+00:00",
@@ -765,6 +797,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:37:39.072042+00:00",
+  "last_cycle_at": "2026-10-25T05:37:43.549394+00:00",
   "schema_version": 1
 }
