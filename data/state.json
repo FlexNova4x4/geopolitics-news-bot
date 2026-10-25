@@ -75,9 +75,10 @@
     "0ad86da679ca75352a3bf1e0": {
       "published_at": "2026-10-25T06:52:23+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10171,
       "title": "17-year-old in Mercedes-Benz rams scooter in Kochi, killing 55-year-old street food vendor",
-      "updated_at": "2026-10-25T07:34:23.954155+00:00",
+      "updated_at": "2026-10-25T07:34:26.496118+00:00",
       "url": "https://www.hindustantimes.com/india-news/17yearold-in-mercedes-benz-rams-scooter-in-kochi-killing-55-year-old-street-food-vendor-101792911143816.html"
     },
     "0b7a7abdb90c68a961048592": {
@@ -92,9 +93,10 @@
     "0dd736df51ea9188a674d863": {
       "published_at": "2026-10-25T06:57:11+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10173,
       "title": "'We cannot remain helpless spectators': Jaishankar presses for 'dialogue and diplomacy' amid wars in West Asia, Ukraine",
-      "updated_at": "2026-10-25T07:34:23.954186+00:00",
+      "updated_at": "2026-10-25T07:34:34.503550+00:00",
       "url": "https://www.hindustantimes.com/india-news/we-cannot-remain-helpless-spectators-jaishankar-presses-on-dialogue-and-diplomacy-amid-wars-in-west-asia-ukraine-101792911167963.html"
     },
     "0eabb853ee40d8249aec4ccd": {
@@ -395,9 +397,10 @@
     "3499ac59864dbf3cd0ccf248": {
       "published_at": "2026-10-25T07:04:24+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10174,
       "title": "Jogen Chowdhury, celebrated Indian painter and former TMC Rajya Sabha MP, dies at 87",
-      "updated_at": "2026-10-25T07:34:23.954188+00:00",
+      "updated_at": "2026-10-25T07:34:38.369667+00:00",
       "url": "https://www.hindustantimes.com/india-news/jogen-chowdhury-celebrated-indian-painter-and-former-tmc-rajya-sabha-mp-dies-at-87-101792911865146.html"
     },
     "34a74e5845756f13fb70f040": {
@@ -928,9 +931,10 @@
     "937cfaddc862aa706aec1e3e": {
       "published_at": "2026-10-25T06:54:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10172,
       "title": "Elections cannot produce change in Israel",
-      "updated_at": "2026-10-25T07:34:23.954173+00:00",
+      "updated_at": "2026-10-25T07:34:30.592438+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss"
     },
     "9418581b7f6efb4b6eff5009": {
@@ -1535,6 +1539,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:34:23.954367+00:00",
+  "last_cycle_at": "2026-10-25T07:34:41.570471+00:00",
   "schema_version": 1
 }
