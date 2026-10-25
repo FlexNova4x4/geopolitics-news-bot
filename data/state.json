@@ -760,6 +760,14 @@
       "updated_at": "2026-10-25T00:19:16.212300+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
     },
+    "61b023b54352ba94a7e64f4f": {
+      "published_at": "2026-10-25T08:52:39+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'200 seats are our right': Congress poster seen in Lucknow as UP poll seat-sharing talks with SP intensify",
+      "updated_at": "2026-10-25T09:04:48.321228+00:00",
+      "url": "https://www.hindustantimes.com/india-news/200-seats-are-our-right-congress-poster-seen-in-lucknow-as-up-poll-seat-sharing-talks-with-sp-intensify-101792912946489.html"
+    },
     "61b95814bd7b1e80b16ea8b4": {
       "published_at": "2026-10-24T19:20:27+00:00",
       "source": "thehindu.com",
@@ -1116,6 +1124,14 @@
       "title": "Governor rejects ex-health CEO’s plea in Jhang embezzlement case",
       "updated_at": "2026-10-25T05:05:54.162144+00:00",
       "url": "https://www.dawn.com/news/2039545/governor-rejects-ex-health-ceos-plea-in-jhang-embezzlement-case"
+    },
+    "94ac3732d3c8ed7c2187849f": {
+      "published_at": "2026-10-25T08:36:47+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+      "updated_at": "2026-10-25T09:04:48.321206+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
     },
     "96578dc5c73bfdb3c492472c": {
       "published_at": "2026-10-25T02:17:20+00:00",
@@ -1489,6 +1505,14 @@
       "updated_at": "2026-10-25T07:35:24.248677+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
     },
+    "c351f010dedea817fe298a64": {
+      "published_at": "2026-10-25T08:44:17+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+      "updated_at": "2026-10-25T09:04:48.321225+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+    },
     "c4687dd68edc0199915d6241": {
       "published_at": "2026-10-25T06:42:13+00:00",
       "source": "thehindu.com",
@@ -1684,6 +1708,14 @@
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "updated_at": "2026-10-25T08:35:01.529466+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    "eb486ba09741805407207e33": {
+      "published_at": "2026-10-25T08:54:59+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Book Box: Two Himalayan bookstores, a birthday and a borrowed book",
+      "updated_at": "2026-10-25T09:04:48.321231+00:00",
+      "url": "https://www.hindustantimes.com/india-news/book-box-two-himalayan-bookstores-a-birthday-and-a-borrowed-book-101792918146209.html"
     },
     "ebe36ea7d3528c57697ce421": {
       "published_at": "2026-10-23T13:28:00+00:00",
@@ -1881,6 +1913,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:04:42.744960+00:00",
+  "last_cycle_at": "2026-10-25T09:04:48.321422+00:00",
   "schema_version": 1
 }
