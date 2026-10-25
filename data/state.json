@@ -227,9 +227,10 @@
     "26ba1981b8f9a2a095f54a1f": {
       "published_at": "2026-10-25T05:56:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10143,
       "title": "Back pain: Lancet review calls for clinical assessment over routine scans",
-      "updated_at": "2026-10-25T06:06:47.627799+00:00",
+      "updated_at": "2026-10-25T06:06:53.535486+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/back-pain-lancet-review-calls-for-clinical-assessment-over-routine-scans/article71616294.ece"
     },
     "27503d917e5b5fbcc9257584": {
@@ -298,9 +299,10 @@
     "2f73e0a6fb17dd4bf124b1ac": {
       "published_at": "2026-10-25T05:53:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10142,
       "title": "ISRO to have four launch pads by 2029, says Narayanan",
-      "updated_at": "2026-10-25T06:06:47.627781+00:00",
+      "updated_at": "2026-10-25T06:06:49.609942+00:00",
       "url": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece"
     },
     "2f7502d1d5dcda5ebf8cff6a": {
@@ -1022,9 +1024,10 @@
     "c47d88325070e88f1bfdaaf3": {
       "published_at": "2026-10-25T05:58:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10144,
       "title": "Influencer Diya Krishna faces potential legal notice for allegedly endorsing ‘divisive’ Instagram post",
-      "updated_at": "2026-10-25T06:06:47.627805+00:00",
+      "updated_at": "2026-10-25T06:06:57.432774+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/influencer-diya-krishna-faces-potential-legal-notice-for-allegedly-endorsing-divisive-instagram-post/article71622583.ece"
     },
     "c57c995aed21182697ff6a61": {
@@ -1039,9 +1042,10 @@
     "c5eee0900e364d6e8023dd0d": {
       "published_at": "2026-10-25T06:00:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10145,
       "title": "Police hold flag march in Narasaraopet ahead of local body polls",
-      "updated_at": "2026-10-25T06:06:47.627809+00:00",
+      "updated_at": "2026-10-25T06:07:01.384982+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-hold-flag-march-in-narasaraopet-ahead-of-local-body-polls/article71619593.ece"
     },
     "d293915be054fcbc4e578f87": {
@@ -1283,6 +1287,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T06:06:47.628223+00:00",
+  "last_cycle_at": "2026-10-25T06:07:04.585806+00:00",
   "schema_version": 1
 }
