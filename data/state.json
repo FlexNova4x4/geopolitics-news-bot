@@ -390,9 +390,10 @@
     "1c20f56bffe8d371252001ba": {
       "published_at": "2026-10-25T15:02:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10381,
       "title": "TGSRTC launches ₹600 weekly bus pass for unlimited travel within Greater Hyderabad limits",
-      "updated_at": "2026-10-25T16:13:03.129866+00:00",
+      "updated_at": "2026-10-25T16:13:13.421749+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/tgsrtc-launches-600-weekly-bus-pass-for-unlimited-travel-within-greater-hyderabad-limits/article71623843.ece"
     },
     "1f4bee06e2b5fa2cf7ec1b97": {
@@ -1285,9 +1286,10 @@
     "5efff453f7a429a066a90766": {
       "published_at": "2026-10-25T14:59:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10380,
       "title": "Why Congress govt. not investigating Yathindra’s statement on sting operation, asks Joshi",
-      "updated_at": "2026-10-25T16:13:03.129860+00:00",
+      "updated_at": "2026-10-25T16:13:09.435474+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/why-congress-govt-not-investigating-yathindras-statement-on-sting-operation-asks-joshi/article71623588.ece"
     },
     "5ff5a5b34653f3e2b8a06cf4": {
@@ -1587,9 +1589,10 @@
     "75544b90384973cbc210af49": {
       "published_at": "2026-10-25T15:03:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10382,
       "title": "TDP, YSRCP battle for Nellore mayor post as campaign intensifies",
-      "updated_at": "2026-10-25T16:13:03.129870+00:00",
+      "updated_at": "2026-10-25T16:13:17.302484+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-ysrcp-battle-for-nellore-mayor-post-as-campaign-intensifies/article71623688.ece"
     },
     "75811f096b6c58d05903ca1c": {
@@ -2417,9 +2420,10 @@
     "b7aca286507a5375b60e77ff": {
       "published_at": "2026-10-25T14:58:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10379,
       "title": "Cabinet will discuss proposal on establishing Buddhist university: Chief Minister",
-      "updated_at": "2026-10-25T16:13:03.129841+00:00",
+      "updated_at": "2026-10-25T16:13:05.449871+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/cabinet-will-discuss-proposal-on-establishing-buddhist-university-chief-minister/article71623845.ece"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
@@ -3380,6 +3384,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:13:03.130574+00:00",
+  "last_cycle_at": "2026-10-25T16:13:20.503613+00:00",
   "schema_version": 1
 }
