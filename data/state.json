@@ -1176,9 +1176,10 @@
     "6c803188cebdb250f7e832fb": {
       "published_at": "2026-10-25T14:05:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10318,
       "title": "Senior Congress leader from Adilabad joins BRS",
-      "updated_at": "2026-10-25T15:13:37.883512+00:00",
+      "updated_at": "2026-10-25T15:13:40.658068+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/senior-congress-leader-from-adilabad-joins-brs/article71623523.ece"
     },
     "6e46a68082f58c83b49ebacf": {
@@ -1247,9 +1248,10 @@
     "7121600e1d48934c9d4272ea": {
       "published_at": "2026-10-25T14:05:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10320,
       "title": "I support Sanatan Dharma, not Hindutva: Digvijaya Singh",
-      "updated_at": "2026-10-25T15:13:37.883530+00:00",
+      "updated_at": "2026-10-25T15:13:48.535503+00:00",
       "url": "https://www.thehindu.com/news/national/i-support-sanatan-dharma-not-hindutva-digvijaya-singh/article71623728.ece"
     },
     "7132157c130931055a1a4ad2": {
@@ -1586,9 +1588,10 @@
     "93d49050c8dcd908d11746ea": {
       "published_at": "2026-10-25T14:06:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10321,
       "title": "SRFTI students allege power cut amid protest; institute defends ‘disciplinary action’",
-      "updated_at": "2026-10-25T15:13:37.883533+00:00",
+      "updated_at": "2026-10-25T15:13:52.479802+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/srfti-students-allege-power-cut-amid-protest-institute-defends-disciplinary-action/article71623611.ece"
     },
     "9418581b7f6efb4b6eff5009": {
@@ -2102,9 +2105,10 @@
     "be3b35495768a628df6e3a26": {
       "published_at": "2026-10-25T14:05:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10319,
       "title": "What is the right to be forgotten? | Explained",
-      "updated_at": "2026-10-25T15:13:37.883527+00:00",
+      "updated_at": "2026-10-25T15:13:44.610666+00:00",
       "url": "https://www.thehindu.com/news/national/what-is-the-right-to-be-forgotten-explained/article71198013.ece"
     },
     "bf45bde197193fa243b7d8cc": {
@@ -2840,6 +2844,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:13:37.883898+00:00",
+  "last_cycle_at": "2026-10-25T15:13:55.680500+00:00",
   "schema_version": 1
 }
