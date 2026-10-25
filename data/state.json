@@ -75,9 +75,10 @@
     "05d58d43bb53eab2690ffce3": {
       "published_at": "2026-10-25T14:40:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10355,
       "title": "‘Gem Granites’ Veeramani POCSO cases in Tamil Nadu: a compilation",
-      "updated_at": "2026-10-25T15:17:20.761771+00:00",
+      "updated_at": "2026-10-25T15:17:27.065726+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-pocso-case-in-tamil-nadu-a-compilation/article71507647.ece"
     },
     "05e0ca9115aec66df425cb7f": {
@@ -828,9 +829,10 @@
     "40802b12010463f02e668cc7": {
       "published_at": "2026-10-25T14:40:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10357,
       "title": "Case registered after Class X student allegedly morphs classmates’ photos in Keralam",
-      "updated_at": "2026-10-25T15:17:20.761778+00:00",
+      "updated_at": "2026-10-25T15:17:34.909071+00:00",
       "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/case-registered-after-class-x-student-allegedly-morphs-classmates-photos-in-keralam/article71623869.ece"
     },
     "409489efcdb60ceddcd8840f": {
@@ -1283,9 +1285,10 @@
     "65053c0b0bf5eaa367864d8d": {
       "published_at": "2026-10-25T14:39:47+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10354,
       "title": "Gabon says access to social media restored after eight-month ban",
-      "updated_at": "2026-10-25T15:17:20.761757+00:00",
+      "updated_at": "2026-10-25T15:17:23.047672+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
     },
     "66f17fc2b8b886527e781167": {
@@ -1398,9 +1401,10 @@
     "6e9cf2331b193e7ad012378f": {
       "published_at": "2026-10-25T14:40:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10356,
       "title": "‘Modi ka baap bhi jayega’: Kharge’s remark in Bihar sparks row; BJP says Congress seems more like ‘mafia’",
-      "updated_at": "2026-10-25T15:17:20.761775+00:00",
+      "updated_at": "2026-10-25T15:17:30.970568+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece"
     },
     "6f0e207533a1fc9ad84b0709": {
@@ -3164,6 +3168,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:17:20.762184+00:00",
+  "last_cycle_at": "2026-10-25T15:17:38.110060+00:00",
   "schema_version": 1
 }
