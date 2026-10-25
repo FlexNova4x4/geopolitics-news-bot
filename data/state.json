@@ -1120,9 +1120,10 @@
     "8c36a839b4b28884cf7cbe36": {
       "published_at": "2026-10-25T09:29:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10228,
       "title": "Explosions heard in Saudi capital as airport prepares to reopen",
-      "updated_at": "2026-10-25T09:35:18.705364+00:00",
+      "updated_at": "2026-10-25T09:35:28.668867+00:00",
       "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece"
     },
     "91ee9952970e21fd9a42b354": {
@@ -1653,9 +1654,10 @@
     "d393a3d57a0f4b3af6d2e577": {
       "published_at": "2026-10-25T09:27:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10226,
       "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
-      "updated_at": "2026-10-25T09:35:18.705342+00:00",
+      "updated_at": "2026-10-25T09:35:20.741597+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
     },
     "d3d27d9386f5b4b33262c0fd": {
@@ -1794,9 +1796,10 @@
     "e8e8485050729ea9bcf12f69": {
       "published_at": "2026-10-25T09:27:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10227,
       "title": "Meeshapulimala opens to tourists as Neelakurinji blooms",
-      "updated_at": "2026-10-25T09:35:18.705361+00:00",
+      "updated_at": "2026-10-25T09:35:24.620053+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/meeshapulimala-opens-to-tourists-as-neelakurinji-blooms/article71620134.ece"
     },
     "eb486ba09741805407207e33": {
@@ -2022,6 +2025,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:35:18.705704+00:00",
+  "last_cycle_at": "2026-10-25T09:35:31.869723+00:00",
   "schema_version": 1
 }
