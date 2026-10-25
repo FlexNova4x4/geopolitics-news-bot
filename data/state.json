@@ -12,9 +12,10 @@
     "08d9f98c6cf930410f2f0c4c": {
       "published_at": "2026-10-25T03:20:22+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10051,
       "title": "ATC warns Imaan, Hadi of verdict sans testimony in security breach case",
-      "updated_at": "2026-10-25T03:35:14.476508+00:00",
+      "updated_at": "2026-10-25T03:35:28.722579+00:00",
       "url": "https://www.dawn.com/news/2039682/atc-warns-imaan-hadi-of-verdict-sans-testimony-in-security-breach-case"
     },
     "0b7a7abdb90c68a961048592": {
@@ -135,17 +136,19 @@
     "50646b1f51a7a5ac5f3a5f3c": {
       "published_at": "2026-10-25T03:16:52+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10050,
       "title": "Supreme Court questions Sindh govt’s property claim",
-      "updated_at": "2026-10-25T03:35:14.476505+00:00",
+      "updated_at": "2026-10-25T03:35:24.668058+00:00",
       "url": "https://www.dawn.com/news/2039585/supreme-court-questions-sindh-govts-property-claim"
     },
     "512296d1fdccc4355da3c305": {
       "published_at": "2026-10-25T03:04:15+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10048,
       "title": "JUI-F KP directs leaders to quit ARDC",
-      "updated_at": "2026-10-25T03:35:14.476485+00:00",
+      "updated_at": "2026-10-25T03:35:16.710380+00:00",
       "url": "https://www.dawn.com/news/2039587/jui-f-kp-directs-leaders-to-quit-ardc"
     },
     "551ad10991720ea0b069d61c": {
@@ -372,9 +375,10 @@
     "db03056f068ac83473e99bf4": {
       "published_at": "2026-10-25T03:12:41+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10049,
       "title": "Wapda inks Rs133bn deal for Diamer-Bhasha Dam project",
-      "updated_at": "2026-10-25T03:35:14.476502+00:00",
+      "updated_at": "2026-10-25T03:35:20.756149+00:00",
       "url": "https://www.dawn.com/news/2039586/wapda-inks-rs133bn-deal-for-diamer-bhasha-dam-project"
     },
     "df0599f31410b2f5951a384e": {
@@ -437,6 +441,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T03:35:14.476574+00:00",
+  "last_cycle_at": "2026-10-25T03:35:31.923359+00:00",
   "schema_version": 1
 }
