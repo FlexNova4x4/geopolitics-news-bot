@@ -291,9 +291,10 @@
     "10d910d36071580bc6cff249": {
       "published_at": "2026-10-25T17:21:17+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10459,
       "title": "FIR filed against 2 Congress MPs for 'trespass' as Jamia university protest over student union demand continues",
-      "updated_at": "2026-10-25T18:13:32.447825+00:00",
+      "updated_at": "2026-10-25T18:13:46.622726+00:00",
       "url": "https://www.hindustantimes.com/india-news/jamia-protest-over-student-union-demand-continues-delhi-police-files-fir-against-congress-mps-for-trespass-101792943042655.html"
     },
     "11518b6023a3677f9818ff72": {
@@ -2226,9 +2227,10 @@
     "88511649eed7544cb44ff0ac": {
       "published_at": "2026-10-25T17:21:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10458,
       "title": "Industrialist R Veeramani booked in eighth POCSO case: Police",
-      "updated_at": "2026-10-25T18:13:32.447821+00:00",
+      "updated_at": "2026-10-25T18:13:42.740869+00:00",
       "url": "https://www.hindustantimes.com/india-news/industrialist-r-veeramani-booked-in-eighth-pocso-case-police-101792947384121.html"
     },
     "886f6517ac2c914003485cf8": {
@@ -2414,9 +2416,10 @@
     "98b8181f1c8983c4307a0247": {
       "published_at": "2026-10-25T17:18:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10457,
       "title": "Venezuela's Opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-      "updated_at": "2026-10-25T18:13:32.447815+00:00",
+      "updated_at": "2026-10-25T18:13:38.739284+00:00",
       "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece"
     },
     "99bfc25711806d69e3e77bce": {
@@ -3818,9 +3821,10 @@
     "f5ac949b61ab526bee0feccd": {
       "published_at": "2026-10-25T17:13:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10456,
       "title": "Supreme Court clarifies scope of police custody under BNSS",
-      "updated_at": "2026-10-25T18:13:32.447795+00:00",
+      "updated_at": "2026-10-25T18:13:34.845945+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece"
     },
     "f603ab89ebe7bf49606dc2ed": {
@@ -4073,6 +4077,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:13:32.448357+00:00",
+  "last_cycle_at": "2026-10-25T18:13:49.823869+00:00",
   "schema_version": 1
 }
