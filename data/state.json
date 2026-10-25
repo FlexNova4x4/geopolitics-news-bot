@@ -1309,9 +1309,10 @@
     "8daa4d391b482ee30744a06a": {
       "published_at": "2026-10-25T11:26:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10268,
       "title": "Kozhikode tourism committees remain inactive, fail to propose development projects",
-      "updated_at": "2026-10-25T11:35:31.301211+00:00",
+      "updated_at": "2026-10-25T11:35:37.422297+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kozhikode-tourism-committees-remain-inactive-fail-to-propose-development-projects/article71622982.ece"
     },
     "91ee9952970e21fd9a42b354": {
@@ -1511,9 +1512,10 @@
     "a28ea3edee0b749c9c4f9060": {
       "published_at": "2026-10-25T11:24:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10267,
       "title": "Scrap dealer critically injured in explosion at Ramanthapur shop in Hyderabad",
-      "updated_at": "2026-10-25T11:35:31.301194+00:00",
+      "updated_at": "2026-10-25T11:35:33.532293+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/scrap-dealer-critically-injured-in-explosion-at-ramanthapur-shop-in-hyderabad/article71623002.ece"
     },
     "a2b868bf8a4831b551cd6e0b": {
@@ -2374,6 +2376,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T11:35:31.301626+00:00",
+  "last_cycle_at": "2026-10-25T11:35:40.623187+00:00",
   "schema_version": 1
 }
