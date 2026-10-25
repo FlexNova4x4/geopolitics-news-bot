@@ -387,6 +387,14 @@
       "updated_at": "2026-10-25T05:05:40.874263+00:00",
       "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas-of-sindh-punjab"
     },
+    "1c20f56bffe8d371252001ba": {
+      "published_at": "2026-10-25T15:02:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "TGSRTC launches ₹600 weekly bus pass for unlimited travel within Greater Hyderabad limits",
+      "updated_at": "2026-10-25T16:13:03.129866+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/tgsrtc-launches-600-weekly-bus-pass-for-unlimited-travel-within-greater-hyderabad-limits/article71623843.ece"
+    },
     "1f4bee06e2b5fa2cf7ec1b97": {
       "published_at": "2026-10-24T23:49:00+00:00",
       "source": "rss.dw.com",
@@ -1274,6 +1282,14 @@
       "updated_at": "2026-10-25T16:11:52.075042+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/free-travel-scheme-keralam-govt-releases-8823-crore-to-ksrtc-to-cover-revenue-loss/article71623733.ece"
     },
+    "5efff453f7a429a066a90766": {
+      "published_at": "2026-10-25T14:59:32+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Why Congress govt. not investigating Yathindra’s statement on sting operation, asks Joshi",
+      "updated_at": "2026-10-25T16:13:03.129860+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/why-congress-govt-not-investigating-yathindras-statement-on-sting-operation-asks-joshi/article71623588.ece"
+    },
     "5ff5a5b34653f3e2b8a06cf4": {
       "published_at": "2026-10-25T06:08:16+00:00",
       "source": "hindustantimes.com",
@@ -1567,6 +1583,14 @@
       "title": "Farmers’ groups discuss list of demands ahead of meeting with Karnataka CM Shivakumar",
       "updated_at": "2026-10-25T10:04:59.830129+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/farmers-groups-discuss-list-of-demands-ahead-of-meeting-with-karnataka-cm-shivakumar/article71622788.ece"
+    },
+    "75544b90384973cbc210af49": {
+      "published_at": "2026-10-25T15:03:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "TDP, YSRCP battle for Nellore mayor post as campaign intensifies",
+      "updated_at": "2026-10-25T16:13:03.129870+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-ysrcp-battle-for-nellore-mayor-post-as-campaign-intensifies/article71623688.ece"
     },
     "75811f096b6c58d05903ca1c": {
       "published_at": "2026-10-25T04:58:53+00:00",
@@ -2389,6 +2413,14 @@
       "title": "Theaterisation must reflect India’s security needs: Air Chief Marshal",
       "updated_at": "2026-10-25T05:41:49.101938+00:00",
       "url": "https://www.thehindu.com/news/national/theaterisation-must-reflect-indias-security-needs-air-chief-marshal/article71622594.ece"
+    },
+    "b7aca286507a5375b60e77ff": {
+      "published_at": "2026-10-25T14:58:05+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cabinet will discuss proposal on establishing Buddhist university: Chief Minister",
+      "updated_at": "2026-10-25T16:13:03.129841+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/cabinet-will-discuss-proposal-on-establishing-buddhist-university-chief-minister/article71623845.ece"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
       "published_at": "2026-10-25T11:17:24+00:00",
@@ -3348,6 +3380,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:12:57.601037+00:00",
+  "last_cycle_at": "2026-10-25T16:13:03.130574+00:00",
   "schema_version": 1
 }
