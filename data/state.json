@@ -726,6 +726,14 @@
       "updated_at": "2026-10-25T05:39:45.079255+00:00",
       "url": "https://www.thehindu.com/news/international/military-ups-death-toll-in-mali-attack-to-54/article71622485.ece"
     },
+    "a506a69459cf8c8e4ee3d549": {
+      "published_at": "2026-10-25T03:33:25+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "More Lula, or back to the Bolsonaros? Brazil votes in cliffhanger",
+      "updated_at": "2026-10-25T05:39:56.481503+00:00",
+      "url": "https://www.thehindu.com/news/international/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger/article71622490.ece"
+    },
     "a6def70ddd121613b81f6e1c": {
       "published_at": "2026-10-25T02:04:47+00:00",
       "source": "thehindu.com",
@@ -849,6 +857,14 @@
       "updated_at": "2026-10-24T23:59:10.577035+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
     },
+    "d6cfd4f710ea8c69c5d628b0": {
+      "published_at": "2026-10-25T03:54:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Trump casts his midterm ballot early in Florida",
+      "updated_at": "2026-10-25T05:39:56.481507+00:00",
+      "url": "https://www.thehindu.com/news/international/trump-casts-his-midterm-ballot-early-in-florida/article71621475.ece"
+    },
     "d7326455d3174baa940e497a": {
       "published_at": "2026-10-24T19:21:27+00:00",
       "source": "thehindu.com",
@@ -874,6 +890,14 @@
       "title": "ZELENSKY ACCEPTS DEFEAT? Trump Dumps Ukraine for Putin | Melania Oleshky Ceasefire, India | Kinjal",
       "updated_at": "2026-10-24T22:36:56.620537+00:00",
       "url": "https://www.youtube.com/watch?v=AaCjss6WHw8"
+    },
+    "e749d6eb84069fcff952587f": {
+      "published_at": "2026-10-25T03:29:32+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "5 of family among 6 killed in Rajasthan car-truck collision, infant sole survivor",
+      "updated_at": "2026-10-25T05:39:56.481489+00:00",
+      "url": "https://www.hindustantimes.com/india-news/5-of-family-among-6-killed-in-rajasthan-car-truck-collision-infant-sole-survivor-101792896406354.html"
     },
     "ebe36ea7d3528c57697ce421": {
       "published_at": "2026-10-23T13:28:00+00:00",
@@ -945,6 +969,14 @@
       "updated_at": "2026-10-25T00:19:18.203674+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
     },
+    "fcec1db741d9563f60fbb768": {
+      "published_at": "2026-10-25T03:55:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Immigrants seeking U.S. citizenship targeted in Trump administration's illegal voting crackdown",
+      "updated_at": "2026-10-25T05:39:56.481510+00:00",
+      "url": "https://www.thehindu.com/news/international/immigrants-seeking-us-citizenship-face-charges-in-a-crackdown-on-illegal-voting-and-citizenship-fraud/article71614953.ece"
+    },
     "fd30241a8824df844b722f5a": {
       "published_at": "2026-10-24T18:33:11+00:00",
       "source": "thehindu.com",
@@ -981,6 +1013,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:39:52.181312+00:00",
+  "last_cycle_at": "2026-10-25T05:39:56.481713+00:00",
   "schema_version": 1
 }
