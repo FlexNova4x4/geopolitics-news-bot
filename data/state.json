@@ -242,9 +242,10 @@
     "b6c7003a5a2c3ea73103dc55": {
       "published_at": "2026-10-25T00:23:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10035,
       "title": "Violence breaks out across Europe after another day of protests",
-      "updated_at": "2026-10-25T00:49:14.564401+00:00",
+      "updated_at": "2026-10-25T00:49:16.383696+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss"
     },
     "bbe4e89a16c2f35966d008d8": {
@@ -341,6 +342,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T00:49:14.564467+00:00",
+  "last_cycle_at": "2026-10-25T00:49:19.583929+00:00",
   "schema_version": 1
 }
