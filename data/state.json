@@ -291,9 +291,10 @@
     "162a2c73e1fb6dfbcc519991": {
       "published_at": "2026-10-25T14:38:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10353,
       "title": "Stage set for counting of votes in Council polls today",
-      "updated_at": "2026-10-25T15:16:54.915236+00:00",
+      "updated_at": "2026-10-25T15:17:09.440662+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/stage-set-for-counting-of-votes-in-council-polls-today/article71623614.ece"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
@@ -425,9 +426,10 @@
     "23953ddba78093bf144b4443": {
       "published_at": "2026-10-25T14:37:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10352,
       "title": "BSF, REVA University organise Fit India Walkathon",
-      "updated_at": "2026-10-25T15:16:54.915231+00:00",
+      "updated_at": "2026-10-25T15:17:05.423502+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bsf-reva-university-organise-fit-india-walkathon/article71623502.ece"
     },
     "26315826209faa6b9171dad7": {
@@ -1158,9 +1160,10 @@
     "5c1ed4113d721321c01f1401": {
       "published_at": "2026-10-25T14:34:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10351,
       "title": "Alliance leaders campaign for ‘triple-engine government’ in Anantapur Municipal elections",
-      "updated_at": "2026-10-25T15:16:54.915225+00:00",
+      "updated_at": "2026-10-25T15:17:01.476560+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/alliance-leaders-campaign-for-triple-engine-government-in-anantapur-municipal-elections/article71623541.ece"
     },
     "5c2d244e8a615ca8f4db9e35": {
@@ -3006,9 +3009,10 @@
     "fc2b0f3489b93e82c15c7b4b": {
       "published_at": "2026-10-25T14:34:33+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10350,
       "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "updated_at": "2026-10-25T15:16:54.915205+00:00",
+      "updated_at": "2026-10-25T15:16:57.506466+00:00",
       "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
     },
     "fc5647aa20e96610287155ae": {
@@ -3128,6 +3132,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:16:54.915713+00:00",
+  "last_cycle_at": "2026-10-25T15:17:12.641663+00:00",
   "schema_version": 1
 }
