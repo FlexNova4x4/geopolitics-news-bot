@@ -538,6 +538,14 @@
       "updated_at": "2026-10-25T08:04:36.639408+00:00",
       "url": "https://www.hindustantimes.com/india-news/dhanush-narpani-iyakkam-fan-club-meeting-political-entry-debut-c-joseph-vijay-tamil-nadu-101792913100558.html"
     },
+    "30f2aa4da98503eacba52e9a": {
+      "published_at": "2026-10-25T13:29:09+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Kharge’s ‘baap’ remark targeting PM Modi draws BJP backlash, Amit Shah hits out at Congress",
+      "updated_at": "2026-10-25T15:11:57.866734+00:00",
+      "url": "https://www.hindustantimes.com/india-news/kharge-modi-ka-baap-remark-row-bjp-amit-shah-slam-congress-chief-bihar-patna-mallikarjun-congress-party-pm-101792934629969.html"
+    },
     "31fb567f7c421891b63b619c": {
       "published_at": "2026-10-25T07:33:28+00:00",
       "source": "thehindu.com",
@@ -699,6 +707,14 @@
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+    },
+    "40a0e8deac5616f4dc155fc7": {
+      "published_at": "2026-10-25T13:29:56+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+      "updated_at": "2026-10-25T15:11:57.866737+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss"
     },
     "4248b3f7df137f42c32f604a": {
       "published_at": "2026-10-25T08:26:19+00:00",
@@ -2226,6 +2242,14 @@
       "updated_at": "2026-10-25T05:37:01.631747+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-flag-safety-risk-as-silt-removed-from-canals-piles-up-along-city-roads/article71608743.ece"
     },
+    "d77ba046a15a0ea1a9a456c4": {
+      "published_at": "2026-10-25T13:20:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "French protest groups demand more rallies as Macron faces tough choices",
+      "updated_at": "2026-10-25T15:11:57.866716+00:00",
+      "url": "https://www.thehindu.com/news/international/french-protest-groups-demand-more-rallies-as-macron-faces-tough-choices/article71623327.ece"
+    },
     "d7d0b5415ec50cca3d19921b": {
       "published_at": "2026-10-25T13:09:42+00:00",
       "source": "hindustantimes.com",
@@ -2341,6 +2365,14 @@
       "title": "Poland’s abortion law: What will the new bills change? | Explained",
       "updated_at": "2026-10-25T06:05:54.471876+00:00",
       "url": "https://www.thehindu.com/news/international/polands-abortion-law-what-will-the-new-bills-change-explained/article71615436.ece"
+    },
+    "e7355a689b568ac98186c6a6": {
+      "published_at": "2026-10-25T13:24:26+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "HT Evening News Brief October 25: Jaishankar urges dialogue on global conflicts, Kharge targets BJP, Sindhu loses French Open final",
+      "updated_at": "2026-10-25T15:11:57.866731+00:00",
+      "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-october-25-jaishankar-urges-dialogue-on-global-conflicts-kharge-targets-bjp-sindhu-loses-french-open-final-101792934164929.html"
     },
     "e749d6eb84069fcff952587f": {
       "published_at": "2026-10-25T03:29:32+00:00",
@@ -2664,6 +2696,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:11:50.836817+00:00",
+  "last_cycle_at": "2026-10-25T15:11:57.867080+00:00",
   "schema_version": 1
 }
