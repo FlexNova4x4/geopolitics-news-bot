@@ -521,6 +521,14 @@
       "updated_at": "2026-10-25T06:35:20.604096+00:00",
       "url": "https://www.hindustantimes.com/india-news/expelled-bihar-mla-anant-singh-jdu-nitish-kumar-mokama-news-101792908331081.html"
     },
+    "2ed88e77909516b6207a45ea": {
+      "published_at": "2026-10-25T14:10:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kerala High Court to consider appeal of Pinarayi Vijayan against registration of FIR in CMRL-Exalogic pay-off case on October 26, 2026",
+      "updated_at": "2026-10-25T15:14:25.472537+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-to-consider-appeal-of-pinarayi-vijayan-against-registration-of-fir-in-cmrl-exalogic-pay-off-case-on-october-26-2026/article71623080.ece"
+    },
     "2f2eb773feba18c62bfa3653": {
       "published_at": "2026-10-25T02:00:10+00:00",
       "source": "hindustantimes.com",
@@ -1576,6 +1584,14 @@
       "updated_at": "2026-10-25T09:35:28.668867+00:00",
       "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece"
     },
+    "8cd50293985dd714395fa64a": {
+      "published_at": "2026-10-25T14:11:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "TDB sets November 10 as deadline to complete works at Sabarimala",
+      "updated_at": "2026-10-25T15:14:25.472556+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/tdb-sets-november-10-as-deadline-to-complete-works-at-sabarimala/article71623436.ece"
+    },
     "8daa4d391b482ee30744a06a": {
       "published_at": "2026-10-25T11:26:27+00:00",
       "source": "thehindu.com",
@@ -2433,6 +2449,14 @@
       "updated_at": "2026-10-25T10:04:48.068072+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/launch-of-garudan-smart-bus-punching-system-in-greater-kochi-area-held-up-indefinitely/article71622854.ece"
     },
+    "dac23b611de479afaa5d1276": {
+      "published_at": "2026-10-25T14:11:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "6,180 MCC violation cases registered in A.P. since local body poll process began: SEC",
+      "updated_at": "2026-10-25T15:14:25.472552+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/6180-mcc-violation-cases-registered-in-ap-since-local-body-poll-process-began-sec/article71623540.ece"
+    },
     "db03056f068ac83473e99bf4": {
       "published_at": "2026-10-25T03:12:41+00:00",
       "source": "dawn.com",
@@ -2727,6 +2751,14 @@
       "updated_at": "2026-10-25T06:05:58.357941+00:00",
       "url": "https://www.thehindu.com/news/international/france-october-17-protest-the-hindu-profiles/article71621130.ece"
     },
+    "f81074a2dd1a248bfdfb21f8": {
+      "published_at": "2026-10-25T14:11:29+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+      "updated_at": "2026-10-25T15:14:25.472559+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss"
+    },
     "f844d6e4d9c58ea3d5d8d3a9": {
       "published_at": "2026-10-25T10:08:29+00:00",
       "source": "thehindu.com",
@@ -2880,6 +2912,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:14:18.709545+00:00",
+  "last_cycle_at": "2026-10-25T15:14:25.472912+00:00",
   "schema_version": 1
 }
