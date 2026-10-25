@@ -75,9 +75,10 @@
     "05051e64daefbf734033befa": {
       "published_at": "2026-10-25T15:44:50+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10411,
       "title": "TGSRTC woman conductor pushed off a moving bus by passenger, injured",
-      "updated_at": "2026-10-25T16:16:50.152774+00:00",
+      "updated_at": "2026-10-25T16:16:52.686024+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/tgsrtc-woman-conductor-pushed-off-a-moving-bus-by-passenger-injured/article71624089.ece"
     },
     "058ce8f9ca82f475c2cdb219": {
@@ -542,9 +543,10 @@
     "25055fe601576605c587032b": {
       "published_at": "2026-10-25T15:48:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10414,
       "title": "Kalaburagi’s GI-tagged tur dal wins PM’s praise after export to Maldives",
-      "updated_at": "2026-10-25T16:16:50.152795+00:00",
+      "updated_at": "2026-10-25T16:17:04.680946+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/kalaburagis-gi-tagged-tur-dal-wins-pms-praise-after-maldives-export/article71623784.ece"
     },
     "26315826209faa6b9171dad7": {
@@ -1115,9 +1117,10 @@
     "4c4507b441e36f8a51901405": {
       "published_at": "2026-10-25T15:47:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10413,
       "title": "Trained 108 ambulance EMTs to provide first aid for eye trauma",
-      "updated_at": "2026-10-25T16:16:50.152792+00:00",
+      "updated_at": "2026-10-25T16:17:00.717941+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/trained-108-ambulance-emts-to-provide-first-aid-for-eye-trauma/article71624067.ece"
     },
     "4c6f6dc2f81840c7b9d13812": {
@@ -2902,9 +2905,10 @@
     "ce6e9e29c1f44014c788c4b6": {
       "published_at": "2026-10-25T15:45:49+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10412,
       "title": "Centre dispatches 250 RAF personnel to Arunachal Pradesh as Siang hydropower project protest turns violent",
-      "updated_at": "2026-10-25T16:16:50.152788+00:00",
+      "updated_at": "2026-10-25T16:16:56.604738+00:00",
       "url": "https://www.hindustantimes.com/india-news/arunachal-pradesh-violence-centre-dispatches-250-raf-personnel-amid-siang-hydropower-project-protest-101792941341346.html"
     },
     "cf59a2d6364a524f8ecc208a": {
@@ -3668,6 +3672,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:16:50.153412+00:00",
+  "last_cycle_at": "2026-10-25T16:17:07.882087+00:00",
   "schema_version": 1
 }
