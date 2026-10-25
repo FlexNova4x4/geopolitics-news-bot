@@ -45,6 +45,14 @@
       "updated_at": "2026-10-25T15:11:01.267765+00:00",
       "url": "https://www.thehindu.com/news/international/stranded-iranian-sailors-receive-urgent-medical-assistance-in-sri-lanka/article71623159.ece"
     },
+    "03171d3a1c9a2a36efd5a5c9": {
+      "published_at": "2026-10-25T14:42:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Gem Granites Veeramani case: Chennai Police issue LOC restraining five suspects from leaving India",
+      "updated_at": "2026-10-25T15:17:44.924673+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-case-chennai-police-issue-loc-restraining-five-suspects-from-leaving-india/article71623500.ece"
+    },
     "0341e669e1f302ba2fe8096c": {
       "published_at": "2026-10-25T07:18:57+00:00",
       "source": "thehindu.com",
@@ -1470,6 +1478,14 @@
       "updated_at": "2026-10-25T09:34:48.001871+00:00",
       "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece"
     },
+    "73f7bc52cc2e773dbb96ba13": {
+      "published_at": "2026-10-25T14:42:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
+      "updated_at": "2026-10-25T15:17:44.924699+00:00",
+      "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece"
+    },
     "75158c1834e1c18ed588fa82": {
       "published_at": "2026-10-24T20:37:02+00:00",
       "source": "aljazeera.com",
@@ -1540,6 +1556,14 @@
       "title": "Saudi air defences intercept Houthi barrage near Mecca",
       "updated_at": "2026-10-25T15:12:47.069951+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
+    },
+    "77c61bd2e57ddcceb5eec631": {
+      "published_at": "2026-10-25T14:43:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "India will not have lasting peace until RSS ideology is dismantled: Kharge",
+      "updated_at": "2026-10-25T15:17:44.924703+00:00",
+      "url": "https://www.thehindu.com/news/national/bihar/india-will-not-have-lasting-peace-until-rss-ideology-is-dismantled-kharge/article71623455.ece"
     },
     "78a627de04bf75729389fd34": {
       "published_at": "2026-10-25T00:34:43+00:00",
@@ -2138,6 +2162,14 @@
       "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
       "updated_at": "2026-10-25T06:34:32.493596+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
+    },
+    "a8c2acd357780544054ea091": {
+      "published_at": "2026-10-25T14:42:36+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Hundreds demand removal of Gyanesh Kumar in anti-SIR protest in Hyderabad",
+      "updated_at": "2026-10-25T15:17:44.924695+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/hundreds-demand-removal-of-gyanesh-kumar-in-anti-sir-protest-in-hyderabad/article71623736.ece"
     },
     "a9263e36b2903f34a79ecd7d": {
       "published_at": "2026-10-25T08:04:37+00:00",
@@ -3168,6 +3200,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:17:38.110060+00:00",
+  "last_cycle_at": "2026-10-25T15:17:44.925092+00:00",
   "schema_version": 1
 }
