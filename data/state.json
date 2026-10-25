@@ -622,9 +622,10 @@
     "324fb21afd86531baa97b96f": {
       "published_at": "2026-10-25T14:26:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10342,
       "title": "Congress leader Kripa Alva questioned in ‘sting operation’ case",
-      "updated_at": "2026-10-25T15:16:09.948970+00:00",
+      "updated_at": "2026-10-25T15:16:12.641069+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/congress-leader-kripa-alva-questioned-in-sting-operation-case/article71623365.ece"
     },
     "3255e4fb30af210c76c6b188": {
@@ -1026,9 +1027,10 @@
     "537be96f5ef060f869ef6e82": {
       "published_at": "2026-10-25T14:28:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10343,
       "title": "TDP-led alliance confident of sweeping Vizianagaram local body elections",
-      "updated_at": "2026-10-25T15:16:09.948986+00:00",
+      "updated_at": "2026-10-25T15:16:16.538528+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-led-alliance-confident-of-sweeping-vizianagaram-local-body-elections/article71623098.ece"
     },
     "550da544b03b04299d531968": {
@@ -1497,9 +1499,10 @@
     "79f8cbe8965930d6b23d8970": {
       "published_at": "2026-10-25T14:30:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10345,
       "title": "YSRCP accuses Naidu of personal attacks on Jagan for political gains",
-      "updated_at": "2026-10-25T15:16:09.948993+00:00",
+      "updated_at": "2026-10-25T15:16:24.449413+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-naidu-of-personal-attacks-on-jagan-for-political-gains/article71623714.ece"
     },
     "7a081549d704bac5988b116b": {
@@ -1887,9 +1890,10 @@
     "a115a13265dec7156f4d0964": {
       "published_at": "2026-10-25T14:30:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10344,
       "title": "A.P. braces for very severe cyclone, to evacuate people in coastal districts",
-      "updated_at": "2026-10-25T15:16:09.948990+00:00",
+      "updated_at": "2026-10-25T15:16:20.554935+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-braces-for-very-severe-cyclone-to-evacuate-people-in-coastal-districts/article71623247.ece"
     },
     "a1bc666fee8c90260ebe2dc3": {
@@ -3056,6 +3060,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:16:09.949412+00:00",
+  "last_cycle_at": "2026-10-25T15:16:27.650478+00:00",
   "schema_version": 1
 }
