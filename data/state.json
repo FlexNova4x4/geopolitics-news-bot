@@ -91,9 +91,10 @@
     "431f5566a31b29b49c93579a": {
       "published_at": "2026-10-24T21:09:27+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10036,
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "updated_at": "2026-10-25T01:05:14.628424+00:00",
+      "updated_at": "2026-10-25T01:05:16.564108+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
     },
     "4a067e46333580ef31d07718": {
@@ -184,9 +185,10 @@
     "78a627de04bf75729389fd34": {
       "published_at": "2026-10-25T00:34:43+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10037,
       "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
-      "updated_at": "2026-10-25T01:05:14.628441+00:00",
+      "updated_at": "2026-10-25T01:05:20.509465+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
     },
     "80d1513b974e9b68ccf0d9bb": {
@@ -358,6 +360,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T01:05:14.628491+00:00",
+  "last_cycle_at": "2026-10-25T01:05:23.709732+00:00",
   "schema_version": 1
 }
