@@ -610,6 +610,14 @@
       "updated_at": "2026-10-25T06:34:24.747375+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss"
     },
+    "4f371849fb9efa7fc2fcfcc8": {
+      "published_at": "2026-10-25T07:34:41+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Ethical boundaries to detecting deepfakes: NCERT introduces 20-hour AI module for classes 9-12",
+      "updated_at": "2026-10-25T08:05:06.758702+00:00",
+      "url": "https://www.thehindu.com/education/20-hour-introductory-module-on-computational-thinking-and-artificial-intelligence-released-by-ncert/article71622775.ece"
+    },
     "4fb0b6aa4688db957ab7fb59": {
       "published_at": "2026-10-25T07:33:35+00:00",
       "source": "thehindu.com",
@@ -636,6 +644,14 @@
       "title": "JUI-F KP directs leaders to quit ARDC",
       "updated_at": "2026-10-25T03:35:16.710380+00:00",
       "url": "https://www.dawn.com/news/2039587/jui-f-kp-directs-leaders-to-quit-ardc"
+    },
+    "512d5a13f5f3fe666aad5873": {
+      "published_at": "2026-10-25T07:49:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Serbia enters into elections amid ascending students’ movement against SNS",
+      "updated_at": "2026-10-25T08:05:06.758723+00:00",
+      "url": "https://www.thehindu.com/news/international/serbia-elections-amid-students-protest/article71622730.ece"
     },
     "529aab26d4b950650e27e9db": {
       "published_at": "2026-10-25T07:28:47+00:00",
@@ -920,6 +936,14 @@
       "updated_at": "2026-10-25T04:06:09.564448+00:00",
       "url": "https://www.dawn.com/news/2039582/tribute-paid-to-polio-workers-in-quetta"
     },
+    "7a48f95e2d0a59a5acb7296a": {
+      "published_at": "2026-10-25T07:50:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Usage of terrorism as instrument of statecraft simply unacceptable: Jaishankar",
+      "updated_at": "2026-10-25T08:05:06.758725+00:00",
+      "url": "https://www.thehindu.com/news/national/usage-of-terrorism-as-instrument-of-statecraft-simply-unacceptable-jaishankar/article71622789.ece"
+    },
     "7aac1bc4340066498ab38d30": {
       "published_at": "2026-10-25T05:25:03+00:00",
       "source": "thehindu.com",
@@ -1071,6 +1095,14 @@
       "title": "Nasirabad pylon blast cuts power to many areas",
       "updated_at": "2026-10-25T04:06:05.451448+00:00",
       "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
+    },
+    "9a8f5ee0da3782f2f58990c4": {
+      "published_at": "2026-10-25T07:44:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Closely monitoring developments in Indo-Pacific; focusing on extended-range operational reach: IAF Chief A.P. Singh",
+      "updated_at": "2026-10-25T08:05:06.758721+00:00",
+      "url": "https://www.thehindu.com/news/national/closely-monitoring-developments-in-indo-pacific-focusing-on-extended-range-operational-reach-iaf-chief-ap-singh/article71622621.ece"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
       "published_at": "2026-10-24T19:12:51+00:00",
@@ -1710,6 +1742,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:05:01.972489+00:00",
+  "last_cycle_at": "2026-10-25T08:05:06.758944+00:00",
   "schema_version": 1
 }
