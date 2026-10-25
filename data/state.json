@@ -12,9 +12,10 @@
     "0b7a7abdb90c68a961048592": {
       "published_at": "2026-10-25T02:25:55+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10045,
       "title": "Pakistan reopens Gabd border crossing with Iran, restores bilateral trade after weeklong suspension",
-      "updated_at": "2026-10-25T02:35:33.068807+00:00",
+      "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
@@ -29,9 +30,10 @@
     "1672b65e0801b5f9a89847e6": {
       "published_at": "2026-10-25T02:32:48+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10046,
       "title": "Pakistan Railways declares emergency until Dec 31 after repeated accidents",
-      "updated_at": "2026-10-25T02:35:33.068812+00:00",
+      "updated_at": "2026-10-25T02:35:47.273504+00:00",
       "url": "https://www.dawn.com/news/2039678/pakistan-railways-declares-emergency-until-dec-31-after-repeated-accidents"
     },
     "1f4bee06e2b5fa2cf7ec1b97": {
@@ -218,9 +220,10 @@
     "83a1ffacabe7c1272dc6457f": {
       "published_at": "2026-10-25T02:07:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10043,
       "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
-      "updated_at": "2026-10-25T02:35:33.068739+00:00",
+      "updated_at": "2026-10-25T02:35:35.222443+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
     },
     "85b13889261ddb1c19a1f5fe": {
@@ -235,9 +238,10 @@
     "8805445d4dc8a6f6155ccd33": {
       "published_at": "2026-10-25T02:22:19+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10044,
       "title": "Dar orders urgent action to rein in rising wheat prices",
-      "updated_at": "2026-10-25T02:35:33.068776+00:00",
+      "updated_at": "2026-10-25T02:35:39.263045+00:00",
       "url": "https://www.dawn.com/news/2039608/dar-orders-urgent-action-to-rein-in-rising-wheat-prices"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
@@ -392,6 +396,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T02:35:33.068901+00:00",
+  "last_cycle_at": "2026-10-25T02:35:50.474193+00:00",
   "schema_version": 1
 }
