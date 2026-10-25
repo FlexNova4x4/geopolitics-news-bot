@@ -2911,6 +2911,14 @@
       "updated_at": "2026-10-25T11:04:54.888931+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-charge-as-special-officer-of-mudhalvarin-mugavari/article71622984.ece"
     },
+    "c33084738f32e4bb9ee34dba": {
+      "published_at": "2026-10-25T16:30:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
+      "updated_at": "2026-10-25T16:42:24.429330+00:00",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
+    },
     "c351f010dedea817fe298a64": {
       "published_at": "2026-10-25T08:44:17+00:00",
       "source": "aljazeera.com",
@@ -3242,6 +3250,14 @@
       "title": "Jana Sena Party leaders discuss strategy for local body polls",
       "updated_at": "2026-10-25T15:12:59.383303+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-party-leaders-discuss-strategy-for-local-body-polls/article71623612.ece"
+    },
+    "dd93e08f862d9c4be4b6f5c1": {
+      "published_at": "2026-10-25T16:30:51+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+      "updated_at": "2026-10-25T16:42:24.429345+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
     },
     "deb7c69e3b7118edcd4cce1a": {
       "published_at": "2026-10-25T14:17:05+00:00",
@@ -3807,6 +3823,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:42:21.000040+00:00",
+  "last_cycle_at": "2026-10-25T16:42:24.430008+00:00",
   "schema_version": 1
 }
