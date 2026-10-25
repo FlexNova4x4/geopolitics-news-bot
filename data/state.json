@@ -964,9 +964,10 @@
     "39176560a1962c7c7f42a98e": {
       "published_at": "2026-10-25T17:34:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10461,
       "title": "Free medical camp held for construction workers in Vellore",
-      "updated_at": "2026-10-25T18:13:58.270592+00:00",
+      "updated_at": "2026-10-25T18:14:04.457509+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/free-medical-camp-held-for-construction-workers-in-vellore/article71623138.ece"
     },
     "394c1b37d8ee881b2942a9f7": {
@@ -1707,9 +1708,10 @@
     "6997007871d52ae3dc68d285": {
       "published_at": "2026-10-25T17:39:42+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10463,
       "title": "Can protests in Europe bring about change?",
-      "updated_at": "2026-10-25T18:13:58.270599+00:00",
+      "updated_at": "2026-10-25T18:14:12.342726+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss"
     },
     "69ed75e6ee354f52f12f4df9": {
@@ -2378,9 +2380,10 @@
     "94642db6a084efb54b352850": {
       "published_at": "2026-10-25T17:26:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10460,
       "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-      "updated_at": "2026-10-25T18:13:58.270578+00:00",
+      "updated_at": "2026-10-25T18:14:00.568914+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss"
     },
     "94ac3732d3c8ed7c2187849f": {
@@ -3746,9 +3749,10 @@
     "efec5c59c8280662ace8c082": {
       "published_at": "2026-10-25T17:38:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10462,
       "title": "Two persons arrested in Ranipet for stealing two-wheelers",
-      "updated_at": "2026-10-25T18:13:58.270596+00:00",
+      "updated_at": "2026-10-25T18:14:08.396672+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-in-ranipet-for-stealing-two-wheelers/article71623047.ece"
     },
     "f0d9af4482809cd2e7b0e187": {
@@ -4109,6 +4113,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:13:58.271212+00:00",
+  "last_cycle_at": "2026-10-25T18:14:15.543941+00:00",
   "schema_version": 1
 }
