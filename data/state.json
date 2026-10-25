@@ -964,9 +964,10 @@
     "3c5c36b781fcab0ddb0b96f9": {
       "published_at": "2026-10-25T16:23:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10427,
       "title": "Pallet slips during maintenance at Kannur multi-level parking facility, raises safety concerns",
-      "updated_at": "2026-10-25T16:42:03.635772+00:00",
+      "updated_at": "2026-10-25T16:42:09.984496+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/pallet-slips-during-maintenance-at-kannur-multi-level-parking-facility-raises-safety-concerns/article71623969.ece"
     },
     "3cdf4781ac896ddb88acc487": {
@@ -1885,9 +1886,10 @@
     "78846d46efd7e027311eead4": {
       "published_at": "2026-10-25T16:23:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10426,
       "title": "Telangana government to divert Godavari water to areas dependent on depleting Singur, Manjira reservoirs",
-      "updated_at": "2026-10-25T16:42:03.635755+00:00",
+      "updated_at": "2026-10-25T16:42:06.051424+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-government-diverts-godavari-water-to-areas-dependent-on-depleting-singur-manjira-reservoirs/article71624243.ece"
     },
     "78a627de04bf75729389fd34": {
@@ -2634,9 +2636,10 @@
     "af99b23d02b52cd21b36603d": {
       "published_at": "2026-10-25T16:28:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10428,
       "title": "Five held in investment fraud case",
-      "updated_at": "2026-10-25T16:42:03.635775+00:00",
+      "updated_at": "2026-10-25T16:42:13.887574+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/five-held-in-investment-fraud-case/article71624245.ece"
     },
     "b0ba69676148e54e4c460e86": {
@@ -3395,9 +3398,10 @@
     "e972e294425ac6d4267c2b43": {
       "published_at": "2026-10-25T16:29:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10429,
       "title": "Freedom Park will come up in Kittur Fort, says CM Shivakumar",
-      "updated_at": "2026-10-25T16:42:03.635779+00:00",
+      "updated_at": "2026-10-25T16:42:17.798822+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/freedom-park-will-come-up-in-kittur-fort-says-cm-shivakumar/article71624274.ece"
     },
     "eaffa8c895b53cbead099202": {
@@ -3803,6 +3807,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:42:03.636457+00:00",
+  "last_cycle_at": "2026-10-25T16:42:21.000040+00:00",
   "schema_version": 1
 }
