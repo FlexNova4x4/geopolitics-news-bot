@@ -350,9 +350,10 @@
     "bc6503a3962451308c79a4dd": {
       "published_at": "2026-10-25T03:27:57+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10052,
       "title": "‘No-go areas’ do not exist in Balochistan, claims CM Bugti",
-      "updated_at": "2026-10-25T03:35:34.436953+00:00",
+      "updated_at": "2026-10-25T03:35:36.894604+00:00",
       "url": "https://www.dawn.com/news/2039683/no-go-areas-do-not-exist-in-balochistan-claims-cm-bugti"
     },
     "c0a0ccf8c248421b74d84a78": {
@@ -449,6 +450,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T03:35:34.437046+00:00",
+  "last_cycle_at": "2026-10-25T03:35:40.095325+00:00",
   "schema_version": 1
 }
