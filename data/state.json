@@ -99,6 +99,14 @@
       "updated_at": "2026-10-25T10:34:28.036251+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss"
     },
+    "0840edfd05a2827a5ace0ee0": {
+      "published_at": "2026-10-25T14:34:18+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kalpathy delegation visits Tamil Nadu temples ahead of chariot fest",
+      "updated_at": "2026-10-25T15:16:32.487018+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/kalpathy-delegation-visits-tamil-nadu-temples-ahead-of-chariot-fest/article71623658.ece"
+    },
     "08d15d0a4ec86561e07bee5e": {
       "published_at": "2026-10-25T04:06:28+00:00",
       "source": "aljazeera.com",
@@ -942,6 +950,14 @@
       "title": "Ethical boundaries to detecting deepfakes: NCERT introduces 20-hour AI module for classes 9-12",
       "updated_at": "2026-10-25T08:05:09.055538+00:00",
       "url": "https://www.thehindu.com/education/20-hour-introductory-module-on-computational-thinking-and-artificial-intelligence-released-by-ncert/article71622775.ece"
+    },
+    "4f463247538a1a95d34f042d": {
+      "published_at": "2026-10-25T14:34:10+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Woman attacks brother-in-law's private parts in Kanpur, police register case",
+      "updated_at": "2026-10-25T15:16:32.487014+00:00",
+      "url": "https://www.hindustantimes.com/india-news/woman-attacks-brother-in-laws-private-parts-in-kanpur-uttar-pradesh-police-register-case-101792935647904.html"
     },
     "4fb0b6aa4688db957ab7fb59": {
       "published_at": "2026-10-25T07:33:35+00:00",
@@ -1862,6 +1878,14 @@
       "updated_at": "2026-10-25T08:34:31.254125+00:00",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss"
     },
+    "9f3bff8e1c83446273c69a25": {
+      "published_at": "2026-10-25T14:31:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Keralam government hikes compensations for human-wildlife conflict victims by 25%",
+      "updated_at": "2026-10-25T15:16:32.487011+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-government-hikes-compensations-for-human-wildlife-conflict-victims-by-25/article71623779.ece"
+    },
     "9f5313aaf8cdd6eafeb5d96b": {
       "published_at": "2026-10-25T09:31:10+00:00",
       "source": "thehindu.com",
@@ -2406,6 +2430,14 @@
       "title": "‘Political art’ not the problem, politics behind it is’: Pawan Khera accuses Bikaner House of censorship",
       "updated_at": "2026-10-25T08:34:43.215259+00:00",
       "url": "https://www.hindustantimes.com/india-news/political-art-not-the-problem-politics-behind-it-is-pawan-khera-accuses-bikaner-house-of-censorship-101792913718569.html"
+    },
+    "c788b34d1e8c41c01a9ba36f": {
+      "published_at": "2026-10-25T14:31:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Naidu puts officials on high alert as cyclone nears Andhra Pradesh coast",
+      "updated_at": "2026-10-25T15:16:32.486996+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-puts-officials-on-high-alert-as-cyclone-nears-andhra-pradesh-coast/article71623312.ece"
     },
     "c94066e09036726fec15eff8": {
       "published_at": "2026-10-25T12:05:58+00:00",
@@ -3060,6 +3092,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:16:27.650478+00:00",
+  "last_cycle_at": "2026-10-25T15:16:32.487525+00:00",
   "schema_version": 1
 }
