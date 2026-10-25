@@ -979,6 +979,14 @@
       "updated_at": "2026-10-25T15:11:11.501849+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss"
     },
+    "3e7176795d4b39605b2e31a5": {
+      "published_at": "2026-10-25T16:11:37+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+      "updated_at": "2026-10-25T16:41:15.818411+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
+    },
     "3fcd6f10560124f915c94c5a": {
       "published_at": "2026-10-24T23:02:06+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1426,6 +1434,14 @@
       "title": "Free travel scheme: Keralam govt. releases ₹88.23 crore to KSRTC to cover revenue loss",
       "updated_at": "2026-10-25T16:11:52.075042+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/free-travel-scheme-keralam-govt-releases-8823-crore-to-ksrtc-to-cover-revenue-loss/article71623733.ece"
+    },
+    "5eefe6d9715e9d963c9a7361": {
+      "published_at": "2026-10-25T16:05:36+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "14 rice millers arrested over diversion of fine variety rice in Telangana",
+      "updated_at": "2026-10-25T16:41:15.818390+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/14-rice-millers-arrested-over-diversion-of-fine-variety-rice-in-telangana/article71623299.ece"
     },
     "5efff453f7a429a066a90766": {
       "published_at": "2026-10-25T14:59:32+00:00",
@@ -2795,6 +2811,14 @@
       "updated_at": "2026-10-25T07:35:45.372305+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-condoles-death-of-chef-dhamu/article71622743.ece"
     },
+    "c04a9a419822bc3122170059": {
+      "published_at": "2026-10-25T16:07:36+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rice pre-booking to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
+      "updated_at": "2026-10-25T16:41:15.818405+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-people-pre-book-rice-harvest-to-lock-prices-farmers-get-3000-3500-per-quintal-in-open-markets/article71622910.ece"
+    },
     "c0a0ccf8c248421b74d84a78": {
       "published_at": "2026-10-24T20:39:08+00:00",
       "source": "aljazeera.com",
@@ -2829,6 +2853,14 @@
       "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
       "updated_at": "2026-10-25T09:04:54.469451+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+    },
+    "c36ad6347a250b24af4d36b4": {
+      "published_at": "2026-10-25T16:08:45+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Revanth to meet Fadnavis for Tummidihatti project height approval in Mumbai",
+      "updated_at": "2026-10-25T16:41:15.818408+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/revanth-to-meet-fadnavis-for-tummidihatti-project-height-approval-in-mumbai/article71623293.ece"
     },
     "c4687dd68edc0199915d6241": {
       "published_at": "2026-10-25T06:42:13+00:00",
@@ -3699,6 +3731,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:17:26.012470+00:00",
+  "last_cycle_at": "2026-10-25T16:41:15.819045+00:00",
   "schema_version": 1
 }
