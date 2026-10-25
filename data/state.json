@@ -144,6 +144,14 @@
       "updated_at": "2026-10-25T04:06:01.387616+00:00",
       "url": "https://www.dawn.com/news/2039583/gilani-assures-kp-governor-of-federal-support"
     },
+    "097bce7cdeb58444c378b4b0": {
+      "published_at": "2026-10-25T14:22:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Two plantation workers killed after tree falls on them in Idukki",
+      "updated_at": "2026-10-25T15:15:12.499442+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/two-plantation-workers-killed-after-tree-falls-on-them-in-idukki/article71623797.ece"
+    },
     "0ad86da679ca75352a3bf1e0": {
       "published_at": "2026-10-25T06:52:23+00:00",
       "source": "hindustantimes.com",
@@ -924,6 +932,14 @@
       "title": "Supreme Court questions Sindh govt’s property claim",
       "updated_at": "2026-10-25T03:35:24.668058+00:00",
       "url": "https://www.dawn.com/news/2039585/supreme-court-questions-sindh-govts-property-claim"
+    },
+    "50e8b437a0da7b37fa12c354": {
+      "published_at": "2026-10-25T14:18:35+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Holiday for school in Wayanad",
+      "updated_at": "2026-10-25T15:15:12.499439+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/holiday-for-school-in-wayanad/article71623696.ece"
     },
     "512296d1fdccc4355da3c305": {
       "published_at": "2026-10-25T03:04:15+00:00",
@@ -2344,6 +2360,14 @@
       "updated_at": "2026-10-25T07:04:55.118878+00:00",
       "url": "https://www.thehindu.com/news/national/nmdc-targets-diversification-scouting-minerals-across-four-continents/article71622669.ece"
     },
+    "cc83d59c3f7c53318d914233": {
+      "published_at": "2026-10-25T14:16:06+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Gaza content creator tells Al Jazeera how much her award win means",
+      "updated_at": "2026-10-25T15:15:12.499421+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
+    },
     "cf59a2d6364a524f8ecc208a": {
       "published_at": "2026-10-25T08:13:32+00:00",
       "source": "hindustantimes.com",
@@ -2522,6 +2546,14 @@
       "title": "Jana Sena Party leaders discuss strategy for local body polls",
       "updated_at": "2026-10-25T15:12:59.383303+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-party-leaders-discuss-strategy-for-local-body-polls/article71623612.ece"
+    },
+    "deb7c69e3b7118edcd4cce1a": {
+      "published_at": "2026-10-25T14:17:05+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "392 civic officials in Madhya Pradesh face action over financial irregularities; 7 dismissed",
+      "updated_at": "2026-10-25T15:15:12.499436+00:00",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/nearly-400-personnel-accused-of-financial-irregularities-govt-action-against-them-underway/article71623216.ece"
     },
     "df0599f31410b2f5951a384e": {
       "published_at": "2026-10-23T16:16:07+00:00",
@@ -2952,6 +2984,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:15:05.469998+00:00",
+  "last_cycle_at": "2026-10-25T15:15:12.499911+00:00",
   "schema_version": 1
 }
