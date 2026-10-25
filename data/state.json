@@ -417,9 +417,10 @@
     "1b190c1759a70805475c5ce8": {
       "published_at": "2026-10-25T17:12:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10454,
       "title": "The missing ‘reuse’ principle in India’s EV journey",
-      "updated_at": "2026-10-25T18:13:03.260005+00:00",
+      "updated_at": "2026-10-25T18:13:14.940302+00:00",
       "url": "https://www.thehindu.com/news/national/the-missing-reuse-principle-in-indias-ev-journey/article71333751.ece"
     },
     "1bddb0948a2186c4c5b46ab9": {
@@ -936,9 +937,10 @@
     "389687d9e17f1d8c247ef6fe": {
       "published_at": "2026-10-25T17:06:07+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10452,
       "title": "Iran says US talks ‘meaningless’ until 7 conditions met as Qatari mediators arrive in Tehran",
-      "updated_at": "2026-10-25T18:13:03.259986+00:00",
+      "updated_at": "2026-10-25T18:13:06.023861+00:00",
       "url": "https://www.hindustantimes.com/india-news/iran-says-us-talks-meaningless-until-7-conditions-met-as-qatari-mediators-arrive-in-tehran-101792945652451.html"
     },
     "390b335947f0cfae8304a891": {
@@ -1124,17 +1126,19 @@
     "435118d1b6f8ff546b39db04": {
       "published_at": "2026-10-25T17:10:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10453,
       "title": "Muizzu could stir up anti-India campaign again: Former Maldives Minister Abdullah Shahid",
-      "updated_at": "2026-10-25T18:13:03.260001+00:00",
+      "updated_at": "2026-10-25T18:13:11.022133+00:00",
       "url": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece"
     },
     "43e53313b7a999937b974c1c": {
       "published_at": "2026-10-25T17:12:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10455,
       "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "updated_at": "2026-10-25T18:13:03.260008+00:00",
+      "updated_at": "2026-10-25T18:13:18.864548+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
     },
     "445f038d3ae1ed2abd9cd056": {
@@ -4037,6 +4041,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:13:03.260611+00:00",
+  "last_cycle_at": "2026-10-25T18:13:22.065770+00:00",
   "schema_version": 1
 }
