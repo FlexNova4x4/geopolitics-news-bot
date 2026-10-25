@@ -183,9 +183,10 @@
     "092436db22ca165e0b175cbc": {
       "published_at": "2026-10-25T16:20:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10423,
       "title": "Why is Rahul Gandhi silent on his promises to Telangana youth: KTR",
-      "updated_at": "2026-10-25T16:41:37.753893+00:00",
+      "updated_at": "2026-10-25T16:41:43.893893+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/why-is-rahul-gandhi-silent-on-his-promises-to-telangana-youth-ktr/article71624226.ece"
     },
     "092c69422c4d4a965582fa4c": {
@@ -882,9 +883,10 @@
     "3597c9b454d48930ebf04fe4": {
       "published_at": "2026-10-25T16:22:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10425,
       "title": "Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar",
-      "updated_at": "2026-10-25T16:41:37.753906+00:00",
+      "updated_at": "2026-10-25T16:41:51.955647+00:00",
       "url": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece"
     },
     "35c67fdb10b3910ba1b39a56": {
@@ -1196,9 +1198,10 @@
     "4f9596d87794c5b0c382d3b0": {
       "published_at": "2026-10-25T16:21:40+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10424,
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "updated_at": "2026-10-25T16:41:37.753901+00:00",
+      "updated_at": "2026-10-25T16:41:48.030689+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
     },
     "4fb0b6aa4688db957ab7fb59": {
@@ -1820,9 +1823,10 @@
     "76dcebc49a6819fe200789b9": {
       "published_at": "2026-10-25T16:16:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10422,
       "title": "Jordanians mourn victims of deadly church attack",
-      "updated_at": "2026-10-25T16:41:37.753821+00:00",
+      "updated_at": "2026-10-25T16:41:39.984741+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
     },
     "774e9fc1f4419ee269fc435f": {
@@ -3767,6 +3771,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:41:37.754575+00:00",
+  "last_cycle_at": "2026-10-25T16:41:55.156752+00:00",
   "schema_version": 1
 }
