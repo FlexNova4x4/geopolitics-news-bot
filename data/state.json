@@ -128,9 +128,10 @@
     "276c9169e9e25c837bd41331": {
       "published_at": "2026-10-24T20:12:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10088,
       "title": "Starshield | The non-state sovereigns",
-      "updated_at": "2026-10-25T05:37:43.549227+00:00",
+      "updated_at": "2026-10-25T05:37:45.602625+00:00",
       "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
     },
     "2dc380cfa0488430591621c1": {
@@ -270,9 +271,10 @@
     "550da544b03b04299d531968": {
       "published_at": "2026-10-24T21:06:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10091,
       "title": "Life convicts can avail 40 days of annual leave in two instalments, rules Madras High Court",
-      "updated_at": "2026-10-25T05:37:43.549247+00:00",
+      "updated_at": "2026-10-25T05:37:57.385091+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece"
     },
     "551ad10991720ea0b069d61c": {
@@ -435,9 +437,10 @@
     "78fd986ba58c922cb055b92e": {
       "published_at": "2026-10-24T20:53:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10090,
       "title": "Another alleged hooch tragedy claims over 10 in Madhya Pradesh district; administration denies",
-      "updated_at": "2026-10-25T05:37:43.549244+00:00",
+      "updated_at": "2026-10-25T05:37:53.450409+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/another-alleged-hooch-tragedy-claims-over-10-in-madhya-pradesh-district-administration-denies/article71620685.ece"
     },
     "7a1d120985829e41204a3378": {
@@ -582,9 +585,10 @@
     "ab32eb13a859b69f063f9d9a": {
       "published_at": "2026-10-24T20:41:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10089,
       "title": "₹1.84 lakh collected as fine from erring motorists in Keralam’s Kochi",
-      "updated_at": "2026-10-25T05:37:43.549241+00:00",
+      "updated_at": "2026-10-25T05:37:49.530868+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/184-lakh-collected-as-fine-from-erring-motorists-in-keralams-kochi/article71620973.ece"
     },
     "aba0ba17c15dbef6d9f7f677": {
@@ -797,6 +801,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:37:43.549394+00:00",
+  "last_cycle_at": "2026-10-25T05:38:00.585485+00:00",
   "schema_version": 1
 }
