@@ -98,6 +98,14 @@
       "updated_at": "2026-10-25T00:19:16.212297+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
     },
+    "2ea4ef0039b41c2eb90b426e": {
+      "published_at": "2026-10-24T18:32:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Students mark 90th anniversary of Temple Entry Proclamation",
+      "updated_at": "2026-10-25T05:35:53.259259+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece"
+    },
     "2f7502d1d5dcda5ebf8cff6a": {
       "published_at": "2026-10-24T21:02:55+00:00",
       "source": "aljazeera.com",
@@ -168,6 +176,14 @@
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "updated_at": "2026-10-25T01:05:16.564108+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+    },
+    "477c872a0b59fe25db26952d": {
+      "published_at": "2026-10-24T18:52:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Law and order situation in T.N. is in an extremely dire state, says Palaniswami",
+      "updated_at": "2026-10-25T05:35:53.259288+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/law-and-order-situation-in-tn-is-in-an-extremely-dire-state-says-palaniswami/article71620700.ece"
     },
     "4a067e46333580ef31d07718": {
       "published_at": "2026-10-24T21:30:11+00:00",
@@ -370,6 +386,14 @@
       "updated_at": "2026-10-25T02:35:39.263045+00:00",
       "url": "https://www.dawn.com/news/2039608/dar-orders-urgent-action-to-rein-in-rising-wheat-prices"
     },
+    "886f6517ac2c914003485cf8": {
+      "published_at": "2026-10-24T18:47:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "West Graduates’ Constituency: Counting staff told to ensure transparency",
+      "updated_at": "2026-10-25T05:35:53.259284+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece"
+    },
     "9418581b7f6efb4b6eff5009": {
       "published_at": "2026-10-25T04:49:55+00:00",
       "source": "dawn.com",
@@ -567,6 +591,14 @@
       "updated_at": "2026-10-25T00:19:18.203674+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
     },
+    "fd30241a8824df844b722f5a": {
+      "published_at": "2026-10-24T18:33:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
+      "updated_at": "2026-10-25T05:35:53.259278+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece"
+    },
     "fd7dab0cce59f4579a049873": {
       "published_at": "2026-10-24T21:36:23+00:00",
       "source": "aljazeera.com",
@@ -585,6 +617,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:06:05.559270+00:00",
+  "last_cycle_at": "2026-10-25T05:35:53.259397+00:00",
   "schema_version": 1
 }
