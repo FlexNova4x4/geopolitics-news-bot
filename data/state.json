@@ -442,9 +442,10 @@
     "4ae7702a22d3612dfcd0dec6": {
       "published_at": "2026-10-24T22:58:43+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10146,
       "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-      "updated_at": "2026-10-25T06:34:22.713218+00:00",
+      "updated_at": "2026-10-25T06:34:24.747375+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss"
     },
     "50646b1f51a7a5ac5f3a5f3c": {
@@ -617,9 +618,10 @@
     "6e81a0dcdc2b30442b469f92": {
       "published_at": "2026-10-24T23:02:51+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10147,
       "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "updated_at": "2026-10-25T06:34:22.713234+00:00",
+      "updated_at": "2026-10-25T06:34:28.632404+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss"
     },
     "7132157c130931055a1a4ad2": {
@@ -803,9 +805,10 @@
     "9374b36218aa40d4d311bff3": {
       "published_at": "2026-10-24T23:03:21+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10149,
       "title": "The bitter row over military service that could shape Israel's future",
-      "updated_at": "2026-10-25T06:34:22.713240+00:00",
+      "updated_at": "2026-10-25T06:34:36.388223+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss"
     },
     "9418581b7f6efb4b6eff5009": {
@@ -933,9 +936,10 @@
     "a88b3d03ee9856d2bd56a75a": {
       "published_at": "2026-10-24T23:03:09+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10148,
       "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "updated_at": "2026-10-25T06:34:22.713237+00:00",
+      "updated_at": "2026-10-25T06:34:32.493596+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
     },
     "a9fc2dd191984b3d6a7c9816": {
@@ -1319,6 +1323,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T06:34:22.713387+00:00",
+  "last_cycle_at": "2026-10-25T06:34:39.588639+00:00",
   "schema_version": 1
 }
