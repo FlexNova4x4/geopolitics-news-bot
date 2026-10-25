@@ -2914,9 +2914,10 @@
     "c33084738f32e4bb9ee34dba": {
       "published_at": "2026-10-25T16:30:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10430,
       "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
-      "updated_at": "2026-10-25T16:42:24.429330+00:00",
+      "updated_at": "2026-10-25T16:42:26.803535+00:00",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
     },
     "c351f010dedea817fe298a64": {
@@ -3254,9 +3255,10 @@
     "dd93e08f862d9c4be4b6f5c1": {
       "published_at": "2026-10-25T16:30:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10431,
       "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "updated_at": "2026-10-25T16:42:24.429345+00:00",
+      "updated_at": "2026-10-25T16:42:30.712455+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
     },
     "deb7c69e3b7118edcd4cce1a": {
@@ -3823,6 +3825,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:42:24.430008+00:00",
+  "last_cycle_at": "2026-10-25T16:42:33.913603+00:00",
   "schema_version": 1
 }
