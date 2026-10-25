@@ -179,6 +179,14 @@
       "updated_at": "2026-10-25T05:38:15.558260+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece"
     },
+    "27503d917e5b5fbcc9257584": {
+      "published_at": "2026-10-25T04:06:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Feral dogs ‘a major threat’ to vultures in Thar desert, study finds",
+      "updated_at": "2026-10-25T05:40:18.464036+00:00",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece"
+    },
     "276c9169e9e25c837bd41331": {
       "published_at": "2026-10-24T20:12:51+00:00",
       "source": "thehindu.com",
@@ -331,6 +339,14 @@
       "updated_at": "2026-10-25T05:36:07.338809+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/law-and-order-situation-in-tn-is-in-an-extremely-dire-state-says-palaniswami/article71620700.ece"
     },
+    "48dbfdd4de2907130813dd72": {
+      "published_at": "2026-10-25T04:06:16+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Anti-CEC protest LIVE: INDIA bloc to hold CEC's ‘public impeachment’ on Oct 30, ‘Dilli Chalo' march on Nov 1",
+      "updated_at": "2026-10-25T05:40:18.464039+00:00",
+      "url": "https://www.hindustantimes.com/india-news/anti-cec-delhi-protest-live-updates-amit-shah-cjp-dipke-ranka-saurav-das-congress-rahul-gandhi-gyanesh-kumar-sir-eci-row-101792898066204.html"
+    },
     "4a067e46333580ef31d07718": {
       "published_at": "2026-10-24T21:30:11+00:00",
       "source": "aljazeera.com",
@@ -357,6 +373,14 @@
       "title": "JUI-F KP directs leaders to quit ARDC",
       "updated_at": "2026-10-25T03:35:16.710380+00:00",
       "url": "https://www.dawn.com/news/2039587/jui-f-kp-directs-leaders-to-quit-ardc"
+    },
+    "5371b78848329d56511c19ce": {
+      "published_at": "2026-10-25T03:58:07+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Soldiers guard centre of Milan as thousands of protesters march in cities across Europe",
+      "updated_at": "2026-10-25T05:40:18.464033+00:00",
+      "url": "https://www.thehindu.com/news/international/thousands-of-european-protests-erupt-from-milan-to-madrid/article71622515.ece"
     },
     "550da544b03b04299d531968": {
       "published_at": "2026-10-24T21:06:25+00:00",
@@ -815,6 +839,14 @@
       "updated_at": "2026-10-25T03:35:36.894604+00:00",
       "url": "https://www.dawn.com/news/2039683/no-go-areas-do-not-exist-in-balochistan-claims-cm-bugti"
     },
+    "bcdfd6c58704059a4d0da0a9": {
+      "published_at": "2026-10-25T03:56:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israel to close all land crossings with West Bank on election day",
+      "updated_at": "2026-10-25T05:40:18.464018+00:00",
+      "url": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece"
+    },
     "c0a0ccf8c248421b74d84a78": {
       "published_at": "2026-10-24T20:39:08+00:00",
       "source": "aljazeera.com",
@@ -1017,6 +1049,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:40:13.485210+00:00",
+  "last_cycle_at": "2026-10-25T05:40:18.464280+00:00",
   "schema_version": 1
 }
