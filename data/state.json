@@ -255,9 +255,10 @@
     "1f4c4f37acec69f02f94a8b4": {
       "published_at": "2026-10-25T09:37:28+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10231,
       "title": "PM Modi inaugurates ₹150-crore Arvind Limited textile plant in Varanasi",
-      "updated_at": "2026-10-25T10:04:22.972384+00:00",
+      "updated_at": "2026-10-25T10:04:33.147285+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-inaugurates-150-crore-arvind-limited-textile-plant-in-varanasi-101792921048674.html"
     },
     "202339816a736f9ad957d82b": {
@@ -290,9 +291,10 @@
     "21ab0ac81916b29cdb5a7452": {
       "published_at": "2026-10-25T09:40:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10232,
       "title": "Srisailam temple to open three more laddu counters, including one for women, for Kartikam rush",
-      "updated_at": "2026-10-25T10:04:22.972386+00:00",
+      "updated_at": "2026-10-25T10:04:37.198004+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-temple-to-open-three-more-laddu-counters-including-one-for-women-for-kartikam-rush/article71622902.ece"
     },
     "26315826209faa6b9171dad7": {
@@ -1278,9 +1280,10 @@
     "9f5313aaf8cdd6eafeb5d96b": {
       "published_at": "2026-10-25T09:31:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10230,
       "title": "JSP will win all 10 divisions it contests in Vizianagaram, says party leader Avanapu Vikram",
-      "updated_at": "2026-10-25T10:04:22.972381+00:00",
+      "updated_at": "2026-10-25T10:04:29.281330+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-will-win-all-10-divisions-it-contests-in-vizianagaram-says-party-leader-avanapu-vikram/article71622508.ece"
     },
     "9f6220e20379b9fa65b9674b": {
@@ -1892,9 +1895,10 @@
     "f30d142922e2ed99df3863c6": {
       "published_at": "2026-10-25T09:28:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10229,
       "title": "ECI hiding information on ECINET software as it will reveal manipulation: Congress",
-      "updated_at": "2026-10-25T10:04:22.972369+00:00",
+      "updated_at": "2026-10-25T10:04:25.407614+00:00",
       "url": "https://www.thehindu.com/news/national/eci-hiding-information-on-ecinet-software-as-it-will-reveal-manipulation-congress/article71622932.ece"
     },
     "f32c61db06e6f953d3a969c4": {
@@ -2057,6 +2061,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T10:04:22.972736+00:00",
+  "last_cycle_at": "2026-10-25T10:04:40.398833+00:00",
   "schema_version": 1
 }
