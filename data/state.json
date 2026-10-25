@@ -524,9 +524,10 @@
     "283c299a6757038aacd891df": {
       "published_at": "2026-10-25T14:53:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10374,
       "title": "Seven arrested on charge of stealing railway signal cable in Kasaragod",
-      "updated_at": "2026-10-25T16:12:04.987924+00:00",
+      "updated_at": "2026-10-25T16:12:19.103297+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/seven-arrested-on-charge-of-stealing-railway-signal-cable-in-kasaragod/article71622816.ece"
     },
     "2883b0fb3ca9f97d62652a21": {
@@ -2150,9 +2151,10 @@
     "a4a2e2af01ebd2de13d0d8c2": {
       "published_at": "2026-10-25T14:52:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10373,
       "title": "Vizianagaram SP praises free artificial limbs distribution to accident victims",
-      "updated_at": "2026-10-25T16:12:04.987921+00:00",
+      "updated_at": "2026-10-25T16:12:15.193941+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-sp-praises-free-artificial-limbs-distribution-to-accident-victims/article71623092.ece"
     },
     "a4b2d6578e450babafb00268": {
@@ -2892,9 +2894,10 @@
     "e2b8b48cdc3c18ae40503f7a": {
       "published_at": "2026-10-25T14:49:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10371,
       "title": "Some Devaswom officials involved in ghee scam, claims Keralam Minister Muraleedharan",
-      "updated_at": "2026-10-25T16:12:04.987903+00:00",
+      "updated_at": "2026-10-25T16:12:07.301397+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/some-devaswom-officials-involved-in-ghee-scam-claims-keralam-minister-muraleedharan/article71623896.ece"
     },
     "e45447987be3d824ed5c553c": {
@@ -3017,9 +3020,10 @@
     "f0e2b30daa888fd1cdfad8e0": {
       "published_at": "2026-10-25T14:52:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10372,
       "title": "Woman, two girls drown in pond in Mancherial district",
-      "updated_at": "2026-10-25T16:12:04.987918+00:00",
+      "updated_at": "2026-10-25T16:12:11.277889+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/woman-two-girls-drown-in-pond-in-mancherial-district/article71623854.ece"
     },
     "f0f5ef2154d5bdcbb14fe4cb": {
@@ -3308,6 +3312,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:12:04.988504+00:00",
+  "last_cycle_at": "2026-10-25T16:12:22.304349+00:00",
   "schema_version": 1
 }
