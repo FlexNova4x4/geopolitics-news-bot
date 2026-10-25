@@ -417,9 +417,10 @@
     "1e8268a244f5025ec8e01dc4": {
       "published_at": "2026-10-25T15:25:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10399,
       "title": "Farmers should explore crops that need less water: SPDCL CMD",
-      "updated_at": "2026-10-25T16:15:39.709653+00:00",
+      "updated_at": "2026-10-25T16:15:42.507887+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/farmers-should-explore-crops-that-need-less-water-spdcl-cmd/article71623902.ece"
     },
     "1f4bee06e2b5fa2cf7ec1b97": {
@@ -1625,9 +1626,10 @@
     "71624a917528bbf7518c37d2": {
       "published_at": "2026-10-25T15:26:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10400,
       "title": "Hyderabad’s Osmania General Hospital strengthens gender-affirming surgical care for transgender people",
-      "updated_at": "2026-10-25T16:15:39.709670+00:00",
+      "updated_at": "2026-10-25T16:15:46.466493+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-osmania-general-hospital-strengthens-gender-affirming-surgical-care-for-transgender-people/article71622590.ece"
     },
     "72409e7b4cb4479b8e842e1e": {
@@ -2152,9 +2154,10 @@
     "9d323ce167023fbd221d1f68": {
       "published_at": "2026-10-25T15:27:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10401,
       "title": "CoRWA summit to discuss NH 66 bypass woes, delay in Kochi metro’s Kakkanad extension",
-      "updated_at": "2026-10-25T16:15:39.709674+00:00",
+      "updated_at": "2026-10-25T16:15:50.447232+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/corwa-summit-to-discuss-nh-66-bypass-woes-delay-in-kochi-metros-kakkanad-extension/article71616711.ece"
     },
     "9d88192a0527d290d8a1c75e": {
@@ -3411,9 +3414,10 @@
     "f9e2e6b3702535ba7f4a91b3": {
       "published_at": "2026-10-25T15:32:51+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10402,
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "updated_at": "2026-10-25T16:15:39.709678+00:00",
+      "updated_at": "2026-10-25T16:15:54.369988+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
     },
     "fbadcc89aedcb56ee9198ebb": {
@@ -3560,6 +3564,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:15:39.710272+00:00",
+  "last_cycle_at": "2026-10-25T16:15:57.571101+00:00",
   "schema_version": 1
 }
