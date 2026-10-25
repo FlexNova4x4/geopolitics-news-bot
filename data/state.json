@@ -709,6 +709,14 @@
       "updated_at": "2026-10-25T08:05:29.594923+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kssp-supports-distribution-of-generic-drugs-for-sma-patients-in-keralam/article71622756.ece"
     },
+    "45458b2360546473da4bed10": {
+      "published_at": "2026-10-25T11:49:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Ex-Army captain arrested in Vellore over military intelligence leak",
+      "updated_at": "2026-10-25T12:05:37.846014+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ex-army-captain-arrested-in-vellore-over-military-intelligence-leak/article71623053.ece"
+    },
     "465ed40cfd3b0af7cd8f17a9": {
       "published_at": "2026-10-25T10:50:38+00:00",
       "source": "aljazeera.com",
@@ -825,6 +833,14 @@
       "title": "Serbia enters into elections amid ascending students’ movement against SNS",
       "updated_at": "2026-10-25T08:05:16.910779+00:00",
       "url": "https://www.thehindu.com/news/international/serbia-elections-amid-students-protest/article71622730.ece"
+    },
+    "520abfc2877cc30ff2ea52bf": {
+      "published_at": "2026-10-25T11:54:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "No room to ‘stand still’: IAF Chief A.P. Singh on building future air power after success of Operation Sindoor",
+      "updated_at": "2026-10-25T12:05:37.846034+00:00",
+      "url": "https://www.thehindu.com/news/national/no-room-to-stand-still-iaf-chief-ap-singh-on-building-future-air-power-after-success-of-operation-sindoor/article71623161.ece"
     },
     "529aab26d4b950650e27e9db": {
       "published_at": "2026-10-25T07:28:47+00:00",
@@ -1868,6 +1884,14 @@
       "updated_at": "2026-10-25T05:40:20.460971+00:00",
       "url": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece"
     },
+    "bceb9168023aaffd71d4107f": {
+      "published_at": "2026-10-25T11:54:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Owner, mahout booked for neglected elephant in Kozhikode",
+      "updated_at": "2026-10-25T12:05:37.846039+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/owner-mahout-booked-for-neglected-elephant-in-kozhikode/article71623007.ece"
+    },
     "bf45bde197193fa243b7d8cc": {
       "published_at": "2026-10-25T07:09:28+00:00",
       "source": "thehindu.com",
@@ -2143,6 +2167,14 @@
       "title": "India advises its nationals in Saudi Arabia against filming missile interceptions",
       "updated_at": "2026-10-25T09:34:58.619549+00:00",
       "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece"
+    },
+    "e0c6a2beb4929bc1d71975ce": {
+      "published_at": "2026-10-25T11:51:27+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Retired judges lobby hard to get appointed as arbitrators in high value commercial disputes, says Justice N. Anand Venkatesh",
+      "updated_at": "2026-10-25T12:05:37.846032+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/retired-judges-lobby-hard-to-get-appointed-as-arbitrators-in-high-value-commercial-disputes-says-justice-n-anand-venkatesh/article71622930.ece"
     },
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
@@ -2484,6 +2516,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T12:05:32.458675+00:00",
+  "last_cycle_at": "2026-10-25T12:05:37.846378+00:00",
   "schema_version": 1
 }
