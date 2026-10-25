@@ -269,6 +269,14 @@
       "updated_at": "2026-10-25T05:37:45.602625+00:00",
       "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
     },
+    "27a26879f4896f4862e2f97e": {
+      "published_at": "2026-10-25T06:41:41+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Who Israel elects matters, and not just for Israelis",
+      "updated_at": "2026-10-25T07:04:45.032318+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss"
+    },
     "2ac5d225560f70aa9efb31de": {
       "published_at": "2026-10-25T02:27:15+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1156,6 +1164,14 @@
       "updated_at": "2026-10-24T23:59:19.369164+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
     },
+    "c4687dd68edc0199915d6241": {
+      "published_at": "2026-10-25T06:42:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Main LPG distributors' unions oppose strike, seek dialogue for commission hike",
+      "updated_at": "2026-10-25T07:04:45.032336+00:00",
+      "url": "https://www.thehindu.com/news/national/main-lpg-distributors-unions-oppose-strike-seek-dialogue-for-commission-hike/article71622690.ece"
+    },
     "c47d88325070e88f1bfdaaf3": {
       "published_at": "2026-10-25T05:58:19+00:00",
       "source": "thehindu.com",
@@ -1182,6 +1198,14 @@
       "title": "Police hold flag march in Narasaraopet ahead of local body polls",
       "updated_at": "2026-10-25T06:07:01.384982+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-hold-flag-march-in-narasaraopet-ahead-of-local-body-polls/article71619593.ece"
+    },
+    "cb69f01837fe6e170f43fe8b": {
+      "published_at": "2026-10-25T06:50:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Diversification plan: NMDC scouts for mining assets across four continents",
+      "updated_at": "2026-10-25T07:04:45.032338+00:00",
+      "url": "https://www.thehindu.com/news/national/nmdc-targets-diversification-scouting-minerals-across-four-continents/article71622669.ece"
     },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
@@ -1315,6 +1339,14 @@
       "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
       "updated_at": "2026-10-25T06:34:45.538216+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+    },
+    "f0f5ef2154d5bdcbb14fe4cb": {
+      "published_at": "2026-10-25T06:55:44+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Flight disruptions leave Andhra Umrah pilgrims stranded in Saudi Arabia; 40 to fly back to Hyderabad on October 26",
+      "updated_at": "2026-10-25T07:04:45.032340+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/flight-disruptions-leave-andhra-umrah-pilgrims-stranded-in-saudi-arabia-40-to-fly-back-to-hyderabad-on-october-26/article71622665.ece"
     },
     "f17074f2bff6dfa7b5decd9b": {
       "published_at": "2026-10-25T01:20:19+00:00",
@@ -1458,6 +1490,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:04:39.419576+00:00",
+  "last_cycle_at": "2026-10-25T07:04:45.032527+00:00",
   "schema_version": 1
 }
