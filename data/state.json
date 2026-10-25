@@ -486,6 +486,14 @@
       "updated_at": "2026-10-25T15:17:05.423502+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bsf-reva-university-organise-fit-india-walkathon/article71623502.ece"
     },
+    "23a6b1a9ced838532696dc10": {
+      "published_at": "2026-10-25T15:08:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "BIE says 3,241 junior colleges granted admission permissions across Telangana",
+      "updated_at": "2026-10-25T16:14:01.638768+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/bie-says-3241-junior-colleges-granted-admission-permissions-across-telangana/article71623819.ece"
+    },
     "26315826209faa6b9171dad7": {
       "published_at": "2026-10-24T22:28:37+00:00",
       "source": "aljazeera.com",
@@ -1945,6 +1953,14 @@
       "updated_at": "2026-10-25T16:11:48.167721+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/railway-board-urged-to-expedite-cadre-restructuring-orders/article71623214.ece"
     },
+    "923648d1ea2d5228546a08a2": {
+      "published_at": "2026-10-25T15:11:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Deputy Chief Minister says Shivakumar may have been consulted on PAC formation",
+      "updated_at": "2026-10-25T16:14:01.638782+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/deputy-chief-minister-says-shivakumar-may-have-been-consulted-on-pac-formation/article71623888.ece"
+    },
     "9374b36218aa40d4d311bff3": {
       "published_at": "2026-10-24T23:03:21+00:00",
       "source": "feeds.bbci.co.uk",
@@ -2937,6 +2953,14 @@
       "updated_at": "2026-10-25T15:15:18.941904+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/nearly-400-personnel-accused-of-financial-irregularities-govt-action-against-them-underway/article71623216.ece"
     },
+    "ded49d8a606617bc47708a00": {
+      "published_at": "2026-10-25T15:13:23+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'Manipur cannot achieve lasting peace as long as a gun culture exists,' says CM Khemchand",
+      "updated_at": "2026-10-25T16:14:01.638786+00:00",
+      "url": "https://www.hindustantimes.com/india-news/manipur-cannot-achieve-lasting-peace-as-long-as-a-gun-culture-exists-says-cm-khemchand-101792939128381.html"
+    },
     "df0599f31410b2f5951a384e": {
       "published_at": "2026-10-23T16:16:07+00:00",
       "source": "YouTube",
@@ -3070,6 +3094,14 @@
       "title": "Meeshapulimala opens to tourists as Neelakurinji blooms",
       "updated_at": "2026-10-25T09:35:24.620053+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/meeshapulimala-opens-to-tourists-as-neelakurinji-blooms/article71620134.ece"
+    },
+    "eaffa8c895b53cbead099202": {
+      "published_at": "2026-10-25T15:15:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "IGP, SP visit polling centres, strong room in Eluru",
+      "updated_at": "2026-10-25T16:14:01.638790+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/igp-sp-visit-polling-centres-strong-room-in-eluru/article71623780.ece"
     },
     "eb486ba09741805407207e33": {
       "published_at": "2026-10-25T08:54:59+00:00",
@@ -3420,6 +3452,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:13:56.777854+00:00",
+  "last_cycle_at": "2026-10-25T16:14:01.639573+00:00",
   "schema_version": 1
 }
