@@ -550,9 +550,10 @@
     "3379ff067c67e965f75450d0": {
       "published_at": "2026-10-25T11:36:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10274,
       "title": "Delhi court upholds cheating case against M3M, its promoters in ₹450-crore land dispute",
-      "updated_at": "2026-10-25T12:04:50.828070+00:00",
+      "updated_at": "2026-10-25T12:04:57.329868+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-court-upholds-cheating-case-against-m3m-its-promoters-in-450-crore-land-dispute/article71622997.ece"
     },
     "3499ac59864dbf3cd0ccf248": {
@@ -1246,9 +1247,10 @@
     "80ae74cf8c48278793d44730": {
       "published_at": "2026-10-25T11:23:27+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10273,
       "title": "Cities can't be run from state capitals: NITI Aayog's Rajiv Gauba calls for empowered urban governments",
-      "updated_at": "2026-10-25T12:04:50.828051+00:00",
+      "updated_at": "2026-10-25T12:04:53.267756+00:00",
       "url": "https://www.hindustantimes.com/india-news/cities-cant-be-run-from-state-capitals-niti-aayogs-rajiv-gauba-calls-for-empowered-urban-governments-101792926294328.html"
     },
     "80d1513b974e9b68ccf0d9bb": {
@@ -2056,9 +2058,10 @@
     "d802b933a3e2c94fa8000d4e": {
       "published_at": "2026-10-25T11:36:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10275,
       "title": "CPI launches signature campaign against Tamil Nadu’s new Secretariat project at Pattinapakkam",
-      "updated_at": "2026-10-25T12:04:50.828073+00:00",
+      "updated_at": "2026-10-25T12:05:01.179899+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/cpi-launches-signature-campaign-against-tamil-nadus-new-secretariat-project-at-pattinapakkam/article71622978.ece"
     },
     "dab6a6339517cfec1da101e4": {
@@ -2243,9 +2246,10 @@
     "f3b63f8d0b46daefc276af34": {
       "published_at": "2026-10-25T11:37:02+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10276,
       "title": "India, EU race to finalise FTA before December deadline to coincide with PM Modi's Brussels visit",
-      "updated_at": "2026-10-25T12:04:50.828076+00:00",
+      "updated_at": "2026-10-25T12:05:05.165158+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-eu-race-to-finalise-fta-before-december-deadline-to-coincide-with-pm-modis-brussels-visit-101792926809767.html"
     },
     "f41bb9d90381ef81b56f0ae5": {
@@ -2444,6 +2448,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T12:04:50.828332+00:00",
+  "last_cycle_at": "2026-10-25T12:05:08.366078+00:00",
   "schema_version": 1
 }
