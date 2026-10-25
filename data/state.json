@@ -117,6 +117,14 @@
       "updated_at": "2026-10-25T10:34:28.036251+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss"
     },
+    "0779980b6101bb6bb57ce453": {
+      "published_at": "2026-10-25T15:20:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "No need to fear losing power by visiting Chamarajanagar: Shivakumar",
+      "updated_at": "2026-10-25T16:14:24.993370+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/no-need-to-fear-losing-power-by-visiting-chamarajanagar-shivakumar/article71623094.ece"
+    },
     "0840edfd05a2827a5ace0ee0": {
       "published_at": "2026-10-25T14:34:18+00:00",
       "source": "thehindu.com",
@@ -1399,6 +1407,14 @@
       "updated_at": "2026-10-25T15:17:23.047672+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
     },
+    "6534d38e01a230c7f5991402": {
+      "published_at": "2026-10-25T15:15:57+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "UP man holds goat funeral, uses AI-generated image to fake death in court",
+      "updated_at": "2026-10-25T16:14:24.993368+00:00",
+      "url": "https://www.hindustantimes.com/india-news/up-man-holds-goat-funeral-uses-ai-generated-image-to-fake-death-in-court-101792937111994.html"
+    },
     "66f17fc2b8b886527e781167": {
       "published_at": "2026-10-25T08:20:20+00:00",
       "source": "aljazeera.com",
@@ -2381,6 +2397,14 @@
       "updated_at": "2026-10-25T12:04:25.787157+00:00",
       "url": "https://www.thehindu.com/news/cities/mumbai/fda-destroys-564-litres-of-milk-in-mumbai-statewide-crackdown-nets-food-stock-worth-156-crore/article71622655.ece"
     },
+    "ac68c661379f3dacb952059d": {
+      "published_at": "2026-10-25T15:15:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Jamia students climb gates, join protest amid heavy police deployment",
+      "updated_at": "2026-10-25T16:14:24.993350+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece"
+    },
     "b1921293cc4a250f809ac09f": {
       "published_at": "2026-10-25T14:57:22+00:00",
       "source": "thehindu.com",
@@ -3303,6 +3327,14 @@
       "updated_at": "2026-10-25T06:35:30.813406+00:00",
       "url": "https://www.thehindu.com/news/national/india-slams-pakistan-at-un-says-military-remains-countrys-real-rulers/article71622651.ece"
     },
+    "f8da80698d09d6a73cdf962a": {
+      "published_at": "2026-10-25T15:15:39+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Traffic ban continue in Munnar after another landslip on Kochi–Dhanushkodi National Highway",
+      "updated_at": "2026-10-25T16:14:24.993364+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/traffic-ban-continue-in-munnar-after-another-landslip-on-kochidhanushkodi-national-highway/article71623815.ece"
+    },
     "f94ea868ac4228638090569d": {
       "published_at": "2026-10-25T06:56:09+00:00",
       "source": "thehindu.com",
@@ -3456,6 +3488,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:14:19.573861+00:00",
+  "last_cycle_at": "2026-10-25T16:14:24.994017+00:00",
   "schema_version": 1
 }
