@@ -1,13 +1,13 @@
 # Geopolitics News Bot (English)
 
-A small Python bot that reads **The Diplomat plus Indian Express RSS feeds** and optionally **one YouTube channel RSS feed**, filters duplicates, prepares concise English posts with Gemini and falls back to Groq, then sends individual posts to one Telegram group.
+A small Python bot that reads **The Diplomat, BBC Asia, Dawn Pakistan, Al Jazeera, MEA and PIB feeds** and optionally **one YouTube channel RSS feed**, filters duplicates, prepares concise English posts with Gemini and falls back to Groq, then sends individual posts to one Telegram group.
 
 ## What it does
 
 - Checks configured sources every 30 minutes.
 - Processes every newly eligible story exposed by the configured RSS feeds; there is no fixed cap of 6 or 10 posts per cycle. AI calls are split into internal batches of 4 stories (configurable) for token control.
 - Telegram group sends are spaced 3.2 seconds apart and explicit HTTP 429 responses are retried after Telegram's `retry_after` wait. Network/5xx outcomes are not retried automatically because delivery may be ambiguous.
-- Reads The Diplomat's all-site RSS plus Indian Express World, Explained Global, and India RSS feeds. The RSS publisher decides which recent entries are available; no feed guarantees a fixed daily story count.
+- Reads The Diplomat, BBC Asia, Dawn Pakistan, Al Jazeera English, MEA press releases, and the all-India PIB press-release RSS. If MEA/PIB returns HTTP 403 from the hosted runner, the collector tries a Google News RSS query scoped to that official domain as a discovery fallback; it does not spoof browser headers or bypass the block. The RSS publisher decides which recent entries are available; no feed guarantees a fixed daily story count.
 - Keeps only stories published on the current calendar date in Asia/Kolkata; undated entries and previous-day stories are skipped. Oldest eligible stories are processed first, all separate Telegram posts for eligible stories, without a fixed per-cycle post cap, to drain today's backlog without flooding AI requests.
 - Includes a publication timestamp, geographic region, topic labels/hashtags, source link, and India-relevance analysis in each post.
 - Reads website RSS and only fetches article pages when the site's `robots.txt` permits it.

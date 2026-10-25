@@ -18,9 +18,11 @@ def _int(name: str, default: int, minimum: int = 1) -> int:
 def _rss_urls() -> list[str]:
     default = (
         "https://thediplomat.com/feed/,"
-        "https://indianexpress.com/section/world/feed/,"
-        "https://indianexpress.com/section/explained/explained-global/feed/,"
-        "https://indianexpress.com/section/india/feed/"
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml,"
+        "https://www.dawn.com/feeds/pakistan/,"
+        "https://www.aljazeera.com/xml/rss/all.xml,"
+        "https://www.mea.gov.in/press-releases.htm?dtl/rss,"
+        "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1"
     )
     configured = os.getenv("WEBSITE_RSS_URLS", "").strip()
     if not configured:

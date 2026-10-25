@@ -145,6 +145,20 @@ def _parse_feed(url: str, source: str, max_age_hours: int) -> list[Story]:
         response.raise_for_status()
         parsed = feedparser.parse(response.content)
     except Exception as exc:
+        response_obj = getattr(exc, "response", None)
+        status_code = getattr(response_obj, "status_code", None)
+        host = (urlparse(url).hostname or "").lower().removeprefix("www.")
+        fallback_url = None
+        fallback_source = None
+        if status_code == 403 and host == "mea.gov.in" and "indexed fallback" not in source.lower():
+            fallback_url = "https://news.google.com/rss/search?q=site%3Amea.gov.in&hl=en-IN&gl=IN&ceid=IN%3Aen"
+            fallback_source = "MEA (indexed fallback)"
+        elif status_code == 403 and host == "pib.gov.in" and "indexed fallback" not in source.lower():
+            fallback_url = "https://news.google.com/rss/search?q=site%3Apib.gov.in&hl=en-IN&gl=IN&ceid=IN%3Aen"
+            fallback_source = "PIB (indexed fallback)"
+        if fallback_url:
+            print(f"[collector] {source} official feed returned 403; using a domain-scoped search-index fallback.")
+            return _parse_feed(fallback_url, fallback_source, max_age_hours)
         print(f"[collector] Feed error ({source}): {exc}")
         return []
     if getattr(parsed, "bozo", False) and not parsed.entries:
@@ -191,6 +205,10 @@ def _source_label(url: str) -> str:
         return "The Diplomat"
     if host.endswith("indianexpress.com"):
         return "The Indian Express"
+    if host.endswith("mea.gov.in"):
+        return "MEA"
+    if host.endswith("pib.gov.in"):
+        return "PIB"
     return host or "Website"
 
 
@@ -221,7 +239,19 @@ def collect_sources(website_rss_urls: list[str] | str, youtube_channel_id: str, 
 
 
 def enrich_story(story: Story) -> Story:
-    """Fetch a website article body only for a newly selected story, respecting robots.txt."""
+    """Fetch allowed article content; resolve indexed-feed links when possible."""
+    if story.source.endswith("(indexed fallback)") and (urlparse(story.url).hostname or "").lower() == "news.google.com":
+        try:
+            response = HTTP.get(story.url, timeout=10, allow_redirects=True, stream=True)
+            final_url = response.url
+            response.close()
+            final_host = (urlparse(final_url).hostname or "").lower()
+            if final_host and final_host != "news.google.com":
+                story.url = normalize_url(final_url)
+        except requests.RequestException as exc:
+            print(f"[collector] Could not resolve indexed article link; retaining source redirect: {exc}")
+        if (urlparse(story.url).hostname or "").lower() == "news.google.com":
+            return story
     if story.source != "YouTube" and story.url.startswith(("https://", "http://")):
         body = _article_text(story.url)
         if body:
