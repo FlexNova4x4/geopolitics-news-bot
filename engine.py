@@ -186,46 +186,85 @@ def run_cycle(settings, state_store) -> dict:
             if key in lookup and key not in matched_by_id:
                 matched_by_id[key] = item
 
-        # Some model responses contain complete posts but accidentally alter/omit IDs.
-        # Only use response-order mapping when NO IDs match and the model returned
-        # exactly one dictionary per input story, as requested by the prompt.
+        # If IDs are all wrong/omitted, map only a complete one-response-per-input batch by order.
         used_order_fallback = False
         if not matched_by_id and len(ai_dicts) == len(batch):
             matched_by_id = {story.key: item for story, item in zip(batch, ai_dicts)}
             used_order_fallback = True
-            print("[cycle] AI IDs did not match; safely mapping the complete response by input order.")
+            print("[cycle] AI IDs did not match; mapping complete response by input order.")
 
-        matched_count = len(matched_by_id)
-        missing_text_count = 0
+        approved = {}
+        resolved_keys = set()
+        missing_headline_fallbacks = 0
+        missing_summary_fallbacks = 0
         for story in batch:
             item = matched_by_id.get(story.key)
-            if not item:
+            if not isinstance(item, dict):
                 continue
-            headline = str(item.get("headline", "")).strip()
-            summary = str(item.get("summary", "")).strip()
-            if not headline or not summary:
-                missing_text_count += 1
-                continue  # keep malformed posts unreserved so the next cycle can retry
-            # Intentionally ignore the model's relevance flag: every new source story is wanted.
+
+            # Accept common schema variants from models, not just the preferred field names.
+            headline_value = next((item.get(name) for name in (
+                "headline", "title", "headline_en", "title_en", "news_title"
+            ) if isinstance(item.get(name), str) and item.get(name).strip()), "")
+            summary_value = next((item.get(name) for name in (
+                "summary", "summary_hi", "summary_hindi", "hindi_summary", "brief", "news_summary", "description"
+            ) if isinstance(item.get(name), str) and item.get(name).strip()), "")
+
+            headline = str(headline_value or "").strip()
+            if not headline:
+                headline = str(story.title or "World News").strip()
+                missing_headline_fallbacks += 1
+
+            # Body should be Hindi. If the model supplied no usable summary, keep the item
+            # and state plainly that the feed has limited detail rather than inventing facts.
+            summary = str(summary_value or "").strip()
+            if summary and not any("\u0900" <= char <= "\u097f" for char in summary):
+                summary = ""
+            if not summary:
+                summary = "स्रोत के उपलब्ध विवरण में अतिरिक्त जानकारी सीमित है। पूरी खबर के लिए नीचे दिया गया मूल लिंक देखें।"
+                missing_summary_fallbacks += 1
+
             item["id"] = story.key
+            item["headline"] = headline[:180]
+            item["summary"] = summary[:1200]
             item["relevant"] = True
+            item["analysis"] = str(
+                item.get("analysis") or item.get("india_impact") or item.get("impact") or
+                "इस खबर का भारत पर सीधा असर उपलब्ध जानकारी से स्पष्ट नहीं है।"
+            ).strip()
+
             if not str(item.get("region", "")).strip():
                 item["region"] = "Global"
-            topics = item.get("topics", [])
+            topics = item.get("topics", item.get("categories", item.get("category", [])))
             if isinstance(topics, str):
-                topics = [part.strip() for part in topics.replace(",", "|").split("|") if part.strip()]
+                topics = [part.strip() for part in topics.replace(",", "|").replace(";", "|").split("|") if part.strip()]
             elif not isinstance(topics, list):
                 topics = []
-            item["topics"] = [str(topic).strip() for topic in topics if str(topic).strip()][:3]
-            if not isinstance(item.get("positions", []), list):
-                item["positions"] = []
+            if not topics and getattr(story, "tags", None):
+                topics = list(story.tags[:3])
+            item["topics"] = [str(topic).strip() for topic in topics if str(topic).strip()][:3] or ["World News"]
+
+            positions = item.get("positions", item.get("sides", []))
+            if not isinstance(positions, list):
+                positions = []
+            normalized_positions = []
+            for side_item in positions[:3]:
+                if not isinstance(side_item, dict):
+                    continue
+                side = str(side_item.get("side") or side_item.get("actor") or "").strip()
+                position = str(side_item.get("position") or side_item.get("stance") or side_item.get("view") or "").strip()
+                if side and position:
+                    normalized_positions.append({"side": side[:90], "position": position[:650]})
+            item["positions"] = normalized_positions
+
             approved[story.key] = item
             resolved_keys.add(story.key)
 
         print(
             f"[cycle] AI response diagnostic: returned={len(ai_items)}, dict_posts={len(ai_dicts)}, "
-            f"matched_ids={matched_count}, accepted_posts={len(approved)}, "
-            f"missing_headline_or_summary={missing_text_count}, order_fallback={used_order_fallback}."
+            f"matched_ids={len(matched_by_id)}, accepted_posts={len(approved)}, "
+            f"headline_fallbacks={missing_headline_fallbacks}, summary_fallbacks={missing_summary_fallbacks}, "
+            f"order_fallback={used_order_fallback}."
         )
 
         # A valid AI response is published irrespective of topic/relevance labels.
