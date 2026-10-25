@@ -255,9 +255,10 @@
     "0e95f80adfdd1d3b92c27851": {
       "published_at": "2026-10-25T17:53:23+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10465,
       "title": "US and Israel elections: New leaders, same policies?",
-      "updated_at": "2026-10-25T18:14:20.577867+00:00",
+      "updated_at": "2026-10-25T18:14:26.976919+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
     },
     "0eabb853ee40d8249aec4ccd": {
@@ -1233,9 +1234,10 @@
     "48acc4d59e98dcd9e457b0cf": {
       "published_at": "2026-10-25T17:44:41+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10464,
       "title": "Mumbai Police detains 25, including comedian Masoom Rajwani, over candle march for IIT Bombay suicide victim",
-      "updated_at": "2026-10-25T18:14:20.577852+00:00",
+      "updated_at": "2026-10-25T18:14:22.903356+00:00",
       "url": "https://www.hindustantimes.com/india-news/mumbai-police-detains-25-including-comedian-masoom-rajwani-over-candle-march-for-iit-bombay-suicide-victim-101792949307131.html"
     },
     "48dbfdd4de2907130813dd72": {
@@ -2252,9 +2254,10 @@
     "87837867cfa1c31a96738fb2": {
       "published_at": "2026-10-25T17:53:31+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10466,
       "title": "6 arrested, over 1,400 bank accounts frozen in Manipur, Mizoram as ED busts cross-border ‘narco-hawala’ scam",
-      "updated_at": "2026-10-25T18:14:20.577870+00:00",
+      "updated_at": "2026-10-25T18:14:30.914232+00:00",
       "url": "https://www.hindustantimes.com/india-news/6-arrested-over-1-400-bank-accounts-seized-in-manipur-mizoram-as-ed-busts-cross-border-narco-hawala-scam-101792949971320.html"
     },
     "8805445d4dc8a6f6155ccd33": {
@@ -3495,9 +3498,10 @@
     "db9673288de97ba705ae50ff": {
       "published_at": "2026-10-25T18:02:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10467,
       "title": "19 candidates in fray for VMC Mayor’s post",
-      "updated_at": "2026-10-25T18:14:20.577873+00:00",
+      "updated_at": "2026-10-25T18:14:34.803941+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/19-candidates-in-fray-for-vmc-mayors-post/article71624110.ece"
     },
     "dbb0b52c0936cf87cf620ae9": {
@@ -4145,6 +4149,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:14:20.578403+00:00",
+  "last_cycle_at": "2026-10-25T18:14:38.005204+00:00",
   "schema_version": 1
 }
