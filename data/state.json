@@ -288,6 +288,14 @@
       "updated_at": "2026-10-25T08:04:58.772039+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-urges-support-for-local-artisans-highlights-indian-products-in-mann-ki-baat-101792913665068.html"
     },
+    "162a2c73e1fb6dfbcc519991": {
+      "published_at": "2026-10-25T14:38:59+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Stage set for counting of votes in Council polls today",
+      "updated_at": "2026-10-25T15:16:54.915236+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/stage-set-for-counting-of-votes-in-council-polls-today/article71623614.ece"
+    },
     "1658cc6f4dd2dc07a2a2ede5": {
       "published_at": "2026-10-24T21:39:29+00:00",
       "source": "aljazeera.com",
@@ -413,6 +421,14 @@
       "title": "‘Wars no longer fought with weapons alone’: PM Modi flags cyber security threats",
       "updated_at": "2026-10-25T15:15:48.920838+00:00",
       "url": "https://www.hindustantimes.com/india-news/wars-no-longer-fought-with-weapons-alone-pm-modi-flags-cyber-security-threats-101792937721619.html"
+    },
+    "23953ddba78093bf144b4443": {
+      "published_at": "2026-10-25T14:37:39+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "BSF, REVA University organise Fit India Walkathon",
+      "updated_at": "2026-10-25T15:16:54.915231+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/bsf-reva-university-organise-fit-india-walkathon/article71623502.ece"
     },
     "26315826209faa6b9171dad7": {
       "published_at": "2026-10-24T22:28:37+00:00",
@@ -1138,6 +1154,14 @@
       "title": "TG-iPASS portal to be restored in two days after cyberattack",
       "updated_at": "2026-10-25T15:14:58.323342+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/tg-ipass-portal-to-be-restored-in-two-days-after-cyberattack/article71623629.ece"
+    },
+    "5c1ed4113d721321c01f1401": {
+      "published_at": "2026-10-25T14:34:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Alliance leaders campaign for ‘triple-engine government’ in Anantapur Municipal elections",
+      "updated_at": "2026-10-25T15:16:54.915225+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/alliance-leaders-campaign-for-triple-engine-government-in-anantapur-municipal-elections/article71623541.ece"
     },
     "5c2d244e8a615ca8f4db9e35": {
       "published_at": "2026-10-25T11:12:50+00:00",
@@ -2979,6 +3003,14 @@
       "updated_at": "2026-10-25T05:41:32.787262+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/when-safety-slips-through-a-gaping-hole/article71620990.ece"
     },
+    "fc2b0f3489b93e82c15c7b4b": {
+      "published_at": "2026-10-25T14:34:33+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "updated_at": "2026-10-25T15:16:54.915205+00:00",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+    },
     "fc5647aa20e96610287155ae": {
       "published_at": "2026-10-25T01:03:51+00:00",
       "source": "thehindu.com",
@@ -3096,6 +3128,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:16:50.105429+00:00",
+  "last_cycle_at": "2026-10-25T15:16:54.915713+00:00",
   "schema_version": 1
 }
