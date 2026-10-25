@@ -422,6 +422,14 @@
       "updated_at": "2026-10-25T07:04:47.297151+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss"
     },
+    "2883b0fb3ca9f97d62652a21": {
+      "published_at": "2026-10-25T13:37:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Brazil votes in tense Lula vs Bolsonaro runoff with U.S. influence over Latin America at stake",
+      "updated_at": "2026-10-25T15:12:22.530990+00:00",
+      "url": "https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece"
+    },
     "2ac5d225560f70aa9efb31de": {
       "published_at": "2026-10-25T02:27:15+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1065,6 +1073,14 @@
       "title": "PM Modi inaugurates ₹169-crore RBI data centre, cybersecurity training institute in Odisha",
       "updated_at": "2026-10-25T15:10:29.970988+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-inaugurates-rs-169-crore-rbi-data-centre-cybersecurity-training-institute-in-odisha-101792929176646.html"
+    },
+    "62e65bd2a0e45c55b28473fd": {
+      "published_at": "2026-10-25T13:34:11+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Akhilesh Yadav's effigy burnt in Haldwani after row over ‘infiltrator’ remark against Uttarakhand people",
+      "updated_at": "2026-10-25T15:12:22.530976+00:00",
+      "url": "https://www.hindustantimes.com/india-news/akhileshs-effigy-burnt-in-haldwani-after-row-over-infiltrator-remark-against-uttarakhand-people-101792929935825.html"
     },
     "66f17fc2b8b886527e781167": {
       "published_at": "2026-10-25T08:20:20+00:00",
@@ -2164,6 +2180,14 @@
       "updated_at": "2026-10-25T11:04:46.967304+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/manipur-cannot-achieve-lasting-peace-as-long-as-gun-culture-exists-cm/article71623033.ece"
     },
+    "d221c60a987b5eff7abec0ac": {
+      "published_at": "2026-10-25T13:40:10+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+      "updated_at": "2026-10-25T15:12:22.530994+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
       "source": "Website",
@@ -2610,6 +2634,14 @@
       "updated_at": "2026-10-25T00:19:18.203674+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
     },
+    "fce00c6e9d2ccdc4d4620c01": {
+      "published_at": "2026-10-25T13:46:51+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+      "updated_at": "2026-10-25T15:12:22.530996+00:00",
+      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss"
+    },
     "fcec1db741d9563f60fbb768": {
       "published_at": "2026-10-25T03:55:20+00:00",
       "source": "thehindu.com",
@@ -2700,6 +2732,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:12:15.674047+00:00",
+  "last_cycle_at": "2026-10-25T15:12:22.531419+00:00",
   "schema_version": 1
 }
