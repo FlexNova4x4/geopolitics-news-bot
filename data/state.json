@@ -659,6 +659,14 @@
       "updated_at": "2026-10-25T04:06:09.564448+00:00",
       "url": "https://www.dawn.com/news/2039582/tribute-paid-to-polio-workers-in-quetta"
     },
+    "7aac1bc4340066498ab38d30": {
+      "published_at": "2026-10-25T05:25:03+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Gadi Eisenkot | Netanyahu’s challenger",
+      "updated_at": "2026-10-25T06:05:52.250268+00:00",
+      "url": "https://www.thehindu.com/news/international/gadi-eisenkot-netanyahus-challenger/article71621144.ece"
+    },
     "7f9b731e641233dfddd23d01": {
       "published_at": "2026-10-25T04:51:57+00:00",
       "source": "thehindu.com",
@@ -985,6 +993,14 @@
       "updated_at": "2026-10-24T22:47:14.918839+00:00",
       "url": "https://thediplomat.com/2026/10/with-strict-agendas-and-silent-corridors-kazakhstans-kurultai-is-muzzling-the-press"
     },
+    "d3e7b9cbf9024513b1444315": {
+      "published_at": "2026-10-25T05:27:54+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+      "updated_at": "2026-10-25T06:05:52.250270+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss"
+    },
     "d42be53c179ee655ec60cb49": {
       "published_at": "2026-10-24T19:28:11+00:00",
       "source": "thehindu.com",
@@ -1046,6 +1062,14 @@
       "updated_at": "2026-10-25T05:40:42.302794+00:00",
       "url": "https://www.hindustantimes.com/india-news/amit-shah-hails-another-lethal-blow-as-operation-trident-strikes-drug-cartels-across-assam-manipur-mizoram-101792900242489.html"
     },
+    "e6d08f453f1ce4106b121346": {
+      "published_at": "2026-10-25T05:00:29+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Poland’s abortion law: What will the new bills change? | Explained",
+      "updated_at": "2026-10-25T06:05:52.250251+00:00",
+      "url": "https://www.thehindu.com/news/international/polands-abortion-law-what-will-the-new-bills-change-explained/article71615436.ece"
+    },
     "e749d6eb84069fcff952587f": {
       "published_at": "2026-10-25T03:29:32+00:00",
       "source": "hindustantimes.com",
@@ -1106,6 +1130,14 @@
       "title": "Thousands join Paris protests as authorities clamp down on disorder",
       "updated_at": "2026-10-24T23:59:02.292230+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
+    },
+    "f7f6d6058dcc49510dc62054": {
+      "published_at": "2026-10-25T05:24:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Protests in France | Beginning of the end of Macronism",
+      "updated_at": "2026-10-25T06:05:52.250264+00:00",
+      "url": "https://www.thehindu.com/news/international/france-october-17-protest-the-hindu-profiles/article71621130.ece"
     },
     "fbadcc89aedcb56ee9198ebb": {
       "published_at": "2026-10-25T05:09:13+00:00",
@@ -1179,6 +1211,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:41:52.302754+00:00",
+  "last_cycle_at": "2026-10-25T06:05:52.250473+00:00",
   "schema_version": 1
 }
