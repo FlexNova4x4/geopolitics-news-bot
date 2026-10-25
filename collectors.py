@@ -107,7 +107,7 @@ def _robots_allows(url: str) -> bool:
         rp = RobotFileParser()
         robots_url = origin + "/robots.txt"
         try:
-            response = HTTP.get(robots_url, timeout=8)
+            response = _get_with_retries(robots_url, timeout=20, attempts=2)
             if response.status_code == 404:
                 _ROBOTS[origin] = None  # no robots file: default allow
             elif response.ok:
@@ -130,7 +130,7 @@ def _article_text(url: str) -> str:
     if not _robots_allows(url):
         return ""
     try:
-        response = HTTP.get(url, timeout=12, allow_redirects=True)
+        response = _get_with_retries(url, timeout=25, attempts=2)
         if not response.ok or "text/html" not in response.headers.get("content-type", "text/html"):
             return ""
         extracted = trafilatura.extract(response.text, include_comments=False, include_tables=False,
