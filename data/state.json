@@ -972,9 +972,10 @@
     "5a9a2f091ca68114c93c8cdf": {
       "published_at": "2026-10-25T13:50:35+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10311,
       "title": "'Alliance gave BJP stomach ache': Akhilesh Yadav calls Congress ‘200 seats’ UP poll poster fake",
-      "updated_at": "2026-10-25T15:12:44.813891+00:00",
+      "updated_at": "2026-10-25T15:12:51.024561+00:00",
       "url": "https://www.hindustantimes.com/india-news/alliance-gave-bjp-stomach-ache-akhilesh-yadav-calls-congress-200-seats-up-poll-poster-fake-101792924346924.html"
     },
     "5ac35c58a87da6e1a0d68bc2": {
@@ -1300,9 +1301,10 @@
     "77c44a85cab4f6bd039406a3": {
       "published_at": "2026-10-25T13:49:33+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10310,
       "title": "Saudi air defences intercept Houthi barrage near Mecca",
-      "updated_at": "2026-10-25T15:12:44.813877+00:00",
+      "updated_at": "2026-10-25T15:12:47.069951+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
     },
     "78a627de04bf75729389fd34": {
@@ -1496,9 +1498,10 @@
     "8ab1c23be8ac8d3a118fd806": {
       "published_at": "2026-10-25T13:51:35+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10312,
       "title": "Kharge escalates ‘vote chori’ charge in Patna, demands CEC’s ouster, attacks Nitish over RSS ties",
-      "updated_at": "2026-10-25T15:12:44.813895+00:00",
+      "updated_at": "2026-10-25T15:12:55.194501+00:00",
       "url": "https://www.hindustantimes.com/india-news/kharge-escalates-vote-chori-charge-in-patna-demands-cec-s-ouster-attacks-nitish-over-rss-ties-101792930829200.html"
     },
     "8c36a839b4b28884cf7cbe36": {
@@ -2352,9 +2355,10 @@
     "dc4f2ba4b9e7cf20f0893d01": {
       "published_at": "2026-10-25T14:01:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10313,
       "title": "Jana Sena Party leaders discuss strategy for local body polls",
-      "updated_at": "2026-10-25T15:12:44.813898+00:00",
+      "updated_at": "2026-10-25T15:12:59.383303+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-party-leaders-discuss-strategy-for-local-body-polls/article71623612.ece"
     },
     "df0599f31410b2f5951a384e": {
@@ -2768,6 +2772,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:12:44.814272+00:00",
+  "last_cycle_at": "2026-10-25T15:13:02.584302+00:00",
   "schema_version": 1
 }
