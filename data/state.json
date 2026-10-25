@@ -502,6 +502,14 @@
       "updated_at": "2026-10-25T08:04:46.791550+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/blast-that-killed-seven-in-asr-district-leaves-10-tribal-families-with-damaged-homes/article71622770.ece"
     },
+    "32bd2b6300f9cd74f3011f57": {
+      "published_at": "2026-10-25T10:55:33+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "updated_at": "2026-10-25T11:04:44.919498+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+    },
     "32c983b7e11bcff8fc05449d": {
       "published_at": "2026-10-23T13:18:00+00:00",
       "source": "Website",
@@ -1180,6 +1188,14 @@
       "updated_at": "2026-10-25T02:35:35.222443+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
     },
+    "858bac4d566303ced3b3ff4d": {
+      "published_at": "2026-10-25T10:44:16+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Man killed, another injured as speeding truck hits e-scooter in Delhi's Kalkaji",
+      "updated_at": "2026-10-25T11:04:44.919494+00:00",
+      "url": "https://www.hindustantimes.com/india-news/man-killed-another-injured-as-speeding-truck-hits-e-scooter-in-delhis-kalkaji-101792923896714.html"
+    },
     "85b13889261ddb1c19a1f5fe": {
       "published_at": "2026-10-23T12:38:00+00:00",
       "source": "Website",
@@ -1714,6 +1730,14 @@
       "updated_at": "2026-10-25T07:35:24.248677+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
     },
+    "c23da13b62908c3f0401aed9": {
+      "published_at": "2026-10-25T10:48:03+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "IAS reshuffle in Tamil Nadu: Laxmi Priya to hold additional charge as Special Officer of Mudhalvarin Mugavari",
+      "updated_at": "2026-10-25T11:04:44.919496+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-charge-as-special-officer-of-mudhalvarin-mugavari/article71622984.ece"
+    },
     "c351f010dedea817fe298a64": {
       "published_at": "2026-10-25T08:44:17+00:00",
       "source": "aljazeera.com",
@@ -1785,6 +1809,14 @@
       "title": "Fantasy to imagine collegium isolated from political pressure: Ex-SC judge Sanjay Kaul; flags Centre’s NJAC resentment",
       "updated_at": "2026-10-25T09:04:27.449256+00:00",
       "url": "https://www.hindustantimes.com/india-news/collegium-faces-political-pressure-over-njac-setback-former-sc-judge-kaul-writes-in-memoir-101792916013295.html"
+    },
+    "d168cb5eac28602265fbe1e3": {
+      "published_at": "2026-10-25T10:44:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Manipur cannot achieve lasting peace as long as gun culture exists: CM",
+      "updated_at": "2026-10-25T11:04:44.919479+00:00",
+      "url": "https://www.thehindu.com/news/national/manipur/manipur-cannot-achieve-lasting-peace-as-long-as-gun-culture-exists-cm/article71623033.ece"
     },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
@@ -2205,6 +2237,6 @@
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T11:04:40.543993+00:00",
+  "last_cycle_at": "2026-10-25T11:04:44.919755+00:00",
   "schema_version": 1
 }
