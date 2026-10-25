@@ -369,6 +369,14 @@
       "updated_at": "2026-10-25T05:36:29.098065+00:00",
       "url": "https://www.thehindu.com/news/cities/Visakhapatnam/telugu-brothers-steal-the-show-set-social-media-abuzz-with-finishing-act-against-new-zealand/article71621038.ece"
     },
+    "15d780e25c4f5e90739a8aa4": {
+      "published_at": "2026-10-25T21:00:02+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+      "updated_at": "2026-10-25T22:00:32.613902+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
+    },
     "16096f0dc25490e677420adf": {
       "published_at": "2026-10-25T07:34:24+00:00",
       "source": "hindustantimes.com",
@@ -969,6 +977,14 @@
       "title": "Heavy rainfall hits Tamil Nadu, IMD issues alert for next 3 days as rain-triggered mudslide kills 1 in Nilgiris",
       "updated_at": "2026-10-25T08:04:54.603714+00:00",
       "url": "https://www.hindustantimes.com/india-news/tamil-nadu-rains-imd-alert-mudslide-nilgiris-krishnagiri-bridge-chennai-rains-traffic-cyclone-bay-of-bengal-weather-update-101792908753243.html"
+    },
+    "389047118581412ae4bee80e": {
+      "published_at": "2026-10-25T21:25:04+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "updated_at": "2026-10-25T22:00:32.613918+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
     },
     "389687d9e17f1d8c247ef6fe": {
       "published_at": "2026-10-25T17:06:07+00:00",
@@ -3002,6 +3018,14 @@
       "updated_at": "2026-10-25T16:12:54.400042+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-air-quality-dips-to-poor-category-aqi-touches-254/article71623259.ece"
     },
+    "b230acc72b2932746274645c": {
+      "published_at": "2026-10-25T21:39:13+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Marine Le Pen launches French presidential campaign",
+      "updated_at": "2026-10-25T22:00:32.613924+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss"
+    },
     "b2c201214544e238f2daa23c": {
       "published_at": "2026-10-25T19:02:24+00:00",
       "source": "hindustantimes.com",
@@ -3378,6 +3402,14 @@
       "title": "Flight ops to shift from Mumbai to Navi Mumbai airport: Adani Airports, Air India Group announce plan",
       "updated_at": "2026-10-25T15:10:37.789323+00:00",
       "url": "https://www.hindustantimes.com/india-news/flight-ops-to-shift-from-mumbai-to-navi-mumbai-airport-adani-airports-air-india-group-announce-plan-indigo-101792929144268.html"
+    },
+    "caf45fcb27a56d22f14c855e": {
+      "published_at": "2026-10-25T21:29:23+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Trump VS California",
+      "updated_at": "2026-10-25T22:00:32.613921+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss"
     },
     "cb69f01837fe6e170f43fe8b": {
       "published_at": "2026-10-25T06:50:54+00:00",
@@ -4311,6 +4343,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T20:41:49.405139+00:00",
+  "last_cycle_at": "2026-10-25T22:00:32.614269+00:00",
   "schema_version": 1
 }
