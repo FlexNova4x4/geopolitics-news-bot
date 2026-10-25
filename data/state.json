@@ -102,9 +102,10 @@
     "0840edfd05a2827a5ace0ee0": {
       "published_at": "2026-10-25T14:34:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10349,
       "title": "Kalpathy delegation visits Tamil Nadu temples ahead of chariot fest",
-      "updated_at": "2026-10-25T15:16:32.487018+00:00",
+      "updated_at": "2026-10-25T15:16:46.904414+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kalpathy-delegation-visits-tamil-nadu-temples-ahead-of-chariot-fest/article71623658.ece"
     },
     "08d15d0a4ec86561e07bee5e": {
@@ -954,9 +955,10 @@
     "4f463247538a1a95d34f042d": {
       "published_at": "2026-10-25T14:34:10+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10348,
       "title": "Woman attacks brother-in-law's private parts in Kanpur, police register case",
-      "updated_at": "2026-10-25T15:16:32.487014+00:00",
+      "updated_at": "2026-10-25T15:16:42.638539+00:00",
       "url": "https://www.hindustantimes.com/india-news/woman-attacks-brother-in-laws-private-parts-in-kanpur-uttar-pradesh-police-register-case-101792935647904.html"
     },
     "4fb0b6aa4688db957ab7fb59": {
@@ -1881,9 +1883,10 @@
     "9f3bff8e1c83446273c69a25": {
       "published_at": "2026-10-25T14:31:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10347,
       "title": "Keralam government hikes compensations for human-wildlife conflict victims by 25%",
-      "updated_at": "2026-10-25T15:16:32.487011+00:00",
+      "updated_at": "2026-10-25T15:16:38.725928+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-government-hikes-compensations-for-human-wildlife-conflict-victims-by-25/article71623779.ece"
     },
     "9f5313aaf8cdd6eafeb5d96b": {
@@ -2434,9 +2437,10 @@
     "c788b34d1e8c41c01a9ba36f": {
       "published_at": "2026-10-25T14:31:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10346,
       "title": "Naidu puts officials on high alert as cyclone nears Andhra Pradesh coast",
-      "updated_at": "2026-10-25T15:16:32.486996+00:00",
+      "updated_at": "2026-10-25T15:16:34.728192+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-puts-officials-on-high-alert-as-cyclone-nears-andhra-pradesh-coast/article71623312.ece"
     },
     "c94066e09036726fec15eff8": {
@@ -3092,6 +3096,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:16:32.487525+00:00",
+  "last_cycle_at": "2026-10-25T15:16:50.105429+00:00",
   "schema_version": 1
 }
