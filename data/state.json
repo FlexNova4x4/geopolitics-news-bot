@@ -1186,6 +1186,14 @@
       "updated_at": "2026-10-25T18:13:11.022133+00:00",
       "url": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece"
     },
+    "439f16a5356f109804621993": {
+      "published_at": "2026-10-25T20:01:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+      "updated_at": "2026-10-25T20:41:36.106693+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss"
+    },
     "43e53313b7a999937b974c1c": {
       "published_at": "2026-10-25T17:12:59+00:00",
       "source": "aljazeera.com",
@@ -1490,6 +1498,14 @@
       "title": "BJP leader Hartal Halappa urges Karnataka Govt to ensure at least seven-hour power supply to agri pump sets during day time",
       "updated_at": "2026-10-25T10:34:49.491037+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bjp-leader-hartal-halappa-urges-karnataka-govt-to-ensure-at-least-seven-hour-power-supply-to-agri-pump-sets-during-day-time/article71622920.ece"
+    },
+    "58dd76d6c952bad2ddd61861": {
+      "published_at": "2026-10-25T20:00:04+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Brazil election results 2026 live: Top court extends voting for two hours",
+      "updated_at": "2026-10-25T20:41:36.106690+00:00",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss"
     },
     "596344f7ed56b23cef4c3a08": {
       "published_at": "2026-10-24T19:30:42+00:00",
@@ -1964,6 +1980,14 @@
       "title": "Pakistan reopens Iran border crossing after week-long suspension of trade",
       "updated_at": "2026-10-25T09:34:48.001871+00:00",
       "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece"
+    },
+    "72c0374bb747e4cb1e0fc199": {
+      "published_at": "2026-10-25T19:41:40+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Strike on Gaza university kills three: staff, hospital",
+      "updated_at": "2026-10-25T20:41:36.106675+00:00",
+      "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece"
     },
     "73f7bc52cc2e773dbb96ba13": {
       "published_at": "2026-10-25T14:42:51+00:00",
@@ -4284,6 +4308,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T20:11:54.759541+00:00",
+  "last_cycle_at": "2026-10-25T20:41:36.107345+00:00",
   "schema_version": 1
 }
