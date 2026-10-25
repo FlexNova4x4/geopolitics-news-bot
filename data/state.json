@@ -1713,6 +1713,14 @@
       "updated_at": "2026-10-25T15:17:30.970568+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece"
     },
+    "6ef0d95a47dc303632a2cae8": {
+      "published_at": "2026-10-25T16:46:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Is Yashwant Varma still a judge?",
+      "updated_at": "2026-10-25T17:12:29.449674+00:00",
+      "url": "https://www.thehindu.com/news/national/is-yashwant-varma-still-a-judge/article71249134.ece"
+    },
     "6f0e207533a1fc9ad84b0709": {
       "published_at": "2026-10-25T07:06:11+00:00",
       "source": "thehindu.com",
@@ -2277,6 +2285,14 @@
       "title": "Nasirabad pylon blast cuts power to many areas",
       "updated_at": "2026-10-25T04:06:05.451448+00:00",
       "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
+    },
+    "98a816ed69f52680cd432a3c": {
+      "published_at": "2026-10-25T16:40:31+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
+      "updated_at": "2026-10-25T17:12:29.449651+00:00",
+      "url": "https://www.thehindu.com/news/international/netanyahu-warns-iran-may-try-to-disrupt-israel-election-says-dont-test-us/article71624345.ece"
     },
     "99bfc25711806d69e3e77bce": {
       "published_at": "2026-10-25T16:40:19+00:00",
@@ -3172,6 +3188,14 @@
       "updated_at": "2026-10-25T05:37:05.826311+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/now-one-more-road-proposed-alongside-bengalurus-hebbal-lake/article71620417.ece"
     },
+    "d4f4b4c5bee0c02c0f567751": {
+      "published_at": "2026-10-25T16:42:33+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazil beef imports",
+      "updated_at": "2026-10-25T17:12:29.449667+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
+    },
     "d58590effe1c443fb536bca4": {
       "published_at": "2026-10-24T19:37:35+00:00",
       "source": "feeds.bbci.co.uk",
@@ -3611,6 +3635,14 @@
       "updated_at": "2026-10-25T08:34:35.223421+00:00",
       "url": "https://www.hindustantimes.com/india-news/kerala-bjp-chief-urges-equal-respect-for-faiths-amid-cafe-video-row-accuses-cm-satheesan-of-selective-secularism-101792912926527.html"
     },
+    "f43215a4351f87c78fdc9d1e": {
+      "published_at": "2026-10-25T16:44:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Residents affected by rising road levels demand action",
+      "updated_at": "2026-10-25T17:12:29.449671+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-affected-by-rising-road-levels-demand-action/article71622979.ece"
+    },
     "f603ab89ebe7bf49606dc2ed": {
       "published_at": "2026-10-25T14:44:48+00:00",
       "source": "thehindu.com",
@@ -3861,6 +3893,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T17:12:24.120671+00:00",
+  "last_cycle_at": "2026-10-25T17:12:29.450258+00:00",
   "schema_version": 1
 }
