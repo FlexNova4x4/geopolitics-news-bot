@@ -120,9 +120,10 @@
     "0779980b6101bb6bb57ce453": {
       "published_at": "2026-10-25T15:20:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10394,
       "title": "No need to fear losing power by visiting Chamarajanagar: Shivakumar",
-      "updated_at": "2026-10-25T16:14:24.993370+00:00",
+      "updated_at": "2026-10-25T16:14:41.559825+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/no-need-to-fear-losing-power-by-visiting-chamarajanagar-shivakumar/article71623094.ece"
     },
     "0840edfd05a2827a5ace0ee0": {
@@ -1410,9 +1411,10 @@
     "6534d38e01a230c7f5991402": {
       "published_at": "2026-10-25T15:15:57+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10393,
       "title": "UP man holds goat funeral, uses AI-generated image to fake death in court",
-      "updated_at": "2026-10-25T16:14:24.993368+00:00",
+      "updated_at": "2026-10-25T16:14:36.309143+00:00",
       "url": "https://www.hindustantimes.com/india-news/up-man-holds-goat-funeral-uses-ai-generated-image-to-fake-death-in-court-101792937111994.html"
     },
     "66f17fc2b8b886527e781167": {
@@ -2400,9 +2402,10 @@
     "ac68c661379f3dacb952059d": {
       "published_at": "2026-10-25T15:15:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10391,
       "title": "Jamia students climb gates, join protest amid heavy police deployment",
-      "updated_at": "2026-10-25T16:14:24.993350+00:00",
+      "updated_at": "2026-10-25T16:14:27.242854+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece"
     },
     "b1921293cc4a250f809ac09f": {
@@ -3330,9 +3333,10 @@
     "f8da80698d09d6a73cdf962a": {
       "published_at": "2026-10-25T15:15:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10392,
       "title": "Traffic ban continue in Munnar after another landslip on Kochi–Dhanushkodi National Highway",
-      "updated_at": "2026-10-25T16:14:24.993364+00:00",
+      "updated_at": "2026-10-25T16:14:32.405724+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/traffic-ban-continue-in-munnar-after-another-landslip-on-kochidhanushkodi-national-highway/article71623815.ece"
     },
     "f94ea868ac4228638090569d": {
@@ -3488,6 +3492,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:14:24.994017+00:00",
+  "last_cycle_at": "2026-10-25T16:14:44.760731+00:00",
   "schema_version": 1
 }
