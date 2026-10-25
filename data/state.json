@@ -847,9 +847,10 @@
     "33585be33769eee345ccbe20": {
       "published_at": "2026-10-25T16:59:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10447,
       "title": "BJP to hold nationwide protest on October 26 against Kharge’s ‘baap’ remark for Modi",
-      "updated_at": "2026-10-25T17:13:28.624034+00:00",
+      "updated_at": "2026-10-25T17:13:42.888695+00:00",
       "url": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece"
     },
     "336d07ff0bf8ed86ad2c2f7a": {
@@ -1751,9 +1752,10 @@
     "6f5c613f97a5bb03195b3cde": {
       "published_at": "2026-10-25T16:57:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10445,
       "title": "Israeli air strikes kill several across Gaza Strip: local authorities",
-      "updated_at": "2026-10-25T17:13:28.624028+00:00",
+      "updated_at": "2026-10-25T17:13:35.011747+00:00",
       "url": "https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece"
     },
     "6fe185b26c7b94045b10f1f1": {
@@ -2144,9 +2146,10 @@
     "8603cfb6169861cbd8e90fd5": {
       "published_at": "2026-10-25T16:55:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10444,
       "title": "Beyond national interest: role of ethics and emotions in world politics",
-      "updated_at": "2026-10-25T17:13:28.624013+00:00",
+      "updated_at": "2026-10-25T17:13:31.076818+00:00",
       "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece"
     },
     "8805445d4dc8a6f6155ccd33": {
@@ -3306,9 +3309,10 @@
     "d99ef7cea7a042be87b4e78a": {
       "published_at": "2026-10-25T16:58:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10446,
       "title": "JSP leader Swaroopa Rani’s nominations for two ZPTC seats rejected",
-      "updated_at": "2026-10-25T17:13:28.624032+00:00",
+      "updated_at": "2026-10-25T17:13:38.955185+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-leader-swaroopa-ranis-nominations-for-two-zptc-seats-rejected/article71623841.ece"
     },
     "dab6a6339517cfec1da101e4": {
@@ -3965,6 +3969,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T17:13:28.624659+00:00",
+  "last_cycle_at": "2026-10-25T17:13:46.089948+00:00",
   "schema_version": 1
 }
