@@ -251,6 +251,14 @@
       "updated_at": "2026-10-25T05:37:45.602625+00:00",
       "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
     },
+    "2ac5d225560f70aa9efb31de": {
+      "published_at": "2026-10-25T02:27:15+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "updated_at": "2026-10-25T06:34:43.574006+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+    },
     "2cdc6dcb065cda9bbc26f623": {
       "published_at": "2026-10-25T01:00:56+00:00",
       "source": "hindustantimes.com",
@@ -330,6 +338,14 @@
       "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
       "updated_at": "2026-10-24T23:59:52.150385+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
+    },
+    "35c67fdb10b3910ba1b39a56": {
+      "published_at": "2026-10-25T03:20:16+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
+      "updated_at": "2026-10-25T06:34:43.574009+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
     },
     "390b335947f0cfae8304a891": {
       "published_at": "2026-10-24T19:15:08+00:00",
@@ -1199,6 +1215,14 @@
       "updated_at": "2026-10-24T22:47:16.636863+00:00",
       "url": "https://thediplomat.com/2026/10/japan-needs-higher-interest-rates"
     },
+    "ee273e8d6d2effa2e3171640": {
+      "published_at": "2026-10-24T23:50:02+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "updated_at": "2026-10-25T06:34:43.573990+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+    },
     "f17074f2bff6dfa7b5decd9b": {
       "published_at": "2026-10-25T01:20:19+00:00",
       "source": "dawn.com",
@@ -1321,8 +1345,16 @@
       "title": "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
       "updated_at": "2026-10-25T05:37:24.102780+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
+    },
+    "ff00da6ff48d059a4de4b5a6": {
+      "published_at": "2026-10-25T05:15:52+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "updated_at": "2026-10-25T06:34:43.574011+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T06:34:39.588639+00:00",
+  "last_cycle_at": "2026-10-25T06:34:43.574183+00:00",
   "schema_version": 1
 }
