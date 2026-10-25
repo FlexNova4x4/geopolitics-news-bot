@@ -18,6 +18,14 @@
       "updated_at": "2026-10-25T03:35:28.722579+00:00",
       "url": "https://www.dawn.com/news/2039682/atc-warns-imaan-hadi-of-verdict-sans-testimony-in-security-breach-case"
     },
+    "0971dcf6e1af4a89ad881632": {
+      "published_at": "2026-10-25T01:19:51+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Gilani assures KP governor of federal support",
+      "updated_at": "2026-10-25T04:05:58.932542+00:00",
+      "url": "https://www.dawn.com/news/2039583/gilani-assures-kp-governor-of-federal-support"
+    },
     "0b7a7abdb90c68a961048592": {
       "published_at": "2026-10-25T02:25:55+00:00",
       "source": "dawn.com",
@@ -202,6 +210,14 @@
       "updated_at": "2026-10-24T22:52:55.258004+00:00",
       "url": "https://thediplomat.com/2026/10/xis-military-purges-make-us-deterrence-more-urgent"
     },
+    "687296e4991a5dbdcde2de7c": {
+      "published_at": "2026-10-25T03:37:39+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Death toll from collision between passenger coach and minibus near Balochistan's Uthal rises to 15",
+      "updated_at": "2026-10-25T04:05:58.932562+00:00",
+      "url": "https://www.dawn.com/news/2039684/death-toll-from-collision-between-passenger-coach-and-minibus-near-balochistans-uthal-rises-to-15"
+    },
     "69ed75e6ee354f52f12f4df9": {
       "published_at": "2026-10-23T14:42:00+00:00",
       "source": "Website",
@@ -245,6 +261,14 @@
       "updated_at": "2026-10-25T01:05:20.509465+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
     },
+    "7a1d120985829e41204a3378": {
+      "published_at": "2026-10-25T03:34:02+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Tribute paid to polio workers in Quetta",
+      "updated_at": "2026-10-25T04:05:58.932559+00:00",
+      "url": "https://www.dawn.com/news/2039582/tribute-paid-to-polio-workers-in-quetta"
+    },
     "80d1513b974e9b68ccf0d9bb": {
       "published_at": "2026-10-23T17:09:00+00:00",
       "source": "Website",
@@ -279,6 +303,14 @@
       "title": "Dar orders urgent action to rein in rising wheat prices",
       "updated_at": "2026-10-25T02:35:39.263045+00:00",
       "url": "https://www.dawn.com/news/2039608/dar-orders-urgent-action-to-rein-in-rising-wheat-prices"
+    },
+    "982fd09da3a2325f2e1358d8": {
+      "published_at": "2026-10-25T01:19:51+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Nasirabad pylon blast cuts power to many areas",
+      "updated_at": "2026-10-25T04:05:58.932556+00:00",
+      "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
       "published_at": "2026-10-24T19:12:51+00:00",
@@ -450,6 +482,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T03:35:40.095325+00:00",
+  "last_cycle_at": "2026-10-25T04:05:58.932884+00:00",
   "schema_version": 1
 }
