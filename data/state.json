@@ -72,6 +72,14 @@
       "updated_at": "2026-10-25T04:06:01.387616+00:00",
       "url": "https://www.dawn.com/news/2039583/gilani-assures-kp-governor-of-federal-support"
     },
+    "0ad86da679ca75352a3bf1e0": {
+      "published_at": "2026-10-25T06:52:23+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "17-year-old in Mercedes-Benz rams scooter in Kochi, killing 55-year-old street food vendor",
+      "updated_at": "2026-10-25T07:34:23.954155+00:00",
+      "url": "https://www.hindustantimes.com/india-news/17yearold-in-mercedes-benz-rams-scooter-in-kochi-killing-55-year-old-street-food-vendor-101792911143816.html"
+    },
     "0b7a7abdb90c68a961048592": {
       "published_at": "2026-10-25T02:25:55+00:00",
       "source": "dawn.com",
@@ -80,6 +88,14 @@
       "title": "Pakistan reopens Gabd border crossing with Iran, restores bilateral trade after weeklong suspension",
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
+    },
+    "0dd736df51ea9188a674d863": {
+      "published_at": "2026-10-25T06:57:11+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'We cannot remain helpless spectators': Jaishankar presses for 'dialogue and diplomacy' amid wars in West Asia, Ukraine",
+      "updated_at": "2026-10-25T07:34:23.954186+00:00",
+      "url": "https://www.hindustantimes.com/india-news/we-cannot-remain-helpless-spectators-jaishankar-presses-on-dialogue-and-diplomacy-amid-wars-in-west-asia-ukraine-101792911167963.html"
     },
     "0eabb853ee40d8249aec4ccd": {
       "published_at": "2026-10-24T19:18:46+00:00",
@@ -375,6 +391,14 @@
       "title": "TenPayGo and China’s Digital Opening to Foreigners",
       "updated_at": "2026-10-24T22:52:54.734274+00:00",
       "url": "https://thediplomat.com/2026/10/tenpaygo-and-chinas-digital-opening-to-foreigners"
+    },
+    "3499ac59864dbf3cd0ccf248": {
+      "published_at": "2026-10-25T07:04:24+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Jogen Chowdhury, celebrated Indian painter and former TMC Rajya Sabha MP, dies at 87",
+      "updated_at": "2026-10-25T07:34:23.954188+00:00",
+      "url": "https://www.hindustantimes.com/india-news/jogen-chowdhury-celebrated-indian-painter-and-former-tmc-rajya-sabha-mp-dies-at-87-101792911865146.html"
     },
     "34a74e5845756f13fb70f040": {
       "published_at": "2026-10-24T23:08:16+00:00",
@@ -900,6 +924,14 @@
       "title": "The bitter row over military service that could shape Israel's future",
       "updated_at": "2026-10-25T06:34:36.388223+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss"
+    },
+    "937cfaddc862aa706aec1e3e": {
+      "published_at": "2026-10-25T06:54:37+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Elections cannot produce change in Israel",
+      "updated_at": "2026-10-25T07:34:23.954173+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss"
     },
     "9418581b7f6efb4b6eff5009": {
       "published_at": "2026-10-25T04:49:55+00:00",
@@ -1503,6 +1535,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:05:10.382821+00:00",
+  "last_cycle_at": "2026-10-25T07:34:23.954367+00:00",
   "schema_version": 1
 }
