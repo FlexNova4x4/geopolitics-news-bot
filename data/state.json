@@ -63,6 +63,22 @@
       "updated_at": "2026-10-25T04:35:52.559921+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss"
     },
+    "11518b6023a3677f9818ff72": {
+      "published_at": "2026-10-25T00:48:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Updates",
+      "updated_at": "2026-10-25T05:38:05.735215+00:00",
+      "url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
+    },
+    "135bf913908718e670af8c71": {
+      "published_at": "2026-10-24T21:17:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Houthis say attacked Saudi Arabia, Yemen’s Aden after deadly strikes",
+      "updated_at": "2026-10-25T05:38:05.735186+00:00",
+      "url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece"
+    },
     "1465f4d8bc4c6500e418081c": {
       "published_at": "2026-10-24T19:08:26+00:00",
       "source": "thehindu.com",
@@ -89,6 +105,14 @@
       "title": "Pakistan Railways declares emergency until Dec 31 after repeated accidents",
       "updated_at": "2026-10-25T02:35:47.273504+00:00",
       "url": "https://www.dawn.com/news/2039678/pakistan-railways-declares-emergency-until-dec-31-after-repeated-accidents"
+    },
+    "1710401f57210e87120dfb7a": {
+      "published_at": "2026-10-24T22:24:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Indonesia cuts pipeline gas exports to Singapore by about 9%",
+      "updated_at": "2026-10-25T05:38:05.735204+00:00",
+      "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
     "1bddb0948a2186c4c5b46ab9": {
       "published_at": "2026-10-25T04:30:24+00:00",
@@ -124,6 +148,14 @@
       "title": "How have Democrats’ policies shifted since the last major US election?",
       "updated_at": "2026-10-25T00:19:16.212297+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
+    },
+    "266b9ee325a4599d084e8de5": {
+      "published_at": "2026-10-25T00:46:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? | Explained",
+      "updated_at": "2026-10-25T05:38:05.735210+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece"
     },
     "276c9169e9e25c837bd41331": {
       "published_at": "2026-10-24T20:12:51+00:00",
@@ -801,6 +833,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:38:00.585485+00:00",
+  "last_cycle_at": "2026-10-25T05:38:05.735377+00:00",
   "schema_version": 1
 }
