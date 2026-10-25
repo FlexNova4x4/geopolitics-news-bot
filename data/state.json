@@ -1174,9 +1174,10 @@
     "9ac88fecab73c5082f8dfcda": {
       "published_at": "2026-10-25T08:57:19+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10217,
       "title": "DK Shivakumar warns IT firms of action if found sidelining locals in Bengaluru: 'Kannadiga is sovereign'",
-      "updated_at": "2026-10-25T09:05:08.414147+00:00",
+      "updated_at": "2026-10-25T09:05:10.801971+00:00",
       "url": "https://www.hindustantimes.com/india-news/dk-shivakumar-warns-it-firms-of-action-if-found-sidelining-locals-in-bengaluru-kannadiga-is-sovereign-101792915307671.html"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
@@ -1925,6 +1926,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:05:08.414383+00:00",
+  "last_cycle_at": "2026-10-25T09:05:14.002428+00:00",
   "schema_version": 1
 }
