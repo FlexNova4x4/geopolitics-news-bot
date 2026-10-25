@@ -309,9 +309,10 @@
     "fcc15f0e001ca52f5347dc70": {
       "published_at": "2026-10-25T00:00:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10034,
       "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-      "updated_at": "2026-10-25T00:19:16.212302+00:00",
+      "updated_at": "2026-10-25T00:19:18.203674+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
     },
     "fd7dab0cce59f4579a049873": {
@@ -332,6 +333,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T00:19:16.212338+00:00",
+  "last_cycle_at": "2026-10-25T00:19:21.403911+00:00",
   "schema_version": 1
 }
