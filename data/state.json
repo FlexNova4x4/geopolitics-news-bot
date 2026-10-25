@@ -1834,9 +1834,10 @@
     "d2f76d83e37404181994790c": {
       "published_at": "2026-10-25T10:59:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10254,
       "title": "Delhi schoolgirl's death: Police question teachers, examine CCTV footage",
-      "updated_at": "2026-10-25T11:05:04.652341+00:00",
+      "updated_at": "2026-10-25T11:05:06.821502+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece"
     },
     "d393a3d57a0f4b3af6d2e577": {
@@ -2249,6 +2250,6 @@
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T11:05:04.652746+00:00",
+  "last_cycle_at": "2026-10-25T11:05:10.022395+00:00",
   "schema_version": 1
 }
