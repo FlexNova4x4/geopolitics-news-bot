@@ -1189,9 +1189,10 @@
     "439f16a5356f109804621993": {
       "published_at": "2026-10-25T20:01:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10486,
       "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-      "updated_at": "2026-10-25T20:41:36.106693+00:00",
+      "updated_at": "2026-10-25T20:41:46.203926+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss"
     },
     "43e53313b7a999937b974c1c": {
@@ -1502,9 +1503,10 @@
     "58dd76d6c952bad2ddd61861": {
       "published_at": "2026-10-25T20:00:04+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10485,
       "title": "Brazil election results 2026 live: Top court extends voting for two hours",
-      "updated_at": "2026-10-25T20:41:36.106690+00:00",
+      "updated_at": "2026-10-25T20:41:42.302604+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss"
     },
     "596344f7ed56b23cef4c3a08": {
@@ -1984,9 +1986,10 @@
     "72c0374bb747e4cb1e0fc199": {
       "published_at": "2026-10-25T19:41:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10484,
       "title": "Strike on Gaza university kills three: staff, hospital",
-      "updated_at": "2026-10-25T20:41:36.106675+00:00",
+      "updated_at": "2026-10-25T20:41:38.413829+00:00",
       "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece"
     },
     "73f7bc52cc2e773dbb96ba13": {
@@ -4308,6 +4311,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T20:41:36.107345+00:00",
+  "last_cycle_at": "2026-10-25T20:41:49.405139+00:00",
   "schema_version": 1
 }
