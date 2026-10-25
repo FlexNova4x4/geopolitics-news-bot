@@ -1306,6 +1306,14 @@
       "updated_at": "2026-10-25T09:35:28.668867+00:00",
       "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece"
     },
+    "8daa4d391b482ee30744a06a": {
+      "published_at": "2026-10-25T11:26:27+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kozhikode tourism committees remain inactive, fail to propose development projects",
+      "updated_at": "2026-10-25T11:35:31.301211+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/kozhikode-tourism-committees-remain-inactive-fail-to-propose-development-projects/article71622982.ece"
+    },
     "91ee9952970e21fd9a42b354": {
       "published_at": "2026-10-25T06:34:06+00:00",
       "source": "hindustantimes.com",
@@ -1499,6 +1507,14 @@
       "title": "Robert Vadra pens note for son Raihan amid Bikaner House exhibition row: ‘Every challenge is a lesson’",
       "updated_at": "2026-10-25T09:35:02.521709+00:00",
       "url": "https://www.hindustantimes.com/india-news/robert-vadra-pens-heartfelt-note-for-son-raihan-vadra-amid-bikaner-house-exhibition-controversy-every-challenge-is-a-lesson-101792915861060.html"
+    },
+    "a28ea3edee0b749c9c4f9060": {
+      "published_at": "2026-10-25T11:24:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Scrap dealer critically injured in explosion at Ramanthapur shop in Hyderabad",
+      "updated_at": "2026-10-25T11:35:31.301194+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/scrap-dealer-critically-injured-in-explosion-at-ramanthapur-shop-in-hyderabad/article71623002.ece"
     },
     "a2b868bf8a4831b551cd6e0b": {
       "published_at": "2026-10-24T22:08:47+00:00",
@@ -2358,6 +2374,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T11:35:25.215572+00:00",
+  "last_cycle_at": "2026-10-25T11:35:31.301626+00:00",
   "schema_version": 1
 }
