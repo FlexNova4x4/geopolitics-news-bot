@@ -1328,6 +1328,14 @@
       "updated_at": "2026-10-25T00:49:16.383696+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss"
     },
+    "b735f1df747df0f6feaf8736": {
+      "published_at": "2026-10-25T08:26:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "FPIs withdraw ₹48,056 cr from equities in October so far amid elevated crude oil prices",
+      "updated_at": "2026-10-25T08:35:11.229203+00:00",
+      "url": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece"
+    },
     "b7a849a0d091a244318233dd": {
       "published_at": "2026-10-25T05:24:14+00:00",
       "source": "thehindu.com",
@@ -1836,6 +1844,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:35:08.641333+00:00",
+  "last_cycle_at": "2026-10-25T08:35:11.229577+00:00",
   "schema_version": 1
 }
