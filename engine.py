@@ -3,10 +3,12 @@ from __future__ import annotations
 
 import os
 import re
+from html import escape
 import time
 from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
+from urllib.parse import urlparse
 
 from ai_router import generate_posts, AIError
 from collectors import collect_sources, enrich_story
@@ -53,77 +55,94 @@ def _tag_slug(value: str) -> str:
 
 
 def _format_post(item: dict, story) -> str:
-    """Build the agreed compact post: English headline/category, Hindi body, date/time in headline."""
+    """Render a compact, readable Hindi news post with a clickable source name."""
     headline = str(item.get("headline", "")).strip()[:180]
-    summary = str(item.get("summary", "")).strip()[:1200]
-    analysis = str(item.get("analysis", "")).strip()[:650]
+    summary = str(item.get("summary", "")).strip()[:1500]
+    analysis = str(item.get("analysis", "")).strip()[:500]
+
+    # Hide boilerplate/no-impact claims instead of posting an empty India-impact section.
+    no_impact_patterns = (
+        r"\bno (?:clear |direct )?(?:impact|effect|relevance)\b",
+        r"\bdoes not directly affect india\b",
+        r"भारत पर (?:कोई )?(?:स्पष्ट )?(?:सीधा )?(?:असर|प्रभाव) (?:नहीं|स्पष्ट नहीं)",
+        r"भारत पर इसका (?:कोई )?(?:स्पष्ट )?(?:सीधा )?(?:असर|प्रभाव) (?:नहीं|स्पष्ट नहीं)",
+        r"सीधा असर उपलब्ध जानकारी से स्पष्ट नहीं",
+        r"भारत से (?:कोई )?(?:सीधा )?संबंध नहीं",
+    )
+    if analysis and any(re.search(pattern, analysis, flags=re.IGNORECASE) for pattern in no_impact_patterns):
+        analysis = ""
 
     try:
         local_dt = datetime.fromtimestamp(story.published_ts, ZoneInfo("Asia/Kolkata"))
-        date_part = local_dt.strftime("%d %b")
-        time_part = local_dt.strftime("%I %p").lstrip("0")
-        date_line = f"{date_part} · {time_part}"
+        date_line = f"{local_dt.strftime('%d %b')} · {local_dt.strftime('%I %p').lstrip('0')} IST"
     except (ValueError, OSError, OverflowError):
         date_line = "Date/time unavailable"
 
     topics_value = item.get("topics", [])
     if isinstance(topics_value, str):
-        topics = [t.strip() for t in re.split(r"[,;|]", topics_value) if t.strip()]
+        topics = [part.strip() for part in re.split(r"[,;|]", topics_value) if part.strip()]
     elif isinstance(topics_value, list):
-        topics = [str(t).strip() for t in topics_value if str(t).strip()]
+        topics = [str(part).strip() for part in topics_value if str(part).strip()]
     else:
         topics = []
     topics = topics[:3] or ["World News"]
 
     pieces = [
-        f"🌍 {headline} | {date_line}",
-        "🏷️ Category: " + " · ".join(topics),
+        f"🌍 <b>{escape(headline)}</b>",
+        f"🕒 {escape(date_line)}",
+        "🏷️ " + escape(" · ".join(topics)),
     ]
+    if summary:
+        # Preserve paragraph breaks while escaping model-generated text for Telegram HTML.
+        pieces.append(escape(summary))
 
-    positions_value = item.get("positions", [])
-    positions = []
-    if isinstance(positions_value, list):
-        for entry in positions_value[:3]:
+    # Only show an India response when the source-supported position is actually India's.
+    raw_positions = item.get("positions", [])
+    if isinstance(raw_positions, list):
+        for entry in raw_positions[:3]:
             if not isinstance(entry, dict):
                 continue
-            side = str(entry.get("side", "")).strip()[:90]
-            position = str(entry.get("position", "")).strip()[:650]
-            if side and position:
-                positions.append(f"🔹 {side}: {position}")
-
-    # Show separately attributed positions where the source supports them;
-    # otherwise keep the regular Hindi news summary.
-    if positions:
-        pieces.extend(positions)
-    elif summary:
-        pieces.append("📰 " + summary)
+            side = str(entry.get("side", "")).strip().lower()
+            reaction = str(entry.get("position", "")).strip()[:500]
+            india_markers = ("🇮🇳", "india", "indian", "भारत", "भारतीय")
+            if reaction and any(marker in side for marker in india_markers):
+                # The flag is the only label; no 'related response' heading.
+                pieces.append("🇮🇳 " + escape(reaction))
+                break
 
     if analysis:
-        pieces.append("🇮🇳 भारत पर असर: " + analysis)
+        pieces.append("🇮🇳 <b>भारत पर असर:</b> " + escape(analysis))
 
-    source_key = str(getattr(story, "source", "")).strip().lower()
-    source_hosts = {
-        "aljazeera.com": "Al Jazeera",
-        "www.aljazeera.com": "Al Jazeera",
+    # Prefer a friendly publisher name, inferred from the source label or article host.
+    source_raw = str(getattr(story, "source", "Source") or "Source").strip()
+    source_key = source_raw.lower().removeprefix("www.")
+    host = (urlparse(str(getattr(story, "url", ""))).hostname or "").lower().removeprefix("www.")
+    source_names = {
         "thediplomat.com": "The Diplomat",
-        "www.thediplomat.com": "The Diplomat",
-        "bbc.com": "BBC News",
-        "www.bbc.com": "BBC News",
+        "indianexpress.com": "The Indian Express",
+        "feeds.bbci.co.uk": "BBC News",
         "bbc.co.uk": "BBC News",
-        "www.bbc.co.uk": "BBC News",
+        "bbc.com": "BBC News",
+        "aljazeera.com": "Al Jazeera",
+        "thehindu.com": "The Hindu",
+        "hindustantimes.com": "Hindustan Times",
+        "indiatoday.in": "India Today",
         "dawn.com": "Dawn",
-        "www.dawn.com": "Dawn",
-        "mea.gov.in": "MEA India",
-        "www.mea.gov.in": "MEA India",
         "pib.gov.in": "PIB India",
-        "www.pib.gov.in": "PIB India",
+        "mea.gov.in": "MEA India",
         "youtube.com": "YouTube",
-        "www.youtube.com": "YouTube",
         "youtu.be": "YouTube",
     }
-    # Existing collector source labels are usually a hostname; leave named labels untouched.
-    source_label = source_hosts.get(source_key, str(getattr(story, "source", "Source")).strip() or "Source")
-    pieces.append(f"🔗 स्रोत: {source_label}\n{story.url}")
+    label = source_names.get(source_key) or source_names.get(host)
+    if not label:
+        label = re.sub(r"\s*\(indexed fallback\)", "", source_raw, flags=re.IGNORECASE).strip()
+        label = label.removeprefix("www.") or "Source"
+    article_url = str(getattr(story, "url", "")).strip()
+    if article_url.startswith(("https://", "http://")):
+        source_line = f"🗞️ स्रोत: <a href=\"{escape(article_url, quote=True)}\">{escape(label)}</a>"
+    else:
+        source_line = "🗞️ स्रोत: " + escape(label)
+    pieces.append(source_line)
     return "\n\n".join(piece for piece in pieces if piece).strip()
 
 
@@ -229,8 +248,7 @@ def run_cycle(settings, state_store) -> dict:
             item["summary"] = summary[:1200]
             item["relevant"] = True
             item["analysis"] = str(
-                item.get("analysis") or item.get("india_impact") or item.get("impact") or
-                "इस खबर का भारत पर सीधा असर उपलब्ध जानकारी से स्पष्ट नहीं है।"
+                item.get("analysis") or item.get("india_impact") or item.get("impact") or ""
             ).strip()
 
             if not str(item.get("region", "")).strip():

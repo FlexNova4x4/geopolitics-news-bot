@@ -41,7 +41,7 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL || 'qwen/qwen3.8-27b' }}
           WEBSITE_RSS_URLS: ${{ vars.WEBSITE_RSS_URLS || 'https://thediplomat.com/feed/,https://feeds.bbci.co.uk/news/world/rss.xml,https://feeds.bbci.co.uk/news/world/asia/rss.xml,https://www.dawn.com/feeds/pakistan/,https://www.aljazeera.com/xml/rss/all.xml,https://www.mea.gov.in/press-releases.htm?dtl/rss,https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1' }}
-          YOUTUBE_CHANNEL_ID: ${{ vars.YOUTUBE_CHANNEL_ID || '' }}
+          YOUTUBE_CHANNEL_ID: ''
           CYCLE_MINUTES: "30"
           SERVICE_MINUTES: "350"
           AI_BATCH_SIZE: "4"
