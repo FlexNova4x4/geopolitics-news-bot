@@ -1,6 +1,6 @@
 # GeoPulse India + World News Bot (Hindi)
 
-A small Python bot that reads **The Diplomat, BBC Asia, Dawn Pakistan, Al Jazeera, MEA and PIB feeds** and optionally **one YouTube channel RSS feed**, filters duplicates, prepares concise Hindi posts with searchable English region/topic tags with Gemini and falls back to Groq, then sends individual posts to one Telegram group.
+A small Python bot that reads **The Diplomat, BBC Asia, Dawn Pakistan, Al Jazeera, MEA and PIB feeds** and optionally **one YouTube channel Videos section**, filters duplicates, prepares concise Hindi posts with searchable English region/topic tags with Gemini and falls back to Groq, then sends individual posts to one Telegram group.
 
 ## What it does
 
@@ -12,7 +12,7 @@ A small Python bot that reads **The Diplomat, BBC Asia, Dawn Pakistan, Al Jazeer
 - Keeps only stories published on the current calendar date in Asia/Kolkata; undated entries and previous-day stories are skipped. Oldest eligible stories are processed first, all separate Telegram posts for eligible stories, without a fixed per-cycle post cap, to drain today's backlog without flooding AI requests.
 - Includes a publication timestamp, geographic region, topic labels/hashtags, source link, and India-relevance analysis in each post.
 - Reads website RSS and only fetches article pages when the site's `robots.txt` permits it.
-- Reads YouTube channel RSS metadata (video title, description, publication time and link). It does **not** download videos or scrape transcripts; the AI is instructed not to infer video contents from a title alone.
+- Reads recent video metadata from the selected YouTube channel's /videos section (title, description snippet, publication time and link); it does not use an uploads-playlist feed. It does **not** download videos or scrape transcripts; the AI is instructed not to infer video contents from a title alone.
 - Sends every new eligible story exposed by the configured feeds; there is no fixed 6-post cap per 30-minute cycle. AI calls use small internal batches (default 4 stories/request) to manage token usage. Telegram messages are spaced 3.2 seconds apart and explicit 429 FloodWait responses are retried after Telegram's retry_after delay.
 - Makes one AI request per batch when possible, rather than one request for every story.
 - Tries Gemini first (`gemini-3.5-flash-lite`), then Groq (`qwen/qwen3.8-27b`) if the Gemini call fails. Each provider still has its own quota and model availability limits.

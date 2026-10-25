@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import calendar
 import hashlib
+import json
 import html
 import os
 import re
@@ -139,9 +140,222 @@ def _article_text(url: str) -> str:
         return ""
 
 
+
+def _get_with_retries(url: str, *, timeout: int = 25, attempts: int = 2, headers: dict | None = None):
+    """Retry transient network/read-timeout failures, but do not retry hard 403/404 responses."""
+    attempts = max(1, attempts)
+    last_exc = None
+    for attempt in range(attempts):
+        try:
+            response = HTTP.get(url, timeout=timeout, allow_redirects=True, headers=headers)
+            if response.status_code in (429, 500, 502, 503, 504) and attempt + 1 < attempts:
+                retry_after = response.headers.get("Retry-After", "")
+                try:
+                    wait_seconds = max(1, min(8, int(retry_after)))
+                except (TypeError, ValueError):
+                    wait_seconds = 2 * (attempt + 1)
+                print(f"[collector] Temporary HTTP {response.status_code} for {urlparse(url).hostname}; retrying in {wait_seconds}s.")
+                time.sleep(wait_seconds)
+                continue
+            return response
+        except (requests.Timeout, requests.ConnectionError) as exc:
+            last_exc = exc
+            if attempt + 1 >= attempts:
+                raise
+            wait_seconds = 2 * (attempt + 1)
+            print(f"[collector] Temporary network error for {urlparse(url).hostname}: {exc}; retrying in {wait_seconds}s.")
+            time.sleep(wait_seconds)
+    if last_exc:
+        raise last_exc
+    raise requests.RequestException(f"Could not fetch {url}")
+
+
+def _yt_text(value) -> str:
+    """Extract readable text from YouTube's small text/run objects."""
+    if isinstance(value, str):
+        return value.strip()
+    if isinstance(value, dict):
+        if isinstance(value.get("simpleText"), str):
+            return value["simpleText"].strip()
+        runs = value.get("runs")
+        if isinstance(runs, list):
+            return "".join(str(run.get("text", "")) for run in runs if isinstance(run, dict)).strip()
+    return ""
+
+
+def _balanced_json_object(text: str, from_index: int) -> dict | None:
+    """Read one balanced JSON object starting at/after from_index, respecting quoted braces."""
+    start = text.find("{", from_index)
+    if start < 0:
+        return None
+    depth = 0
+    in_string = False
+    escaped = False
+    for index in range(start, len(text)):
+        char = text[index]
+        if in_string:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == '"':
+                in_string = False
+            continue
+        if char == '"':
+            in_string = True
+        elif char == "{":
+            depth += 1
+        elif char == "}":
+            depth -= 1
+            if depth == 0:
+                try:
+                    obj = json.loads(text[start:index + 1])
+                    return obj if isinstance(obj, dict) else None
+                except (ValueError, TypeError):
+                    return None
+    return None
+
+
+def _extract_yt_initial_data(page_html: str) -> dict | None:
+    """Extract ytInitialData without requiring an API key or video playlist feed."""
+    markers = (
+        "ytInitialData =",
+        'window["ytInitialData"] =',
+        "window['ytInitialData'] =",
+        '"ytInitialData":',
+    )
+    for marker in markers:
+        pos = page_html.find(marker)
+        if pos >= 0:
+            data = _balanced_json_object(page_html, pos + len(marker))
+            if data is not None:
+                return data
+    return None
+
+
+def _walk_youtube_videos(node):
+    """Yield video-card-shaped dictionaries anywhere inside YouTube's page data."""
+    if isinstance(node, dict):
+        title = node.get("title")
+        if node.get("videoId") and isinstance(title, (dict, str)) and node.get("publishedTimeText"):
+            yield node
+        for value in node.values():
+            yield from _walk_youtube_videos(value)
+    elif isinstance(node, list):
+        for value in node:
+            yield from _walk_youtube_videos(value)
+
+
+def _yt_published_ts(label: str, now_ts: float) -> float:
+    """Convert YouTube's English relative upload label to an approximate epoch timestamp."""
+    value = re.sub(r"\s+", " ", (label or "").strip()).lower()
+    match = re.search(r"(?:(?:streamed|premiered|published|uploaded)\s+)?(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago", value)
+    if match:
+        count = int(match.group(1))
+        unit = match.group(2)
+        seconds = {
+            "second": 1, "minute": 60, "hour": 3600, "day": 86400,
+            "week": 7 * 86400, "month": 30 * 86400, "year": 365 * 86400,
+        }[unit] * count
+        # YouTube rounds relative day/week labels. Add half a unit to avoid falsely treating
+        # a video labelled "1 day ago" as definitely published today.
+        if unit == "day":
+            seconds += 12 * 3600
+        elif unit == "week":
+            seconds += 3.5 * 86400
+        elif unit == "month":
+            seconds += 15 * 86400
+        elif unit == "year":
+            seconds += 182 * 86400
+        return now_ts - seconds
+
+    for fmt in ("%b %d, %Y", "%B %d, %Y", "%b %d", "%B %d"):
+        try:
+            parsed = datetime.strptime(value, fmt)
+            if "%Y" not in fmt:
+                parsed = parsed.replace(year=datetime.now(ZoneInfo("Asia/Kolkata")).year)
+            parsed = parsed.replace(tzinfo=ZoneInfo("Asia/Kolkata"))
+            timestamp = parsed.timestamp()
+            if timestamp > now_ts + 12 * 3600:
+                parsed = parsed.replace(year=parsed.year - 1)
+                timestamp = parsed.timestamp()
+            return timestamp
+        except ValueError:
+            continue
+    return 0.0
+
+
+def _parse_youtube_videos_section(channel_id: str, max_age_hours: int) -> list[Story]:
+    """Read recent uploads from the channel's actual /videos section (not its uploads playlist)."""
+    channel_id = (channel_id or "").strip()
+    if not channel_id.startswith("UC"):
+        print("[collector] YOUTUBE_CHANNEL_ID must be a channel ID starting with UC; skipping YouTube.")
+        return []
+
+    urls = [
+        f"https://www.youtube.com/channel/{channel_id}/videos?hl=en&gl=US",
+        f"https://m.youtube.com/channel/{channel_id}/videos?hl=en&gl=US",
+    ]
+    page_data = None
+    last_error = None
+    browser_headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    for page_url in urls:
+        try:
+            response = _get_with_retries(page_url, timeout=25, attempts=2, headers=browser_headers)
+            response.raise_for_status()
+            page_data = _extract_yt_initial_data(response.text)
+            if page_data:
+                break
+            last_error = "YouTube page loaded, but ytInitialData was not found"
+        except requests.RequestException as exc:
+            last_error = str(exc)
+            print(f"[collector] YouTube Videos section request failed for {urlparse(page_url).hostname}: {exc}")
+
+    if not page_data:
+        print(f"[collector] YouTube Videos section could not be parsed; no YouTube items this cycle. {last_error or ''}")
+        return []
+
+    now = time.time()
+    today_start_ts = _today_start_ts()
+    stories: list[Story] = []
+    seen_ids: set[str] = set()
+    cards_seen = 0
+    for card in _walk_youtube_videos(page_data):
+        video_id = str(card.get("videoId", "")).strip()
+        if not video_id or video_id in seen_ids:
+            continue
+        seen_ids.add(video_id)
+        cards_seen += 1
+        title = clean_html(_yt_text(card.get("title")))
+        if not title:
+            continue
+        published_label = _yt_text(card.get("publishedTimeText"))
+        published_ts = _yt_published_ts(published_label, now)
+        if published_ts <= 0 or published_ts < today_start_ts:
+            continue
+        if published_ts > now + 15 * 60 or now - published_ts > max_age_hours * 3600:
+            continue
+        description = clean_html(_yt_text(card.get("descriptionSnippet")))[:2500]
+        published_at = datetime.fromtimestamp(published_ts, timezone.utc).isoformat()
+        url = f"https://www.youtube.com/watch?v={video_id}"
+        key = story_key(url, title)
+        content = description or title
+        stories.append(Story(
+            key, "YouTube", title, url, published_at, published_ts,
+            description, content, [],
+        ))
+
+    print(f"[collector] YouTube Videos section cards={cards_seen}; eligible_today={len(stories)}.")
+    return sorted(stories, key=lambda story: story.published_ts)
+
+
 def _parse_feed(url: str, source: str, max_age_hours: int) -> list[Story]:
     try:
-        response = HTTP.get(url, timeout=15, allow_redirects=True)
+        response = _get_with_retries(url, timeout=25, attempts=2)
         response.raise_for_status()
         parsed = feedparser.parse(response.content)
     except Exception as exc:
@@ -223,21 +437,8 @@ def collect_sources(website_rss_urls: list[str] | str, youtube_channel_id: str, 
         all_stories.extend(_parse_feed(feed_url, _source_label(feed_url), max_age_hours))
 
     if youtube_channel_id:
-        channel_id = youtube_channel_id.strip()
-        if channel_id.startswith("UC"):
-            # The standard public feed uses /feeds/videos.xml. Some YouTube edges intermittently
-            # return 404 for channel_id feeds, so also try the channel's uploads playlist (UU + UC suffix).
-            yt_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-            yt_stories = _parse_feed(yt_url, "YouTube", max_age_hours)
-            if not yt_stories:
-                uploads_playlist_id = "UU" + channel_id[2:]
-                uploads_url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={uploads_playlist_id}"
-                print("[collector] YouTube channel feed returned no eligible items; trying uploads-playlist feed.")
-                yt_stories = _parse_feed(uploads_url, "YouTube", max_age_hours)
-            all_stories.extend(yt_stories)
-        else:
-            print("[collector] YOUTUBE_CHANNEL_ID must be the channel ID (normally starts with UC). Skipping YouTube for this cycle.")
-
+        # User requested the channel's Videos section, not an uploads-playlist feed.
+        all_stories.extend(_parse_youtube_videos_section(youtube_channel_id, max_age_hours))
     # Dedupe within this collection by normalized URL/key.
     unique: dict[str, Story] = {}
     for story in all_stories:
