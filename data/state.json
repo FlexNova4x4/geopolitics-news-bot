@@ -21,9 +21,10 @@
     "0971dcf6e1af4a89ad881632": {
       "published_at": "2026-10-25T01:19:51+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10053,
       "title": "Gilani assures KP governor of federal support",
-      "updated_at": "2026-10-25T04:05:58.932542+00:00",
+      "updated_at": "2026-10-25T04:06:01.387616+00:00",
       "url": "https://www.dawn.com/news/2039583/gilani-assures-kp-governor-of-federal-support"
     },
     "0b7a7abdb90c68a961048592": {
@@ -213,9 +214,10 @@
     "687296e4991a5dbdcde2de7c": {
       "published_at": "2026-10-25T03:37:39+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10056,
       "title": "Death toll from collision between passenger coach and minibus near Balochistan's Uthal rises to 15",
-      "updated_at": "2026-10-25T04:05:58.932562+00:00",
+      "updated_at": "2026-10-25T04:06:13.654815+00:00",
       "url": "https://www.dawn.com/news/2039684/death-toll-from-collision-between-passenger-coach-and-minibus-near-balochistans-uthal-rises-to-15"
     },
     "69ed75e6ee354f52f12f4df9": {
@@ -264,9 +266,10 @@
     "7a1d120985829e41204a3378": {
       "published_at": "2026-10-25T03:34:02+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10055,
       "title": "Tribute paid to polio workers in Quetta",
-      "updated_at": "2026-10-25T04:05:58.932559+00:00",
+      "updated_at": "2026-10-25T04:06:09.564448+00:00",
       "url": "https://www.dawn.com/news/2039582/tribute-paid-to-polio-workers-in-quetta"
     },
     "80d1513b974e9b68ccf0d9bb": {
@@ -307,9 +310,10 @@
     "982fd09da3a2325f2e1358d8": {
       "published_at": "2026-10-25T01:19:51+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10054,
       "title": "Nasirabad pylon blast cuts power to many areas",
-      "updated_at": "2026-10-25T04:05:58.932556+00:00",
+      "updated_at": "2026-10-25T04:06:05.451448+00:00",
       "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
@@ -482,6 +486,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T04:05:58.932884+00:00",
+  "last_cycle_at": "2026-10-25T04:06:16.855486+00:00",
   "schema_version": 1
 }
