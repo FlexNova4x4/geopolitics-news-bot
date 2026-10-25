@@ -1142,6 +1142,14 @@
       "updated_at": "2026-10-24T22:37:02.974901+00:00",
       "url": "https://thediplomat.com/2026/10/the-china-taiwan-diplomatic-war-is-more-about-politics-than-economics"
     },
+    "9ed30e3fe86a375981601659": {
+      "published_at": "2026-10-25T07:59:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+      "updated_at": "2026-10-25T08:34:28.665476+00:00",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss"
+    },
     "9f6220e20379b9fa65b9674b": {
       "published_at": "2026-10-23T18:05:00+00:00",
       "source": "Website",
@@ -1355,6 +1363,14 @@
       "updated_at": "2026-10-24T23:59:03.924944+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
     },
+    "bbed6beff87d9f198237576b": {
+      "published_at": "2026-10-25T08:02:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Heartfelt thanks to BJP for 'promoting' INDIA bloc rally with great enthusiasm: Rahul",
+      "updated_at": "2026-10-25T08:34:28.665496+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/rahul-gandhi-sarcastically-thanks-bjp-for-promoting-india-bloc-rally/article71622818.ece"
+    },
     "bc6503a3962451308c79a4dd": {
       "published_at": "2026-10-25T03:27:57+00:00",
       "source": "dawn.com",
@@ -1443,6 +1459,14 @@
       "title": "Police hold flag march in Narasaraopet ahead of local body polls",
       "updated_at": "2026-10-25T06:07:01.384982+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-hold-flag-march-in-narasaraopet-ahead-of-local-body-polls/article71619593.ece"
+    },
+    "c6a4355dfb323edba7a66c63": {
+      "published_at": "2026-10-25T08:02:49+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Political art’ not the problem, politics behind it is’: Pawan Khera accuses Bikaner House of censorship",
+      "updated_at": "2026-10-25T08:34:28.665498+00:00",
+      "url": "https://www.hindustantimes.com/india-news/political-art-not-the-problem-politics-behind-it-is-pawan-khera-accuses-bikaner-house-of-censorship-101792913718569.html"
     },
     "cb69f01837fe6e170f43fe8b": {
       "published_at": "2026-10-25T06:50:54+00:00",
@@ -1631,6 +1655,14 @@
       "updated_at": "2026-10-25T05:05:36.678286+00:00",
       "url": "https://www.dawn.com/news/2039659/factors-behind-pakistans-push-for-joint-production-in-defence-pacts"
     },
+    "f41bb9d90381ef81b56f0ae5": {
+      "published_at": "2026-10-25T08:00:33+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Kerala BJP chief urges equal respect for faiths amid cafe video row, accuses CM Satheesan of ‘selective secularism’",
+      "updated_at": "2026-10-25T08:34:28.665493+00:00",
+      "url": "https://www.hindustantimes.com/india-news/kerala-bjp-chief-urges-equal-respect-for-faiths-amid-cafe-video-row-accuses-cm-satheesan-of-selective-secularism-101792912926527.html"
+    },
     "f719c2e59baa960efe4b3af5": {
       "published_at": "2026-10-24T07:53:40+00:00",
       "source": "YouTube",
@@ -1764,6 +1796,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:05:36.673020+00:00",
+  "last_cycle_at": "2026-10-25T08:34:28.665739+00:00",
   "schema_version": 1
 }
