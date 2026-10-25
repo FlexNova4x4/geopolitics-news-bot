@@ -45,6 +45,14 @@
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
     },
+    "0eabb853ee40d8249aec4ccd": {
+      "published_at": "2026-10-24T19:18:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Heavy rain to hit Chennai, northern, delta and western districts on Sunday",
+      "updated_at": "2026-10-25T05:36:37.403846+00:00",
+      "url": "https://www.thehindu.com/news/cities/chennai/heavy-rain-to-hit-chennai-northern-delta-and-western-districts-on-sunday/article71620782.ece"
+    },
     "106d7357b4775c08523ac5fe": {
       "published_at": "2026-10-25T03:47:56+00:00",
       "source": "aljazeera.com",
@@ -141,6 +149,14 @@
       "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
       "updated_at": "2026-10-24T23:59:52.150385+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
+    },
+    "390b335947f0cfae8304a891": {
+      "published_at": "2026-10-24T19:15:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "BRS hits back at govt., terms as lies claims on energy, water for irrigation",
+      "updated_at": "2026-10-25T05:36:37.403842+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/brs-hits-back-at-govt-terms-as-lies-claims-on-energy-water-for-irrigation/article71620843.ece"
     },
     "3a1848b68d0a30ff13abf2c0": {
       "published_at": "2026-10-25T03:40:52+00:00",
@@ -255,6 +271,14 @@
       "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
       "updated_at": "2026-10-25T00:19:16.212300+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
+    },
+    "61b95814bd7b1e80b16ea8b4": {
+      "published_at": "2026-10-24T19:20:27+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Missing KRIDL engineer traced to Mumbai after 40 days",
+      "updated_at": "2026-10-25T05:36:37.403849+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/missing-kridl-engineer-traced-to-mumbai-after-40-days/article71621056.ece"
     },
     "6256f5fe4e7f2e3850af8799": {
       "published_at": "2026-10-25T04:43:16+00:00",
@@ -491,6 +515,14 @@
       "updated_at": "2026-10-24T23:59:19.369179+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss"
     },
+    "b6afaa754d9dc95c5397ceae": {
+      "published_at": "2026-10-24T19:13:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Albanian police fire tear gas as anti-government student protests turn violent",
+      "updated_at": "2026-10-25T05:36:37.403828+00:00",
+      "url": "https://www.thehindu.com/news/international/albanian-police-fire-tear-gas-as-anti-government-student-protests-turn-violent/article71621342.ece"
+    },
     "b6c7003a5a2c3ea73103dc55": {
       "published_at": "2026-10-25T00:23:48+00:00",
       "source": "aljazeera.com",
@@ -657,6 +689,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:36:32.298420+00:00",
+  "last_cycle_at": "2026-10-25T05:36:37.403965+00:00",
   "schema_version": 1
 }
