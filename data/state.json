@@ -288,6 +288,14 @@
       "updated_at": "2026-10-25T16:12:42.649444+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/bel-to-invest-2500-crore-in-defence-ecosystem-in-sri-sathya-sai-district/article71623910.ece"
     },
+    "10d910d36071580bc6cff249": {
+      "published_at": "2026-10-25T17:21:17+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "FIR filed against 2 Congress MPs for 'trespass' as Jamia university protest over student union demand continues",
+      "updated_at": "2026-10-25T18:13:32.447825+00:00",
+      "url": "https://www.hindustantimes.com/india-news/jamia-protest-over-student-union-demand-continues-delhi-police-files-fir-against-congress-mps-for-trespass-101792943042655.html"
+    },
     "11518b6023a3677f9818ff72": {
       "published_at": "2026-10-25T00:48:33+00:00",
       "source": "thehindu.com",
@@ -2215,6 +2223,14 @@
       "updated_at": "2026-10-25T02:35:39.263045+00:00",
       "url": "https://www.dawn.com/news/2039608/dar-orders-urgent-action-to-rein-in-rising-wheat-prices"
     },
+    "88511649eed7544cb44ff0ac": {
+      "published_at": "2026-10-25T17:21:00+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Industrialist R Veeramani booked in eighth POCSO case: Police",
+      "updated_at": "2026-10-25T18:13:32.447821+00:00",
+      "url": "https://www.hindustantimes.com/india-news/industrialist-r-veeramani-booked-in-eighth-pocso-case-police-101792947384121.html"
+    },
     "886f6517ac2c914003485cf8": {
       "published_at": "2026-10-24T18:47:06+00:00",
       "source": "thehindu.com",
@@ -2394,6 +2410,14 @@
       "title": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
       "updated_at": "2026-10-25T17:12:33.032718+00:00",
       "url": "https://www.thehindu.com/news/international/netanyahu-warns-iran-may-try-to-disrupt-israel-election-says-dont-test-us/article71624345.ece"
+    },
+    "98b8181f1c8983c4307a0247": {
+      "published_at": "2026-10-25T17:18:59+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Venezuela's Opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+      "updated_at": "2026-10-25T18:13:32.447815+00:00",
+      "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece"
     },
     "99bfc25711806d69e3e77bce": {
       "published_at": "2026-10-25T16:40:19+00:00",
@@ -3791,6 +3815,14 @@
       "updated_at": "2026-10-25T17:12:40.887455+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-affected-by-rising-road-levels-demand-action/article71622979.ece"
     },
+    "f5ac949b61ab526bee0feccd": {
+      "published_at": "2026-10-25T17:13:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court clarifies scope of police custody under BNSS",
+      "updated_at": "2026-10-25T18:13:32.447795+00:00",
+      "url": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece"
+    },
     "f603ab89ebe7bf49606dc2ed": {
       "published_at": "2026-10-25T14:44:48+00:00",
       "source": "thehindu.com",
@@ -4041,6 +4073,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:13:22.065770+00:00",
+  "last_cycle_at": "2026-10-25T18:13:32.448357+00:00",
   "schema_version": 1
 }
