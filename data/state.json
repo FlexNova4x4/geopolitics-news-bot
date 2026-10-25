@@ -182,9 +182,10 @@
     "27503d917e5b5fbcc9257584": {
       "published_at": "2026-10-25T04:06:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10118,
       "title": "Feral dogs ‘a major threat’ to vultures in Thar desert, study finds",
-      "updated_at": "2026-10-25T05:40:18.464036+00:00",
+      "updated_at": "2026-10-25T05:40:28.240726+00:00",
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece"
     },
     "276c9169e9e25c837bd41331": {
@@ -342,9 +343,10 @@
     "48dbfdd4de2907130813dd72": {
       "published_at": "2026-10-25T04:06:16+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10119,
       "title": "Anti-CEC protest LIVE: INDIA bloc to hold CEC's ‘public impeachment’ on Oct 30, ‘Dilli Chalo' march on Nov 1",
-      "updated_at": "2026-10-25T05:40:18.464039+00:00",
+      "updated_at": "2026-10-25T05:40:32.624763+00:00",
       "url": "https://www.hindustantimes.com/india-news/anti-cec-delhi-protest-live-updates-amit-shah-cjp-dipke-ranka-saurav-das-congress-rahul-gandhi-gyanesh-kumar-sir-eci-row-101792898066204.html"
     },
     "4a067e46333580ef31d07718": {
@@ -377,9 +379,10 @@
     "5371b78848329d56511c19ce": {
       "published_at": "2026-10-25T03:58:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10117,
       "title": "Soldiers guard centre of Milan as thousands of protesters march in cities across Europe",
-      "updated_at": "2026-10-25T05:40:18.464033+00:00",
+      "updated_at": "2026-10-25T05:40:24.346608+00:00",
       "url": "https://www.thehindu.com/news/international/thousands-of-european-protests-erupt-from-milan-to-madrid/article71622515.ece"
     },
     "550da544b03b04299d531968": {
@@ -842,9 +845,10 @@
     "bcdfd6c58704059a4d0da0a9": {
       "published_at": "2026-10-25T03:56:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10116,
       "title": "Israel to close all land crossings with West Bank on election day",
-      "updated_at": "2026-10-25T05:40:18.464018+00:00",
+      "updated_at": "2026-10-25T05:40:20.460971+00:00",
       "url": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece"
     },
     "c0a0ccf8c248421b74d84a78": {
@@ -1049,6 +1053,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:40:18.464280+00:00",
+  "last_cycle_at": "2026-10-25T05:40:35.825611+00:00",
   "schema_version": 1
 }
