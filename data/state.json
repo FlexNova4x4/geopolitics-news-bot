@@ -99,6 +99,14 @@
       "updated_at": "2026-10-25T05:38:07.742558+00:00",
       "url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece"
     },
+    "13c516bafc4edcdc379088bc": {
+      "published_at": "2026-10-25T04:15:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "News in frames: Kutch’s dwindling camel population",
+      "updated_at": "2026-10-25T05:40:40.424088+00:00",
+      "url": "https://www.thehindu.com/news/national/gujarat/news-in-frames-kutchs-dwindling-camel-population/article71622558.ece"
+    },
     "1465f4d8bc4c6500e418081c": {
       "published_at": "2026-10-24T19:08:26+00:00",
       "source": "thehindu.com",
@@ -507,6 +515,14 @@
       "updated_at": "2026-10-24T23:59:10.577038+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
     },
+    "7132157c130931055a1a4ad2": {
+      "published_at": "2026-10-25T04:18:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Musk accuses Ukraine of violating Starlink's terms of service",
+      "updated_at": "2026-10-25T05:40:40.424091+00:00",
+      "url": "https://www.thehindu.com/news/international/musk-accuses-ukraine-of-violating-starlink-terms-by-using-it-for-offensive-drone-strikes/article71622539.ece"
+    },
     "75158c1834e1c18ed588fa82": {
       "published_at": "2026-10-24T20:37:02+00:00",
       "source": "aljazeera.com",
@@ -771,6 +787,14 @@
       "updated_at": "2026-10-25T05:39:12.335310+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
     },
+    "a9fc2dd191984b3d6a7c9816": {
+      "published_at": "2026-10-25T04:18:38+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "UP Congress alleges voter discrepancies were being corrected through Form-8",
+      "updated_at": "2026-10-25T05:40:40.424094+00:00",
+      "url": "https://www.hindustantimes.com/india-news/up-congress-alleges-voter-discrepancies-were-being-corrected-through-form8-101792899110349.html"
+    },
     "ab32eb13a859b69f063f9d9a": {
       "published_at": "2026-10-24T20:41:06+00:00",
       "source": "thehindu.com",
@@ -929,6 +953,14 @@
       "updated_at": "2026-10-24T22:36:56.620537+00:00",
       "url": "https://www.youtube.com/watch?v=AaCjss6WHw8"
     },
+    "e636add91535f9ff2712dc4e": {
+      "published_at": "2026-10-25T04:13:22+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Amit Shah hails ‘another lethal blow’ as Operation Trident strikes drug cartels across Assam, Manipur, Mizoram",
+      "updated_at": "2026-10-25T05:40:40.424073+00:00",
+      "url": "https://www.hindustantimes.com/india-news/amit-shah-hails-another-lethal-blow-as-operation-trident-strikes-drug-cartels-across-assam-manipur-mizoram-101792900242489.html"
+    },
     "e749d6eb84069fcff952587f": {
       "published_at": "2026-10-25T03:29:32+00:00",
       "source": "hindustantimes.com",
@@ -1053,6 +1085,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:40:35.825611+00:00",
+  "last_cycle_at": "2026-10-25T05:40:40.424282+00:00",
   "schema_version": 1
 }
