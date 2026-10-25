@@ -336,9 +336,10 @@
     "20da4af74ca59b81bc2bd93f": {
       "published_at": "2026-10-25T11:09:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10260,
       "title": "MCC renews push for ‘flex-free’ city beyond Dasara",
-      "updated_at": "2026-10-25T11:34:44.468325+00:00",
+      "updated_at": "2026-10-25T11:34:50.447400+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/mcc-renews-push-for-flex-free-city-beyond-dasara/article71623051.ece"
     },
     "21ab0ac81916b29cdb5a7452": {
@@ -675,9 +676,10 @@
     "465ed40cfd3b0af7cd8f17a9": {
       "published_at": "2026-10-25T10:50:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10259,
       "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-      "updated_at": "2026-10-25T11:34:44.468307+00:00",
+      "updated_at": "2026-10-25T11:34:46.583810+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
     },
     "476fcdd51b26ff98975ea435": {
@@ -870,9 +872,10 @@
     "5c2d244e8a615ca8f4db9e35": {
       "published_at": "2026-10-25T11:12:50+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10261,
       "title": "Schools shut, officials' leaves cancelled: Odisha steps up preparedness as severe cyclonic storm nears Andhra coast",
-      "updated_at": "2026-10-25T11:34:44.468328+00:00",
+      "updated_at": "2026-10-25T11:34:54.299967+00:00",
       "url": "https://www.hindustantimes.com/india-news/odisha-schools-offices-severe-cyclonic-storm-bay-of-bengal-andhra-coast-tamil-nadu-rainfall-imd-alert-101792920225200.html"
     },
     "5c4349ed93fa8b75fd8fbee4": {
@@ -2312,12 +2315,13 @@
     "ffd1e83ff40598d74f8dab76": {
       "published_at": "2026-10-25T11:15:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10262,
       "title": "Rajasthan gram panchayat polls: second phase held amid reports of minor clashes, protests",
-      "updated_at": "2026-10-25T11:34:44.468330+00:00",
+      "updated_at": "2026-10-25T11:34:58.340844+00:00",
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T11:34:44.468605+00:00",
+  "last_cycle_at": "2026-10-25T11:35:01.541700+00:00",
   "schema_version": 1
 }
