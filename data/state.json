@@ -9,6 +9,14 @@
       "updated_at": "2026-10-25T05:39:48.980594+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-25-ec-keeps-sir-software-under-wraps-pistols-used-in-shroff-firing-found-101792898097293.html"
     },
+    "02311d6adcf0eed7be9b2f25": {
+      "published_at": "2026-10-25T06:02:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "At least 12 injured in shooting near football stadium in Florida",
+      "updated_at": "2026-10-25T06:35:06.752406+00:00",
+      "url": "https://www.thehindu.com/news/international/florida-campus-university-shooting-many-injured/article71622656.ece"
+    },
     "04b0f0953fbbaa43cc19de9e": {
       "published_at": "2026-10-24T19:33:00+00:00",
       "source": "rss.dw.com",
@@ -296,6 +304,14 @@
       "updated_at": "2026-10-25T05:35:55.640634+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece"
     },
+    "2ec8d553ad3ddd29d40fa1ab": {
+      "published_at": "2026-10-25T06:10:02+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘JD(U) is finished’: Expelled MLA Anant Singh says party will be reduced to 10-12 seats, hints at own outfit",
+      "updated_at": "2026-10-25T06:35:06.752412+00:00",
+      "url": "https://www.hindustantimes.com/india-news/expelled-bihar-mla-anant-singh-jdu-nitish-kumar-mokama-news-101792908331081.html"
+    },
     "2f2eb773feba18c62bfa3653": {
       "published_at": "2026-10-25T02:00:10+00:00",
       "source": "hindustantimes.com",
@@ -535,6 +551,14 @@
       "title": "Rubio’s Unusual Visit to India Marks a Paradigm Shift in India-US Ties",
       "updated_at": "2026-10-24T22:52:56.309431+00:00",
       "url": "https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties"
+    },
+    "5ff5a5b34653f3e2b8a06cf4": {
+      "published_at": "2026-10-25T06:08:16+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rahul Gandhi calls for ‘Chalo Dilli’ march at Delhi's Ramlila Maidan against CEC on November 1",
+      "updated_at": "2026-10-25T06:35:06.752409+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-calls-for-chalo-dilli-march-at-delhis-ramlila-maidan-against-cec-on-november-1-101792905969083.html"
     },
     "605943d1806b7d3baa4680a1": {
       "published_at": "2026-10-24T22:35:45+00:00",
@@ -969,6 +993,14 @@
       "updated_at": "2026-10-25T05:40:54.012202+00:00",
       "url": "https://www.hindustantimes.com/india-news/up-congress-alleges-voter-discrepancies-were-being-corrected-through-form8-101792899110349.html"
     },
+    "aaa731da7deaa2d7e7c4bc0c": {
+      "published_at": "2026-10-25T05:45:31+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "updated_at": "2026-10-25T06:35:06.752387+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+    },
     "ab32eb13a859b69f063f9d9a": {
       "published_at": "2026-10-24T20:41:06+00:00",
       "source": "thehindu.com",
@@ -1359,6 +1391,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T06:35:00.384186+00:00",
+  "last_cycle_at": "2026-10-25T06:35:06.752581+00:00",
   "schema_version": 1
 }
