@@ -844,6 +844,14 @@
       "updated_at": "2026-10-24T22:52:54.734274+00:00",
       "url": "https://thediplomat.com/2026/10/tenpaygo-and-chinas-digital-opening-to-foreigners"
     },
+    "33585be33769eee345ccbe20": {
+      "published_at": "2026-10-25T16:59:41+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "BJP to hold nationwide protest on October 26 against Kharge’s ‘baap’ remark for Modi",
+      "updated_at": "2026-10-25T17:13:28.624034+00:00",
+      "url": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece"
+    },
     "336d07ff0bf8ed86ad2c2f7a": {
       "published_at": "2026-10-25T12:38:54+00:00",
       "source": "aljazeera.com",
@@ -1740,6 +1748,14 @@
       "updated_at": "2026-10-25T15:11:43.304014+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjp-questions-kerala-cm-s-selective-secularism-over-beef-jinnah-statue-at-fort-kochi-kashi-art-cafe-101792929690760.html"
     },
+    "6f5c613f97a5bb03195b3cde": {
+      "published_at": "2026-10-25T16:57:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israeli air strikes kill several across Gaza Strip: local authorities",
+      "updated_at": "2026-10-25T17:13:28.624028+00:00",
+      "url": "https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece"
+    },
     "6fe185b26c7b94045b10f1f1": {
       "published_at": "2026-10-25T12:40:20+00:00",
       "source": "aljazeera.com",
@@ -2124,6 +2140,14 @@
       "title": "Congress assure advocates of support on welfare issues, seeks support for party candidates in Graduate MLC polls",
       "updated_at": "2026-10-25T15:13:14.542313+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/congress-assure-advocates-of-support-on-welfare-issues-seeks-support-for-party-candidates-in-graduate-mlc-polls/article71619990.ece"
+    },
+    "8603cfb6169861cbd8e90fd5": {
+      "published_at": "2026-10-25T16:55:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Beyond national interest: role of ethics and emotions in world politics",
+      "updated_at": "2026-10-25T17:13:28.624013+00:00",
+      "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece"
     },
     "8805445d4dc8a6f6155ccd33": {
       "published_at": "2026-10-25T02:22:19+00:00",
@@ -3279,6 +3303,14 @@
       "updated_at": "2026-10-25T16:13:53.576765+00:00",
       "url": "https://www.hindustantimes.com/india-news/president-droupadi-murmu-gives-assent-to-frontier-nagaland-territorial-authority-bill-101792939051918.html"
     },
+    "d99ef7cea7a042be87b4e78a": {
+      "published_at": "2026-10-25T16:58:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "JSP leader Swaroopa Rani’s nominations for two ZPTC seats rejected",
+      "updated_at": "2026-10-25T17:13:28.624032+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-leader-swaroopa-ranis-nominations-for-two-zptc-seats-rejected/article71623841.ece"
+    },
     "dab6a6339517cfec1da101e4": {
       "published_at": "2026-10-25T09:43:06+00:00",
       "source": "thehindu.com",
@@ -3933,6 +3965,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T17:13:23.498231+00:00",
+  "last_cycle_at": "2026-10-25T17:13:28.624659+00:00",
   "schema_version": 1
 }
