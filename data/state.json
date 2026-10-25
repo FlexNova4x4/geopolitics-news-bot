@@ -489,9 +489,10 @@
     "23a6b1a9ced838532696dc10": {
       "published_at": "2026-10-25T15:08:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10387,
       "title": "BIE says 3,241 junior colleges granted admission permissions across Telangana",
-      "updated_at": "2026-10-25T16:14:01.638768+00:00",
+      "updated_at": "2026-10-25T16:14:04.187977+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/bie-says-3241-junior-colleges-granted-admission-permissions-across-telangana/article71623819.ece"
     },
     "26315826209faa6b9171dad7": {
@@ -1956,9 +1957,10 @@
     "923648d1ea2d5228546a08a2": {
       "published_at": "2026-10-25T15:11:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10388,
       "title": "Deputy Chief Minister says Shivakumar may have been consulted on PAC formation",
-      "updated_at": "2026-10-25T16:14:01.638782+00:00",
+      "updated_at": "2026-10-25T16:14:08.169917+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/deputy-chief-minister-says-shivakumar-may-have-been-consulted-on-pac-formation/article71623888.ece"
     },
     "9374b36218aa40d4d311bff3": {
@@ -2956,9 +2958,10 @@
     "ded49d8a606617bc47708a00": {
       "published_at": "2026-10-25T15:13:23+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10389,
       "title": "'Manipur cannot achieve lasting peace as long as a gun culture exists,' says CM Khemchand",
-      "updated_at": "2026-10-25T16:14:01.638786+00:00",
+      "updated_at": "2026-10-25T16:14:12.177411+00:00",
       "url": "https://www.hindustantimes.com/india-news/manipur-cannot-achieve-lasting-peace-as-long-as-a-gun-culture-exists-says-cm-khemchand-101792939128381.html"
     },
     "df0599f31410b2f5951a384e": {
@@ -3098,9 +3101,10 @@
     "eaffa8c895b53cbead099202": {
       "published_at": "2026-10-25T15:15:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10390,
       "title": "IGP, SP visit polling centres, strong room in Eluru",
-      "updated_at": "2026-10-25T16:14:01.638790+00:00",
+      "updated_at": "2026-10-25T16:14:16.372882+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/igp-sp-visit-polling-centres-strong-room-in-eluru/article71623780.ece"
     },
     "eb486ba09741805407207e33": {
@@ -3452,6 +3456,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:14:01.639573+00:00",
+  "last_cycle_at": "2026-10-25T16:14:19.573861+00:00",
   "schema_version": 1
 }
