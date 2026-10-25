@@ -720,9 +720,10 @@
     "55b61fdfa8f065b445e71ae5": {
       "published_at": "2026-10-25T08:54:47+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10218,
       "title": "Indigenous communities worry Brazil’s election could hurt environment",
-      "updated_at": "2026-10-25T09:34:33.682418+00:00",
+      "updated_at": "2026-10-25T09:34:36.348069+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss"
     },
     "596344f7ed56b23cef4c3a08": {
@@ -914,9 +915,10 @@
     "72409e7b4cb4479b8e842e1e": {
       "published_at": "2026-10-25T09:16:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10221,
       "title": "Pakistan reopens Iran border crossing after week-long suspension of trade",
-      "updated_at": "2026-10-25T09:34:33.682441+00:00",
+      "updated_at": "2026-10-25T09:34:48.001871+00:00",
       "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece"
     },
     "75158c1834e1c18ed588fa82": {
@@ -1357,9 +1359,10 @@
     "aa094f75c9fa174f89ce8c1a": {
       "published_at": "2026-10-25T09:00:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10219,
       "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
-      "updated_at": "2026-10-25T09:34:33.682436+00:00",
+      "updated_at": "2026-10-25T09:34:40.262891+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss"
     },
     "aaa731da7deaa2d7e7c4bc0c": {
@@ -1757,9 +1760,10 @@
     "ebabd24cd98299557972ea38": {
       "published_at": "2026-10-25T09:14:07+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10220,
       "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
-      "updated_at": "2026-10-25T09:34:33.682439+00:00",
+      "updated_at": "2026-10-25T09:34:44.140369+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss"
     },
     "ebe36ea7d3528c57697ce421": {
@@ -1958,6 +1962,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:34:33.682740+00:00",
+  "last_cycle_at": "2026-10-25T09:34:51.202708+00:00",
   "schema_version": 1
 }
