@@ -111,9 +111,10 @@
     "13abbcd26b7030c95fa14e2a": {
       "published_at": "2026-10-25T05:16:44+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10131,
       "title": "Indo-Pacific developments call for vigilance, India ready to protect interests: IAF chief AP Singh",
-      "updated_at": "2026-10-25T05:41:23.056380+00:00",
+      "updated_at": "2026-10-25T05:41:36.701262+00:00",
       "url": "https://www.hindustantimes.com/india-news/indopacific-developments-call-for-vigilance-india-ready-to-protect-interests-indian-air-force-chief-ap-singh-china-news-101792905163054.html"
     },
     "13c516bafc4edcdc379088bc": {
@@ -378,9 +379,10 @@
     "4895796a9ca1376d31bc4eef": {
       "published_at": "2026-10-25T04:52:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10128,
       "title": "Foot marches held across district ahead of elections",
-      "updated_at": "2026-10-25T05:41:23.056357+00:00",
+      "updated_at": "2026-10-25T05:41:25.001668+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-foot-marches-in-sensitive-areas-in-andhra-pradesh/article71622525.ece"
     },
     "48dbfdd4de2907130813dd72": {
@@ -553,9 +555,10 @@
     "6e4d517edd5a8941aaa88838": {
       "published_at": "2026-10-25T05:05:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10129,
       "title": "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
-      "updated_at": "2026-10-25T05:41:23.056374+00:00",
+      "updated_at": "2026-10-25T05:41:28.882730+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
     },
     "7132157c130931055a1a4ad2": {
@@ -1089,9 +1092,10 @@
     "fbadcc89aedcb56ee9198ebb": {
       "published_at": "2026-10-25T05:09:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10130,
       "title": "When safety slips through a gaping hole",
-      "updated_at": "2026-10-25T05:41:23.056378+00:00",
+      "updated_at": "2026-10-25T05:41:32.787262+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/when-safety-slips-through-a-gaping-hole/article71620990.ece"
     },
     "fc5647aa20e96610287155ae": {
@@ -1157,6 +1161,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:41:23.056581+00:00",
+  "last_cycle_at": "2026-10-25T05:41:39.902107+00:00",
   "schema_version": 1
 }
