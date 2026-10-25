@@ -12,9 +12,10 @@
     "08d15d0a4ec86561e07bee5e": {
       "published_at": "2026-10-25T04:06:28+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10060,
       "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
-      "updated_at": "2026-10-25T04:35:46.594245+00:00",
+      "updated_at": "2026-10-25T04:36:00.411643+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss"
     },
     "08d9f98c6cf930410f2f0c4c": {
@@ -47,9 +48,10 @@
     "106d7357b4775c08523ac5fe": {
       "published_at": "2026-10-25T03:47:56+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10058,
       "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
-      "updated_at": "2026-10-25T04:35:46.594235+00:00",
+      "updated_at": "2026-10-25T04:35:52.559921+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
@@ -116,9 +118,10 @@
     "3a1848b68d0a30ff13abf2c0": {
       "published_at": "2026-10-25T03:40:52+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10057,
       "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-      "updated_at": "2026-10-25T04:35:46.594215+00:00",
+      "updated_at": "2026-10-25T04:35:48.661249+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -307,9 +310,10 @@
     "8142849d81d7fb15273d8478": {
       "published_at": "2026-10-25T03:57:13+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10059,
       "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
-      "updated_at": "2026-10-25T04:35:46.594241+00:00",
+      "updated_at": "2026-10-25T04:35:56.497876+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss"
     },
     "83a1ffacabe7c1272dc6457f": {
@@ -518,6 +522,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T04:35:46.594548+00:00",
+  "last_cycle_at": "2026-10-25T04:36:03.612421+00:00",
   "schema_version": 1
 }
