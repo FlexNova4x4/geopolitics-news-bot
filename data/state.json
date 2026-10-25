@@ -200,6 +200,14 @@
       "updated_at": "2026-10-24T23:59:10.577041+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
     },
+    "774e9fc1f4419ee269fc435f": {
+      "published_at": "2026-10-25T02:45:43+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+      "updated_at": "2026-10-25T03:05:27.138070+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
+    },
     "78a627de04bf75729389fd34": {
       "published_at": "2026-10-25T00:34:43+00:00",
       "source": "aljazeera.com",
@@ -396,6 +404,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T02:35:50.474193+00:00",
+  "last_cycle_at": "2026-10-25T03:05:27.138330+00:00",
   "schema_version": 1
 }
