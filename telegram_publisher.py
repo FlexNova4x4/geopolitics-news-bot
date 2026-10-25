@@ -12,7 +12,7 @@ def send_post(bot_token: str, chat_id: str, text: str) -> int:
         text = text[:3850].rsplit(" ", 1)[0] + "…"
 
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    payload = {"chat_id": chat_id, "text": text, "disable_web_page_preview": False}
+    payload = {"chat_id": chat_id, "text": text, "parse_mode": "HTML", "disable_web_page_preview": False}
 
     while True:
         try:
