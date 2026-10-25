@@ -1162,9 +1162,10 @@
     "4309a47fc6e9928613e5ea90": {
       "published_at": "2026-10-25T19:19:54+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10481,
       "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
-      "updated_at": "2026-10-25T20:11:36.857500+00:00",
+      "updated_at": "2026-10-25T20:11:43.762292+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss"
     },
     "431f5566a31b29b49c93579a": {
@@ -2316,9 +2317,10 @@
     "8692dc07bd1ce838cd1910ee": {
       "published_at": "2026-10-25T19:17:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10480,
       "title": "As 2000 attend Kashmir marathon, CM Omar says ‘strengthens J&K’s position as a global sports tourism destination’",
-      "updated_at": "2026-10-25T20:11:36.857486+00:00",
+      "updated_at": "2026-10-25T20:11:39.806793+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-2000-attend-kashmir-marathon-cm-omar-says-strengthens-jks-position-as-a-global-sports-tourism-destination/article71623960.ece"
     },
     "87837867cfa1c31a96738fb2": {
@@ -2602,9 +2604,10 @@
     "9c2f4bea9633690be6f3bb97": {
       "published_at": "2026-10-25T19:36:05+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10482,
       "title": "Iraqis mark seven years since Tishreen protests with reform demands",
-      "updated_at": "2026-10-25T20:11:36.857503+00:00",
+      "updated_at": "2026-10-25T20:11:47.670627+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss"
     },
     "9ce2be0619732bfb37a0d55d": {
@@ -3361,9 +3364,10 @@
     "cb6c53e1edd5f7b4a22ece8d": {
       "published_at": "2026-10-25T19:36:14+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10483,
       "title": "The narrative battle over France’s unrest",
-      "updated_at": "2026-10-25T20:11:36.857506+00:00",
+      "updated_at": "2026-10-25T20:11:51.558385+00:00",
       "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss"
     },
     "cc251f6b28448253d66ba62e": {
@@ -4280,6 +4284,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T20:11:36.858111+00:00",
+  "last_cycle_at": "2026-10-25T20:11:54.759541+00:00",
   "schema_version": 1
 }
