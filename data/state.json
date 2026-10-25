@@ -956,6 +956,14 @@
       "updated_at": "2026-10-24T23:59:10.577041+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
     },
+    "7544a684b34b4606f7222e29": {
+      "published_at": "2026-10-25T09:47:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Farmers’ groups discuss list of demands ahead of meeting with Karnataka CM Shivakumar",
+      "updated_at": "2026-10-25T10:04:45.659525+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/farmers-groups-discuss-list-of-demands-ahead-of-meeting-with-karnataka-cm-shivakumar/article71622788.ece"
+    },
     "75811f096b6c58d05903ca1c": {
       "published_at": "2026-10-25T04:58:53+00:00",
       "source": "dawn.com",
@@ -1383,6 +1391,14 @@
       "updated_at": "2026-10-25T05:39:12.335310+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
     },
+    "a704e81d1fab0a55651e0d5e": {
+      "published_at": "2026-10-25T09:43:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Five IPOs to open next week; companies eye close to ₹2,600 crore",
+      "updated_at": "2026-10-25T10:04:45.659504+00:00",
+      "url": "https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece"
+    },
     "a88b3d03ee9856d2bd56a75a": {
       "published_at": "2026-10-24T23:03:09+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1740,6 +1756,14 @@
       "updated_at": "2026-10-25T05:37:01.631747+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-flag-safety-risk-as-silt-removed-from-canals-piles-up-along-city-roads/article71608743.ece"
     },
+    "dab6a6339517cfec1da101e4": {
+      "published_at": "2026-10-25T09:43:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Launch of Garudan, smart bus punching system in Greater Kochi area, held up indefinitely",
+      "updated_at": "2026-10-25T10:04:45.659487+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/launch-of-garudan-smart-bus-punching-system-in-greater-kochi-area-held-up-indefinitely/article71622854.ece"
+    },
     "db03056f068ac83473e99bf4": {
       "published_at": "2026-10-25T03:12:41+00:00",
       "source": "dawn.com",
@@ -2059,8 +2083,16 @@
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "updated_at": "2026-10-25T06:34:57.183129+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+    },
+    "ff381c026f0585cfdca5cca6": {
+      "published_at": "2026-10-25T09:46:11+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rahul Gandhi likely to appear before special MP/MLA court in UP on October 26",
+      "updated_at": "2026-10-25T10:04:45.659507+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     }
   },
-  "last_cycle_at": "2026-10-25T10:04:40.398833+00:00",
+  "last_cycle_at": "2026-10-25T10:04:45.659794+00:00",
   "schema_version": 1
 }
