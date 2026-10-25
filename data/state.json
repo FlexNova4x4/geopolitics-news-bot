@@ -63,6 +63,22 @@
       "updated_at": "2026-10-25T03:35:28.722579+00:00",
       "url": "https://www.dawn.com/news/2039682/atc-warns-imaan-hadi-of-verdict-sans-testimony-in-security-breach-case"
     },
+    "08e1f4ae050bc7c26bbfc4d6": {
+      "published_at": "2026-10-25T07:06:41+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Mann ki Baat address: PM Modi asks citizens to strengthen ‘Vocal for Local’ ahead of Deepavali",
+      "updated_at": "2026-10-25T07:34:47.231193+00:00",
+      "url": "https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece"
+    },
+    "092c69422c4d4a965582fa4c": {
+      "published_at": "2026-10-25T07:10:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Man killed in Kochi as luxury car, allegedly driven by judge’s minor son, hits scooter",
+      "updated_at": "2026-10-25T07:34:47.231198+00:00",
+      "url": "https://www.thehindu.com/news/cities/Kochi/man-killed-in-kochi-as-luxury-car-allegedly-driven-by-judges-minor-son-hits-scooter/article71622634.ece"
+    },
     "0971dcf6e1af4a89ad881632": {
       "published_at": "2026-10-25T01:19:51+00:00",
       "source": "dawn.com",
@@ -732,6 +748,14 @@
       "updated_at": "2026-10-25T06:34:28.632404+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss"
     },
+    "6f0e207533a1fc9ad84b0709": {
+      "published_at": "2026-10-25T07:06:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Jagan urges Sharmila to reconsider Bengaluru wedding venue over security concerns",
+      "updated_at": "2026-10-25T07:34:47.231175+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-urges-sharmila-to-reconsider-bengaluru-wedding-venue-over-security-concerns/article71620355.ece"
+    },
     "7132157c130931055a1a4ad2": {
       "published_at": "2026-10-25T04:18:21+00:00",
       "source": "thehindu.com",
@@ -1193,6 +1217,14 @@
       "updated_at": "2026-10-25T05:40:20.460971+00:00",
       "url": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece"
     },
+    "bf45bde197193fa243b7d8cc": {
+      "published_at": "2026-10-25T07:09:28+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Protest at CEO, Karnataka office demanding CEC’s resignation",
+      "updated_at": "2026-10-25T07:34:47.231195+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/protest-at-ceo-karnataka-office-demanding-cecs-resignation/article71622659.ece"
+    },
     "c0a0ccf8c248421b74d84a78": {
       "published_at": "2026-10-24T20:39:08+00:00",
       "source": "aljazeera.com",
@@ -1539,6 +1571,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:34:41.570471+00:00",
+  "last_cycle_at": "2026-10-25T07:34:47.231399+00:00",
   "schema_version": 1
 }
