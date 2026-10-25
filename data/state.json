@@ -191,9 +191,10 @@
     "2dceed441b9d36885e4c566d": {
       "published_at": "2026-10-25T01:16:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10100,
       "title": "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
-      "updated_at": "2026-10-25T05:38:48.553120+00:00",
+      "updated_at": "2026-10-25T05:38:50.687722+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
     },
     "2ea4ef0039b41c2eb90b426e": {
@@ -208,9 +209,10 @@
     "2f2eb773feba18c62bfa3653": {
       "published_at": "2026-10-25T02:00:10+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10103,
       "title": "IAS officer Sajjan Singh Yadav named new J&K chief secretary, to take charge from November 1",
-      "updated_at": "2026-10-25T05:38:48.553141+00:00",
+      "updated_at": "2026-10-25T05:39:02.448517+00:00",
       "url": "https://www.hindustantimes.com/india-news/sajjan-singh-yadav-appointed-chief-secretary-of-jammu-and-kashmir-101792864816023.html"
     },
     "2f7502d1d5dcda5ebf8cff6a": {
@@ -498,9 +500,10 @@
     "7793e53143f217be92823953": {
       "published_at": "2026-10-25T01:37:44+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10102,
       "title": "7 killed as diesel truck explodes during fuel transfer in Andhra Pradesh",
-      "updated_at": "2026-10-25T05:38:48.553138+00:00",
+      "updated_at": "2026-10-25T05:38:58.525873+00:00",
       "url": "https://www.hindustantimes.com/india-news/7-killed-as-diesel-truck-explodes-during-fuel-transfer-in-andhra-pradesh-101792889212080.html"
     },
     "78a627de04bf75729389fd34": {
@@ -524,9 +527,10 @@
     "7a081549d704bac5988b116b": {
       "published_at": "2026-10-25T01:25:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10101,
       "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-      "updated_at": "2026-10-25T05:38:48.553135+00:00",
+      "updated_at": "2026-10-25T05:38:54.624033+00:00",
       "url": "https://www.thehindu.com/news/international/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/article71622458.ece"
     },
     "7a1d120985829e41204a3378": {
@@ -905,6 +909,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:38:48.553297+00:00",
+  "last_cycle_at": "2026-10-25T05:39:05.649263+00:00",
   "schema_version": 1
 }
