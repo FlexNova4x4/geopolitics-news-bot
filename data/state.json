@@ -203,9 +203,10 @@
     "774e9fc1f4419ee269fc435f": {
       "published_at": "2026-10-25T02:45:43+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10047,
       "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-      "updated_at": "2026-10-25T03:05:27.138070+00:00",
+      "updated_at": "2026-10-25T03:05:29.528579+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
     },
     "78a627de04bf75729389fd34": {
@@ -404,6 +405,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T03:05:27.138330+00:00",
+  "last_cycle_at": "2026-10-25T03:05:32.729247+00:00",
   "schema_version": 1
 }
