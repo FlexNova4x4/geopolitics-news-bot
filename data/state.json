@@ -1416,9 +1416,10 @@
     "f94ea868ac4228638090569d": {
       "published_at": "2026-10-25T06:56:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10169,
       "title": "T.N. Minister Vanni Arasu reviews monsoon preparedness in Villupuram",
-      "updated_at": "2026-10-25T07:05:05.202137+00:00",
+      "updated_at": "2026-10-25T07:05:07.182384+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-vanni-arasu-reviews-monsoon-preparedness-in-villupuram/article71622629.ece"
     },
     "fbadcc89aedcb56ee9198ebb": {
@@ -1502,6 +1503,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:05:05.202482+00:00",
+  "last_cycle_at": "2026-10-25T07:05:10.382821+00:00",
   "schema_version": 1
 }
