@@ -147,9 +147,10 @@
     "097bce7cdeb58444c378b4b0": {
       "published_at": "2026-10-25T14:22:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10337,
       "title": "Two plantation workers killed after tree falls on them in Idukki",
-      "updated_at": "2026-10-25T15:15:12.499442+00:00",
+      "updated_at": "2026-10-25T15:15:26.902086+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/two-plantation-workers-killed-after-tree-falls-on-them-in-idukki/article71623797.ece"
     },
     "0ad86da679ca75352a3bf1e0": {
@@ -936,9 +937,10 @@
     "50e8b437a0da7b37fa12c354": {
       "published_at": "2026-10-25T14:18:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10336,
       "title": "Holiday for school in Wayanad",
-      "updated_at": "2026-10-25T15:15:12.499439+00:00",
+      "updated_at": "2026-10-25T15:15:22.990076+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/holiday-for-school-in-wayanad/article71623696.ece"
     },
     "512296d1fdccc4355da3c305": {
@@ -2363,9 +2365,10 @@
     "cc83d59c3f7c53318d914233": {
       "published_at": "2026-10-25T14:16:06+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10334,
       "title": "Gaza content creator tells Al Jazeera how much her award win means",
-      "updated_at": "2026-10-25T15:15:12.499421+00:00",
+      "updated_at": "2026-10-25T15:15:15.014913+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
     },
     "cf59a2d6364a524f8ecc208a": {
@@ -2550,9 +2553,10 @@
     "deb7c69e3b7118edcd4cce1a": {
       "published_at": "2026-10-25T14:17:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10335,
       "title": "392 civic officials in Madhya Pradesh face action over financial irregularities; 7 dismissed",
-      "updated_at": "2026-10-25T15:15:12.499436+00:00",
+      "updated_at": "2026-10-25T15:15:18.941904+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/nearly-400-personnel-accused-of-financial-irregularities-govt-action-against-them-underway/article71623216.ece"
     },
     "df0599f31410b2f5951a384e": {
@@ -2984,6 +2988,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:15:12.499911+00:00",
+  "last_cycle_at": "2026-10-25T15:15:30.103150+00:00",
   "schema_version": 1
 }
