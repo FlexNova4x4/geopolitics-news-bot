@@ -712,9 +712,10 @@
     "45458b2360546473da4bed10": {
       "published_at": "2026-10-25T11:49:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10281,
       "title": "Ex-Army captain arrested in Vellore over military intelligence leak",
-      "updated_at": "2026-10-25T12:05:37.846014+00:00",
+      "updated_at": "2026-10-25T12:05:39.951506+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ex-army-captain-arrested-in-vellore-over-military-intelligence-leak/article71623053.ece"
     },
     "465ed40cfd3b0af7cd8f17a9": {
@@ -837,9 +838,10 @@
     "520abfc2877cc30ff2ea52bf": {
       "published_at": "2026-10-25T11:54:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10283,
       "title": "No room to ‘stand still’: IAF Chief A.P. Singh on building future air power after success of Operation Sindoor",
-      "updated_at": "2026-10-25T12:05:37.846034+00:00",
+      "updated_at": "2026-10-25T12:05:48.661694+00:00",
       "url": "https://www.thehindu.com/news/national/no-room-to-stand-still-iaf-chief-ap-singh-on-building-future-air-power-after-success-of-operation-sindoor/article71623161.ece"
     },
     "529aab26d4b950650e27e9db": {
@@ -1887,9 +1889,10 @@
     "bceb9168023aaffd71d4107f": {
       "published_at": "2026-10-25T11:54:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10284,
       "title": "Owner, mahout booked for neglected elephant in Kozhikode",
-      "updated_at": "2026-10-25T12:05:37.846039+00:00",
+      "updated_at": "2026-10-25T12:05:52.533132+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/owner-mahout-booked-for-neglected-elephant-in-kozhikode/article71623007.ece"
     },
     "bf45bde197193fa243b7d8cc": {
@@ -2171,9 +2174,10 @@
     "e0c6a2beb4929bc1d71975ce": {
       "published_at": "2026-10-25T11:51:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10282,
       "title": "Retired judges lobby hard to get appointed as arbitrators in high value commercial disputes, says Justice N. Anand Venkatesh",
-      "updated_at": "2026-10-25T12:05:37.846032+00:00",
+      "updated_at": "2026-10-25T12:05:43.836470+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/retired-judges-lobby-hard-to-get-appointed-as-arbitrators-in-high-value-commercial-disputes-says-justice-n-anand-venkatesh/article71622930.ece"
     },
     "e636add91535f9ff2712dc4e": {
@@ -2516,6 +2520,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T12:05:37.846378+00:00",
+  "last_cycle_at": "2026-10-25T12:05:55.733622+00:00",
   "schema_version": 1
 }
