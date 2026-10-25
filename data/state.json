@@ -170,6 +170,14 @@
       "updated_at": "2026-10-25T05:37:45.602625+00:00",
       "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
     },
+    "2cdc6dcb065cda9bbc26f623": {
+      "published_at": "2026-10-25T01:00:56+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Delhi gets pollution source data, but a big chunk stays unexplained",
+      "updated_at": "2026-10-25T05:38:27.522897+00:00",
+      "url": "https://www.hindustantimes.com/india-news/delhis-new-pollution-study-leaves-major-sources-unidentified-relies-on-outdated-data-101792886406730.html"
+    },
     "2dc380cfa0488430591621c1": {
       "published_at": "2026-10-24T19:49:24+00:00",
       "source": "thehindu.com",
@@ -240,6 +248,14 @@
       "title": "INDIA-CHINA FACE-OFF IN ARUNACHAL: ITBP Chief Confirms, Shaurya Commandos Push PLA Back | Kinjal",
       "updated_at": "2026-10-24T22:52:57.070828+00:00",
       "url": "https://www.youtube.com/watch?v=eivRR5HFKqE"
+    },
+    "3d40bf7c5ccd76e0d34b0491": {
+      "published_at": "2026-10-25T01:05:16+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Details of software used in SIR exempt from RTI, Election Commission cites 'trade secrets'",
+      "updated_at": "2026-10-25T05:38:27.522926+00:00",
+      "url": "https://www.hindustantimes.com/india-news/details-of-software-used-in-sir-exempt-from-rti-election-commission-cites-trade-secrets-101792887710352.html"
     },
     "3deb5ef23a745550ea5ecfc5": {
       "published_at": "2026-10-23T14:17:00+00:00",
@@ -609,6 +625,14 @@
       "updated_at": "2026-10-24T23:59:02.292214+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss"
     },
+    "a1bc666fee8c90260ebe2dc3": {
+      "published_at": "2026-10-25T01:05:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Road Ministry seeks forensic audit of its portals after vehicle data leak",
+      "updated_at": "2026-10-25T05:38:27.522922+00:00",
+      "url": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece"
+    },
     "a2b868bf8a4831b551cd6e0b": {
       "published_at": "2026-10-24T22:08:47+00:00",
       "source": "feeds.bbci.co.uk",
@@ -792,6 +816,14 @@
       "updated_at": "2026-10-24T23:59:02.292230+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
     },
+    "fc5647aa20e96610287155ae": {
+      "published_at": "2026-10-25T01:03:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
+      "updated_at": "2026-10-25T05:38:27.522916+00:00",
+      "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece"
+    },
     "fcc15f0e001ca52f5347dc70": {
       "published_at": "2026-10-25T00:00:00+00:00",
       "source": "aljazeera.com",
@@ -837,6 +869,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:38:22.680756+00:00",
+  "last_cycle_at": "2026-10-25T05:38:27.523093+00:00",
   "schema_version": 1
 }
