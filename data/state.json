@@ -108,6 +108,14 @@
       "updated_at": "2026-10-25T05:38:07.742558+00:00",
       "url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece"
     },
+    "13abbcd26b7030c95fa14e2a": {
+      "published_at": "2026-10-25T05:16:44+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Indo-Pacific developments call for vigilance, India ready to protect interests: IAF chief AP Singh",
+      "updated_at": "2026-10-25T05:41:23.056380+00:00",
+      "url": "https://www.hindustantimes.com/india-news/indopacific-developments-call-for-vigilance-india-ready-to-protect-interests-indian-air-force-chief-ap-singh-china-news-101792905163054.html"
+    },
     "13c516bafc4edcdc379088bc": {
       "published_at": "2026-10-25T04:15:26+00:00",
       "source": "thehindu.com",
@@ -367,6 +375,14 @@
       "updated_at": "2026-10-25T05:36:07.338809+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/law-and-order-situation-in-tn-is-in-an-extremely-dire-state-says-palaniswami/article71620700.ece"
     },
+    "4895796a9ca1376d31bc4eef": {
+      "published_at": "2026-10-25T04:52:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Foot marches held across district ahead of elections",
+      "updated_at": "2026-10-25T05:41:23.056357+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-foot-marches-in-sensitive-areas-in-andhra-pradesh/article71622525.ece"
+    },
     "48dbfdd4de2907130813dd72": {
       "published_at": "2026-10-25T04:06:16+00:00",
       "source": "hindustantimes.com",
@@ -533,6 +549,14 @@
       "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
       "updated_at": "2026-10-24T23:59:10.577038+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
+    },
+    "6e4d517edd5a8941aaa88838": {
+      "published_at": "2026-10-25T05:05:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
+      "updated_at": "2026-10-25T05:41:23.056374+00:00",
+      "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
     },
     "7132157c130931055a1a4ad2": {
       "published_at": "2026-10-25T04:18:21+00:00",
@@ -1062,6 +1086,14 @@
       "updated_at": "2026-10-24T23:59:02.292230+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
     },
+    "fbadcc89aedcb56ee9198ebb": {
+      "published_at": "2026-10-25T05:09:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "When safety slips through a gaping hole",
+      "updated_at": "2026-10-25T05:41:23.056378+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/when-safety-slips-through-a-gaping-hole/article71620990.ece"
+    },
     "fc5647aa20e96610287155ae": {
       "published_at": "2026-10-25T01:03:51+00:00",
       "source": "thehindu.com",
@@ -1125,6 +1157,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:41:18.505607+00:00",
+  "last_cycle_at": "2026-10-25T05:41:23.056581+00:00",
   "schema_version": 1
 }
