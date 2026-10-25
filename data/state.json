@@ -514,9 +514,10 @@
     "3b68e81a949a5bbff4ab7f7b": {
       "published_at": "2026-10-25T08:04:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10204,
       "title": "Stalin calls on DMK cadres to prepare to oust TVK-led government soon in Tamil Nadu",
-      "updated_at": "2026-10-25T08:34:51.545754+00:00",
+      "updated_at": "2026-10-25T08:34:53.763027+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-calls-on-dmk-cadres-to-prepare-to-oust-tvk-led-government-soon-in-tamil-nadu/article71622737.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -940,9 +941,10 @@
     "7959a2ce930c454f6a73f3b9": {
       "published_at": "2026-10-25T08:23:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10207,
       "title": "ACB seizes ₹2.4 lakh unaccounted cash from HMWSSB Joint Director",
-      "updated_at": "2026-10-25T08:34:51.545778+00:00",
+      "updated_at": "2026-10-25T08:35:05.440558+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/acb-seizes-24-lakh-unaccounted-cash-from-hmwssb-joint-director/article71622802.ece"
     },
     "7a081549d704bac5988b116b": {
@@ -1267,9 +1269,10 @@
     "a9263e36b2903f34a79ecd7d": {
       "published_at": "2026-10-25T08:04:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10205,
       "title": "Congress cites former Supreme Court judge’s memoir; questions independence of judiciary under Modi government",
-      "updated_at": "2026-10-25T08:34:51.545774+00:00",
+      "updated_at": "2026-10-25T08:34:57.647848+00:00",
       "url": "https://www.thehindu.com/news/national/congress-cites-former-supreme-court-judges-memoir-questions-independence-of-judiciary-under-modi-government/article71622822.ece"
     },
     "a9fc2dd191984b3d6a7c9816": {
@@ -1631,9 +1634,10 @@
     "e764a5389607640e08851c6c": {
       "published_at": "2026-10-25T08:15:24+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10206,
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "updated_at": "2026-10-25T08:34:51.545776+00:00",
+      "updated_at": "2026-10-25T08:35:01.529466+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
     },
     "ebe36ea7d3528c57697ce421": {
@@ -1832,6 +1836,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:34:51.546234+00:00",
+  "last_cycle_at": "2026-10-25T08:35:08.641333+00:00",
   "schema_version": 1
 }
