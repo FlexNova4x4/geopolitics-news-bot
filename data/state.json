@@ -3442,6 +3442,14 @@
       "updated_at": "2026-10-25T17:12:36.981643+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
     },
+    "d54947b887a680d3177878d0": {
+      "published_at": "2026-10-25T19:02:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "A Korean cultural evening in Hyderabad, with a distinctly Telangana touch",
+      "updated_at": "2026-10-25T19:12:51.737105+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/a-korean-cultural-evening-in-hyderabad-with-a-distinctly-telangana-touch/article71624250.ece"
+    },
     "d58590effe1c443fb536bca4": {
       "published_at": "2026-10-24T19:37:35+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4212,6 +4220,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T19:12:48.332276+00:00",
+  "last_cycle_at": "2026-10-25T19:12:51.737836+00:00",
   "schema_version": 1
 }
