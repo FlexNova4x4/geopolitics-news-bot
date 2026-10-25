@@ -279,6 +279,14 @@
       "updated_at": "2026-10-25T05:38:11.681869+00:00",
       "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
+    "17b0c5e907073177988a3c1c": {
+      "published_at": "2026-10-25T11:23:07+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Tigress T-2403 spotted with three cubs in Ranthambore Tiger Reserve",
+      "updated_at": "2026-10-25T12:04:23.457320+00:00",
+      "url": "https://www.hindustantimes.com/india-news/tigress-t-2403-spotted-with-three-cubs-in-ranthambore-tiger-reserve-101792923074600.html"
+    },
     "1bddb0948a2186c4c5b46ab9": {
       "published_at": "2026-10-25T04:30:24+00:00",
       "source": "dawn.com",
@@ -1020,6 +1028,14 @@
       "updated_at": "2026-10-24T23:59:10.577038+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
     },
+    "6bdce6883efacced3468740e": {
+      "published_at": "2026-10-25T10:56:29+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "IndiGo to shift 12 daily international departures from Mumbai’s CSMIA to Navi Mumbai airport from February",
+      "updated_at": "2026-10-25T12:04:23.457317+00:00",
+      "url": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece"
+    },
     "6e4d517edd5a8941aaa88838": {
       "published_at": "2026-10-25T05:05:55+00:00",
       "source": "thehindu.com",
@@ -1198,6 +1214,14 @@
       "title": "Gadi Eisenkot | Netanyahu’s challenger",
       "updated_at": "2026-10-25T06:06:02.243195+00:00",
       "url": "https://www.thehindu.com/news/international/gadi-eisenkot-netanyahus-challenger/article71621144.ece"
+    },
+    "7ece01532c3fa5d6f81bb9b9": {
+      "published_at": "2026-10-25T10:53:44+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "NHAI issues guidelines for upgradation, maintenance, smart monitoring of toilet facilities, parking at National Highway toll plazas",
+      "updated_at": "2026-10-25T12:04:23.457314+00:00",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/nhai-issues-guidelines-for-upgradation-maintenance-smart-monitoring-of-toilet-facilities-parking-at-national-highway-toll-plazas/article71622980.ece"
     },
     "7f9b731e641233dfddd23d01": {
       "published_at": "2026-10-25T04:51:57+00:00",
@@ -1660,6 +1684,14 @@
       "title": "Severe hunger stalks people in Gaza as bakeries close down",
       "updated_at": "2026-10-24T23:59:19.369179+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss"
+    },
+    "abaaa0381cca85162ecc5df3": {
+      "published_at": "2026-10-25T08:20:52+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "FDA destroys 564 litres of milk in Mumbai; statewide crackdown nets food stock worth ₹1.56 crore",
+      "updated_at": "2026-10-25T12:04:23.457295+00:00",
+      "url": "https://www.thehindu.com/news/cities/mumbai/fda-destroys-564-litres-of-milk-in-mumbai-statewide-crackdown-nets-food-stock-worth-156-crore/article71622655.ece"
     },
     "b6afaa754d9dc95c5397ceae": {
       "published_at": "2026-10-24T19:13:56+00:00",
@@ -2376,6 +2408,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T11:35:40.623187+00:00",
+  "last_cycle_at": "2026-10-25T12:04:23.457579+00:00",
   "schema_version": 1
 }
