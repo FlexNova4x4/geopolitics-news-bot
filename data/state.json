@@ -547,6 +547,14 @@
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
+    "4248b3f7df137f42c32f604a": {
+      "published_at": "2026-10-25T08:26:19+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
+      "updated_at": "2026-10-25T09:04:25.147140+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss"
+    },
     "42f5f151d5cde4369775590a": {
       "published_at": "2026-10-25T04:24:36+00:00",
       "source": "hindustantimes.com",
@@ -777,6 +785,14 @@
       "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
       "updated_at": "2026-10-24T23:59:20.979589+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+    },
+    "66f17fc2b8b886527e781167": {
+      "published_at": "2026-10-25T08:20:20+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Who are the best players never to win the Ballon d’Or?",
+      "updated_at": "2026-10-25T09:04:25.147136+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/who-are-the-best-players-never-to-win-the-ballon?traffic_source=rss"
     },
     "678653f20fa6e9d1577ed4a2": {
       "published_at": "2026-10-25T05:52:31+00:00",
@@ -1142,6 +1158,14 @@
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "updated_at": "2026-10-24T23:59:02.292236+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+    },
+    "9bbaaf14c8c7fb18ba4c643d": {
+      "published_at": "2026-10-25T08:21:24+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Just Like That | Dussehra: One festival, different traditions, a shared moral message",
+      "updated_at": "2026-10-25T09:04:25.147138+00:00",
+      "url": "https://www.hindustantimes.com/india-news/just-like-that-dussehra-one-festival-different-traditions-a-shared-moral-message-101792916484927.html"
     },
     "9ce2be0619732bfb37a0d55d": {
       "published_at": "2026-10-25T07:12:53+00:00",
@@ -1516,6 +1540,14 @@
       "updated_at": "2026-10-25T07:04:55.118878+00:00",
       "url": "https://www.thehindu.com/news/national/nmdc-targets-diversification-scouting-minerals-across-four-continents/article71622669.ece"
     },
+    "cf59a2d6364a524f8ecc208a": {
+      "published_at": "2026-10-25T08:13:32+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Fantasy to imagine collegium isolated from political pressure: Ex-SC judge Sanjay Kaul; flags Centre’s NJAC resentment",
+      "updated_at": "2026-10-25T09:04:25.147119+00:00",
+      "url": "https://www.hindustantimes.com/india-news/collegium-faces-political-pressure-over-njac-setback-former-sc-judge-kaul-writes-in-memoir-101792916013295.html"
+    },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
       "source": "Website",
@@ -1845,6 +1877,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:35:16.504473+00:00",
+  "last_cycle_at": "2026-10-25T09:04:25.147378+00:00",
   "schema_version": 1
 }
