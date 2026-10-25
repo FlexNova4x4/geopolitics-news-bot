@@ -3,9 +3,10 @@
     "01b41b5451f03931ce810285": {
       "published_at": "2026-10-25T03:25:32+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10111,
       "title": "HT Morning Brief October 25: EC keeps SIR software under wraps; pistols used in Shroff firing found",
-      "updated_at": "2026-10-25T05:39:35.343352+00:00",
+      "updated_at": "2026-10-25T05:39:48.980594+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-25-ec-keeps-sir-software-under-wraps-pistols-used-in-shroff-firing-found-101792898097293.html"
     },
     "04b0f0953fbbaa43cc19de9e": {
@@ -719,9 +720,10 @@
     "a415c1d81a438dca9784d4bd": {
       "published_at": "2026-10-25T03:04:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10110,
       "title": "Military ups death toll in Mali attack to 54",
-      "updated_at": "2026-10-25T05:39:35.343350+00:00",
+      "updated_at": "2026-10-25T05:39:45.079255+00:00",
       "url": "https://www.thehindu.com/news/international/military-ups-death-toll-in-mali-attack-to-54/article71622485.ece"
     },
     "a6def70ddd121613b81f6e1c": {
@@ -780,9 +782,10 @@
     "bbcaa5c1370222d2080fe0ba": {
       "published_at": "2026-10-25T03:02:18+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10109,
       "title": "PM Narendra Modi, Rajnath Singh to attend Air Force Day show in Varanasi today; security up along ghats, VVIP routes",
-      "updated_at": "2026-10-25T05:39:35.343346+00:00",
+      "updated_at": "2026-10-25T05:39:41.186649+00:00",
       "url": "https://www.hindustantimes.com/india-news/narendra-modi-rajnath-singh-air-force-day-aerial-display-2026-varanasi-101792896899035.html"
     },
     "bbe4e89a16c2f35966d008d8": {
@@ -893,9 +896,10 @@
     "f175a014213b1abb64017382": {
       "published_at": "2026-10-25T02:38:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10108,
       "title": "Bulgaria votes for President in wake of deadly Black Sea drone strikes",
-      "updated_at": "2026-10-25T05:39:35.343333+00:00",
+      "updated_at": "2026-10-25T05:39:37.281706+00:00",
       "url": "https://www.thehindu.com/news/international/bulgaria-presidential-election-black-sea-drone-strikes-on-october-25-2026/article71622481.ece"
     },
     "f32c61db06e6f953d3a969c4": {
@@ -977,6 +981,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:39:35.343508+00:00",
+  "last_cycle_at": "2026-10-25T05:39:52.181312+00:00",
   "schema_version": 1
 }
