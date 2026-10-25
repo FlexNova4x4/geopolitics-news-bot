@@ -1413,6 +1413,14 @@
       "updated_at": "2026-10-25T06:35:30.813406+00:00",
       "url": "https://www.thehindu.com/news/national/india-slams-pakistan-at-un-says-military-remains-countrys-real-rulers/article71622651.ece"
     },
+    "f94ea868ac4228638090569d": {
+      "published_at": "2026-10-25T06:56:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "T.N. Minister Vanni Arasu reviews monsoon preparedness in Villupuram",
+      "updated_at": "2026-10-25T07:05:05.202137+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-vanni-arasu-reviews-monsoon-preparedness-in-villupuram/article71622629.ece"
+    },
     "fbadcc89aedcb56ee9198ebb": {
       "published_at": "2026-10-25T05:09:13+00:00",
       "source": "thehindu.com",
@@ -1494,6 +1502,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T07:05:02.186871+00:00",
+  "last_cycle_at": "2026-10-25T07:05:05.202482+00:00",
   "schema_version": 1
 }
