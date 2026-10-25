@@ -101,9 +101,10 @@
     "2ea4ef0039b41c2eb90b426e": {
       "published_at": "2026-10-24T18:32:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10068,
       "title": "Students mark 90th anniversary of Temple Entry Proclamation",
-      "updated_at": "2026-10-25T05:35:53.259259+00:00",
+      "updated_at": "2026-10-25T05:35:55.640634+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece"
     },
     "2f7502d1d5dcda5ebf8cff6a": {
@@ -180,9 +181,10 @@
     "477c872a0b59fe25db26952d": {
       "published_at": "2026-10-24T18:52:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10071,
       "title": "Law and order situation in T.N. is in an extremely dire state, says Palaniswami",
-      "updated_at": "2026-10-25T05:35:53.259288+00:00",
+      "updated_at": "2026-10-25T05:36:07.338809+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/law-and-order-situation-in-tn-is-in-an-extremely-dire-state-says-palaniswami/article71620700.ece"
     },
     "4a067e46333580ef31d07718": {
@@ -389,9 +391,10 @@
     "886f6517ac2c914003485cf8": {
       "published_at": "2026-10-24T18:47:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10070,
       "title": "West Graduates’ Constituency: Counting staff told to ensure transparency",
-      "updated_at": "2026-10-25T05:35:53.259284+00:00",
+      "updated_at": "2026-10-25T05:36:03.443176+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece"
     },
     "9418581b7f6efb4b6eff5009": {
@@ -594,9 +597,10 @@
     "fd30241a8824df844b722f5a": {
       "published_at": "2026-10-24T18:33:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10069,
       "title": "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
-      "updated_at": "2026-10-25T05:35:53.259278+00:00",
+      "updated_at": "2026-10-25T05:35:59.524990+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece"
     },
     "fd7dab0cce59f4579a049873": {
@@ -617,6 +621,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:35:53.259397+00:00",
+  "last_cycle_at": "2026-10-25T05:36:10.539474+00:00",
   "schema_version": 1
 }
