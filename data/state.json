@@ -1965,6 +1965,14 @@
       "updated_at": "2026-10-25T15:17:54.883118+00:00",
       "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece"
     },
+    "74a7db7fd904ff1bb6ec3951": {
+      "published_at": "2026-10-25T19:01:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Jharkhand BJP unanimously passes political resolution at State Executive Committee meeting",
+      "updated_at": "2026-10-25T19:41:09.996088+00:00",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-unanimously-passes-political-resolution-at-state-executive-committee-meeting/article71624016.ece"
+    },
     "75158c1834e1c18ed588fa82": {
       "published_at": "2026-10-24T20:37:02+00:00",
       "source": "aljazeera.com",
@@ -2367,6 +2375,14 @@
       "title": "Kozhikode tourism committees remain inactive, fail to propose development projects",
       "updated_at": "2026-10-25T11:35:37.422297+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kozhikode-tourism-committees-remain-inactive-fail-to-propose-development-projects/article71622982.ece"
+    },
+    "8deb19e090a515a312b756da": {
+      "published_at": "2026-10-25T19:11:52+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Pulakeshinagar IED blast case cracked, personal rivalry behind the plot",
+      "updated_at": "2026-10-25T19:41:09.996107+00:00",
+      "url": "https://www.thehindu.com/news/cities/bangalore/pulakeshinagar-ied-blast-case-cracked-personal-rivalry-behind-the-plot/article71623321.ece"
     },
     "90fd25d5e400c10fb50f1c26": {
       "published_at": "2026-10-25T15:40:25+00:00",
@@ -2929,6 +2945,14 @@
       "title": "Visakhapatnam’s air quality dips to ‘Poor’ category, AQI touches 254",
       "updated_at": "2026-10-25T16:12:54.400042+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-air-quality-dips-to-poor-category-aqi-touches-254/article71623259.ece"
+    },
+    "b2c201214544e238f2daa23c": {
+      "published_at": "2026-10-25T19:02:24+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "At least 2 feared trapped as under-construction building collapses in Delhi's Harsh Vihar",
+      "updated_at": "2026-10-25T19:41:09.996103+00:00",
+      "url": "https://www.hindustantimes.com/india-news/at-least-2-feared-trapped-as-under-construction-building-collapses-in-delhis-harsh-vihar-101792954263019.html"
     },
     "b4f660e47e6161bc60c10661": {
       "published_at": "2026-10-25T11:46:10+00:00",
@@ -4221,6 +4245,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T19:12:57.250069+00:00",
+  "last_cycle_at": "2026-10-25T19:41:09.996900+00:00",
   "schema_version": 1
 }
