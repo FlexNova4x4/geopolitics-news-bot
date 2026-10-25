@@ -1117,6 +1117,14 @@
       "updated_at": "2026-10-25T05:36:03.443176+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece"
     },
+    "8c36a839b4b28884cf7cbe36": {
+      "published_at": "2026-10-25T09:29:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Explosions heard in Saudi capital as airport prepares to reopen",
+      "updated_at": "2026-10-25T09:35:18.705364+00:00",
+      "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece"
+    },
     "91ee9952970e21fd9a42b354": {
       "published_at": "2026-10-25T06:34:06+00:00",
       "source": "hindustantimes.com",
@@ -1642,6 +1650,14 @@
       "updated_at": "2026-10-24T22:47:14.918839+00:00",
       "url": "https://thediplomat.com/2026/10/with-strict-agendas-and-silent-corridors-kazakhstans-kurultai-is-muzzling-the-press"
     },
+    "d393a3d57a0f4b3af6d2e577": {
+      "published_at": "2026-10-25T09:27:03+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+      "updated_at": "2026-10-25T09:35:18.705342+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
+    },
     "d3d27d9386f5b4b33262c0fd": {
       "published_at": "2026-10-25T06:40:36+00:00",
       "source": "thehindu.com",
@@ -1774,6 +1790,14 @@
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "updated_at": "2026-10-25T08:35:01.529466+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    "e8e8485050729ea9bcf12f69": {
+      "published_at": "2026-10-25T09:27:42+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Meeshapulimala opens to tourists as Neelakurinji blooms",
+      "updated_at": "2026-10-25T09:35:18.705361+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/meeshapulimala-opens-to-tourists-as-neelakurinji-blooms/article71620134.ece"
     },
     "eb486ba09741805407207e33": {
       "published_at": "2026-10-25T08:54:59+00:00",
@@ -1998,6 +2022,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:35:13.632059+00:00",
+  "last_cycle_at": "2026-10-25T09:35:18.705704+00:00",
   "schema_version": 1
 }
