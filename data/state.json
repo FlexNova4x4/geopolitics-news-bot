@@ -9,6 +9,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "0b7a7abdb90c68a961048592": {
+      "published_at": "2026-10-25T02:25:55+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Pakistan reopens Gabd border crossing with Iran, restores bilateral trade after weeklong suspension",
+      "updated_at": "2026-10-25T02:35:33.068807+00:00",
+      "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
+    },
     "1658cc6f4dd2dc07a2a2ede5": {
       "published_at": "2026-10-24T21:39:29+00:00",
       "source": "aljazeera.com",
@@ -17,6 +25,14 @@
       "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
       "updated_at": "2026-10-24T23:59:32.703737+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss"
+    },
+    "1672b65e0801b5f9a89847e6": {
+      "published_at": "2026-10-25T02:32:48+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Pakistan Railways declares emergency until Dec 31 after repeated accidents",
+      "updated_at": "2026-10-25T02:35:33.068812+00:00",
+      "url": "https://www.dawn.com/news/2039678/pakistan-railways-declares-emergency-until-dec-31-after-repeated-accidents"
     },
     "1f4bee06e2b5fa2cf7ec1b97": {
       "published_at": "2026-10-24T23:49:00+00:00",
@@ -199,6 +215,14 @@
       "updated_at": "2026-10-24T22:37:02.457882+00:00",
       "url": "https://thediplomat.com/2026/10/xi-jinping-may-have-his-own-reasons-to-avert-a-china-russia-us-summit"
     },
+    "83a1ffacabe7c1272dc6457f": {
+      "published_at": "2026-10-25T02:07:29+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "updated_at": "2026-10-25T02:35:33.068739+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
+    },
     "85b13889261ddb1c19a1f5fe": {
       "published_at": "2026-10-23T12:38:00+00:00",
       "source": "Website",
@@ -207,6 +231,14 @@
       "title": "The Next Chapter of Africa-China Climate Cooperation",
       "updated_at": "2026-10-24T22:52:55.758669+00:00",
       "url": "https://thediplomat.com/2026/10/the-next-chapter-of-africa-china-climate-cooperation"
+    },
+    "8805445d4dc8a6f6155ccd33": {
+      "published_at": "2026-10-25T02:22:19+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Dar orders urgent action to rein in rising wheat prices",
+      "updated_at": "2026-10-25T02:35:33.068776+00:00",
+      "url": "https://www.dawn.com/news/2039608/dar-orders-urgent-action-to-rein-in-rising-wheat-prices"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
       "published_at": "2026-10-24T19:12:51+00:00",
@@ -360,6 +392,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T01:05:23.709732+00:00",
+  "last_cycle_at": "2026-10-25T02:35:33.068901+00:00",
   "schema_version": 1
 }
