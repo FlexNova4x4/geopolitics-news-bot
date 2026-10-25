@@ -353,9 +353,10 @@
     "2caa284e65eddd0f925f4ecf": {
       "published_at": "2026-10-25T09:26:57+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10224,
       "title": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
-      "updated_at": "2026-10-25T09:34:56.618907+00:00",
+      "updated_at": "2026-10-25T09:35:06.564873+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss"
     },
     "2cdc6dcb065cda9bbc26f623": {
@@ -1286,9 +1287,10 @@
     "a2034b6f74ba8226530c3c3e": {
       "published_at": "2026-10-25T09:20:56+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10223,
       "title": "Robert Vadra pens note for son Raihan amid Bikaner House exhibition row: ‘Every challenge is a lesson’",
-      "updated_at": "2026-10-25T09:34:56.618905+00:00",
+      "updated_at": "2026-10-25T09:35:02.521709+00:00",
       "url": "https://www.hindustantimes.com/india-news/robert-vadra-pens-heartfelt-note-for-son-raihan-vadra-amid-bikaner-house-exhibition-controversy-every-challenge-is-a-lesson-101792915861060.html"
     },
     "a2b868bf8a4831b551cd6e0b": {
@@ -1731,9 +1733,10 @@
     "e06f6312f4a9f8e6c625cda4": {
       "published_at": "2026-10-25T09:16:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10222,
       "title": "India advises its nationals in Saudi Arabia against filming missile interceptions",
-      "updated_at": "2026-10-25T09:34:56.618888+00:00",
+      "updated_at": "2026-10-25T09:34:58.619549+00:00",
       "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece"
     },
     "e636add91535f9ff2712dc4e": {
@@ -1864,9 +1867,10 @@
     "f731bead83b21dffde58848d": {
       "published_at": "2026-10-25T09:26:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10225,
       "title": "Thevar Jayanthi: Edappadi Palaniswami to pay tributes at Pasumpon on October 30",
-      "updated_at": "2026-10-25T09:34:56.618909+00:00",
+      "updated_at": "2026-10-25T09:35:10.431208+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/thevar-jayanthi-edappadi-palaniswami-to-pay-tributes-at-pasumpon-on-october-30/article71622886.ece"
     },
     "f7f51206ecc16baa12f85335": {
@@ -1994,6 +1998,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T09:34:56.619122+00:00",
+  "last_cycle_at": "2026-10-25T09:35:13.632059+00:00",
   "schema_version": 1
 }
