@@ -66,17 +66,19 @@
     "11518b6023a3677f9818ff72": {
       "published_at": "2026-10-25T00:48:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10095,
       "title": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Updates",
-      "updated_at": "2026-10-25T05:38:05.735215+00:00",
+      "updated_at": "2026-10-25T05:38:19.479925+00:00",
       "url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
     },
     "135bf913908718e670af8c71": {
       "published_at": "2026-10-24T21:17:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10092,
       "title": "Houthis say attacked Saudi Arabia, Yemen’s Aden after deadly strikes",
-      "updated_at": "2026-10-25T05:38:05.735186+00:00",
+      "updated_at": "2026-10-25T05:38:07.742558+00:00",
       "url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece"
     },
     "1465f4d8bc4c6500e418081c": {
@@ -109,9 +111,10 @@
     "1710401f57210e87120dfb7a": {
       "published_at": "2026-10-24T22:24:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10093,
       "title": "Indonesia cuts pipeline gas exports to Singapore by about 9%",
-      "updated_at": "2026-10-25T05:38:05.735204+00:00",
+      "updated_at": "2026-10-25T05:38:11.681869+00:00",
       "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
     "1bddb0948a2186c4c5b46ab9": {
@@ -152,9 +155,10 @@
     "266b9ee325a4599d084e8de5": {
       "published_at": "2026-10-25T00:46:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10094,
       "title": "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? | Explained",
-      "updated_at": "2026-10-25T05:38:05.735210+00:00",
+      "updated_at": "2026-10-25T05:38:15.558260+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece"
     },
     "276c9169e9e25c837bd41331": {
@@ -833,6 +837,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:38:05.735377+00:00",
+  "last_cycle_at": "2026-10-25T05:38:22.680756+00:00",
   "schema_version": 1
 }
