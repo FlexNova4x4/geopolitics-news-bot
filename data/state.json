@@ -1145,9 +1145,10 @@
     "9ed30e3fe86a375981601659": {
       "published_at": "2026-10-25T07:59:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10200,
       "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-      "updated_at": "2026-10-25T08:34:28.665476+00:00",
+      "updated_at": "2026-10-25T08:34:31.254125+00:00",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss"
     },
     "9f6220e20379b9fa65b9674b": {
@@ -1366,9 +1367,10 @@
     "bbed6beff87d9f198237576b": {
       "published_at": "2026-10-25T08:02:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10202,
       "title": "Heartfelt thanks to BJP for 'promoting' INDIA bloc rally with great enthusiasm: Rahul",
-      "updated_at": "2026-10-25T08:34:28.665496+00:00",
+      "updated_at": "2026-10-25T08:34:39.308956+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/rahul-gandhi-sarcastically-thanks-bjp-for-promoting-india-bloc-rally/article71622818.ece"
     },
     "bc6503a3962451308c79a4dd": {
@@ -1463,9 +1465,10 @@
     "c6a4355dfb323edba7a66c63": {
       "published_at": "2026-10-25T08:02:49+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10203,
       "title": "‘Political art’ not the problem, politics behind it is’: Pawan Khera accuses Bikaner House of censorship",
-      "updated_at": "2026-10-25T08:34:28.665498+00:00",
+      "updated_at": "2026-10-25T08:34:43.215259+00:00",
       "url": "https://www.hindustantimes.com/india-news/political-art-not-the-problem-politics-behind-it-is-pawan-khera-accuses-bikaner-house-of-censorship-101792913718569.html"
     },
     "cb69f01837fe6e170f43fe8b": {
@@ -1658,9 +1661,10 @@
     "f41bb9d90381ef81b56f0ae5": {
       "published_at": "2026-10-25T08:00:33+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10201,
       "title": "Kerala BJP chief urges equal respect for faiths amid cafe video row, accuses CM Satheesan of ‘selective secularism’",
-      "updated_at": "2026-10-25T08:34:28.665493+00:00",
+      "updated_at": "2026-10-25T08:34:35.223421+00:00",
       "url": "https://www.hindustantimes.com/india-news/kerala-bjp-chief-urges-equal-respect-for-faiths-amid-cafe-video-row-accuses-cm-satheesan-of-selective-secularism-101792912926527.html"
     },
     "f719c2e59baa960efe4b3af5": {
@@ -1796,6 +1800,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T08:34:28.665739+00:00",
+  "last_cycle_at": "2026-10-25T08:34:46.416079+00:00",
   "schema_version": 1
 }
