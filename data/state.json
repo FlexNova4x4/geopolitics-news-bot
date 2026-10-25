@@ -252,9 +252,10 @@
     "596344f7ed56b23cef4c3a08": {
       "published_at": "2026-10-24T19:30:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10082,
       "title": "Healthcare challenges require collaborative, technology-ledsolutions, says Health Secretary",
-      "updated_at": "2026-10-25T05:36:59.736996+00:00",
+      "updated_at": "2026-10-25T05:37:09.736265+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/healthcare-challenges-require-collaborative-technology-ledsolutions-says-health-secretary/article71619284.ece"
     },
     "5b291389965e6d3b09b9fd79": {
@@ -339,9 +340,10 @@
     "6a163bb3535fe0cf5dff3161": {
       "published_at": "2026-10-24T19:32:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10083,
       "title": "Six election officials removed in U.P. after SP flags voter list errors",
-      "updated_at": "2026-10-25T05:36:59.736998+00:00",
+      "updated_at": "2026-10-25T05:37:13.655061+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-election-officials-removed-in-up-after-sp-flags-voter-list-errors/article71621307.ece"
     },
     "6a7b3fd69ceb0551ff4a4945": {
@@ -608,9 +610,10 @@
     "d42be53c179ee655ec60cb49": {
       "published_at": "2026-10-24T19:28:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10081,
       "title": "Now, one more road proposed alongside Bengaluru’s Hebbal Lake",
-      "updated_at": "2026-10-25T05:36:59.736992+00:00",
+      "updated_at": "2026-10-25T05:37:05.826311+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/now-one-more-road-proposed-alongside-bengalurus-hebbal-lake/article71620417.ece"
     },
     "d58590effe1c443fb536bca4": {
@@ -624,9 +627,10 @@
     "d7326455d3174baa940e497a": {
       "published_at": "2026-10-24T19:21:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10080,
       "title": "Residents flag safety risk as silt removed from canals piles up along city roads",
-      "updated_at": "2026-10-25T05:36:59.736978+00:00",
+      "updated_at": "2026-10-25T05:37:01.631747+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-flag-safety-risk-as-silt-removed-from-canals-piles-up-along-city-roads/article71608743.ece"
     },
     "db03056f068ac83473e99bf4": {
@@ -725,6 +729,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:36:59.737143+00:00",
+  "last_cycle_at": "2026-10-25T05:37:16.855800+00:00",
   "schema_version": 1
 }
