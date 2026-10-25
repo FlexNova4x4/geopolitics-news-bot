@@ -290,6 +290,14 @@
       "updated_at": "2026-10-24T23:59:10.577041+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
     },
+    "75811f096b6c58d05903ca1c": {
+      "published_at": "2026-10-25T04:58:53+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Insurance worker booked for rape in Sahiwal",
+      "updated_at": "2026-10-25T05:05:51.929610+00:00",
+      "url": "https://www.dawn.com/news/2039546/insurance-worker-booked-for-rape-in-sahiwal"
+    },
     "774e9fc1f4419ee269fc435f": {
       "published_at": "2026-10-25T02:45:43+00:00",
       "source": "aljazeera.com",
@@ -360,6 +368,14 @@
       "title": "Dar orders urgent action to rein in rising wheat prices",
       "updated_at": "2026-10-25T02:35:39.263045+00:00",
       "url": "https://www.dawn.com/news/2039608/dar-orders-urgent-action-to-rein-in-rising-wheat-prices"
+    },
+    "9418581b7f6efb4b6eff5009": {
+      "published_at": "2026-10-25T04:49:55+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Governor rejects ex-health CEO’s plea in Jhang embezzlement case",
+      "updated_at": "2026-10-25T05:05:51.929591+00:00",
+      "url": "https://www.dawn.com/news/2039545/governor-rejects-ex-health-ceos-plea-in-jhang-embezzlement-case"
     },
     "982fd09da3a2325f2e1358d8": {
       "published_at": "2026-10-25T01:19:51+00:00",
@@ -453,6 +469,14 @@
       "title": "Violent clashes as Albanian government cracks down on protests",
       "updated_at": "2026-10-24T23:59:19.369164+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
+    },
+    "c57c995aed21182697ff6a61": {
+      "published_at": "2026-10-25T04:52:21+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Objectionable material: Lahore man arrested for blackmailing minors",
+      "updated_at": "2026-10-25T05:05:51.929606+00:00",
+      "url": "https://www.dawn.com/news/2039547/objectionable-material-lahore-man-arrested-for-blackmailing-minors"
     },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
@@ -558,6 +582,6 @@
       "url": "https://thediplomat.com/2026/10/south-china-sea-code-of-conduct-a-deal-is-not-enough"
     }
   },
-  "last_cycle_at": "2026-10-25T05:05:48.177332+00:00",
+  "last_cycle_at": "2026-10-25T05:05:51.929702+00:00",
   "schema_version": 1
 }
