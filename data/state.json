@@ -739,9 +739,10 @@
     "4517691c943f6b5ae59be008": {
       "published_at": "2026-10-25T12:49:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10298,
       "title": "Magnitude 5.9 earthquake strikes Tibet region: EMSC",
-      "updated_at": "2026-10-25T15:11:32.743511+00:00",
+      "updated_at": "2026-10-25T15:11:35.235010+00:00",
       "url": "https://www.thehindu.com/news/international/tibet-earthquake-magnitude-59-earthquake-updates-october-25-2026/article71623292.ece"
     },
     "45458b2360546473da4bed10": {
@@ -1157,9 +1158,10 @@
     "6f2a3db7d00479152bd4c254": {
       "published_at": "2026-10-25T13:07:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10300,
       "title": "BJP questions Kerala CM’s ‘selective secularism’ over beef, Jinnah statue at Fort Kochi cafe",
-      "updated_at": "2026-10-25T15:11:32.743531+00:00",
+      "updated_at": "2026-10-25T15:11:43.304014+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjp-questions-kerala-cm-s-selective-secularism-over-beef-jinnah-statue-at-fort-kochi-kashi-art-cafe-101792929690760.html"
     },
     "6fe185b26c7b94045b10f1f1": {
@@ -1690,9 +1692,10 @@
     "a467ad07ebc3c64000b5ac93": {
       "published_at": "2026-10-25T12:51:41+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10299,
       "title": "Ex-IAS officer Divya Mittal's new party looks to field 'strong candidates' across 403 seats in UP",
-      "updated_at": "2026-10-25T15:11:32.743527+00:00",
+      "updated_at": "2026-10-25T15:11:39.209928+00:00",
       "url": "https://www.hindustantimes.com/india-news/exias-officer-divya-mittals-new-janneeti-bharat-party-looks-to-field-strong-candidates-across-403-seats-in-up-assembly-elections-2027-101792928379850.html"
     },
     "a4b2d6578e450babafb00268": {
@@ -2226,9 +2229,10 @@
     "d7d0b5415ec50cca3d19921b": {
       "published_at": "2026-10-25T13:09:42+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10301,
       "title": "Jaishankar says Global South faces '4F crisis' of finance, fuel, food, fertilisers; urges Global North to act",
-      "updated_at": "2026-10-25T15:11:32.743533+00:00",
+      "updated_at": "2026-10-25T15:11:47.635851+00:00",
       "url": "https://www.hindustantimes.com/india-news/jaishankar-says-global-south-faces-4f-crisis-of-finance-fuel-food-fertilisers-urges-global-north-to-act-101792932534577.html"
     },
     "d802b933a3e2c94fa8000d4e": {
@@ -2660,6 +2664,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:11:32.743888+00:00",
+  "last_cycle_at": "2026-10-25T15:11:50.836817+00:00",
   "schema_version": 1
 }
