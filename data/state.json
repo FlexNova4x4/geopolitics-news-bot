@@ -405,6 +405,14 @@
       "updated_at": "2026-10-25T16:13:13.421749+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/tgsrtc-launches-600-weekly-bus-pass-for-unlimited-travel-within-greater-hyderabad-limits/article71623843.ece"
     },
+    "1cc15881eea0f528d98c3672": {
+      "published_at": "2026-10-25T15:21:26+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Thousands mourn victims of deadly Jordan church attack",
+      "updated_at": "2026-10-25T16:14:50.284115+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
+    },
     "1f4bee06e2b5fa2cf7ec1b97": {
       "published_at": "2026-10-24T23:49:00+00:00",
       "source": "rss.dw.com",
@@ -691,6 +699,14 @@
       "updated_at": "2026-10-24T23:59:19.369182+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss"
     },
+    "2fc9182cfe3c596ec571b8b6": {
+      "published_at": "2026-10-25T15:23:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Keralam police inspector suspended over woman’s allegation of promise to marry",
+      "updated_at": "2026-10-25T16:14:50.284133+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-police-inspector-suspended-over-womans-allegation-of-promise-to-marry/article71623884.ece"
+    },
     "2fd3d586b7968cece97a8173": {
       "published_at": "2026-10-25T07:32:26+00:00",
       "source": "hindustantimes.com",
@@ -861,6 +877,14 @@
       "title": "Stalin calls on DMK cadres to prepare to oust TVK-led government soon in Tamil Nadu",
       "updated_at": "2026-10-25T08:34:53.763027+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-calls-on-dmk-cadres-to-prepare-to-oust-tvk-led-government-soon-in-tamil-nadu/article71622737.ece"
+    },
+    "3c497751b4196702db1904df": {
+      "published_at": "2026-10-25T15:23:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Ghulam Nabi Azad, Altaf Thakur flay Farooq Abdullah’s remarks on Pakistan as ‘Kashmir’s saviour’",
+      "updated_at": "2026-10-25T16:14:50.284144+00:00",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ghulam-nabi-azad-altaf-thakur-flay-farooqabdullahs-remarks-on-pakistan-as-kashmirs-saviour/article71623853.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
       "published_at": "2026-10-25T01:05:16+00:00",
@@ -3170,6 +3194,14 @@
       "updated_at": "2026-10-24T22:47:16.636863+00:00",
       "url": "https://thediplomat.com/2026/10/japan-needs-higher-interest-rates"
     },
+    "ec14316aecc5793351e25bbe": {
+      "published_at": "2026-10-25T15:23:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kakinada, East Godavari districts step up cyclone preparedness",
+      "updated_at": "2026-10-25T16:14:50.284139+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-east-godavari-districts-step-up-cyclone-preparedness/article71623978.ece"
+    },
     "ee273e8d6d2effa2e3171640": {
       "published_at": "2026-10-24T23:50:02+00:00",
       "source": "feeds.bbci.co.uk",
@@ -3492,6 +3524,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:14:44.760731+00:00",
+  "last_cycle_at": "2026-10-25T16:14:50.284779+00:00",
   "schema_version": 1
 }
