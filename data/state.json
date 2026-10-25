@@ -955,9 +955,10 @@
     "3a355d1b9dc5b73f24db6ce2": {
       "published_at": "2026-10-25T17:05:01+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10451,
       "title": "Assam CM Himanta Biswa Sarma, cabinet ministers dance to Gangnam Style, AI-generated video crosses 2.5 million views",
-      "updated_at": "2026-10-25T18:12:37.679540+00:00",
+      "updated_at": "2026-10-25T18:12:52.161384+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-cm-himanta-biswa-sarma-cabinet-ministers-dance-to-gangnam-style-ai-generated-video-crosses-2-5-million-views-watch-101792931827581.html"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -2109,9 +2110,10 @@
     "82fecadb5678e7baac3f3410": {
       "published_at": "2026-10-25T17:00:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10448,
       "title": "Why has West Bengal cleared land for the BSF now? | Explained",
-      "updated_at": "2026-10-25T18:12:37.679519+00:00",
+      "updated_at": "2026-10-25T18:12:40.242328+00:00",
       "url": "https://www.thehindu.com/news/national/why-has-west-bengal-cleared-land-for-the-bsf-now-explained/article71301118.ece"
     },
     "83a1ffacabe7c1272dc6457f": {
@@ -3011,9 +3013,10 @@
     "c32f2aaa9d0a06775cda28f4": {
       "published_at": "2026-10-25T17:03:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10450,
       "title": "U.K. PM Burnham says he is open to discussing EU free movement",
-      "updated_at": "2026-10-25T18:12:37.679537+00:00",
+      "updated_at": "2026-10-25T18:12:48.160755+00:00",
       "url": "https://www.thehindu.com/news/international/uk-pm-burnham-says-he-is-open-to-discussing-eu-free-movement/article71624415.ece"
     },
     "c33084738f32e4bb9ee34dba": {
@@ -3647,9 +3650,10 @@
     "eecae1ccef23698487fc82e1": {
       "published_at": "2026-10-25T17:03:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10449,
       "title": "The road ahead for the Asiatic lion",
-      "updated_at": "2026-10-25T18:12:37.679533+00:00",
+      "updated_at": "2026-10-25T18:12:44.262713+00:00",
       "url": "https://www.thehindu.com/news/national/the-road-ahead-for-the-asiatic-lion/article71309290.ece"
     },
     "f0d9af4482809cd2e7b0e187": {
@@ -4001,6 +4005,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:12:37.680061+00:00",
+  "last_cycle_at": "2026-10-25T18:12:55.362594+00:00",
   "schema_version": 1
 }
