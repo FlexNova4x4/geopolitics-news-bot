@@ -180,6 +180,14 @@
       "updated_at": "2026-10-25T07:34:53.275855+00:00",
       "url": "https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece"
     },
+    "092436db22ca165e0b175cbc": {
+      "published_at": "2026-10-25T16:20:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Why is Rahul Gandhi silent on his promises to Telangana youth: KTR",
+      "updated_at": "2026-10-25T16:41:37.753893+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/why-is-rahul-gandhi-silent-on-his-promises-to-telangana-youth-ktr/article71624226.ece"
+    },
     "092c69422c4d4a965582fa4c": {
       "published_at": "2026-10-25T07:10:37+00:00",
       "source": "thehindu.com",
@@ -871,6 +879,14 @@
       "updated_at": "2026-10-24T23:59:52.150385+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
     },
+    "3597c9b454d48930ebf04fe4": {
+      "published_at": "2026-10-25T16:22:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar",
+      "updated_at": "2026-10-25T16:41:37.753906+00:00",
+      "url": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece"
+    },
     "35c67fdb10b3910ba1b39a56": {
       "published_at": "2026-10-25T03:20:16+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1176,6 +1192,14 @@
       "title": "Woman attacks brother-in-law's private parts in Kanpur, police register case",
       "updated_at": "2026-10-25T15:16:42.638539+00:00",
       "url": "https://www.hindustantimes.com/india-news/woman-attacks-brother-in-laws-private-parts-in-kanpur-uttar-pradesh-police-register-case-101792935647904.html"
+    },
+    "4f9596d87794c5b0c382d3b0": {
+      "published_at": "2026-10-25T16:21:40+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "updated_at": "2026-10-25T16:41:37.753901+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
     },
     "4fb0b6aa4688db957ab7fb59": {
       "published_at": "2026-10-25T07:33:35+00:00",
@@ -1792,6 +1816,14 @@
       "title": "How people’s genes are revealing why some languages are so unique",
       "updated_at": "2026-10-25T15:14:15.508847+00:00",
       "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
+    },
+    "76dcebc49a6819fe200789b9": {
+      "published_at": "2026-10-25T16:16:48+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Jordanians mourn victims of deadly church attack",
+      "updated_at": "2026-10-25T16:41:37.753821+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
     },
     "774e9fc1f4419ee269fc435f": {
       "published_at": "2026-10-25T02:45:43+00:00",
@@ -3735,6 +3767,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:41:33.115558+00:00",
+  "last_cycle_at": "2026-10-25T16:41:37.754575+00:00",
   "schema_version": 1
 }
