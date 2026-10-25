@@ -1251,9 +1251,10 @@
     "5975cf1355c5c0b0b74a653f": {
       "published_at": "2026-10-25T15:34:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10404,
       "title": "Haryana guest teachers demand regularisation of services, march to Chandigarh",
-      "updated_at": "2026-10-25T16:16:02.648321+00:00",
+      "updated_at": "2026-10-25T16:16:09.045088+00:00",
       "url": "https://www.thehindu.com/news/national/haryana/haryana-guest-teachers-demand-regularisation-of-services-march-to-chandigarh/article71623748.ece"
     },
     "59b4867865910abe7cc097e2": {
@@ -2473,9 +2474,10 @@
     "b0ba69676148e54e4c460e86": {
       "published_at": "2026-10-25T15:33:25+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10403,
       "title": "‘Mafia’: BJP attacks Congress after Kharge’s ‘baap’ remark targeting PM Modi",
-      "updated_at": "2026-10-25T16:16:02.648306+00:00",
+      "updated_at": "2026-10-25T16:16:04.984630+00:00",
       "url": "https://www.hindustantimes.com/india-news/mafia-gang-bjp-attacks-congress-after-kharge-s-baap-remark-targeting-pm-modi-bihar-patna-101792941758920.html"
     },
     "b1921293cc4a250f809ac09f": {
@@ -3261,9 +3263,10 @@
     "ee77797f0e1ae753785e33b0": {
       "published_at": "2026-10-25T15:37:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10405,
       "title": "Pulikeshi Nagar blast: Personal grudge, YouTube videos, WhatsApp group and an IED",
-      "updated_at": "2026-10-25T16:16:02.648325+00:00",
+      "updated_at": "2026-10-25T16:16:12.963712+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/personal-grudge-youtube-videos-whatsapp-group-and-an-ied/article71624008.ece"
     },
     "f0e2b30daa888fd1cdfad8e0": {
@@ -3323,9 +3326,10 @@
     "f3aaac77f2002d4d70c45943": {
       "published_at": "2026-10-25T15:38:52+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10406,
       "title": "UN official warns AI could ‘deepen’ global inequality",
-      "updated_at": "2026-10-25T16:16:02.648328+00:00",
+      "updated_at": "2026-10-25T16:16:16.909232+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss"
     },
     "f3b63f8d0b46daefc276af34": {
@@ -3596,6 +3600,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:16:02.648773+00:00",
+  "last_cycle_at": "2026-10-25T16:16:20.110327+00:00",
   "schema_version": 1
 }
