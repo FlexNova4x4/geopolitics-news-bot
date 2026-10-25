@@ -363,9 +363,10 @@
     "1b09205a382a09834abe190e": {
       "published_at": "2026-10-25T14:47:55+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10367,
       "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "updated_at": "2026-10-25T16:11:41.565125+00:00",
+      "updated_at": "2026-10-25T16:11:44.191440+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss"
     },
     "1bddb0948a2186c4c5b46ab9": {
@@ -1204,9 +1205,10 @@
     "5b9e27bab672731b2f800dd8": {
       "published_at": "2026-10-25T14:49:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10370,
       "title": "Over 840 motorists caught for drunk driving in Hyderabad, Malkajgiri commissionerate limits",
-      "updated_at": "2026-10-25T16:11:41.565145+00:00",
+      "updated_at": "2026-10-25T16:11:55.986499+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/over-840-motorists-caught-for-drunk-driving-in-hyderabad-malkajgiri-commissionerate-limits/article71623581.ece"
     },
     "5c1ed4113d721321c01f1401": {
@@ -1239,9 +1241,10 @@
     "5d37ae1020a3bd90c3126f48": {
       "published_at": "2026-10-25T14:48:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10369,
       "title": "Free travel scheme: Keralam govt. releases ₹88.23 crore to KSRTC to cover revenue loss",
-      "updated_at": "2026-10-25T16:11:41.565142+00:00",
+      "updated_at": "2026-10-25T16:11:52.075042+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/free-travel-scheme-keralam-govt-releases-8823-crore-to-ksrtc-to-cover-revenue-loss/article71623733.ece"
     },
     "5ff5a5b34653f3e2b8a06cf4": {
@@ -1873,9 +1876,10 @@
     "91f25ed6dbf384bec341cc91": {
       "published_at": "2026-10-25T14:48:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10368,
       "title": "Railway Board urged to expedite cadre restructuring orders",
-      "updated_at": "2026-10-25T16:11:41.565139+00:00",
+      "updated_at": "2026-10-25T16:11:48.167721+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/railway-board-urged-to-expedite-cadre-restructuring-orders/article71623214.ece"
     },
     "9374b36218aa40d4d311bff3": {
@@ -3272,6 +3276,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T16:11:41.565828+00:00",
+  "last_cycle_at": "2026-10-25T16:11:59.187542+00:00",
   "schema_version": 1
 }
