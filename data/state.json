@@ -297,6 +297,14 @@
       "updated_at": "2026-10-25T05:38:11.681869+00:00",
       "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
+    "179ab4507cc1739399aa9ac3": {
+      "published_at": "2026-10-25T14:15:58+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Award-winning theoretical physicist Ashoke Sen has focused on string theory",
+      "updated_at": "2026-10-25T15:14:48.169177+00:00",
+      "url": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece"
+    },
     "17b0c5e907073177988a3c1c": {
       "published_at": "2026-10-25T11:23:07+00:00",
       "source": "hindustantimes.com",
@@ -564,6 +572,14 @@
       "title": "Dhanush to meet over 3,000 women fan club members today amid buzz on political debut",
       "updated_at": "2026-10-25T08:04:36.639408+00:00",
       "url": "https://www.hindustantimes.com/india-news/dhanush-narpani-iyakkam-fan-club-meeting-political-entry-debut-c-joseph-vijay-tamil-nadu-101792913100558.html"
+    },
+    "2ff4a1771e5181ce5d42e451": {
+      "published_at": "2026-10-25T14:14:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Researchers secure patent for automated homeopathy medicine dispenser",
+      "updated_at": "2026-10-25T15:14:48.169150+00:00",
+      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/researchers-secure-patent-for-automated-homeopathy-medicine-dispenser/article71623451.ece"
     },
     "30f2aa4da98503eacba52e9a": {
       "published_at": "2026-10-25T13:29:09+00:00",
@@ -1030,6 +1046,14 @@
       "title": "Korean Dramas: Ukraine, Russia, and Where South Korea Begins",
       "updated_at": "2026-10-24T22:47:12.523495+00:00",
       "url": "https://thediplomat.com/2026/10/korean-dramas-ukraine-russia-and-where-south-korea-begins"
+    },
+    "5b850988cff3ad097502ce95": {
+      "published_at": "2026-10-25T14:15:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "TG-iPASS portal to be restored in two days after cyberattack",
+      "updated_at": "2026-10-25T15:14:48.169155+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/tg-ipass-portal-to-be-restored-in-two-days-after-cyberattack/article71623629.ece"
     },
     "5c2d244e8a615ca8f4db9e35": {
       "published_at": "2026-10-25T11:12:50+00:00",
@@ -1512,6 +1536,14 @@
       "title": "'Looted wealth in Lord Ram's name': Kharge targets BJP over Ayodhya temple fund theft case",
       "updated_at": "2026-10-25T11:04:25.563137+00:00",
       "url": "https://www.hindustantimes.com/india-news/looted-wealth-in-lord-rams-name-kharge-targets-bjp-over-ayodhya-temple-fund-theft-case-101792923957003.html"
+    },
+    "82c2ac04ba85f6da899fde27": {
+      "published_at": "2026-10-25T14:12:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Court revokes bail of accused in POCSO case",
+      "updated_at": "2026-10-25T15:14:48.169135+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/court-revokes-bail-of-accused-in-pocso-case/article71623016.ece"
     },
     "83a1ffacabe7c1272dc6457f": {
       "published_at": "2026-10-25T02:07:29+00:00",
@@ -2916,6 +2948,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T15:14:42.826467+00:00",
+  "last_cycle_at": "2026-10-25T15:14:48.169544+00:00",
   "schema_version": 1
 }
