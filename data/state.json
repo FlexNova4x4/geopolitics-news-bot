@@ -57,9 +57,10 @@
     "032f65291ff84736e0e9620c": {
       "published_at": "2026-10-25T18:06:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10468,
       "title": "APSCHE to hold State-level AISHE workshop for university nodal officers in Vijayawada on October 26",
-      "updated_at": "2026-10-25T18:14:41.988076+00:00",
+      "updated_at": "2026-10-25T18:14:44.393900+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-to-hold-state-level-aishe-workshop-for-university-nodal-officers-in-vijayawada-on-october-26/article71623988.ece"
     },
     "0341e669e1f302ba2fe8096c": {
@@ -1823,9 +1824,10 @@
     "6edc4a40f0cfb6016b734a0c": {
       "published_at": "2026-10-25T18:06:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10469,
       "title": "Like Kerala, T.N. government should pass resolution in State Assembly to scrap SIR, says CPI (M) politburo member",
-      "updated_at": "2026-10-25T18:14:41.988091+00:00",
+      "updated_at": "2026-10-25T18:14:48.545818+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/like-kerala-tn-government-should-pass-resolution-in-state-assembly-to-scrap-sir-says-cpi-m-politburo-member/article71623414.ece"
     },
     "6ef0d95a47dc303632a2cae8": {
@@ -4165,6 +4167,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:14:41.988607+00:00",
+  "last_cycle_at": "2026-10-25T18:14:51.747035+00:00",
   "schema_version": 1
 }
