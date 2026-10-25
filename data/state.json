@@ -54,6 +54,14 @@
       "updated_at": "2026-10-25T15:17:47.049402+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-case-chennai-police-issue-loc-restraining-five-suspects-from-leaving-india/article71623500.ece"
     },
+    "032f65291ff84736e0e9620c": {
+      "published_at": "2026-10-25T18:06:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "APSCHE to hold State-level AISHE workshop for university nodal officers in Vijayawada on October 26",
+      "updated_at": "2026-10-25T18:14:41.988076+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-to-hold-state-level-aishe-workshop-for-university-nodal-officers-in-vijayawada-on-october-26/article71623988.ece"
+    },
     "0341e669e1f302ba2fe8096c": {
       "published_at": "2026-10-25T07:18:57+00:00",
       "source": "thehindu.com",
@@ -1811,6 +1819,14 @@
       "title": "‘Modi ka baap bhi jayega’: Kharge’s remark in Bihar sparks row; BJP says Congress seems more like ‘mafia’",
       "updated_at": "2026-10-25T15:17:30.970568+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece"
+    },
+    "6edc4a40f0cfb6016b734a0c": {
+      "published_at": "2026-10-25T18:06:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Like Kerala, T.N. government should pass resolution in State Assembly to scrap SIR, says CPI (M) politburo member",
+      "updated_at": "2026-10-25T18:14:41.988091+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/like-kerala-tn-government-should-pass-resolution-in-state-assembly-to-scrap-sir-says-cpi-m-politburo-member/article71623414.ece"
     },
     "6ef0d95a47dc303632a2cae8": {
       "published_at": "2026-10-25T16:46:20+00:00",
@@ -4149,6 +4165,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T18:14:38.005204+00:00",
+  "last_cycle_at": "2026-10-25T18:14:41.988607+00:00",
   "schema_version": 1
 }
