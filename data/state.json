@@ -173,9 +173,10 @@
     "2cdc6dcb065cda9bbc26f623": {
       "published_at": "2026-10-25T01:00:56+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10096,
       "title": "Delhi gets pollution source data, but a big chunk stays unexplained",
-      "updated_at": "2026-10-25T05:38:27.522897+00:00",
+      "updated_at": "2026-10-25T05:38:29.515651+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhis-new-pollution-study-leaves-major-sources-unidentified-relies-on-outdated-data-101792886406730.html"
     },
     "2dc380cfa0488430591621c1": {
@@ -252,9 +253,10 @@
     "3d40bf7c5ccd76e0d34b0491": {
       "published_at": "2026-10-25T01:05:16+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10099,
       "title": "Details of software used in SIR exempt from RTI, Election Commission cites 'trade secrets'",
-      "updated_at": "2026-10-25T05:38:27.522926+00:00",
+      "updated_at": "2026-10-25T05:38:41.448804+00:00",
       "url": "https://www.hindustantimes.com/india-news/details-of-software-used-in-sir-exempt-from-rti-election-commission-cites-trade-secrets-101792887710352.html"
     },
     "3deb5ef23a745550ea5ecfc5": {
@@ -628,9 +630,10 @@
     "a1bc666fee8c90260ebe2dc3": {
       "published_at": "2026-10-25T01:05:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10098,
       "title": "Road Ministry seeks forensic audit of its portals after vehicle data leak",
-      "updated_at": "2026-10-25T05:38:27.522922+00:00",
+      "updated_at": "2026-10-25T05:38:37.523425+00:00",
       "url": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece"
     },
     "a2b868bf8a4831b551cd6e0b": {
@@ -819,9 +822,10 @@
     "fc5647aa20e96610287155ae": {
       "published_at": "2026-10-25T01:03:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10097,
       "title": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
-      "updated_at": "2026-10-25T05:38:27.522916+00:00",
+      "updated_at": "2026-10-25T05:38:33.613867+00:00",
       "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece"
     },
     "fcc15f0e001ca52f5347dc70": {
@@ -869,6 +873,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:38:27.523093+00:00",
+  "last_cycle_at": "2026-10-25T05:38:44.649548+00:00",
   "schema_version": 1
 }
