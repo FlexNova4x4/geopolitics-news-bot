@@ -102,9 +102,10 @@
     "13c516bafc4edcdc379088bc": {
       "published_at": "2026-10-25T04:15:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10121,
       "title": "News in frames: Kutch’s dwindling camel population",
-      "updated_at": "2026-10-25T05:40:40.424088+00:00",
+      "updated_at": "2026-10-25T05:40:46.206531+00:00",
       "url": "https://www.thehindu.com/news/national/gujarat/news-in-frames-kutchs-dwindling-camel-population/article71622558.ece"
     },
     "1465f4d8bc4c6500e418081c": {
@@ -518,9 +519,10 @@
     "7132157c130931055a1a4ad2": {
       "published_at": "2026-10-25T04:18:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10122,
       "title": "Musk accuses Ukraine of violating Starlink's terms of service",
-      "updated_at": "2026-10-25T05:40:40.424091+00:00",
+      "updated_at": "2026-10-25T05:40:50.126815+00:00",
       "url": "https://www.thehindu.com/news/international/musk-accuses-ukraine-of-violating-starlink-terms-by-using-it-for-offensive-drone-strikes/article71622539.ece"
     },
     "75158c1834e1c18ed588fa82": {
@@ -790,9 +792,10 @@
     "a9fc2dd191984b3d6a7c9816": {
       "published_at": "2026-10-25T04:18:38+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10123,
       "title": "UP Congress alleges voter discrepancies were being corrected through Form-8",
-      "updated_at": "2026-10-25T05:40:40.424094+00:00",
+      "updated_at": "2026-10-25T05:40:54.012202+00:00",
       "url": "https://www.hindustantimes.com/india-news/up-congress-alleges-voter-discrepancies-were-being-corrected-through-form8-101792899110349.html"
     },
     "ab32eb13a859b69f063f9d9a": {
@@ -956,9 +959,10 @@
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10120,
       "title": "Amit Shah hails ‘another lethal blow’ as Operation Trident strikes drug cartels across Assam, Manipur, Mizoram",
-      "updated_at": "2026-10-25T05:40:40.424073+00:00",
+      "updated_at": "2026-10-25T05:40:42.302794+00:00",
       "url": "https://www.hindustantimes.com/india-news/amit-shah-hails-another-lethal-blow-as-operation-trident-strikes-drug-cartels-across-assam-manipur-mizoram-101792900242489.html"
     },
     "e749d6eb84069fcff952587f": {
@@ -1085,6 +1089,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T05:40:40.424282+00:00",
+  "last_cycle_at": "2026-10-25T05:40:57.213028+00:00",
   "schema_version": 1
 }
