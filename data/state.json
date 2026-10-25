@@ -12,9 +12,10 @@
     "02311d6adcf0eed7be9b2f25": {
       "published_at": "2026-10-25T06:02:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10155,
       "title": "At least 12 injured in shooting near football stadium in Florida",
-      "updated_at": "2026-10-25T06:35:06.752406+00:00",
+      "updated_at": "2026-10-25T06:35:12.810041+00:00",
       "url": "https://www.thehindu.com/news/international/florida-campus-university-shooting-many-injured/article71622656.ece"
     },
     "04b0f0953fbbaa43cc19de9e": {
@@ -307,9 +308,10 @@
     "2ec8d553ad3ddd29d40fa1ab": {
       "published_at": "2026-10-25T06:10:02+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10157,
       "title": "‘JD(U) is finished’: Expelled MLA Anant Singh says party will be reduced to 10-12 seats, hints at own outfit",
-      "updated_at": "2026-10-25T06:35:06.752412+00:00",
+      "updated_at": "2026-10-25T06:35:20.604096+00:00",
       "url": "https://www.hindustantimes.com/india-news/expelled-bihar-mla-anant-singh-jdu-nitish-kumar-mokama-news-101792908331081.html"
     },
     "2f2eb773feba18c62bfa3653": {
@@ -555,9 +557,10 @@
     "5ff5a5b34653f3e2b8a06cf4": {
       "published_at": "2026-10-25T06:08:16+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10156,
       "title": "Rahul Gandhi calls for ‘Chalo Dilli’ march at Delhi's Ramlila Maidan against CEC on November 1",
-      "updated_at": "2026-10-25T06:35:06.752409+00:00",
+      "updated_at": "2026-10-25T06:35:16.680351+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-calls-for-chalo-dilli-march-at-delhis-ramlila-maidan-against-cec-on-november-1-101792905969083.html"
     },
     "605943d1806b7d3baa4680a1": {
@@ -996,9 +999,10 @@
     "aaa731da7deaa2d7e7c4bc0c": {
       "published_at": "2026-10-25T05:45:31+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10154,
       "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "updated_at": "2026-10-25T06:35:06.752387+00:00",
+      "updated_at": "2026-10-25T06:35:08.840575+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
     },
     "ab32eb13a859b69f063f9d9a": {
@@ -1391,6 +1395,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
     }
   },
-  "last_cycle_at": "2026-10-25T06:35:06.752581+00:00",
+  "last_cycle_at": "2026-10-25T06:35:23.804891+00:00",
   "schema_version": 1
 }
