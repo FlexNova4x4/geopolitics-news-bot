@@ -1788,9 +1788,10 @@
     "720175f01aba8944a8435722": {
       "published_at": "2026-10-25T16:49:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10440,
       "title": "Naseeruddin Shah wants to weaken democracy in country: BJP",
-      "updated_at": "2026-10-25T17:13:06.101054+00:00",
+      "updated_at": "2026-10-25T17:13:08.423264+00:00",
       "url": "https://www.thehindu.com/news/cities/kolkata/naseeruddin-shah-wants-to-weaken-democracy-in-country-bjp/article71624214.ece"
     },
     "72409e7b4cb4479b8e842e1e": {
@@ -2091,9 +2092,10 @@
     "83e258b80ad169fb4fed068a": {
       "published_at": "2026-10-25T16:50:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10442,
       "title": "Behind China’s AI gift, a constraint",
-      "updated_at": "2026-10-25T17:13:06.101078+00:00",
+      "updated_at": "2026-10-25T17:13:16.354839+00:00",
       "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece"
     },
     "858bac4d566303ced3b3ff4d": {
@@ -3477,9 +3479,10 @@
     "e7c94022901ea2b1e50be64b": {
       "published_at": "2026-10-25T16:49:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10441,
       "title": "Israel presses ahead with West Bank operation as election approaches",
-      "updated_at": "2026-10-25T17:13:06.101074+00:00",
+      "updated_at": "2026-10-25T17:13:12.430989+00:00",
       "url": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece"
     },
     "e8374bfa1407713775077eba": {
@@ -3584,9 +3587,10 @@
     "f0d9af4482809cd2e7b0e187": {
       "published_at": "2026-10-25T16:55:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10443,
       "title": "Many places in T.N., Puducherry likely to receive moderate rain on October 26",
-      "updated_at": "2026-10-25T17:13:06.101083+00:00",
+      "updated_at": "2026-10-25T17:13:20.297039+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/many-places-in-tn-puducherry-likely-to-receive-moderate-rain-on-october-26/article71624263.ece"
     },
     "f0e2b30daa888fd1cdfad8e0": {
@@ -3929,6 +3933,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-25T17:13:06.101626+00:00",
+  "last_cycle_at": "2026-10-25T17:13:23.498231+00:00",
   "schema_version": 1
 }
