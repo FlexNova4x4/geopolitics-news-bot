@@ -12,9 +12,10 @@
     "0067564a24ee603ac38e8ad9": {
       "published_at": "2026-10-26T09:32:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10927,
       "title": "Sanjay takes charge as DG, AP Disaster Response and Fire Services",
-      "updated_at": "2026-10-26T10:43:38.040339+00:00",
+      "updated_at": "2026-10-26T10:43:44.742615+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/sanjay-takes-charge-as-dg-ap-disaster-response-and-fire-services/article66037034.ece"
     },
     "00f750aac2590202af7dd8a9": {
@@ -4825,9 +4826,10 @@
     "97d551b54d137d0c997308a8": {
       "published_at": "2026-10-26T09:38:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10929,
       "title": "Satellite image shows Cyclone Arnab moving towards Andhra as storm intensifies over Bay of Bengal ahead of October 28 landfall",
-      "updated_at": "2026-10-26T10:43:38.040345+00:00",
+      "updated_at": "2026-10-26T10:43:52.653508+00:00",
       "url": "https://www.hindustantimes.com/india-news/satellite-images-show-cyclone-arnab-moving-towards-east-coast-as-storm-intensifies-over-bay-of-bengal-october-28-landfall-andhra-pradesh-odisha-101793006330446.html"
     },
     "97f9eb2ffe11c8f74dfe0f43": {
@@ -5029,9 +5031,10 @@
     "9def979b58e94ad698e81cb7": {
       "published_at": "2026-10-26T09:34:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10928,
       "title": "Why Poland wants a stronger relationship with India | The Hindu Editorial",
-      "updated_at": "2026-10-26T10:43:38.040342+00:00",
+      "updated_at": "2026-10-26T10:43:48.628987+00:00",
       "url": "https://www.thehindu.com/videos/why-poland-wants-a-stronger-relationship-with-india-the-hindu-editorial/article71626195.ece"
     },
     "9dfbe8b1ed2aea301448096b": {
@@ -6455,9 +6458,10 @@
     "cad7ec98c61a8453fc9cdb7f": {
       "published_at": "2026-10-25T22:37:27+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10926,
       "title": "हमीरपुर: वोट बचाओ, देश बचाओ रैली में भाग लेंगे सुजानपुर से कांग्रेस कार्यकर्ता",
-      "updated_at": "2026-10-26T10:43:38.040324+00:00",
+      "updated_at": "2026-10-26T10:43:40.648800+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-congress-workers-from-sujanpur-to-participate-in-the-save-votes-save-the-nation-rally-2026-10-26"
     },
     "caf45fcb27a56d22f14c855e": {
@@ -8263,6 +8267,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:43:38.041199+00:00",
+  "last_cycle_at": "2026-10-26T10:43:55.855000+00:00",
   "schema_version": 1
 }
