@@ -1115,6 +1115,14 @@
       "updated_at": "2026-10-26T06:44:09.772593+00:00",
       "url": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece"
     },
+    "24877472ff335fb4c261d465": {
+      "published_at": "2026-10-26T09:16:52+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "YSRCP’s claim of obstruction in local polls misleading, says TDP MLC Bhumireddy",
+      "updated_at": "2026-10-26T09:44:29.786564+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcps-claim-of-obstruction-in-local-polls-misleading-says-tdp-mlc-bhumireddy/article71625959.ece"
+    },
     "24f42936a0cafb0637010f5c": {
       "published_at": "2026-10-25T21:10:44+00:00",
       "source": "amarujala.com",
@@ -1959,6 +1967,14 @@
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
+    "4001f3c359678b7bde3cd14c": {
+      "published_at": "2026-10-26T09:11:56+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Hyderabad woman found dead after video call with colleague over marriage",
+      "updated_at": "2026-10-26T09:44:29.786545+00:00",
+      "url": "https://www.hindustantimes.com/india-news/hyderabad-woman-found-dead-after-allegedly-threatening-suicide-during-video-call-with-colleague-over-marriage-101792995568744.html"
+    },
     "40802b12010463f02e668cc7": {
       "published_at": "2026-10-25T14:40:37+00:00",
       "source": "thehindu.com",
@@ -2174,6 +2190,14 @@
       "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
       "updated_at": "2026-10-25T11:34:46.583810+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
+    },
+    "46f4e10bfaea2b18de4b40f1": {
+      "published_at": "2026-10-26T09:15:21+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+      "updated_at": "2026-10-26T09:44:29.786561+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss"
     },
     "47245942f54fb155ec0350ab": {
       "published_at": "2026-10-25T22:57:18+00:00",
@@ -6293,6 +6317,14 @@
       "updated_at": "2026-10-26T00:56:31.473188+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-congress-likens-vote-protest-to-quit-india-movement"
     },
+    "cbac302112c74c9f6e5a8448": {
+      "published_at": "2026-10-26T09:17:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Omni bus cleaner killed, over 40 passengers injured in accident on highway in Tiruchi district",
+      "updated_at": "2026-10-26T09:44:29.786567+00:00",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/omni-bus-cleaner-killed-over-40-passengers-injured-in-accident-on-highway-in-tiruchi-district/article71626014.ece"
+    },
     "cc251f6b28448253d66ba62e": {
       "published_at": "2026-10-25T16:40:23+00:00",
       "source": "hindustantimes.com",
@@ -8015,6 +8047,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:44:25.076023+00:00",
+  "last_cycle_at": "2026-10-26T09:44:29.787548+00:00",
   "schema_version": 1
 }
