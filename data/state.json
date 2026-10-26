@@ -1926,9 +1926,10 @@
     "49e6c8a2fbc0493813bc1de6": {
       "published_at": "2026-10-26T06:13:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10749,
       "title": "What was leaked in the Censor Board data breach? | Explained",
-      "updated_at": "2026-10-26T06:23:54.634743+00:00",
+      "updated_at": "2026-10-26T06:24:09.751949+00:00",
       "url": "https://www.thehindu.com/sci-tech/technology/what-was-leaked-in-the-censor-board-data-breach-explained/article71625769.ece"
     },
     "4a04e1b416f1b37cffdbb177": {
@@ -3045,9 +3046,10 @@
     "7484264c14558c2695e43fc8": {
       "published_at": "2026-10-26T06:05:01+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10747,
       "title": "कुल्लू दशहरा: आगाज से समापन तक माता हिडिंबा की विशेष भूमिका",
-      "updated_at": "2026-10-26T06:23:54.634738+00:00",
+      "updated_at": "2026-10-26T06:24:01.640831+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-hidimba-mata-special-role-international-kullu-dussehra-2026-10-26"
     },
     "74a7db7fd904ff1bb6ec3951": {
@@ -5493,9 +5495,10 @@
     "d55a0ecb3239c40e36d8b81a": {
       "published_at": "2026-10-26T06:04:34+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10746,
       "title": "हिमाचल: सरकारी नौकरी के नाम पर 20 लाख की ठगी का आरोप, बैंक में कार्यरत महिला गिरफ्तार; जानें पूरा मामला",
-      "updated_at": "2026-10-26T06:23:54.634722+00:00",
+      "updated_at": "2026-10-26T06:23:57.489307+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/hamirpur-woman-arrested-alleged-20-lakh-government-job-fraud-2026-10-26"
     },
     "d58590effe1c443fb536bca4": {
@@ -5608,9 +5611,10 @@
     "da95fb181a4212a82c22ad84": {
       "published_at": "2026-10-26T06:11:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10748,
       "title": "Discipline in water use key to resolving inter-State disputes: G.C. Tallur",
-      "updated_at": "2026-10-26T06:23:54.634741+00:00",
+      "updated_at": "2026-10-26T06:24:05.791780+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/discipline-in-water-use-key-to-resolving-inter-state-disputes-gc-tallur/article71623409.ece"
     },
     "dab6a6339517cfec1da101e4": {
@@ -6661,6 +6665,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:23:54.635431+00:00",
+  "last_cycle_at": "2026-10-26T06:24:12.953259+00:00",
   "schema_version": 1
 }
