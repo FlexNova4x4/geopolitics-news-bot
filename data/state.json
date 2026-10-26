@@ -650,9 +650,10 @@
     "2548ec50734d47c1df66d9dd": {
       "published_at": "2026-10-25T20:04:52+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10516,
       "title": "Bishop Cotton School alumni reconnect through ‘Walk of Fame’ in Shimla",
-      "updated_at": "2026-10-26T00:53:49.825759+00:00",
+      "updated_at": "2026-10-26T00:53:52.493666+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/bishop-cotton-school-alumni-reconnect-through-walk-of-fame-in-shimla"
     },
     "26315826209faa6b9171dad7": {
@@ -2512,9 +2513,10 @@
     "8a4f91dd3b3446f9af43ea10": {
       "published_at": "2026-10-25T20:07:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10518,
       "title": "नई पीढ़ी को संवारना परिवार और समाज की जिम्मेदारी : डॉ. शर्मा",
-      "updated_at": "2026-10-26T00:53:49.825777+00:00",
+      "updated_at": "2026-10-26T00:54:00.845225+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/nurturing-the-new-generation-is-the-responsibility-of-the-family-and-society-dr-sharma-solan-news-c-176-1-sln1006-182789-2026-10-25"
     },
     "8ab1c23be8ac8d3a118fd806": {
@@ -3621,9 +3623,10 @@
     "cf59167af9694ed9ffe036e0": {
       "published_at": "2026-10-25T20:07:35+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10519,
       "title": "Hamirpur (Himachal) News: सरकारी नौकरी के नाम पर 20 लाख की ठगी का आरोप, बैंक में कार्यरत महिला गिरफ्तार",
-      "updated_at": "2026-10-26T00:53:49.825780+00:00",
+      "updated_at": "2026-10-26T00:54:04.953584+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/woman-working-at-a-bank-arrested-on-charges-of-swindling-20-lakh-under-the-pretext-of-providing-a-government-job-hamirpur-hp-news-c-94-1-hmp1004-213367-2026-10-26"
     },
     "cf59a2d6364a524f8ecc208a": {
@@ -3755,9 +3758,10 @@
     "d51f6ad35b5b5481439ac051": {
       "published_at": "2026-10-25T20:05:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10517,
       "title": "Govt planning to recruit 5,000 teachers: Himachal Education Minister",
-      "updated_at": "2026-10-26T00:53:49.825774+00:00",
+      "updated_at": "2026-10-26T00:53:56.677209+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/govt-planning-to-recruit-5000-teachers-himachal-education-minister"
     },
     "d54947b887a680d3177878d0": {
@@ -4609,6 +4613,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:53:49.826228+00:00",
+  "last_cycle_at": "2026-10-26T00:54:08.154299+00:00",
   "schema_version": 1
 }
