@@ -2384,9 +2384,10 @@
     "47a2660e497114951924b1a4": {
       "published_at": "2026-10-25T23:58:09+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10984,
       "title": "चंबा: महर्षि वाल्मीकि जयंती पर पक्काटाला मंदिर में हुआ हवन-यज्ञ",
-      "updated_at": "2026-10-26T13:00:40.177962+00:00",
+      "updated_at": "2026-10-26T13:00:46.959605+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-havan-yajna-held-at-pakkatala-temple-on-the-occasion-of-maharishi-valmiki-jayanti-2026-10-26"
     },
     "47cb7ee84070f706e546de08": {
@@ -4479,9 +4480,10 @@
     "843bda69ad3649e8932b78da": {
       "published_at": "2026-10-25T23:54:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10983,
       "title": "अंतरराष्ट्रीय कुल्लू दशहरा: देवता खुडीजल से मिलने पहुंचे देवता छांजणु",
-      "updated_at": "2026-10-26T13:00:40.177944+00:00",
+      "updated_at": "2026-10-26T13:00:42.886495+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-international-kullu-dussehra-deity-chhanjanu-arrives-to-meet-deity-khudiyal-2026-10-26"
     },
     "8490f7619591dc2979297fb7": {
@@ -7010,9 +7012,10 @@
     "d0318af29a39d92f30213ae8": {
       "published_at": "2026-10-26T00:00:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10986,
       "title": "वीडियो: चिंतपूर्णी में आरएसएस ने निकाला पथ संचलन, जगह-जगह पुष्पवर्षा कर किया स्वागत",
-      "updated_at": "2026-10-26T13:00:40.177967+00:00",
+      "updated_at": "2026-10-26T13:00:54.941753+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-video-rss-holds-a-march-path-sanchalan-in-chintpurni-welcomed-with-showers-of-flowers-at-various-points-along-the-route-2026-10-26"
     },
     "d04c5fc00b7ee1ed27946b49": {
@@ -7897,9 +7900,10 @@
     "eab47781d24b2c24b343f2ed": {
       "published_at": "2026-10-25T23:59:46+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10985,
       "title": "हमीरपुर: सुनील शर्मा बिट्टू बोले- सात वर्ष बाद फिर आयोजित हमीर उत्सव",
-      "updated_at": "2026-10-26T13:00:40.177965+00:00",
+      "updated_at": "2026-10-26T13:00:50.971850+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-sunil-sharma-bittu-says-hamir-utsav-organized-again-after-seven-years-2026-10-26"
     },
     "eae98406a38dc2218ff3404a": {
@@ -8763,6 +8767,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:00:40.178513+00:00",
+  "last_cycle_at": "2026-10-26T13:00:58.143017+00:00",
   "schema_version": 1
 }
