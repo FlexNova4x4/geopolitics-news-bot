@@ -3274,6 +3274,14 @@
       "updated_at": "2026-10-24T23:59:02.292236+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
     },
+    "9b9ec05c423818f1f07a62c6": {
+      "published_at": "2026-10-26T02:14:30+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Nabin chairs meet to discuss BJP’s response to Oppn’s Nov 1 rally",
+      "updated_at": "2026-10-26T02:53:27.956038+00:00",
+      "url": "https://www.hindustantimes.com/india-news/nabin-chairs-meet-to-discuss-bjp-s-response-to-oppn-s-nov-1-rally-101792953948606.html"
+    },
     "9bbaaf14c8c7fb18ba4c643d": {
       "published_at": "2026-10-25T08:21:24+00:00",
       "source": "hindustantimes.com",
@@ -3800,6 +3808,14 @@
       "title": "FPIs withdraw ₹48,056 cr from equities in October so far amid elevated crude oil prices",
       "updated_at": "2026-10-25T08:35:13.303652+00:00",
       "url": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece"
+    },
+    "b79d13a62d8f847db37f8425": {
+      "published_at": "2026-10-26T02:15:00+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "First batch of 18k Agniveers set to leave forces by Dec 31, focus now on second career opportunities",
+      "updated_at": "2026-10-26T02:53:27.956042+00:00",
+      "url": "https://www.hindustantimes.com/india-news/first-batch-of-18k-agniveers-set-to-leave-forces-by-dec-31-focus-now-on-second-career-opportunities-101792953993653.html"
     },
     "b7a849a0d091a244318233dd": {
       "published_at": "2026-10-25T05:24:14+00:00",
@@ -4653,6 +4669,14 @@
       "updated_at": "2026-10-25T16:12:07.301397+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/some-devaswom-officials-involved-in-ghee-scam-claims-keralam-minister-muraleedharan/article71623896.ece"
     },
+    "e2c7d5e230dd1c2b493d4965": {
+      "published_at": "2026-10-26T02:18:33+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Aamir Khan was first target, Tiger Shroff allegedly targeted after shooters found Khan hard to reach",
+      "updated_at": "2026-10-26T02:53:27.956044+00:00",
+      "url": "https://www.tribuneindia.com/news/india/aamir-khan-was-first-target-tiger-shroff-allegedly-targeted-after-shooters-found-khan-hard-to-reach"
+    },
     "e2ca172b5a840d6f1d72d060": {
       "published_at": "2026-10-25T23:29:13+00:00",
       "source": "aljazeera.com",
@@ -4903,6 +4927,14 @@
       "title": "Two persons arrested in Ranipet for stealing two-wheelers",
       "updated_at": "2026-10-25T18:14:08.396672+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-in-ranipet-for-stealing-two-wheelers/article71623047.ece"
+    },
+    "f0b00401c7f38b0a1a91b23d": {
+      "published_at": "2026-10-26T02:13:40+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rahul urges farmers, students to join ‘Chalo Delhi’ on Nov 1",
+      "updated_at": "2026-10-26T02:53:27.956007+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rahul-urges-farmers-students-to-join-chalo-delhi-on-nov-1-101792953812071.html"
     },
     "f0d9af4482809cd2e7b0e187": {
       "published_at": "2026-10-25T16:55:08+00:00",
@@ -5369,6 +5401,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T02:53:20.847309+00:00",
+  "last_cycle_at": "2026-10-26T02:53:27.956542+00:00",
   "schema_version": 1
 }
