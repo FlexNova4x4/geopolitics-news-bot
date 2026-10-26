@@ -3535,6 +3535,14 @@
       "updated_at": "2026-10-25T20:11:47.670627+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss"
     },
+    "9c41cc6c19596e66594031a8": {
+      "published_at": "2026-10-26T04:20:35+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "खुशवंत सिंह लिटफेस्ट: 'चार तोपों के परीक्षण के बाद बोफोर्स बनी सेना की पसंद, सौदे में गड़बड़ी का था विवाद'",
+      "updated_at": "2026-10-26T04:24:25.877493+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/solan/bofors-gun-selection-and-defence-deal-controversy-2026-10-26"
+    },
     "9ce2be0619732bfb37a0d55d": {
       "published_at": "2026-10-25T07:12:53+00:00",
       "source": "thehindu.com",
@@ -4357,6 +4365,14 @@
       "title": "Israeli elections: What are the possible outcomes?",
       "updated_at": "2026-10-25T07:35:24.248677+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
+    },
+    "c20fac908d587d46f5a62510": {
+      "published_at": "2026-10-26T04:21:27+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "More of a subordinate than a client: understanding Pakistan’s global role",
+      "updated_at": "2026-10-26T04:24:25.877508+00:00",
+      "url": "https://www.dawn.com/news/2039762/more-of-a-subordinate-than-a-client-understanding-pakistans-global-role"
     },
     "c23da13b62908c3f0401aed9": {
       "published_at": "2026-10-25T10:48:03+00:00",
@@ -5873,6 +5889,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:24:21.000835+00:00",
+  "last_cycle_at": "2026-10-26T04:24:25.878193+00:00",
   "schema_version": 1
 }
