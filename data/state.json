@@ -3396,9 +3396,10 @@
     "613e84deb9154996d6a8b2c9": {
       "published_at": "2026-10-26T12:08:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11046,
       "title": "239 vulnerable areas identified in Cuddalore district",
-      "updated_at": "2026-10-26T13:40:22.045297+00:00",
+      "updated_at": "2026-10-26T13:40:36.733756+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/239-vulnerable-areas-identified-in-cuddalore-district/article71625876.ece"
     },
     "61b023b54352ba94a7e64f4f": {
@@ -3422,9 +3423,10 @@
     "61e856287d5b059c20bc8504": {
       "published_at": "2026-10-26T12:00:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11043,
       "title": "Left leaders hail Lula’s fourth win in Brazil, say it offers hope to workers’ movements",
-      "updated_at": "2026-10-26T13:40:22.045269+00:00",
+      "updated_at": "2026-10-26T13:40:25.125970+00:00",
       "url": "https://www.thehindu.com/news/international/left-leaders-hail-lulas-fourth-win-in-brazil-say-it-offers-hope-to-workers-movements/article71626489.ece"
     },
     "6256f5fe4e7f2e3850af8799": {
@@ -4227,9 +4229,10 @@
     "76c36ad86e563e5798ac1800": {
       "published_at": "2026-10-26T12:05:16+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11044,
       "title": "‘Thank God Ram did not hit a minority’: UP chief electoral officer on caste bias allegations amid voter slip row",
-      "updated_at": "2026-10-26T13:40:22.045290+00:00",
+      "updated_at": "2026-10-26T13:40:28.959277+00:00",
       "url": "https://www.hindustantimes.com/india-news/thank-god-ram-did-not-hit-a-minority-up-chief-electoral-officer-on-caste-bias-allegations-amid-voter-slip-row-101793014547819.html"
     },
     "76dcebc49a6819fe200789b9": {
@@ -6623,9 +6626,10 @@
     "b811cd897ca8750a2c94d2fd": {
       "published_at": "2026-10-26T12:07:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11045,
       "title": "BJP accuses Telangana CM Revanth Reddy of ignoring drought concerns for Delhi rally",
-      "updated_at": "2026-10-26T13:40:22.045294+00:00",
+      "updated_at": "2026-10-26T13:40:32.961492+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/bjp-accuses-telangana-cm-revanth-reddy-of-ignoring-drought-concerns-for-delhi-rally/article71626683.ece"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
@@ -9303,6 +9307,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:40:22.046174+00:00",
+  "last_cycle_at": "2026-10-26T13:40:39.935200+00:00",
   "schema_version": 1
 }
