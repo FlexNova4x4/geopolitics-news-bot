@@ -1081,9 +1081,10 @@
     "2e99c29fb77fee3536d2f42c": {
       "published_at": "2026-10-26T05:09:08+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10707,
       "title": "हिमाचल प्रदेश: कांगड़ा में पांच साल में 879 लोग एचआईवी संक्रमित, पुरुषों की संख्या महिलाओं से करीब तीन गुना",
-      "updated_at": "2026-10-26T05:24:06.504479+00:00",
+      "updated_at": "2026-10-26T05:24:21.114072+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/kangra-hiv-positive-cases-2021-to-2026-men-women-statistics-2026-10-26"
     },
     "2ea4ef0039b41c2eb90b426e": {
@@ -2103,9 +2104,10 @@
     "559df6fba7b027ff469021bc": {
       "published_at": "2026-10-26T05:03:31+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10705,
       "title": "Contractor, his father dead in under-construction building collapse in Delhi's Harsh Vihar",
-      "updated_at": "2026-10-26T05:24:06.504473+00:00",
+      "updated_at": "2026-10-26T05:24:12.848253+00:00",
       "url": "https://www.hindustantimes.com/india-news/contractor-his-father-dead-in-under-construction-building-collapse-in-delhis-harsh-vihar-101792990435651.html"
     },
     "55b61fdfa8f065b445e71ae5": {
@@ -3240,9 +3242,10 @@
     "819718c17bd2230be0001aa7": {
       "published_at": "2026-10-26T05:01:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10704,
       "title": "Social video captures moment Brazil’s election turned",
-      "updated_at": "2026-10-26T05:24:06.504457+00:00",
+      "updated_at": "2026-10-26T05:24:08.917487+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss"
     },
     "81a65c5014ffecf9069446e5": {
@@ -5418,9 +5421,10 @@
     "e1283d3c51c55d57e2cec28e": {
       "published_at": "2026-10-26T05:07:20+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10706,
       "title": "CDA, contractor settle rebate issue ahead of groundbreaking of cricket stadium at Islamabad's Margalla foothills",
-      "updated_at": "2026-10-26T05:24:06.504477+00:00",
+      "updated_at": "2026-10-26T05:24:16.998055+00:00",
       "url": "https://www.dawn.com/news/2039924/cda-contractor-settle-rebate-issue-ahead-of-groundbreaking-of-cricket-stadium-at-islamabads-margalla-foothills"
     },
     "e1be094a719375d43c682565": {
@@ -6283,6 +6287,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:24:06.505145+00:00",
+  "last_cycle_at": "2026-10-26T05:24:24.315310+00:00",
   "schema_version": 1
 }
