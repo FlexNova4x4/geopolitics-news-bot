@@ -2100,6 +2100,14 @@
       "updated_at": "2026-10-25T16:13:09.435474+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/why-congress-govt-not-investigating-yathindras-statement-on-sting-operation-asks-joshi/article71623588.ece"
     },
+    "5fba8bd71cc8f65aa2a24bbd": {
+      "published_at": "2026-10-26T03:34:59+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+      "updated_at": "2026-10-26T04:22:26.438659+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
+    },
     "5ff5a5b34653f3e2b8a06cf4": {
       "published_at": "2026-10-25T06:08:16+00:00",
       "source": "hindustantimes.com",
@@ -2995,6 +3003,14 @@
       "title": "Behind China’s AI gift, a constraint",
       "updated_at": "2026-10-25T17:13:16.354839+00:00",
       "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece"
+    },
+    "84c0542a8838270a872c8296": {
+      "published_at": "2026-10-26T03:35:31+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Why are people in Arunachal Pradesh protesting the Siang dam?",
+      "updated_at": "2026-10-26T04:22:26.438662+00:00",
+      "url": "https://www.tribuneindia.com/news/india/why-are-people-in-arunachal-pradesh-protesting-the-siang-dam"
     },
     "85616f4dbf5ab1cf6473a90e": {
       "published_at": "2026-10-25T22:17:09+00:00",
@@ -4385,6 +4401,14 @@
       "updated_at": "2026-10-25T08:34:43.215259+00:00",
       "url": "https://www.hindustantimes.com/india-news/political-art-not-the-problem-politics-behind-it-is-pawan-khera-accuses-bikaner-house-of-censorship-101792913718569.html"
     },
+    "c6c640a7a16a4c1d8940dc1d": {
+      "published_at": "2026-10-26T03:32:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Share warm and cordial relations”: India welcomes arrival of Liechtenstein’s Hereditary Prince Alois",
+      "updated_at": "2026-10-26T04:22:26.438639+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-ties/share-warm-and-cordial-relations-india-welcomes-arrival-of-liechtensteins-hereditary-prince-alois"
+    },
     "c72fd80e641756d52d21a881": {
       "published_at": "2026-10-26T03:13:04+00:00",
       "source": "thehindu.com",
@@ -5183,6 +5207,14 @@
       "updated_at": "2026-10-26T00:00:33.539473+00:00",
       "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece"
     },
+    "ef6705217ffa45f9464091f7": {
+      "published_at": "2026-10-26T03:49:11+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Resolution in Balochistan assembly cannot abolish Sardari system, say tribal chiefs",
+      "updated_at": "2026-10-26T04:22:26.438665+00:00",
+      "url": "https://www.dawn.com/news/2039919/resolution-in-balochistan-assembly-cannot-abolish-sardari-system-say-tribal-chiefs"
+    },
     "efec5c59c8280662ace8c082": {
       "published_at": "2026-10-25T17:38:57+00:00",
       "source": "thehindu.com",
@@ -5693,6 +5725,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:53:54.593418+00:00",
+  "last_cycle_at": "2026-10-26T04:22:26.439187+00:00",
   "schema_version": 1
 }
