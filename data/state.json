@@ -462,9 +462,10 @@
     "0b92aaf263ee55917f769d69": {
       "published_at": "2026-10-26T19:52:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11105,
       "title": "Shimla News: खेल-खेल में बच्चों को सिखाई गिनती और करवाई रंगों की पहचान",
-      "updated_at": "2026-10-26T22:41:39.071490+00:00",
+      "updated_at": "2026-10-26T22:41:52.523022+00:00",
       "url": "https://www.amarujala.com/shimla/taught-children-counting-and-helped-them-identify-colors-through-play-shimla-news-c-176-1-sln1016-182876-2026-10-26"
     },
     "0b9585e1571fda7adea9e9be": {
@@ -1924,9 +1925,10 @@
     "332ed1b6b3d7262c562358e4": {
       "published_at": "2026-10-26T19:49:31+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11103,
       "title": "80 injured after bus plunges down embankment near Barcelona",
-      "updated_at": "2026-10-26T22:41:39.071480+00:00",
+      "updated_at": "2026-10-26T22:41:44.875683+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss"
     },
     "33585be33769eee345ccbe20": {
@@ -3879,9 +3881,10 @@
     "6881fa4959c700ad42edc3f3": {
       "published_at": "2026-10-26T19:48:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11102,
       "title": "Media association challenges privacy law in Supreme Court",
-      "updated_at": "2026-10-26T22:41:39.071457+00:00",
+      "updated_at": "2026-10-26T22:41:41.133775+00:00",
       "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
     },
     "68be5f134af11c6b01abb1d5": {
@@ -7405,9 +7408,10 @@
     "c0c025fd9f3dfa6c1f7f6dae": {
       "published_at": "2026-10-26T19:51:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11104,
       "title": "Himachal’s power policy may add Rs 550 crore to electricity board bill",
-      "updated_at": "2026-10-26T22:41:39.071485+00:00",
+      "updated_at": "2026-10-26T22:41:48.620731+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachals-power-policy-may-add-550-crore-to-electricity-board-bill"
     },
     "c1482d6f3ced47689e4eb8ad": {
@@ -9807,6 +9811,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:41:39.072942+00:00",
+  "last_cycle_at": "2026-10-26T22:41:55.725706+00:00",
   "schema_version": 1
 }
