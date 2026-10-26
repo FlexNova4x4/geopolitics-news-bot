@@ -381,9 +381,10 @@
     "0a543acaee6a660bea670149": {
       "published_at": "2026-10-26T10:56:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10976,
       "title": "All stakeholders need to find solutions to issues of sugarcane growers, says Karnataka CM",
-      "updated_at": "2026-10-26T11:44:42.892997+00:00",
+      "updated_at": "2026-10-26T11:44:49.505893+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/all-stakeholders-need-to-find-solutions-to-issues-of-sugarcane-growers-says-karnataka-cm/article71626500.ece"
     },
     "0ad86da679ca75352a3bf1e0": {
@@ -4142,9 +4143,10 @@
     "7be9182ea13c65590db7301e": {
       "published_at": "2026-10-26T11:04:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10978,
       "title": "Ankita Bhandari murder case: Fresh FIR against actress Urmila Sanawar a day after her arrest",
-      "updated_at": "2026-10-26T11:44:42.893008+00:00",
+      "updated_at": "2026-10-26T11:44:57.333378+00:00",
       "url": "https://www.tribuneindia.com/news/uttarakhand/ankita-bhandari-murder-case-fresh-fir-against-actress-urmila-sanawar-a-day-after-her-arrest"
     },
     "7c77b1d428298b4dd4cb44aa": {
@@ -6484,9 +6486,10 @@
     "c084134207c7001eb52917b7": {
       "published_at": "2026-10-26T10:56:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10975,
       "title": "PGIMER Chandigarh secures place in Newsweek’s list of world’s best specialized hospitals 2027",
-      "updated_at": "2026-10-26T11:44:42.892977+00:00",
+      "updated_at": "2026-10-26T11:44:45.421292+00:00",
       "url": "https://www.tribuneindia.com/news/chandigarh/pgimer-chandigarh-secures-place-in-newsweeks-list-of-worlds-best-specialized-hospitals-2027"
     },
     "c09ddf3f2cb122dba7d6ac01": {
@@ -7946,9 +7949,10 @@
     "edeca2240d6bfb580b208d9a": {
       "published_at": "2026-10-26T11:02:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10977,
       "title": "Lessons for Sandalwood from the success of ‘Premada Oorali’",
-      "updated_at": "2026-10-26T11:44:42.893002+00:00",
+      "updated_at": "2026-10-26T11:44:53.400709+00:00",
       "url": "https://www.thehindu.com/videos/lesson-for-sandalwood-from-the-success-of-premada-oorali/article71626623.ece"
     },
     "ee0065f26494aeab7363c7d2": {
@@ -8695,6 +8699,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T11:44:42.893911+00:00",
+  "last_cycle_at": "2026-10-26T11:45:00.535071+00:00",
   "schema_version": 1
 }
