@@ -2066,9 +2066,10 @@
     "67f5675d0515ff8a030502b2": {
       "published_at": "2026-10-25T19:53:36+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10569,
       "title": "3 MPs booked for trespass at Jamia Millia Islamia",
-      "updated_at": "2026-10-26T01:22:52.894250+00:00",
+      "updated_at": "2026-10-26T01:22:55.399244+00:00",
       "url": "https://www.tribuneindia.com/news/india/3-mps-booked-for-trespass-at-jamia"
     },
     "687296e4991a5dbdcde2de7c": {
@@ -2558,9 +2559,10 @@
     "7a8e0d6d22de8c0127f876e9": {
       "published_at": "2026-10-25T19:55:42+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10572,
       "title": "Terror as statecraft unacceptable: Jaishankar",
-      "updated_at": "2026-10-26T01:22:52.894270+00:00",
+      "updated_at": "2026-10-26T01:23:07.797642+00:00",
       "url": "https://www.tribuneindia.com/news/india/terror-as-statecraft-unacceptable-jaishankar"
     },
     "7aac1bc4340066498ab38d30": {
@@ -4410,9 +4412,10 @@
     "e4b1def385636871dcc6f9b6": {
       "published_at": "2026-10-25T19:54:10+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10570,
       "title": "Congress questions Election Commission’s secrecy over software used for SIR",
-      "updated_at": "2026-10-26T01:22:52.894265+00:00",
+      "updated_at": "2026-10-26T01:22:59.563085+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-questions-election-commissions-secrecy-over-software-used-for-sir"
     },
     "e54c0b9d62d110989b311887": {
@@ -4911,9 +4914,10 @@
     "fa081e63b7985a19f1f0f726": {
       "published_at": "2026-10-25T19:54:24+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10571,
       "title": "Regional journal: Dasehra sparks political fireworks",
-      "updated_at": "2026-10-26T01:22:52.894268+00:00",
+      "updated_at": "2026-10-26T01:23:03.724047+00:00",
       "url": "https://www.tribuneindia.com/news/india/regional-journal-dasehra-sparks-political-fireworks"
     },
     "fbadcc89aedcb56ee9198ebb": {
@@ -5086,6 +5090,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:22:52.894929+00:00",
+  "last_cycle_at": "2026-10-26T01:23:10.998758+00:00",
   "schema_version": 1
 }
