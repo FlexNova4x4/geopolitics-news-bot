@@ -3279,9 +3279,10 @@
     "7f417ff6a9ad84e7362919d6": {
       "published_at": "2026-10-26T05:43:53+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10738,
       "title": "PM Modi congratulates ‘dear friend’ Lula da Silva for Brazil election win, says looking forward to expanding ties",
-      "updated_at": "2026-10-26T06:22:48.274778+00:00",
+      "updated_at": "2026-10-26T06:22:51.030560+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-congratulates-dear-friend-lula-da-silva-for-brazil-election-win-says-looking-forward-to-expanding-ties-101792993292854.html"
     },
     "7f9b731e641233dfddd23d01": {
@@ -3565,9 +3566,10 @@
     "87f1159db38ace6f21ed58ce": {
       "published_at": "2026-10-26T05:52:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10739,
       "title": "Iran says Saudi, Pakistani, Turkish officials to visit Tehran for regional security talks",
-      "updated_at": "2026-10-26T06:22:48.274793+00:00",
+      "updated_at": "2026-10-26T06:22:55.105647+00:00",
       "url": "https://www.tribuneindia.com/news/iran-talks/iran-says-saudi-pakistani-turkish-officials-to-visit-tehran-for-regional-security-talks"
     },
     "8805445d4dc8a6f6155ccd33": {
@@ -5403,9 +5405,10 @@
     "d4b85185d9b4a4c7e58dd93b": {
       "published_at": "2026-10-26T05:56:04+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10740,
       "title": "The French government is hiding behind a ‘riots’ narrative",
-      "updated_at": "2026-10-26T06:22:48.274796+00:00",
+      "updated_at": "2026-10-26T06:22:59.079111+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss"
     },
     "d4f4b4c5bee0c02c0f567751": {
@@ -6218,9 +6221,10 @@
     "f476735fe3254709c42ec5f8": {
       "published_at": "2026-10-26T05:56:41+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10741,
       "title": "Delhi’s min temp drops to season’s lowest 16.2°C; air quality slips to 178",
-      "updated_at": "2026-10-26T06:22:48.274798+00:00",
+      "updated_at": "2026-10-26T06:23:03.180210+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhis-min-temp-drops-to-season-s-lowest-16-2-c-air-quality-slips-to-178-101792994202120.html"
     },
     "f51c704a4e0662c7e1c0acea": {
@@ -6589,6 +6593,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:22:48.275470+00:00",
+  "last_cycle_at": "2026-10-26T06:23:06.381439+00:00",
   "schema_version": 1
 }
