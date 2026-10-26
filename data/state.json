@@ -2102,9 +2102,10 @@
     "64189bd09c9077f0c5224d62": {
       "published_at": "2026-10-25T18:46:31+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10599,
       "title": "Amid festive season, PM Modi urges people to buy from local artisans in Mann Ki Baat",
-      "updated_at": "2026-10-26T02:52:27.188478+00:00",
+      "updated_at": "2026-10-26T02:52:34.230713+00:00",
       "url": "https://www.hindustantimes.com/india-news/amid-festive-season-pm-modi-urges-people-to-buy-from-local-artisans-in-mann-ki-baat-101792953992270.html"
     },
     "64bb329b19abcb6e715f5cc4": {
@@ -2209,9 +2210,10 @@
     "69ab4eac74d66449a2d0299e": {
       "published_at": "2026-10-26T02:03:38+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10601,
       "title": "Delhi: 4 arrested for allegedly minting counterfeit coins",
-      "updated_at": "2026-10-26T02:52:27.188483+00:00",
+      "updated_at": "2026-10-26T02:52:42.232763+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-4-arrested-for-allegedly-minting-counterfeit-coins-101792980218800.html"
     },
     "69ed75e6ee354f52f12f4df9": {
@@ -2270,9 +2272,10 @@
     "6df5bcebfce060a42070267e": {
       "published_at": "2026-10-25T18:41:31+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10598,
       "title": "2 years on, hit-and-run section of Bharatiya Nyaya Sanhita yet to come into force",
-      "updated_at": "2026-10-26T02:52:27.188463+00:00",
+      "updated_at": "2026-10-26T02:52:30.181003+00:00",
       "url": "https://www.hindustantimes.com/india-news/2-years-on-hit-and-run-section-of-bharatiya-nyaya-sanhita-yet-to-come-into-force-indian-penal-code-101792953692190.html"
     },
     "6e46a68082f58c83b49ebacf": {
@@ -2897,9 +2900,10 @@
     "86b9d1be50ef0725a91b1988": {
       "published_at": "2026-10-26T01:06:13+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10600,
       "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
-      "updated_at": "2026-10-26T02:52:27.188481+00:00",
+      "updated_at": "2026-10-26T02:52:38.363412+00:00",
       "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation"
     },
     "874362239d32e2554fbe9426": {
@@ -5329,6 +5333,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T02:52:27.189042+00:00",
+  "last_cycle_at": "2026-10-26T02:52:45.433839+00:00",
   "schema_version": 1
 }
