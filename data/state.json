@@ -3,9 +3,10 @@
     "0001ce8ebf79f3967aa4b7a0": {
       "published_at": "2026-10-25T22:28:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10924,
       "title": "हिमाचल: सीएम सुक्खू बोले- जैसे ही भाग्य की कुंडली खुलेगी, सुंदर ठाकुर बनेंगे मंत्री",
-      "updated_at": "2026-10-26T10:43:14.021229+00:00",
+      "updated_at": "2026-10-26T10:43:25.097490+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-cm-sukhu-saysonce-the-stars-align-sundar-thakur-will-become-a-minister-2026-10-26"
     },
     "00f750aac2590202af7dd8a9": {
@@ -4447,9 +4448,10 @@
     "891ca25d788b7fb50edbd8cb": {
       "published_at": "2026-10-25T22:21:58+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10922,
       "title": "सिरमौर: त्रिलोकपुर बाला सुंदरी मंदिर में 1.32 लाख श्रद्धालुओं ने नवाया शीश, 1.67 करोड़ रुपये चढ़ावा चढ़ा",
-      "updated_at": "2026-10-26T10:43:14.021207+00:00",
+      "updated_at": "2026-10-26T10:43:16.821870+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-trilokpur-bala-sundari-temple-ashwini-navratri-mela-donation-2026-2026-10-26"
     },
     "8a4f91dd3b3446f9af43ea10": {
@@ -5011,9 +5013,10 @@
     "9dfbe8b1ed2aea301448096b": {
       "published_at": "2026-10-25T22:26:34+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10923,
       "title": "वीडियो: निरमंड में स्वयंसेवकों ने सेवा, अनुशासन और राष्ट्र के प्रति कर्तव्य निभाने का दिया संदेश",
-      "updated_at": "2026-10-26T10:43:14.021225+00:00",
+      "updated_at": "2026-10-26T10:43:20.920737+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-nirmand-volunteers-conveyed-a-message-of-service-discipline-and-the-fulfillment-of-duty-toward-the-nation-2026-10-26"
     },
     "9ed30e3fe86a375981601659": {
@@ -5628,9 +5631,10 @@
     "b21419f6e818270701e7bd6e": {
       "published_at": "2026-10-25T22:37:22+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10925,
       "title": "वीडियो: सुनीता कुमारी बनीं ब्लॉक कांग्रेस कमेटी सुजानपुर की अध्यक्ष",
-      "updated_at": "2026-10-26T10:43:14.021232+00:00",
+      "updated_at": "2026-10-26T10:43:29.184286+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-video-sunita-kumari-appointed-president-of-the-sujanpur-block-congress-committee-2026-10-26"
     },
     "b230acc72b2932746274645c": {
@@ -8227,6 +8231,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:43:14.022223+00:00",
+  "last_cycle_at": "2026-10-26T10:43:32.385804+00:00",
   "schema_version": 1
 }
