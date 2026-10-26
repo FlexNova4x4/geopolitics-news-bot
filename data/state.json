@@ -390,9 +390,10 @@
     "0e5c339e7c0b6b0870699919": {
       "published_at": "2026-10-26T06:42:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10784,
       "title": "PM Modi arrives at inauguration of 12th BRICS Parliamentary Forum; welcomes foreign delegations",
-      "updated_at": "2026-10-26T07:13:38.788308+00:00",
+      "updated_at": "2026-10-26T07:13:53.523368+00:00",
       "url": "https://www.tribuneindia.com/news/brics-countries/pm-modi-arrives-at-inauguration-of-12th-brics-parliamentary-forum-welcomes-foreign-delegations"
     },
     "0e95f80adfdd1d3b92c27851": {
@@ -847,9 +848,10 @@
     "1ed2e0b0beb86a581d2df294": {
       "published_at": "2026-10-26T06:37:37+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10781,
       "title": "Odisha steps up measures in view of cyclone, bans fishing in sea, tourist entry in 6 districts",
-      "updated_at": "2026-10-26T07:13:38.788286+00:00",
+      "updated_at": "2026-10-26T07:13:41.460411+00:00",
       "url": "https://www.tribuneindia.com/news/india/odisha-steps-up-measures-in-view-of-cyclone-bans-fishing-in-sea-tourist-entry-in-6-districts"
     },
     "1f0016aa21020570304b59bc": {
@@ -2676,9 +2678,10 @@
     "6383d84b21be795fc24ed040": {
       "published_at": "2026-10-26T06:40:31+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10783,
       "title": "Indian Navy training squadron arrives in Sri Lanka for 3-day visit",
-      "updated_at": "2026-10-26T07:13:38.788305+00:00",
+      "updated_at": "2026-10-26T07:13:49.423578+00:00",
       "url": "https://www.tribuneindia.com/news/india/indian-navy-training-squadron-arrives-in-sri-lanka-for-3-day-visit"
     },
     "64189bd09c9077f0c5224d62": {
@@ -3635,9 +3638,10 @@
     "83838995307c024e7bbcd69e": {
       "published_at": "2026-10-26T06:38:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10782,
       "title": "Adhikari backs banning mobile phones in schools, reintroducing ‘pass-fail’ policy",
-      "updated_at": "2026-10-26T07:13:38.788302+00:00",
+      "updated_at": "2026-10-26T07:13:45.349093+00:00",
       "url": "https://www.hindustantimes.com/india-news/adhikari-backs-banning-mobile-phones-in-schools-reintroducing-pass-fail-policy-101792996721398.html"
     },
     "83a1ffacabe7c1272dc6457f": {
@@ -6976,6 +6980,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:13:38.789156+00:00",
+  "last_cycle_at": "2026-10-26T07:13:56.724680+00:00",
   "schema_version": 1
 }
