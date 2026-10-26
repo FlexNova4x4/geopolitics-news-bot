@@ -423,6 +423,14 @@
       "updated_at": "2026-10-26T07:13:53.523368+00:00",
       "url": "https://www.tribuneindia.com/news/brics-countries/pm-modi-arrives-at-inauguration-of-12th-brics-parliamentary-forum-welcomes-foreign-delegations"
     },
+    "0e7e13803e39b33797aec2d0": {
+      "published_at": "2026-10-26T08:31:20+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Pakistan PM Shehbaz Sharif to visit Russia in coming weeks for talks with Putin: Report",
+      "updated_at": "2026-10-26T08:47:17.484289+00:00",
+      "url": "https://www.tribuneindia.com/news/pakistan/pakistan-pm-shehbaz-sharif-to-visit-russia-in-coming-weeks-for-talks-with-putin-report"
+    },
     "0e95f80adfdd1d3b92c27851": {
       "published_at": "2026-10-25T17:53:23+00:00",
       "source": "aljazeera.com",
@@ -539,6 +547,14 @@
       "title": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Updates",
       "updated_at": "2026-10-25T05:38:19.479925+00:00",
       "url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
+    },
+    "11717b4443bc514112049b0d": {
+      "published_at": "2026-10-26T08:34:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Marine Le Pen, France’s far-right candidate, launches presidential bid",
+      "updated_at": "2026-10-26T08:47:17.484308+00:00",
+      "url": "https://www.thehindu.com/news/international/marine-le-pen-frances-far-right-candidate-launches-presidential-bid/article71625951.ece"
     },
     "11f78ea66b52139c2900f3c1": {
       "published_at": "2026-10-25T02:21:56+00:00",
@@ -5960,6 +5976,14 @@
       "updated_at": "2026-10-25T15:16:34.728192+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-puts-officials-on-high-alert-as-cyclone-nears-andhra-pradesh-coast/article71623312.ece"
     },
+    "c844010054f86196c459e6f4": {
+      "published_at": "2026-10-26T08:32:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "US forces ready for major strikes on Iran within 96 hours of Trump’s order: Report",
+      "updated_at": "2026-10-26T08:47:17.484304+00:00",
+      "url": "https://www.tribuneindia.com/news/cnn-report/us-forces-ready-for-major-strikes-on-iran-within-96-hours-of-trumps-order-report"
+    },
     "c8c0cab2bafd8dbcb18d9bd6": {
       "published_at": "2026-10-26T07:40:57+00:00",
       "source": "feeds.bbci.co.uk",
@@ -6775,6 +6799,14 @@
       "title": "Photos: Serbia celebrates as ruling party loses grip on power",
       "updated_at": "2026-10-26T08:46:15.855234+00:00",
       "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss"
+    },
+    "e61b0bf7fcba836060a75b23": {
+      "published_at": "2026-10-26T08:34:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Gem Granites’ Veeramani case: SIT to file charge sheet soon, Madras High Court told",
+      "updated_at": "2026-10-26T08:47:17.484312+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-case-sit-to-file-charge-sheet-soon-madras-high-court-told/article71625920.ece"
     },
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
@@ -7709,6 +7741,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:47:11.720452+00:00",
+  "last_cycle_at": "2026-10-26T08:47:17.485147+00:00",
   "schema_version": 1
 }
