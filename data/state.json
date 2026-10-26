@@ -2860,9 +2860,10 @@
     "5a1f66392d0452c7d70c021a": {
       "published_at": "2026-10-26T09:42:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10931,
       "title": "Chinese influence operations threaten UK democracy and national security, analysts warn",
-      "updated_at": "2026-10-26T10:44:04.455373+00:00",
+      "updated_at": "2026-10-26T10:44:10.724090+00:00",
       "url": "https://www.tribuneindia.com/news/beijing-threat/chinese-influence-operations-threaten-uk-democracy-and-national-security-analysts-warn"
     },
     "5a9a2f091ca68114c93c8cdf": {
@@ -3190,9 +3191,10 @@
     "65c6089616c004c7505e6ff4": {
       "published_at": "2026-10-26T09:45:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10933,
       "title": "Maharashtra CM responds positively to Telangana’s request for 152-metre Tummidihatti barrage",
-      "updated_at": "2026-10-26T10:44:04.455380+00:00",
+      "updated_at": "2026-10-26T10:44:18.710363+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/maharashtra-cm-responds-positively-to-telanganas-request-for-152-metre-tummidihatti-barrage/article71626235.ece"
     },
     "66e4a3b18137eacff7929089": {
@@ -3386,9 +3388,10 @@
     "6cc7074c10d1959987cf1fa0": {
       "published_at": "2026-10-26T09:39:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10930,
       "title": "Rahul Gandhi acquitted in 2018 defamation case by Sultanpur MP-MLA court",
-      "updated_at": "2026-10-26T10:44:04.455356+00:00",
+      "updated_at": "2026-10-26T10:44:06.803723+00:00",
       "url": "https://www.thehindu.com/videos/rahul-gandhi-acquitted-in-2018-defamation-case-by-sultanpur-mp-mla-court/article71626204.ece"
     },
     "6df5bcebfce060a42070267e": {
@@ -4931,9 +4934,10 @@
     "9ac17e1a9e5c70d9cdfab39b": {
       "published_at": "2026-10-26T09:42:23+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10932,
       "title": "“China has abided by relevant agreements:” Chinese Foreign Ministry on reported face-off in Arunachal",
-      "updated_at": "2026-10-26T10:44:04.455377+00:00",
+      "updated_at": "2026-10-26T10:44:14.616689+00:00",
       "url": "https://www.tribuneindia.com/news/arunachal-pradesh/china-has-abided-by-relevant-agreements-chinese-foreign-ministry-on-reported-face-off-in-arunachal"
     },
     "9ac88fecab73c5082f8dfcda": {
@@ -8299,6 +8303,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:44:04.456596+00:00",
+  "last_cycle_at": "2026-10-26T10:44:21.911860+00:00",
   "schema_version": 1
 }
