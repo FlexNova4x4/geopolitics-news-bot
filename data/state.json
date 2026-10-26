@@ -219,9 +219,10 @@
     "0559fbba62aa2d59a81d89ca": {
       "published_at": "2026-10-26T23:12:58+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11156,
       "title": "UN Commission accuses Israel of war crimes, genocide in Gaza; Flags surge in West Bank Palestinian deaths",
-      "updated_at": "2026-10-26T23:39:56.676788+00:00",
+      "updated_at": "2026-10-26T23:40:07.358883+00:00",
       "url": "https://www.tribuneindia.com/news/airstrikes/un-commission-accuses-israel-of-war-crimes-genocide-in-gaza-flags-surge-in-west-bank-palestinian-deaths"
     },
     "058ce8f9ca82f475c2cdb219": {
@@ -1288,9 +1289,10 @@
     "204c8ce5a2c8b496552fab57": {
       "published_at": "2026-10-26T22:52:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11154,
       "title": "Ruling NC to reshuffle, expand J&K Cabinet on October 27; ally Congress to stay away",
-      "updated_at": "2026-10-26T23:39:56.676752+00:00",
+      "updated_at": "2026-10-26T23:39:59.904153+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ruling-nc-to-reshuffle-expand-jk-cabinet-on-october-27-ally-congress-to-stay-away/article71627856.ece"
     },
     "208807a29b94609868fddbdb": {
@@ -2265,9 +2267,10 @@
     "39c853108a8e17a12fd13afc": {
       "published_at": "2026-10-26T23:27:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11157,
       "title": "Trump offers USD 1 million reward for reporting voter fraud in past and upcoming 2026 midterm polls",
-      "updated_at": "2026-10-26T23:39:56.676793+00:00",
+      "updated_at": "2026-10-26T23:40:11.120856+00:00",
       "url": "https://www.tribuneindia.com/news/2026-midterms/trump-offers-usd-1-million-reward-for-reporting-voter-fraud-in-past-and-upcoming-2026-midterm-polls"
     },
     "3a1848b68d0a30ff13abf2c0": {
@@ -3002,9 +3005,10 @@
     "4a10d704320287fe9b01869c": {
       "published_at": "2026-10-26T23:03:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11155,
       "title": "On Accession Day, Mehbooba reminds Centre of promises, says ‘trust broken’",
-      "updated_at": "2026-10-26T23:39:56.676782+00:00",
+      "updated_at": "2026-10-26T23:40:03.630584+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/on-accession-day-mehbooba-reminds-centre-of-promises-says-trust-broken/article71628098.ece"
     },
     "4a2be56f04022c2be4135f05": {
@@ -10266,6 +10270,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T23:39:56.678775+00:00",
+  "last_cycle_at": "2026-10-26T23:40:14.323322+00:00",
   "schema_version": 1
 }
