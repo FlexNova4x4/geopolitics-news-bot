@@ -901,9 +901,10 @@
     "2d9b57a6863ab998e431861c": {
       "published_at": "2026-10-26T02:55:15+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10617,
       "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
-      "updated_at": "2026-10-26T03:22:50.364170+00:00",
+      "updated_at": "2026-10-26T03:22:52.973628+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss"
     },
     "2dc380cfa0488430591621c1": {
@@ -2774,9 +2775,10 @@
     "7f0ec9420f0e1678a0c733d2": {
       "published_at": "2026-10-26T02:59:50+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10618,
       "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-      "updated_at": "2026-10-26T03:22:50.364189+00:00",
+      "updated_at": "2026-10-26T03:22:56.935168+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
     },
     "7f9b731e641233dfddd23d01": {
@@ -3497,9 +3499,10 @@
     "a3df215727480bf342cc847b": {
       "published_at": "2026-10-26T03:00:38+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10619,
       "title": "Govt introduces bill in NA for ‘umbrella’ privatisation entity, seeks immunity for officials of bodies to be merged",
-      "updated_at": "2026-10-26T03:22:50.364193+00:00",
+      "updated_at": "2026-10-26T03:23:00.824653+00:00",
       "url": "https://www.dawn.com/news/2039913/govt-introduces-bill-in-na-for-umbrella-privatisation-entity-seeks-immunity-for-officials-of-bodies-to-be-merged"
     },
     "a415c1d81a438dca9784d4bd": {
@@ -4787,9 +4790,10 @@
     "e4fd041448810fcb1fa9acf6": {
       "published_at": "2026-10-26T03:06:50+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10620,
       "title": "Watch: Birmingham woman caught on camera dumping rubbish into neighbour’s garden in years long harassment campaign",
-      "updated_at": "2026-10-26T03:22:50.364196+00:00",
+      "updated_at": "2026-10-26T03:23:05.018234+00:00",
       "url": "https://www.tribuneindia.com/news/trending/watch-birmingham-woman-caught-on-camera-dumping-rubbish-into-neighbours-garden-in-years-long-harassment-campaign"
     },
     "e54c0b9d62d110989b311887": {
@@ -5500,6 +5504,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:22:50.364678+00:00",
+  "last_cycle_at": "2026-10-26T03:23:08.219359+00:00",
   "schema_version": 1
 }
