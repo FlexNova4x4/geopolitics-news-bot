@@ -476,6 +476,14 @@
       "updated_at": "2026-10-25T22:00:59.818572+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss"
     },
+    "1a5d17f265428fb2a57c423e": {
+      "published_at": "2026-10-25T20:09:05+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सेना में बिताया समय हर सैनिक के लिए महत्वपूर्ण : अत्री",
+      "updated_at": "2026-10-26T00:54:14.900788+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/time-spent-in-the-army-is-significant-for-every-soldier-atri-hamirpur-hp-news-c-94-1-hmp1005-213301-2026-10-26"
+    },
     "1b09205a382a09834abe190e": {
       "published_at": "2026-10-25T14:47:55+00:00",
       "source": "aljazeera.com",
@@ -1562,6 +1570,14 @@
       "updated_at": "2026-10-25T16:13:49.654988+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-jac-amaravati-womens-wing-seeks-two-years-of-childcare-leave-for-women-employees/article71623925.ece"
     },
+    "547830c823f0782efc196d62": {
+      "published_at": "2026-10-25T20:10:43+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Hamirpur (Himachal) News: शरद पूर्णिमा पर 10 हजार श्रद्धालुओं ने किए पौणाहारी के दर्शन",
+      "updated_at": "2026-10-26T00:54:14.900801+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/10000-devotees-offered-prayers-to-paunahari-on-sharad-purnima-hamirpur-hp-news-c-94-1-ssml1011-213348-2026-10-26"
+    },
     "550da544b03b04299d531968": {
       "published_at": "2026-10-24T21:06:25+00:00",
       "source": "thehindu.com",
@@ -2025,6 +2041,14 @@
       "title": "BJP questions Kerala CM’s ‘selective secularism’ over beef, Jinnah statue at Fort Kochi cafe",
       "updated_at": "2026-10-25T15:11:43.304014+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjp-questions-kerala-cm-s-selective-secularism-over-beef-jinnah-statue-at-fort-kochi-kashi-art-cafe-101792929690760.html"
+    },
+    "6f3e96f353e18d3137072cf0": {
+      "published_at": "2026-10-25T20:11:26+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "H2O House: A homestay on watermills in Chamba",
+      "updated_at": "2026-10-26T00:54:14.900803+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/h2o-house-a-homestay-on-watermills-in-chamba"
     },
     "6f5c613f97a5bb03195b3cde": {
       "published_at": "2026-10-25T16:57:12+00:00",
@@ -2563,6 +2587,14 @@
       "title": "Pulakeshinagar IED blast case cracked, personal rivalry behind the plot",
       "updated_at": "2026-10-25T19:41:20.451026+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/pulakeshinagar-ied-blast-case-cracked-personal-rivalry-behind-the-plot/article71623321.ece"
+    },
+    "8e5320dd270eb669025f33e0": {
+      "published_at": "2026-10-25T20:12:02+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘Dangals’promoting sports & preserving traditions: Agnihotri",
+      "updated_at": "2026-10-26T00:54:14.900806+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/dangalspromoting-sports-preserving-traditions-agnihotri"
     },
     "90fd25d5e400c10fb50f1c26": {
       "published_at": "2026-10-25T15:40:25+00:00",
@@ -4613,6 +4645,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:54:08.154299+00:00",
+  "last_cycle_at": "2026-10-26T00:54:14.901344+00:00",
   "schema_version": 1
 }
