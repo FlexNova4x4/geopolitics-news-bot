@@ -2667,9 +2667,10 @@
     "7cb6939ad55d89e5fafe8506": {
       "published_at": "2026-10-26T01:45:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10589,
       "title": "Cyclone Arnab to cross Andhra coast by October 28; rains continue in Tamil Nadu | LIVE",
-      "updated_at": "2026-10-26T01:53:18.357787+00:00",
+      "updated_at": "2026-10-26T01:53:25.324565+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
     },
     "7ece01532c3fa5d6f81bb9b9": {
@@ -4009,9 +4010,10 @@
     "c6902c8a4bc3b83ad794610d": {
       "published_at": "2026-10-26T01:17:22+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10588,
       "title": "Taiwan detects 3 Chinese aircraft, 6 naval vessels, 9 official ships around its territory: MND",
-      "updated_at": "2026-10-26T01:53:18.357769+00:00",
+      "updated_at": "2026-10-26T01:53:21.194867+00:00",
       "url": "https://www.tribuneindia.com/news/air-defense-zone/taiwan-detects-3-chinese-aircraft-6-naval-vessels-9-official-ships-around-its-territory-mnd"
     },
     "c6a4355dfb323edba7a66c63": {
@@ -5232,6 +5234,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:53:18.358431+00:00",
+  "last_cycle_at": "2026-10-26T01:53:28.525679+00:00",
   "schema_version": 1
 }
