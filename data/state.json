@@ -1078,6 +1078,14 @@
       "updated_at": "2026-10-26T03:52:28.258424+00:00",
       "url": "https://www.tribuneindia.com/news/india/poem-dropped-from-gujarat-govts-diwali-magazine-after-vhp-says-it-hurt-religious-sentiments"
     },
+    "2e99c29fb77fee3536d2f42c": {
+      "published_at": "2026-10-26T05:09:08+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल प्रदेश: कांगड़ा में पांच साल में 879 लोग एचआईवी संक्रमित, पुरुषों की संख्या महिलाओं से करीब तीन गुना",
+      "updated_at": "2026-10-26T05:24:06.504479+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/kangra-hiv-positive-cases-2021-to-2026-men-women-statistics-2026-10-26"
+    },
     "2ea4ef0039b41c2eb90b426e": {
       "published_at": "2026-10-24T18:32:54+00:00",
       "source": "thehindu.com",
@@ -2091,6 +2099,14 @@
       "title": "MONEY FROM INDIA, DEFENCE PACT WITH PAKISTAN! Maldives Signs 20 MoUs; India Sends Warships | Kinjal",
       "updated_at": "2026-10-24T22:36:56.620517+00:00",
       "url": "https://www.youtube.com/watch?v=ZumvuSjM_0Q"
+    },
+    "559df6fba7b027ff469021bc": {
+      "published_at": "2026-10-26T05:03:31+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Contractor, his father dead in under-construction building collapse in Delhi's Harsh Vihar",
+      "updated_at": "2026-10-26T05:24:06.504473+00:00",
+      "url": "https://www.hindustantimes.com/india-news/contractor-his-father-dead-in-under-construction-building-collapse-in-delhis-harsh-vihar-101792990435651.html"
     },
     "55b61fdfa8f065b445e71ae5": {
       "published_at": "2026-10-25T08:54:47+00:00",
@@ -3220,6 +3236,14 @@
       "title": "Amid outcry, poll body orders re-poll at three polling stations under Agra Teachers MLC seat",
       "updated_at": "2026-10-25T05:37:35.871400+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
+    },
+    "819718c17bd2230be0001aa7": {
+      "published_at": "2026-10-26T05:01:59+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Social video captures moment Brazil’s election turned",
+      "updated_at": "2026-10-26T05:24:06.504457+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss"
     },
     "81a65c5014ffecf9069446e5": {
       "published_at": "2026-10-26T03:40:36+00:00",
@@ -5391,6 +5415,14 @@
       "updated_at": "2026-10-26T04:23:04.598378+00:00",
       "url": "https://www.dawn.com/news/2039812/jui-f-vows-to-keep-fighting-for-constitutional-supremacy-in-balochistan"
     },
+    "e1283d3c51c55d57e2cec28e": {
+      "published_at": "2026-10-26T05:07:20+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "CDA, contractor settle rebate issue ahead of groundbreaking of cricket stadium at Islamabad's Margalla foothills",
+      "updated_at": "2026-10-26T05:24:06.504477+00:00",
+      "url": "https://www.dawn.com/news/2039924/cda-contractor-settle-rebate-issue-ahead-of-groundbreaking-of-cricket-stadium-at-islamabads-margalla-foothills"
+    },
     "e1be094a719375d43c682565": {
       "published_at": "2026-10-26T03:33:31+00:00",
       "source": "thehindu.com",
@@ -6251,6 +6283,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:24:02.027508+00:00",
+  "last_cycle_at": "2026-10-26T05:24:06.505145+00:00",
   "schema_version": 1
 }
