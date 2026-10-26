@@ -261,6 +261,14 @@
       "updated_at": "2026-10-25T15:15:26.902086+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/two-plantation-workers-killed-after-tree-falls-on-them-in-idukki/article71623797.ece"
     },
+    "0984bca30c5c212174296fd6": {
+      "published_at": "2026-10-26T03:25:51+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Flimsy excuses’: Opposition hits out at Election Commission over refusal to share details on SIR software",
+      "updated_at": "2026-10-26T03:52:49.499209+00:00",
+      "url": "https://www.hindustantimes.com/india-news/sir-software-cec-gyanesh-kumar-election-commission-opposition-congress-bjp-protests-voters-roll-101792984710448.html"
+    },
     "0ad86da679ca75352a3bf1e0": {
       "published_at": "2026-10-25T06:52:23+00:00",
       "source": "hindustantimes.com",
@@ -2530,6 +2538,14 @@
       "updated_at": "2026-10-25T09:34:48.001871+00:00",
       "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece"
     },
+    "724b661ce1db6bd5f0e26636": {
+      "published_at": "2026-10-26T03:30:43+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Anti-SIR protest LIVE updates: Amid EC row, BJP calls nationwide protests over Kharge’s remark on PM Modi",
+      "updated_at": "2026-10-26T03:52:49.499216+00:00",
+      "url": "https://www.hindustantimes.com/india-news/anti-sir-protest-live-updates-delhi-bjp-congress-kharge-modi-cjp-dipke-das-ranka-neha-bora-gyanesh-kumar-rahul-gandhi-101792981940731.html"
+    },
     "72809b89b6fdf542b62427cf": {
       "published_at": "2026-10-25T19:55:50+00:00",
       "source": "publish.tribuneindia.com",
@@ -3954,6 +3970,14 @@
       "updated_at": "2026-10-25T16:13:05.449871+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/cabinet-will-discuss-proposal-on-establishing-buddhist-university-chief-minister/article71623845.ece"
     },
+    "b7de6bbd810e3b27cf9d7eb4": {
+      "published_at": "2026-10-26T03:22:43+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "मौसम: हिमाचल में कब होगी बारिश और कहां गिरेगी बर्फ, विभाग ने जारी किया इस सप्ताह का पूर्वानुमान; आप भी जान लें",
+      "updated_at": "2026-10-26T03:52:49.499194+00:00",
+      "url": "https://www.amarujala.com/shimla/himachal-pradesh-weather-forecast-snowfall-rain-october-2026-2026-10-25"
+    },
     "b7ff10c4cc7c564555a6181e": {
       "published_at": "2026-10-25T19:57:54+00:00",
       "source": "dawn.com",
@@ -4106,6 +4130,14 @@
       "title": "What is the right to be forgotten? | Explained",
       "updated_at": "2026-10-25T15:13:44.610666+00:00",
       "url": "https://www.thehindu.com/news/national/what-is-the-right-to-be-forgotten-explained/article71198013.ece"
+    },
+    "be4641bdd9eb4c706093ffa5": {
+      "published_at": "2026-10-26T03:29:33+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Two women, five daughters killed after van plunges into deep ditch near Murree",
+      "updated_at": "2026-10-26T03:52:49.499213+00:00",
+      "url": "https://www.dawn.com/news/2039916/two-women-five-daughters-killed-after-van-plunges-into-deep-ditch-near-murree"
     },
     "bf45bde197193fa243b7d8cc": {
       "published_at": "2026-10-25T07:09:28+00:00",
@@ -5585,6 +5617,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:52:43.597341+00:00",
+  "last_cycle_at": "2026-10-26T03:52:49.499716+00:00",
   "schema_version": 1
 }
