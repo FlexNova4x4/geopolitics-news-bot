@@ -973,9 +973,10 @@
     "26b256a7922966953d9f3a23": {
       "published_at": "2026-10-26T06:04:55+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10754,
       "title": "Durga Puja pandal not dismantled to save family of doves in Bengal's Chinsurah",
-      "updated_at": "2026-10-26T06:42:45.323410+00:00",
+      "updated_at": "2026-10-26T06:42:52.499270+00:00",
       "url": "https://www.hindustantimes.com/india-news/durga-puja-pandal-not-dismantled-to-save-family-of-doves-in-bengals-chinsurah-101792993558599.html"
     },
     "26ba1981b8f9a2a095f54a1f": {
@@ -2479,9 +2480,10 @@
     "60c365a9f350e930e8391a9f": {
       "published_at": "2026-10-26T06:03:35+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10753,
       "title": "4 charred to death as car catches fire after falling into culvert in MP’s Dhar",
-      "updated_at": "2026-10-26T06:42:45.323391+00:00",
+      "updated_at": "2026-10-26T06:42:48.407138+00:00",
       "url": "https://www.tribuneindia.com/news/madhya-pradesh/4-charred-to-death-as-car-catches-fire-after-falling-into-culvert-in-mps-dhar"
     },
     "61b023b54352ba94a7e64f4f": {
@@ -4307,9 +4309,10 @@
     "a5a473ea1c1f44b4a41b9705": {
       "published_at": "2026-10-26T06:06:42+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10755,
       "title": "7 sacked over Madhya Pradesh fund misuse before related videos surfaced: Official",
-      "updated_at": "2026-10-26T06:42:45.323415+00:00",
+      "updated_at": "2026-10-26T06:42:56.576470+00:00",
       "url": "https://www.hindustantimes.com/india-news/7-sacked-over-madhya-pradesh-fund-misuse-before-related-videos-surfaced-official-101792994802768.html"
     },
     "a5b20317fcda667d50feb840": {
@@ -6531,9 +6534,10 @@
     "fb2f53a20f7b747ce6c29660": {
       "published_at": "2026-10-26T06:07:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10756,
       "title": "Retired Army captain held in Tamil Nadu’s Vellore for sharing military secrets with woman",
-      "updated_at": "2026-10-26T06:42:45.323420+00:00",
+      "updated_at": "2026-10-26T06:43:00.713744+00:00",
       "url": "https://www.tribuneindia.com/news/india/retired-army-captain-held-in-tamil-nadus-vellore-for-sharing-military-secrets-with-woman"
     },
     "fbadcc89aedcb56ee9198ebb": {
@@ -6724,6 +6728,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:42:45.324016+00:00",
+  "last_cycle_at": "2026-10-26T06:43:03.914866+00:00",
   "schema_version": 1
 }
