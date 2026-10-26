@@ -1061,6 +1061,14 @@
       "updated_at": "2026-10-26T00:53:52.493666+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/bishop-cotton-school-alumni-reconnect-through-walk-of-fame-in-shimla"
     },
+    "257aed234e8fa4afa5b2a014": {
+      "published_at": "2026-10-26T07:09:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Lakhimpur Kheri violence: SC told FIR registered against Ashish Mishra, others for allegedly threatening witness",
+      "updated_at": "2026-10-26T07:45:41.081162+00:00",
+      "url": "https://www.thehindu.com/news/national/lakhimpur-kheri-violence-supreme-court-told-fir-registered-against-ashish-mishra-others-for-allegedly-threatening-witness/article70142740.ece"
+    },
     "26315826209faa6b9171dad7": {
       "published_at": "2026-10-24T22:28:37+00:00",
       "source": "aljazeera.com",
@@ -3375,6 +3383,14 @@
       "updated_at": "2026-10-25T15:14:15.508847+00:00",
       "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
     },
+    "765a39c00741aee1397c5a38": {
+      "published_at": "2026-10-26T07:10:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "RJD MP Sudhakar Singh seeks Lok Sabha Speaker’s intervention over ₹5 crore defamation notice, demands probe into allegations",
+      "updated_at": "2026-10-26T07:45:41.081165+00:00",
+      "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sudhakar-singh-seeks-lok-sabha-speakers-intervention-over-5-crore-defamation-notice-demands-probe-into-allegations/article71625731.ece"
+    },
     "76dcebc49a6819fe200789b9": {
       "published_at": "2026-10-25T16:16:48+00:00",
       "source": "aljazeera.com",
@@ -3976,6 +3992,14 @@
       "title": "नई पीढ़ी को संवारना परिवार और समाज की जिम्मेदारी : डॉ. शर्मा",
       "updated_at": "2026-10-26T00:54:00.845225+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/nurturing-the-new-generation-is-the-responsibility-of-the-family-and-society-dr-sharma-solan-news-c-176-1-sln1006-182789-2026-10-25"
+    },
+    "8a6b0a414b60fb544cf67551": {
+      "published_at": "2026-10-26T07:07:57+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Police probe alleged supply of cemetery remains to medical college in Karnataka's Raichur, 3 arrested",
+      "updated_at": "2026-10-26T07:45:41.081159+00:00",
+      "url": "https://www.hindustantimes.com/india-news/police-probe-alleged-supply-of-cemetery-remains-to-medical-college-in-karnatakas-raichur-3-arrested-101792997656676.html"
     },
     "8ab1c23be8ac8d3a118fd806": {
       "published_at": "2026-10-25T13:51:35+00:00",
@@ -4818,6 +4842,14 @@
       "title": "How is a leaderless group challenging the Serbian President? Explained",
       "updated_at": "2026-10-26T03:23:25.339833+00:00",
       "url": "https://www.thehindu.com/news/international/how-is-a-leaderless-group-challenging-the-serbian-presidentexplained/article71614470.ece"
+    },
+    "aa8ddfa1f7994c7b760d05ba": {
+      "published_at": "2026-10-26T07:03:45+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "16-year-old JEE aspirant dies by suicide in Rajasthan’s Kota: Police",
+      "updated_at": "2026-10-26T07:45:41.081146+00:00",
+      "url": "https://www.hindustantimes.com/india-news/16yearold-jee-aspirant-dies-by-suicide-in-rajasthan-s-kota-police-101792998225693.html"
     },
     "aaa731da7deaa2d7e7c4bc0c": {
       "published_at": "2026-10-25T05:45:31+00:00",
@@ -7205,6 +7237,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:45:21.707322+00:00",
+  "last_cycle_at": "2026-10-26T07:45:41.081986+00:00",
   "schema_version": 1
 }
