@@ -3792,9 +3792,10 @@
     "644a54ec241f14fd34719154": {
       "published_at": "2026-10-26T20:26:43+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11128,
       "title": "Baddi police suspect Punjab link in ransom calls to scrap dealers",
-      "updated_at": "2026-10-26T22:44:03.388032+00:00",
+      "updated_at": "2026-10-26T22:44:13.735837+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/baddi-police-suspect-punjab-link-in-ransom-calls-to-scrap-dealers"
     },
     "64bb329b19abcb6e715f5cc4": {
@@ -5433,9 +5434,10 @@
     "8cbb77645c3f2ffec534469e": {
       "published_at": "2026-10-26T20:25:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11127,
       "title": "Dance, drama mark Blooming Buds school’s annual function",
-      "updated_at": "2026-10-26T22:44:03.388023+00:00",
+      "updated_at": "2026-10-26T22:44:09.715717+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/dance-drama-mark-blooming-buds-schools-annual-function"
     },
     "8cd50293985dd714395fa64a": {
@@ -5630,9 +5632,10 @@
     "934cb9e2352a67930cc2cee4": {
       "published_at": "2026-10-26T20:22:31+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11126,
       "title": "Law & economics take centre stage at HPNLU conference",
-      "updated_at": "2026-10-26T22:44:03.387998+00:00",
+      "updated_at": "2026-10-26T22:44:05.814434+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/law-economics-take-centre-stage-at-hpnlu-conference"
     },
     "9374b36218aa40d4d311bff3": {
@@ -9256,9 +9259,10 @@
     "ee8dc95c59a3ed4806f85bb0": {
       "published_at": "2026-10-26T20:28:27+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11129,
       "title": "Himachal Police to deploy quick response teams in snow-bound areas",
-      "updated_at": "2026-10-26T22:44:03.388037+00:00",
+      "updated_at": "2026-10-26T22:44:17.624102+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-police-to-deploy-quick-response-teams-in-snow-bound-areas"
     },
     "eecae1ccef23698487fc82e1": {
@@ -10023,6 +10027,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:44:03.390000+00:00",
+  "last_cycle_at": "2026-10-26T22:44:20.827042+00:00",
   "schema_version": 1
 }
