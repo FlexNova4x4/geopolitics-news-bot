@@ -549,6 +549,14 @@
       "updated_at": "2026-10-25T05:36:47.446479+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/heavy-rain-to-hit-chennai-northern-delta-and-western-districts-on-sunday/article71620782.ece"
     },
+    "0f009f942ee26702f0dca122": {
+      "published_at": "2026-10-26T12:54:05+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
+      "updated_at": "2026-10-26T13:45:02.685146+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss"
+    },
     "0fe5303fb47015eaf9030dec": {
       "published_at": "2026-10-26T05:40:03+00:00",
       "source": "thehindu.com",
@@ -1877,6 +1885,14 @@
       "updated_at": "2026-10-25T16:16:28.272903+00:00",
       "url": "https://www.thehindu.com/news/international/two-indian-american-candidates-face-key-us-midterm-races-as-early-voting-begins/article71624107.ece"
     },
+    "3401b2df7bfe0bf0089a70c8": {
+      "published_at": "2026-10-26T12:53:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Campaign targeting SP-Congress alliance to consolidate PDA: Akhilesh Yadav",
+      "updated_at": "2026-10-26T13:45:02.685124+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/campaign-targeting-sp-congress-alliance-to-consolidate-pda-akhilesh-yadav/article71626943.ece"
+    },
     "3422328a7fdd5046fca5cd9b": {
       "published_at": "2026-10-26T01:17:18+00:00",
       "source": "amarujala.com",
@@ -1975,6 +1991,14 @@
       "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
       "updated_at": "2026-10-25T22:00:39.260657+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+    },
+    "3890e016f82f2c041b60e127": {
+      "published_at": "2026-10-26T12:56:40+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Imaan, Hadi move SC against IHC order refusing to stay trial in security breach case",
+      "updated_at": "2026-10-26T13:45:02.685149+00:00",
+      "url": "https://www.dawn.com/news/2039962/imaan-hadi-move-sc-against-ihc-order-refusing-to-stay-trial-in-security-breach-case"
     },
     "389687d9e17f1d8c247ef6fe": {
       "published_at": "2026-10-25T17:06:07+00:00",
@@ -8707,6 +8731,14 @@
       "updated_at": "2026-10-26T00:56:10.946540+00:00",
       "url": "https://www.tribuneindia.com/news/abdul-qahar-balkhi/stop-baseless-allegations-address-security-issues-internally-afghanistan-hits-back-at-pakistan-cites-over-1100-civilian-casualties"
     },
+    "ed04e0ae3d62068f231b3cd3": {
+      "published_at": "2026-10-26T12:53:57+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "India-Mexico trade deal: Talks to begin this week amid fresh 50% tariffs on Indian exports",
+      "updated_at": "2026-10-26T13:45:02.685140+00:00",
+      "url": "https://www.hindustantimes.com/india-news/indiamexico-trade-deal-talks-to-begin-this-week-amid-fresh-50-tariffs-on-indian-exports-101793017996644.html"
+    },
     "edeca2240d6bfb580b208d9a": {
       "published_at": "2026-10-26T11:02:42+00:00",
       "source": "thehindu.com",
@@ -9487,6 +9519,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:44:37.154097+00:00",
+  "last_cycle_at": "2026-10-26T13:45:02.685947+00:00",
   "schema_version": 1
 }
