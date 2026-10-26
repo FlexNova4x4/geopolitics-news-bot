@@ -12,9 +12,10 @@
     "011eece4d04a6ac3a5dff12e": {
       "published_at": "2026-10-26T04:06:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10658,
       "title": "Intercepted missile after Houthis hit Riyadh airport, says Saudi coalition",
-      "updated_at": "2026-10-26T04:24:03.284291+00:00",
+      "updated_at": "2026-10-26T04:24:05.619470+00:00",
       "url": "https://www.thehindu.com/news/international/intercepted-missile-after-houthis-hit-riyadh-airport-says-saudi-coalition/article71625586.ece"
     },
     "014f5be9fc4a7789c2c85aef": {
@@ -2792,9 +2793,10 @@
     "77a60bffe8df261149f9e13f": {
       "published_at": "2026-10-26T04:09:33+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10659,
       "title": "Jamia students reject university’s appeal to end protest, say order on students’ union restoration is ‘ambiguous’",
-      "updated_at": "2026-10-26T04:24:03.284306+00:00",
+      "updated_at": "2026-10-26T04:24:09.575837+00:00",
       "url": "https://www.hindustantimes.com/india-news/jamia-milia-islamia-students-14-day-protest-reject-agreement-with-university-jmi-delhi-101792982197611.html"
     },
     "77c44a85cab4f6bd039406a3": {
@@ -4835,9 +4837,10 @@
     "d84e844c92b6230c3516d2d3": {
       "published_at": "2026-10-26T04:10:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10660,
       "title": "हिमाचल: मुख्यमंत्री सुक्खू बोले- पर्यटन पर 15,000 करोड़ रुपये निवेश की योजना, हवाई सेवाओं का होगा विस्तार",
-      "updated_at": "2026-10-26T04:24:03.284309+00:00",
+      "updated_at": "2026-10-26T04:24:13.661057+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/himachal-pradesh-15-000-crore-tourism-investment-and-airport-expansion-2026-10-26"
     },
     "d8f9feae97e1da0bc82c5244": {
@@ -5219,9 +5222,10 @@
     "eaa4aa3a4157a93450eabdae": {
       "published_at": "2026-10-26T04:11:33+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10661,
       "title": "Immigration officers can detain a person holding a valid visa for questioning, security checks: Delhi high court",
-      "updated_at": "2026-10-26T04:24:03.284311+00:00",
+      "updated_at": "2026-10-26T04:24:17.799647+00:00",
       "url": "https://www.hindustantimes.com/india-news/immigration-officers-can-detain-a-person-holding-a-valid-visa-for-questioning-security-checks-delhi-high-court-101792986750055.html"
     },
     "eae98406a38dc2218ff3404a": {
@@ -5869,6 +5873,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:24:03.284854+00:00",
+  "last_cycle_at": "2026-10-26T04:24:21.000835+00:00",
   "schema_version": 1
 }
