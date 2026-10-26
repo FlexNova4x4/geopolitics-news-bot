@@ -693,6 +693,14 @@
       "updated_at": "2026-10-26T04:23:45.771402+00:00",
       "url": "https://www.dawn.com/news/2039920/balochistan-govt-launches-vocational-scheme-for-youth-training"
     },
+    "16f8643e39fad84f4f1302b5": {
+      "published_at": "2026-10-26T07:33:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "How are tropical cyclones named?",
+      "updated_at": "2026-10-26T08:43:14.113723+00:00",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-how-are-tropical-storms-named/article71622678.ece"
+    },
     "1710401f57210e87120dfb7a": {
       "published_at": "2026-10-24T22:24:04+00:00",
       "source": "thehindu.com",
@@ -2103,6 +2111,14 @@
       "updated_at": "2026-10-26T04:54:16.724585+00:00",
       "url": "https://www.dawn.com/news/2039855/opposition-joins-protest-against-construction-on-karachis-nehr-i-khayyam"
     },
+    "4942028eed4b42af2503b63a": {
+      "published_at": "2026-10-26T07:29:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Flash floods inundate several areas of Thailand’s Phuket island after heavy rain",
+      "updated_at": "2026-10-26T08:43:14.113703+00:00",
+      "url": "https://www.thehindu.com/news/international/flash-floods-inundate-several-areas-of-thailands-phuket-island-after-heavy-rain/article71625917.ece"
+    },
     "4948ed7abc5784e377a9b258": {
       "published_at": "2026-10-26T01:07:22+00:00",
       "source": "dawn.com",
@@ -2478,6 +2494,14 @@
       "title": "BJP leader Hartal Halappa urges Karnataka Govt to ensure at least seven-hour power supply to agri pump sets during day time",
       "updated_at": "2026-10-25T10:34:49.491037+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bjp-leader-hartal-halappa-urges-karnataka-govt-to-ensure-at-least-seven-hour-power-supply-to-agri-pump-sets-during-day-time/article71622920.ece"
+    },
+    "57788e56a06dcdd4a4eb61a9": {
+      "published_at": "2026-10-26T07:33:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SC says 14 States so far agree to raise retirement age of Judicial Officers from 60 to 62 years",
+      "updated_at": "2026-10-26T08:43:14.113726+00:00",
+      "url": "https://www.thehindu.com/news/national/sc-says-14-states-so-far-agree-to-raise-retirement-age-of-judicial-officers-from-60-to-62-years/article71625967.ece"
     },
     "58dd76d6c952bad2ddd61861": {
       "published_at": "2026-10-25T20:00:04+00:00",
@@ -3850,6 +3874,14 @@
       "title": "Why are people in Arunachal Pradesh protesting the Siang dam?",
       "updated_at": "2026-10-26T04:22:37.190938+00:00",
       "url": "https://www.tribuneindia.com/news/india/why-are-people-in-arunachal-pradesh-protesting-the-siang-dam"
+    },
+    "84c6633e5118c4479afcd61b": {
+      "published_at": "2026-10-26T07:30:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Natural gas leak from ONGC pipeline in Andhra’s Konaseema; work on to plug the leak",
+      "updated_at": "2026-10-26T08:43:14.113719+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/natural-gas-leak-from-ongc-pipeline-in-andhras-konaseema-work-on-to-plug-the-leak/article71625785.ece"
     },
     "85616f4dbf5ab1cf6473a90e": {
       "published_at": "2026-10-25T22:17:09+00:00",
@@ -7349,6 +7381,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:43:08.337304+00:00",
+  "last_cycle_at": "2026-10-26T08:43:14.114488+00:00",
   "schema_version": 1
 }
