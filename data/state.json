@@ -1994,6 +1994,14 @@
       "updated_at": "2026-10-24T23:59:52.150385+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
     },
+    "34e1fab8b0c2d57f2ad80d26": {
+      "published_at": "2026-10-26T19:42:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SHRC calls for checks on private clinics after boy’s death following tonsil surgery in Kannur",
+      "updated_at": "2026-10-26T22:41:14.933895+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece"
+    },
     "3597c9b454d48930ebf04fe4": {
       "published_at": "2026-10-25T16:22:26+00:00",
       "source": "thehindu.com",
@@ -5485,6 +5493,14 @@
       "updated_at": "2026-10-26T02:53:13.729088+00:00",
       "url": "https://www.hindustantimes.com/india-news/justice-lalit-changed-case-listing-approach-as-cji-says-justice-kaul-in-memoir-101792953692096.html"
     },
+    "934bd8317579bd82d0adc39e": {
+      "published_at": "2026-10-26T19:45:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
+      "updated_at": "2026-10-26T22:41:14.933902+00:00",
+      "url": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece"
+    },
     "9374b36218aa40d4d311bff3": {
       "published_at": "2026-10-24T23:03:21+00:00",
       "source": "feeds.bbci.co.uk",
@@ -5925,6 +5941,14 @@
       "updated_at": "2026-10-26T09:15:57.820686+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-why-are-more-than-207-crore-enumeration-forms-uncollected-explained/article71358990.ece"
     },
+    "9cb948e773dfc484c07451e9": {
+      "published_at": "2026-10-26T19:34:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Two Vande Bharat trains partially cancelled for signal work at Kalamassery station on Oct. 27",
+      "updated_at": "2026-10-26T22:41:14.933861+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/train-services-to-be-regulated-for-signal-work-at-kalamassery-station-on-oct-27/article71628085.ece"
+    },
     "9ce2be0619732bfb37a0d55d": {
       "published_at": "2026-10-25T07:12:53+00:00",
       "source": "thehindu.com",
@@ -6353,6 +6377,14 @@
       "title": "Electricity Employees’ Federation of India cry foul over delay in issuing work order for Phase II of smart metering in Keralam",
       "updated_at": "2026-10-25T11:04:37.343134+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/electricity-employees-federation-of-india-cry-foul-over-delay-in-issuing-work-order-for-phase-ii-of-smart-metering-in-keralam/article71622809.ece"
+    },
+    "a855b8cda03c88c435c60d18": {
+      "published_at": "2026-10-26T19:37:10+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Alka Lamba seeks Gyanesh Kumar’s removal & arrest over ‘vote theft’",
+      "updated_at": "2026-10-26T22:41:14.933889+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/alka-lamba-seeks-gyanesh-kumars-removal-arrest-over-vote-theft"
     },
     "a86d99b826ed95fb20231ab5": {
       "published_at": "2026-10-26T04:57:46+00:00",
@@ -9739,6 +9771,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:41:08.254923+00:00",
+  "last_cycle_at": "2026-10-26T22:41:14.935478+00:00",
   "schema_version": 1
 }
