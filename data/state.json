@@ -1845,9 +1845,10 @@
     "39c21d21eca8d6f9f4a11a9c": {
       "published_at": "2026-10-25T23:36:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10970,
       "title": "पहली नवंबर को दिल्ली के रामलीला मैदान में प्रस्तावित रैली में हिमाचल से हजारों कार्यकर्ताओं के शामिल होने की योजना है।",
-      "updated_at": "2026-10-26T11:43:46.448517+00:00",
+      "updated_at": "2026-10-26T11:44:01.910972+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-harish-chandra-meena-sir-allegations-against-election-commission-in-hamirpur-2026-10-26"
     },
     "3a1848b68d0a30ff13abf2c0": {
@@ -2060,9 +2061,10 @@
     "3f8123bdc6d9ee6d2a39708c": {
       "published_at": "2026-10-25T23:14:33+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10967,
       "title": "हिमाचल में फिर करवट बदलेगा माैसम: दो दिन छह जिलों में बारिश-बर्फबारी होने के आसार, अंधड़ चलने का येलो अलर्ट",
-      "updated_at": "2026-10-26T11:43:46.448484+00:00",
+      "updated_at": "2026-10-26T11:43:49.503013+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-weather-rain-and-snowfall-expected-in-six-districts-for-two-days-yellow-alert-issued-for-thundersto-2026-10-26"
     },
     "3fcd6f10560124f915c94c5a": {
@@ -5245,9 +5247,10 @@
     "9e099b6fba1e0d4454893307": {
       "published_at": "2026-10-25T23:29:21+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10969,
       "title": "रामपुर बुशहर: नोगली में भाजपा का शक्ति प्रदर्शन, जयराम ठाकुर ने भरी चुनावी हुंकार",
-      "updated_at": "2026-10-26T11:43:46.448511+00:00",
+      "updated_at": "2026-10-26T11:43:57.715904+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-jai-ram-thakur-praises-kaul-singh-negi-at-rampur-nogli-bjp-event-2026-10-26"
     },
     "9ed30e3fe86a375981601659": {
@@ -7174,9 +7177,10 @@
     "d6b6464e83c45dcd23827667": {
       "published_at": "2026-10-25T23:21:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10968,
       "title": "सोलन: भ्रष्टाचार के खिलाफ हिमाचल पुलिस ने तेज किया अभियान, जीरो टॉलरेंस नीति पर जोर",
-      "updated_at": "2026-10-26T11:43:46.448502+00:00",
+      "updated_at": "2026-10-26T11:43:53.670153+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-himachal-pradesh-police-anti-corruption-awareness-campaign-2026-2026-10-26"
     },
     "d6cfd4f710ea8c69c5d628b0": {
@@ -8623,6 +8627,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T11:43:46.449442+00:00",
+  "last_cycle_at": "2026-10-26T11:44:05.112534+00:00",
   "schema_version": 1
 }
