@@ -983,9 +983,10 @@
     "24f4e73ce7f92a3648d27ebe": {
       "published_at": "2026-10-26T06:16:15+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10777,
       "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "updated_at": "2026-10-26T07:13:12.321867+00:00",
+      "updated_at": "2026-10-26T07:13:15.188310+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
     },
     "25055fe601576605c587032b": {
@@ -3601,9 +3602,10 @@
     "831a8a6a1456649042fc71ef": {
       "published_at": "2026-10-26T06:26:39+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10778,
       "title": "Three-year-old dies after falling from AC vent on 17th floor flat in Ghaziabad",
-      "updated_at": "2026-10-26T07:13:12.321881+00:00",
+      "updated_at": "2026-10-26T07:13:19.113680+00:00",
       "url": "https://www.hindustantimes.com/india-news/threeyearold-dies-after-falling-from-ac-vent-on-17th-floor-flat-in-ghaziabad-101792995377171.html"
     },
     "83a1ffacabe7c1272dc6457f": {
@@ -3708,9 +3710,10 @@
     "85b7fa3d30e94b5f42813585": {
       "published_at": "2026-10-26T06:34:15+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10780,
       "title": "'Shameful, arrogant': Raghav Chadha slams Kharge's 'baap' remark for PM Modi",
-      "updated_at": "2026-10-26T07:13:12.321889+00:00",
+      "updated_at": "2026-10-26T07:13:26.948193+00:00",
       "url": "https://www.hindustantimes.com/india-news/shameful-arrogant-raghav-chadha-slams-kharge-baap-remark-for-pm-modi-bjp-congress-bihar-event-sir-eci-row-101792992417043.html"
     },
     "85d0a0f97459b6e714b3b2be": {
@@ -6443,9 +6446,10 @@
     "f1971a6c435c7f2d49200b5c": {
       "published_at": "2026-10-26T06:29:10+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10779,
       "title": "Dakar Rally 2027 moved out of Saudi Arabia amid conflict in Middle East",
-      "updated_at": "2026-10-26T07:13:12.321886+00:00",
+      "updated_at": "2026-10-26T07:13:23.036566+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss"
     },
     "f1b35a6ef9792201dff06c5f": {
@@ -6940,6 +6944,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:13:12.322781+00:00",
+  "last_cycle_at": "2026-10-26T07:13:30.149510+00:00",
   "schema_version": 1
 }
