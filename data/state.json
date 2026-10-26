@@ -1356,6 +1356,14 @@
       "updated_at": "2026-10-25T05:40:32.624763+00:00",
       "url": "https://www.hindustantimes.com/india-news/anti-cec-delhi-protest-live-updates-amit-shah-cjp-dipke-ranka-saurav-das-congress-rahul-gandhi-gyanesh-kumar-sir-eci-row-101792898066204.html"
     },
+    "49bad963a3556e142d805c93": {
+      "published_at": "2026-10-25T19:50:39+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Give priority to Nurpur while forming new dists, says MLA",
+      "updated_at": "2026-10-26T00:52:58.089417+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/give-priority-to-nurpur-while-forming-new-dists-says-mla"
+    },
     "4a067e46333580ef31d07718": {
       "published_at": "2026-10-24T21:30:11+00:00",
       "source": "aljazeera.com",
@@ -2070,6 +2078,14 @@
       "title": "Pakistan reopens Iran border crossing after week-long suspension of trade",
       "updated_at": "2026-10-25T09:34:48.001871+00:00",
       "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece"
+    },
+    "72809b89b6fdf542b62427cf": {
+      "published_at": "2026-10-25T19:55:50+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Kangra students display artistic talent at ‘Rangotsav’",
+      "updated_at": "2026-10-26T00:52:58.089424+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/kangra-students-display-artistic-talent-at-rangotsav"
     },
     "72c0374bb747e4cb1e0fc199": {
       "published_at": "2026-10-25T19:41:40+00:00",
@@ -3914,6 +3930,14 @@
       "updated_at": "2026-10-26T00:30:33.829464+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss"
     },
+    "e3e2d3e1fce9a6003cdcf348": {
+      "published_at": "2026-10-25T19:55:46+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Nand Nala bridge on Pong Lake backwaters nears completion",
+      "updated_at": "2026-10-26T00:52:58.089421+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/nand-nala-bridge-on-pong-lake-backwaters-nears-completion"
+    },
     "e45447987be3d824ed5c553c": {
       "published_at": "2026-10-25T12:40:51+00:00",
       "source": "hindustantimes.com",
@@ -3922,6 +3946,14 @@
       "title": "MBBS student, 24, found dead on hostel lawn in Pratapgarh, probe underway",
       "updated_at": "2026-10-25T15:11:23.416817+00:00",
       "url": "https://www.hindustantimes.com/india-news/mbbs-student-24-found-dead-on-hostel-lawn-in-pratapgarh-probe-underway-101792927664152.html"
+    },
+    "e54c0b9d62d110989b311887": {
+      "published_at": "2026-10-25T19:50:01+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Kangra’s untapped tourism potential awaits discovery",
+      "updated_at": "2026-10-26T00:52:58.089399+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/kangras-untapped-tourism-potential-awaits-discovery"
     },
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
@@ -4505,6 +4537,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:52:50.331011+00:00",
+  "last_cycle_at": "2026-10-26T00:52:58.089879+00:00",
   "schema_version": 1
 }
