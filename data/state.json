@@ -1097,6 +1097,14 @@
       "updated_at": "2026-10-26T06:44:09.772593+00:00",
       "url": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece"
     },
+    "24f42936a0cafb0637010f5c": {
+      "published_at": "2026-10-25T21:10:44+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "कुल्लू पहुंचे मुख्यमंत्री सुखविंद्र सिंह सुक्खू, बजौरा में ढोल-नगाड़ों के साथ हुआ भव्य स्वागत",
+      "updated_at": "2026-10-26T09:14:34.798073+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-cm-sukhu-kullu-visit-and-bajoura-welcome-2026-10-26"
+    },
     "24f4e73ce7f92a3648d27ebe": {
       "published_at": "2026-10-26T06:16:15+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1517,6 +1525,14 @@
       "title": "Andhra braces for ‘very severe’ Cyclone Arnab, IMD issues red alert",
       "updated_at": "2026-10-26T06:43:48.321301+00:00",
       "url": "https://www.tribuneindia.com/news/india/auto-draft-57"
+    },
+    "31b54292bf4fdd0cbbff34c4": {
+      "published_at": "2026-10-25T21:02:28+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "शिमला: वाल्मीकि मंदिर को 25 लाख, पात्र सफाई कर्मचारियों को मकान के लिए तीन लाख; मुख्यमंत्री सुक्खू ने की घोषणा",
+      "updated_at": "2026-10-26T09:14:34.798039+00:00",
+      "url": "https://www.amarujala.com/shimla/cm-sukhu-announces-25-lakh-for-valmiki-temple-3-lakh-housing-aid-for-eligible-sanitation-workers-2026-10-26"
     },
     "31fb567f7c421891b63b619c": {
       "published_at": "2026-10-25T07:33:28+00:00",
@@ -3761,6 +3777,14 @@
       "title": "Himachal CM for Scouts unit on lines of Ladakh",
       "updated_at": "2026-10-26T00:55:16.089778+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-cm-for-scouts-unit-on-lines-of-ladakh"
+    },
+    "7c77b1d428298b4dd4cb44aa": {
+      "published_at": "2026-10-25T20:44:23+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल में बड़ा हादसा: मंडी में डंगा गिरने से 200 मीटर नीचे लुढ़का बजरी से लदा टिप्पर, चालक की मौत",
+      "updated_at": "2026-10-26T09:14:34.798019+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/mandi/dharampur-kotli-road-accident-tipper-falls-200-metres-driver-dies-2026-10-26"
     },
     "7cb6939ad55d89e5fafe8506": {
       "published_at": "2026-10-26T01:45:30+00:00",
@@ -7055,6 +7079,14 @@
       "updated_at": "2026-10-26T00:56:10.946540+00:00",
       "url": "https://www.tribuneindia.com/news/abdul-qahar-balkhi/stop-baseless-allegations-address-security-issues-internally-afghanistan-hits-back-at-pakistan-cites-over-1100-civilian-casualties"
     },
+    "ee0065f26494aeab7363c7d2": {
+      "published_at": "2026-10-25T21:10:52+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "रामपुर में सनशाइन पब्लिक स्कूल के फेट में दिखी विद्यार्थियों की प्रतिभा, खाने-पीने के स्टॉल से लेकर मॉडलों तक बिखेरा हुनर",
+      "updated_at": "2026-10-26T09:14:34.798079+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-sunshine-public-school-rampur-school-fete-showcases-student-talent-2026-10-26"
+    },
     "ee273e8d6d2effa2e3171640": {
       "published_at": "2026-10-24T23:50:02+00:00",
       "source": "feeds.bbci.co.uk",
@@ -7754,6 +7786,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:47:44.147497+00:00",
+  "last_cycle_at": "2026-10-26T09:14:34.798969+00:00",
   "schema_version": 1
 }
