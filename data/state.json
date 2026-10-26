@@ -342,6 +342,14 @@
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
     },
+    "0ca76d6b27bdf7c2b0401cad": {
+      "published_at": "2026-10-26T05:16:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israel’s election: Five key things to know",
+      "updated_at": "2026-10-26T05:53:22.951366+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss"
+    },
     "0dd736df51ea9188a674d863": {
       "published_at": "2026-10-25T06:57:11+00:00",
       "source": "hindustantimes.com",
@@ -889,6 +897,14 @@
       "title": "रोहनप्रीत, रमेश ठाकुर और अनुज शर्मा के नाम रही कुल्लू दशहरा की पांचवीं सांस्कृतिक संध्या",
       "updated_at": "2026-10-26T04:22:56.463115+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-kullu-dussehra-fifth-cultural-evening-rohanpreet-singh-ramesh-thakur-anuj-sharma-2026-10-26"
+    },
+    "24328b809fdeacc2006cd43f": {
+      "published_at": "2026-10-26T05:12:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Large victory over Likud will ensure change”: Gadi Eisenkot calls for support ahead of Israel election on Tuesday",
+      "updated_at": "2026-10-26T05:53:22.951348+00:00",
+      "url": "https://www.tribuneindia.com/news/eisenkot/large-victory-over-likud-will-ensure-change-gadi-eisenkot-calls-for-support-ahead-of-israel-election-on-tuesday"
     },
     "25055fe601576605c587032b": {
       "published_at": "2026-10-25T15:48:52+00:00",
@@ -1715,6 +1731,14 @@
       "title": "KSSP supports distribution of generic drugs for SMA patients in Keralam",
       "updated_at": "2026-10-25T08:05:29.594923+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kssp-supports-distribution-of-generic-drugs-for-sma-patients-in-keralam/article71622756.ece"
+    },
+    "4515cfe5f8a44766599c568a": {
+      "published_at": "2026-10-26T05:16:37+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘Aai ke haath ka khaana’: Sachin Tendulkar recalls mum’s dishes he craved on long cricket tours",
+      "updated_at": "2026-10-26T05:53:22.951363+00:00",
+      "url": "https://www.tribuneindia.com/news/trending/aai-ke-haath-ka-khaana-sachin-tendulkar-recalls-mums-dishes-he-craved-on-long-cricket-tours"
     },
     "4517691c943f6b5ae59be008": {
       "published_at": "2026-10-25T12:49:04+00:00",
@@ -4252,6 +4276,14 @@
       "updated_at": "2026-10-25T06:35:08.840575+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
     },
+    "aaa77c06c74563c7d1d4e1ba": {
+      "published_at": "2026-10-26T05:17:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Democrats projected to win 229 House seats as economic concerns weigh on voters: CBS News polls",
+      "updated_at": "2026-10-26T05:53:22.951368+00:00",
+      "url": "https://www.tribuneindia.com/news/cbs-news-poll/democrats-projected-to-win-229-house-seats-as-economic-concerns-weigh-on-voters-cbs-news-polls"
+    },
     "aad5a01d7fc6de7b00e1bb87": {
       "published_at": "2026-10-25T15:44:17+00:00",
       "source": "thehindu.com",
@@ -6386,6 +6418,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:53:15.014625+00:00",
+  "last_cycle_at": "2026-10-26T05:53:22.951948+00:00",
   "schema_version": 1
 }
