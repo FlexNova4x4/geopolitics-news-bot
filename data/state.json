@@ -1914,6 +1914,14 @@
       "updated_at": "2026-10-26T01:52:32.897340+00:00",
       "url": "https://www.hindustantimes.com/india-news/election-commission-orders-statewide-scrutiny-of-uttar-pradesh-voter-list-entries-deletions-post-sir-101792957829316.html"
     },
+    "4b83e13fef0975f7d10e8948": {
+      "published_at": "2026-10-26T05:23:04+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rahul Gandhi’s convoy vehicles collide on way to court on UP expressway, Congress MP safe",
+      "updated_at": "2026-10-26T05:53:47.374773+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhis-convoy-vehicles-collide-on-up-purvanchal-expressway-congress-mp-safe-101792992135602.html"
+    },
     "4c4507b441e36f8a51901405": {
       "published_at": "2026-10-25T15:47:02+00:00",
       "source": "thehindu.com",
@@ -3973,6 +3981,14 @@
       "updated_at": "2026-10-25T15:16:20.554935+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-braces-for-very-severe-cyclone-to-evacuate-people-in-coastal-districts/article71623247.ece"
     },
+    "a187897975e8b3a3b3829d92": {
+      "published_at": "2026-10-26T05:24:59+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "updated_at": "2026-10-26T05:53:47.374776+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss"
+    },
     "a1bc666fee8c90260ebe2dc3": {
       "published_at": "2026-10-25T01:05:02+00:00",
       "source": "thehindu.com",
@@ -4530,6 +4546,14 @@
       "updated_at": "2026-10-25T16:13:05.449871+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/cabinet-will-discuss-proposal-on-establishing-buddhist-university-chief-minister/article71623845.ece"
     },
+    "b7c906e674285537d2f48578": {
+      "published_at": "2026-10-26T05:18:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
+      "updated_at": "2026-10-26T05:53:47.374755+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss"
+    },
     "b7de6bbd810e3b27cf9d7eb4": {
       "published_at": "2026-10-26T03:22:43+00:00",
       "source": "amarujala.com",
@@ -4825,6 +4849,14 @@
       "title": "IAS reshuffle in Tamil Nadu: Laxmi Priya to hold additional charge as Special Officer of Mudhalvarin Mugavari",
       "updated_at": "2026-10-25T11:04:54.888931+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-charge-as-special-officer-of-mudhalvarin-mugavari/article71622984.ece"
+    },
+    "c243ff8a27b13a70d23e3bd9": {
+      "published_at": "2026-10-26T05:21:55+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Bride shot dead after her walima reception allegedly by jilted suitor in Gujranwala",
+      "updated_at": "2026-10-26T05:53:47.374770+00:00",
+      "url": "https://www.dawn.com/news/2039925/bride-shot-dead-after-her-walima-reception-allegedly-by-jilted-suitor-in-gujranwala"
     },
     "c3005249b4364682c313af9c": {
       "published_at": "2026-10-26T05:18:25+00:00",
@@ -6422,6 +6454,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:53:41.613651+00:00",
+  "last_cycle_at": "2026-10-26T05:53:47.375450+00:00",
   "schema_version": 1
 }
