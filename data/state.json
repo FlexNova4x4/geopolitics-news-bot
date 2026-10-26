@@ -291,9 +291,10 @@
     "0ffc94f12185600e6f4ca01a": {
       "published_at": "2026-10-26T00:14:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10560,
       "title": "Kangra News: दाड़ी में 378 स्वयंसेवकों ने निकाला पथ संचलन, सामाजिक समरसता का दिया संदेश",
-      "updated_at": "2026-10-26T00:58:21.418000+00:00",
+      "updated_at": "2026-10-26T00:58:24.020847+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/378-volunteers-held-a-march-in-dadri-conveying-a-message-of-social-harmony-kangra-news-c-95-1-kng1060-263338-2026-10-26"
     },
     "1067f720ed8ddbd666d764f0": {
@@ -1259,9 +1260,10 @@
     "3f178139db390d36f541395c": {
       "published_at": "2026-10-26T00:22:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10563,
       "title": "“Libya cannot remain a corridor for illegal migration”: Trump",
-      "updated_at": "2026-10-26T00:58:21.418046+00:00",
+      "updated_at": "2026-10-26T00:58:36.309227+00:00",
       "url": "https://www.tribuneindia.com/news/illegal-migration/libya-cannot-remain-a-corridor-for-illegal-migration-trump"
     },
     "3fcd6f10560124f915c94c5a": {
@@ -2548,9 +2550,10 @@
     "800c3d267e92ae5c036a2b46": {
       "published_at": "2026-10-26T00:18:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10562,
       "title": "दिवाली से पहले चार माह का वेतन जारी करे सरकार : संघ",
-      "updated_at": "2026-10-26T00:58:21.418043+00:00",
+      "updated_at": "2026-10-26T00:58:32.217636+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/government-should-release-four-months-salary-before-diwali-union-kangra-news-c-95-1-kng1024-263365-2026-10-26"
     },
     "803f430a679b5d7c9aae2e86": {
@@ -3863,9 +3866,10 @@
     "c988551e246a82a6cca26ffe": {
       "published_at": "2026-10-26T00:17:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10561,
       "title": "ज्वालामुखी में बनेंगे तीन भव्य प्रवेश द्वार, बस अड्डे के लिए 100 करोड़ स्वीकृत : संजय",
-      "updated_at": "2026-10-26T00:58:21.418039+00:00",
+      "updated_at": "2026-10-26T00:58:28.069345+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/three-grand-entrance-gates-to-be-built-in-jwalamukhi-rs-100-crore-sanctioned-for-bus-stand-sanjay-kangra-news-c-95-1-kng1036-263443-2026-10-26"
     },
     "caf45fcb27a56d22f14c855e": {
@@ -5005,6 +5009,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:58:21.418657+00:00",
+  "last_cycle_at": "2026-10-26T00:58:39.510355+00:00",
   "schema_version": 1
 }
