@@ -1405,9 +1405,10 @@
     "2f70aa3bb68fef0a7c7da092": {
       "published_at": "2026-10-26T08:22:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10859,
       "title": "Human-wildlife conflict: Preventive measures on the cards around hotspots in Keralam’s Perambra estate",
-      "updated_at": "2026-10-26T08:46:30.232114+00:00",
+      "updated_at": "2026-10-26T08:46:32.635597+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/human-wildlife-conflict-preventive-measures-on-the-cards-around-hotspots-in-keralams-perambra-estate/article71625732.ece"
     },
     "2f73e0a6fb17dd4bf124b1ac": {
@@ -4420,9 +4421,10 @@
     "95f143944ae592eec44b7020": {
       "published_at": "2026-10-26T08:23:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10860,
       "title": "Iran says officials from Saudi, Turkiye, Pakistan to visit Tehran for security talks",
-      "updated_at": "2026-10-26T08:46:30.232133+00:00",
+      "updated_at": "2026-10-26T08:46:36.576645+00:00",
       "url": "https://www.thehindu.com/news/international/iran-says-officials-from-saudi-turkiye-pakistan-to-visit-tehran-for-security-talks/article71625846.ece"
     },
     "961a9900ee3994d9682b3fab": {
@@ -5485,9 +5487,10 @@
     "ba558963e8834e3e432f3cef": {
       "published_at": "2026-10-26T08:23:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10862,
       "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
-      "updated_at": "2026-10-26T08:46:30.232143+00:00",
+      "updated_at": "2026-10-26T08:46:44.463208+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss"
     },
     "baf5623d0a3ae983ca1284bf": {
@@ -6391,9 +6394,10 @@
     "d8d9cbac081d765d2027748b": {
       "published_at": "2026-10-26T08:23:03+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10861,
       "title": "3 killed in firing after car parking dispute in Lucknow",
-      "updated_at": "2026-10-26T08:46:30.232138+00:00",
+      "updated_at": "2026-10-26T08:46:40.542517+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/3-killed-in-firing-after-car-parking-dispute-in-lucknow"
     },
     "d8f9feae97e1da0bc82c5244": {
@@ -7669,6 +7673,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:46:30.233123+00:00",
+  "last_cycle_at": "2026-10-26T08:46:47.664784+00:00",
   "schema_version": 1
 }
