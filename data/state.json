@@ -450,6 +450,14 @@
       "updated_at": "2026-10-25T12:04:37.359590+00:00",
       "url": "https://www.hindustantimes.com/india-news/tigress-t-2403-spotted-with-three-cubs-in-ranthambore-tiger-reserve-101792923074600.html"
     },
+    "17e2bbf5d767a08e3d2c6e96": {
+      "published_at": "2026-10-25T23:41:25+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Serbia's student movement ousts longtime leader in Parliament poll",
+      "updated_at": "2026-10-26T00:30:33.829482+00:00",
+      "url": "https://www.thehindu.com/news/international/serbias-student-movement-ousts-longtime-leader-in-parliament-poll/article71624845.ece"
+    },
     "17f2501e2954ccc613dedb2d": {
       "published_at": "2026-10-25T21:50:36+00:00",
       "source": "aljazeera.com",
@@ -1419,6 +1427,14 @@
       "title": "Holiday for school in Wayanad",
       "updated_at": "2026-10-25T15:15:22.990076+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/holiday-for-school-in-wayanad/article71623696.ece"
+    },
+    "50e963803d6163158b885484": {
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+      "updated_at": "2026-10-26T00:30:33.829484+00:00",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
     },
     "512296d1fdccc4355da3c305": {
       "published_at": "2026-10-25T03:04:15+00:00",
@@ -3836,6 +3852,14 @@
       "updated_at": "2026-10-25T16:12:07.301397+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/some-devaswom-officials-involved-in-ghee-scam-claims-keralam-minister-muraleedharan/article71623896.ece"
     },
+    "e2ca172b5a840d6f1d72d060": {
+      "published_at": "2026-10-25T23:29:13+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "updated_at": "2026-10-26T00:30:33.829464+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss"
+    },
     "e45447987be3d824ed5c553c": {
       "published_at": "2026-10-25T12:40:51+00:00",
       "source": "hindustantimes.com",
@@ -4320,6 +4344,14 @@
       "updated_at": "2026-10-25T05:40:10.284436+00:00",
       "url": "https://www.thehindu.com/news/international/immigrants-seeking-us-citizenship-face-charges-in-a-crackdown-on-illegal-voting-and-citizenship-fraud/article71614953.ece"
     },
+    "fcf357c3fdacb0f3414c00f1": {
+      "published_at": "2026-10-25T23:38:57+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+      "updated_at": "2026-10-26T00:30:33.829478+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+    },
     "fd1ef773989d687fe3c9f4a7": {
       "published_at": "2026-10-25T07:26:59+00:00",
       "source": "thehindu.com",
@@ -4410,6 +4442,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:00:36.740452+00:00",
+  "last_cycle_at": "2026-10-26T00:30:33.829899+00:00",
   "schema_version": 1
 }
