@@ -3117,9 +3117,10 @@
     "800e959fa29efb2abb2ecd08": {
       "published_at": "2026-10-26T04:24:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10692,
       "title": "‘Told to remove clothes’: 8 ragging complaints in Rajasthan medical colleges in 13 days raise student safety concerns",
-      "updated_at": "2026-10-26T05:22:55.054189+00:00",
+      "updated_at": "2026-10-26T05:22:57.904337+00:00",
       "url": "https://www.tribuneindia.com/news/rajasthan/told-to-remove-clothes-8-ragging-complaints-in-rajasthan-medical-colleges-in-13-days-raise-student-safety-concerns"
     },
     "803f430a679b5d7c9aae2e86": {
@@ -3966,9 +3967,10 @@
     "a511023544653dac5bafcc5e": {
       "published_at": "2026-10-26T04:36:46+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10694,
       "title": "Bolsonaro calls for Brazil election result to be annulled",
-      "updated_at": "2026-10-26T05:22:55.054206+00:00",
+      "updated_at": "2026-10-26T05:23:06.073317+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
     },
     "a539fd0636c495975d382810": {
@@ -5087,9 +5089,10 @@
     "d7e273d7e2082baa3ca5b9f0": {
       "published_at": "2026-10-26T04:32:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10693,
       "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
-      "updated_at": "2026-10-26T05:22:55.054204+00:00",
+      "updated_at": "2026-10-26T05:23:02.098574+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss"
     },
     "d802b933a3e2c94fa8000d4e": {
@@ -5462,9 +5465,10 @@
     "e8a087a6974b438d397cedc9": {
       "published_at": "2026-10-26T04:38:19+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10695,
       "title": "India eyes top 5 shipbuilding nations by 2047, seeks stronger ties with South Korea",
-      "updated_at": "2026-10-26T05:22:55.054209+00:00",
+      "updated_at": "2026-10-26T05:23:10.054228+00:00",
       "url": "https://www.tribuneindia.com/news/business/india-eyes-top-5-shipbuilding-nations-by-2047-seeks-stronger-ties-with-south-korea"
     },
     "e8e8485050729ea9bcf12f69": {
@@ -6175,6 +6179,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:22:55.054968+00:00",
+  "last_cycle_at": "2026-10-26T05:23:13.255372+00:00",
   "schema_version": 1
 }
