@@ -621,6 +621,14 @@
       "updated_at": "2026-10-26T01:23:28.854173+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss"
     },
+    "155ff8d706b312b08ae90a50": {
+      "published_at": "2026-10-26T08:22:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Dharman’: Nayanthara on board Rajinikanth’s next",
+      "updated_at": "2026-10-26T08:46:05.317971+00:00",
+      "url": "https://www.thehindu.com/entertainment/movies/rajinikanth-dharman-nayanthara-kamal-haasan-ashwath-marimuthu-anirudh-ravichander/article71626058.ece"
+    },
     "15d780e25c4f5e90739a8aa4": {
       "published_at": "2026-10-25T21:00:02+00:00",
       "source": "aljazeera.com",
@@ -1733,6 +1741,14 @@
       "title": "INDIA-CHINA FACE-OFF IN ARUNACHAL: ITBP Chief Confirms, Shaurya Commandos Push PLA Back | Kinjal",
       "updated_at": "2026-10-24T22:52:57.070828+00:00",
       "url": "https://www.youtube.com/watch?v=eivRR5HFKqE"
+    },
+    "3b1cc849975c2ff47afc4b8b": {
+      "published_at": "2026-10-26T08:18:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Abandoned plantations in Idukki raises threat of human-wildlife conflicts",
+      "updated_at": "2026-10-26T08:46:05.317963+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/abandoned-plantations-in-idukki-heighten-human-wildlife-conflict-threats/article71089500.ece"
     },
     "3b68e81a949a5bbff4ab7f7b": {
       "published_at": "2026-10-25T08:04:16+00:00",
@@ -6641,6 +6657,14 @@
       "updated_at": "2026-10-26T00:30:33.829464+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss"
     },
+    "e2cddbaa467f10a5fc525613": {
+      "published_at": "2026-10-26T08:17:34+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Ebola scientists to probe Nigeria case origin, Africa CDC says",
+      "updated_at": "2026-10-26T08:46:05.317948+00:00",
+      "url": "https://www.tribuneindia.com/news/world/ebola-scientists-to-probe-nigeria-case-origin-africa-cdc-says"
+    },
     "e3e2d3e1fce9a6003cdcf348": {
       "published_at": "2026-10-25T19:55:46+00:00",
       "source": "publish.tribuneindia.com",
@@ -6694,6 +6718,14 @@
       "title": "Kangra’s untapped tourism potential awaits discovery",
       "updated_at": "2026-10-26T00:53:00.374249+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangras-untapped-tourism-potential-awaits-discovery"
+    },
+    "e5f3482befc22ed1ccad3206": {
+      "published_at": "2026-10-26T08:18:39+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Photos: Serbia celebrates as ruling party loses grip on power",
+      "updated_at": "2026-10-26T08:46:05.317967+00:00",
+      "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss"
     },
     "e636add91535f9ff2712dc4e": {
       "published_at": "2026-10-25T04:13:22+00:00",
@@ -7601,6 +7633,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:45:58.698271+00:00",
+  "last_cycle_at": "2026-10-26T08:46:05.318772+00:00",
   "schema_version": 1
 }
