@@ -1784,6 +1784,14 @@
       "updated_at": "2026-10-25T15:10:29.970988+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-inaugurates-rs-169-crore-rbi-data-centre-cybersecurity-training-institute-in-odisha-101792929176646.html"
     },
+    "62cded6588590a0fdaa9e7b5": {
+      "published_at": "2026-10-25T19:32:57+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "10,000 set to take part in Khel Mahakumbh",
+      "updated_at": "2026-10-26T00:52:32.089643+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/10000-set-to-take-part-in-khel-mahakumbh"
+    },
     "62e65bd2a0e45c55b28473fd": {
       "published_at": "2026-10-25T13:34:11+00:00",
       "source": "hindustantimes.com",
@@ -1792,6 +1800,14 @@
       "title": "Akhilesh Yadav's effigy burnt in Haldwani after row over ‘infiltrator’ remark against Uttarakhand people",
       "updated_at": "2026-10-25T15:12:24.794914+00:00",
       "url": "https://www.hindustantimes.com/india-news/akhileshs-effigy-burnt-in-haldwani-after-row-over-infiltrator-remark-against-uttarakhand-people-101792929935825.html"
+    },
+    "62e9654de1719faa33a94f4a": {
+      "published_at": "2026-10-25T19:47:33+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Shahpur students win national moot court contest at HPU",
+      "updated_at": "2026-10-26T00:52:32.089652+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/shahpur-students-win-national-moot-court-contest-at-hpu"
     },
     "64bb329b19abcb6e715f5cc4": {
       "published_at": "2026-10-25T18:37:31+00:00",
@@ -2626,6 +2642,14 @@
       "title": "France protests intensify as anger grows against Macron government",
       "updated_at": "2026-10-25T08:04:24.690623+00:00",
       "url": "https://www.thehindu.com/videos/france-protests-intensify-as-anger-grows-against-macron-government/article71622662.ece"
+    },
+    "97f9eb2ffe11c8f74dfe0f43": {
+      "published_at": "2026-10-25T19:39:53+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "IMA-Dharamsala launches sports initiative for doctors",
+      "updated_at": "2026-10-26T00:52:32.089648+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/ima-dharamsala-launches-sports-initiative-for-doctors"
     },
     "982fd09da3a2325f2e1358d8": {
       "published_at": "2026-10-25T01:19:51+00:00",
@@ -4103,6 +4127,14 @@
       "updated_at": "2026-10-25T07:04:58.985953+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/flight-disruptions-leave-andhra-umrah-pilgrims-stranded-in-saudi-arabia-40-to-fly-back-to-hyderabad-on-october-26/article71622665.ece"
     },
+    "f0f731050c20ff90bb046fb9": {
+      "published_at": "2026-10-25T19:30:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Solan News: शहर में नही सुधरी पेयजल व्यवस्था, बूंद-बूंद पानी को तरसे लोग",
+      "updated_at": "2026-10-26T00:52:32.089625+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/solan/drinking-water-supply-system-in-the-city-remains-unimproved-people-struggle-to-get-even-a-single-drop-of-water-solan-news-c-176-1-sln1016-182792-2026-10-25"
+    },
     "f17074f2bff6dfa7b5decd9b": {
       "published_at": "2026-10-25T01:20:19+00:00",
       "source": "dawn.com",
@@ -4469,6 +4501,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:31:37.411109+00:00",
+  "last_cycle_at": "2026-10-26T00:52:32.089978+00:00",
   "schema_version": 1
 }
