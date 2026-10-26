@@ -1136,9 +1136,10 @@
     "20d1396b5734c294cdb50742": {
       "published_at": "2026-10-26T11:19:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11019,
       "title": "Kharge’s remark against PM Modi ideological attack, not personal, says Congress general secretary K.C. Venugopal",
-      "updated_at": "2026-10-26T13:35:11.866776+00:00",
+      "updated_at": "2026-10-26T13:35:14.641745+00:00",
       "url": "https://www.thehindu.com/news/national/kharges-remark-against-pm-modi-ideological-attack-not-personal-says-congress-general-secretary-kc-venugopal/article71626502.ece"
     },
     "20da4af74ca59b81bc2bd93f": {
@@ -2939,9 +2940,10 @@
     "53b169dd5b0a2d6083a6adaf": {
       "published_at": "2026-10-26T11:19:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11020,
       "title": "Congress leader seeks action against Chief Secretaries of six States for skipping PAC hearing",
-      "updated_at": "2026-10-26T13:35:11.866793+00:00",
+      "updated_at": "2026-10-26T13:35:18.419078+00:00",
       "url": "https://www.thehindu.com/news/national/congress-leader-seeks-action-against-chief-secretaries-of-six-states-for-skipping-pac-hearing/article71620836.ece"
     },
     "541dfa9668483852d398f92c": {
@@ -6489,9 +6491,10 @@
     "b971392209d78850e01a1611": {
       "published_at": "2026-10-26T11:20:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11021,
       "title": "‘No understanding of nationalism’: West Bengal CM Suvendu Adhikari slams TMC",
-      "updated_at": "2026-10-26T13:35:11.866795+00:00",
+      "updated_at": "2026-10-26T13:35:22.279604+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/no-understanding-of-nationalism-west-bengal-cm-suvendu-adhikari-slams-tmc/article71626166.ece"
     },
     "b97f22baf269e31a35fa0f10": {
@@ -7468,9 +7471,10 @@
     "d457ead75843cb9e59a7d227": {
       "published_at": "2026-10-26T11:20:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11022,
       "title": "Coimbatore school student’s death case: probe transferred to CB-CID",
-      "updated_at": "2026-10-26T13:35:11.866816+00:00",
+      "updated_at": "2026-10-26T13:35:26.061188+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/coimbatore-school-student-death-investigation-transferred-to-cb-cid/article71626433.ece"
     },
     "d46d52dd596a532e45392334": {
@@ -9087,6 +9091,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:35:11.867660+00:00",
+  "last_cycle_at": "2026-10-26T13:35:29.262604+00:00",
   "schema_version": 1
 }
