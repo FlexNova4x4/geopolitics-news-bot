@@ -498,9 +498,10 @@
     "0ea77ba010f518ceef28c6c7": {
       "published_at": "2026-10-26T00:56:38+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11005,
       "title": "वीडियो: नाहन के एसएफडीए हॉल में मेगा जागरूकता शिविर",
-      "updated_at": "2026-10-26T13:32:16.351959+00:00",
+      "updated_at": "2026-10-26T13:32:27.056693+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-video-mega-awareness-camp-at-sfda-hall-nahan-2026-10-26"
     },
     "0eabb853ee40d8249aec4ccd": {
@@ -1951,9 +1952,10 @@
     "3a8d35937e08d6bc43415bca": {
       "published_at": "2026-10-26T00:56:50+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11006,
       "title": "हमीरपुर: प्रदेश सरकार के खिलाफ भाजपा का प्रदर्शन, खरगे का पुतला जलाया",
-      "updated_at": "2026-10-26T13:32:16.351961+00:00",
+      "updated_at": "2026-10-26T13:32:31.069784+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-bjp-protests-against-the-state-government-burns-an-effigy-of-kharge-2026-10-26"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -3268,9 +3270,10 @@
     "60cb9d2f3210d538765924a8": {
       "published_at": "2026-10-26T00:45:50+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11003,
       "title": "चंबा: जय सिंह ने खरगे के खिलाफ एफआईआर दर्ज करने की मांग उठाई, थाना प्रभारी को साैंपा पत्र",
-      "updated_at": "2026-10-26T13:32:16.351942+00:00",
+      "updated_at": "2026-10-26T13:32:18.998979+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-jai-singh-demands-registration-of-an-fir-against-kharge-submits-a-letter-to-the-station-house-officer-sho-2026-10-26"
     },
     "61b023b54352ba94a7e64f4f": {
@@ -5026,9 +5029,10 @@
     "93a68d7da9fbf0f770351e6e": {
       "published_at": "2026-10-26T00:45:56+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11004,
       "title": "चंबा: करवाचौथ नजदीक आते ही बाजार में बढ़ी महिलाओं की चहल-पहल",
-      "updated_at": "2026-10-26T13:32:16.351956+00:00",
+      "updated_at": "2026-10-26T13:32:23.058881+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-increased-activity-among-women-in-the-markets-as-karva-chauth-approaches-2026-10-26"
     },
     "93d49050c8dcd908d11746ea": {
@@ -8943,6 +8947,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:32:16.352663+00:00",
+  "last_cycle_at": "2026-10-26T13:32:34.270756+00:00",
   "schema_version": 1
 }
