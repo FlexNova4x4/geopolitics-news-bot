@@ -890,6 +890,14 @@
       "updated_at": "2026-10-25T10:04:33.147285+00:00",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-inaugurates-150-crore-arvind-limited-textile-plant-in-varanasi-101792921048674.html"
     },
+    "200fe6aa427c1eefa44ebf71": {
+      "published_at": "2026-10-26T06:50:42+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "BJP’s Manipur poll plans stalled amid continued violence",
+      "updated_at": "2026-10-26T07:44:39.075265+00:00",
+      "url": "https://www.hindustantimes.com/india-news/bjps-manipur-poll-plans-stalled-amid-continued-violence-101792997442794.html"
+    },
     "202339816a736f9ad957d82b": {
       "published_at": "2026-10-25T05:22:11+00:00",
       "source": "thehindu.com",
@@ -2478,6 +2486,14 @@
       "title": "Chief Minister behind ₹600 crore deal to ‘finish off’ HDD family, accuses Kumaraswamy",
       "updated_at": "2026-10-25T16:12:50.449183+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/chief-minister-behind-600-crore-deal-to-finish-off-hdd-family-accuses-kumaraswamy/article71623694.ece"
+    },
+    "59cec506629888877518b280": {
+      "published_at": "2026-10-25T19:37:47+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "बिलासपुर में राष्ट्र सेविका समिति के पथ संचलन में दिखा उत्साह, 90 वर्ष पूरे होने पर निकला प्रांतीय संचलन",
+      "updated_at": "2026-10-26T07:44:39.075262+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/bilaspur/video-rashtra-sevika-samiti-90-years-path-sanchalan-in-bilaspur-2026-10-26"
     },
     "5a9a2f091ca68114c93c8cdf": {
       "published_at": "2026-10-25T13:50:35+00:00",
@@ -4255,6 +4271,14 @@
       "title": "Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
       "updated_at": "2026-10-25T17:12:17.027871+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/depression-over-bay-of-bengal-set-to-become-very-severe-cyclonic-storm-cross-ap-coast-by-october-28/article71623850.ece"
+    },
+    "9a5b65d9da514e8812f3ba6e": {
+      "published_at": "2026-10-26T06:59:41+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Video shows 343 voter ID cards found along Narmada riverbank in Madhya Pradesh, Congress demands probe",
+      "updated_at": "2026-10-26T07:44:39.075268+00:00",
+      "url": "https://www.hindustantimes.com/india-news/video-shows-343-voter-id-cards-found-along-narmada-riverbank-in-madhya-pradesh-congress-demands-probe-101792992855012.html"
     },
     "9a8f5ee0da3782f2f58990c4": {
       "published_at": "2026-10-25T07:44:20+00:00",
@@ -6040,6 +6064,14 @@
       "updated_at": "2026-10-25T03:35:20.756149+00:00",
       "url": "https://www.dawn.com/news/2039586/wapda-inks-rs133bn-deal-for-diamer-bhasha-dam-project"
     },
+    "db72f2e2a78bfaaf26901e35": {
+      "published_at": "2026-10-25T19:35:51+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सिरमौर: डॉ. राजीव बिंदल बोले- रामायण में महर्षि वाल्मीकि ने बताया आदर्श जीवन का मार्ग",
+      "updated_at": "2026-10-26T07:44:39.075247+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-rajeev-bindal-maharishi-valmiki-jayanti-nahan-sirmaur-2026-10-26"
+    },
     "db905f1bece0c42057250746": {
       "published_at": "2026-10-25T16:39:03+00:00",
       "source": "thehindu.com",
@@ -7133,6 +7165,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:15:54.011681+00:00",
+  "last_cycle_at": "2026-10-26T07:44:39.076145+00:00",
   "schema_version": 1
 }
