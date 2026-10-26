@@ -369,6 +369,14 @@
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
     },
+    "0b9585e1571fda7adea9e9be": {
+      "published_at": "2026-10-26T08:12:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "BYC demands probe into alleged extrajudicial killing of Adeel Baloch as missing persons’ protest continues in Quetta",
+      "updated_at": "2026-10-26T08:45:41.069806+00:00",
+      "url": "https://www.tribuneindia.com/news/adeel-baloch/byc-demands-probe-into-alleged-extrajudicial-killing-of-adeel-baloch-as-missing-persons-protest-continues-in-quetta"
+    },
     "0c25c04b6836571de8f071be": {
       "published_at": "2026-10-26T05:22:28+00:00",
       "source": "publish.tribuneindia.com",
@@ -3025,6 +3033,14 @@
       "title": "Delhi: 4 arrested for allegedly minting counterfeit coins",
       "updated_at": "2026-10-26T02:52:42.232763+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-4-arrested-for-allegedly-minting-counterfeit-coins-101792980218800.html"
+    },
+    "69e058644fe1149428252c0f": {
+      "published_at": "2026-10-26T08:12:31+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "LHC disposes of petition seeking release of Imran's sisters after govt extends detention",
+      "updated_at": "2026-10-26T08:45:41.069820+00:00",
+      "url": "https://www.dawn.com/news/2039934/lhc-disposes-of-petition-seeking-release-of-imrans-sisters-after-govt-extends-detention"
     },
     "69ed75e6ee354f52f12f4df9": {
       "published_at": "2026-10-23T14:42:00+00:00",
@@ -6722,6 +6738,14 @@
       "updated_at": "2026-10-25T08:35:01.529466+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
     },
+    "e7a8b5eb6b5718fafbf51439": {
+      "published_at": "2026-10-26T08:16:45+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Six-year-old girl allegedly raped, murdered in Andhra Pradesh's Prakasam district; accused in custody",
+      "updated_at": "2026-10-26T08:45:41.069826+00:00",
+      "url": "https://www.hindustantimes.com/india-news/sixyearold-girl-allegedly-raped-murdered-in-andhra-pradeshs-prakasam-district-accused-in-custody-101793002082051.html"
+    },
     "e7c94022901ea2b1e50be64b": {
       "published_at": "2026-10-25T16:49:51+00:00",
       "source": "thehindu.com",
@@ -7190,6 +7214,14 @@
       "updated_at": "2026-10-26T00:55:41.040062+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/years-on-seven-key-development-works-in-nurpur-await-completion"
     },
+    "f6011bc65e16b1a700ac677d": {
+      "published_at": "2026-10-26T08:14:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "ONGC reports blowout at gas well in Konaseema; no casualties",
+      "updated_at": "2026-10-26T08:45:41.069824+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ongc-reports-blowout-at-gas-well-in-konaseema-no-casualties/article70473873.ece"
+    },
     "f603ab89ebe7bf49606dc2ed": {
       "published_at": "2026-10-25T14:44:48+00:00",
       "source": "thehindu.com",
@@ -7565,6 +7597,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:45:34.754638+00:00",
+  "last_cycle_at": "2026-10-26T08:45:41.070739+00:00",
   "schema_version": 1
 }
