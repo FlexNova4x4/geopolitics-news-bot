@@ -893,9 +893,10 @@
     "200fe6aa427c1eefa44ebf71": {
       "published_at": "2026-10-26T06:50:42+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10805,
       "title": "BJP’s Manipur poll plans stalled amid continued violence",
-      "updated_at": "2026-10-26T07:44:39.075265+00:00",
+      "updated_at": "2026-10-26T07:44:50.217596+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjps-manipur-poll-plans-stalled-amid-continued-violence-101792997442794.html"
     },
     "202339816a736f9ad957d82b": {
@@ -2490,9 +2491,10 @@
     "59cec506629888877518b280": {
       "published_at": "2026-10-25T19:37:47+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10804,
       "title": "बिलासपुर में राष्ट्र सेविका समिति के पथ संचलन में दिखा उत्साह, 90 वर्ष पूरे होने पर निकला प्रांतीय संचलन",
-      "updated_at": "2026-10-26T07:44:39.075262+00:00",
+      "updated_at": "2026-10-26T07:44:46.064218+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/bilaspur/video-rashtra-sevika-samiti-90-years-path-sanchalan-in-bilaspur-2026-10-26"
     },
     "5a9a2f091ca68114c93c8cdf": {
@@ -4275,9 +4277,10 @@
     "9a5b65d9da514e8812f3ba6e": {
       "published_at": "2026-10-26T06:59:41+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10806,
       "title": "Video shows 343 voter ID cards found along Narmada riverbank in Madhya Pradesh, Congress demands probe",
-      "updated_at": "2026-10-26T07:44:39.075268+00:00",
+      "updated_at": "2026-10-26T07:44:54.322660+00:00",
       "url": "https://www.hindustantimes.com/india-news/video-shows-343-voter-id-cards-found-along-narmada-riverbank-in-madhya-pradesh-congress-demands-probe-101792992855012.html"
     },
     "9a8f5ee0da3782f2f58990c4": {
@@ -6067,9 +6070,10 @@
     "db72f2e2a78bfaaf26901e35": {
       "published_at": "2026-10-25T19:35:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10803,
       "title": "सिरमौर: डॉ. राजीव बिंदल बोले- रामायण में महर्षि वाल्मीकि ने बताया आदर्श जीवन का मार्ग",
-      "updated_at": "2026-10-26T07:44:39.075247+00:00",
+      "updated_at": "2026-10-26T07:44:41.972718+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-rajeev-bindal-maharishi-valmiki-jayanti-nahan-sirmaur-2026-10-26"
     },
     "db905f1bece0c42057250746": {
@@ -7165,6 +7169,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:44:39.076145+00:00",
+  "last_cycle_at": "2026-10-26T07:44:57.524005+00:00",
   "schema_version": 1
 }
