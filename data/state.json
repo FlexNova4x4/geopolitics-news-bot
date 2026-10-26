@@ -201,9 +201,10 @@
     "07fcc5f0728e832c037b5e56": {
       "published_at": "2026-10-26T04:46:40+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10686,
       "title": "सिरमौर: नाहन में रंजिश भुलाकर गले मिले सिख और वाल्मीकि समाज, शोभायात्रा ने पेश की भाईचारे की मिसाल",
-      "updated_at": "2026-10-26T04:54:26.558443+00:00",
+      "updated_at": "2026-10-26T04:54:37.892817+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-nahan-valmiki-shobhayatra-sikh-community-brotherhood-gobindgarh-2026-2026-10-26"
     },
     "0840edfd05a2827a5ace0ee0": {
@@ -407,9 +408,10 @@
     "10c06ece7a4072b58b2a89f5": {
       "published_at": "2026-10-26T04:46:41+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10687,
       "title": "Two more handcuffed suspects killed by accomplices in Islamabad: police",
-      "updated_at": "2026-10-26T04:54:26.558446+00:00",
+      "updated_at": "2026-10-26T04:54:42.008364+00:00",
       "url": "https://www.dawn.com/news/2039848/two-more-handcuffed-suspects-killed-by-accomplices-in-islamabad-police"
     },
     "10d910d36071580bc6cff249": {
@@ -2684,9 +2686,10 @@
     "70187bbcab38c56db2d5818a": {
       "published_at": "2026-10-26T04:46:13+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10685,
       "title": "हिमाचल: बर्फबारी से पर्यटन कारोबार में लौटी बहार, वीकेंड के लिए होटल बुकिंग बढ़ी; पर्यटकों में भारी उत्साह",
-      "updated_at": "2026-10-26T04:54:26.558440+00:00",
+      "updated_at": "2026-10-26T04:54:33.743953+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-snowfall-tourism-boost-narkanda-dalhousie-weekend-hotel-bookings-2026-10-26"
     },
     "70f5656f878d13ff3dcbe081": {
@@ -4314,9 +4317,10 @@
     "b8976eda2084be3615ef9f6a": {
       "published_at": "2026-10-26T04:42:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10684,
       "title": "Jamia university orders student union polls within 15 days of constitution approval; two students continue hunger strike",
-      "updated_at": "2026-10-26T04:54:26.558425+00:00",
+      "updated_at": "2026-10-26T04:54:29.806982+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/jamia-university-orders-student-union-polls-within-15-days-of-constitution-approval-two-students-continue-hunger-strike/article71625645.ece"
     },
     "b96dc3dff51789390e24457a": {
@@ -6103,6 +6107,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:54:26.559138+00:00",
+  "last_cycle_at": "2026-10-26T04:54:45.209545+00:00",
   "schema_version": 1
 }
