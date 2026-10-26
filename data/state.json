@@ -831,9 +831,10 @@
     "160c7e02838d8e378596b81a": {
       "published_at": "2026-10-26T13:01:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11077,
       "title": "Keralam govt. to form expert committee to tackle water hyacinth menace",
-      "updated_at": "2026-10-26T13:46:50.392674+00:00",
+      "updated_at": "2026-10-26T13:47:00.488888+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-govtto-form-expert-committee-to-tackle-water-hyacinth-menace/article71626628.ece"
     },
     "162a2c73e1fb6dfbcc519991": {
@@ -5586,9 +5587,10 @@
     "9749e394fa91acfe6a1c4b7a": {
       "published_at": "2026-10-26T13:02:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11078,
       "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-      "updated_at": "2026-10-26T13:46:50.392676+00:00",
+      "updated_at": "2026-10-26T13:47:04.356493+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
     },
     "97a727283adb09ee5227fa21": {
@@ -8008,9 +8010,10 @@
     "d732dfd9a17f527f067bdd03": {
       "published_at": "2026-10-26T13:00:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11075,
       "title": "U.K. PM Burnham backs principle of ‘earned settlement’ in immigration rules",
-      "updated_at": "2026-10-26T13:46:50.392656+00:00",
+      "updated_at": "2026-10-26T13:46:52.810435+00:00",
       "url": "https://www.thehindu.com/news/international/uk-pm-burnham-backs-principle-of-earned-settlement-in-immigration-rules/article71626989.ece"
     },
     "d77ba046a15a0ea1a9a456c4": {
@@ -9103,9 +9106,10 @@
     "f459b5ba542bf345bf7b5451": {
       "published_at": "2026-10-26T13:01:16+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11076,
       "title": "Has Pakistan reopened its border with Iran for trade?",
-      "updated_at": "2026-10-26T13:46:50.392672+00:00",
+      "updated_at": "2026-10-26T13:46:56.640293+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss"
     },
     "f476735fe3254709c42ec5f8": {
@@ -9591,6 +9595,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:46:50.393435+00:00",
+  "last_cycle_at": "2026-10-26T13:47:07.557968+00:00",
   "schema_version": 1
 }
