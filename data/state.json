@@ -2306,6 +2306,14 @@
       "updated_at": "2026-10-26T01:22:55.399244+00:00",
       "url": "https://www.tribuneindia.com/news/india/3-mps-booked-for-trespass-at-jamia"
     },
+    "685c785c52dad91abf0fd806": {
+      "published_at": "2026-10-26T03:57:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israel markets see upside in Netanyahu defeat after three-year rally",
+      "updated_at": "2026-10-26T04:23:13.547812+00:00",
+      "url": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece"
+    },
     "687296e4991a5dbdcde2de7c": {
       "published_at": "2026-10-25T03:37:39+00:00",
       "source": "dawn.com",
@@ -2412,6 +2420,14 @@
       "title": "2 years on, hit-and-run section of Bharatiya Nyaya Sanhita yet to come into force",
       "updated_at": "2026-10-26T02:52:30.181003+00:00",
       "url": "https://www.hindustantimes.com/india-news/2-years-on-hit-and-run-section-of-bharatiya-nyaya-sanhita-yet-to-come-into-force-indian-penal-code-101792953692190.html"
+    },
+    "6e4439a42a30610f7a172242": {
+      "published_at": "2026-10-26T03:57:19+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Editorial: A wheat price with no buyer, and a market that leaves farmers carrying most of the risk",
+      "updated_at": "2026-10-26T04:23:13.547815+00:00",
+      "url": "https://www.dawn.com/news/2039759/editorial-a-wheat-price-with-no-buyer-and-a-market-that-leaves-farmers-carrying-most-of-the-risk"
     },
     "6e46a68082f58c83b49ebacf": {
       "published_at": "2026-10-25T11:42:43+00:00",
@@ -2619,6 +2635,14 @@
       "title": "Strike on Gaza university kills three: staff, hospital",
       "updated_at": "2026-10-25T20:41:38.413829+00:00",
       "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece"
+    },
+    "73b508190c935beb2a7b8b16": {
+      "published_at": "2026-10-26T03:57:42+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल प्रदेश: अब सूरज की रोशनी से शुद्ध होगा झरनों का पानी, आईआईटी मंडी विकसित कर रहा नई तकनीक; जानें",
+      "updated_at": "2026-10-26T04:23:13.547818+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/mandi/iit-mandi-solar-powered-photoelectrochemical-water-purification-himalayan-springs-research-2026-10-26"
     },
     "73f7bc52cc2e773dbb96ba13": {
       "published_at": "2026-10-25T14:42:51+00:00",
@@ -3013,6 +3037,14 @@
       "title": "Behind China’s AI gift, a constraint",
       "updated_at": "2026-10-25T17:13:16.354839+00:00",
       "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece"
+    },
+    "8490f7619591dc2979297fb7": {
+      "published_at": "2026-10-26T03:56:55+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab LIVE: Deep depression turns into Cyclone ‘Arnab’, says IMD; warning for Andhra, South Odisha coast",
+      "updated_at": "2026-10-26T04:23:13.547796+00:00",
+      "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-live-updates-imd-alert-andhra-pradesh-odisha-rains-cyclone-tracker-landfall-date-time-weather-today-101792986502571.html"
     },
     "84c0542a8838270a872c8296": {
       "published_at": "2026-10-26T03:35:31+00:00",
@@ -5765,6 +5797,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:23:07.799530+00:00",
+  "last_cycle_at": "2026-10-26T04:23:13.548446+00:00",
   "schema_version": 1
 }
