@@ -1745,9 +1745,10 @@
     "541dfa9668483852d398f92c": {
       "published_at": "2026-10-26T01:02:57+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10577,
       "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-      "updated_at": "2026-10-26T01:23:39.755489+00:00",
+      "updated_at": "2026-10-26T01:23:42.131373+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
     },
     "547830c823f0782efc196d62": {
@@ -4332,9 +4333,10 @@
     "dbc22630aa728094035536ae": {
       "published_at": "2026-10-26T01:12:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10578,
       "title": "Una News: ऊना के 17 वार्डों में लगेंगी नई स्ट्रीट लाइटें",
-      "updated_at": "2026-10-26T01:23:39.755505+00:00",
+      "updated_at": "2026-10-26T01:23:46.059429+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/new-streetlights-will-be-installed-in-the-17-wards-of-una-una-news-c-93-1-ssml1047-211239-2026-10-25"
     },
     "dc4f2ba4b9e7cf20f0893d01": {
@@ -5142,6 +5144,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:23:39.756175+00:00",
+  "last_cycle_at": "2026-10-26T01:23:49.260552+00:00",
   "schema_version": 1
 }
