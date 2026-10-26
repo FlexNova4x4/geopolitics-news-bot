@@ -1567,9 +1567,10 @@
     "2908ad0e250532725d50ac5f": {
       "published_at": "2026-10-26T20:19:56+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11122,
       "title": "खिलाड़ियों को बेहतर अवसर देना जरूरी : अनुराग",
-      "updated_at": "2026-10-26T22:43:39.648764+00:00",
+      "updated_at": "2026-10-26T22:43:42.009495+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/it-is-essential-to-provide-better-opportunities-to-players-anurag-hamirpur-hp-news-c-94-1-hmp1029-213441-2026-10-27"
     },
     "29bc01c91831bea0fe51696d": {
@@ -6320,9 +6321,10 @@
     "a413d69746cd3f64b9930917": {
       "published_at": "2026-10-26T20:20:09+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11123,
       "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-      "updated_at": "2026-10-26T22:43:39.648791+00:00",
+      "updated_at": "2026-10-26T22:43:45.897876+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss"
     },
     "a415c1d81a438dca9784d4bd": {
@@ -6535,9 +6537,10 @@
     "a89bf8c8bdf2f84f5d9e2d9a": {
       "published_at": "2026-10-26T20:20:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11124,
       "title": "Join drive to combat chitta menace, Himachal DGP urges SJVN",
-      "updated_at": "2026-10-26T22:43:39.648797+00:00",
+      "updated_at": "2026-10-26T22:43:49.626036+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/join-drive-to-combat-chitta-menace-himachal-dgp-urges-sjvn"
     },
     "a89c95da2b47f273919e2ff8": {
@@ -7936,9 +7939,10 @@
     "cc37ad1506e0ec1befb1f0f5": {
       "published_at": "2026-10-26T20:21:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11125,
       "title": "Sural Bhatori: Where faith protects forest",
-      "updated_at": "2026-10-26T22:43:39.648803+00:00",
+      "updated_at": "2026-10-26T22:43:53.338702+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/sural-bhatori-where-faith-protects-forest"
     },
     "cc56337f6d578f5c21887cc8": {
@@ -9987,6 +9991,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:43:39.650719+00:00",
+  "last_cycle_at": "2026-10-26T22:43:56.541460+00:00",
   "schema_version": 1
 }
