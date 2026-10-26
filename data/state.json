@@ -1491,6 +1491,14 @@
       "updated_at": "2026-10-25T05:38:29.515651+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhis-new-pollution-study-leaves-major-sources-unidentified-relies-on-outdated-data-101792886406730.html"
     },
+    "2cf2090c6f331009ca8c6065": {
+      "published_at": "2026-10-26T06:19:12+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+      "updated_at": "2026-10-26T13:33:51.453562+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"
+    },
     "2d9b57a6863ab998e431861c": {
       "published_at": "2026-10-26T02:55:15+00:00",
       "source": "aljazeera.com",
@@ -1786,6 +1794,14 @@
       "title": "Two Indian-American candidates face key U.S. midterm races as early voting begins",
       "updated_at": "2026-10-25T16:16:28.272903+00:00",
       "url": "https://www.thehindu.com/news/international/two-indian-american-candidates-face-key-us-midterm-races-as-early-voting-begins/article71624107.ece"
+    },
+    "3422328a7fdd5046fca5cd9b": {
+      "published_at": "2026-10-26T01:17:18+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "किन्नौर: भावानगर में तीन दिवसीय जातरू उत्सव, मंत्री जगत सिंह नेगी ने विजेताओं को किया सम्मानित",
+      "updated_at": "2026-10-26T13:33:51.453555+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-three-day-jataru-festival-concludes-in-bhawanagar-minister-jagat-singh-negi-honors-the-winners-2026-10-26"
     },
     "34514f4a878f0543c4d82e4b": {
       "published_at": "2026-10-26T07:38:47+00:00",
@@ -6730,6 +6746,14 @@
       "updated_at": "2026-10-24T23:59:19.369164+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
     },
+    "c0b8cfc5c69a4e68b7b921e4": {
+      "published_at": "2026-10-26T02:51:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Daily Quiz: On UN 81st anniversary",
+      "updated_at": "2026-10-26T13:33:51.453559+00:00",
+      "url": "https://www.thehindu.com/news/international/daily-quiz-on-un-81st-anniversary/article71625505.ece"
+    },
     "c1482d6f3ced47689e4eb8ad": {
       "published_at": "2026-10-25T20:40:55+00:00",
       "source": "amarujala.com",
@@ -8705,6 +8729,14 @@
       "updated_at": "2026-10-25T16:14:32.405724+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/traffic-ban-continue-in-munnar-after-another-landslip-on-kochidhanushkodi-national-highway/article71623815.ece"
     },
+    "f9314b9d59a2dfd1f5d212b3": {
+      "published_at": "2026-10-26T01:06:51+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल: ठोस कचरा प्रबंधन पर जमीन पर क्या काम हुआ? हाईकोर्ट ने मांगी अनुपालन रिपोर्ट",
+      "updated_at": "2026-10-26T13:33:51.453537+00:00",
+      "url": "https://www.amarujala.com/shimla/himachal-high-court-seeks-compliance-report-on-ground-level-progress-in-solid-waste-management-2026-10-26"
+    },
     "f94ea868ac4228638090569d": {
       "published_at": "2026-10-25T06:56:09+00:00",
       "source": "thehindu.com",
@@ -8983,6 +9015,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:33:17.781413+00:00",
+  "last_cycle_at": "2026-10-26T13:33:51.454394+00:00",
   "schema_version": 1
 }
