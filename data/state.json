@@ -1410,6 +1410,14 @@
       "updated_at": "2026-10-25T11:34:46.583810+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
     },
+    "47245942f54fb155ec0350ab": {
+      "published_at": "2026-10-25T22:57:18+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“I am here. With you”: Venezuelan opposition leader María Corina Machado returns from exile; US hails reconciliation talks",
+      "updated_at": "2026-10-26T00:57:33.721843+00:00",
+      "url": "https://www.tribuneindia.com/news/donald-trump/i-am-here-with-you-venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-us-hails-reconciliation-talks"
+    },
     "476fcdd51b26ff98975ea435": {
       "published_at": "2026-10-25T06:31:48+00:00",
       "source": "thehindu.com",
@@ -2277,6 +2285,14 @@
       "title": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
       "updated_at": "2026-10-25T15:17:54.883118+00:00",
       "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece"
+    },
+    "740d124a535b1b787a2c7057": {
+      "published_at": "2026-10-25T23:14:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Una News: अंब अस्पताल में जल्द शुरू होगी ब्लड स्टोरेज यूनिट",
+      "updated_at": "2026-10-26T00:57:33.721859+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/una/a-blood-storage-unit-will-soon-be-operational-at-amb-hospital-una-news-c-93-1-ssml1047-211213-2026-10-25"
     },
     "74a7db7fd904ff1bb6ec3951": {
       "published_at": "2026-10-25T19:01:23+00:00",
@@ -4580,6 +4596,14 @@
       "updated_at": "2026-10-25T17:12:40.887455+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/residents-affected-by-rising-road-levels-demand-action/article71622979.ece"
     },
+    "f51c704a4e0662c7e1c0acea": {
+      "published_at": "2026-10-25T23:14:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kangra News: 55 की उम्र में फिर शुरू किया जूट बैग का कारोबार",
+      "updated_at": "2026-10-26T00:57:33.721862+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/restarted-the-jute-bag-business-at-the-age-of-55-kangra-news-c-95-1-kng1060-263364-2026-10-26"
+    },
     "f5ac949b61ab526bee0feccd": {
       "published_at": "2026-10-25T17:13:49+00:00",
       "source": "thehindu.com",
@@ -4624,6 +4648,14 @@
       "title": "Kangra News: शरद पूर्णिमा पर मां ज्वाला के दरबार में उमड़े 40 हजार श्रद्धालु",
       "updated_at": "2026-10-26T00:56:59.537239+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/40000-devotees-thronged-the-shrine-of-goddess-jwala-on-sharad-purnima-kangra-news-c-95-1-kng1036-263360-2026-10-26"
+    },
+    "f6c4fa986d2613bd03817032": {
+      "published_at": "2026-10-25T23:16:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘US stepped into a quagmire’: Ghalibaf says Iran won’t give in to intimidation",
+      "updated_at": "2026-10-26T00:57:33.721864+00:00",
+      "url": "https://www.tribuneindia.com/news/world/us-stepped-into-a-quagmire-ghalibaf-says-iran-wont-give-in-to-intimidation"
     },
     "f719c2e59baa960efe4b3af5": {
       "published_at": "2026-10-24T07:53:40+00:00",
@@ -4901,6 +4933,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:57:27.192186+00:00",
+  "last_cycle_at": "2026-10-26T00:57:33.722540+00:00",
   "schema_version": 1
 }
