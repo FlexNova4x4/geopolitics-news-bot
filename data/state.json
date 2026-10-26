@@ -606,9 +606,10 @@
     "115c8f223273253aaab62e5c": {
       "published_at": "2026-10-26T00:45:44+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11002,
       "title": "ज्वालामुखी: प्राचीन अष्टभुजा मंदिर में 28वां वार्षिक भंडारा आयोजित, माता की भेंटों पर झूमे श्रद्धालु",
-      "updated_at": "2026-10-26T13:31:33.210983+00:00",
+      "updated_at": "2026-10-26T13:31:47.936529+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kangra/video-jwalamukhi-28th-annual-bhandara-community-feast-held-at-the-ancient-ashtabhuja-temple-devotees-rejoice-amidst-offerings-to-the-goddess-2026-10-26"
     },
     "11717b4443bc514112049b0d": {
@@ -4174,9 +4175,10 @@
     "798f07244d5d555f1b7366d6": {
       "published_at": "2026-10-26T00:45:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10999,
       "title": "वीरेंद्र कंवर बोले- कुटलैहड़ की जनता ने दो-दो विधायक दिए, लेकिन विकास करवाने में दोनों नाकाम",
-      "updated_at": "2026-10-26T13:31:33.210965+00:00",
+      "updated_at": "2026-10-26T13:31:35.919060+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-virender-kanwar-said-the-people-of-kutlehar-elected-two-successive-mlas-yet-both-failed-to-bring-about-development-2026-10-26"
     },
     "79f8cbe8965930d6b23d8970": {
@@ -5958,9 +5960,10 @@
     "ae166d3bf44a62ec49167947": {
       "published_at": "2026-10-26T00:45:15+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11000,
       "title": "वीडियो: लालसिंगी में करवा चौथ पर हुआ विशेष सांस्कृतिक कार्यक्रम",
-      "updated_at": "2026-10-26T13:31:33.210979+00:00",
+      "updated_at": "2026-10-26T13:31:39.964205+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-video-special-cultural-program-held-in-lalsingi-on-karva-chauth-2026-10-26"
     },
     "ae5585ff86b9908ae754f92b": {
@@ -7996,9 +7999,10 @@
     "e9520f70f2f81375a5967cc0": {
       "published_at": "2026-10-26T00:45:23+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11001,
       "title": "वीडियो: बुशहर बॉक्सिंग चैंपियनशिप में दूसरे दिन खूब बरसे मुक्के",
-      "updated_at": "2026-10-26T13:31:33.210981+00:00",
+      "updated_at": "2026-10-26T13:31:43.957087+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-video-punches-fly-thick-and-fast-on-day-two-of-the-bushehr-boxing-championship-2026-10-26"
     },
     "e972e294425ac6d4267c2b43": {
@@ -8907,6 +8911,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:31:33.211813+00:00",
+  "last_cycle_at": "2026-10-26T13:31:51.137884+00:00",
   "schema_version": 1
 }
