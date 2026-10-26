@@ -1359,9 +1359,10 @@
     "49bad963a3556e142d805c93": {
       "published_at": "2026-10-25T19:50:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10509,
       "title": "Give priority to Nurpur while forming new dists, says MLA",
-      "updated_at": "2026-10-26T00:52:58.089417+00:00",
+      "updated_at": "2026-10-26T00:53:04.554864+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/give-priority-to-nurpur-while-forming-new-dists-says-mla"
     },
     "4a067e46333580ef31d07718": {
@@ -2082,9 +2083,10 @@
     "72809b89b6fdf542b62427cf": {
       "published_at": "2026-10-25T19:55:50+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10511,
       "title": "Kangra students display artistic talent at ‘Rangotsav’",
-      "updated_at": "2026-10-26T00:52:58.089424+00:00",
+      "updated_at": "2026-10-26T00:53:12.801250+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangra-students-display-artistic-talent-at-rangotsav"
     },
     "72c0374bb747e4cb1e0fc199": {
@@ -3933,9 +3935,10 @@
     "e3e2d3e1fce9a6003cdcf348": {
       "published_at": "2026-10-25T19:55:46+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10510,
       "title": "Nand Nala bridge on Pong Lake backwaters nears completion",
-      "updated_at": "2026-10-26T00:52:58.089421+00:00",
+      "updated_at": "2026-10-26T00:53:08.670846+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/nand-nala-bridge-on-pong-lake-backwaters-nears-completion"
     },
     "e45447987be3d824ed5c553c": {
@@ -3950,9 +3953,10 @@
     "e54c0b9d62d110989b311887": {
       "published_at": "2026-10-25T19:50:01+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10508,
       "title": "Kangra’s untapped tourism potential awaits discovery",
-      "updated_at": "2026-10-26T00:52:58.089399+00:00",
+      "updated_at": "2026-10-26T00:53:00.374249+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangras-untapped-tourism-potential-awaits-discovery"
     },
     "e636add91535f9ff2712dc4e": {
@@ -4537,6 +4541,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:52:58.089879+00:00",
+  "last_cycle_at": "2026-10-26T00:53:16.002292+00:00",
   "schema_version": 1
 }
