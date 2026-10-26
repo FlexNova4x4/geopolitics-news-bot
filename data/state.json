@@ -1842,6 +1842,14 @@
       "updated_at": "2026-10-25T08:04:50.664307+00:00",
       "url": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece"
     },
+    "5039f91350f153c057d39661": {
+      "published_at": "2026-10-26T04:23:50+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "JUI-F vows to keep fighting for constitutional supremacy",
+      "updated_at": "2026-10-26T04:53:15.547249+00:00",
+      "url": "https://www.dawn.com/news/2039812/jui-f-vows-to-keep-fighting-for-constitutional-supremacy"
+    },
     "50646b1f51a7a5ac5f3a5f3c": {
       "published_at": "2026-10-25T03:16:52+00:00",
       "source": "dawn.com",
@@ -2306,6 +2314,14 @@
       "updated_at": "2026-10-25T15:17:23.047672+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
     },
+    "652d57b7ed7a2025cfaf840c": {
+      "published_at": "2026-10-26T04:26:31+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "मंडी: नागेश्वर महादेव मंदिर में शरद पूर्णिमा पर बांटी औषधियुक्त खीर, दमा के मरीजों ने ग्रहण किया प्रसाद",
+      "updated_at": "2026-10-26T04:53:15.547253+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-nageshwar-mahadev-temple-kudd-sharad-purnima-medicinal-kheer-2026-10-26"
+    },
     "6534d38e01a230c7f5991402": {
       "published_at": "2026-10-25T15:15:57+00:00",
       "source": "hindustantimes.com",
@@ -2691,6 +2707,14 @@
       "title": "Strike on Gaza university kills three: staff, hospital",
       "updated_at": "2026-10-25T20:41:38.413829+00:00",
       "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece"
+    },
+    "72ecfb7751bd3f8ba7be6417": {
+      "published_at": "2026-10-26T04:21:26+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+      "updated_at": "2026-10-26T04:53:15.547233+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss"
     },
     "73b508190c935beb2a7b8b16": {
       "published_at": "2026-10-26T03:57:42+00:00",
@@ -4646,6 +4670,14 @@
       "updated_at": "2026-10-25T17:12:20.919563+00:00",
       "url": "https://www.hindustantimes.com/india-news/actress-urmila-sanawar-arrested-on-complaint-by-ex-bjp-mlas-daughter-uttarakhand-murder-case-probe-101792945700202.html"
     },
+    "cc56337f6d578f5c21887cc8": {
+      "published_at": "2026-10-26T04:26:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab: Over 4,800 fishing vessels return safely to Kakinada coast",
+      "updated_at": "2026-10-26T04:53:15.547255+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-4800-fishing-boats-returned-safely-to-kakinada-shores-as-cyclone-arnab-looms/article71625551.ece"
+    },
     "cc83d59c3f7c53318d914233": {
       "published_at": "2026-10-25T14:16:06+00:00",
       "source": "aljazeera.com",
@@ -5963,6 +5995,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:53:07.509011+00:00",
+  "last_cycle_at": "2026-10-26T04:53:15.547945+00:00",
   "schema_version": 1
 }
