@@ -624,9 +624,10 @@
     "155ff8d706b312b08ae90a50": {
       "published_at": "2026-10-26T08:22:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10858,
       "title": "‘Dharman’: Nayanthara on board Rajinikanth’s next",
-      "updated_at": "2026-10-26T08:46:05.317971+00:00",
+      "updated_at": "2026-10-26T08:46:19.863557+00:00",
       "url": "https://www.thehindu.com/entertainment/movies/rajinikanth-dharman-nayanthara-kamal-haasan-ashwath-marimuthu-anirudh-ravichander/article71626058.ece"
     },
     "15d780e25c4f5e90739a8aa4": {
@@ -1745,9 +1746,10 @@
     "3b1cc849975c2ff47afc4b8b": {
       "published_at": "2026-10-26T08:18:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10856,
       "title": "Abandoned plantations in Idukki raises threat of human-wildlife conflicts",
-      "updated_at": "2026-10-26T08:46:05.317963+00:00",
+      "updated_at": "2026-10-26T08:46:11.954749+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/abandoned-plantations-in-idukki-heighten-human-wildlife-conflict-threats/article71089500.ece"
     },
     "3b68e81a949a5bbff4ab7f7b": {
@@ -6660,9 +6662,10 @@
     "e2cddbaa467f10a5fc525613": {
       "published_at": "2026-10-26T08:17:34+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10855,
       "title": "Ebola scientists to probe Nigeria case origin, Africa CDC says",
-      "updated_at": "2026-10-26T08:46:05.317948+00:00",
+      "updated_at": "2026-10-26T08:46:07.832873+00:00",
       "url": "https://www.tribuneindia.com/news/world/ebola-scientists-to-probe-nigeria-case-origin-africa-cdc-says"
     },
     "e3e2d3e1fce9a6003cdcf348": {
@@ -6722,9 +6725,10 @@
     "e5f3482befc22ed1ccad3206": {
       "published_at": "2026-10-26T08:18:39+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10857,
       "title": "Photos: Serbia celebrates as ruling party loses grip on power",
-      "updated_at": "2026-10-26T08:46:05.317967+00:00",
+      "updated_at": "2026-10-26T08:46:15.855234+00:00",
       "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss"
     },
     "e636add91535f9ff2712dc4e": {
@@ -7633,6 +7637,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:46:05.318772+00:00",
+  "last_cycle_at": "2026-10-26T08:46:23.064992+00:00",
   "schema_version": 1
 }
