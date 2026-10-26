@@ -540,6 +540,14 @@
       "updated_at": "2026-10-24T23:59:32.703737+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss"
     },
+    "1660efa0e6443dbb24d91d95": {
+      "published_at": "2026-10-26T04:39:02+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Pune man gets seven years jail for feeding wife capsules containing blade pieces",
+      "updated_at": "2026-10-26T04:54:02.363786+00:00",
+      "url": "https://www.hindustantimes.com/india-news/pune-man-gets-seven-years-jail-for-feeding-wife-capsules-containing-blade-pieces-101792988162937.html"
+    },
     "1661ead716406580eee3ab68": {
       "published_at": "2026-10-26T04:30:31+00:00",
       "source": "hindustantimes.com",
@@ -1751,6 +1759,14 @@
       "title": "Anti-CEC protest LIVE: INDIA bloc to hold CEC's ‘public impeachment’ on Oct 30, ‘Dilli Chalo' march on Nov 1",
       "updated_at": "2026-10-25T05:40:32.624763+00:00",
       "url": "https://www.hindustantimes.com/india-news/anti-cec-delhi-protest-live-updates-amit-shah-cjp-dipke-ranka-saurav-das-congress-rahul-gandhi-gyanesh-kumar-sir-eci-row-101792898066204.html"
+    },
+    "48f71e5d2f06622acb38ad6b": {
+      "published_at": "2026-10-26T04:39:35+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Opposition joins protest against construction on Karachi's Nehr-i-Khayyam",
+      "updated_at": "2026-10-26T04:54:02.363788+00:00",
+      "url": "https://www.dawn.com/news/2039855/opposition-joins-protest-against-construction-on-karachis-nehr-i-khayyam"
     },
     "49bad963a3556e142d805c93": {
       "published_at": "2026-10-25T19:50:39+00:00",
@@ -3257,6 +3273,14 @@
       "updated_at": "2026-10-26T02:52:38.363412+00:00",
       "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation"
     },
+    "87122a28c1009f6059b7a7f3": {
+      "published_at": "2026-10-26T04:37:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Lula’s leadership supercharges Brazil’s commitment to multipolarity”: Shashi Tharoor hails President Lula’s victory",
+      "updated_at": "2026-10-26T04:54:02.363767+00:00",
+      "url": "https://www.tribuneindia.com/news/brazil-geopolitics/lulas-leadership-supercharges-brazils-commitment-to-multipolarity-shashi-tharoor-hails-president-lulas-victory"
+    },
     "874362239d32e2554fbe9426": {
       "published_at": "2026-10-26T02:16:20+00:00",
       "source": "thehindu.com",
@@ -3337,6 +3361,14 @@
       "title": "TDB sets November 10 as deadline to complete works at Sabarimala",
       "updated_at": "2026-10-25T15:14:35.728711+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/tdb-sets-november-10-as-deadline-to-complete-works-at-sabarimala/article71623436.ece"
+    },
+    "8cf4ac69fb219d9ffae65988": {
+      "published_at": "2026-10-26T04:38:42+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "China’s Communist Party elite hold key talks on governance",
+      "updated_at": "2026-10-26T04:54:02.363782+00:00",
+      "url": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece"
     },
     "8daa4d391b482ee30744a06a": {
       "published_at": "2026-10-25T11:26:27+00:00",
@@ -6035,6 +6067,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:53:56.836075+00:00",
+  "last_cycle_at": "2026-10-26T04:54:02.364359+00:00",
   "schema_version": 1
 }
