@@ -426,9 +426,10 @@
     "0e7e13803e39b33797aec2d0": {
       "published_at": "2026-10-26T08:31:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10867,
       "title": "Pakistan PM Shehbaz Sharif to visit Russia in coming weeks for talks with Putin: Report",
-      "updated_at": "2026-10-26T08:47:17.484289+00:00",
+      "updated_at": "2026-10-26T08:47:19.747870+00:00",
       "url": "https://www.tribuneindia.com/news/pakistan/pakistan-pm-shehbaz-sharif-to-visit-russia-in-coming-weeks-for-talks-with-putin-report"
     },
     "0e95f80adfdd1d3b92c27851": {
@@ -551,9 +552,10 @@
     "11717b4443bc514112049b0d": {
       "published_at": "2026-10-26T08:34:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10869,
       "title": "Marine Le Pen, France’s far-right candidate, launches presidential bid",
-      "updated_at": "2026-10-26T08:47:17.484308+00:00",
+      "updated_at": "2026-10-26T08:47:27.786916+00:00",
       "url": "https://www.thehindu.com/news/international/marine-le-pen-frances-far-right-candidate-launches-presidential-bid/article71625951.ece"
     },
     "11f78ea66b52139c2900f3c1": {
@@ -5979,9 +5981,10 @@
     "c844010054f86196c459e6f4": {
       "published_at": "2026-10-26T08:32:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10868,
       "title": "US forces ready for major strikes on Iran within 96 hours of Trump’s order: Report",
-      "updated_at": "2026-10-26T08:47:17.484304+00:00",
+      "updated_at": "2026-10-26T08:47:23.907187+00:00",
       "url": "https://www.tribuneindia.com/news/cnn-report/us-forces-ready-for-major-strikes-on-iran-within-96-hours-of-trumps-order-report"
     },
     "c8c0cab2bafd8dbcb18d9bd6": {
@@ -6803,9 +6806,10 @@
     "e61b0bf7fcba836060a75b23": {
       "published_at": "2026-10-26T08:34:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10870,
       "title": "‘Gem Granites’ Veeramani case: SIT to file charge sheet soon, Madras High Court told",
-      "updated_at": "2026-10-26T08:47:17.484312+00:00",
+      "updated_at": "2026-10-26T08:47:31.881772+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-case-sit-to-file-charge-sheet-soon-madras-high-court-told/article71625920.ece"
     },
     "e636add91535f9ff2712dc4e": {
@@ -7741,6 +7745,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:47:17.485147+00:00",
+  "last_cycle_at": "2026-10-26T08:47:35.083300+00:00",
   "schema_version": 1
 }
