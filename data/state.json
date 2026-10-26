@@ -1419,6 +1419,14 @@
       "updated_at": "2026-10-26T02:22:51.138903+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss"
     },
+    "3e1aeecfdc2b1793a43b4f97": {
+      "published_at": "2026-10-26T04:07:29+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Mercedes crash: Police take Kerala judge’s minor son back into custody after protests over fatal accident",
+      "updated_at": "2026-10-26T04:52:24.382222+00:00",
+      "url": "https://www.tribuneindia.com/news/india/mercedes-crash-police-take-kerala-judges-minor-son-back-into-custody-after-protests-over-fatal-accident"
+    },
     "3e6aa50c9b6b63e9d83faef0": {
       "published_at": "2026-10-25T12:37:49+00:00",
       "source": "aljazeera.com",
@@ -1778,6 +1786,14 @@
       "title": "Police in Albania filmed beating protester unconscious",
       "updated_at": "2026-10-25T11:34:35.711871+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss"
+    },
+    "4d0401ee1cc88833e528a296": {
+      "published_at": "2026-10-26T04:03:28+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+      "updated_at": "2026-10-26T04:52:24.382217+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss"
     },
     "4f371849fb9efa7fc2fcfcc8": {
       "published_at": "2026-10-25T07:34:41+00:00",
@@ -5354,6 +5370,14 @@
       "updated_at": "2026-10-25T18:12:44.262713+00:00",
       "url": "https://www.thehindu.com/news/national/the-road-ahead-for-the-asiatic-lion/article71309290.ece"
     },
+    "ef20f995c78b337fd1bc6c63": {
+      "published_at": "2026-10-26T01:06:50+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Sharp rise in prices of smartphones burdens consumers",
+      "updated_at": "2026-10-26T04:52:24.382200+00:00",
+      "url": "https://www.dawn.com/news/2039859/sharp-rise-in-prices-of-smartphones-burdens-consumers"
+    },
     "ef50a09ba73a9236ab350a70": {
       "published_at": "2026-10-25T23:31:13+00:00",
       "source": "thehindu.com",
@@ -5497,6 +5521,14 @@
       "title": "India, EU race to finalise FTA before December deadline to coincide with PM Modi's Brussels visit",
       "updated_at": "2026-10-25T12:05:05.165158+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-eu-race-to-finalise-fta-before-december-deadline-to-coincide-with-pm-modis-brussels-visit-101792926809767.html"
+    },
+    "f3d545b588bbde88990f5ba8": {
+      "published_at": "2026-10-26T04:05:44+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "updated_at": "2026-10-26T04:52:24.382220+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
     },
     "f40a1e6df005dacf8ebc7bd3": {
       "published_at": "2026-10-26T03:52:39+00:00",
@@ -5891,6 +5923,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:24:35.761341+00:00",
+  "last_cycle_at": "2026-10-26T04:52:24.382787+00:00",
   "schema_version": 1
 }
