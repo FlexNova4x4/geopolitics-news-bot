@@ -557,6 +557,14 @@
       "updated_at": "2026-10-25T16:15:42.507887+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/farmers-should-explore-crops-that-need-less-water-spdcl-cmd/article71623902.ece"
     },
+    "1f0016aa21020570304b59bc": {
+      "published_at": "2026-10-25T20:20:10+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kangra News: त्योहारी सीजन में ट्रेड फेयर लगने से भड़के दुकानदार",
+      "updated_at": "2026-10-26T00:55:30.368610+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/shopkeepers-irked-by-trade-fair-being-held-during-the-festive-season-kangra-news-c-95-1-kng1004-263292-2026-10-26"
+    },
     "1f4bee06e2b5fa2cf7ec1b97": {
       "published_at": "2026-10-24T23:49:00+00:00",
       "source": "rss.dw.com",
@@ -2421,6 +2429,14 @@
       "updated_at": "2026-10-25T05:41:15.304821+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/panel-formed-to-probe-spurious-liquor-death-claims-in-madhya-pradeshs-dewas-report-in-15-days/article71622566.ece"
     },
+    "803f430a679b5d7c9aae2e86": {
+      "published_at": "2026-10-25T20:26:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Solan News: बद्दी की हाउसिंग बोर्ड कॉलोनी फेज-5 में सड़कें बदहाल, पार्कों में झाड़ियां",
+      "updated_at": "2026-10-26T00:55:30.368628+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/solan/roads-in-a-dilapidated-state-and-bushes-in-the-parks-at-housing-board-colony-phase-5-baddi-solan-news-c-176-1-ssml1044-182801-2026-10-25"
+    },
     "80ae74cf8c48278793d44730": {
       "published_at": "2026-10-25T11:23:27+00:00",
       "source": "hindustantimes.com",
@@ -4211,6 +4227,14 @@
       "updated_at": "2026-10-25T16:42:17.798822+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/freedom-park-will-come-up-in-kittur-fort-says-cm-shivakumar/article71624274.ece"
     },
+    "eae98406a38dc2218ff3404a": {
+      "published_at": "2026-10-25T20:29:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Solan News: बद्दी में लावारिस बैलों की समस्या बरकरार, 10 गोशाला भेजे",
+      "updated_at": "2026-10-26T00:55:30.368635+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/solan/problem-of-stray-bulls-persists-in-baddi-10-sent-to-a-gaushala-cow-shelter-solan-news-c-176-1-ssml1044-182785-2026-10-25"
+    },
     "eaffa8c895b53cbead099202": {
       "published_at": "2026-10-25T15:15:02+00:00",
       "source": "thehindu.com",
@@ -4426,6 +4450,14 @@
       "title": "Supreme Court clarifies scope of police custody under BNSS",
       "updated_at": "2026-10-25T18:13:34.845945+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece"
+    },
+    "f5d071596e937374f73457ee": {
+      "published_at": "2026-10-25T20:26:33+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Years on, seven key development works in Nurpur await completion",
+      "updated_at": "2026-10-26T00:55:30.368631+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/years-on-seven-key-development-works-in-nurpur-await-completion"
     },
     "f603ab89ebe7bf49606dc2ed": {
       "published_at": "2026-10-25T14:44:48+00:00",
@@ -4721,6 +4753,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:55:23.347984+00:00",
+  "last_cycle_at": "2026-10-26T00:55:30.369130+00:00",
   "schema_version": 1
 }
