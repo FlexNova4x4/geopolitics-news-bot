@@ -2103,9 +2103,10 @@
     "5fba8bd71cc8f65aa2a24bbd": {
       "published_at": "2026-10-26T03:34:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10643,
       "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
-      "updated_at": "2026-10-26T04:22:26.438659+00:00",
+      "updated_at": "2026-10-26T04:22:33.033635+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
     },
     "5ff5a5b34653f3e2b8a06cf4": {
@@ -3007,9 +3008,10 @@
     "84c0542a8838270a872c8296": {
       "published_at": "2026-10-26T03:35:31+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10644,
       "title": "Why are people in Arunachal Pradesh protesting the Siang dam?",
-      "updated_at": "2026-10-26T04:22:26.438662+00:00",
+      "updated_at": "2026-10-26T04:22:37.190938+00:00",
       "url": "https://www.tribuneindia.com/news/india/why-are-people-in-arunachal-pradesh-protesting-the-siang-dam"
     },
     "85616f4dbf5ab1cf6473a90e": {
@@ -4404,9 +4406,10 @@
     "c6c640a7a16a4c1d8940dc1d": {
       "published_at": "2026-10-26T03:32:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10642,
       "title": "“Share warm and cordial relations”: India welcomes arrival of Liechtenstein’s Hereditary Prince Alois",
-      "updated_at": "2026-10-26T04:22:26.438639+00:00",
+      "updated_at": "2026-10-26T04:22:29.114718+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-ties/share-warm-and-cordial-relations-india-welcomes-arrival-of-liechtensteins-hereditary-prince-alois"
     },
     "c72fd80e641756d52d21a881": {
@@ -5210,9 +5213,10 @@
     "ef6705217ffa45f9464091f7": {
       "published_at": "2026-10-26T03:49:11+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10645,
       "title": "Resolution in Balochistan assembly cannot abolish Sardari system, say tribal chiefs",
-      "updated_at": "2026-10-26T04:22:26.438665+00:00",
+      "updated_at": "2026-10-26T04:22:41.309871+00:00",
       "url": "https://www.dawn.com/news/2039919/resolution-in-balochistan-assembly-cannot-abolish-sardari-system-say-tribal-chiefs"
     },
     "efec5c59c8280662ace8c082": {
@@ -5725,6 +5729,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:22:26.439187+00:00",
+  "last_cycle_at": "2026-10-26T04:22:44.510987+00:00",
   "schema_version": 1
 }
