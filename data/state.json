@@ -378,6 +378,14 @@
       "updated_at": "2026-10-25T05:36:47.446479+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/heavy-rain-to-hit-chennai-northern-delta-and-western-districts-on-sunday/article71620782.ece"
     },
+    "0fe5303fb47015eaf9030dec": {
+      "published_at": "2026-10-26T05:40:03+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "How far can a sitting judge speak outside the courtroom?",
+      "updated_at": "2026-10-26T05:54:40.588830+00:00",
+      "url": "https://www.thehindu.com/news/national/how-far-can-a-sitting-judge-speak-outside-the-courtroom/article71623230.ece"
+    },
     "0ffc94f12185600e6f4ca01a": {
       "published_at": "2026-10-26T00:14:03+00:00",
       "source": "amarujala.com",
@@ -1041,6 +1049,14 @@
       "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
       "updated_at": "2026-10-25T12:05:21.397089+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss"
+    },
+    "2b67e537afccc8509da4aff4": {
+      "published_at": "2026-10-26T05:44:59+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rahul Gandhi’s convoy involved in collision on Purvanchal Expressway; Congress leader safe",
+      "updated_at": "2026-10-26T05:54:40.588834+00:00",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-amit-shah-defamation-case-sultanpur-up-verdict-october-26-2026/article71625707.ece"
     },
     "2bdfa8e264c62c5061d53ffb": {
       "published_at": "2026-10-25T16:22:18+00:00",
@@ -4494,6 +4510,14 @@
       "updated_at": "2026-10-25T15:10:57.359567+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss"
     },
+    "b5ff4b49b54797242ef3d0f3": {
+      "published_at": "2026-10-26T05:38:25+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "कांगड़ा: मटौर में मनूनी खड्ड पर नए सिरे से बनेगा लोहे का पुल, दिवाली से पहले पूरा करने का लक्ष्य",
+      "updated_at": "2026-10-26T05:54:40.588812+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/kangra/video-matour-manuni-khad-new-iron-bridge-construction-2026-10-26"
+    },
     "b65e6dc8bf8570fb344d29ae": {
       "published_at": "2026-10-25T23:57:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -6494,6 +6518,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:54:31.633551+00:00",
+  "last_cycle_at": "2026-10-26T05:54:40.589457+00:00",
   "schema_version": 1
 }
