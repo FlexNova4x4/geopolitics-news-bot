@@ -522,6 +522,14 @@
       "updated_at": "2026-10-26T01:52:41.005814+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/one-killed-as-off-road-vehicle-plunges-into-gorge-at-kakkadampoyil-in-keralams-kozhikode/article71624454.ece"
     },
+    "12ec63ab29bac3924115a196": {
+      "published_at": "2026-10-26T06:33:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "RTI Area 9 to build government school in Dundigal Municipality",
+      "updated_at": "2026-10-26T06:44:28.468869+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/rti-area-9-to-build-government-school-in-dundigal-municipality/article71624041.ece"
+    },
     "1345b01f873e9ed42872cf90": {
       "published_at": "2026-10-25T22:20:02+00:00",
       "source": "amarujala.com",
@@ -1024,6 +1032,14 @@
       "updated_at": "2026-10-25T06:06:53.535486+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/back-pain-lancet-review-calls-for-clinical-assessment-over-routine-scans/article71616294.ece"
     },
+    "273c53a48142b5f7d9feaa3e": {
+      "published_at": "2026-10-26T06:36:28+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Trump says Canada trade deal coming ‘soon’",
+      "updated_at": "2026-10-26T06:44:28.468873+00:00",
+      "url": "https://www.thehindu.com/news/international/trump-says-canada-trade-deal-coming-soon/article71625788.ece"
+    },
     "27503d917e5b5fbcc9257584": {
       "published_at": "2026-10-25T04:06:14+00:00",
       "source": "thehindu.com",
@@ -1203,6 +1219,14 @@
       "title": "हिमाचल प्रदेश: कांगड़ा में पांच साल में 879 लोग एचआईवी संक्रमित, पुरुषों की संख्या महिलाओं से करीब तीन गुना",
       "updated_at": "2026-10-26T05:24:21.114072+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/kangra-hiv-positive-cases-2021-to-2026-men-women-statistics-2026-10-26"
+    },
+    "2e9cc58d0d29fdcbcead6118": {
+      "published_at": "2026-10-26T06:38:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Sirmour News: नौहराधार में तीन दिवसीय खेलकूद प्रतियोगिता का आगाज, 45 टीमें ले रहीं भाग",
+      "updated_at": "2026-10-26T06:44:28.468876+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/sirmour/khelkood-in-nohradhaar-school-nahan-news-c-177-1-ssml1028-192505-2026-10-25"
     },
     "2ea4ef0039b41c2eb90b426e": {
       "published_at": "2026-10-24T18:32:54+00:00",
@@ -3284,6 +3308,14 @@
       "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
       "updated_at": "2026-10-25T01:05:20.509465+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
+    },
+    "78d192d8747fdc24ea6a02ea": {
+      "published_at": "2026-10-26T06:33:04+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "ऊना: सतपाल सत्ती पर टिप्पणी को लेकर कांग्रेस पर बरसे भाजपा नेता राम कुमार",
+      "updated_at": "2026-10-26T06:44:28.468849+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-bjp-leader-ram-kumar-reacts-to-remarks-on-satpal-satti-2026-10-26"
     },
     "78fd986ba58c922cb055b92e": {
       "published_at": "2026-10-24T20:53:06+00:00",
@@ -6836,6 +6868,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:44:20.782132+00:00",
+  "last_cycle_at": "2026-10-26T06:44:28.469739+00:00",
   "schema_version": 1
 }
