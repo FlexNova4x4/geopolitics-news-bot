@@ -4508,9 +4508,10 @@
     "7ba3ee19fbc6da2f7d46f1fc": {
       "published_at": "2026-10-26T12:48:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11065,
       "title": "Bengaluru: Woman police officer attacked, robbed during search operation at suspect’s house",
-      "updated_at": "2026-10-26T13:44:19.502858+00:00",
+      "updated_at": "2026-10-26T13:44:30.047767+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-woman-police-officer-allegedly-attacked-robbed-during-search-operation-at-suspects-house/article71626431.ece"
     },
     "7be769f141d40f6f3e16760b": {
@@ -4534,9 +4535,10 @@
     "7c5639c5913ba3dc5155f968": {
       "published_at": "2026-10-26T12:51:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11066,
       "title": "BJP workers scuffle with police, try to burn Kharge’s effigy in Shimla",
-      "updated_at": "2026-10-26T13:44:19.502861+00:00",
+      "updated_at": "2026-10-26T13:44:33.952701+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/bjp-workers-scuffle-with-police-try-to-burn-kharges-effigy-in-shimla"
     },
     "7c77b1d428298b4dd4cb44aa": {
@@ -8510,9 +8512,10 @@
     "e8d5ece9ea9fa8612022b290": {
       "published_at": "2026-10-26T12:46:52+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11064,
       "title": "Army artillery, helicopters and more: Centre clears Rs 2.12 lakh crore deals; who gets what",
-      "updated_at": "2026-10-26T13:44:19.502854+00:00",
+      "updated_at": "2026-10-26T13:44:25.976907+00:00",
       "url": "https://www.tribuneindia.com/news/defence/army-artillery-drones-helicopters-and-more-centre-clears-rs-2-12-lakh-crore-deals-who-gets-what"
     },
     "e8e8485050729ea9bcf12f69": {
@@ -8662,9 +8665,10 @@
     "ebe3d0111bd02afe3d2d9b4f": {
       "published_at": "2026-10-26T12:46:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11063,
       "title": "Emmanuel Macron warns October 31 protests in France could turn ‘risky’",
-      "updated_at": "2026-10-26T13:44:19.502836+00:00",
+      "updated_at": "2026-10-26T13:44:22.177789+00:00",
       "url": "https://www.thehindu.com/news/international/emmanuel-macron-warns-october-31-protests-in-france-could-turn-risky/article71627036.ece"
     },
     "ec072a3af4cda2737064dd06": {
@@ -9483,6 +9487,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:44:19.503710+00:00",
+  "last_cycle_at": "2026-10-26T13:44:37.154097+00:00",
   "schema_version": 1
 }
