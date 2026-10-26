@@ -2166,6 +2166,14 @@
       "updated_at": "2026-10-26T00:57:36.194760+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump/i-am-here-with-you-venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-us-hails-reconciliation-talks"
     },
+    "4742bcbe8ffa72554ba6ee1b": {
+      "published_at": "2026-10-25T21:11:30+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सोलन के कराटे खिलाड़ियों ने राज्य चैंपियनशिप में लहराया परचम, चार का SGFI नेशनल के लिए चयन",
+      "updated_at": "2026-10-26T09:14:58.933504+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-four-solan-karate-players-selected-for-sgfi-national-championship-2026-10-26"
+    },
     "476fcdd51b26ff98975ea435": {
       "published_at": "2026-10-25T06:31:48+00:00",
       "source": "thehindu.com",
@@ -2363,6 +2371,14 @@
       "title": "Police in Albania filmed beating protester unconscious",
       "updated_at": "2026-10-25T11:34:35.711871+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss"
+    },
+    "4cad4eded2823eaaa3ab0908": {
+      "published_at": "2026-10-25T21:11:04+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "शिमला: वाल्मीकि मंदिर को 25 लाख, पात्र सफाई कर्मचारियों को मकान के लिए 3 लाख",
+      "updated_at": "2026-10-26T09:14:58.933499+00:00",
+      "url": "https://www.amarujala.com/video/shimla/video-cm-sukhu-valmiki-jayanti-krishna-nagar-temple-25-lakh-housing-scheme-2026-10-26"
     },
     "4d0401ee1cc88833e528a296": {
       "published_at": "2026-10-26T04:03:28+00:00",
@@ -2989,6 +3005,14 @@
       "title": "“Canada taking advantage of US, but getting close to deal”: Trump",
       "updated_at": "2026-10-26T00:57:15.485064+00:00",
       "url": "https://www.tribuneindia.com/news/canada/canada-taking-advantage-of-us-but-getting-close-to-deal-trump"
+    },
+    "64ebafba5677c6b62505986d": {
+      "published_at": "2026-10-26T08:18:22+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+      "updated_at": "2026-10-26T09:14:58.933507+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
     },
     "65053c0b0bf5eaa367864d8d": {
       "published_at": "2026-10-25T14:39:47+00:00",
@@ -5421,6 +5445,14 @@
       "updated_at": "2026-10-25T08:35:13.303652+00:00",
       "url": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece"
     },
+    "b766d65102273425cad06721": {
+      "published_at": "2026-10-25T21:10:58+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "करवाचौथ को लेकर शिमला के लोअर बाजार में रौनक, खरीदारी के लिए उमड़ी महिलाओं की भीड़",
+      "updated_at": "2026-10-26T09:14:58.933483+00:00",
+      "url": "https://www.amarujala.com/video/shimla/video-karwa-chauth-shopping-rush-lower-bazaar-shimla-2026-10-26"
+    },
     "b79d13a62d8f847db37f8425": {
       "published_at": "2026-10-26T02:15:00+00:00",
       "source": "hindustantimes.com",
@@ -7790,6 +7822,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:14:53.090299+00:00",
+  "last_cycle_at": "2026-10-26T09:14:58.934433+00:00",
   "schema_version": 1
 }
