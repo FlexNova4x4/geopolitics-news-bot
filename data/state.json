@@ -525,9 +525,10 @@
     "12ec63ab29bac3924115a196": {
       "published_at": "2026-10-26T06:33:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10770,
       "title": "RTI Area 9 to build government school in Dundigal Municipality",
-      "updated_at": "2026-10-26T06:44:28.468869+00:00",
+      "updated_at": "2026-10-26T06:44:35.586423+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/rti-area-9-to-build-government-school-in-dundigal-municipality/article71624041.ece"
     },
     "1345b01f873e9ed42872cf90": {
@@ -1035,9 +1036,10 @@
     "273c53a48142b5f7d9feaa3e": {
       "published_at": "2026-10-26T06:36:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10771,
       "title": "Trump says Canada trade deal coming ‘soon’",
-      "updated_at": "2026-10-26T06:44:28.468873+00:00",
+      "updated_at": "2026-10-26T06:44:39.494482+00:00",
       "url": "https://www.thehindu.com/news/international/trump-says-canada-trade-deal-coming-soon/article71625788.ece"
     },
     "27503d917e5b5fbcc9257584": {
@@ -1223,9 +1225,10 @@
     "2e9cc58d0d29fdcbcead6118": {
       "published_at": "2026-10-26T06:38:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10772,
       "title": "Sirmour News: नौहराधार में तीन दिवसीय खेलकूद प्रतियोगिता का आगाज, 45 टीमें ले रहीं भाग",
-      "updated_at": "2026-10-26T06:44:28.468876+00:00",
+      "updated_at": "2026-10-26T06:44:43.397917+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/khelkood-in-nohradhaar-school-nahan-news-c-177-1-ssml1028-192505-2026-10-25"
     },
     "2ea4ef0039b41c2eb90b426e": {
@@ -3312,9 +3315,10 @@
     "78d192d8747fdc24ea6a02ea": {
       "published_at": "2026-10-26T06:33:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10769,
       "title": "ऊना: सतपाल सत्ती पर टिप्पणी को लेकर कांग्रेस पर बरसे भाजपा नेता राम कुमार",
-      "updated_at": "2026-10-26T06:44:28.468849+00:00",
+      "updated_at": "2026-10-26T06:44:31.483933+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-bjp-leader-ram-kumar-reacts-to-remarks-on-satpal-satti-2026-10-26"
     },
     "78fd986ba58c922cb055b92e": {
@@ -6868,6 +6872,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:44:28.469739+00:00",
+  "last_cycle_at": "2026-10-26T06:44:46.599211+00:00",
   "schema_version": 1
 }
