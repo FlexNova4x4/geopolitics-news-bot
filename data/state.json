@@ -1644,6 +1644,14 @@
       "updated_at": "2026-10-25T17:12:08.935558+00:00",
       "url": "https://www.hindustantimes.com/india-news/nitin-nabin-chairs-key-bjp-meet-to-discuss-response-to-opposition-s-anti-sir-campaign-101792944386152.html"
     },
+    "2bf00bc17cf1d80b54a2cf8b": {
+      "published_at": "2026-10-26T20:32:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Spectre of ethnic cleansing looming”: UN Chief Antonio Guterres expresses deep alarm over Israeli actions in West Bank",
+      "updated_at": "2026-10-26T22:44:27.130843+00:00",
+      "url": "https://www.tribuneindia.com/news/antonio-guterres/spectre-of-ethnic-cleansing-looming-un-chief-antonio-guterres-expresses-deep-alarm-over-israeli-actions-in-west-bank"
+    },
     "2ca639c6b0aa4e783169be7d": {
       "published_at": "2026-10-26T08:07:16+00:00",
       "source": "publish.tribuneindia.com",
@@ -3555,6 +3563,14 @@
       "title": "Proclaimed offender wanted for last 16 years arrested in Islamabad;",
       "updated_at": "2026-10-26T05:23:58.826319+00:00",
       "url": "https://www.dawn.com/news/2039923/proclaimed-offender-wanted-for-last-16-years-arrested-in-islamabad"
+    },
+    "5cfa53eb5862a5b22d5018e6": {
+      "published_at": "2026-10-26T20:38:40+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "What Vucic’s defeat means for Serbia’s foreign policy",
+      "updated_at": "2026-10-26T22:44:27.130848+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss"
     },
     "5d2e5f9f1e1b5d17cc8ffcfd": {
       "published_at": "2026-10-26T11:10:13+00:00",
@@ -5610,6 +5626,14 @@
       "title": "Deputy Chief Minister says Shivakumar may have been consulted on PAC formation",
       "updated_at": "2026-10-25T16:14:08.169917+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/deputy-chief-minister-says-shivakumar-may-have-been-consulted-on-pac-formation/article71623888.ece"
+    },
+    "924bfe57e5f197878e10a887": {
+      "published_at": "2026-10-26T20:41:12+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Senate blocks move to withdraw diplomatic passport privileges from state ministers, advisers",
+      "updated_at": "2026-10-26T22:44:27.130853+00:00",
+      "url": "https://www.dawn.com/news/2040000/senate-blocks-move-to-withdraw-diplomatic-passport-privileges-from-state-ministers-advisers"
     },
     "928f636cc301831be6854c23": {
       "published_at": "2026-10-26T02:12:40+00:00",
@@ -9785,6 +9809,14 @@
       "updated_at": "2026-10-26T01:23:03.724047+00:00",
       "url": "https://www.tribuneindia.com/news/india/regional-journal-dasehra-sparks-political-fireworks"
     },
+    "fab92f3d966c5951063eb83b": {
+      "published_at": "2026-10-26T20:28:52+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal: 14 months after bridge collapse, three Banjar villages still cut off",
+      "updated_at": "2026-10-26T22:44:27.130819+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-14-months-after-bridge-collapse-three-banjar-villages-still-cut-off"
+    },
     "fab96a2b4ff7229bb431349f": {
       "published_at": "2026-10-26T19:20:36+00:00",
       "source": "hindustantimes.com",
@@ -10027,6 +10059,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:44:20.827042+00:00",
+  "last_cycle_at": "2026-10-26T22:44:27.132509+00:00",
   "schema_version": 1
 }
