@@ -2976,9 +2976,10 @@
     "5b384a7d8def998224f44527": {
       "published_at": "2026-10-26T10:41:23+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10965,
       "title": "Saudi-led coalition says it struck Houthi missile facilities",
-      "updated_at": "2026-10-26T11:14:03.731875+00:00",
+      "updated_at": "2026-10-26T11:14:18.303346+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss"
     },
     "5b850988cff3ad097502ce95": {
@@ -4834,9 +4835,10 @@
     "9413debea6eaa37d34a67f89": {
       "published_at": "2026-10-26T10:36:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10962,
       "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
-      "updated_at": "2026-10-26T11:14:03.731853+00:00",
+      "updated_at": "2026-10-26T11:14:06.362123+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss"
     },
     "9418581b7f6efb4b6eff5009": {
@@ -5737,9 +5739,10 @@
     "ac3ce2a68e95ddc507bda45e": {
       "published_at": "2026-10-26T10:41:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10964,
       "title": "Why TVK is eager to woo AIADMK cadre",
-      "updated_at": "2026-10-26T11:14:03.731872+00:00",
+      "updated_at": "2026-10-26T11:14:14.161096+00:00",
       "url": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece"
     },
     "ac68c661379f3dacb952059d": {
@@ -5781,9 +5784,10 @@
     "aeff307ce7cc4ecc2d388983": {
       "published_at": "2026-10-26T10:39:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10963,
       "title": "‘Was using common expression, not insulting anybody’s father’: Tharoor on Kharge’s remarks row",
-      "updated_at": "2026-10-26T11:14:03.731868+00:00",
+      "updated_at": "2026-10-26T11:14:10.267661+00:00",
       "url": "https://www.tribuneindia.com/news/india/was-using-common-expression-not-insulting-anybodys-father-tharoor-on-kharges-remarks-row"
     },
     "af385fb296e702a42cf1ed7d": {
@@ -8587,6 +8591,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T11:14:03.732885+00:00",
+  "last_cycle_at": "2026-10-26T11:14:21.505044+00:00",
   "schema_version": 1
 }
