@@ -228,9 +228,10 @@
     "05a48b60ee15a7026c59c3e8": {
       "published_at": "2026-10-26T20:55:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11138,
       "title": "US court rules daughter of Trump critic James Comey was illegally fired",
-      "updated_at": "2026-10-26T22:45:10.991944+00:00",
+      "updated_at": "2026-10-26T22:45:13.416920+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
     },
     "05d58d43bb53eab2690ffce3": {
@@ -3325,9 +3326,10 @@
     "558eb7a2ddf9f27779103403": {
       "published_at": "2026-10-26T20:55:47+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11139,
       "title": "What will Lula’s fourth term mean for Brazil?",
-      "updated_at": "2026-10-26T22:45:10.991975+00:00",
+      "updated_at": "2026-10-26T22:45:17.116821+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss"
     },
     "559df6fba7b027ff469021bc": {
@@ -8324,9 +8326,10 @@
     "d40554decfa031b4d10a7a54": {
       "published_at": "2026-10-26T21:02:47+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11141,
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "updated_at": "2026-10-26T22:45:10.991985+00:00",
+      "updated_at": "2026-10-26T22:45:24.600728+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
     },
     "d41c5fa062606ff1945c817d": {
@@ -9812,9 +9815,10 @@
     "f8bde8177aa2c38cbcd1a98e": {
       "published_at": "2026-10-26T21:02:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11140,
       "title": "Mumbai Police form SIT to probe Jarange’s ₹500 crore claim as Raut writes to Shah seeking ED probe",
-      "updated_at": "2026-10-26T22:45:10.991980+00:00",
+      "updated_at": "2026-10-26T22:45:20.839680+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-form-sit-to-probe-jaranges-500-crore-claim-as-raut-writes-to-shah-seeking-ed-probe/article71628069.ece"
     },
     "f8da80698d09d6a73cdf962a": {
@@ -10131,6 +10135,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:45:10.993656+00:00",
+  "last_cycle_at": "2026-10-26T22:45:27.803426+00:00",
   "schema_version": 1
 }
