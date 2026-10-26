@@ -63,6 +63,14 @@
       "updated_at": "2026-10-25T10:34:24.149742+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/safety-at-the-mrts-railway-stations-in-chennai/article71620990.ece"
     },
+    "02d0e9f0cc894a0c8e55852b": {
+      "published_at": "2026-10-26T00:58:00+00:00",
+      "source": "The Diplomat",
+      "status": "reserved",
+      "title": "Indonesia Seizes More Than 2 Tons of Narcotics in Major Anti-drug Operations",
+      "updated_at": "2026-10-26T05:52:35.602163+00:00",
+      "url": "https://thediplomat.com/2026/10/indonesia-seizes-more-than-2-tons-of-narcotics-in-major-anti-drug-operations"
+    },
     "031348487f4a98c88df65555": {
       "published_at": "2026-10-25T12:24:51+00:00",
       "source": "thehindu.com",
@@ -3770,6 +3778,14 @@
       "updated_at": "2026-10-25T09:05:10.801971+00:00",
       "url": "https://www.hindustantimes.com/india-news/dk-shivakumar-warns-it-firms-of-action-if-found-sidelining-locals-in-bengaluru-kannadiga-is-sovereign-101792915307671.html"
     },
+    "9adeceb6fe7acda4ac474d57": {
+      "published_at": "2026-10-25T23:33:19+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "updated_at": "2026-10-26T05:52:35.602148+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
+    },
     "9b1d1f14a9b8f9bec8a19d49": {
       "published_at": "2026-10-24T19:12:51+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4331,6 +4347,14 @@
       "title": "Tourist bus overturns near Bekal bridge in Keralam’s Kasaragod; passengers escape without serious injuries",
       "updated_at": "2026-10-25T12:05:29.257730+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/tourist-bus-overturns-near-bekal-bridge-in-keralams-kasaragod-passengers-escape-without-serious-injuries/article71623009.ece"
+    },
+    "b5602e38a0898ddab2e084e1": {
+      "published_at": "2026-10-26T01:09:41+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "updated_at": "2026-10-26T05:52:35.602167+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss"
     },
     "b56d1ea1d523ac05c50d966b": {
       "published_at": "2026-10-26T00:13:02+00:00",
@@ -6323,6 +6347,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:24:48.317498+00:00",
+  "last_cycle_at": "2026-10-26T05:52:35.602819+00:00",
   "schema_version": 1
 }
