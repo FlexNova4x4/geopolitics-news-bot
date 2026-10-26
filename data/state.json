@@ -345,9 +345,10 @@
     "1345b01f873e9ed42872cf90": {
       "published_at": "2026-10-25T22:20:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10548,
       "title": "Kangra News: फार्मेसी कॉलेज नगरोटा बगवां के खिलाड़ियों ने जीते 15 पदक",
-      "updated_at": "2026-10-26T00:57:08.956361+00:00",
+      "updated_at": "2026-10-26T00:57:11.378846+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/players-from-the-pharmacy-college-nagrota-bagwan-won-15-medals-kangra-news-c-95-1-kng1018-263308-2026-10-26"
     },
     "135bf913908718e670af8c71": {
@@ -568,9 +569,10 @@
     "1ecd5dc6fb877438855c4018": {
       "published_at": "2026-10-25T22:47:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10550,
       "title": "“We have a great bench”: Trump names JD Vance, Marco Rubio among potential 2028 contenders",
-      "updated_at": "2026-10-26T00:57:08.956381+00:00",
+      "updated_at": "2026-10-26T00:57:19.925180+00:00",
       "url": "https://www.tribuneindia.com/news/2028-contenders/we-have-a-great-bench-trump-names-jd-vance-marco-rubio-among-potential-2028-contenders"
     },
     "1f0016aa21020570304b59bc": {
@@ -1483,9 +1485,10 @@
     "4a04e1b416f1b37cffdbb177": {
       "published_at": "2026-10-25T22:47:23+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10551,
       "title": "US orders non-emergency personnel, families to leave Saudi Arabia amid Houthi strikes on airports",
-      "updated_at": "2026-10-26T00:57:08.956383+00:00",
+      "updated_at": "2026-10-26T00:57:23.991150+00:00",
       "url": "https://www.tribuneindia.com/news/airports/us-orders-non-emergency-personnel-families-to-leave-saudi-arabia-amid-houthi-strikes-on-airports"
     },
     "4a067e46333580ef31d07718": {
@@ -1973,9 +1976,10 @@
     "64cb075c8829336f6662791e": {
       "published_at": "2026-10-25T22:32:09+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10549,
       "title": "“Canada taking advantage of US, but getting close to deal”: Trump",
-      "updated_at": "2026-10-26T00:57:08.956377+00:00",
+      "updated_at": "2026-10-26T00:57:15.485064+00:00",
       "url": "https://www.tribuneindia.com/news/canada/canada-taking-advantage-of-us-but-getting-close-to-deal-trump"
     },
     "65053c0b0bf5eaa367864d8d": {
@@ -4897,6 +4901,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:57:08.957048+00:00",
+  "last_cycle_at": "2026-10-26T00:57:27.192186+00:00",
   "schema_version": 1
 }
