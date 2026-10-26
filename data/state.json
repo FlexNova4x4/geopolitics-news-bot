@@ -1393,6 +1393,14 @@
       "updated_at": "2026-10-25T07:04:47.297151+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss"
     },
+    "27b43b21b2395daa07141367": {
+      "published_at": "2026-10-26T12:00:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Award-winning director-cinematographer Chezhiyan no more",
+      "updated_at": "2026-10-26T13:38:57.286955+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/award-winning-director-cinematographer-chezhiyan-is-no-more/article71205403.ece"
+    },
     "283c299a6757038aacd891df": {
       "published_at": "2026-10-25T14:53:05+00:00",
       "source": "thehindu.com",
@@ -4056,6 +4064,14 @@
       "updated_at": "2026-10-26T04:53:18.163343+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss"
     },
+    "72fc72d420f885eac465ac45": {
+      "published_at": "2026-10-26T11:55:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israeli strikes in Gaza kill five including child: Civil Defence",
+      "updated_at": "2026-10-26T13:38:57.286934+00:00",
+      "url": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-five-including-child-civil-defence/article71626788.ece"
+    },
     "734b2f5c763f1f27e5ef7894": {
       "published_at": "2026-10-25T21:50:56+00:00",
       "source": "amarujala.com",
@@ -5097,6 +5113,14 @@
       "title": "Five ways Trump has changed immigration in the US",
       "updated_at": "2026-10-26T13:36:44.304206+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss"
+    },
+    "8f9d3d3aeea1e920e81f96eb": {
+      "published_at": "2026-10-26T11:58:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Father-son duo killed as old building collapses in Northeast Delhi’s Harsh Vihar",
+      "updated_at": "2026-10-26T13:38:57.286953+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-harsh-vihar-building-collapse-deaths-october-26-2026/article71626601.ece"
     },
     "90fd25d5e400c10fb50f1c26": {
       "published_at": "2026-10-25T15:40:25+00:00",
@@ -8140,6 +8164,14 @@
       "updated_at": "2026-10-26T00:53:08.670846+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/nand-nala-bridge-on-pong-lake-backwaters-nears-completion"
     },
+    "e41379e89eed9656b09b1e1f": {
+      "published_at": "2026-10-26T11:57:20+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Kerala High Court stays order to register FIR against ex-CM Vijayan, kin in CMRL case",
+      "updated_at": "2026-10-26T13:38:57.286950+00:00",
+      "url": "https://www.tribuneindia.com/news/india/kerala-high-court-stays-order-to-register-fir-against-ex-cm-vijayan-kin-in-cmrl-case"
+    },
     "e45447987be3d824ed5c553c": {
       "published_at": "2026-10-25T12:40:51+00:00",
       "source": "hindustantimes.com",
@@ -9235,6 +9267,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:38:13.756436+00:00",
+  "last_cycle_at": "2026-10-26T13:38:57.287795+00:00",
   "schema_version": 1
 }
