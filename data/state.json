@@ -647,6 +647,14 @@
       "updated_at": "2026-10-25T16:13:13.421749+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/tgsrtc-launches-600-weekly-bus-pass-for-unlimited-travel-within-greater-hyderabad-limits/article71623843.ece"
     },
+    "1c7cd55e7b7c7803e3082eab": {
+      "published_at": "2026-10-26T04:15:04+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Centre panel defers forest land diversion for Subsidiary Intelligence Bureau complex in Sikkim, seeks alternatives",
+      "updated_at": "2026-10-26T04:52:49.481044+00:00",
+      "url": "https://www.tribuneindia.com/news/india/centre-panel-defers-forest-land-diversion-for-subsidiary-intelligence-bureau-complex-in-sikkim-seeks-alternatives"
+    },
     "1cc15881eea0f528d98c3672": {
       "published_at": "2026-10-25T15:21:26+00:00",
       "source": "aljazeera.com",
@@ -2701,6 +2709,14 @@
       "updated_at": "2026-10-25T15:17:54.883118+00:00",
       "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece"
     },
+    "73f7c428d3a199fdfd6007f3": {
+      "published_at": "2026-10-26T04:12:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "World and Latin American leaders congratulate Lula on Brazil Presidential election victory",
+      "updated_at": "2026-10-26T04:52:49.481005+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-ties/world-and-latin-american-leaders-congratulate-lula-on-brazil-presidential-election-victory"
+    },
     "740d124a535b1b787a2c7057": {
       "published_at": "2026-10-25T23:14:02+00:00",
       "source": "amarujala.com",
@@ -4475,6 +4491,14 @@
       "updated_at": "2026-10-25T05:05:58.252770+00:00",
       "url": "https://www.dawn.com/news/2039547/objectionable-material-lahore-man-arrested-for-blackmailing-minors"
     },
+    "c58a58970b3ea37fac7ddb9e": {
+      "published_at": "2026-10-26T04:13:09+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "HT Morning Brief October 26: BNS hit-&-run section yet to come into force; first batch of Agniveers ready",
+      "updated_at": "2026-10-26T04:52:49.481040+00:00",
+      "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-26-bns-hit-run-section-yet-to-come-into-force-first-batch-of-agniveers-ready-101792986700414.html"
+    },
     "c5ad7620cc7650b5be6eec44": {
       "published_at": "2026-10-25T12:17:39+00:00",
       "source": "aljazeera.com",
@@ -5453,6 +5477,14 @@
       "updated_at": "2026-10-26T00:52:35.070155+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/drinking-water-supply-system-in-the-city-remains-unimproved-people-struggle-to-get-even-a-single-drop-of-water-solan-news-c-176-1-sln1016-182792-2026-10-25"
     },
+    "f10c7436aa1933d5d4699f00": {
+      "published_at": "2026-10-26T04:15:40+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rajasthan: 80 tehsils across 14 districts declared drought-hit",
+      "updated_at": "2026-10-26T04:52:49.481047+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rajasthan-80-tehsils-across-14-districts-declared-droughthit-101792988140869.html"
+    },
     "f17074f2bff6dfa7b5decd9b": {
       "published_at": "2026-10-25T01:20:19+00:00",
       "source": "dawn.com",
@@ -5927,6 +5959,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:52:42.323808+00:00",
+  "last_cycle_at": "2026-10-26T04:52:49.481592+00:00",
   "schema_version": 1
 }
