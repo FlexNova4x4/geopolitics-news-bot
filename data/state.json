@@ -650,9 +650,10 @@
     "1c7cd55e7b7c7803e3082eab": {
       "published_at": "2026-10-26T04:15:04+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10670,
       "title": "Centre panel defers forest land diversion for Subsidiary Intelligence Bureau complex in Sikkim, seeks alternatives",
-      "updated_at": "2026-10-26T04:52:49.481044+00:00",
+      "updated_at": "2026-10-26T04:53:00.148457+00:00",
       "url": "https://www.tribuneindia.com/news/india/centre-panel-defers-forest-land-diversion-for-subsidiary-intelligence-bureau-complex-in-sikkim-seeks-alternatives"
     },
     "1cc15881eea0f528d98c3672": {
@@ -2712,9 +2713,10 @@
     "73f7c428d3a199fdfd6007f3": {
       "published_at": "2026-10-26T04:12:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10668,
       "title": "World and Latin American leaders congratulate Lula on Brazil Presidential election victory",
-      "updated_at": "2026-10-26T04:52:49.481005+00:00",
+      "updated_at": "2026-10-26T04:52:52.096282+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-ties/world-and-latin-american-leaders-congratulate-lula-on-brazil-presidential-election-victory"
     },
     "740d124a535b1b787a2c7057": {
@@ -4494,9 +4496,10 @@
     "c58a58970b3ea37fac7ddb9e": {
       "published_at": "2026-10-26T04:13:09+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10669,
       "title": "HT Morning Brief October 26: BNS hit-&-run section yet to come into force; first batch of Agniveers ready",
-      "updated_at": "2026-10-26T04:52:49.481040+00:00",
+      "updated_at": "2026-10-26T04:52:55.969408+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-26-bns-hit-run-section-yet-to-come-into-force-first-batch-of-agniveers-ready-101792986700414.html"
     },
     "c5ad7620cc7650b5be6eec44": {
@@ -5480,9 +5483,10 @@
     "f10c7436aa1933d5d4699f00": {
       "published_at": "2026-10-26T04:15:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10671,
       "title": "Rajasthan: 80 tehsils across 14 districts declared drought-hit",
-      "updated_at": "2026-10-26T04:52:49.481047+00:00",
+      "updated_at": "2026-10-26T04:53:04.307816+00:00",
       "url": "https://www.hindustantimes.com/india-news/rajasthan-80-tehsils-across-14-districts-declared-droughthit-101792988140869.html"
     },
     "f17074f2bff6dfa7b5decd9b": {
@@ -5959,6 +5963,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:52:49.481592+00:00",
+  "last_cycle_at": "2026-10-26T04:53:07.509011+00:00",
   "schema_version": 1
 }
