@@ -279,6 +279,14 @@
       "updated_at": "2026-10-26T03:52:55.820391+00:00",
       "url": "https://www.hindustantimes.com/india-news/sir-software-cec-gyanesh-kumar-election-commission-opposition-congress-bjp-protests-voters-roll-101792984710448.html"
     },
+    "0a490d39d475a6ab42a5e12d": {
+      "published_at": "2026-10-26T03:59:18+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Lahore doctor’s penalty in death case set aside",
+      "updated_at": "2026-10-26T04:23:38.539194+00:00",
+      "url": "https://www.dawn.com/news/2039817/lahore-doctors-penalty-in-death-case-set-aside"
+    },
     "0ad86da679ca75352a3bf1e0": {
       "published_at": "2026-10-25T06:52:23+00:00",
       "source": "hindustantimes.com",
@@ -530,6 +538,14 @@
       "title": "PTI rejects reports of shake-up in party's decision-making structure",
       "updated_at": "2026-10-26T02:53:57.276771+00:00",
       "url": "https://www.dawn.com/news/2039912/pti-rejects-reports-of-shake-up-in-partys-decision-making-structure"
+    },
+    "16e082522845912d7b69578b": {
+      "published_at": "2026-10-26T03:59:57+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Balochistan govt launches vocational scheme for youth training",
+      "updated_at": "2026-10-26T04:23:38.539209+00:00",
+      "url": "https://www.dawn.com/news/2039920/balochistan-govt-launches-vocational-scheme-for-youth-training"
     },
     "1710401f57210e87120dfb7a": {
       "published_at": "2026-10-24T22:24:04+00:00",
@@ -4287,6 +4303,14 @@
       "updated_at": "2026-10-25T07:35:45.372305+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-condoles-death-of-chef-dhamu/article71622743.ece"
     },
+    "c03b353eb4beb9db435166f7": {
+      "published_at": "2026-10-26T04:05:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Juvenile Justice Board grants bail to teen driver in fatal Cheranalloor car crash in Keralam",
+      "updated_at": "2026-10-26T04:23:38.539214+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/juvenile-justice-board-grants-bail-to-teen-driver-in-fatal-cheranalloor-car-crash-in-keralam/article71625550.ece"
+    },
     "c04a9a419822bc3122170059": {
       "published_at": "2026-10-25T16:07:36+00:00",
       "source": "thehindu.com",
@@ -4905,6 +4929,14 @@
       "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
       "updated_at": "2026-10-25T16:42:30.712455+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
+    },
+    "ddd01147c8fc3abb138c2314": {
+      "published_at": "2026-10-26T04:02:33+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "After Naseeruddin Shah alleges ‘vendetta’, Kolkata film institute clarifies 6 students' rustication",
+      "updated_at": "2026-10-26T04:23:38.539212+00:00",
+      "url": "https://www.hindustantimes.com/india-news/after-naseeruddin-shah-alleges-vendetta-kolkata-film-institute-clarifies-on-students-rustication-srfti-disciplinary-action-101792984083425.html"
     },
     "deb7c69e3b7118edcd4cce1a": {
       "published_at": "2026-10-25T14:17:05+00:00",
@@ -5801,6 +5833,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:23:31.767835+00:00",
+  "last_cycle_at": "2026-10-26T04:23:38.539815+00:00",
   "schema_version": 1
 }
