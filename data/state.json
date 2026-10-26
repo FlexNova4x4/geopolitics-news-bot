@@ -1261,9 +1261,10 @@
     "2ca639c6b0aa4e783169be7d": {
       "published_at": "2026-10-26T08:07:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10849,
       "title": "HRF calls for release of Mahrang Baloch, cites concerns over prison trial and health",
-      "updated_at": "2026-10-26T08:45:16.796854+00:00",
+      "updated_at": "2026-10-26T08:45:27.536313+00:00",
       "url": "https://www.tribuneindia.com/news/anti-terrorism-act/hrf-calls-for-release-of-mahrang-baloch-cites-concerns-over-prison-trial-and-health"
     },
     "2caa284e65eddd0f925f4ecf": {
@@ -1601,9 +1602,10 @@
     "36723c49cf4299245b1f71ea": {
       "published_at": "2026-10-26T08:11:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10850,
       "title": "Modi govt using every possible trick to protect Gyanesh Kumar: Kharge",
-      "updated_at": "2026-10-26T08:45:16.796859+00:00",
+      "updated_at": "2026-10-26T08:45:31.553162+00:00",
       "url": "https://www.thehindu.com/news/national/modi-govt-using-every-possible-trick-to-protect-gyanesh-kumar-kharge/article71626008.ece"
     },
     "37a56c5e2966e74e495c5811": {
@@ -6464,9 +6466,10 @@
     "dcc2dfd57611288a2d36b1cc": {
       "published_at": "2026-10-26T08:03:16+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10847,
       "title": "Kumaraswamy accuses DK Shivakumar of plotting ₹600-crore deal to ‘politically eliminate’ Deve Gowda family",
-      "updated_at": "2026-10-26T08:45:16.796828+00:00",
+      "updated_at": "2026-10-26T08:45:19.325320+00:00",
       "url": "https://www.hindustantimes.com/india-news/hd-accuses-shivakumar-of-rs-600-crore-plot-to-politically-eliminate-deve-gowda-family-101792995298760.html"
     },
     "dd93e08f862d9c4be4b6f5c1": {
@@ -6821,9 +6824,10 @@
     "eb64aab57592c0edcbfac440": {
       "published_at": "2026-10-26T08:06:43+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10848,
       "title": "‘Don’t let cockroaches breed’: Bengal CM Suvendu Adhikari targets CJP, urges people to stand with PM Modi",
-      "updated_at": "2026-10-26T08:45:16.796848+00:00",
+      "updated_at": "2026-10-26T08:45:23.423556+00:00",
       "url": "https://www.hindustantimes.com/india-news/dont-let-cockroaches-breed-west-bengal-cm-suvendu-adhikari-targets-cjp-tmc-mamata-banerjee-urges-people-to-stand-with-pm-modi-101793001030442.html"
     },
     "ebabd24cd98299557972ea38": {
@@ -7561,6 +7565,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:45:16.797728+00:00",
+  "last_cycle_at": "2026-10-26T08:45:34.754638+00:00",
   "schema_version": 1
 }
