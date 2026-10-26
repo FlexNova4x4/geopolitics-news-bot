@@ -2489,6 +2489,14 @@
       "updated_at": "2026-10-25T18:41:37.178993+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/universities-urged-to-embrace-continuous-learning-and-innovation-in-ai-era/article71623743.ece"
     },
+    "47795683010797579234460a": {
+      "published_at": "2026-10-26T11:25:16+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "J&K Cabinet expansion, swearing-in on October 27",
+      "updated_at": "2026-10-26T13:35:52.400815+00:00",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cabinet-expansion-swearing-in-on-october-27/article71626378.ece"
+    },
     "477c872a0b59fe25db26952d": {
       "published_at": "2026-10-24T18:52:57+00:00",
       "source": "thehindu.com",
@@ -4433,6 +4441,14 @@
       "updated_at": "2026-10-26T08:42:52.882241+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-mandi-bjp-protest-mallikarjun-kharge-remark-pm-modi-late-father-2026-10-26"
     },
+    "7f7a3ef7b0da4dcfdcb00a3f": {
+      "published_at": "2026-10-26T11:28:25+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+      "updated_at": "2026-10-26T13:35:52.400820+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss"
+    },
     "7f9b731e641233dfddd23d01": {
       "published_at": "2026-10-25T04:51:57+00:00",
       "source": "thehindu.com",
@@ -6362,6 +6378,14 @@
       "updated_at": "2026-10-25T00:49:16.383696+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss"
     },
+    "b719c53a753b77865bd29204": {
+      "published_at": "2026-10-26T11:21:38+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "As Cyclone Arnab approaches, a look at the science behind naming of cyclones",
+      "updated_at": "2026-10-26T13:35:52.400782+00:00",
+      "url": "https://www.hindustantimes.com/india-news/how-cyclones-get-their-names-global-naming-rules-and-indias-thirteen-country-naming-system-101793005016651.html"
+    },
     "b735f1df747df0f6feaf8736": {
       "published_at": "2026-10-25T08:26:33+00:00",
       "source": "thehindu.com",
@@ -7565,6 +7589,14 @@
       "title": "“We really want a change”: Israeli voters share expectations ahead of elections",
       "updated_at": "2026-10-26T08:14:05.842846+00:00",
       "url": "https://www.tribuneindia.com/news/agreements/we-really-want-a-change-israeli-voters-share-expectations-ahead-of-elections"
+    },
+    "d6871d0535130f899b48193f": {
+      "published_at": "2026-10-26T11:27:39+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "updated_at": "2026-10-26T13:35:52.400818+00:00",
+      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss"
     },
     "d6b6464e83c45dcd23827667": {
       "published_at": "2026-10-25T23:21:06+00:00",
@@ -9091,6 +9123,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:35:29.262604+00:00",
+  "last_cycle_at": "2026-10-26T13:35:52.401611+00:00",
   "schema_version": 1
 }
