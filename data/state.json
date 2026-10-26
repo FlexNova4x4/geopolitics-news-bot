@@ -2920,9 +2920,10 @@
     "6b3ec93a6313149342f125d6": {
       "published_at": "2026-10-26T07:10:26+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10798,
       "title": "नाहन के विधायक अजय सोलंकी बोले- लोकतंत्र बचाओ, वोट बचाओ अभियान के तहत एक नवंबर को दिल्ली में प्रदर्शन करेगी कांग्रेस",
-      "updated_at": "2026-10-26T07:15:25.469298+00:00",
+      "updated_at": "2026-10-26T07:15:32.035076+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-congress-democracy-save-vote-save-rally-delhi-november-1-ajay-solanki-2026-10-26"
     },
     "6bdce6883efacced3468740e": {
@@ -3835,9 +3836,10 @@
     "86af9692337edec9136cec84": {
       "published_at": "2026-10-26T07:10:13+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10797,
       "title": "सिरमौर: डॉ. राजीव बिंदल बोले- प्रधानमंत्री और उनके माता-पिता पर टिप्पणी निंदनीय, खड़गे देश से मांगें माफी",
-      "updated_at": "2026-10-26T07:15:25.469278+00:00",
+      "updated_at": "2026-10-26T07:15:28.087967+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-rajeev-bindal-demands-apology-from-mallikarjun-kharge-over-remarks-on-pm-modi-2026-10-26"
     },
     "86b9d1be50ef0725a91b1988": {
@@ -3987,9 +3989,10 @@
     "8dcf60e5e29f9e5dd6ff9da3": {
       "published_at": "2026-10-26T07:10:47+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10799,
       "title": "Una News: चिंतपूर्णी मंदिर में 25 हजार श्रद्धालुओं ने नवाया शीश",
-      "updated_at": "2026-10-26T07:15:25.469303+00:00",
+      "updated_at": "2026-10-26T07:15:36.259712+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/25000-devotees-paid-obeisance-at-the-chintpurni-temple-una-news-c-93-1-una1026-211300-2026-10-26"
     },
     "8deb19e090a515a312b756da": {
@@ -4013,9 +4016,10 @@
     "8e8a2e3db301ba421eae0b63": {
       "published_at": "2026-10-26T07:12:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10800,
       "title": "Solan News: जगतपुर में दो ट्यूबवेलों का शिलान्यास, 50 एकड़ भूमि होगी सिंचित",
-      "updated_at": "2026-10-26T07:15:25.469307+00:00",
+      "updated_at": "2026-10-26T07:15:40.367620+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/foundation-stone-laid-for-two-tubewells-in-jagatpur-50-acres-of-land-will-be-irrigated-solan-news-c-176-1-ssml1044-182760-2026-10-25"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -7120,6 +7124,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:15:25.470076+00:00",
+  "last_cycle_at": "2026-10-26T07:15:43.569118+00:00",
   "schema_version": 1
 }
