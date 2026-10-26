@@ -378,6 +378,14 @@
       "updated_at": "2026-10-25T05:36:29.098065+00:00",
       "url": "https://www.thehindu.com/news/cities/Visakhapatnam/telugu-brothers-steal-the-show-set-social-media-abuzz-with-finishing-act-against-new-zealand/article71621038.ece"
     },
+    "150c2824467b4b387706135d": {
+      "published_at": "2026-10-25T20:02:46+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "CM Sukhu bets big on high-end tourism",
+      "updated_at": "2026-10-26T00:53:24.157852+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/cm-sukhu-bets-big-on-high-end-tourism"
+    },
     "15d780e25c4f5e90739a8aa4": {
       "published_at": "2026-10-25T21:00:02+00:00",
       "source": "aljazeera.com",
@@ -2699,6 +2707,14 @@
       "updated_at": "2026-10-25T18:13:38.739284+00:00",
       "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece"
     },
+    "9954f94ee7db8817c8546444": {
+      "published_at": "2026-10-25T19:59:44+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Hamirpur (Himachal) News: सीएचसी का दर्जा मिलने के 15 साल बाद भी गलोड़ अस्पताल में सुविधाओं का टोटा",
+      "updated_at": "2026-10-26T00:53:24.157846+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/even-15-years-after-being-granted-chc-status-galod-hospital-continues-to-face-a-severe-lack-of-facilities-hamirpur-hp-news-c-94-1-hmp1005-213311-2026-10-26"
+    },
     "99bfc25711806d69e3e77bce": {
       "published_at": "2026-10-25T16:40:19+00:00",
       "source": "thehindu.com",
@@ -2937,6 +2953,14 @@
       "title": "More Lula, or back to the Bolsonaros? Brazil votes in cliffhanger",
       "updated_at": "2026-10-25T05:40:02.473715+00:00",
       "url": "https://www.thehindu.com/news/international/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger/article71622490.ece"
+    },
+    "a539fd0636c495975d382810": {
+      "published_at": "2026-10-25T19:58:42+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Hamirpur (Himachal) News: जोलसप्पड़ मेडिकल कॉलेज में कल से शुरू होंगी शैक्षणिक गतिविधियां",
+      "updated_at": "2026-10-26T00:53:24.157829+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/academic-activities-will-begin-at-jolsappad-medical-college-from-tomorrow-hamirpur-hp-news-c-94-1-hmp1004-213325-2026-10-26"
     },
     "a5b20317fcda667d50feb840": {
       "published_at": "2026-10-25T18:42:45+00:00",
@@ -3637,6 +3661,14 @@
       "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
       "updated_at": "2026-10-25T09:35:20.741597+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
+    },
+    "d3a028398a0b4752f6248020": {
+      "published_at": "2026-10-25T20:01:05+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Mandil’s Kol Dam sets sail for adventure tourism",
+      "updated_at": "2026-10-26T00:53:24.157849+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/mandils-kol-dam-sets-sail-for-adventure-tourism"
     },
     "d3d23ea5050c7b57542467b5": {
       "published_at": "2026-10-25T22:05:30+00:00",
@@ -4541,6 +4573,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:53:16.002292+00:00",
+  "last_cycle_at": "2026-10-26T00:53:24.158264+00:00",
   "schema_version": 1
 }
