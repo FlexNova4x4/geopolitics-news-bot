@@ -2225,6 +2225,14 @@
       "updated_at": "2026-10-25T16:14:36.309143+00:00",
       "url": "https://www.hindustantimes.com/india-news/up-man-holds-goat-funeral-uses-ai-generated-image-to-fake-death-in-court-101792937111994.html"
     },
+    "66e4a3b18137eacff7929089": {
+      "published_at": "2026-10-26T03:38:59+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Over 61,000 Form-7 applications filed by election officials in Karnataka, none cites reason",
+      "updated_at": "2026-10-26T03:53:12.781923+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/over-61000-form-7-applications-filed-by-election-officials-in-karnataka-none-cites-reason/article71623783.ece"
+    },
     "66f17fc2b8b886527e781167": {
       "published_at": "2026-10-25T08:20:20+00:00",
       "source": "aljazeera.com",
@@ -2269,6 +2277,14 @@
       "title": "Death toll from collision between passenger coach and minibus near Balochistan's Uthal rises to 15",
       "updated_at": "2026-10-25T04:06:13.654815+00:00",
       "url": "https://www.dawn.com/news/2039684/death-toll-from-collision-between-passenger-coach-and-minibus-near-balochistans-uthal-rises-to-15"
+    },
+    "68be5f134af11c6b01abb1d5": {
+      "published_at": "2026-10-26T03:33:44+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Hameed Latif Hospital doctor’s penalty in death case set aside",
+      "updated_at": "2026-10-26T03:53:12.781920+00:00",
+      "url": "https://www.dawn.com/news/2039817/hameed-latif-hospital-doctors-penalty-in-death-case-set-aside"
     },
     "68ff44b81e3eead272369b09": {
       "published_at": "2026-10-25T19:32:09+00:00",
@@ -2905,6 +2921,14 @@
       "title": "Amid outcry, poll body orders re-poll at three polling stations under Agra Teachers MLC seat",
       "updated_at": "2026-10-25T05:37:35.871400+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
+    },
+    "81a65c5014ffecf9069446e5": {
+      "published_at": "2026-10-26T03:40:36+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "खुशवंत सिंह लिटफेस्ट: प्रोबल दासगुप्ता बोले- ऑपरेशन ब्लू स्टार राजनीतिक विफलता, जरूरी था सैन्य हस्तक्षेप",
+      "updated_at": "2026-10-26T03:53:12.781926+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/solan/operation-blue-star-political-failure-probal-dasgupta-khushwant-singh-litfest-kasauli-2026-10-26"
     },
     "81f3c1491a3f03128e98de7b": {
       "published_at": "2026-10-25T10:29:07+00:00",
@@ -4842,6 +4866,14 @@
       "updated_at": "2026-10-25T15:10:33.886958+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
     },
+    "e1be094a719375d43c682565": {
+      "published_at": "2026-10-26T03:33:31+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israel's Eisenkot vows unity as Netanyahu paints him as soft on Iran",
+      "updated_at": "2026-10-26T03:53:12.781906+00:00",
+      "url": "https://www.thehindu.com/news/international/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran/article71625533.ece"
+    },
     "e2b8b48cdc3c18ae40503f7a": {
       "published_at": "2026-10-25T14:49:47+00:00",
       "source": "thehindu.com",
@@ -5621,6 +5653,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:53:07.394370+00:00",
+  "last_cycle_at": "2026-10-26T03:53:12.782519+00:00",
   "schema_version": 1
 }
