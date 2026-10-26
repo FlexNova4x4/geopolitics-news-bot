@@ -1396,9 +1396,10 @@
     "27b43b21b2395daa07141367": {
       "published_at": "2026-10-26T12:00:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11042,
       "title": "Award-winning director-cinematographer Chezhiyan no more",
-      "updated_at": "2026-10-26T13:38:57.286955+00:00",
+      "updated_at": "2026-10-26T13:39:11.956281+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/award-winning-director-cinematographer-chezhiyan-is-no-more/article71205403.ece"
     },
     "283c299a6757038aacd891df": {
@@ -4067,9 +4068,10 @@
     "72fc72d420f885eac465ac45": {
       "published_at": "2026-10-26T11:55:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11039,
       "title": "Israeli strikes in Gaza kill five including child: Civil Defence",
-      "updated_at": "2026-10-26T13:38:57.286934+00:00",
+      "updated_at": "2026-10-26T13:39:00.317654+00:00",
       "url": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-five-including-child-civil-defence/article71626788.ece"
     },
     "734b2f5c763f1f27e5ef7894": {
@@ -5117,9 +5119,10 @@
     "8f9d3d3aeea1e920e81f96eb": {
       "published_at": "2026-10-26T11:58:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11041,
       "title": "Father-son duo killed as old building collapses in Northeast Delhi’s Harsh Vihar",
-      "updated_at": "2026-10-26T13:38:57.286953+00:00",
+      "updated_at": "2026-10-26T13:39:08.114895+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-harsh-vihar-building-collapse-deaths-october-26-2026/article71626601.ece"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -8167,9 +8170,10 @@
     "e41379e89eed9656b09b1e1f": {
       "published_at": "2026-10-26T11:57:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11040,
       "title": "Kerala High Court stays order to register FIR against ex-CM Vijayan, kin in CMRL case",
-      "updated_at": "2026-10-26T13:38:57.286950+00:00",
+      "updated_at": "2026-10-26T13:39:04.131877+00:00",
       "url": "https://www.tribuneindia.com/news/india/kerala-high-court-stays-order-to-register-fir-against-ex-cm-vijayan-kin-in-cmrl-case"
     },
     "e45447987be3d824ed5c553c": {
@@ -9267,6 +9271,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:38:57.287795+00:00",
+  "last_cycle_at": "2026-10-26T13:39:15.157623+00:00",
   "schema_version": 1
 }
