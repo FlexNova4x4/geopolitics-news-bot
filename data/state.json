@@ -57,9 +57,10 @@
     "02afc6f4da48de06e0d013f4": {
       "published_at": "2026-10-26T06:31:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10768,
       "title": "Telangana all-party meet on drought, El Nino conditions on October 28",
-      "updated_at": "2026-10-26T06:44:02.611177+00:00",
+      "updated_at": "2026-10-26T06:44:17.580989+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-all-party-meet-on-drought-el-nino-conditions-on-october-28/article71623734.ece"
     },
     "02b08a92237d2df1fc69e714": {
@@ -964,9 +965,10 @@
     "245524df6009cf26a36e1631": {
       "published_at": "2026-10-26T06:27:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10766,
       "title": "Why did Tinder’s scam detection fail, and what should Indian users do?",
-      "updated_at": "2026-10-26T06:44:02.611170+00:00",
+      "updated_at": "2026-10-26T06:44:09.772593+00:00",
       "url": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece"
     },
     "25055fe601576605c587032b": {
@@ -1735,9 +1737,10 @@
     "42336781dfa56f9f3784a961": {
       "published_at": "2026-10-26T06:28:35+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10767,
       "title": "नाहन में पांच साल बाद भी नहीं खुले स्लाटर हाउस के ताले, बिना जांच बिक रहा मीट!",
-      "updated_at": "2026-10-26T06:44:02.611174+00:00",
+      "updated_at": "2026-10-26T06:44:13.660209+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-nahan-slaughterhouse-closure-and-meat-safety-concerns-2026-10-26"
     },
     "4248b3f7df137f42c32f604a": {
@@ -5537,9 +5540,10 @@
     "d3cc583b77ee5170216fab24": {
       "published_at": "2026-10-26T06:26:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10765,
       "title": "Six injured in Russian strikes on Ukraine’s Zaporizhzhia, Chernihiv, officials say",
-      "updated_at": "2026-10-26T06:44:02.611155+00:00",
+      "updated_at": "2026-10-26T06:44:05.579552+00:00",
       "url": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece"
     },
     "d3d23ea5050c7b57542467b5": {
@@ -6832,6 +6836,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:44:02.611912+00:00",
+  "last_cycle_at": "2026-10-26T06:44:20.782132+00:00",
   "schema_version": 1
 }
