@@ -3890,9 +3890,10 @@
     "841bf32215bb37a6d31dd069": {
       "published_at": "2026-10-26T07:55:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10840,
       "title": "KSNUAHS to hold Krishi-Thotagarike Mela in Shivamogga from October 30",
-      "updated_at": "2026-10-26T08:44:28.534667+00:00",
+      "updated_at": "2026-10-26T08:44:34.982343+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/ksnuahs-to-hold-krishi-thotagarike-mela-in-shivamogga-from-october-30/article71625956.ece"
     },
     "842f3b34c2cc681d62066084": {
@@ -4509,9 +4510,10 @@
     "9b4a0dc8fb83ea75681c64d8": {
       "published_at": "2026-10-26T07:55:47+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10839,
       "title": "As garbage piles up on Chandigarh roads, 89-year-old former IPS officer returns to clean up",
-      "updated_at": "2026-10-26T08:44:28.534651+00:00",
+      "updated_at": "2026-10-26T08:44:31.064113+00:00",
       "url": "https://www.tribuneindia.com/news/chandigarh/as-garbage-piles-up-on-chandigarh-roads-89-year-old-former-ips-officer-returns-to-clean-up"
     },
     "9b9ec05c423818f1f07a62c6": {
@@ -6096,9 +6098,10 @@
     "d3aa4059d887f3e59b4403ab": {
       "published_at": "2026-10-26T07:57:11+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10842,
       "title": "Bihu dancers assaulted during Durga Puja immersion procession in Assam's Sribhumi, 17 held",
-      "updated_at": "2026-10-26T08:44:28.534674+00:00",
+      "updated_at": "2026-10-26T08:44:42.966704+00:00",
       "url": "https://www.hindustantimes.com/india-news/bihu-dancers-assaulted-during-durga-puja-immersion-procession-in-assams-sribhumi-17-held-101793000759689.html"
     },
     "d3cc583b77ee5170216fab24": {
@@ -6525,9 +6528,10 @@
     "e1499ca12f808f7c1bfc227b": {
       "published_at": "2026-10-26T07:56:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10841,
       "title": "Extremely unfortunate: Rajnath Singh on Mallikarjun Kharge’s PM remarks",
-      "updated_at": "2026-10-26T08:44:28.534671+00:00",
+      "updated_at": "2026-10-26T08:44:39.043777+00:00",
       "url": "https://www.thehindu.com/news/national/mallikarjun-kharge-remarks-on-pm-modi-rajnath-singh-replies/article71626019.ece"
     },
     "e1be094a719375d43c682565": {
@@ -7489,6 +7493,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:44:28.535539+00:00",
+  "last_cycle_at": "2026-10-26T08:44:46.168138+00:00",
   "schema_version": 1
 }
