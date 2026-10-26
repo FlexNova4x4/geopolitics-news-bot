@@ -696,9 +696,10 @@
     "16f8643e39fad84f4f1302b5": {
       "published_at": "2026-10-26T07:33:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10829,
       "title": "How are tropical cyclones named?",
-      "updated_at": "2026-10-26T08:43:14.113723+00:00",
+      "updated_at": "2026-10-26T08:43:24.469285+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-how-are-tropical-storms-named/article71622678.ece"
     },
     "1710401f57210e87120dfb7a": {
@@ -2114,9 +2115,10 @@
     "4942028eed4b42af2503b63a": {
       "published_at": "2026-10-26T07:29:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10827,
       "title": "Flash floods inundate several areas of Thailand’s Phuket island after heavy rain",
-      "updated_at": "2026-10-26T08:43:14.113703+00:00",
+      "updated_at": "2026-10-26T08:43:16.501481+00:00",
       "url": "https://www.thehindu.com/news/international/flash-floods-inundate-several-areas-of-thailands-phuket-island-after-heavy-rain/article71625917.ece"
     },
     "4948ed7abc5784e377a9b258": {
@@ -2498,9 +2500,10 @@
     "57788e56a06dcdd4a4eb61a9": {
       "published_at": "2026-10-26T07:33:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10830,
       "title": "SC says 14 States so far agree to raise retirement age of Judicial Officers from 60 to 62 years",
-      "updated_at": "2026-10-26T08:43:14.113726+00:00",
+      "updated_at": "2026-10-26T08:43:28.436428+00:00",
       "url": "https://www.thehindu.com/news/national/sc-says-14-states-so-far-agree-to-raise-retirement-age-of-judicial-officers-from-60-to-62-years/article71625967.ece"
     },
     "58dd76d6c952bad2ddd61861": {
@@ -3878,9 +3881,10 @@
     "84c6633e5118c4479afcd61b": {
       "published_at": "2026-10-26T07:30:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10828,
       "title": "Natural gas leak from ONGC pipeline in Andhra’s Konaseema; work on to plug the leak",
-      "updated_at": "2026-10-26T08:43:14.113719+00:00",
+      "updated_at": "2026-10-26T08:43:20.476032+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/natural-gas-leak-from-ongc-pipeline-in-andhras-konaseema-work-on-to-plug-the-leak/article71625785.ece"
     },
     "85616f4dbf5ab1cf6473a90e": {
@@ -7381,6 +7385,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:43:14.114488+00:00",
+  "last_cycle_at": "2026-10-26T08:43:31.637861+00:00",
   "schema_version": 1
 }
