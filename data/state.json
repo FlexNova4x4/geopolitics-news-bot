@@ -795,9 +795,10 @@
     "16c236743dafb31d1752d2a6": {
       "published_at": "2026-10-26T00:07:16+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10995,
       "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
-      "updated_at": "2026-10-26T13:30:51.040140+00:00",
+      "updated_at": "2026-10-26T13:30:54.124252+00:00",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
     },
     "16e082522845912d7b69578b": {
@@ -892,9 +893,10 @@
     "1b5a9890f8041fe67c832803": {
       "published_at": "2026-10-26T00:40:11+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10996,
       "title": "वीडियो: नालागढ़ में भगवान बाल्मीकि जयंती पर निकली भव्य शोभा यात्रा",
-      "updated_at": "2026-10-26T13:30:51.040157+00:00",
+      "updated_at": "2026-10-26T13:30:57.967047+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-video-grand-procession-held-in-nalagarh-on-the-occasion-of-bhagwan-valmiki-jayanti-2026-10-26"
     },
     "1bddb0948a2186c4c5b46ab9": {
@@ -2247,9 +2249,10 @@
     "437845766b49af23b149dfb7": {
       "published_at": "2026-10-26T00:44:18+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10997,
       "title": "धर्मपुर: आरएसएस के 101वें स्थापना दिवस पर सरकाघाट में हुआ शस्त्र पूजन कार्यक्रम",
-      "updated_at": "2026-10-26T13:30:51.040164+00:00",
+      "updated_at": "2026-10-26T13:31:01.997055+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/mandi/video-dharampur-shastra-pujan-worship-of-weapons-ceremony-held-in-sarkaghat-on-the-101st-foundation-day-of-the-rss-2026-10-26"
     },
     "439f16a5356f109804621993": {
@@ -2945,9 +2948,10 @@
     "57355419bee7c0e3521d19e9": {
       "published_at": "2026-10-26T00:44:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10998,
       "title": "ऊना: रायपुर मैदान स्कूल में स्वयंसेवियों ने निकाली साइबर सुरक्षा जागरूकता रैली",
-      "updated_at": "2026-10-26T13:30:51.040166+00:00",
+      "updated_at": "2026-10-26T13:31:06.014115+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-una-volunteers-hold-a-cyber-security-awareness-rally-at-raipur-maidan-school-2026-10-26"
     },
     "57788e56a06dcdd4a4eb61a9": {
@@ -8871,6 +8875,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:30:51.041052+00:00",
+  "last_cycle_at": "2026-10-26T13:31:09.215425+00:00",
   "schema_version": 1
 }
