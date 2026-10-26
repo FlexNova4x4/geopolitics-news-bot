@@ -2137,9 +2137,10 @@
     "70f5656f878d13ff3dcbe081": {
       "published_at": "2026-10-25T20:41:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10536,
       "title": "Reward gap: Champions paid on time, rising stars left behind",
-      "updated_at": "2026-10-26T00:55:55.955690+00:00",
+      "updated_at": "2026-10-26T00:55:58.520256+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/reward-gap-champions-paid-on-time-rising-stars-left-behind"
     },
     "7121600e1d48934c9d4272ea": {
@@ -3398,9 +3399,10 @@
     "b97f22baf269e31a35fa0f10": {
       "published_at": "2026-10-25T20:47:12+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10538,
       "title": "Jai Ram targets Sukhu govt over schemes, development",
-      "updated_at": "2026-10-26T00:55:55.955708+00:00",
+      "updated_at": "2026-10-26T00:56:06.825554+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/jai-ram-targets-sukhu-govt-over-schemes-development"
     },
     "b9f9fa8a918318197c588c92": {
@@ -4311,9 +4313,10 @@
     "ecfc397da7e5cfd96985e4a9": {
       "published_at": "2026-10-25T20:47:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10539,
       "title": "“Stop baseless allegations, address security issues internally”: Afghanistan hits back at Pakistan, cites over 1,100 civilian casualties",
-      "updated_at": "2026-10-26T00:55:55.955711+00:00",
+      "updated_at": "2026-10-26T00:56:10.946540+00:00",
       "url": "https://www.tribuneindia.com/news/abdul-qahar-balkhi/stop-baseless-allegations-address-security-issues-internally-afghanistan-hits-back-at-pakistan-cites-over-1100-civilian-casualties"
     },
     "ee273e8d6d2effa2e3171640": {
@@ -4436,9 +4439,10 @@
     "f33aa78f7d5929e790907685": {
       "published_at": "2026-10-25T20:46:44+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10537,
       "title": "Gutkar-Mandi road to stay shut during fixed hours till Nov 21",
-      "updated_at": "2026-10-26T00:55:55.955706+00:00",
+      "updated_at": "2026-10-26T00:56:02.712090+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/gutkar-mandi-road-to-stay-shut-during-fixed-hours-till-nov-21"
     },
     "f3aaac77f2002d4d70c45943": {
@@ -4789,6 +4793,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:55:55.956237+00:00",
+  "last_cycle_at": "2026-10-26T00:56:14.147680+00:00",
   "schema_version": 1
 }
