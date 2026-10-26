@@ -3879,6 +3879,14 @@
       "updated_at": "2026-10-25T05:41:15.304821+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/panel-formed-to-probe-spurious-liquor-death-claims-in-madhya-pradeshs-dewas-report-in-15-days/article71622566.ece"
     },
+    "7f9f53fdb5a88887b8a99809": {
+      "published_at": "2026-10-26T08:37:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "As Trump endorses Netanyahu ahead of Israel poll, President Herzog says “Trump can’t intervene on his discretion”",
+      "updated_at": "2026-10-26T09:15:23.846911+00:00",
+      "url": "https://www.tribuneindia.com/news/coalition/as-trump-endorses-netanyahu-ahead-of-israel-poll-president-herzog-says-trump-cant-intervene-on-his-discretion"
+    },
     "800c3d267e92ae5c036a2b46": {
       "published_at": "2026-10-26T00:18:03+00:00",
       "source": "amarujala.com",
@@ -4003,6 +4011,14 @@
       "title": "Three-year-old dies after falling from AC vent on 17th floor flat in Ghaziabad",
       "updated_at": "2026-10-26T07:13:19.113680+00:00",
       "url": "https://www.hindustantimes.com/india-news/threeyearold-dies-after-falling-from-ac-vent-on-17th-floor-flat-in-ghaziabad-101792995377171.html"
+    },
+    "83721c0f2e0fffde82176b41": {
+      "published_at": "2026-10-26T08:40:52+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "SC/ST status is state-specific, cannot be carried across states: Orissa HC",
+      "updated_at": "2026-10-26T09:15:23.846918+00:00",
+      "url": "https://www.hindustantimes.com/india-news/scst-status-is-state-specific-cannot-be-carried-across-states-orissa-hc-101793004053179.html"
     },
     "83838995307c024e7bbcd69e": {
       "published_at": "2026-10-26T06:38:40+00:00",
@@ -4202,6 +4218,14 @@
       "updated_at": "2026-10-26T02:22:59.024623+00:00",
       "url": "https://www.thehindu.com/news/international/trump-urge-michigan-voters-to-oppose-muslim-senate-candidate-abdul-el-sayed/article71625459.ece"
     },
+    "876dbbc9f982c5b5d5fe924b": {
+      "published_at": "2026-10-26T08:38:43+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Supreme Court issues notice on plea against Chhattisgarh anti-conservation law",
+      "updated_at": "2026-10-26T09:15:23.846915+00:00",
+      "url": "https://www.hindustantimes.com/india-news/supreme-court-issues-notice-on-plea-against-chhattisgarh-anti-conservation-law-101793003923614.html"
+    },
     "87837867cfa1c31a96738fb2": {
       "published_at": "2026-10-25T17:53:31+00:00",
       "source": "hindustantimes.com",
@@ -4381,6 +4405,14 @@
       "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
       "updated_at": "2026-10-25T15:41:42.038042+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss"
+    },
+    "918a96bc1c2dc0d16109056f": {
+      "published_at": "2026-10-26T08:26:22+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Kimi Antonelli wins US Grand Prix, closes in on F1 championship",
+      "updated_at": "2026-10-26T09:15:23.846893+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss"
     },
     "91ee9952970e21fd9a42b354": {
       "published_at": "2026-10-25T06:34:06+00:00",
@@ -7826,6 +7858,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:15:17.442352+00:00",
+  "last_cycle_at": "2026-10-26T09:15:23.847752+00:00",
   "schema_version": 1
 }
