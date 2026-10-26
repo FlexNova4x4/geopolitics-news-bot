@@ -1341,9 +1341,10 @@
     "4416e1e84ee2d349095ccce6": {
       "published_at": "2026-10-25T20:49:34+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10541,
       "title": "Masked duo fires five rounds at Nalagarh scrap dealer’s gate",
-      "updated_at": "2026-10-26T00:56:20.976248+00:00",
+      "updated_at": "2026-10-26T00:56:27.362097+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/masked-duo-fires-five-rounds-at-nalagarh-scrap-dealers-gate"
     },
     "445f038d3ae1ed2abd9cd056": {
@@ -2791,9 +2792,10 @@
     "95245a9f68f7fb86369461f3": {
       "published_at": "2026-10-25T20:48:53+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10540,
       "title": "Kullu Dasehra: Where faith, folk & fellowship converge",
-      "updated_at": "2026-10-26T00:56:20.976233+00:00",
+      "updated_at": "2026-10-26T00:56:23.240977+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kullu-dasehra-where-faith-folk-fellowship-converge"
     },
     "964cfdee41a23f48c9e18345": {
@@ -3747,9 +3749,10 @@
     "cb891baa358028694977a1a4": {
       "published_at": "2026-10-25T20:51:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10542,
       "title": "Himachal: Congress likens vote protest to Quit India Movement",
-      "updated_at": "2026-10-26T00:56:20.976251+00:00",
+      "updated_at": "2026-10-26T00:56:31.473188+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-congress-likens-vote-protest-to-quit-india-movement"
     },
     "cc251f6b28448253d66ba62e": {
@@ -3997,9 +4000,10 @@
     "d9500a96a963f9be40ccb3bb": {
       "published_at": "2026-10-25T20:57:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10543,
       "title": "753 strikes launched, 218 Houthi operatives neutralised under ‘Dawn of Yemen’ offensive: Yemen Military Spokesperson",
-      "updated_at": "2026-10-26T00:56:20.976253+00:00",
+      "updated_at": "2026-10-26T00:56:35.714424+00:00",
       "url": "https://www.tribuneindia.com/news/aden/753-strikes-launched-218-houthi-operatives-neutralised-under-dawn-of-yemen-offensive-yemen-military-spokesperson"
     },
     "d99ef7cea7a042be87b4e78a": {
@@ -4825,6 +4829,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:56:20.976900+00:00",
+  "last_cycle_at": "2026-10-26T00:56:38.915531+00:00",
   "schema_version": 1
 }
