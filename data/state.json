@@ -327,9 +327,10 @@
     "102ad4eba123e65defe850f8": {
       "published_at": "2026-10-26T03:14:26+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10628,
       "title": "Lula thanks Brazil’s youth for historic election win",
-      "updated_at": "2026-10-26T03:52:25.808517+00:00",
+      "updated_at": "2026-10-26T03:52:36.497950+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss"
     },
     "1067f720ed8ddbd666d764f0": {
@@ -945,9 +946,10 @@
     "2e5ffdede6dfa8382bac1348": {
       "published_at": "2026-10-26T02:58:12+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10626,
       "title": "Poem dropped from Gujarat govt’s Diwali magazine after VHP says it hurt religious sentiments",
-      "updated_at": "2026-10-26T03:52:25.808496+00:00",
+      "updated_at": "2026-10-26T03:52:28.258424+00:00",
       "url": "https://www.tribuneindia.com/news/india/poem-dropped-from-gujarat-govts-diwali-magazine-after-vhp-says-it-hurt-religious-sentiments"
     },
     "2ea4ef0039b41c2eb90b426e": {
@@ -3784,9 +3786,10 @@
     "ae5585ff86b9908ae754f92b": {
       "published_at": "2026-10-26T03:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10629,
       "title": "Battle-lines drawn in Israel ahead of Tuesday’s vote, exit-polls show dead heat between Netanyahu-Eisenkot",
-      "updated_at": "2026-10-26T03:52:25.808520+00:00",
+      "updated_at": "2026-10-26T03:52:40.396236+00:00",
       "url": "https://www.tribuneindia.com/news/coalition-governments/battle-lines-drawn-in-israel-ahead-of-tuesdays-vote-exit-polls-show-dead-heat-between-netanyahu-eisenkot"
     },
     "af99b23d02b52cd21b36603d": {
@@ -5352,9 +5355,10 @@
     "f84b0e31931c97de3386107d": {
       "published_at": "2026-10-26T03:06:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10627,
       "title": "3 teenage girls among 4 killed as speeding car runs them over in UP’s Firozabad",
-      "updated_at": "2026-10-26T03:52:25.808514+00:00",
+      "updated_at": "2026-10-26T03:52:32.133857+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/3-teenage-girls-among-4-killed-as-speeding-car-runs-them-over-in-ups-firozabad"
     },
     "f8b134d77ef1591439ded823": {
@@ -5581,6 +5585,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:52:25.809174+00:00",
+  "last_cycle_at": "2026-10-26T03:52:43.597341+00:00",
   "schema_version": 1
 }
