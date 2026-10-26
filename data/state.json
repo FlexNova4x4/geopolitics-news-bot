@@ -773,6 +773,14 @@
       "updated_at": "2026-10-25T05:05:40.874263+00:00",
       "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas-of-sindh-punjab"
     },
+    "1c11618bd298491d4737b23e": {
+      "published_at": "2026-10-26T07:03:07+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Jordan arrests three suspects in deadly church attack",
+      "updated_at": "2026-10-26T07:45:03.738431+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss"
+    },
     "1c20f56bffe8d371252001ba": {
       "published_at": "2026-10-25T15:02:04+00:00",
       "source": "thehindu.com",
@@ -1770,6 +1778,14 @@
       "updated_at": "2026-10-26T00:58:36.309227+00:00",
       "url": "https://www.tribuneindia.com/news/illegal-migration/libya-cannot-remain-a-corridor-for-illegal-migration-trump"
     },
+    "3f1d056acac39c895af31a64": {
+      "published_at": "2026-10-26T07:03:43+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israel’s election: The main issues in the words of the leading candidates",
+      "updated_at": "2026-10-26T07:45:03.738435+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss"
+    },
     "3fcd6f10560124f915c94c5a": {
       "published_at": "2026-10-24T23:02:06+00:00",
       "source": "feeds.bbci.co.uk",
@@ -2022,6 +2038,14 @@
       "updated_at": "2026-10-25T05:36:07.338809+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/law-and-order-situation-in-tn-is-in-an-extremely-dire-state-says-palaniswami/article71620700.ece"
     },
+    "47cb7ee84070f706e546de08": {
+      "published_at": "2026-10-26T07:02:48+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "3 held in Assam over Bengaluru blast linked to murder plot, family dispute: Police",
+      "updated_at": "2026-10-26T07:45:03.738426+00:00",
+      "url": "https://www.hindustantimes.com/india-news/3-held-in-assam-over-bengaluru-blast-linked-to-murder-plot-family-dispute-police-101792998169103.html"
+    },
     "480c76a694dae601595726f9": {
       "published_at": "2026-10-25T20:17:03+00:00",
       "source": "amarujala.com",
@@ -2183,6 +2207,14 @@
       "title": "Student sets mehndi record in Karnataka",
       "updated_at": "2026-10-26T05:23:50.733611+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/student-sets-mehndi-record-in-karnataka/article71623773.ece"
+    },
+    "4d3ebfec362dd49388e80693": {
+      "published_at": "2026-10-26T07:00:53+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Supreme Court says 14 states agree to raise judicial officers’ retirement age to 62",
+      "updated_at": "2026-10-26T07:45:03.738404+00:00",
+      "url": "https://www.tribuneindia.com/news/india/supreme-court-says-14-states-agree-to-raise-judicial-officers-retirement-age-to-62"
     },
     "4e3de2377cfa722e0860eaef": {
       "published_at": "2026-10-26T06:21:32+00:00",
@@ -7169,6 +7201,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:44:57.524005+00:00",
+  "last_cycle_at": "2026-10-26T07:45:03.739295+00:00",
   "schema_version": 1
 }
