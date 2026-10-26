@@ -246,9 +246,10 @@
     "065336f41f23ca422c6d191f": {
       "published_at": "2026-10-26T12:10:52+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11047,
       "title": "Ex-DMK minister Anbil Mahesh arrested in Rs 100-crore private schools scam",
-      "updated_at": "2026-10-26T13:41:11.959081+00:00",
+      "updated_at": "2026-10-26T13:41:14.520047+00:00",
       "url": "https://www.tribuneindia.com/news/india/ex-dmk-minister-anbil-mahesh-arrested-in-rs-100-crore-private-schools-scam"
     },
     "0726b45718d40494e2b3bc8b": {
@@ -3969,9 +3970,10 @@
     "70b1da82c53588b708b8a8ed": {
       "published_at": "2026-10-26T12:17:02+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11050,
       "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-      "updated_at": "2026-10-26T13:41:11.959103+00:00",
+      "updated_at": "2026-10-26T13:41:26.073866+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss"
     },
     "70f5656f878d13ff3dcbe081": {
@@ -5504,9 +5506,10 @@
     "995e6cd601d2f85f34e88c3b": {
       "published_at": "2026-10-26T12:11:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11048,
       "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
-      "updated_at": "2026-10-26T13:41:11.959097+00:00",
+      "updated_at": "2026-10-26T13:41:18.491390+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss"
     },
     "99bfc25711806d69e3e77bce": {
@@ -6803,9 +6806,10 @@
     "bb8e7f6cf8c18bcf0abc9052": {
       "published_at": "2026-10-26T12:12:24+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11049,
       "title": "‘Misleading narrative’: Indian Army debunks claims of Chinese intrusion at Sikkim's Nathu La",
-      "updated_at": "2026-10-26T13:41:11.959100+00:00",
+      "updated_at": "2026-10-26T13:41:22.291660+00:00",
       "url": "https://www.hindustantimes.com/india-news/misleading-narrative-indian-army-debunks-claims-of-chinese-intrusion-at-sikkims-nathu-la-101793011730243.html"
     },
     "bb98a7dc91a3507590460b1d": {
@@ -9339,6 +9343,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:41:11.959839+00:00",
+  "last_cycle_at": "2026-10-26T13:41:29.275244+00:00",
   "schema_version": 1
 }
