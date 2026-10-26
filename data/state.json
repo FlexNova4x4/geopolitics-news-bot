@@ -3291,9 +3291,10 @@
     "52f0d24601bfdef5427da1b8": {
       "published_at": "2026-10-26T22:37:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11151,
       "title": "“Russia showing nothing but a desire to kill”: Zelenskyy says ballistic missiles strike Kyiv university, civilian areas",
-      "updated_at": "2026-10-26T22:46:18.272266+00:00",
+      "updated_at": "2026-10-26T22:46:24.457292+00:00",
       "url": "https://www.tribuneindia.com/news/casualties/russia-showing-nothing-but-a-desire-to-kill-zelenskyy-says-ballistic-missiles-strike-kyiv-university-civilian-areas"
     },
     "5301b48ae039cf956525cffa": {
@@ -7147,9 +7148,10 @@
     "b59aa0b1fa0f89b1d6ce9484": {
       "published_at": "2026-10-26T22:17:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11150,
       "title": "“Shows why he was a lousy president”: Trump hits back at Obama over ‘Cheesecake Factory’ jibe",
-      "updated_at": "2026-10-26T22:46:18.272243+00:00",
+      "updated_at": "2026-10-26T22:46:20.575801+00:00",
       "url": "https://www.tribuneindia.com/news/artisans/shows-why-he-was-a-lousy-president-trump-hits-back-at-obama-over-cheesecake-factory-jibe"
     },
     "b5d9266f353567a04a585657": {
@@ -10223,6 +10225,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:46:18.274051+00:00",
+  "last_cycle_at": "2026-10-26T22:46:27.660119+00:00",
   "schema_version": 1
 }
