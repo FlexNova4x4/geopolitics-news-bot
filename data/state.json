@@ -902,9 +902,10 @@
     "1d8c478034e85589cb7b6c53": {
       "published_at": "2026-10-25T21:33:10+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10898,
       "title": "कुल्लू: मुख्यमंत्री सुक्खू बोले- अस्पतालों के लिए धन की कमी नहीं बनेगी बाधा, स्वास्थ्य केंद्रों में शत-प्रतिशत पद भरे जाएंगे",
-      "updated_at": "2026-10-26T09:44:06.953122+00:00",
+      "updated_at": "2026-10-26T09:44:13.641214+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-himachal-cm-health-centres-staff-vacancies-hospitals-funding-2026-10-26"
     },
     "1de0a7d997e5e681ceda7b87": {
@@ -3504,9 +3505,10 @@
     "7273336d556c6ef3b6a36c77": {
       "published_at": "2026-10-25T21:30:26+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10897,
       "title": "कलाकेंद्र में दिखी कुल्लू की समृद्ध सांस्कृतिक विरासत, पांच दलों ने दी शानदार प्रस्तुतियां",
-      "updated_at": "2026-10-26T09:44:06.953106+00:00",
+      "updated_at": "2026-10-26T09:44:09.495089+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-kullu-dussehra-folk-dance-competition-cultural-heritage-2026-10-26"
     },
     "72809b89b6fdf542b62427cf": {
@@ -5683,9 +5685,10 @@
     "b8ade981b3e9466b497bb0ca": {
       "published_at": "2026-10-26T09:08:42+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10900,
       "title": "California’s billionaire tax faces a precarious road from rich opposition",
-      "updated_at": "2026-10-26T09:44:06.953129+00:00",
+      "updated_at": "2026-10-26T09:44:21.874503+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition?traffic_source=rss"
     },
     "b9068584957035e77af619cb": {
@@ -6814,9 +6817,10 @@
     "dc7ea4d5739b44ebbff74ae6": {
       "published_at": "2026-10-25T21:35:15+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10899,
       "title": "लवी मेले के उपलक्ष्य पर 29 अक्तूबर से रामपुर में होगी बुशहर वॉलीबॉल लीग",
-      "updated_at": "2026-10-26T09:44:06.953126+00:00",
+      "updated_at": "2026-10-26T09:44:17.718771+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-bushahr-volleyball-league-rampur-lavi-mela-october-2026-2026-10-26"
     },
     "dcc2dfd57611288a2d36b1cc": {
@@ -8011,6 +8015,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:44:06.954019+00:00",
+  "last_cycle_at": "2026-10-26T09:44:25.076023+00:00",
   "schema_version": 1
 }
