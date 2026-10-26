@@ -81,6 +81,14 @@
       "updated_at": "2026-10-25T07:35:35.893613+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece"
     },
+    "04372c1ba0c94e4a99ba4fc7": {
+      "published_at": "2026-10-26T03:07:17+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "DPM Dar, Chinese envoy review CPEC progress",
+      "updated_at": "2026-10-26T03:23:14.186987+00:00",
+      "url": "https://www.dawn.com/news/2039821/dpm-dar-chinese-envoy-review-cpec-progress"
+    },
     "045b1edb3713127216a9206b": {
       "published_at": "2026-10-25T19:59:35+00:00",
       "source": "publish.tribuneindia.com",
@@ -2476,6 +2484,14 @@
       "updated_at": "2026-10-25T16:15:46.466493+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-osmania-general-hospital-strengthens-gender-affirming-surgical-care-for-transgender-people/article71622590.ece"
     },
+    "71db2c665ed2bc4a44947583": {
+      "published_at": "2026-10-26T03:11:26+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "GB launches subsidised wheat seeds scheme",
+      "updated_at": "2026-10-26T03:23:14.186993+00:00",
+      "url": "https://www.dawn.com/news/2039820/gb-launches-subsidised-wheat-seeds-scheme"
+    },
     "720175f01aba8944a8435722": {
       "published_at": "2026-10-25T16:49:36+00:00",
       "source": "thehindu.com",
@@ -3685,6 +3701,14 @@
       "updated_at": "2026-10-25T09:34:40.262891+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss"
     },
+    "aa7eb6249b0ed4d071b5203d": {
+      "published_at": "2026-10-26T03:10:01+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "How is a leaderless group challenging the Serbian President? Explained",
+      "updated_at": "2026-10-26T03:23:14.186990+00:00",
+      "url": "https://www.thehindu.com/news/international/how-is-a-leaderless-group-challenging-the-serbian-presidentexplained/article71614470.ece"
+    },
     "aaa731da7deaa2d7e7c4bc0c": {
       "published_at": "2026-10-25T05:45:31+00:00",
       "source": "feeds.bbci.co.uk",
@@ -3755,6 +3779,14 @@
       "title": "‘Mafia’: BJP attacks Congress after Kharge’s ‘baap’ remark targeting PM Modi",
       "updated_at": "2026-10-25T16:16:04.984630+00:00",
       "url": "https://www.hindustantimes.com/india-news/mafia-gang-bjp-attacks-congress-after-kharge-s-baap-remark-targeting-pm-modi-bihar-patna-101792941758920.html"
+    },
+    "b0d15dda01181ae38b43e3a1": {
+      "published_at": "2026-10-26T03:07:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Will request annulment of elections”: Brazil’s far- right candidate Flávio Bolsonaro refuses to concede after loss",
+      "updated_at": "2026-10-26T03:23:14.186971+00:00",
+      "url": "https://www.tribuneindia.com/news/annulment-request/will-request-annulment-of-elections-brazils-far-right-candidate-flavio-bolsonaro-refuses-to-concede-after-loss"
     },
     "b12fd39c40a774e040902837": {
       "published_at": "2026-10-26T01:17:14+00:00",
@@ -5504,6 +5536,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:23:08.219359+00:00",
+  "last_cycle_at": "2026-10-26T03:23:14.187484+00:00",
   "schema_version": 1
 }
