@@ -2492,9 +2492,10 @@
     "47795683010797579234460a": {
       "published_at": "2026-10-26T11:25:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11024,
       "title": "J&K Cabinet expansion, swearing-in on October 27",
-      "updated_at": "2026-10-26T13:35:52.400815+00:00",
+      "updated_at": "2026-10-26T13:35:58.911890+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cabinet-expansion-swearing-in-on-october-27/article71626378.ece"
     },
     "477c872a0b59fe25db26952d": {
@@ -4444,9 +4445,10 @@
     "7f7a3ef7b0da4dcfdcb00a3f": {
       "published_at": "2026-10-26T11:28:25+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11026,
       "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
-      "updated_at": "2026-10-26T13:35:52.400820+00:00",
+      "updated_at": "2026-10-26T13:36:06.555068+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss"
     },
     "7f9b731e641233dfddd23d01": {
@@ -6381,9 +6383,10 @@
     "b719c53a753b77865bd29204": {
       "published_at": "2026-10-26T11:21:38+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11023,
       "title": "As Cyclone Arnab approaches, a look at the science behind naming of cyclones",
-      "updated_at": "2026-10-26T13:35:52.400782+00:00",
+      "updated_at": "2026-10-26T13:35:55.111365+00:00",
       "url": "https://www.hindustantimes.com/india-news/how-cyclones-get-their-names-global-naming-rules-and-indias-thirteen-country-naming-system-101793005016651.html"
     },
     "b735f1df747df0f6feaf8736": {
@@ -7593,9 +7596,10 @@
     "d6871d0535130f899b48193f": {
       "published_at": "2026-10-26T11:27:39+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11025,
       "title": "Stunning photos capture October's Hunter's Moon around the world",
-      "updated_at": "2026-10-26T13:35:52.400818+00:00",
+      "updated_at": "2026-10-26T13:36:02.728380+00:00",
       "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss"
     },
     "d6b6464e83c45dcd23827667": {
@@ -9123,6 +9127,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:35:52.401611+00:00",
+  "last_cycle_at": "2026-10-26T13:36:09.756391+00:00",
   "schema_version": 1
 }
