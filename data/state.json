@@ -792,6 +792,14 @@
       "updated_at": "2026-10-26T02:53:57.276771+00:00",
       "url": "https://www.dawn.com/news/2039912/pti-rejects-reports-of-shake-up-in-partys-decision-making-structure"
     },
+    "16c236743dafb31d1752d2a6": {
+      "published_at": "2026-10-26T00:07:16+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "updated_at": "2026-10-26T13:30:51.040140+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
+    },
     "16e082522845912d7b69578b": {
       "published_at": "2026-10-26T03:59:57+00:00",
       "source": "dawn.com",
@@ -880,6 +888,14 @@
       "title": "The missing ‘reuse’ principle in India’s EV journey",
       "updated_at": "2026-10-25T18:13:14.940302+00:00",
       "url": "https://www.thehindu.com/news/national/the-missing-reuse-principle-in-indias-ev-journey/article71333751.ece"
+    },
+    "1b5a9890f8041fe67c832803": {
+      "published_at": "2026-10-26T00:40:11+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "वीडियो: नालागढ़ में भगवान बाल्मीकि जयंती पर निकली भव्य शोभा यात्रा",
+      "updated_at": "2026-10-26T13:30:51.040157+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-video-grand-procession-held-in-nalagarh-on-the-occasion-of-bhagwan-valmiki-jayanti-2026-10-26"
     },
     "1bddb0948a2186c4c5b46ab9": {
       "published_at": "2026-10-25T04:30:24+00:00",
@@ -2228,6 +2244,14 @@
       "updated_at": "2026-10-25T18:13:11.022133+00:00",
       "url": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece"
     },
+    "437845766b49af23b149dfb7": {
+      "published_at": "2026-10-26T00:44:18+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "धर्मपुर: आरएसएस के 101वें स्थापना दिवस पर सरकाघाट में हुआ शस्त्र पूजन कार्यक्रम",
+      "updated_at": "2026-10-26T13:30:51.040164+00:00",
+      "url": "https://www.amarujala.com/video-shots/himachal-pradesh/mandi/video-dharampur-shastra-pujan-worship-of-weapons-ceremony-held-in-sarkaghat-on-the-101st-foundation-day-of-the-rss-2026-10-26"
+    },
     "439f16a5356f109804621993": {
       "published_at": "2026-10-25T20:01:00+00:00",
       "source": "aljazeera.com",
@@ -2917,6 +2941,14 @@
       "title": "BJP leader Hartal Halappa urges Karnataka Govt to ensure at least seven-hour power supply to agri pump sets during day time",
       "updated_at": "2026-10-25T10:34:49.491037+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bjp-leader-hartal-halappa-urges-karnataka-govt-to-ensure-at-least-seven-hour-power-supply-to-agri-pump-sets-during-day-time/article71622920.ece"
+    },
+    "57355419bee7c0e3521d19e9": {
+      "published_at": "2026-10-26T00:44:51+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "ऊना: रायपुर मैदान स्कूल में स्वयंसेवियों ने निकाली साइबर सुरक्षा जागरूकता रैली",
+      "updated_at": "2026-10-26T13:30:51.040166+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-una-volunteers-hold-a-cyber-security-awareness-rally-at-raipur-maidan-school-2026-10-26"
     },
     "57788e56a06dcdd4a4eb61a9": {
       "published_at": "2026-10-26T07:33:37+00:00",
@@ -8839,6 +8871,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:02:14.019329+00:00",
+  "last_cycle_at": "2026-10-26T13:30:51.041052+00:00",
   "schema_version": 1
 }
