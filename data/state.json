@@ -4183,9 +4183,10 @@
     "aa47eade2126e1bfd3596dde": {
       "published_at": "2026-10-26T05:15:53+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10708,
       "title": "Heavy penalties, fees for illegal housing schemes recommended in Lahore Division Master Plan-2050",
-      "updated_at": "2026-10-26T05:24:29.689313+00:00",
+      "updated_at": "2026-10-26T05:24:32.432286+00:00",
       "url": "https://www.dawn.com/news/2039793/heavy-penalties-fees-for-illegal-housing-schemes-recommended-in-lahore-division-master-plan-2050"
     },
     "aa7eb6249b0ed4d071b5203d": {
@@ -4469,9 +4470,10 @@
     "b9068584957035e77af619cb": {
       "published_at": "2026-10-26T05:16:17+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10709,
       "title": "Experts call for preventive measures as dengue cases continue to rise in KP",
-      "updated_at": "2026-10-26T05:24:29.689332+00:00",
+      "updated_at": "2026-10-26T05:24:36.622534+00:00",
       "url": "https://www.dawn.com/news/2039776/experts-call-for-preventive-measures-as-dengue-cases-continue-to-rise-in-kp"
     },
     "b96dc3dff51789390e24457a": {
@@ -4728,9 +4730,10 @@
     "c3005249b4364682c313af9c": {
       "published_at": "2026-10-26T05:18:25+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10710,
       "title": "Constable, accomplices booked for killing woman in Bahawalpur",
-      "updated_at": "2026-10-26T05:24:29.689335+00:00",
+      "updated_at": "2026-10-26T05:24:40.880058+00:00",
       "url": "https://www.dawn.com/news/2039782/constable-accomplices-booked-for-killing-woman-in-bahawalpur"
     },
     "c32f2aaa9d0a06775cda28f4": {
@@ -4898,9 +4901,10 @@
     "c8d412277bdfa6974e671373": {
       "published_at": "2026-10-26T05:22:08+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10711,
       "title": "कुल्लू दशहरा: रूढ़ियां तोड़ देव परंपराओं की कमान संभाल रहीं महिलाएं, कारदार बनकर पूजा पाठ; जानें विस्तार से",
-      "updated_at": "2026-10-26T05:24:29.689339+00:00",
+      "updated_at": "2026-10-26T05:24:45.116227+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/women-breaking-barriers-in-kullu-dev-traditions-2026-10-26"
     },
     "c94066e09036726fec15eff8": {
@@ -6319,6 +6323,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:24:29.689887+00:00",
+  "last_cycle_at": "2026-10-26T05:24:48.317498+00:00",
   "schema_version": 1
 }
