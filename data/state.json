@@ -739,9 +739,10 @@
     "28f4d5ce10b7e41338d524c0": {
       "published_at": "2026-10-25T20:12:11+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10526,
       "title": "Hamirpur (Himachal) News: शोभायात्रा के साथ लग-कड़ियार मेले का आगाज, 25 नवंबर तक चलेगा आयोजन",
-      "updated_at": "2026-10-26T00:54:39.851677+00:00",
+      "updated_at": "2026-10-26T00:54:50.249374+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/lag-kadiyar-fair-begins-with-a-ceremonial-procession-the-event-will-continue-until-november-25-hamirpur-hp-news-c-94-1-hmp1005-213335-2026-10-26"
     },
     "2ac5d225560f70aa9efb31de": {
@@ -1115,9 +1116,10 @@
     "3a6f7394cd03feec89c3eeed": {
       "published_at": "2026-10-25T20:12:06+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10524,
       "title": "Six decades later, Palampur varsity alumni return home",
-      "updated_at": "2026-10-26T00:54:39.851657+00:00",
+      "updated_at": "2026-10-26T00:54:42.114005+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/six-decades-later-palampur-varsity-alumni-return-home"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -1249,9 +1251,10 @@
     "419d9f2013ec3a322daa40d7": {
       "published_at": "2026-10-25T20:15:04+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10527,
       "title": "Refresher courses for field vets conclude at Palampur agri varsity",
-      "updated_at": "2026-10-26T00:54:39.851679+00:00",
+      "updated_at": "2026-10-26T00:54:54.303505+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/refresher-courses-for-field-vets-conclude-at-palampur-agri-varsity"
     },
     "4248b3f7df137f42c32f604a": {
@@ -4648,9 +4651,10 @@
     "feb4fab05e9d417b59cfb95e": {
       "published_at": "2026-10-25T20:12:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10525,
       "title": "Govt spent Rs 1K cr on modernising six medical colleges: Shahpur MLA",
-      "updated_at": "2026-10-26T00:54:39.851673+00:00",
+      "updated_at": "2026-10-26T00:54:46.177071+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/govt-spent-rs-1k-cr-on-modernising-six-medical-colleges-shahpur-mla"
     },
     "ff00da6ff48d059a4de4b5a6": {
@@ -4681,6 +4685,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:54:39.852289+00:00",
+  "last_cycle_at": "2026-10-26T00:54:57.504316+00:00",
   "schema_version": 1
 }
