@@ -1836,9 +1836,10 @@
     "429851fff4057a296a2ca518": {
       "published_at": "2026-10-26T06:58:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10794,
       "title": "Sugar factories too have grievances, says Karnataka PWD Minister Satish Jarkiholi",
-      "updated_at": "2026-10-26T07:14:56.509943+00:00",
+      "updated_at": "2026-10-26T07:15:03.106393+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/sugar-factories-too-have-grievances-says-karnataka-pwd-minister-satish-jarkiholi/article71625786.ece"
     },
     "42f5f151d5cde4369775590a": {
@@ -2186,9 +2187,10 @@
     "4f32507c29205cded65b604b": {
       "published_at": "2026-10-26T06:58:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10793,
       "title": "Odisha bans fishing, tourist entry in 6 districts amid cyclone alert",
-      "updated_at": "2026-10-26T07:14:56.509929+00:00",
+      "updated_at": "2026-10-26T07:14:59.137409+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/odisha-tightens-cyclone-precautions-bans-sea-fishing-and-tourist-entry/article71625863.ece"
     },
     "4f371849fb9efa7fc2fcfcc8": {
@@ -4460,9 +4462,10 @@
     "a30c5ace461e48bb862b9b74": {
       "published_at": "2026-10-26T07:02:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10795,
       "title": "Cyclone Arnab threatens Andhra’s municipal polls; SEC hopes to hold them on schedule",
-      "updated_at": "2026-10-26T07:14:56.509947+00:00",
+      "updated_at": "2026-10-26T07:15:07.012789+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threatens-andhras-municipal-polls-sec-hopes-to-hold-them-on-schedule/article71625736.ece"
     },
     "a3df215727480bf342cc847b": {
@@ -5699,9 +5702,10 @@
     "d22ba67e20915ffa85534711": {
       "published_at": "2026-10-26T07:04:55+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10796,
       "title": "मंडी: दीपक शर्मा बोले- महर्षि वाल्मीकि के आदर्शों को जीवन में उतारें",
-      "updated_at": "2026-10-26T07:14:56.509950+00:00",
+      "updated_at": "2026-10-26T07:15:10.924556+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/mandi/video-maharishi-valmiki-jayanti-celebrations-in-mandi-2026-10-26"
     },
     "d293915be054fcbc4e578f87": {
@@ -7084,6 +7088,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:14:56.510872+00:00",
+  "last_cycle_at": "2026-10-26T07:15:14.125936+00:00",
   "schema_version": 1
 }
