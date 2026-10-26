@@ -84,9 +84,10 @@
     "04372c1ba0c94e4a99ba4fc7": {
       "published_at": "2026-10-26T03:07:17+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10622,
       "title": "DPM Dar, Chinese envoy review CPEC progress",
-      "updated_at": "2026-10-26T03:23:14.186987+00:00",
+      "updated_at": "2026-10-26T03:23:21.265693+00:00",
       "url": "https://www.dawn.com/news/2039821/dpm-dar-chinese-envoy-review-cpec-progress"
     },
     "045b1edb3713127216a9206b": {
@@ -2487,9 +2488,10 @@
     "71db2c665ed2bc4a44947583": {
       "published_at": "2026-10-26T03:11:26+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10624,
       "title": "GB launches subsidised wheat seeds scheme",
-      "updated_at": "2026-10-26T03:23:14.186993+00:00",
+      "updated_at": "2026-10-26T03:23:29.266876+00:00",
       "url": "https://www.dawn.com/news/2039820/gb-launches-subsidised-wheat-seeds-scheme"
     },
     "720175f01aba8944a8435722": {
@@ -3704,9 +3706,10 @@
     "aa7eb6249b0ed4d071b5203d": {
       "published_at": "2026-10-26T03:10:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10623,
       "title": "How is a leaderless group challenging the Serbian President? Explained",
-      "updated_at": "2026-10-26T03:23:14.186990+00:00",
+      "updated_at": "2026-10-26T03:23:25.339833+00:00",
       "url": "https://www.thehindu.com/news/international/how-is-a-leaderless-group-challenging-the-serbian-presidentexplained/article71614470.ece"
     },
     "aaa731da7deaa2d7e7c4bc0c": {
@@ -3783,9 +3786,10 @@
     "b0d15dda01181ae38b43e3a1": {
       "published_at": "2026-10-26T03:07:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10621,
       "title": "“Will request annulment of elections”: Brazil’s far- right candidate Flávio Bolsonaro refuses to concede after loss",
-      "updated_at": "2026-10-26T03:23:14.186971+00:00",
+      "updated_at": "2026-10-26T03:23:17.181238+00:00",
       "url": "https://www.tribuneindia.com/news/annulment-request/will-request-annulment-of-elections-brazils-far-right-candidate-flavio-bolsonaro-refuses-to-concede-after-loss"
     },
     "b12fd39c40a774e040902837": {
@@ -5536,6 +5540,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:23:14.187484+00:00",
+  "last_cycle_at": "2026-10-26T03:23:32.467993+00:00",
   "schema_version": 1
 }
