@@ -2283,6 +2283,14 @@
       "updated_at": "2026-10-24T23:59:28.971835+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
     },
+    "4a2be56f04022c2be4135f05": {
+      "published_at": "2026-10-26T08:35:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Why has actor Naseeruddin Shah come out in support of SRFTI student protests",
+      "updated_at": "2026-10-26T08:47:38.378481+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/why-has-actor-naseeruddin-shah-come-out-in-support-of-srfti-student-protests/article71625946.ece"
+    },
     "4ae7702a22d3612dfcd0dec6": {
       "published_at": "2026-10-24T22:58:43+00:00",
       "source": "feeds.bbci.co.uk",
@@ -7745,6 +7753,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:47:35.083300+00:00",
+  "last_cycle_at": "2026-10-26T08:47:38.379494+00:00",
   "schema_version": 1
 }
