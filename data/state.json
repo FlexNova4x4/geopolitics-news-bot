@@ -297,6 +297,14 @@
       "updated_at": "2026-10-25T16:14:41.559825+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/no-need-to-fear-losing-power-by-visiting-chamarajanagar-shivakumar/article71623094.ece"
     },
+    "07985be7c5310d05b37e0964": {
+      "published_at": "2026-10-26T20:46:01+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Palestinian children crawl under Israeli military gates to get to school",
+      "updated_at": "2026-10-26T22:44:49.721132+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss"
+    },
     "07fcc5f0728e832c037b5e56": {
       "published_at": "2026-10-26T04:46:40+00:00",
       "source": "amarujala.com",
@@ -3834,6 +3842,14 @@
       "updated_at": "2026-10-26T00:57:15.485064+00:00",
       "url": "https://www.tribuneindia.com/news/canada/canada-taking-advantage-of-us-but-getting-close-to-deal-trump"
     },
+    "64da0ce7f6f5abd15d6a3b90": {
+      "published_at": "2026-10-26T20:52:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "US Secretary of State Marco Rubio to host G20 Foreign Ministers’ Meeting in Atlanta",
+      "updated_at": "2026-10-26T22:44:49.721143+00:00",
+      "url": "https://www.tribuneindia.com/news/atlanta-summit/us-secretary-of-state-marco-rubio-to-host-g20-foreign-ministers-meeting-in-atlanta"
+    },
     "64ebafba5677c6b62505986d": {
       "published_at": "2026-10-26T08:18:22+00:00",
       "source": "feeds.bbci.co.uk",
@@ -5322,6 +5338,14 @@
       "title": "6 arrested, over 1,400 bank accounts frozen in Manipur, Mizoram as ED busts cross-border ‘narco-hawala’ scam",
       "updated_at": "2026-10-25T18:14:30.914232+00:00",
       "url": "https://www.hindustantimes.com/india-news/6-arrested-over-1-400-bank-accounts-seized-in-manipur-mizoram-as-ed-busts-cross-border-narco-hawala-scam-101792949971320.html"
+    },
+    "87d9cbfe6869605c8d6d099e": {
+      "published_at": "2026-10-26T20:41:33+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Huge explosion at a weapons depot in Syria",
+      "updated_at": "2026-10-26T22:44:49.721103+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss"
     },
     "87f1159db38ace6f21ed58ce": {
       "published_at": "2026-10-26T05:52:15+00:00",
@@ -7873,6 +7897,14 @@
       "updated_at": "2026-10-26T08:47:23.907187+00:00",
       "url": "https://www.tribuneindia.com/news/cnn-report/us-forces-ready-for-major-strikes-on-iran-within-96-hours-of-trumps-order-report"
     },
+    "c8b719d00532565700a74404": {
+      "published_at": "2026-10-26T20:47:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Looks so corrupt, terrible”: Trump says Brazil elections were “rigged”",
+      "updated_at": "2026-10-26T22:44:49.721138+00:00",
+      "url": "https://www.tribuneindia.com/news/bolsonaro/looks-so-corrupt-terrible-trump-says-brazil-elections-were-rigged"
+    },
     "c8c0cab2bafd8dbcb18d9bd6": {
       "published_at": "2026-10-26T07:40:57+00:00",
       "source": "feeds.bbci.co.uk",
@@ -10063,6 +10095,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:44:44.212523+00:00",
+  "last_cycle_at": "2026-10-26T22:44:49.722745+00:00",
   "schema_version": 1
 }
