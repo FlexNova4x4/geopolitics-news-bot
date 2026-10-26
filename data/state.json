@@ -782,6 +782,14 @@
       "updated_at": "2026-10-25T16:14:04.187977+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/bie-says-3241-junior-colleges-granted-admission-permissions-across-telangana/article71623819.ece"
     },
+    "23a987613483f2977238f45c": {
+      "published_at": "2026-10-26T03:52:28+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "रोहनप्रीत, रमेश ठाकुर और अनुज शर्मा के नाम रही कुल्लू दशहरा की पांचवीं सांस्कृतिक संध्या",
+      "updated_at": "2026-10-26T04:22:50.045196+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-kullu-dussehra-fifth-cultural-evening-rohanpreet-singh-ramesh-thakur-anuj-sharma-2026-10-26"
+    },
     "25055fe601576605c587032b": {
       "published_at": "2026-10-25T15:48:52+00:00",
       "source": "thehindu.com",
@@ -4753,6 +4761,14 @@
       "updated_at": "2026-10-25T16:13:53.576765+00:00",
       "url": "https://www.hindustantimes.com/india-news/president-droupadi-murmu-gives-assent-to-frontier-nagaland-territorial-authority-bill-101792939051918.html"
     },
+    "d94d22f07e4c58b7f5e4b935": {
+      "published_at": "2026-10-26T03:50:12+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "World reacts to Lula’s victory in Brazilian presidential race",
+      "updated_at": "2026-10-26T04:22:50.045182+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss"
+    },
     "d9500a96a963f9be40ccb3bb": {
       "published_at": "2026-10-25T20:57:17+00:00",
       "source": "publish.tribuneindia.com",
@@ -4922,6 +4938,14 @@
       "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
       "updated_at": "2026-10-25T15:10:33.886958+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
+    },
+    "e127edf653344941d2b9c0e0": {
+      "published_at": "2026-10-26T03:54:30+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "JUI-F vows to keep fighting for constitutional supremacy in Balochistan",
+      "updated_at": "2026-10-26T04:22:50.045203+00:00",
+      "url": "https://www.dawn.com/news/2039812/jui-f-vows-to-keep-fighting-for-constitutional-supremacy-in-balochistan"
     },
     "e1be094a719375d43c682565": {
       "published_at": "2026-10-26T03:33:31+00:00",
@@ -5345,6 +5369,14 @@
       "updated_at": "2026-10-25T12:05:05.165158+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-eu-race-to-finalise-fta-before-december-deadline-to-coincide-with-pm-modis-brussels-visit-101792926809767.html"
     },
+    "f40a1e6df005dacf8ebc7bd3": {
+      "published_at": "2026-10-26T03:52:39+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Bihar BJP worker files police complaint over Kharge’s ‘baap’ remark targeting Modi",
+      "updated_at": "2026-10-26T04:22:50.045199+00:00",
+      "url": "https://www.tribuneindia.com/news/india/bihar-bjp-worker-files-police-complaint-over-kharges-baap-remark-targeting-modi"
+    },
     "f41bb9d90381ef81b56f0ae5": {
       "published_at": "2026-10-25T08:00:33+00:00",
       "source": "hindustantimes.com",
@@ -5729,6 +5761,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:22:44.510987+00:00",
+  "last_cycle_at": "2026-10-26T04:22:50.045737+00:00",
   "schema_version": 1
 }
