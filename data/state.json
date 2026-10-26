@@ -498,9 +498,10 @@
     "0c20be2279a6ab1b50124ae9": {
       "published_at": "2026-10-26T22:12:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11149,
       "title": "“Done a very good job under trying conditions”: Trump praises Netanyahu ahead of Israel polls",
-      "updated_at": "2026-10-26T22:45:56.765357+00:00",
+      "updated_at": "2026-10-26T22:46:10.252369+00:00",
       "url": "https://www.tribuneindia.com/news/israel-polls/done-a-very-good-job-under-trying-conditions-trump-praises-netanyahu-ahead-of-israel-polls"
     },
     "0c25c04b6836571de8f071be": {
@@ -2383,9 +2384,10 @@
     "3dfab80cf45ad6d664286394": {
       "published_at": "2026-10-26T22:03:26+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11148,
       "title": "Former FBI director James Comey hit with third set of charges under Trump",
-      "updated_at": "2026-10-26T22:45:56.765353+00:00",
+      "updated_at": "2026-10-26T22:46:06.528745+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
     },
     "3dffe51f1ddf400c4d909578": {
@@ -2868,9 +2870,10 @@
     "485cadb53c686afce73731c2": {
       "published_at": "2026-10-26T21:33:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11146,
       "title": "Bihar MLC polls: RJD MP Sanjay Yadav writes to ECI to ensure transparent counting",
-      "updated_at": "2026-10-26T22:45:56.765325+00:00",
+      "updated_at": "2026-10-26T22:45:59.008253+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-rjd-mp-sanjay-yadav-writes-to-eci-to-ensure-transparent-counting/article71626827.ece"
     },
     "4895796a9ca1376d31bc4eef": {
@@ -3182,9 +3185,10 @@
     "50c03be605f659669387e11d": {
       "published_at": "2026-10-26T21:42:18+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11147,
       "title": "Africa food security under threat due to Iran war, trade officials warn",
-      "updated_at": "2026-10-26T22:45:56.765348+00:00",
+      "updated_at": "2026-10-26T22:46:02.800784+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss"
     },
     "50e8b437a0da7b37fa12c354": {
@@ -10203,6 +10207,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:45:56.767003+00:00",
+  "last_cycle_at": "2026-10-26T22:46:13.455054+00:00",
   "schema_version": 1
 }
