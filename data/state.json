@@ -3574,9 +3574,10 @@
     "6ca5c47e2408d23d77611e92": {
       "published_at": "2026-10-26T00:16:35+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10991,
       "title": "मंडी: छोटी काशी में हर्षोल्लास से मनाई गई वाल्मीकि जयंती, विधायक ने निभाई झंडा रस्म",
-      "updated_at": "2026-10-26T13:01:55.206918+00:00",
+      "updated_at": "2026-10-26T13:01:58.814769+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-mandi-valmiki-jayanti-celebrated-with-great-enthusiasm-in-chhoti-kashi-mla-performs-the-flag-hoisting-ritual-2026-10-26"
     },
     "6cc7074c10d1959987cf1fa0": {
@@ -4228,9 +4229,10 @@
     "7ce96821d833389325c7eb85": {
       "published_at": "2026-10-26T00:19:46+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10992,
       "title": "वीडियो: छुट्टी के दिन चिंतपूर्णी मंदिर में उमड़े श्रद्धालु, भीड़ को नियंत्रित करने के लिए सुरक्षा कर्मियों ने संभाला मोर्चा",
-      "updated_at": "2026-10-26T13:01:55.206936+00:00",
+      "updated_at": "2026-10-26T13:02:02.788268+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-devotees-thronged-the-chintpurni-temple-on-a-holiday-2026-10-26"
     },
     "7ece01532c3fa5d6f81bb9b9": {
@@ -5323,9 +5325,10 @@
     "9d439b7edddd30a3d9892d7f": {
       "published_at": "2026-10-26T00:27:36+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10994,
       "title": "हमीरपुर: आशीष शर्मा पीएम पर टिप्पणी अस्वीकार्य, माफी मांगे कांग्रेस नेता",
-      "updated_at": "2026-10-26T13:01:55.206941+00:00",
+      "updated_at": "2026-10-26T13:02:10.818064+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-ashish-sharma-says-remarks-about-the-pm-are-unacceptable-demands-an-apology-from-the-congress-leader-2026-10-26"
     },
     "9d88192a0527d290d8a1c75e": {
@@ -6631,9 +6634,10 @@
     "c2038ce3804e3dbe20b1c183": {
       "published_at": "2026-10-26T00:27:31+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10993,
       "title": "अंब में महिला सशक्तीकरण और संस्कृति के संगम के साथ हुआ नारी सम्मान समारोह",
-      "updated_at": "2026-10-26T13:01:55.206938+00:00",
+      "updated_at": "2026-10-26T13:02:06.818107+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-video-nari-samman-samaroh-womens-honour-ceremony-held-in-amb-featuring-a-blend-of-womens-empowerment-and-culture-2026-10-26"
     },
     "c20fac908d587d46f5a62510": {
@@ -8835,6 +8839,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:01:55.207650+00:00",
+  "last_cycle_at": "2026-10-26T13:02:14.019329+00:00",
   "schema_version": 1
 }
