@@ -207,6 +207,14 @@
       "updated_at": "2026-10-25T07:34:53.275855+00:00",
       "url": "https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece"
     },
+    "091e50dcca9cc58a1e451e7d": {
+      "published_at": "2026-10-25T18:47:33+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Karnataka CM DK Shivakumar warns firms of action if Kannadigas sidelined in recruitment",
+      "updated_at": "2026-10-26T01:52:25.514065+00:00",
+      "url": "https://www.hindustantimes.com/india-news/karnataka-cm-dk-shivakumar-warns-firms-of-action-if-kannadigas-sidelined-in-recruitment-101792954053564.html"
+    },
     "092436db22ca165e0b175cbc": {
       "published_at": "2026-10-25T16:20:26+00:00",
       "source": "thehindu.com",
@@ -359,6 +367,14 @@
       "title": "Fresh clashes rock France as protesters march on",
       "updated_at": "2026-10-25T05:39:24.078330+00:00",
       "url": "https://www.thehindu.com/news/international/fresh-clashes-rock-france-as-protesters-march-on/article71622465.ece"
+    },
+    "122f4b44375621db7d5c1989": {
+      "published_at": "2026-10-25T20:31:41+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "One killed as off-road vehicle plunges into gorge at Kakkadampoyil in Keralam’s Kozhikode",
+      "updated_at": "2026-10-26T01:52:25.514086+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/one-killed-as-off-road-vehicle-plunges-into-gorge-at-kakkadampoyil-in-keralams-kozhikode/article71624454.ece"
     },
     "1345b01f873e9ed42872cf90": {
       "published_at": "2026-10-25T22:20:02+00:00",
@@ -1571,6 +1587,14 @@
       "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
       "updated_at": "2026-10-25T06:34:24.747375+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss"
+    },
+    "4b5a27ebd37155019263f676": {
+      "published_at": "2026-10-25T19:50:28+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Election Commission orders statewide scrutiny of Uttar Pradesh voter list entries, deletions post-SIR",
+      "updated_at": "2026-10-26T01:52:25.514081+00:00",
+      "url": "https://www.hindustantimes.com/india-news/election-commission-orders-statewide-scrutiny-of-uttar-pradesh-voter-list-entries-deletions-post-sir-101792957829316.html"
     },
     "4c4507b441e36f8a51901405": {
       "published_at": "2026-10-25T15:47:02+00:00",
@@ -4025,6 +4049,14 @@
       "updated_at": "2026-10-25T15:15:15.014913+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
     },
+    "ce0241c076847a73f676e590": {
+      "published_at": "2026-10-25T19:56:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "MVD mulls app for dynamic bus-scheduling to prevent reckless driving in Greater Kochi",
+      "updated_at": "2026-10-26T01:52:25.514084+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/mvd-mulls-app-for-dynamic-bus-scheduling-to-prevent-reckless-driving-in-greater-kochi/article71593219.ece"
+    },
     "ce6e9e29c1f44014c788c4b6": {
       "published_at": "2026-10-25T15:45:49+00:00",
       "source": "hindustantimes.com",
@@ -5144,6 +5176,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:23:49.260552+00:00",
+  "last_cycle_at": "2026-10-26T01:52:25.514557+00:00",
   "schema_version": 1
 }
