@@ -633,9 +633,10 @@
     "10d753aa8708ee944b30aa43": {
       "published_at": "2026-10-26T12:57:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11072,
       "title": "One nation, one papad: The pursuit of food uniformity threatens India’s peace and progress",
-      "updated_at": "2026-10-26T13:46:16.988325+00:00",
+      "updated_at": "2026-10-26T13:46:23.440330+00:00",
       "url": "https://www.thehindu.com/news/national/one-nation-one-papad-the-pursuit-of-food-uniformity-threatens-indias-peace-and-progress/article71626782.ece"
     },
     "10d910d36071580bc6cff249": {
@@ -3861,9 +3862,10 @@
     "6bc851e3443abd39e8b18177": {
       "published_at": "2026-10-26T12:58:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11073,
       "title": "Maharashtra wildlife board approves sanctuary status for two forest areas, 14 conservation reserves",
-      "updated_at": "2026-10-26T13:46:16.988328+00:00",
+      "updated_at": "2026-10-26T13:46:27.225444+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-wildlife-board-approves-sanctuary-status-for-two-forest-areas-14-conservation-reserves/article71627043.ece"
     },
     "6bdce6883efacced3468740e": {
@@ -4362,9 +4364,10 @@
     "77294550dedc86b9512e331b": {
       "published_at": "2026-10-26T13:00:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11074,
       "title": "Industrial Expo-2026 and vendor development meet in Shivamogga",
-      "updated_at": "2026-10-26T13:46:16.988333+00:00",
+      "updated_at": "2026-10-26T13:46:31.030362+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/industrial-expo-and-vendor-development-meet-in-shivamogga/article71626559.ece"
     },
     "774e9fc1f4419ee269fc435f": {
@@ -5305,9 +5308,10 @@
     "8fc426f507ae590fdcef27a2": {
       "published_at": "2026-10-26T12:57:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11071,
       "title": "Bengaluru Traffic Police book 539 cases in special drive against drunk driving, overspeeding",
-      "updated_at": "2026-10-26T13:46:16.988308+00:00",
+      "updated_at": "2026-10-26T13:46:19.628311+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-traffic-police-book-539-cases-in-special-drive-against-drunk-driving-overspeeding/article71625610.ece"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -9555,6 +9559,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:46:16.989308+00:00",
+  "last_cycle_at": "2026-10-26T13:46:34.231741+00:00",
   "schema_version": 1
 }
