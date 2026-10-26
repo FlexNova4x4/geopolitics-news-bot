@@ -2228,9 +2228,10 @@
     "66e4a3b18137eacff7929089": {
       "published_at": "2026-10-26T03:38:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10636,
       "title": "Over 61,000 Form-7 applications filed by election officials in Karnataka, none cites reason",
-      "updated_at": "2026-10-26T03:53:12.781923+00:00",
+      "updated_at": "2026-10-26T03:53:23.249873+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/over-61000-form-7-applications-filed-by-election-officials-in-karnataka-none-cites-reason/article71623783.ece"
     },
     "66f17fc2b8b886527e781167": {
@@ -2281,9 +2282,10 @@
     "68be5f134af11c6b01abb1d5": {
       "published_at": "2026-10-26T03:33:44+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10635,
       "title": "Hameed Latif Hospital doctor’s penalty in death case set aside",
-      "updated_at": "2026-10-26T03:53:12.781920+00:00",
+      "updated_at": "2026-10-26T03:53:19.127599+00:00",
       "url": "https://www.dawn.com/news/2039817/hameed-latif-hospital-doctors-penalty-in-death-case-set-aside"
     },
     "68ff44b81e3eead272369b09": {
@@ -2925,9 +2927,10 @@
     "81a65c5014ffecf9069446e5": {
       "published_at": "2026-10-26T03:40:36+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10637,
       "title": "खुशवंत सिंह लिटफेस्ट: प्रोबल दासगुप्ता बोले- ऑपरेशन ब्लू स्टार राजनीतिक विफलता, जरूरी था सैन्य हस्तक्षेप",
-      "updated_at": "2026-10-26T03:53:12.781926+00:00",
+      "updated_at": "2026-10-26T03:53:27.237368+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/operation-blue-star-political-failure-probal-dasgupta-khushwant-singh-litfest-kasauli-2026-10-26"
     },
     "81f3c1491a3f03128e98de7b": {
@@ -4869,9 +4872,10 @@
     "e1be094a719375d43c682565": {
       "published_at": "2026-10-26T03:33:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10634,
       "title": "Israel's Eisenkot vows unity as Netanyahu paints him as soft on Iran",
-      "updated_at": "2026-10-26T03:53:12.781906+00:00",
+      "updated_at": "2026-10-26T03:53:15.176843+00:00",
       "url": "https://www.thehindu.com/news/international/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran/article71625533.ece"
     },
     "e2b8b48cdc3c18ae40503f7a": {
@@ -5653,6 +5657,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:53:12.782519+00:00",
+  "last_cycle_at": "2026-10-26T03:53:30.438786+00:00",
   "schema_version": 1
 }
