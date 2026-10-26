@@ -5145,9 +5145,10 @@
     "c09ddf3f2cb122dba7d6ac01": {
       "published_at": "2026-10-26T06:42:24+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10776,
       "title": "Bilaspur News: दिल्ली में महासम्मेलन में शामिल होंगे बिलासपुर के 800 कांग्रेस कार्यकर्ता",
-      "updated_at": "2026-10-26T06:44:54.008977+00:00",
+      "updated_at": "2026-10-26T06:45:09.460538+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/800-congress-workers-from-bilaspur-will-participate-in-a-grand-convention-in-delhi-bilaspur-news-c-92-1-bls1001-170658-2026-10-26"
     },
     "c0a0ccf8c248421b74d84a78": {
@@ -5251,9 +5252,10 @@
     "c44dc796c044d52a24c420b9": {
       "published_at": "2026-10-26T06:41:37+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10775,
       "title": "Bilaspur News: बिलासपुर में इंडियन एक्सीलेंस अवाॅर्ड में सम्मानित होंगी 45 विभूतियां",
-      "updated_at": "2026-10-26T06:44:54.008972+00:00",
+      "updated_at": "2026-10-26T06:45:05.320849+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/45-eminent-individuals-to-be-honored-at-the-indian-excellence-awards-in-bilaspur-bilaspur-news-c-92-1-bpr1005-170660-2026-10-26"
     },
     "c4687dd68edc0199915d6241": {
@@ -5358,9 +5360,10 @@
     "c6f8bc9f042c1c298e39865f": {
       "published_at": "2026-10-26T06:39:15+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10773,
       "title": "Bilaspur News: शाहतलाई में 15 हजार श्रद्धालुओं ने किए बाबा बालक नाथ के दर्शन",
-      "updated_at": "2026-10-26T06:44:54.008947+00:00",
+      "updated_at": "2026-10-26T06:44:56.919772+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/15000-devotees-offered-prayers-to-baba-balak-nath-at-shahtalai-bilaspur-news-c-92-1-bls1001-170668-2026-10-26"
     },
     "c72fd80e641756d52d21a881": {
@@ -5779,9 +5782,10 @@
     "d90941f7c34d41fc2115f133": {
       "published_at": "2026-10-26T06:39:49+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10774,
       "title": "Bilaspur News: प्लांट के बाहर सड़क पर गाड़ी खड़ी कर रोका रास्ता, कर्मचारियों को धमकाने का आरोप",
-      "updated_at": "2026-10-26T06:44:54.008967+00:00",
+      "updated_at": "2026-10-26T06:45:01.237179+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/accused-of-blocking-the-path-by-parking-a-vehicle-on-the-road-outside-the-plant-and-threatening-employees-bilaspur-news-c-92-1-bls1001-170695-2026-10-26"
     },
     "d94d22f07e4c58b7f5e4b935": {
@@ -6904,6 +6908,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:44:54.009783+00:00",
+  "last_cycle_at": "2026-10-26T06:45:12.661896+00:00",
   "schema_version": 1
 }
