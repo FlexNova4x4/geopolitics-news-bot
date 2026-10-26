@@ -898,6 +898,14 @@
       "updated_at": "2026-10-25T05:38:29.515651+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhis-new-pollution-study-leaves-major-sources-unidentified-relies-on-outdated-data-101792886406730.html"
     },
+    "2d9b57a6863ab998e431861c": {
+      "published_at": "2026-10-26T02:55:15+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "updated_at": "2026-10-26T03:22:50.364170+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss"
+    },
     "2dc380cfa0488430591621c1": {
       "published_at": "2026-10-24T19:49:24+00:00",
       "source": "thehindu.com",
@@ -2763,6 +2771,14 @@
       "updated_at": "2026-10-25T12:04:29.646947+00:00",
       "url": "https://www.thehindu.com/news/cities/Mangalore/nhai-issues-guidelines-for-upgradation-maintenance-smart-monitoring-of-toilet-facilities-parking-at-national-highway-toll-plazas/article71622980.ece"
     },
+    "7f0ec9420f0e1678a0c733d2": {
+      "published_at": "2026-10-26T02:59:50+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+      "updated_at": "2026-10-26T03:22:50.364189+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
+    },
     "7f9b731e641233dfddd23d01": {
       "published_at": "2026-10-25T04:51:57+00:00",
       "source": "thehindu.com",
@@ -3477,6 +3493,14 @@
       "title": "Delhi to set up first-aid facilities in all 1,086 government schools at annual cost of ₹48.87 crore",
       "updated_at": "2026-10-25T15:10:49.509087+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-government-to-set-up-first-aid-medical-facilities-in-all-1086-government-schools-at-annual-cost-of-4887-crore-101792929121639.html"
+    },
+    "a3df215727480bf342cc847b": {
+      "published_at": "2026-10-26T03:00:38+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Govt introduces bill in NA for ‘umbrella’ privatisation entity, seeks immunity for officials of bodies to be merged",
+      "updated_at": "2026-10-26T03:22:50.364193+00:00",
+      "url": "https://www.dawn.com/news/2039913/govt-introduces-bill-in-na-for-umbrella-privatisation-entity-seeks-immunity-for-officials-of-bodies-to-be-merged"
     },
     "a415c1d81a438dca9784d4bd": {
       "published_at": "2026-10-25T03:04:37+00:00",
@@ -4760,6 +4784,14 @@
       "updated_at": "2026-10-26T01:22:59.563085+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-questions-election-commissions-secrecy-over-software-used-for-sir"
     },
+    "e4fd041448810fcb1fa9acf6": {
+      "published_at": "2026-10-26T03:06:50+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Watch: Birmingham woman caught on camera dumping rubbish into neighbour’s garden in years long harassment campaign",
+      "updated_at": "2026-10-26T03:22:50.364196+00:00",
+      "url": "https://www.tribuneindia.com/news/trending/watch-birmingham-woman-caught-on-camera-dumping-rubbish-into-neighbours-garden-in-years-long-harassment-campaign"
+    },
     "e54c0b9d62d110989b311887": {
       "published_at": "2026-10-25T19:50:01+00:00",
       "source": "publish.tribuneindia.com",
@@ -5468,6 +5500,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:22:43.280071+00:00",
+  "last_cycle_at": "2026-10-26T03:22:50.364678+00:00",
   "schema_version": 1
 }
