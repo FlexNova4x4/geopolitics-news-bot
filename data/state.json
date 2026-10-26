@@ -264,9 +264,10 @@
     "0984bca30c5c212174296fd6": {
       "published_at": "2026-10-26T03:25:51+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10631,
       "title": "‘Flimsy excuses’: Opposition hits out at Election Commission over refusal to share details on SIR software",
-      "updated_at": "2026-10-26T03:52:49.499209+00:00",
+      "updated_at": "2026-10-26T03:52:55.820391+00:00",
       "url": "https://www.hindustantimes.com/india-news/sir-software-cec-gyanesh-kumar-election-commission-opposition-congress-bjp-protests-voters-roll-101792984710448.html"
     },
     "0ad86da679ca75352a3bf1e0": {
@@ -2541,9 +2542,10 @@
     "724b661ce1db6bd5f0e26636": {
       "published_at": "2026-10-26T03:30:43+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10633,
       "title": "Anti-SIR protest LIVE updates: Amid EC row, BJP calls nationwide protests over Kharge’s remark on PM Modi",
-      "updated_at": "2026-10-26T03:52:49.499216+00:00",
+      "updated_at": "2026-10-26T03:53:04.193257+00:00",
       "url": "https://www.hindustantimes.com/india-news/anti-sir-protest-live-updates-delhi-bjp-congress-kharge-modi-cjp-dipke-das-ranka-neha-bora-gyanesh-kumar-rahul-gandhi-101792981940731.html"
     },
     "72809b89b6fdf542b62427cf": {
@@ -3973,9 +3975,10 @@
     "b7de6bbd810e3b27cf9d7eb4": {
       "published_at": "2026-10-26T03:22:43+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10630,
       "title": "मौसम: हिमाचल में कब होगी बारिश और कहां गिरेगी बर्फ, विभाग ने जारी किया इस सप्ताह का पूर्वानुमान; आप भी जान लें",
-      "updated_at": "2026-10-26T03:52:49.499194+00:00",
+      "updated_at": "2026-10-26T03:52:51.933188+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-pradesh-weather-forecast-snowfall-rain-october-2026-2026-10-25"
     },
     "b7ff10c4cc7c564555a6181e": {
@@ -4134,9 +4137,10 @@
     "be4641bdd9eb4c706093ffa5": {
       "published_at": "2026-10-26T03:29:33+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10632,
       "title": "Two women, five daughters killed after van plunges into deep ditch near Murree",
-      "updated_at": "2026-10-26T03:52:49.499213+00:00",
+      "updated_at": "2026-10-26T03:52:59.947784+00:00",
       "url": "https://www.dawn.com/news/2039916/two-women-five-daughters-killed-after-van-plunges-into-deep-ditch-near-murree"
     },
     "bf45bde197193fa243b7d8cc": {
@@ -5617,6 +5621,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:52:49.499716+00:00",
+  "last_cycle_at": "2026-10-26T03:53:07.394370+00:00",
   "schema_version": 1
 }
