@@ -552,9 +552,10 @@
     "0f009f942ee26702f0dca122": {
       "published_at": "2026-10-26T12:54:05+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11069,
       "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
-      "updated_at": "2026-10-26T13:45:02.685146+00:00",
+      "updated_at": "2026-10-26T13:45:13.254755+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss"
     },
     "0fe5303fb47015eaf9030dec": {
@@ -1888,9 +1889,10 @@
     "3401b2df7bfe0bf0089a70c8": {
       "published_at": "2026-10-26T12:53:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11067,
       "title": "Campaign targeting SP-Congress alliance to consolidate PDA: Akhilesh Yadav",
-      "updated_at": "2026-10-26T13:45:02.685124+00:00",
+      "updated_at": "2026-10-26T13:45:05.369823+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/campaign-targeting-sp-congress-alliance-to-consolidate-pda-akhilesh-yadav/article71626943.ece"
     },
     "3422328a7fdd5046fca5cd9b": {
@@ -1995,9 +1997,10 @@
     "3890e016f82f2c041b60e127": {
       "published_at": "2026-10-26T12:56:40+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11070,
       "title": "Imaan, Hadi move SC against IHC order refusing to stay trial in security breach case",
-      "updated_at": "2026-10-26T13:45:02.685149+00:00",
+      "updated_at": "2026-10-26T13:45:17.072782+00:00",
       "url": "https://www.dawn.com/news/2039962/imaan-hadi-move-sc-against-ihc-order-refusing-to-stay-trial-in-security-breach-case"
     },
     "389687d9e17f1d8c247ef6fe": {
@@ -8734,9 +8737,10 @@
     "ed04e0ae3d62068f231b3cd3": {
       "published_at": "2026-10-26T12:53:57+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11068,
       "title": "India-Mexico trade deal: Talks to begin this week amid fresh 50% tariffs on Indian exports",
-      "updated_at": "2026-10-26T13:45:02.685140+00:00",
+      "updated_at": "2026-10-26T13:45:09.227827+00:00",
       "url": "https://www.hindustantimes.com/india-news/indiamexico-trade-deal-talks-to-begin-this-week-amid-fresh-50-tariffs-on-indian-exports-101793017996644.html"
     },
     "edeca2240d6bfb580b208d9a": {
@@ -9519,6 +9523,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:45:02.685947+00:00",
+  "last_cycle_at": "2026-10-26T13:45:20.274227+00:00",
   "schema_version": 1
 }
