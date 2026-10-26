@@ -3471,9 +3471,10 @@
     "b588746b3b4fe3e5655c768f": {
       "published_at": "2026-10-26T00:22:21+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10564,
       "title": "Brazilian media projects Lula to win presidential runoff against Flávio Bolsonaro",
-      "updated_at": "2026-10-26T00:58:42.933715+00:00",
+      "updated_at": "2026-10-26T00:58:46.476160+00:00",
       "url": "https://www.tribuneindia.com/news/bolsonaro/brazilian-media-projects-lula-to-win-presidential-runoff-against-flavio-bolsonaro"
     },
     "b5d9266f353567a04a585657": {
@@ -5017,6 +5018,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:58:42.934409+00:00",
+  "last_cycle_at": "2026-10-26T00:58:49.677272+00:00",
   "schema_version": 1
 }
