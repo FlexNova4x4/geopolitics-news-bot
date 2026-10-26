@@ -495,6 +495,14 @@
       "updated_at": "2026-10-25T18:14:26.976919+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
     },
+    "0ea77ba010f518ceef28c6c7": {
+      "published_at": "2026-10-26T00:56:38+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "वीडियो: नाहन के एसएफडीए हॉल में मेगा जागरूकता शिविर",
+      "updated_at": "2026-10-26T13:32:16.351959+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-video-mega-awareness-camp-at-sfda-hall-nahan-2026-10-26"
+    },
     "0eabb853ee40d8249aec4ccd": {
       "published_at": "2026-10-24T19:18:46+00:00",
       "source": "thehindu.com",
@@ -1940,6 +1948,14 @@
       "updated_at": "2026-10-26T02:53:05.374116+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-plans-to-extend-pm-uday-application-deadline-for-ownership-in-unauthorised-colonies-amid-tepid-response-101792979229802.html"
     },
+    "3a8d35937e08d6bc43415bca": {
+      "published_at": "2026-10-26T00:56:50+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हमीरपुर: प्रदेश सरकार के खिलाफ भाजपा का प्रदर्शन, खरगे का पुतला जलाया",
+      "updated_at": "2026-10-26T13:32:16.351961+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-bjp-protests-against-the-state-government-burns-an-effigy-of-kharge-2026-10-26"
+    },
     "3af44a52fcd33ca6e3248004": {
       "published_at": "2026-10-23T11:08:38+00:00",
       "source": "YouTube",
@@ -3248,6 +3264,14 @@
       "title": "4 charred to death as car catches fire after falling into culvert in MP’s Dhar",
       "updated_at": "2026-10-26T06:42:48.407138+00:00",
       "url": "https://www.tribuneindia.com/news/madhya-pradesh/4-charred-to-death-as-car-catches-fire-after-falling-into-culvert-in-mps-dhar"
+    },
+    "60cb9d2f3210d538765924a8": {
+      "published_at": "2026-10-26T00:45:50+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "चंबा: जय सिंह ने खरगे के खिलाफ एफआईआर दर्ज करने की मांग उठाई, थाना प्रभारी को साैंपा पत्र",
+      "updated_at": "2026-10-26T13:32:16.351942+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-jai-singh-demands-registration-of-an-fir-against-kharge-submits-a-letter-to-the-station-house-officer-sho-2026-10-26"
     },
     "61b023b54352ba94a7e64f4f": {
       "published_at": "2026-10-25T08:52:39+00:00",
@@ -4998,6 +5022,14 @@
       "title": "Elections cannot produce change in Israel",
       "updated_at": "2026-10-25T07:34:30.592438+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss"
+    },
+    "93a68d7da9fbf0f770351e6e": {
+      "published_at": "2026-10-26T00:45:56+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "चंबा: करवाचौथ नजदीक आते ही बाजार में बढ़ी महिलाओं की चहल-पहल",
+      "updated_at": "2026-10-26T13:32:16.351956+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-increased-activity-among-women-in-the-markets-as-karva-chauth-approaches-2026-10-26"
     },
     "93d49050c8dcd908d11746ea": {
       "published_at": "2026-10-25T14:06:15+00:00",
@@ -8911,6 +8943,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:31:51.137884+00:00",
+  "last_cycle_at": "2026-10-26T13:32:16.352663+00:00",
   "schema_version": 1
 }
