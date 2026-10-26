@@ -144,6 +144,14 @@
       "updated_at": "2026-10-25T16:16:52.686024+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/tgsrtc-woman-conductor-pushed-off-a-moving-bus-by-passenger-injured/article71624089.ece"
     },
+    "054e77d1e5ce1ec23102494b": {
+      "published_at": "2026-10-26T06:18:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Fatal luxury car crash: Keralam judge booked under MV Act as registered owner of vehicle driven by minor son",
+      "updated_at": "2026-10-26T06:43:11.349065+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/fatal-luxury-car-crash-keralam-judge-booked-under-mv-act-as-registered-owner-of-vehicle-driven-by-minor-son/article71625774.ece"
+    },
     "058ce8f9ca82f475c2cdb219": {
       "published_at": "2026-10-25T05:34:24+00:00",
       "source": "hindustantimes.com",
@@ -3491,6 +3499,14 @@
       "updated_at": "2026-10-25T02:35:35.222443+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
     },
+    "83a6efa4195d3976c1713c30": {
+      "published_at": "2026-10-26T06:08:32+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Fire reported near North Block in Delhi, six fire tenders rushed to scene",
+      "updated_at": "2026-10-26T06:43:11.349029+00:00",
+      "url": "https://www.hindustantimes.com/india-news/fire-reported-near-north-block-in-delhi-six-fire-tenders-rushed-to-scene-delhi-fire-services-101792994836325.html"
+    },
     "83e258b80ad169fb4fed068a": {
       "published_at": "2026-10-25T16:50:27+00:00",
       "source": "thehindu.com",
@@ -4836,6 +4852,14 @@
       "updated_at": "2026-10-25T16:12:46.542816+00:00",
       "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss"
     },
+    "baf5623d0a3ae983ca1284bf": {
+      "published_at": "2026-10-26T06:16:41+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Yamuna ferry service to be launched ahead of Chhath: Delhi CM Rekha Gupta",
+      "updated_at": "2026-10-26T06:43:11.349045+00:00",
+      "url": "https://www.hindustantimes.com/india-news/yamuna-ferry-service-to-be-launched-ahead-of-chhath-delhi-cm-rekha-gupta-101792995402476.html"
+    },
     "bb08f7fcdd3802b3637fb4bf": {
       "published_at": "2026-10-25T06:34:24+00:00",
       "source": "hindustantimes.com",
@@ -6065,6 +6089,14 @@
       "updated_at": "2026-10-26T02:22:55.080776+00:00",
       "url": "https://www.tribuneindia.com/news/civilian-protection/yemen-welcomes-pope-leo-xivs-appeal-on-taiz-urges-international-action-to-end-houthi-siege"
     },
+    "ebd41c2d5ce5e2825abb1f9a": {
+      "published_at": "2026-10-26T06:14:46+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rahul Gandhi acquitted in 2018 defamation case over remarks against Amit Shah, says Congress",
+      "updated_at": "2026-10-26T06:43:11.349042+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-acquitted-in-2018-defamation-case-over-remarks-against-amit-shah-says-congress-101792995192769.html"
+    },
     "ebdfa33b4b0124e46db66ce8": {
       "published_at": "2026-10-25T14:04:40+00:00",
       "source": "thehindu.com",
@@ -6728,6 +6760,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:43:03.914866+00:00",
+  "last_cycle_at": "2026-10-26T06:43:11.349826+00:00",
   "schema_version": 1
 }
