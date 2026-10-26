@@ -3887,6 +3887,14 @@
       "updated_at": "2026-10-26T05:22:29.807987+00:00",
       "url": "https://www.dawn.com/news/2039850/khuhro-rules-out-possibility-of-any-new-province-in-sindh"
     },
+    "841bf32215bb37a6d31dd069": {
+      "published_at": "2026-10-26T07:55:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "KSNUAHS to hold Krishi-Thotagarike Mela in Shivamogga from October 30",
+      "updated_at": "2026-10-26T08:44:28.534667+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/ksnuahs-to-hold-krishi-thotagarike-mela-in-shivamogga-from-october-30/article71625956.ece"
+    },
     "842f3b34c2cc681d62066084": {
       "published_at": "2026-10-25T23:44:34+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4497,6 +4505,14 @@
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "updated_at": "2026-10-24T23:59:02.292236+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+    },
+    "9b4a0dc8fb83ea75681c64d8": {
+      "published_at": "2026-10-26T07:55:47+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "As garbage piles up on Chandigarh roads, 89-year-old former IPS officer returns to clean up",
+      "updated_at": "2026-10-26T08:44:28.534651+00:00",
+      "url": "https://www.tribuneindia.com/news/chandigarh/as-garbage-piles-up-on-chandigarh-roads-89-year-old-former-ips-officer-returns-to-clean-up"
     },
     "9b9ec05c423818f1f07a62c6": {
       "published_at": "2026-10-26T02:14:30+00:00",
@@ -6077,6 +6093,14 @@
       "updated_at": "2026-10-26T00:53:35.075630+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandils-kol-dam-sets-sail-for-adventure-tourism"
     },
+    "d3aa4059d887f3e59b4403ab": {
+      "published_at": "2026-10-26T07:57:11+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Bihu dancers assaulted during Durga Puja immersion procession in Assam's Sribhumi, 17 held",
+      "updated_at": "2026-10-26T08:44:28.534674+00:00",
+      "url": "https://www.hindustantimes.com/india-news/bihu-dancers-assaulted-during-durga-puja-immersion-procession-in-assams-sribhumi-17-held-101793000759689.html"
+    },
     "d3cc583b77ee5170216fab24": {
       "published_at": "2026-10-26T06:26:26+00:00",
       "source": "thehindu.com",
@@ -6497,6 +6521,14 @@
       "title": "CDA, contractor settle rebate issue ahead of groundbreaking of cricket stadium at Islamabad's Margalla foothills",
       "updated_at": "2026-10-26T05:24:16.998055+00:00",
       "url": "https://www.dawn.com/news/2039924/cda-contractor-settle-rebate-issue-ahead-of-groundbreaking-of-cricket-stadium-at-islamabads-margalla-foothills"
+    },
+    "e1499ca12f808f7c1bfc227b": {
+      "published_at": "2026-10-26T07:56:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Extremely unfortunate: Rajnath Singh on Mallikarjun Kharge’s PM remarks",
+      "updated_at": "2026-10-26T08:44:28.534671+00:00",
+      "url": "https://www.thehindu.com/news/national/mallikarjun-kharge-remarks-on-pm-modi-rajnath-singh-replies/article71626019.ece"
     },
     "e1be094a719375d43c682565": {
       "published_at": "2026-10-26T03:33:31+00:00",
@@ -7457,6 +7489,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:44:21.918659+00:00",
+  "last_cycle_at": "2026-10-26T08:44:28.535539+00:00",
   "schema_version": 1
 }
