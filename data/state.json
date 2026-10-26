@@ -4439,9 +4439,10 @@
     "8d7a7110d11e20b2dcdd224d": {
       "published_at": "2026-10-26T09:22:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10907,
       "title": "“Glue keeping opposition together is Netanyahu’s removal”: Senior Israeli journalist explains Tuesday’s electoral scenarios",
-      "updated_at": "2026-10-26T09:44:55.062585+00:00",
+      "updated_at": "2026-10-26T09:45:05.816869+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/glue-keeping-opposition-together-is-netanyahus-removal-senior-israeli-journalist-explains-tuesdays-electoral-scenarios"
     },
     "8daa4d391b482ee30744a06a": {
@@ -5037,9 +5038,10 @@
     "a27203bc18bb796fb98026b0": {
       "published_at": "2026-10-26T09:24:01+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10908,
       "title": "HT interview: New rules on animal testing must take India forward, not backwards, says Maneka Gandhi",
-      "updated_at": "2026-10-26T09:44:55.062589+00:00",
+      "updated_at": "2026-10-26T09:45:09.949969+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-animal-experiments-draft-rules-maneka-gandhi-changes-proposal-101793005384534.html"
     },
     "a28ea3edee0b749c9c4f9060": {
@@ -6600,9 +6602,10 @@
     "d46d52dd596a532e45392334": {
       "published_at": "2026-10-26T09:20:10+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10905,
       "title": "Pakistan’s Punjab govt extends detention of Imran Khan’s sisters by 30 days",
-      "updated_at": "2026-10-26T09:44:55.062565+00:00",
+      "updated_at": "2026-10-26T09:44:57.756605+00:00",
       "url": "https://www.tribuneindia.com/news/pakistan/pakistans-punjab-govt-extends-detention-of-imran-khans-sisters-by-30-days"
     },
     "d4b85185d9b4a4c7e58dd93b": {
@@ -6939,9 +6942,10 @@
     "df8b991a11e587617dc8e3bb": {
       "published_at": "2026-10-26T09:21:12+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10906,
       "title": "JI threatens march to Islamabad in mid-November if petroleum levy not abolished",
-      "updated_at": "2026-10-26T09:44:55.062581+00:00",
+      "updated_at": "2026-10-26T09:45:01.919195+00:00",
       "url": "https://www.dawn.com/news/2039943/ji-threatens-march-to-islamabad-in-mid-november-if-petroleum-levy-not-abolished"
     },
     "e02764594c758da8f812bc5f": {
@@ -8083,6 +8087,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:44:55.063611+00:00",
+  "last_cycle_at": "2026-10-26T09:45:13.151528+00:00",
   "schema_version": 1
 }
