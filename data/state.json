@@ -776,9 +776,10 @@
     "1d8b4809ebf533abe57d2683": {
       "published_at": "2026-10-26T06:19:12+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10761,
       "title": "Rahul Gandhi acquitted in 2018 defamation case in UP’s Sultanpur",
-      "updated_at": "2026-10-26T06:43:37.608614+00:00",
+      "updated_at": "2026-10-26T06:43:40.200289+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/rahul-gandhi-acquitted-in-2018-defamation-case-in-ups-sultanpur"
     },
     "1de0a7d997e5e681ceda7b87": {
@@ -1295,9 +1296,10 @@
     "317236d0eca1d0e91daeee34": {
       "published_at": "2026-10-26T06:23:28+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10763,
       "title": "Andhra braces for ‘very severe’ Cyclone Arnab, IMD issues red alert",
-      "updated_at": "2026-10-26T06:43:37.608635+00:00",
+      "updated_at": "2026-10-26T06:43:48.321301+00:00",
       "url": "https://www.tribuneindia.com/news/india/auto-draft-57"
     },
     "31fb567f7c421891b63b619c": {
@@ -2059,9 +2061,10 @@
     "4e3de2377cfa722e0860eaef": {
       "published_at": "2026-10-26T06:21:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10762,
       "title": "Jordanian security forces arrest 3 men for deadly attack on church",
-      "updated_at": "2026-10-26T06:43:37.608632+00:00",
+      "updated_at": "2026-10-26T06:43:44.400397+00:00",
       "url": "https://www.thehindu.com/news/international/three-suspects-arrested-after-deadly-karak-church-attack/article71625778.ece"
     },
     "4f371849fb9efa7fc2fcfcc8": {
@@ -3043,9 +3046,10 @@
     "72a5d5e5e222014a66841c36": {
       "published_at": "2026-10-26T06:24:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10764,
       "title": "Drunk bike taxi rider bites traffic constable in Hyderabad",
-      "updated_at": "2026-10-26T06:43:37.608638+00:00",
+      "updated_at": "2026-10-26T06:43:52.438147+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/drunk-bike-taxi-rider-bites-traffic-constable-in-hyderabad/article71624517.ece"
     },
     "72c0374bb747e4cb1e0fc199": {
@@ -6796,6 +6800,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:43:37.609457+00:00",
+  "last_cycle_at": "2026-10-26T06:43:55.639195+00:00",
   "schema_version": 1
 }
