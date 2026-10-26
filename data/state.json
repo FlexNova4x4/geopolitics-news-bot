@@ -1440,9 +1440,10 @@
     "4458c18a91480f374bc4358e": {
       "published_at": "2026-10-26T01:52:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10593,
       "title": "Luiz Inácio Lula da Silva | The democratic leftist",
-      "updated_at": "2026-10-26T02:22:24.595096+00:00",
+      "updated_at": "2026-10-26T02:22:35.255730+00:00",
       "url": "https://www.thehindu.com/news/international/luiz-inacio-lula-da-silva-the-democratic-leftist/article65960291.ece"
     },
     "445f038d3ae1ed2abd9cd056": {
@@ -3097,9 +3098,10 @@
     "971a2373e98039ab0fd85f10": {
       "published_at": "2026-10-26T01:39:38+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10591,
       "title": "Hike in night parking charges, monthly passes: NDMC’s proposed parking mgmt system",
-      "updated_at": "2026-10-26T02:22:24.595078+00:00",
+      "updated_at": "2026-10-26T02:22:27.158199+00:00",
       "url": "https://www.hindustantimes.com/india-news/hike-in-night-parking-charges-monthly-passes-ndmc-s-proposed-parking-mgmt-system-101792978779196.html"
     },
     "97f9eb2ffe11c8f74dfe0f43": {
@@ -3317,9 +3319,10 @@
     "a1f9d76ba72aadc0ba4bb3ba": {
       "published_at": "2026-10-26T01:54:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10594,
       "title": "Five economic challenges facing Brazil's re-elected President Lula",
-      "updated_at": "2026-10-26T02:22:24.595099+00:00",
+      "updated_at": "2026-10-26T02:22:39.243232+00:00",
       "url": "https://www.thehindu.com/news/international/major-economic-challenges-brazil-faces-under-lulas-new-term/article71625446.ece"
     },
     "a2034b6f74ba8226530c3c3e": {
@@ -4169,9 +4172,10 @@
     "d07bb31e3d4d6590d3db52cc": {
       "published_at": "2026-10-26T01:49:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10592,
       "title": "A physicist who took atoms near absolute zero, and physics further",
-      "updated_at": "2026-10-26T02:22:24.595094+00:00",
+      "updated_at": "2026-10-26T02:22:31.280759+00:00",
       "url": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece"
     },
     "d168cb5eac28602265fbe1e3": {
@@ -5266,6 +5270,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T02:22:24.595647+00:00",
+  "last_cycle_at": "2026-10-26T02:22:42.444299+00:00",
   "schema_version": 1
 }
