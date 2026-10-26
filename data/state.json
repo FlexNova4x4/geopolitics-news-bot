@@ -1350,9 +1350,10 @@
     "443ab95d51014a0a87000279": {
       "published_at": "2026-10-25T21:01:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10544,
       "title": "मिड-डे मील वर्करों के मानदेय में 16 साल से बढ़ोतरी नहीं: सीटू",
-      "updated_at": "2026-10-26T00:56:44.634232+00:00",
+      "updated_at": "2026-10-26T00:56:47.300275+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/no-increase-in-mid-day-meal-workers-honorarium-for-16-years-citu-solan-news-c-176-1-ssml1040-182779-2026-10-25"
     },
     "445f038d3ae1ed2abd9cd056": {
@@ -1618,9 +1619,10 @@
     "5301b48ae039cf956525cffa": {
       "published_at": "2026-10-25T22:16:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10545,
       "title": "Kangra News: क्रिकेट कार्निवल सीजन-4 में बरसेंगे 2.50 लाख रुपये के इनाम",
-      "updated_at": "2026-10-26T00:56:44.634248+00:00",
+      "updated_at": "2026-10-26T00:56:51.378989+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/prizes-worth-rs-250-lakh-to-be-given-away-in-cricket-carnival-season-4-kangra-news-c-95-1-kng1014-263328-2026-10-26"
     },
     "5371b78848329d56511c19ce": {
@@ -2565,9 +2567,10 @@
     "85616f4dbf5ab1cf6473a90e": {
       "published_at": "2026-10-25T22:17:09+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10546,
       "title": "Trump claims US strikes ‘blew the hell out of’ Iran’s nuclear capacity, says Hormuz oil transit exceeds pre-war levels",
-      "updated_at": "2026-10-26T00:56:44.634250+00:00",
+      "updated_at": "2026-10-26T00:56:55.519042+00:00",
       "url": "https://www.tribuneindia.com/news/atomic-capabilities/trump-claims-us-strikes-blew-the-hell-out-of-irans-nuclear-capacity-says-hormuz-oil-transit-exceeds-pre-war-levels"
     },
     "858bac4d566303ced3b3ff4d": {
@@ -4580,9 +4583,10 @@
     "f6bbfbf52529377188a38e81": {
       "published_at": "2026-10-25T22:20:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10547,
       "title": "Kangra News: शरद पूर्णिमा पर मां ज्वाला के दरबार में उमड़े 40 हजार श्रद्धालु",
-      "updated_at": "2026-10-26T00:56:44.634253+00:00",
+      "updated_at": "2026-10-26T00:56:59.537239+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/40000-devotees-thronged-the-shrine-of-goddess-jwala-on-sharad-purnima-kangra-news-c-95-1-kng1036-263360-2026-10-26"
     },
     "f719c2e59baa960efe4b3af5": {
@@ -4861,6 +4865,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:56:44.634711+00:00",
+  "last_cycle_at": "2026-10-26T00:57:02.738364+00:00",
   "schema_version": 1
 }
