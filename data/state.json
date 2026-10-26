@@ -479,9 +479,10 @@
     "1a5d17f265428fb2a57c423e": {
       "published_at": "2026-10-25T20:09:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10520,
       "title": "सेना में बिताया समय हर सैनिक के लिए महत्वपूर्ण : अत्री",
-      "updated_at": "2026-10-26T00:54:14.900788+00:00",
+      "updated_at": "2026-10-26T00:54:17.446862+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/time-spent-in-the-army-is-significant-for-every-soldier-atri-hamirpur-hp-news-c-94-1-hmp1005-213301-2026-10-26"
     },
     "1b09205a382a09834abe190e": {
@@ -1573,9 +1574,10 @@
     "547830c823f0782efc196d62": {
       "published_at": "2026-10-25T20:10:43+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10521,
       "title": "Hamirpur (Himachal) News: शरद पूर्णिमा पर 10 हजार श्रद्धालुओं ने किए पौणाहारी के दर्शन",
-      "updated_at": "2026-10-26T00:54:14.900801+00:00",
+      "updated_at": "2026-10-26T00:54:21.537820+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/10000-devotees-offered-prayers-to-paunahari-on-sharad-purnima-hamirpur-hp-news-c-94-1-ssml1011-213348-2026-10-26"
     },
     "550da544b03b04299d531968": {
@@ -2045,9 +2047,10 @@
     "6f3e96f353e18d3137072cf0": {
       "published_at": "2026-10-25T20:11:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10522,
       "title": "H2O House: A homestay on watermills in Chamba",
-      "updated_at": "2026-10-26T00:54:14.900803+00:00",
+      "updated_at": "2026-10-26T00:54:25.646109+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/h2o-house-a-homestay-on-watermills-in-chamba"
     },
     "6f5c613f97a5bb03195b3cde": {
@@ -2591,9 +2594,10 @@
     "8e5320dd270eb669025f33e0": {
       "published_at": "2026-10-25T20:12:02+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10523,
       "title": "‘Dangals’promoting sports & preserving traditions: Agnihotri",
-      "updated_at": "2026-10-26T00:54:14.900806+00:00",
+      "updated_at": "2026-10-26T00:54:29.712742+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/dangalspromoting-sports-preserving-traditions-agnihotri"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -4645,6 +4649,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:54:14.901344+00:00",
+  "last_cycle_at": "2026-10-26T00:54:32.913844+00:00",
   "schema_version": 1
 }
