@@ -1917,9 +1917,10 @@
     "4b83e13fef0975f7d10e8948": {
       "published_at": "2026-10-26T05:23:04+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10725,
       "title": "Rahul Gandhi’s convoy vehicles collide on way to court on UP expressway, Congress MP safe",
-      "updated_at": "2026-10-26T05:53:47.374773+00:00",
+      "updated_at": "2026-10-26T05:53:58.867221+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhis-convoy-vehicles-collide-on-up-purvanchal-expressway-congress-mp-safe-101792992135602.html"
     },
     "4c4507b441e36f8a51901405": {
@@ -3984,9 +3985,10 @@
     "a187897975e8b3a3b3829d92": {
       "published_at": "2026-10-26T05:24:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10726,
       "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-      "updated_at": "2026-10-26T05:53:47.374776+00:00",
+      "updated_at": "2026-10-26T05:54:03.080842+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss"
     },
     "a1bc666fee8c90260ebe2dc3": {
@@ -4549,9 +4551,10 @@
     "b7c906e674285537d2f48578": {
       "published_at": "2026-10-26T05:18:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10723,
       "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
-      "updated_at": "2026-10-26T05:53:47.374755+00:00",
+      "updated_at": "2026-10-26T05:53:50.662668+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss"
     },
     "b7de6bbd810e3b27cf9d7eb4": {
@@ -4853,9 +4856,10 @@
     "c243ff8a27b13a70d23e3bd9": {
       "published_at": "2026-10-26T05:21:55+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10724,
       "title": "Bride shot dead after her walima reception allegedly by jilted suitor in Gujranwala",
-      "updated_at": "2026-10-26T05:53:47.374770+00:00",
+      "updated_at": "2026-10-26T05:53:54.640888+00:00",
       "url": "https://www.dawn.com/news/2039925/bride-shot-dead-after-her-walima-reception-allegedly-by-jilted-suitor-in-gujranwala"
     },
     "c3005249b4364682c313af9c": {
@@ -6454,6 +6458,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:53:47.375450+00:00",
+  "last_cycle_at": "2026-10-26T05:54:06.282159+00:00",
   "schema_version": 1
 }
