@@ -2973,6 +2973,14 @@
       "updated_at": "2026-10-24T22:47:12.523495+00:00",
       "url": "https://thediplomat.com/2026/10/korean-dramas-ukraine-russia-and-where-south-korea-begins"
     },
+    "5b384a7d8def998224f44527": {
+      "published_at": "2026-10-26T10:41:23+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Saudi-led coalition says it struck Houthi missile facilities",
+      "updated_at": "2026-10-26T11:14:03.731875+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss"
+    },
     "5b850988cff3ad097502ce95": {
       "published_at": "2026-10-25T14:15:56+00:00",
       "source": "thehindu.com",
@@ -4823,6 +4831,14 @@
       "updated_at": "2026-10-25T15:13:52.479802+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/srfti-students-allege-power-cut-amid-protest-institute-defends-disciplinary-action/article71623611.ece"
     },
+    "9413debea6eaa37d34a67f89": {
+      "published_at": "2026-10-26T10:36:48+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+      "updated_at": "2026-10-26T11:14:03.731853+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss"
+    },
     "9418581b7f6efb4b6eff5009": {
       "published_at": "2026-10-25T04:49:55+00:00",
       "source": "dawn.com",
@@ -5718,6 +5734,14 @@
       "updated_at": "2026-10-25T12:04:25.787157+00:00",
       "url": "https://www.thehindu.com/news/cities/mumbai/fda-destroys-564-litres-of-milk-in-mumbai-statewide-crackdown-nets-food-stock-worth-156-crore/article71622655.ece"
     },
+    "ac3ce2a68e95ddc507bda45e": {
+      "published_at": "2026-10-26T10:41:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Why TVK is eager to woo AIADMK cadre",
+      "updated_at": "2026-10-26T11:14:03.731872+00:00",
+      "url": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece"
+    },
     "ac68c661379f3dacb952059d": {
       "published_at": "2026-10-25T15:15:33+00:00",
       "source": "thehindu.com",
@@ -5753,6 +5777,14 @@
       "title": "Nedumbassery luxury car crash: Audio clip of an accused describing incident emerges as possible key evidence",
       "updated_at": "2026-10-26T10:44:56.821754+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/nedumbassery-luxury-car-crash-audio-clip-of-an-accused-describing-incident-emerges-as-possible-key-evidence/article71626202.ece"
+    },
+    "aeff307ce7cc4ecc2d388983": {
+      "published_at": "2026-10-26T10:39:20+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘Was using common expression, not insulting anybody’s father’: Tharoor on Kharge’s remarks row",
+      "updated_at": "2026-10-26T11:14:03.731868+00:00",
+      "url": "https://www.tribuneindia.com/news/india/was-using-common-expression-not-insulting-anybodys-father-tharoor-on-kharges-remarks-row"
     },
     "af385fb296e702a42cf1ed7d": {
       "published_at": "2026-10-26T07:17:24+00:00",
@@ -8555,6 +8587,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T11:13:57.183545+00:00",
+  "last_cycle_at": "2026-10-26T11:14:03.732885+00:00",
   "schema_version": 1
 }
