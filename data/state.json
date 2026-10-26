@@ -867,9 +867,10 @@
     "15b67cb5df2fa43b72d0e454": {
       "published_at": "2026-10-26T21:31:53+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11144,
       "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "updated_at": "2026-10-26T22:45:33.781044+00:00",
+      "updated_at": "2026-10-26T22:45:43.870007+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss"
     },
     "15d780e25c4f5e90739a8aa4": {
@@ -1414,9 +1415,10 @@
     "2436003c0874fa53b0c6998a": {
       "published_at": "2026-10-26T21:16:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11142,
       "title": "Amid alleged liquor deaths in Madhya Pradesh’s Dewas, police nab 10 for illicit trade",
-      "updated_at": "2026-10-26T22:45:33.781005+00:00",
+      "updated_at": "2026-10-26T22:45:36.251866+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/amid-alleged-liquor-deaths-in-madhya-pradeshs-dewas-police-nab-10-for-illicit-trade/article71628057.ece"
     },
     "245524df6009cf26a36e1631": {
@@ -3218,9 +3220,10 @@
     "51c8ed74b43be2a995158e76": {
       "published_at": "2026-10-26T21:31:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11143,
       "title": "Kangra News: पौंग झील में बढ़ेगा मछली उत्पादन, 17 लाख मत्स्य बीज छोड़ने का लक्ष्य",
-      "updated_at": "2026-10-26T22:45:33.781038+00:00",
+      "updated_at": "2026-10-26T22:45:39.965326+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/fish-production-to-increase-in-pong-lake-target-set-to-release-17-million-fish-seeds-kangra-news-c-95-1-kng1047-263454-2026-10-27"
     },
     "520abfc2877cc30ff2ea52bf": {
@@ -8116,9 +8119,10 @@
     "cdb0add25076589e4913c22e": {
       "published_at": "2026-10-26T21:33:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11145,
       "title": "एसआईआर पर भ्रमित करने के बजाय नीतियां स्पष्ट करे कांग्रेस : दर्शना",
-      "updated_at": "2026-10-26T22:45:33.781050+00:00",
+      "updated_at": "2026-10-26T22:45:47.580523+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/congress-should-clarify-its-policies-instead-of-creating-confusion-regarding-sir-darshana-kangra-news-c-399-dsl1018-544565-2026-10-27"
     },
     "ce0241c076847a73f676e590": {
@@ -10167,6 +10171,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:45:33.782861+00:00",
+  "last_cycle_at": "2026-10-26T22:45:50.783156+00:00",
   "schema_version": 1
 }
