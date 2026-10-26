@@ -147,9 +147,10 @@
     "03b742e81b55794d988bc3bd": {
       "published_at": "2026-10-26T00:57:12+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11008,
       "title": "हमीरपुर: भोरंज में सेवानिवृत्त तहसीलदार के वायरल वीडियो पर एसडीएम ने दिया स्पष्टीकरण, जानें क्या बोले",
-      "updated_at": "2026-10-26T13:32:59.700663+00:00",
+      "updated_at": "2026-10-26T13:33:06.549933+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-sdm-issues-clarification-regarding-viral-video-of-retired-tehsildar-in-bhoranj-find-out-what-was-said-2026-10-26"
     },
     "04372c1ba0c94e4a99ba4fc7": {
@@ -1135,9 +1136,10 @@
     "21397b140a296fb758222ff7": {
       "published_at": "2026-10-26T00:57:00+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11007,
       "title": "नाहन: स्वयंसेवियों ने संवारी स्कूल की सभी क्यारियां, गमलों को भी किया ठीक",
-      "updated_at": "2026-10-26T13:32:59.700642+00:00",
+      "updated_at": "2026-10-26T13:33:02.522990+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/sirmour/video-nahan-volunteers-spruced-up-all-the-flower-beds-at-the-school-and-also-repaired-the-flower-pots-2026-10-26"
     },
     "2152eccc5f3a8c853d1f132e": {
@@ -4955,9 +4957,10 @@
     "8e5bd4a662e375210ce1e873": {
       "published_at": "2026-10-26T00:59:15+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11009,
       "title": "राजनीति: खरगे के बयान पर बरसे जयराम ठाकुर, बोले- उनके दिल में कुंठा और दिमाग में जहर",
-      "updated_at": "2026-10-26T13:32:59.700668+00:00",
+      "updated_at": "2026-10-26T13:33:10.561436+00:00",
       "url": "https://www.amarujala.com/shimla/politics-jairam-thakur-lashes-out-at-kharge-s-statement-says-he-has-frustration-in-his-heart-and-poison-in-h-2026-10-26"
     },
     "8e8a2e3db301ba421eae0b63": {
@@ -8122,9 +8125,10 @@
     "eb2422ef79901612d667ed21": {
       "published_at": "2026-10-26T00:59:36+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11010,
       "title": "कुल्लू: पारंपरिक वाद्ययंत्रों की थाप पर देवता भगवान नरसिंह की जलेब",
-      "updated_at": "2026-10-26T13:32:59.700670+00:00",
+      "updated_at": "2026-10-26T13:33:14.580242+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-jaleb-is-associated-with-the-belief-that-it-offers-protection-against-malevolent-forces-and-wards-off-untoward-events-2026-10-26"
     },
     "eb486ba09741805407207e33": {
@@ -8979,6 +8983,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:32:59.701400+00:00",
+  "last_cycle_at": "2026-10-26T13:33:17.781413+00:00",
   "schema_version": 1
 }
