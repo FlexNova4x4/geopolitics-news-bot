@@ -225,6 +225,14 @@
       "updated_at": "2026-10-25T06:06:35.906176+00:00",
       "url": "https://www.hindustantimes.com/india-news/the-great-regional-retreat-is-meghalaya-s-politics-being-recast-by-national-parties-101792906464778.html"
     },
+    "05a48b60ee15a7026c59c3e8": {
+      "published_at": "2026-10-26T20:55:37+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+      "updated_at": "2026-10-26T22:45:10.991944+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
+    },
     "05d58d43bb53eab2690ffce3": {
       "published_at": "2026-10-25T14:40:00+00:00",
       "source": "thehindu.com",
@@ -3313,6 +3321,14 @@
       "title": "MONEY FROM INDIA, DEFENCE PACT WITH PAKISTAN! Maldives Signs 20 MoUs; India Sends Warships | Kinjal",
       "updated_at": "2026-10-24T22:36:56.620517+00:00",
       "url": "https://www.youtube.com/watch?v=ZumvuSjM_0Q"
+    },
+    "558eb7a2ddf9f27779103403": {
+      "published_at": "2026-10-26T20:55:47+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "What will Lula’s fourth term mean for Brazil?",
+      "updated_at": "2026-10-26T22:45:10.991975+00:00",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss"
     },
     "559df6fba7b027ff469021bc": {
       "published_at": "2026-10-26T05:03:31+00:00",
@@ -8305,6 +8321,14 @@
       "updated_at": "2026-10-25T06:06:06.162861+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss"
     },
+    "d40554decfa031b4d10a7a54": {
+      "published_at": "2026-10-26T21:02:47+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "updated_at": "2026-10-26T22:45:10.991985+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+    },
     "d41c5fa062606ff1945c817d": {
       "published_at": "2026-10-25T14:46:11+00:00",
       "source": "thehindu.com",
@@ -9785,6 +9809,14 @@
       "updated_at": "2026-10-25T06:35:30.813406+00:00",
       "url": "https://www.thehindu.com/news/national/india-slams-pakistan-at-un-says-military-remains-countrys-real-rulers/article71622651.ece"
     },
+    "f8bde8177aa2c38cbcd1a98e": {
+      "published_at": "2026-10-26T21:02:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Mumbai Police form SIT to probe Jarange’s ₹500 crore claim as Raut writes to Shah seeking ED probe",
+      "updated_at": "2026-10-26T22:45:10.991980+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-form-sit-to-probe-jaranges-500-crore-claim-as-raut-writes-to-shah-seeking-ed-probe/article71628069.ece"
+    },
     "f8da80698d09d6a73cdf962a": {
       "published_at": "2026-10-25T15:15:39+00:00",
       "source": "thehindu.com",
@@ -10099,6 +10131,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:45:06.536046+00:00",
+  "last_cycle_at": "2026-10-26T22:45:10.993656+00:00",
   "schema_version": 1
 }
