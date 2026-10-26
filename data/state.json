@@ -2664,6 +2664,14 @@
       "updated_at": "2026-10-26T00:55:16.089778+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-cm-for-scouts-unit-on-lines-of-ladakh"
     },
+    "7cb6939ad55d89e5fafe8506": {
+      "published_at": "2026-10-26T01:45:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab to cross Andhra coast by October 28; rains continue in Tamil Nadu | LIVE",
+      "updated_at": "2026-10-26T01:53:18.357787+00:00",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
+    },
     "7ece01532c3fa5d6f81bb9b9": {
       "published_at": "2026-10-25T10:53:44+00:00",
       "source": "thehindu.com",
@@ -3998,6 +4006,14 @@
       "updated_at": "2026-10-25T06:07:01.384982+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-hold-flag-march-in-narasaraopet-ahead-of-local-body-polls/article71619593.ece"
     },
+    "c6902c8a4bc3b83ad794610d": {
+      "published_at": "2026-10-26T01:17:22+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Taiwan detects 3 Chinese aircraft, 6 naval vessels, 9 official ships around its territory: MND",
+      "updated_at": "2026-10-26T01:53:18.357769+00:00",
+      "url": "https://www.tribuneindia.com/news/air-defense-zone/taiwan-detects-3-chinese-aircraft-6-naval-vessels-9-official-ships-around-its-territory-mnd"
+    },
     "c6a4355dfb323edba7a66c63": {
       "published_at": "2026-10-25T08:02:49+00:00",
       "source": "hindustantimes.com",
@@ -5216,6 +5232,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:53:11.805497+00:00",
+  "last_cycle_at": "2026-10-26T01:53:18.358431+00:00",
   "schema_version": 1
 }
