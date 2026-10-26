@@ -1923,6 +1923,14 @@
       "updated_at": "2026-10-26T00:53:04.554864+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/give-priority-to-nurpur-while-forming-new-dists-says-mla"
     },
+    "49e6c8a2fbc0493813bc1de6": {
+      "published_at": "2026-10-26T06:13:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "What was leaked in the Censor Board data breach? | Explained",
+      "updated_at": "2026-10-26T06:23:54.634743+00:00",
+      "url": "https://www.thehindu.com/sci-tech/technology/what-was-leaked-in-the-censor-board-data-breach-explained/article71625769.ece"
+    },
     "4a04e1b416f1b37cffdbb177": {
       "published_at": "2026-10-25T22:47:23+00:00",
       "source": "publish.tribuneindia.com",
@@ -3033,6 +3041,14 @@
       "title": "Modi ka baap bhi jayega: Congress chief Kharge’s jibe draws BJP’s ire",
       "updated_at": "2026-10-26T01:22:41.674300+00:00",
       "url": "https://www.tribuneindia.com/news/india/modi-ka-baap-bhi-jayega-congress-chief-kharges-jibe-draws-bjps-ire"
+    },
+    "7484264c14558c2695e43fc8": {
+      "published_at": "2026-10-26T06:05:01+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "कुल्लू दशहरा: आगाज से समापन तक माता हिडिंबा की विशेष भूमिका",
+      "updated_at": "2026-10-26T06:23:54.634738+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-hidimba-mata-special-role-international-kullu-dussehra-2026-10-26"
     },
     "74a7db7fd904ff1bb6ec3951": {
       "published_at": "2026-10-25T19:01:23+00:00",
@@ -5474,6 +5490,14 @@
       "updated_at": "2026-10-25T19:12:54.048864+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/a-korean-cultural-evening-in-hyderabad-with-a-distinctly-telangana-touch/article71624250.ece"
     },
+    "d55a0ecb3239c40e36d8b81a": {
+      "published_at": "2026-10-26T06:04:34+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल: सरकारी नौकरी के नाम पर 20 लाख की ठगी का आरोप, बैंक में कार्यरत महिला गिरफ्तार; जानें पूरा मामला",
+      "updated_at": "2026-10-26T06:23:54.634722+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/hamirpur-woman-arrested-alleged-20-lakh-government-job-fraud-2026-10-26"
+    },
     "d58590effe1c443fb536bca4": {
       "published_at": "2026-10-24T19:37:35+00:00",
       "source": "feeds.bbci.co.uk",
@@ -5580,6 +5604,14 @@
       "title": "JSP leader Swaroopa Rani’s nominations for two ZPTC seats rejected",
       "updated_at": "2026-10-25T17:13:38.955185+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-leader-swaroopa-ranis-nominations-for-two-zptc-seats-rejected/article71623841.ece"
+    },
+    "da95fb181a4212a82c22ad84": {
+      "published_at": "2026-10-26T06:11:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Discipline in water use key to resolving inter-State disputes: G.C. Tallur",
+      "updated_at": "2026-10-26T06:23:54.634741+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/discipline-in-water-use-key-to-resolving-inter-state-disputes-gc-tallur/article71623409.ece"
     },
     "dab6a6339517cfec1da101e4": {
       "published_at": "2026-10-25T09:43:06+00:00",
@@ -6629,6 +6661,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:23:34.890670+00:00",
+  "last_cycle_at": "2026-10-26T06:23:54.635431+00:00",
   "schema_version": 1
 }
