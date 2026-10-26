@@ -2472,6 +2472,14 @@
       "updated_at": "2026-10-25T08:04:50.664307+00:00",
       "url": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece"
     },
+    "4fe2e450c023050631d77d44": {
+      "published_at": "2026-10-26T09:08:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Minister Narayana calls fake viral audio in which he asks TDP to work against Jana Sena",
+      "updated_at": "2026-10-26T09:17:00.225625+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-narayana-calls-fake-viral-audio-in-which-he-asks-tdp-to-work-against-jana-sena/article71625919.ece"
+    },
     "5039f91350f153c057d39661": {
       "published_at": "2026-10-26T04:23:50+00:00",
       "source": "dawn.com",
@@ -7970,6 +7978,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:16:56.339138+00:00",
+  "last_cycle_at": "2026-10-26T09:17:00.226731+00:00",
   "schema_version": 1
 }
