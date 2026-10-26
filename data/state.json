@@ -2974,9 +2974,10 @@
     "6ad7593ceeea09158168bcd2": {
       "published_at": "2026-10-26T07:12:59+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10817,
       "title": "Four friends charred to death in Madhya Pradesh after car hits divider, catches fire",
-      "updated_at": "2026-10-26T08:13:50.511079+00:00",
+      "updated_at": "2026-10-26T08:14:01.724935+00:00",
       "url": "https://www.hindustantimes.com/india-news/four-youths-charred-to-death-in-madhya-pradesh-dhar-after-car-hits-divider-catches-fire-101792993855201.html"
     },
     "6b35917c39b29a754c14e88c": {
@@ -5764,9 +5765,10 @@
     "cd0fdecfaf7f0ed4a7c575d9": {
       "published_at": "2026-10-26T07:11:03+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10816,
       "title": "Satyajit Ray film institute reacts to Naseeruddin Shah’s ‘vendetta’ claims",
-      "updated_at": "2026-10-26T08:13:50.511041+00:00",
+      "updated_at": "2026-10-26T08:13:57.607807+00:00",
       "url": "https://www.tribuneindia.com/news/india/satyajit-ray-film-institute-reacts-to-naseeruddin-shahs-vendetta-claims"
     },
     "ce0241c076847a73f676e590": {
@@ -6014,9 +6016,10 @@
     "d60f937a8e7747578ea5234e": {
       "published_at": "2026-10-26T07:17:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10818,
       "title": "“We really want a change”: Israeli voters share expectations ahead of elections",
-      "updated_at": "2026-10-26T08:13:50.511091+00:00",
+      "updated_at": "2026-10-26T08:14:05.842846+00:00",
       "url": "https://www.tribuneindia.com/news/agreements/we-really-want-a-change-israeli-voters-share-expectations-ahead-of-elections"
     },
     "d6cfd4f710ea8c69c5d628b0": {
@@ -6812,9 +6815,10 @@
     "f3a911fe11b8a89a8a213046": {
       "published_at": "2026-10-26T07:10:55+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10815,
       "title": "Lakhimpur Kheri violence: Supreme Court allows Ashish Mishra to visit hometown on Diwali",
-      "updated_at": "2026-10-26T08:13:50.511023+00:00",
+      "updated_at": "2026-10-26T08:13:53.242214+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/lakhimpur-kheri-violence-supreme-court-allows-ashish-mishra-to-visit-hometown-on-diwali"
     },
     "f3aaac77f2002d4d70c45943": {
@@ -7273,6 +7277,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:13:50.511892+00:00",
+  "last_cycle_at": "2026-10-26T08:14:09.044252+00:00",
   "schema_version": 1
 }
