@@ -1258,6 +1258,14 @@
       "updated_at": "2026-10-25T17:12:08.935558+00:00",
       "url": "https://www.hindustantimes.com/india-news/nitin-nabin-chairs-key-bjp-meet-to-discuss-response-to-opposition-s-anti-sir-campaign-101792944386152.html"
     },
+    "2ca639c6b0aa4e783169be7d": {
+      "published_at": "2026-10-26T08:07:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "HRF calls for release of Mahrang Baloch, cites concerns over prison trial and health",
+      "updated_at": "2026-10-26T08:45:16.796854+00:00",
+      "url": "https://www.tribuneindia.com/news/anti-terrorism-act/hrf-calls-for-release-of-mahrang-baloch-cites-concerns-over-prison-trial-and-health"
+    },
     "2caa284e65eddd0f925f4ecf": {
       "published_at": "2026-10-25T09:26:57+00:00",
       "source": "aljazeera.com",
@@ -1589,6 +1597,14 @@
       "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
       "updated_at": "2026-10-25T06:34:53.310221+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+    },
+    "36723c49cf4299245b1f71ea": {
+      "published_at": "2026-10-26T08:11:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Modi govt using every possible trick to protect Gyanesh Kumar: Kharge",
+      "updated_at": "2026-10-26T08:45:16.796859+00:00",
+      "url": "https://www.thehindu.com/news/national/modi-govt-using-every-possible-trick-to-protect-gyanesh-kumar-kharge/article71626008.ece"
     },
     "37a56c5e2966e74e495c5811": {
       "published_at": "2026-10-25T18:55:39+00:00",
@@ -6445,6 +6461,14 @@
       "updated_at": "2026-10-25T15:12:59.383303+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-party-leaders-discuss-strategy-for-local-body-polls/article71623612.ece"
     },
+    "dcc2dfd57611288a2d36b1cc": {
+      "published_at": "2026-10-26T08:03:16+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Kumaraswamy accuses DK Shivakumar of plotting ₹600-crore deal to ‘politically eliminate’ Deve Gowda family",
+      "updated_at": "2026-10-26T08:45:16.796828+00:00",
+      "url": "https://www.hindustantimes.com/india-news/hd-accuses-shivakumar-of-rs-600-crore-plot-to-politically-eliminate-deve-gowda-family-101792995298760.html"
+    },
     "dd93e08f862d9c4be4b6f5c1": {
       "published_at": "2026-10-25T16:30:51+00:00",
       "source": "aljazeera.com",
@@ -6793,6 +6817,14 @@
       "title": "Book Box: Two Himalayan bookstores, a birthday and a borrowed book",
       "updated_at": "2026-10-25T09:05:02.401311+00:00",
       "url": "https://www.hindustantimes.com/india-news/book-box-two-himalayan-bookstores-a-birthday-and-a-borrowed-book-101792918146209.html"
+    },
+    "eb64aab57592c0edcbfac440": {
+      "published_at": "2026-10-26T08:06:43+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Don’t let cockroaches breed’: Bengal CM Suvendu Adhikari targets CJP, urges people to stand with PM Modi",
+      "updated_at": "2026-10-26T08:45:16.796848+00:00",
+      "url": "https://www.hindustantimes.com/india-news/dont-let-cockroaches-breed-west-bengal-cm-suvendu-adhikari-targets-cjp-tmc-mamata-banerjee-urges-people-to-stand-with-pm-modi-101793001030442.html"
     },
     "ebabd24cd98299557972ea38": {
       "published_at": "2026-10-25T09:14:07+00:00",
@@ -7529,6 +7561,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:45:10.719005+00:00",
+  "last_cycle_at": "2026-10-26T08:45:16.797728+00:00",
   "schema_version": 1
 }
