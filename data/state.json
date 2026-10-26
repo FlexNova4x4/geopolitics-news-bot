@@ -1761,6 +1761,14 @@
       "updated_at": "2026-10-25T19:12:45.131032+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
     },
+    "37ed4397085bb4e3e8fb411d": {
+      "published_at": "2026-10-26T10:16:39+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "If Netanyahu loses, what changes for Palestinians?",
+      "updated_at": "2026-10-26T10:45:41.732791+00:00",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss"
+    },
     "386a2aa773ec9dd15c86253e": {
       "published_at": "2026-10-25T07:34:00+00:00",
       "source": "hindustantimes.com",
@@ -2013,6 +2021,14 @@
       "updated_at": "2026-10-26T07:45:18.506013+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss"
     },
+    "3f489280f144a31b21c21fa2": {
+      "published_at": "2026-10-26T10:16:43+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Supreme Court notice to ECI on plea against Maharashtra SIR deletions",
+      "updated_at": "2026-10-26T10:45:41.732794+00:00",
+      "url": "https://www.hindustantimes.com/india-news/supreme-court-notice-to-eci-on-plea-against-maharashtra-sir-deletions-101793009804321.html"
+    },
     "3fcd6f10560124f915c94c5a": {
       "published_at": "2026-10-24T23:02:06+00:00",
       "source": "feeds.bbci.co.uk",
@@ -2219,6 +2235,14 @@
       "title": "Magnitude 5.9 earthquake strikes Tibet region: EMSC",
       "updated_at": "2026-10-25T15:11:35.235010+00:00",
       "url": "https://www.thehindu.com/news/international/tibet-earthquake-magnitude-59-earthquake-updates-october-25-2026/article71623292.ece"
+    },
+    "452f0b2bdfb20612836c10d1": {
+      "published_at": "2026-10-26T10:14:44+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Ex-Army man held in Tamil Nadu for sharing info with suspected Pakistani woman",
+      "updated_at": "2026-10-26T10:45:41.732775+00:00",
+      "url": "https://www.hindustantimes.com/india-news/exarmy-man-held-in-tamil-nadu-for-sharing-info-with-suspected-pakistani-woman-101793009685167.html"
     },
     "45458b2360546473da4bed10": {
       "published_at": "2026-10-25T11:49:54+00:00",
@@ -5781,6 +5805,14 @@
       "updated_at": "2026-10-26T08:14:38.743665+00:00",
       "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss"
     },
+    "b3ee218c35f4b505f444e1d0": {
+      "published_at": "2026-10-26T10:16:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "YSRCP MP Gurumoorthy seeks President’s, Governor’s intervention over SEC’s ‘failures’ in Andhra local polls",
+      "updated_at": "2026-10-26T10:45:41.732797+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-mp-gurumoorthy-seeks-presidents-governors-intervention-over-secs-failures-in-andhra-local-polls/article71626052.ece"
+    },
     "b45df668dd07dd1e27693197": {
       "published_at": "2026-10-26T10:14:26+00:00",
       "source": "aljazeera.com",
@@ -8411,6 +8443,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:45:35.964387+00:00",
+  "last_cycle_at": "2026-10-26T10:45:41.734263+00:00",
   "schema_version": 1
 }
