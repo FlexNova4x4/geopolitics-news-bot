@@ -5640,9 +5640,10 @@
     "aede50b0da19ddf319913e1a": {
       "published_at": "2026-10-26T09:56:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10938,
       "title": "Nedumbassery luxury car crash: Audio clip of an accused describing incident emerges as possible key evidence",
-      "updated_at": "2026-10-26T10:44:53.715023+00:00",
+      "updated_at": "2026-10-26T10:44:56.821754+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/nedumbassery-luxury-car-crash-audio-clip-of-an-accused-describing-incident-emerges-as-possible-key-evidence/article71626202.ece"
     },
     "af385fb296e702a42cf1ed7d": {
@@ -6044,9 +6045,10 @@
     "bb6bb539bd0d678995e322e4": {
       "published_at": "2026-10-26T10:03:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10940,
       "title": "Copious rain triggers seven new landslips in Nilgiris",
-      "updated_at": "2026-10-26T10:44:53.715041+00:00",
+      "updated_at": "2026-10-26T10:45:04.624517+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/copious-rain-triggers-7-new-landslips-in-the-nilgiris-in-tamil-nadu/article71626031.ece"
     },
     "bb80dbf38c1cf479d758c108": {
@@ -6591,9 +6593,10 @@
     "cbce91fdd240a5bb88efe0cf": {
       "published_at": "2026-10-26T10:02:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10939,
       "title": "Odisha’s contempt petition in Supreme Court over Kotia panchayat election | Explained",
-      "updated_at": "2026-10-26T10:44:53.715037+00:00",
+      "updated_at": "2026-10-26T10:45:00.742998+00:00",
       "url": "https://www.thehindu.com/news/national/odishas-contempt-petition-in-supreme-court-over-kotia-panchayat-election-explained/article71626140.ece"
     },
     "cc251f6b28448253d66ba62e": {
@@ -7093,9 +7096,10 @@
     "db58a83640839fee31914c7f": {
       "published_at": "2026-10-26T10:06:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10941,
       "title": "SC refuses to entertain plea of Delhi riots accused to attend law classes in Ghaziabad",
-      "updated_at": "2026-10-26T10:44:53.715044+00:00",
+      "updated_at": "2026-10-26T10:45:08.566695+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/sc-refuses-to-entertain-plea-of-delhi-riots-accused-to-attend-law-classes-in-ghaziabad/article71626278.ece"
     },
     "db72f2e2a78bfaaf26901e35": {
@@ -8371,6 +8375,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:44:53.715897+00:00",
+  "last_cycle_at": "2026-10-26T10:45:11.768224+00:00",
   "schema_version": 1
 }
