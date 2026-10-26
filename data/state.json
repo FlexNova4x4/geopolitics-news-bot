@@ -786,9 +786,10 @@
     "14996176530da03b1025658d": {
       "published_at": "2026-10-26T13:02:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11080,
       "title": "CJI calls on High Court collegiums to consider female lawyers of Supreme Court for judgeship",
-      "updated_at": "2026-10-26T13:48:13.641140+00:00",
+      "updated_at": "2026-10-26T13:48:20.190423+00:00",
       "url": "https://www.thehindu.com/news/national/cji-calls-on-high-court-collegiums-to-consider-female-lawyers-of-supreme-court-for-judgeship/article70724900.ece"
     },
     "150c2824467b4b387706135d": {
@@ -1036,9 +1037,10 @@
     "1c5766102e7746f0b807db5f": {
       "published_at": "2026-10-26T13:05:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11082,
       "title": "Oppn. accuses BJP govt. in Odisha of ‘silence’ on disputed region with A.P.",
-      "updated_at": "2026-10-26T13:48:13.641148+00:00",
+      "updated_at": "2026-10-26T13:48:27.850415+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece"
     },
     "1c7cd55e7b7c7803e3082eab": {
@@ -2373,9 +2375,10 @@
     "41798b942daa6289e57cc092": {
       "published_at": "2026-10-26T13:02:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11079,
       "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
-      "updated_at": "2026-10-26T13:48:13.641124+00:00",
+      "updated_at": "2026-10-26T13:48:16.354513+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss"
     },
     "419d9f2013ec3a322daa40d7": {
@@ -8545,9 +8548,10 @@
     "e6f197dbc2691af0fa4088aa": {
       "published_at": "2026-10-26T13:04:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11081,
       "title": "Government First Grade College at Holehonnur to hold international conference on AI on October 28",
-      "updated_at": "2026-10-26T13:48:13.641145+00:00",
+      "updated_at": "2026-10-26T13:48:24.019021+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/international-conference-on-ai-opportunities-and-challenges-at-holehonnur-college-on-october-28/article71626346.ece"
     },
     "e7355a689b568ac98186c6a6": {
@@ -9627,6 +9631,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:48:13.642067+00:00",
+  "last_cycle_at": "2026-10-26T13:48:31.051983+00:00",
   "schema_version": 1
 }
