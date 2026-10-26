@@ -2129,6 +2129,14 @@
       "updated_at": "2026-10-25T04:35:48.661249+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
     },
+    "3a2996b3e21949c99dc23c9a": {
+      "published_at": "2026-10-26T19:27:22+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India, US conclude most trade pact talks, fine-tuning agreement: Goyal",
+      "updated_at": "2026-10-26T22:40:51.537812+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-agreement/india-us-conclude-most-trade-pact-talks-fine-tuning-agreement-goyal"
+    },
     "3a355d1b9dc5b73f24db6ce2": {
       "published_at": "2026-10-25T17:05:01+00:00",
       "source": "hindustantimes.com",
@@ -2929,6 +2937,14 @@
       "title": "Jordanian security forces arrest 3 men for deadly attack on church",
       "updated_at": "2026-10-26T06:43:44.400397+00:00",
       "url": "https://www.thehindu.com/news/international/three-suspects-arrested-after-deadly-karak-church-attack/article71625778.ece"
+    },
+    "4f045394383e56a0a9238400": {
+      "published_at": "2026-10-26T19:27:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "French government moves to overhaul Parcoursup admissions portal as high school student protests rage",
+      "updated_at": "2026-10-26T22:40:51.537800+00:00",
+      "url": "https://www.tribuneindia.com/news/parcoursup/french-government-moves-to-overhaul-parcoursup-admissions-portal-as-high-school-student-protests-rage"
     },
     "4f32507c29205cded65b604b": {
       "published_at": "2026-10-26T06:58:05+00:00",
@@ -5107,6 +5123,14 @@
       "updated_at": "2026-10-26T02:52:38.363412+00:00",
       "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation"
     },
+    "86d03eb66e4a01c5206f6de4": {
+      "published_at": "2026-10-26T19:26:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "BJP holds nationwide protests against Congress president’s 'derogatory' remarks on PM Modi’s late father",
+      "updated_at": "2026-10-26T22:40:51.537775+00:00",
+      "url": "https://www.thehindu.com/news/national/bjp-holds-nationwide-protests-against-congress-presidents-derogatory-remarks-on-pm-modis-late-father/article71628269.ece"
+    },
     "86f0d0555acecc3df25bd44c": {
       "published_at": "2026-10-26T18:53:20+00:00",
       "source": "thehindu.com",
@@ -7171,6 +7195,14 @@
       "title": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
       "updated_at": "2026-10-26T03:53:47.427896+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss"
+    },
+    "be36d8aa05a04a0b61089091": {
+      "published_at": "2026-10-26T19:27:21+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "updated_at": "2026-10-26T22:40:51.537806+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
     },
     "be3b35495768a628df6e3a26": {
       "published_at": "2026-10-25T14:05:22+00:00",
@@ -9703,6 +9735,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:40:45.615139+00:00",
+  "last_cycle_at": "2026-10-26T22:40:51.539343+00:00",
   "schema_version": 1
 }
