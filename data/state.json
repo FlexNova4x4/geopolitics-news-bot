@@ -2606,6 +2606,14 @@
       "updated_at": "2026-10-26T01:23:42.131373+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
     },
+    "547814c06e9294bda6dd2372": {
+      "published_at": "2026-10-26T08:41:23+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Lula’s victory may be a turning point for Latin America",
+      "updated_at": "2026-10-26T09:15:46.839091+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss"
+    },
     "547830c823f0782efc196d62": {
       "published_at": "2026-10-25T20:10:43+00:00",
       "source": "amarujala.com",
@@ -4139,6 +4147,14 @@
       "updated_at": "2026-10-25T11:04:50.825741+00:00",
       "url": "https://www.hindustantimes.com/india-news/man-killed-another-injured-as-speeding-truck-hits-e-scooter-in-delhis-kalkaji-101792923896714.html"
     },
+    "85af2a7b14da563a493a30f6": {
+      "published_at": "2026-10-26T08:43:39+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+      "updated_at": "2026-10-26T09:15:46.839121+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss"
+    },
     "85b13889261ddb1c19a1f5fe": {
       "published_at": "2026-10-23T12:38:00+00:00",
       "source": "Website",
@@ -4759,6 +4775,14 @@
       "updated_at": "2026-10-26T04:24:28.433670+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/bofors-gun-selection-and-defence-deal-controversy-2026-10-26"
     },
+    "9ca5c7e8d209f31fc1902c6b": {
+      "published_at": "2026-10-26T08:43:01+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Maharashtra SIR: Why are more than 2.07 crore enumeration forms ‘uncollected’? | Explained",
+      "updated_at": "2026-10-26T09:15:46.839116+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-why-are-more-than-207-crore-enumeration-forms-uncollected-explained/article71358990.ece"
+    },
     "9ce2be0619732bfb37a0d55d": {
       "published_at": "2026-10-25T07:12:53+00:00",
       "source": "thehindu.com",
@@ -5294,6 +5318,14 @@
       "title": "Israel: Avigdor Liberman demands criminal probe against Netanyahu after report of ‘clash’ with IDF on Iran attack plans",
       "updated_at": "2026-10-26T08:14:30.665083+00:00",
       "url": "https://www.tribuneindia.com/news/avigdor-liberman/israel-avigdor-liberman-demands-criminal-probe-against-netanyahu-after-report-of-clash-with-idf-on-iran-attack-plans"
+    },
+    "af6c5ba2f70171657d4fc0bb": {
+      "published_at": "2026-10-26T08:42:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Pakistan’s food supply falls short of healthy diet needs, FAO warns; vegetables and fruits face major gaps",
+      "updated_at": "2026-10-26T09:15:46.839111+00:00",
+      "url": "https://www.tribuneindia.com/news/dietary-guidelines/pakistans-food-supply-falls-short-of-healthy-diet-needs-fao-warns-vegetables-and-fruits-face-major-gaps"
     },
     "af99b23d02b52cd21b36603d": {
       "published_at": "2026-10-25T16:28:54+00:00",
@@ -7862,6 +7894,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:15:41.643935+00:00",
+  "last_cycle_at": "2026-10-26T09:15:46.840007+00:00",
   "schema_version": 1
 }
