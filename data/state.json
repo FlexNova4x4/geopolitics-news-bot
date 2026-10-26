@@ -2293,9 +2293,10 @@
     "598c679611ff83612efffba5": {
       "published_at": "2026-10-26T06:35:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10752,
       "title": "Sirmour News: एनएसएस शिविर में टीबी और प्राथमिक उपचार के प्रति किया जागरूक",
-      "updated_at": "2026-10-26T06:24:19.725647+00:00",
+      "updated_at": "2026-10-26T06:24:31.061291+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/nss-sivir-in-sainwala-school-nahan-news-c-177-1-ssml1028-192491-2026-10-25"
     },
     "59b4867865910abe7cc097e2": {
@@ -6211,9 +6212,10 @@
     "f1b35a6ef9792201dff06c5f": {
       "published_at": "2026-10-26T06:30:22+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10751,
       "title": "Mandi News: वीजीसी मंडी की बेटियों ने जीती इंटर कॉलेज महिला कबड्डी चैंपियनशिप",
-      "updated_at": "2026-10-26T06:24:19.725644+00:00",
+      "updated_at": "2026-10-26T06:24:26.835668+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/vgc-mandi-daughters-win-inter-college-women-kabaddi-championship-mandi-news-c-90-1-mnd1021-219163-2026-10-25"
     },
     "f30d142922e2ed99df3863c6": {
@@ -6550,9 +6552,10 @@
     "fcdc4e1bb6fc9d2fab440f09": {
       "published_at": "2026-10-26T06:18:08+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10750,
       "title": "मंडी: करसोग में चार साल में 187 बेटियों को मिला 57.97 लाख का शगुन",
-      "updated_at": "2026-10-26T06:24:19.725628+00:00",
+      "updated_at": "2026-10-26T06:24:22.568285+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-himachal-shagun-scheme-for-daughters-marriage-2026-10-26"
     },
     "fce00c6e9d2ccdc4d4620c01": {
@@ -6689,6 +6692,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:24:19.726486+00:00",
+  "last_cycle_at": "2026-10-26T06:24:34.262636+00:00",
   "schema_version": 1
 }
