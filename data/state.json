@@ -827,6 +827,14 @@
       "updated_at": "2026-10-26T06:22:34.630771+00:00",
       "url": "https://www.tribuneindia.com/news/india/mamata-accuses-bjp-of-using-money-intimidation-to-target-tmc-challenges-bjp-to-fight-political-battle"
     },
+    "1d44f7fef5b6a2da86c8661c": {
+      "published_at": "2026-10-26T07:49:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Heavy rain inundates streets, homes in Coimbatore city",
+      "updated_at": "2026-10-26T08:44:04.021712+00:00",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/heavy-rain-inundates-streets-homes-in-coimbatore-city/article71625848.ece"
+    },
     "1d8b4809ebf533abe57d2683": {
       "published_at": "2026-10-26T06:19:12+00:00",
       "source": "publish.tribuneindia.com",
@@ -1895,6 +1903,14 @@
       "title": "Sugar factories too have grievances, says Karnataka PWD Minister Satish Jarkiholi",
       "updated_at": "2026-10-26T07:15:03.106393+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/sugar-factories-too-have-grievances-says-karnataka-pwd-minister-satish-jarkiholi/article71625786.ece"
+    },
+    "42be681e5fa191a0ebc2e444": {
+      "published_at": "2026-10-26T07:48:43+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Case filed against actor Urmila Sanawar for remarks against Sikkim governor Gautam",
+      "updated_at": "2026-10-26T08:44:04.021707+00:00",
+      "url": "https://www.hindustantimes.com/india-news/case-filed-against-actor-urmila-sanawar-for-remarks-against-sikkim-governor-gautam-101793000924444.html"
     },
     "42f5f151d5cde4369775590a": {
       "published_at": "2026-10-25T04:24:36+00:00",
@@ -3456,6 +3472,14 @@
       "updated_at": "2026-10-25T03:05:29.528579+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
     },
+    "7765626bc01f30fa48dffdce": {
+      "published_at": "2026-10-26T07:42:01+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Motor Accident Claims Tribunal judge booked after minor son rams Mercedes into scooter, kills rider in Kochi",
+      "updated_at": "2026-10-26T08:44:04.021687+00:00",
+      "url": "https://www.hindustantimes.com/india-news/motor-accident-claims-tribunal-judge-booked-after-minor-son-rams-mercedes-into-scooter-kills-rider-in-kochi-101793000327805.html"
+    },
     "77786d5be8b00ee0754c51c2": {
       "published_at": "2026-10-24T19:02:40+00:00",
       "source": "thehindu.com",
@@ -4444,6 +4468,14 @@
       "title": "DK Shivakumar warns IT firms of action if found sidelining locals in Bengaluru: 'Kannadiga is sovereign'",
       "updated_at": "2026-10-25T09:05:10.801971+00:00",
       "url": "https://www.hindustantimes.com/india-news/dk-shivakumar-warns-it-firms-of-action-if-found-sidelining-locals-in-bengaluru-kannadiga-is-sovereign-101792915307671.html"
+    },
+    "9ad8d654dff4085bc2721492": {
+      "published_at": "2026-10-26T07:54:44+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "UP Police constitute SIT to probe accident involving vehicles in Rahul Gandhi’s convoy",
+      "updated_at": "2026-10-26T08:44:04.021716+00:00",
+      "url": "https://www.tribuneindia.com/news/uttar-pradesh/up-police-constitute-sit-to-probe-accident-involving-vehicles-in-rahul-gandhis-convoy"
     },
     "9adeceb6fe7acda4ac474d57": {
       "published_at": "2026-10-25T23:33:19+00:00",
@@ -7421,6 +7453,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:43:56.969632+00:00",
+  "last_cycle_at": "2026-10-26T08:44:04.022721+00:00",
   "schema_version": 1
 }
