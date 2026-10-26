@@ -1314,9 +1314,10 @@
     "41b0ba96882d4627c372ef66": {
       "published_at": "2026-10-25T19:30:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10565,
       "title": "Congress flags judicial independence concerns, cites Kaul memoir",
-      "updated_at": "2026-10-26T01:22:26.887363+00:00",
+      "updated_at": "2026-10-26T01:22:29.532138+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-flags-judicial-independence-concerns-cites-kaul-memoir"
     },
     "4248b3f7df137f42c32f604a": {
@@ -2074,9 +2075,10 @@
     "68ff44b81e3eead272369b09": {
       "published_at": "2026-10-25T19:32:09+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10566,
       "title": "PM Modi inaugurates RBI’s data centre, cybersecurity institute in Odisha",
-      "updated_at": "2026-10-26T01:22:26.887379+00:00",
+      "updated_at": "2026-10-26T01:22:33.493622+00:00",
       "url": "https://www.tribuneindia.com/news/india/pm-modi-launches-rbis-data-centre-cybersecurity-institute-in-odisha"
     },
     "6997007871d52ae3dc68d285": {
@@ -2234,9 +2236,10 @@
     "6fabe6311aee0a66128a8ed1": {
       "published_at": "2026-10-25T19:45:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10567,
       "title": "PM urges people to buy local during festive season, highlights Punjab’s organic cotton initiative",
-      "updated_at": "2026-10-26T01:22:26.887382+00:00",
+      "updated_at": "2026-10-26T01:22:37.572653+00:00",
       "url": "https://www.tribuneindia.com/news/india/pm-urges-people-to-buy-local-during-festive-season-highlights-punjabs-organic-cotton-initiative"
     },
     "6fe185b26c7b94045b10f1f1": {
@@ -2350,9 +2353,10 @@
     "746609e7b8598597eb07af5f": {
       "published_at": "2026-10-25T19:53:12+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10568,
       "title": "Modi ka baap bhi jayega: Congress chief Kharge’s jibe draws BJP’s ire",
-      "updated_at": "2026-10-26T01:22:26.887385+00:00",
+      "updated_at": "2026-10-26T01:22:41.674300+00:00",
       "url": "https://www.tribuneindia.com/news/india/modi-ka-baap-bhi-jayega-congress-chief-kharges-jibe-draws-bjps-ire"
     },
     "74a7db7fd904ff1bb6ec3951": {
@@ -5050,6 +5054,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:22:26.887974+00:00",
+  "last_cycle_at": "2026-10-26T01:22:44.875386+00:00",
   "schema_version": 1
 }
