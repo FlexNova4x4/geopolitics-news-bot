@@ -2204,9 +2204,10 @@
     "3e55d16e3ee8813eb545e414": {
       "published_at": "2026-10-26T12:46:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11062,
       "title": "Supreme Court notice to ED on realty company promoter’s bail plea in home buyers’ fraud case",
-      "updated_at": "2026-10-26T13:43:42.746146+00:00",
+      "updated_at": "2026-10-26T13:43:57.446432+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-notice-to-ed-on-realty-company-promoters-bail-plea-in-home-buyers-fraud-case/article71626703.ece"
     },
     "3e6aa50c9b6b63e9d83faef0": {
@@ -3118,9 +3119,10 @@
     "568eed9a47f700369ee3226c": {
       "published_at": "2026-10-26T12:42:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11061,
       "title": "Bengaluru’s BMTC drivers, traffic police, pourakarmikas, construction workers show reduced lung function: Survey",
-      "updated_at": "2026-10-26T13:43:42.746143+00:00",
+      "updated_at": "2026-10-26T13:43:53.620980+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/reduced-lung-function-amongbengaluru-bmtc-drivers-traffic-police-pourakarmikas-reveals-survey/article71626729.ece"
     },
     "571a418bbe002d617bbe1259": {
@@ -5054,9 +5056,10 @@
     "88aa6368a8c305c858f12376": {
       "published_at": "2026-10-26T12:41:38+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11060,
       "title": "HT Evening News Brief October 26: Cyclone Arnab intensifies, Jamia protests continue, E100 cars get conditional nod",
-      "updated_at": "2026-10-26T13:43:42.746140+00:00",
+      "updated_at": "2026-10-26T13:43:49.511297+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-evening-brief-october-26-cyclone-arnab-jamia-protests-e100-fuel-vijay-deverakonda-rashmika-mandanna-samir-banerjee-tennis-101793017807927.html"
     },
     "891ca25d788b7fb50edbd8cb": {
@@ -8329,9 +8332,10 @@
     "e4958df7c1525d81d23fd60a": {
       "published_at": "2026-10-26T12:39:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11059,
       "title": "India’s balancing act: Managing border tensions with China and uncertainty with the US",
-      "updated_at": "2026-10-26T13:43:42.746125+00:00",
+      "updated_at": "2026-10-26T13:43:45.686193+00:00",
       "url": "https://www.hindustantimes.com/india-news/indias-balancing-act-managing-border-tensions-with-china-and-uncertainty-with-the-us-101793008606763.html"
     },
     "e4b1def385636871dcc6f9b6": {
@@ -9447,6 +9451,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:43:42.746874+00:00",
+  "last_cycle_at": "2026-10-26T13:44:00.647950+00:00",
   "schema_version": 1
 }
