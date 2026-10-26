@@ -1413,9 +1413,10 @@
     "47245942f54fb155ec0350ab": {
       "published_at": "2026-10-25T22:57:18+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10552,
       "title": "“I am here. With you”: Venezuelan opposition leader María Corina Machado returns from exile; US hails reconciliation talks",
-      "updated_at": "2026-10-26T00:57:33.721843+00:00",
+      "updated_at": "2026-10-26T00:57:36.194760+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump/i-am-here-with-you-venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-us-hails-reconciliation-talks"
     },
     "476fcdd51b26ff98975ea435": {
@@ -2289,9 +2290,10 @@
     "740d124a535b1b787a2c7057": {
       "published_at": "2026-10-25T23:14:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10553,
       "title": "Una News: अंब अस्पताल में जल्द शुरू होगी ब्लड स्टोरेज यूनिट",
-      "updated_at": "2026-10-26T00:57:33.721859+00:00",
+      "updated_at": "2026-10-26T00:57:40.299190+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/a-blood-storage-unit-will-soon-be-operational-at-amb-hospital-una-news-c-93-1-ssml1047-211213-2026-10-25"
     },
     "74a7db7fd904ff1bb6ec3951": {
@@ -4599,9 +4601,10 @@
     "f51c704a4e0662c7e1c0acea": {
       "published_at": "2026-10-25T23:14:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10554,
       "title": "Kangra News: 55 की उम्र में फिर शुरू किया जूट बैग का कारोबार",
-      "updated_at": "2026-10-26T00:57:33.721862+00:00",
+      "updated_at": "2026-10-26T00:57:44.371498+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/restarted-the-jute-bag-business-at-the-age-of-55-kangra-news-c-95-1-kng1060-263364-2026-10-26"
     },
     "f5ac949b61ab526bee0feccd": {
@@ -4652,9 +4655,10 @@
     "f6c4fa986d2613bd03817032": {
       "published_at": "2026-10-25T23:16:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10555,
       "title": "‘US stepped into a quagmire’: Ghalibaf says Iran won’t give in to intimidation",
-      "updated_at": "2026-10-26T00:57:33.721864+00:00",
+      "updated_at": "2026-10-26T00:57:48.558698+00:00",
       "url": "https://www.tribuneindia.com/news/world/us-stepped-into-a-quagmire-ghalibaf-says-iran-wont-give-in-to-intimidation"
     },
     "f719c2e59baa960efe4b3af5": {
@@ -4933,6 +4937,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:57:33.722540+00:00",
+  "last_cycle_at": "2026-10-26T00:57:51.759859+00:00",
   "schema_version": 1
 }
