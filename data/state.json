@@ -426,9 +426,10 @@
     "0e34e10c2ea1b49326071a5a": {
       "published_at": "2026-10-26T09:32:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10911,
       "title": "UKPNP holds Kashmir Conference at British Parliament, raises concerns over PoJK rights situation",
-      "updated_at": "2026-10-26T09:45:18.736316+00:00",
+      "updated_at": "2026-10-26T09:45:29.626532+00:00",
       "url": "https://www.tribuneindia.com/news/british-parliament/ukpnp-holds-kashmir-conference-at-british-parliament-raises-concerns-over-pojk-rights-situation"
     },
     "0e5c339e7c0b6b0870699919": {
@@ -2465,9 +2466,10 @@
     "4d51911fd4693094b9020e65": {
       "published_at": "2026-10-26T09:32:22+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10912,
       "title": "“Meeting can be prelude to further work”: Iran ahead of talks with Saudi, Pakistan, Turkiye",
-      "updated_at": "2026-10-26T09:45:18.736325+00:00",
+      "updated_at": "2026-10-26T09:45:33.763210+00:00",
       "url": "https://www.tribuneindia.com/news/esmaeil-baghaei/meeting-can-be-prelude-to-further-work-iran-ahead-of-talks-with-saudi-pakistan-turkiye"
     },
     "4e3de2377cfa722e0860eaef": {
@@ -3709,9 +3711,10 @@
     "7666912ecb31f723f8911ca4": {
       "published_at": "2026-10-26T09:31:12+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10910,
       "title": "Crowds welcome Venezuela's María Machado after months in exile",
-      "updated_at": "2026-10-26T09:45:18.736311+00:00",
+      "updated_at": "2026-10-26T09:45:25.742010+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
     },
     "76dcebc49a6819fe200789b9": {
@@ -6455,9 +6458,10 @@
     "cfd17c90a162ff72eecb06ca": {
       "published_at": "2026-10-26T09:27:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10909,
       "title": "Manipur CM says all possible assistance will be provided to families of three killed in October 19 gun attack",
-      "updated_at": "2026-10-26T09:45:18.736296+00:00",
+      "updated_at": "2026-10-26T09:45:21.771157+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/manipur-cm-says-all-possible-assistance-will-be-provided-to-families-of-three-killed-in-october-19-gun-attack/article71626253.ece"
     },
     "d04c5fc00b7ee1ed27946b49": {
@@ -8119,6 +8123,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:45:18.737362+00:00",
+  "last_cycle_at": "2026-10-26T09:45:36.964767+00:00",
   "schema_version": 1
 }
