@@ -1997,9 +1997,10 @@
     "34e1fab8b0c2d57f2ad80d26": {
       "published_at": "2026-10-26T19:42:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11100,
       "title": "SHRC calls for checks on private clinics after boy’s death following tonsil surgery in Kannur",
-      "updated_at": "2026-10-26T22:41:14.933895+00:00",
+      "updated_at": "2026-10-26T22:41:24.841656+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece"
     },
     "3597c9b454d48930ebf04fe4": {
@@ -5496,9 +5497,10 @@
     "934bd8317579bd82d0adc39e": {
       "published_at": "2026-10-26T19:45:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11101,
       "title": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
-      "updated_at": "2026-10-26T22:41:14.933902+00:00",
+      "updated_at": "2026-10-26T22:41:28.555122+00:00",
       "url": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece"
     },
     "9374b36218aa40d4d311bff3": {
@@ -5944,9 +5946,10 @@
     "9cb948e773dfc484c07451e9": {
       "published_at": "2026-10-26T19:34:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11098,
       "title": "Two Vande Bharat trains partially cancelled for signal work at Kalamassery station on Oct. 27",
-      "updated_at": "2026-10-26T22:41:14.933861+00:00",
+      "updated_at": "2026-10-26T22:41:17.208119+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/train-services-to-be-regulated-for-signal-work-at-kalamassery-station-on-oct-27/article71628085.ece"
     },
     "9ce2be0619732bfb37a0d55d": {
@@ -6381,9 +6384,10 @@
     "a855b8cda03c88c435c60d18": {
       "published_at": "2026-10-26T19:37:10+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11099,
       "title": "Alka Lamba seeks Gyanesh Kumar’s removal & arrest over ‘vote theft’",
-      "updated_at": "2026-10-26T22:41:14.933889+00:00",
+      "updated_at": "2026-10-26T22:41:20.915167+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/alka-lamba-seeks-gyanesh-kumars-removal-arrest-over-vote-theft"
     },
     "a86d99b826ed95fb20231ab5": {
@@ -9771,6 +9775,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:41:14.935478+00:00",
+  "last_cycle_at": "2026-10-26T22:41:31.757676+00:00",
   "schema_version": 1
 }
