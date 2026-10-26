@@ -2083,9 +2083,10 @@
     "6b35917c39b29a754c14e88c": {
       "published_at": "2026-10-25T23:53:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10557,
       "title": "दंगलों से मजबूत हो रही खेल और लोक संस्कृति की परंपरा : मुकेश अग्निहोत्री",
-      "updated_at": "2026-10-26T00:57:57.322479+00:00",
+      "updated_at": "2026-10-26T00:58:04.053966+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/wrestling-events-are-strengthening-the-tradition-of-sports-and-folk-culture-mukesh-agnihotri-una-news-c-93-1-una1002-211224-2026-10-25"
     },
     "6bdce6883efacced3468740e": {
@@ -3300,9 +3301,10 @@
     "a976981d646d9aeaa7a62d84": {
       "published_at": "2026-10-25T23:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10556,
       "title": "Brazil Presidential Runoff: Tight contest between Lula and Bolsonaro as vote counting gets underway",
-      "updated_at": "2026-10-26T00:57:57.322458+00:00",
+      "updated_at": "2026-10-26T00:57:59.924396+00:00",
       "url": "https://www.tribuneindia.com/news/bolsonaro/brazil-presidential-runoff-tight-contest-between-lula-and-bolsonaro-as-vote-counting-gets-underway"
     },
     "a9fc2dd191984b3d6a7c9816": {
@@ -3433,9 +3435,10 @@
     "b56d1ea1d523ac05c50d966b": {
       "published_at": "2026-10-26T00:13:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10559,
       "title": "साढ़े सात करोड़ से सुधरेगी छह पंचायतों की पेयजल व्यवस्था : मोंगरा",
-      "updated_at": "2026-10-26T00:57:57.322484+00:00",
+      "updated_at": "2026-10-26T00:58:12.207856+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/drinking-water-supply-in-six-panchayats-to-be-improved-with-an-outlay-of-75-crore-mongra-kangra-news-c-95-1-kng1037-263413-2026-10-26"
     },
     "b5d9266f353567a04a585657": {
@@ -3450,9 +3453,10 @@
     "b65e6dc8bf8570fb344d29ae": {
       "published_at": "2026-10-25T23:57:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10558,
       "title": "Serbia’s strongman Aleksandar Vučić concedes election defeat; Student List secures parliamentary majority",
-      "updated_at": "2026-10-26T00:57:57.322481+00:00",
+      "updated_at": "2026-10-26T00:58:08.095511+00:00",
       "url": "https://www.tribuneindia.com/news/defeat/serbias-strongman-aleksandar-vucic-concedes-election-defeat-student-list-secures-parliamentary-majority"
     },
     "b6afaa754d9dc95c5397ceae": {
@@ -4969,6 +4973,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:57:57.322937+00:00",
+  "last_cycle_at": "2026-10-26T00:58:15.408977+00:00",
   "schema_version": 1
 }
