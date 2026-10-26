@@ -1494,9 +1494,10 @@
     "2cf2090c6f331009ca8c6065": {
       "published_at": "2026-10-26T06:19:12+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11014,
       "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-      "updated_at": "2026-10-26T13:33:51.453562+00:00",
+      "updated_at": "2026-10-26T13:34:06.013754+00:00",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"
     },
     "2d9b57a6863ab998e431861c": {
@@ -1798,9 +1799,10 @@
     "3422328a7fdd5046fca5cd9b": {
       "published_at": "2026-10-26T01:17:18+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11012,
       "title": "किन्नौर: भावानगर में तीन दिवसीय जातरू उत्सव, मंत्री जगत सिंह नेगी ने विजेताओं को किया सम्मानित",
-      "updated_at": "2026-10-26T13:33:51.453555+00:00",
+      "updated_at": "2026-10-26T13:33:58.136766+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-three-day-jataru-festival-concludes-in-bhawanagar-minister-jagat-singh-negi-honors-the-winners-2026-10-26"
     },
     "34514f4a878f0543c4d82e4b": {
@@ -6749,9 +6751,10 @@
     "c0b8cfc5c69a4e68b7b921e4": {
       "published_at": "2026-10-26T02:51:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11013,
       "title": "Daily Quiz: On UN 81st anniversary",
-      "updated_at": "2026-10-26T13:33:51.453559+00:00",
+      "updated_at": "2026-10-26T13:34:02.202287+00:00",
       "url": "https://www.thehindu.com/news/international/daily-quiz-on-un-81st-anniversary/article71625505.ece"
     },
     "c1482d6f3ced47689e4eb8ad": {
@@ -8732,9 +8735,10 @@
     "f9314b9d59a2dfd1f5d212b3": {
       "published_at": "2026-10-26T01:06:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11011,
       "title": "हिमाचल: ठोस कचरा प्रबंधन पर जमीन पर क्या काम हुआ? हाईकोर्ट ने मांगी अनुपालन रिपोर्ट",
-      "updated_at": "2026-10-26T13:33:51.453537+00:00",
+      "updated_at": "2026-10-26T13:33:54.103047+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-high-court-seeks-compliance-report-on-ground-level-progress-in-solid-waste-management-2026-10-26"
     },
     "f94ea868ac4228638090569d": {
@@ -9015,6 +9019,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:33:51.454394+00:00",
+  "last_cycle_at": "2026-10-26T13:34:09.215035+00:00",
   "schema_version": 1
 }
