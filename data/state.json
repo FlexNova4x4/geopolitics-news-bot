@@ -3639,9 +3639,10 @@
     "7f432de23acb4b1571e42476": {
       "published_at": "2026-10-25T20:37:36+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10823,
       "title": "मंडी में खड़गे की कथित टिप्पणी पर भड़की भाजपा, रोष रैली निकाल कांग्रेस से सार्वजनिक माफी की मांग",
-      "updated_at": "2026-10-26T08:42:50.418087+00:00",
+      "updated_at": "2026-10-26T08:42:52.882241+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-mandi-bjp-protest-mallikarjun-kharge-remark-pm-modi-late-father-2026-10-26"
     },
     "7f9b731e641233dfddd23d01": {
@@ -4731,9 +4732,10 @@
     "a5cca6f07c4239c774578e17": {
       "published_at": "2026-10-26T07:28:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10825,
       "title": "Madras High Court denies anticipatory bail to Anbil Mahesh Poyyamozhi in ‘party fund’ collection case",
-      "updated_at": "2026-10-26T08:42:50.418113+00:00",
+      "updated_at": "2026-10-26T08:43:01.209425+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-anticipatory-bail-to-anbil-mahesh-poyyamozhi-in-rs-100-crore-private-schools-fraud-case/article71625866.ece"
     },
     "a64835e6eaad02a31722902d": {
@@ -5502,9 +5504,10 @@
     "c1482d6f3ced47689e4eb8ad": {
       "published_at": "2026-10-25T20:40:55+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10824,
       "title": "मंडी के 11 युवाओं को मिलेगी ई-टैक्सी, सरकारी विभागों में अटैच होकर हर महीने कमाएंगे 60 हजार रुपये",
-      "updated_at": "2026-10-26T08:42:50.418108+00:00",
+      "updated_at": "2026-10-26T08:42:57.024593+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-mandi-e-taxi-scheme-11-youths-to-get-50-subsidy-and-rs60000-monthly-2026-10-26"
     },
     "c155aba7bdd9dd0a4a4e8f26": {
@@ -7321,9 +7324,10 @@
     "ff17e3833b40bff7be915bc3": {
       "published_at": "2026-10-26T07:29:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10826,
       "title": "Cyclone Arnab: APEPDCL opens 41 control rooms, keeps 4,056 workers ready to restore power",
-      "updated_at": "2026-10-26T08:42:50.418118+00:00",
+      "updated_at": "2026-10-26T08:43:05.135967+00:00",
       "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-apepdcl-opens-41-control-rooms-keeps-4056-workers-ready-to-restore-power/article71625634.ece"
     },
     "ff381c026f0585cfdca5cca6": {
@@ -7345,6 +7349,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:42:50.418916+00:00",
+  "last_cycle_at": "2026-10-26T08:43:08.337304+00:00",
   "schema_version": 1
 }
