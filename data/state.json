@@ -1611,9 +1611,10 @@
     "2edaad93d8a58934876ea705": {
       "published_at": "2026-10-26T11:36:00+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11029,
       "title": "Kolkata stampede: Footage ‘missing’ from 16 out of 32 CCTVs outside Chorbagan puja pandal",
-      "updated_at": "2026-10-26T13:36:41.806849+00:00",
+      "updated_at": "2026-10-26T13:36:52.118220+00:00",
       "url": "https://www.tribuneindia.com/news/india/kolkata-stampede-footage-missing-from-16-out-of-32-cctvs-outside-chorbagan-puja-pandal"
     },
     "2f2eb773feba18c62bfa3653": {
@@ -3243,9 +3244,10 @@
     "5c374f3e78d6956d648700bf": {
       "published_at": "2026-10-26T11:37:37+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11030,
       "title": "SC issues notice to Centre, Election Commission on petition challenging SIR in Maharashtra",
-      "updated_at": "2026-10-26T13:36:41.806852+00:00",
+      "updated_at": "2026-10-26T13:36:55.896940+00:00",
       "url": "https://www.tribuneindia.com/news/india/sc-issues-notice-to-centre-election-commission-on-petition-challenging-sir-in-maharashtra"
     },
     "5c4349ed93fa8b75fd8fbee4": {
@@ -5063,9 +5065,10 @@
     "8f8ad708ddef06c79d7c6818": {
       "published_at": "2026-10-26T11:29:02+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11027,
       "title": "Five ways Trump has changed immigration in the US",
-      "updated_at": "2026-10-26T13:36:41.806830+00:00",
+      "updated_at": "2026-10-26T13:36:44.304206+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -5582,9 +5585,10 @@
     "9e0c9483e4cfcac86f4f0d39": {
       "published_at": "2026-10-26T11:33:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11028,
       "title": "Western Command to hold mechanisation technology seminar at Chandimandir on December 14-15",
-      "updated_at": "2026-10-26T13:36:41.806847+00:00",
+      "updated_at": "2026-10-26T13:36:48.159301+00:00",
       "url": "https://www.tribuneindia.com/news/india/western-command-to-hold-mechanisation-technology-seminar-at-chandimandir-on-december-14-15"
     },
     "9ed30e3fe86a375981601659": {
@@ -9159,6 +9163,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:36:41.807560+00:00",
+  "last_cycle_at": "2026-10-26T13:36:59.098268+00:00",
   "schema_version": 1
 }
