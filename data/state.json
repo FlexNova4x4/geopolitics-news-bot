@@ -678,9 +678,10 @@
     "146b8526f9f5527b65710e9f": {
       "published_at": "2026-10-26T09:52:11+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10936,
       "title": "Algeria’s military deployment to Niger: What’s behind the move?",
-      "updated_at": "2026-10-26T10:44:26.605801+00:00",
+      "updated_at": "2026-10-26T10:44:36.906105+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss"
     },
     "150c2824467b4b387706135d": {
@@ -2805,9 +2806,10 @@
     "57807c8671ea4cc80b060d4e": {
       "published_at": "2026-10-26T09:45:25+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10934,
       "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
-      "updated_at": "2026-10-26T10:44:26.605783+00:00",
+      "updated_at": "2026-10-26T10:44:29.074943+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss"
     },
     "58dd76d6c952bad2ddd61861": {
@@ -5620,9 +5622,10 @@
     "ade915771d0f628884a3794e": {
       "published_at": "2026-10-26T09:48:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10935,
       "title": "IIIT Hyderabad Junction road closure extended for another three months from October 27",
-      "updated_at": "2026-10-26T10:44:26.605797+00:00",
+      "updated_at": "2026-10-26T10:44:32.993679+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/iiit-hyderabad-junction-road-closure-extended-for-another-three-months-from-october-27/article71626175.ece"
     },
     "ae5585ff86b9908ae754f92b": {
@@ -6851,9 +6854,10 @@
     "d4e1381b58e58f2b3497d317": {
       "published_at": "2026-10-26T09:52:58+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10937,
       "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
-      "updated_at": "2026-10-26T10:44:26.605804+00:00",
+      "updated_at": "2026-10-26T10:44:40.868359+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss"
     },
     "d4f4b4c5bee0c02c0f567751": {
@@ -8335,6 +8339,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:44:26.606748+00:00",
+  "last_cycle_at": "2026-10-26T10:44:44.069768+00:00",
   "schema_version": 1
 }
