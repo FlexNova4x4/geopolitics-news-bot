@@ -1179,9 +1179,10 @@
     "39a0f790d5caaa2ebae8a128": {
       "published_at": "2026-10-26T02:13:20+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10605,
       "title": "Mercedes driven by judge’s minor son kills scooter rider in Kochi",
-      "updated_at": "2026-10-26T02:53:02.919443+00:00",
+      "updated_at": "2026-10-26T02:53:17.646231+00:00",
       "url": "https://www.hindustantimes.com/india-news/mercedes-driven-by-judge-s-minor-son-kills-scooter-rider-in-kochi-101792953753173.html"
     },
     "3a1848b68d0a30ff13abf2c0": {
@@ -1214,9 +1215,10 @@
     "3a8463b6f370c05b65cf9a8a": {
       "published_at": "2026-10-26T02:07:57+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10602,
       "title": "Delhi plans to extend PM-Uday application deadline for ownership in unauthorised colonies amid tepid response",
-      "updated_at": "2026-10-26T02:53:02.919423+00:00",
+      "updated_at": "2026-10-26T02:53:05.374116+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-plans-to-extend-pm-uday-application-deadline-for-ownership-in-unauthorised-colonies-amid-tepid-response-101792979229802.html"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -2871,9 +2873,10 @@
     "856370cf3481d05c7d53e1cb": {
       "published_at": "2026-10-26T02:10:07+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10603,
       "title": "First batch of 18,300 Agniveers set to leave armed forces by December 31 as 4-year tenure ends",
-      "updated_at": "2026-10-26T02:53:02.919438+00:00",
+      "updated_at": "2026-10-26T02:53:09.503389+00:00",
       "url": "https://www.hindustantimes.com/india-news/first-batch-of-18-300-agniveers-set-to-leave-armed-forces-by-december-31-as-4-year-tenure-ends-101792978955839.html"
     },
     "858bac4d566303ced3b3ff4d": {
@@ -3086,9 +3089,10 @@
     "928f636cc301831be6854c23": {
       "published_at": "2026-10-26T02:12:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10604,
       "title": "Justice Lalit changed case listing approach as CJI, says Justice Kaul in memoir",
-      "updated_at": "2026-10-26T02:53:02.919441+00:00",
+      "updated_at": "2026-10-26T02:53:13.729088+00:00",
       "url": "https://www.hindustantimes.com/india-news/justice-lalit-changed-case-listing-approach-as-cji-says-justice-kaul-in-memoir-101792953692096.html"
     },
     "9374b36218aa40d4d311bff3": {
@@ -5365,6 +5369,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T02:53:02.919927+00:00",
+  "last_cycle_at": "2026-10-26T02:53:20.847309+00:00",
   "schema_version": 1
 }
