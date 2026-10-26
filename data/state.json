@@ -1060,6 +1060,14 @@
       "updated_at": "2026-10-25T05:38:50.687722+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
     },
+    "2e460be7bd6b465144035a59": {
+      "published_at": "2026-10-26T04:54:40+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Residents turn to alternative fuel amid gas shortages and rising LPG prices in twin cities",
+      "updated_at": "2026-10-26T05:23:18.374715+00:00",
+      "url": "https://www.dawn.com/news/2039847/residents-turn-to-alternative-fuel-amid-gas-shortages-and-rising-lpg-prices-in-twin-cities"
+    },
     "2e5ffdede6dfa8382bac1348": {
       "published_at": "2026-10-26T02:58:12+00:00",
       "source": "publish.tribuneindia.com",
@@ -3087,6 +3095,14 @@
       "updated_at": "2026-10-25T12:04:29.646947+00:00",
       "url": "https://www.thehindu.com/news/cities/Mangalore/nhai-issues-guidelines-for-upgradation-maintenance-smart-monitoring-of-toilet-facilities-parking-at-national-highway-toll-plazas/article71622980.ece"
     },
+    "7ed6a14ec24cbe84aa11a2a7": {
+      "published_at": "2026-10-26T04:47:27+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Sharp rise in prices of smartphones burdens consumers in Karachi",
+      "updated_at": "2026-10-26T05:23:18.374694+00:00",
+      "url": "https://www.dawn.com/news/2039859/sharp-rise-in-prices-of-smartphones-burdens-consumers-in-karachi"
+    },
     "7f0ec9420f0e1678a0c733d2": {
       "published_at": "2026-10-26T02:59:50+00:00",
       "source": "aljazeera.com",
@@ -4045,6 +4061,14 @@
       "updated_at": "2026-10-25T11:04:37.343134+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/electricity-employees-federation-of-india-cry-foul-over-delay-in-issuing-work-order-for-phase-ii-of-smart-metering-in-keralam/article71622809.ece"
     },
+    "a86d99b826ed95fb20231ab5": {
+      "published_at": "2026-10-26T04:57:46+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Fire at fuel station in Larkana causes widespread destruction",
+      "updated_at": "2026-10-26T05:23:18.374718+00:00",
+      "url": "https://www.dawn.com/news/2039853/fire-at-fuel-station-in-larkana-causes-widespread-destruction"
+    },
     "a88b3d03ee9856d2bd56a75a": {
       "published_at": "2026-10-24T23:03:09+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4574,6 +4598,14 @@
       "title": "Rice pre-booking to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
       "updated_at": "2026-10-25T16:41:22.092886+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-people-pre-book-rice-harvest-to-lock-prices-farmers-get-3000-3500-per-quintal-in-open-markets/article71622910.ece"
+    },
+    "c04d09efdfe915b6fd93ec3f": {
+      "published_at": "2026-10-26T04:50:36+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Karachi firms hired illustrators for child pornographic animations without disclosing nature of work: NCCIA",
+      "updated_at": "2026-10-26T05:23:18.374711+00:00",
+      "url": "https://www.dawn.com/news/2039922/karachi-firms-hired-illustrators-for-child-pornographic-animations-without-disclosing-nature-of-work-nccia"
     },
     "c0a0ccf8c248421b74d84a78": {
       "published_at": "2026-10-24T20:39:08+00:00",
@@ -6179,6 +6211,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:23:13.255372+00:00",
+  "last_cycle_at": "2026-10-26T05:23:18.375293+00:00",
   "schema_version": 1
 }
