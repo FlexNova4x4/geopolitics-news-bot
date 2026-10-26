@@ -300,9 +300,10 @@
     "07985be7c5310d05b37e0964": {
       "published_at": "2026-10-26T20:46:01+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11135,
       "title": "Palestinian children crawl under Israeli military gates to get to school",
-      "updated_at": "2026-10-26T22:44:49.721132+00:00",
+      "updated_at": "2026-10-26T22:44:55.881874+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss"
     },
     "07fcc5f0728e832c037b5e56": {
@@ -3845,9 +3846,10 @@
     "64da0ce7f6f5abd15d6a3b90": {
       "published_at": "2026-10-26T20:52:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11137,
       "title": "US Secretary of State Marco Rubio to host G20 Foreign Ministers’ Meeting in Atlanta",
-      "updated_at": "2026-10-26T22:44:49.721143+00:00",
+      "updated_at": "2026-10-26T22:45:03.333267+00:00",
       "url": "https://www.tribuneindia.com/news/atlanta-summit/us-secretary-of-state-marco-rubio-to-host-g20-foreign-ministers-meeting-in-atlanta"
     },
     "64ebafba5677c6b62505986d": {
@@ -5342,9 +5344,10 @@
     "87d9cbfe6869605c8d6d099e": {
       "published_at": "2026-10-26T20:41:33+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11134,
       "title": "Huge explosion at a weapons depot in Syria",
-      "updated_at": "2026-10-26T22:44:49.721103+00:00",
+      "updated_at": "2026-10-26T22:44:52.145453+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss"
     },
     "87f1159db38ace6f21ed58ce": {
@@ -7900,9 +7903,10 @@
     "c8b719d00532565700a74404": {
       "published_at": "2026-10-26T20:47:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11136,
       "title": "“Looks so corrupt, terrible”: Trump says Brazil elections were “rigged”",
-      "updated_at": "2026-10-26T22:44:49.721138+00:00",
+      "updated_at": "2026-10-26T22:44:59.609155+00:00",
       "url": "https://www.tribuneindia.com/news/bolsonaro/looks-so-corrupt-terrible-trump-says-brazil-elections-were-rigged"
     },
     "c8c0cab2bafd8dbcb18d9bd6": {
@@ -10095,6 +10099,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:44:49.722745+00:00",
+  "last_cycle_at": "2026-10-26T22:45:06.536046+00:00",
   "schema_version": 1
 }
