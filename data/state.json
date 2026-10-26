@@ -66,9 +66,10 @@
     "02d0e9f0cc894a0c8e55852b": {
       "published_at": "2026-10-26T00:58:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10713,
       "title": "Indonesia Seizes More Than 2 Tons of Narcotics in Major Anti-drug Operations",
-      "updated_at": "2026-10-26T05:52:35.602163+00:00",
+      "updated_at": "2026-10-26T05:52:42.736468+00:00",
       "url": "https://thediplomat.com/2026/10/indonesia-seizes-more-than-2-tons-of-narcotics-in-major-anti-drug-operations"
     },
     "031348487f4a98c88df65555": {
@@ -3781,9 +3782,10 @@
     "9adeceb6fe7acda4ac474d57": {
       "published_at": "2026-10-25T23:33:19+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10712,
       "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "updated_at": "2026-10-26T05:52:35.602148+00:00",
+      "updated_at": "2026-10-26T05:52:38.757138+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
@@ -4351,9 +4353,10 @@
     "b5602e38a0898ddab2e084e1": {
       "published_at": "2026-10-26T01:09:41+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10714,
       "title": "India's cartoonists built an audience online - now their posts are being restricted",
-      "updated_at": "2026-10-26T05:52:35.602167+00:00",
+      "updated_at": "2026-10-26T05:52:46.721013+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss"
     },
     "b56d1ea1d523ac05c50d966b": {
@@ -6347,6 +6350,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:52:35.602819+00:00",
+  "last_cycle_at": "2026-10-26T05:52:49.922250+00:00",
   "schema_version": 1
 }
