@@ -489,9 +489,10 @@
     "16b615a53a3377cdf0f4226a": {
       "published_at": "2026-10-26T02:45:39+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10611,
       "title": "PTI rejects reports of shake-up in party's decision-making structure",
-      "updated_at": "2026-10-26T02:53:50.922609+00:00",
+      "updated_at": "2026-10-26T02:53:57.276771+00:00",
       "url": "https://www.dawn.com/news/2039912/pti-rejects-reports-of-shake-up-in-partys-decision-making-structure"
     },
     "1710401f57210e87120dfb7a": {
@@ -1052,9 +1053,10 @@
     "330e22e4234a676df137862d": {
       "published_at": "2026-10-26T02:47:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10612,
       "title": "Emergency services say 83 injured, 7 seriously, in bus crash near Barcelona",
-      "updated_at": "2026-10-26T02:53:50.922612+00:00",
+      "updated_at": "2026-10-26T02:54:01.490111+00:00",
       "url": "https://www.thehindu.com/news/international/emergency-services-say-83-injured-7-seriously-in-bus-crash-near-barcelona/article71625494.ece"
     },
     "33585be33769eee345ccbe20": {
@@ -5040,9 +5042,10 @@
     "f36c34f0de412b0e7babbdb3": {
       "published_at": "2026-10-26T02:20:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10610,
       "title": "Tamil Nadu receives heavy rainfall; schools closed in several districts on Oct. 26",
-      "updated_at": "2026-10-26T02:53:50.922593+00:00",
+      "updated_at": "2026-10-26T02:53:53.302461+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-heavy-rainfall-cyclone-arnab-on-october-26-2026/article71625472.ece"
     },
     "f3aaac77f2002d4d70c45943": {
@@ -5429,6 +5432,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T02:53:50.923278+00:00",
+  "last_cycle_at": "2026-10-26T02:54:04.691247+00:00",
   "schema_version": 1
 }
