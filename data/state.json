@@ -2063,6 +2063,14 @@
       "updated_at": "2026-10-24T22:52:55.258004+00:00",
       "url": "https://thediplomat.com/2026/10/xis-military-purges-make-us-deterrence-more-urgent"
     },
+    "67f5675d0515ff8a030502b2": {
+      "published_at": "2026-10-25T19:53:36+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "3 MPs booked for trespass at Jamia Millia Islamia",
+      "updated_at": "2026-10-26T01:22:52.894250+00:00",
+      "url": "https://www.tribuneindia.com/news/india/3-mps-booked-for-trespass-at-jamia"
+    },
     "687296e4991a5dbdcde2de7c": {
       "published_at": "2026-10-25T03:37:39+00:00",
       "source": "dawn.com",
@@ -2546,6 +2554,14 @@
       "title": "Usage of terrorism as instrument of statecraft simply unacceptable: Jaishankar",
       "updated_at": "2026-10-25T08:05:20.892798+00:00",
       "url": "https://www.thehindu.com/news/national/usage-of-terrorism-as-instrument-of-statecraft-simply-unacceptable-jaishankar/article71622789.ece"
+    },
+    "7a8e0d6d22de8c0127f876e9": {
+      "published_at": "2026-10-25T19:55:42+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Terror as statecraft unacceptable: Jaishankar",
+      "updated_at": "2026-10-26T01:22:52.894270+00:00",
+      "url": "https://www.tribuneindia.com/news/india/terror-as-statecraft-unacceptable-jaishankar"
     },
     "7aac1bc4340066498ab38d30": {
       "published_at": "2026-10-25T05:25:03+00:00",
@@ -4391,6 +4407,14 @@
       "updated_at": "2026-10-25T15:11:23.416817+00:00",
       "url": "https://www.hindustantimes.com/india-news/mbbs-student-24-found-dead-on-hostel-lawn-in-pratapgarh-probe-underway-101792927664152.html"
     },
+    "e4b1def385636871dcc6f9b6": {
+      "published_at": "2026-10-25T19:54:10+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Congress questions Election Commission’s secrecy over software used for SIR",
+      "updated_at": "2026-10-26T01:22:52.894265+00:00",
+      "url": "https://www.tribuneindia.com/news/india/congress-questions-election-commissions-secrecy-over-software-used-for-sir"
+    },
     "e54c0b9d62d110989b311887": {
       "published_at": "2026-10-25T19:50:01+00:00",
       "source": "publish.tribuneindia.com",
@@ -4884,6 +4908,14 @@
       "updated_at": "2026-10-25T16:15:54.369988+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
     },
+    "fa081e63b7985a19f1f0f726": {
+      "published_at": "2026-10-25T19:54:24+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Regional journal: Dasehra sparks political fireworks",
+      "updated_at": "2026-10-26T01:22:52.894268+00:00",
+      "url": "https://www.tribuneindia.com/news/india/regional-journal-dasehra-sparks-political-fireworks"
+    },
     "fbadcc89aedcb56ee9198ebb": {
       "published_at": "2026-10-25T05:09:13+00:00",
       "source": "thehindu.com",
@@ -5054,6 +5086,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:22:44.875386+00:00",
+  "last_cycle_at": "2026-10-26T01:22:52.894929+00:00",
   "schema_version": 1
 }
