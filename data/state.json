@@ -4268,6 +4268,14 @@
       "updated_at": "2026-10-25T08:34:43.215259+00:00",
       "url": "https://www.hindustantimes.com/india-news/political-art-not-the-problem-politics-behind-it-is-pawan-khera-accuses-bikaner-house-of-censorship-101792913718569.html"
     },
+    "c72fd80e641756d52d21a881": {
+      "published_at": "2026-10-26T03:13:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bolsonaro calls for Brazil election results to be 'annulled' after loss to Lula",
+      "updated_at": "2026-10-26T03:23:35.584683+00:00",
+      "url": "https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece"
+    },
     "c788b34d1e8c41c01a9ba36f": {
       "published_at": "2026-10-25T14:31:15+00:00",
       "source": "thehindu.com",
@@ -5540,6 +5548,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:23:32.467993+00:00",
+  "last_cycle_at": "2026-10-26T03:23:35.585214+00:00",
   "schema_version": 1
 }
