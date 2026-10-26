@@ -2816,9 +2816,10 @@
     "54afb6f88f116879093f0ff1": {
       "published_at": "2026-10-26T10:48:43+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10973,
       "title": "ED wants wives of Nirav Modi, Mehul Choksi to be designated as fugitive economic offenders",
-      "updated_at": "2026-10-26T11:44:11.777940+00:00",
+      "updated_at": "2026-10-26T11:44:22.840823+00:00",
       "url": "https://www.hindustantimes.com/india-news/ed-wants-wives-of-nirav-modi-mehul-choksi-to-be-designated-as-fugitive-economic-offenders-101793011724218.html"
     },
     "550da544b03b04299d531968": {
@@ -6431,9 +6432,10 @@
     "c00c051b7bbcbd8a7952277a": {
       "published_at": "2026-10-26T10:54:52+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10974,
       "title": "Govt allows flex-fuel vehicles that can run on E100, amends motor vehicle rules",
-      "updated_at": "2026-10-26T11:44:11.777942+00:00",
+      "updated_at": "2026-10-26T11:44:26.804398+00:00",
       "url": "https://www.hindustantimes.com/india-news/govt-allows-e100-fuel-for-flex-fuel-vehicles-under-amended-motor-vehicle-rules-101793011971096.html"
     },
     "c03b353eb4beb9db435166f7": {
@@ -6951,9 +6953,10 @@
     "d0b2f32fda4086864b28b74f": {
       "published_at": "2026-10-26T10:47:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10972,
       "title": "Israel sets up 12,018 polling stations, mobilises 1,00,000 election staff as over 7.3 mn prepare voters for key polls",
-      "updated_at": "2026-10-26T11:44:11.777936+00:00",
+      "updated_at": "2026-10-26T11:44:18.765283+00:00",
       "url": "https://www.tribuneindia.com/news/ballot-boxes/israel-sets-up-12018-polling-stations-mobilises-100000-election-staff-as-over-7-3-mn-prepare-voters-for-key-polls"
     },
     "d168cb5eac28602265fbe1e3": {
@@ -7991,9 +7994,10 @@
     "f090428777887eb1c9262e62": {
       "published_at": "2026-10-25T23:39:37+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10971,
       "title": "HP Big News: फिर करवट बदलेगा माैसम, कैबिनेट विस्तार पर सीएम सुक्खू का बयान; ऊना में सड़क हादसा",
-      "updated_at": "2026-10-26T11:44:11.777922+00:00",
+      "updated_at": "2026-10-26T11:44:14.648241+00:00",
       "url": "https://www.amarujala.com/shimla/hp-big-news-weather-to-take-another-turn-cm-sukhu-s-statement-on-cabinet-expansion-road-accident-una-2026-10-26"
     },
     "f0b00401c7f38b0a1a91b23d": {
@@ -8659,6 +8663,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T11:44:11.778853+00:00",
+  "last_cycle_at": "2026-10-26T11:44:30.005968+00:00",
   "schema_version": 1
 }
