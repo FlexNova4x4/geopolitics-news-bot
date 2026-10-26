@@ -1,5 +1,13 @@
 {
   "items": {
+    "0001ce8ebf79f3967aa4b7a0": {
+      "published_at": "2026-10-25T22:28:51+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल: सीएम सुक्खू बोले- जैसे ही भाग्य की कुंडली खुलेगी, सुंदर ठाकुर बनेंगे मंत्री",
+      "updated_at": "2026-10-26T10:43:14.021229+00:00",
+      "url": "https://www.amarujala.com/shimla/himachal-cm-sukhu-saysonce-the-stars-align-sundar-thakur-will-become-a-minister-2026-10-26"
+    },
     "00f750aac2590202af7dd8a9": {
       "published_at": "2026-10-25T22:57:17+00:00",
       "source": "aljazeera.com",
@@ -4436,6 +4444,14 @@
       "updated_at": "2026-10-25T05:36:03.443176+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece"
     },
+    "891ca25d788b7fb50edbd8cb": {
+      "published_at": "2026-10-25T22:21:58+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सिरमौर: त्रिलोकपुर बाला सुंदरी मंदिर में 1.32 लाख श्रद्धालुओं ने नवाया शीश, 1.67 करोड़ रुपये चढ़ावा चढ़ा",
+      "updated_at": "2026-10-26T10:43:14.021207+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-trilokpur-bala-sundari-temple-ashwini-navratri-mela-donation-2026-2026-10-26"
+    },
     "8a4f91dd3b3446f9af43ea10": {
       "published_at": "2026-10-25T20:07:03+00:00",
       "source": "amarujala.com",
@@ -4991,6 +5007,14 @@
       "title": "The China-Taiwan Diplomatic War Is More About Politics Than Economics",
       "updated_at": "2026-10-24T22:37:02.974901+00:00",
       "url": "https://thediplomat.com/2026/10/the-china-taiwan-diplomatic-war-is-more-about-politics-than-economics"
+    },
+    "9dfbe8b1ed2aea301448096b": {
+      "published_at": "2026-10-25T22:26:34+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "वीडियो: निरमंड में स्वयंसेवकों ने सेवा, अनुशासन और राष्ट्र के प्रति कर्तव्य निभाने का दिया संदेश",
+      "updated_at": "2026-10-26T10:43:14.021225+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-nirmand-volunteers-conveyed-a-message-of-service-discipline-and-the-fulfillment-of-duty-toward-the-nation-2026-10-26"
     },
     "9ed30e3fe86a375981601659": {
       "published_at": "2026-10-25T07:59:38+00:00",
@@ -5600,6 +5624,14 @@
       "title": "सोलन: फोरलेन पर तीखे मोड़ और संकेतक न होने से पलटा ट्रक, चालक बाल-बाल बचा",
       "updated_at": "2026-10-26T10:42:52.484472+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-truck-overturns-kumarhatti-himmatpur-dawali-dharampur-road-solan-2026-10-26"
+    },
+    "b21419f6e818270701e7bd6e": {
+      "published_at": "2026-10-25T22:37:22+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "वीडियो: सुनीता कुमारी बनीं ब्लॉक कांग्रेस कमेटी सुजानपुर की अध्यक्ष",
+      "updated_at": "2026-10-26T10:43:14.021232+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-video-sunita-kumari-appointed-president-of-the-sujanpur-block-congress-committee-2026-10-26"
     },
     "b230acc72b2932746274645c": {
       "published_at": "2026-10-25T21:39:13+00:00",
@@ -8195,6 +8227,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:43:07.951539+00:00",
+  "last_cycle_at": "2026-10-26T10:43:14.022223+00:00",
   "schema_version": 1
 }
