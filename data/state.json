@@ -1275,6 +1275,14 @@
       "updated_at": "2026-10-26T00:31:34.210219+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss"
     },
+    "3e17418136513898cd7cd96f": {
+      "published_at": "2026-10-26T02:04:31+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+      "updated_at": "2026-10-26T02:22:48.695179+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss"
+    },
     "3e6aa50c9b6b63e9d83faef0": {
       "published_at": "2026-10-25T12:37:49+00:00",
       "source": "aljazeera.com",
@@ -2860,6 +2868,14 @@
       "title": "As 2000 attend Kashmir marathon, CM Omar says ‘strengthens J&K’s position as a global sports tourism destination’",
       "updated_at": "2026-10-25T20:11:39.806793+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-2000-attend-kashmir-marathon-cm-omar-says-strengthens-jks-position-as-a-global-sports-tourism-destination/article71623960.ece"
+    },
+    "874362239d32e2554fbe9426": {
+      "published_at": "2026-10-26T02:16:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+      "updated_at": "2026-10-26T02:22:48.695200+00:00",
+      "url": "https://www.thehindu.com/news/international/trump-urge-michigan-voters-to-oppose-muslim-senate-candidate-abdul-el-sayed/article71625459.ece"
     },
     "87837867cfa1c31a96738fb2": {
       "published_at": "2026-10-25T17:53:31+00:00",
@@ -4724,6 +4740,14 @@
       "updated_at": "2026-10-25T09:34:44.140369+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss"
     },
+    "ebd2f57500dc04b0de79cbbf": {
+      "published_at": "2026-10-26T02:07:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Yemen welcomes Pope Leo XIV’s appeal on Taiz; urges international action to end Houthi siege",
+      "updated_at": "2026-10-26T02:22:48.695196+00:00",
+      "url": "https://www.tribuneindia.com/news/civilian-protection/yemen-welcomes-pope-leo-xivs-appeal-on-taiz-urges-international-action-to-end-houthi-siege"
+    },
     "ebdfa33b4b0124e46db66ce8": {
       "published_at": "2026-10-25T14:04:40+00:00",
       "source": "thehindu.com",
@@ -5270,6 +5294,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T02:22:42.444299+00:00",
+  "last_cycle_at": "2026-10-26T02:22:48.695684+00:00",
   "schema_version": 1
 }
