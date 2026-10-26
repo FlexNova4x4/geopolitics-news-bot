@@ -2201,6 +2201,14 @@
       "updated_at": "2026-10-26T04:52:39.122590+00:00",
       "url": "https://www.tribuneindia.com/news/india/mercedes-crash-police-take-kerala-judges-minor-son-back-into-custody-after-protests-over-fatal-accident"
     },
+    "3e55d16e3ee8813eb545e414": {
+      "published_at": "2026-10-26T12:46:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court notice to ED on realty company promoter’s bail plea in home buyers’ fraud case",
+      "updated_at": "2026-10-26T13:43:42.746146+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-notice-to-ed-on-realty-company-promoters-bail-plea-in-home-buyers-fraud-case/article71626703.ece"
+    },
     "3e6aa50c9b6b63e9d83faef0": {
       "published_at": "2026-10-25T12:37:49+00:00",
       "source": "aljazeera.com",
@@ -3106,6 +3114,14 @@
       "title": "BJP launches nationwide protest against Mallikarjun Kharge over remarks on PM Modi",
       "updated_at": "2026-10-26T09:16:45.215128+00:00",
       "url": "https://www.thehindu.com/videos/bjp-launches-nationwide-protest-against-mallikarjun-kharge-over-remarks-on-pm-modi/article71626191.ece"
+    },
+    "568eed9a47f700369ee3226c": {
+      "published_at": "2026-10-26T12:42:44+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bengaluru’s BMTC drivers, traffic police, pourakarmikas, construction workers show reduced lung function: Survey",
+      "updated_at": "2026-10-26T13:43:42.746143+00:00",
+      "url": "https://www.thehindu.com/news/cities/bangalore/reduced-lung-function-amongbengaluru-bmtc-drivers-traffic-police-pourakarmikas-reveals-survey/article71626729.ece"
     },
     "571a418bbe002d617bbe1259": {
       "published_at": "2026-10-25T10:29:39+00:00",
@@ -5034,6 +5050,14 @@
       "title": "Fresh protests erupt at Jamia Millia Islamia hours after election announcement, students detained",
       "updated_at": "2026-10-26T10:46:21.369013+00:00",
       "url": "https://www.hindustantimes.com/india-news/fresh-protests-erupt-at-jamia-millia-islamia-hours-after-election-announcement-students-detained-101793008317736.html"
+    },
+    "88aa6368a8c305c858f12376": {
+      "published_at": "2026-10-26T12:41:38+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "HT Evening News Brief October 26: Cyclone Arnab intensifies, Jamia protests continue, E100 cars get conditional nod",
+      "updated_at": "2026-10-26T13:43:42.746140+00:00",
+      "url": "https://www.hindustantimes.com/india-news/ht-evening-brief-october-26-cyclone-arnab-jamia-protests-e100-fuel-vijay-deverakonda-rashmika-mandanna-samir-banerjee-tennis-101793017807927.html"
     },
     "891ca25d788b7fb50edbd8cb": {
       "published_at": "2026-10-25T22:21:58+00:00",
@@ -8302,6 +8326,14 @@
       "updated_at": "2026-10-25T15:11:23.416817+00:00",
       "url": "https://www.hindustantimes.com/india-news/mbbs-student-24-found-dead-on-hostel-lawn-in-pratapgarh-probe-underway-101792927664152.html"
     },
+    "e4958df7c1525d81d23fd60a": {
+      "published_at": "2026-10-26T12:39:40+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "India’s balancing act: Managing border tensions with China and uncertainty with the US",
+      "updated_at": "2026-10-26T13:43:42.746125+00:00",
+      "url": "https://www.hindustantimes.com/india-news/indias-balancing-act-managing-border-tensions-with-china-and-uncertainty-with-the-us-101793008606763.html"
+    },
     "e4b1def385636871dcc6f9b6": {
       "published_at": "2026-10-25T19:54:10+00:00",
       "source": "publish.tribuneindia.com",
@@ -9415,6 +9447,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:43:13.461408+00:00",
+  "last_cycle_at": "2026-10-26T13:43:42.746874+00:00",
   "schema_version": 1
 }
