@@ -4295,9 +4295,10 @@
     "97a727283adb09ee5227fa21": {
       "published_at": "2026-10-26T07:26:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10822,
       "title": "Set aside Mann Ki Baat to focus on people's concerns: Cong slams PM on inflation",
-      "updated_at": "2026-10-26T08:14:27.929994+00:00",
+      "updated_at": "2026-10-26T08:14:42.746344+00:00",
       "url": "https://www.thehindu.com/news/national/set-aside-mann-ki-baat-to-focus-on-peoples-concerns-cong-slams-pm-on-inflation/article71625907.ece"
     },
     "97f9eb2ffe11c8f74dfe0f43": {
@@ -4758,9 +4759,10 @@
     "a74149f0be2669b92cd8072d": {
       "published_at": "2026-10-26T07:22:11+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10820,
       "title": "From rare earths to trade and the Global South: What Lula’s re-election in Brazil means for India",
-      "updated_at": "2026-10-26T08:14:27.929988+00:00",
+      "updated_at": "2026-10-26T08:14:34.648796+00:00",
       "url": "https://www.hindustantimes.com/india-news/from-rare-earths-to-trade-and-the-global-south-what-lula-s-re-election-in-brazil-means-for-india-101792998751924.html"
     },
     "a7ae1940091eb3a32e895a07": {
@@ -4954,9 +4956,10 @@
     "af385fb296e702a42cf1ed7d": {
       "published_at": "2026-10-26T07:17:24+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10819,
       "title": "Israel: Avigdor Liberman demands criminal probe against Netanyahu after report of ‘clash’ with IDF on Iran attack plans",
-      "updated_at": "2026-10-26T08:14:27.929973+00:00",
+      "updated_at": "2026-10-26T08:14:30.665083+00:00",
       "url": "https://www.tribuneindia.com/news/avigdor-liberman/israel-avigdor-liberman-demands-criminal-probe-against-netanyahu-after-report-of-clash-with-idf-on-iran-attack-plans"
     },
     "af99b23d02b52cd21b36603d": {
@@ -5034,9 +5037,10 @@
     "b3a60fa3671009c5c8257212": {
       "published_at": "2026-10-26T07:24:58+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10821,
       "title": "Photos: Lula supporters flood streets in celebration of historic win",
-      "updated_at": "2026-10-26T08:14:27.929991+00:00",
+      "updated_at": "2026-10-26T08:14:38.743665+00:00",
       "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss"
     },
     "b4f660e47e6161bc60c10661": {
@@ -7309,6 +7313,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:14:27.930773+00:00",
+  "last_cycle_at": "2026-10-26T08:14:45.947744+00:00",
   "schema_version": 1
 }
