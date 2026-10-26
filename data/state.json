@@ -75,9 +75,10 @@
     "02ccd8b8db557962234c13f4": {
       "published_at": "2026-10-26T06:57:48+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10792,
       "title": "Australia expands biometric requirements for visa applicants in India from October 26",
-      "updated_at": "2026-10-26T07:14:30.878754+00:00",
+      "updated_at": "2026-10-26T07:14:44.979931+00:00",
       "url": "https://www.tribuneindia.com/news/australia/australia-expands-biometric-requirements-for-visa-applicants-in-india-from-october-26"
     },
     "02d0e9f0cc894a0c8e55852b": {
@@ -1143,9 +1144,10 @@
     "2a1e489a29e609e65ea0e53a": {
       "published_at": "2026-10-26T06:55:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10789,
       "title": "ED takes Tamil Nadu Minister K.N. Nehru’s brother Ravichandran to office for questioning",
-      "updated_at": "2026-10-26T07:14:30.878724+00:00",
+      "updated_at": "2026-10-26T07:14:33.218320+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ed-takes-tamil-nandu-minister-kn-nehrus-brother-ravichandran-to-office-for-questioning/article69427176.ece"
     },
     "2ac5d225560f70aa9efb31de": {
@@ -4104,9 +4106,10 @@
     "961a9900ee3994d9682b3fab": {
       "published_at": "2026-10-26T06:57:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10791,
       "title": "Army man drowns in Chaliyar river in Keralam; body recovered after hours of search",
-      "updated_at": "2026-10-26T07:14:30.878749+00:00",
+      "updated_at": "2026-10-26T07:14:41.067424+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/army-man-drowns-in-chaliyar-river-in-keralam-body-recovered-after-hours-of-search/article71625764.ece"
     },
     "964cfdee41a23f48c9e18345": {
@@ -4522,9 +4525,10 @@
     "a5769d48d57b94ba3ddbd147": {
       "published_at": "2026-10-26T06:56:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10790,
       "title": "Rahul Gandhi gets bail over ‘defamatory remarks’ against Amit Shah in 2018",
-      "updated_at": "2026-10-26T07:14:30.878743+00:00",
+      "updated_at": "2026-10-26T07:14:37.150201+00:00",
       "url": "https://www.thehindu.com/news/national/rahul-gandhi-gets-bail-from-jharkhand-court-over-defamatory-remarks-against-amit-shah-in-2018/article69900362.ece"
     },
     "a5a473ea1c1f44b4a41b9705": {
@@ -7048,6 +7052,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:14:30.879657+00:00",
+  "last_cycle_at": "2026-10-26T07:14:48.181399+00:00",
   "schema_version": 1
 }
