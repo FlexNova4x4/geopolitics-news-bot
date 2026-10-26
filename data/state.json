@@ -1608,6 +1608,14 @@
       "updated_at": "2026-10-25T16:17:00.717941+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/trained-108-ambulance-emts-to-provide-first-aid-for-eye-trauma/article71624067.ece"
     },
+    "4c4e5a526afeaab35fff8241": {
+      "published_at": "2026-10-25T20:34:01+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Ernakulam district panchayat in Keralam to speed up sterilisation of dogs",
+      "updated_at": "2026-10-26T01:52:53.570783+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-in-keralam-to-speed-up-sterilisation-of-dogs/article71579887.ece"
+    },
     "4c6f6dc2f81840c7b9d13812": {
       "published_at": "2026-10-25T10:45:51+00:00",
       "source": "aljazeera.com",
@@ -1928,6 +1936,14 @@
       "title": "Schools shut, officials' leaves cancelled: Odisha steps up preparedness as severe cyclonic storm nears Andhra coast",
       "updated_at": "2026-10-25T11:34:54.299967+00:00",
       "url": "https://www.hindustantimes.com/india-news/odisha-schools-offices-severe-cyclonic-storm-bay-of-bengal-andhra-coast-tamil-nadu-rainfall-imd-alert-101792920225200.html"
+    },
+    "5c30f1d9d41d98049e5a00f4": {
+      "published_at": "2026-10-26T00:57:21+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "80-year old Left leader Lula da Silva elected Brazil President for fourth time",
+      "updated_at": "2026-10-26T01:52:53.570802+00:00",
+      "url": "https://www.tribuneindia.com/news/bolsonaro/80-year-old-left-leader-lula-da-silva-elected-brazil-president-for-fourth-time"
     },
     "5c4349ed93fa8b75fd8fbee4": {
       "published_at": "2026-10-23T12:13:00+00:00",
@@ -3192,6 +3208,14 @@
       "updated_at": "2026-10-25T08:34:31.254125+00:00",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss"
     },
+    "9ee8773163674079a4271183": {
+      "published_at": "2026-10-26T00:57:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Liechtenstein’s Acting Head of State Hereditary Prince Alois arrives in Mumbai on State visit to India",
+      "updated_at": "2026-10-26T01:52:53.570799+00:00",
+      "url": "https://www.tribuneindia.com/news/diplomatic-reception/liechtensteins-acting-head-of-state-hereditary-prince-alois-arrives-in-mumbai-on-state-visit-to-india"
+    },
     "9f3bff8e1c83446273c69a25": {
       "published_at": "2026-10-25T14:31:17+00:00",
       "source": "thehindu.com",
@@ -3539,6 +3563,14 @@
       "title": "‘Mafia’: BJP attacks Congress after Kharge’s ‘baap’ remark targeting PM Modi",
       "updated_at": "2026-10-25T16:16:04.984630+00:00",
       "url": "https://www.hindustantimes.com/india-news/mafia-gang-bjp-attacks-congress-after-kharge-s-baap-remark-targeting-pm-modi-bihar-patna-101792941758920.html"
+    },
+    "b12fd39c40a774e040902837": {
+      "published_at": "2026-10-26T01:17:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Ahead of Israel election, local media reports of ‘clash’ between IDF boss and Netanyahu over Iran attack plans",
+      "updated_at": "2026-10-26T01:52:53.570804+00:00",
+      "url": "https://www.tribuneindia.com/news/election-tension/ahead-of-israel-election-local-media-reports-of-clash-between-idf-boss-and-netanyahu-over-iran-attack-plans"
     },
     "b1921293cc4a250f809ac09f": {
       "published_at": "2026-10-25T14:57:22+00:00",
@@ -5180,6 +5212,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T01:52:44.206909+00:00",
+  "last_cycle_at": "2026-10-26T01:52:53.571298+00:00",
   "schema_version": 1
 }
