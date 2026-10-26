@@ -1566,9 +1566,10 @@
     "3dffe51f1ddf400c4d909578": {
       "published_at": "2026-10-26T06:02:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10745,
       "title": "Bangladesh PM Tarique Rahman begins a 4-day visit to Japan to boost ties",
-      "updated_at": "2026-10-26T06:23:16.897041+00:00",
+      "updated_at": "2026-10-26T06:23:31.689413+00:00",
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-begins-a-4-day-visit-to-japan-to-boost-ties"
     },
     "3e04b894562d92668c215973": {
@@ -2775,9 +2776,10 @@
     "6e6d4ffd0c8fa302635758f1": {
       "published_at": "2026-10-26T05:59:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10744,
       "title": "Keralam plans Bill to regulate high treatment costs in private hospitals",
-      "updated_at": "2026-10-26T06:23:16.897037+00:00",
+      "updated_at": "2026-10-26T06:23:27.792238+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-plans-bill-to-regulate-high-treatment-costs-in-private-hospitals/article71625737.ece"
     },
     "6e81a0dcdc2b30442b469f92": {
@@ -3250,9 +3252,10 @@
     "7abda87c5b99d4becb410a05": {
       "published_at": "2026-10-26T05:57:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10742,
       "title": "PM Modi congratulates Lula on re-election in Brazil",
-      "updated_at": "2026-10-26T06:23:16.897001+00:00",
+      "updated_at": "2026-10-26T06:23:19.724071+00:00",
       "url": "https://www.thehindu.com/news/national/pm-modi-congratulates-lula-on-re-election-in-brazil/article71625738.ece"
     },
     "7be769f141d40f6f3e16760b": {
@@ -3644,9 +3647,10 @@
     "8adf2297340f20cdecf836ff": {
       "published_at": "2026-10-26T05:58:01+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10743,
       "title": "Shimla: न्यू शिमला में डंगा गिरा तो 16 परिवारों पर मंडराएगा खतरा, पार्किंग भी बड़ी समस्या",
-      "updated_at": "2026-10-26T06:23:16.897033+00:00",
+      "updated_at": "2026-10-26T06:23:23.603208+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-new-shimla-housing-safety-and-parking-crisis-2026-10-26"
     },
     "8b7e40d6cfb888ec0aa7b49d": {
@@ -6625,6 +6629,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T06:23:16.897705+00:00",
+  "last_cycle_at": "2026-10-26T06:23:34.890670+00:00",
   "schema_version": 1
 }
