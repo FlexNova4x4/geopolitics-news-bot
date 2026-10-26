@@ -1530,9 +1530,10 @@
     "34514f4a878f0543c4d82e4b": {
       "published_at": "2026-10-26T07:38:47+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10833,
       "title": "‘PM Narasimha Rao was prophetic; Collegium system won’t work in longer term’: Justice SK Kaul",
-      "updated_at": "2026-10-26T08:43:39.260357+00:00",
+      "updated_at": "2026-10-26T08:43:49.637337+00:00",
       "url": "https://www.tribuneindia.com/news/india/pm-narasimha-rao-was-prophetic-collegium-system-wont-work-in-longer-term-justice-sk-kaul"
     },
     "3499ac59864dbf3cd0ccf248": {
@@ -4276,9 +4277,10 @@
     "947fe3ebb1e100981d7703d5": {
       "published_at": "2026-10-26T07:33:47+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10831,
       "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
-      "updated_at": "2026-10-26T08:43:39.260338+00:00",
+      "updated_at": "2026-10-26T08:43:41.728998+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss"
     },
     "94ac3732d3c8ed7c2187849f": {
@@ -5790,9 +5792,10 @@
     "c8c0cab2bafd8dbcb18d9bd6": {
       "published_at": "2026-10-26T07:40:57+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10834,
       "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
-      "updated_at": "2026-10-26T08:43:39.260360+00:00",
+      "updated_at": "2026-10-26T08:43:53.768269+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss"
     },
     "c8d412277bdfa6974e671373": {
@@ -6014,9 +6017,10 @@
     "d3805b47e18355e1e8d97bd8": {
       "published_at": "2026-10-26T07:37:19+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10832,
       "title": "PMO highlights Lok Sabha Speaker Om Birla’s article on role of 12th BRICS Parliamentary Forum",
-      "updated_at": "2026-10-26T08:43:39.260354+00:00",
+      "updated_at": "2026-10-26T08:43:45.740481+00:00",
       "url": "https://www.tribuneindia.com/news/brics/pmo-highlights-lok-sabha-speaker-om-birlas-article-on-role-of-12th-brics-parliamentary-forum"
     },
     "d393a3d57a0f4b3af6d2e577": {
@@ -7417,6 +7421,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:43:39.261247+00:00",
+  "last_cycle_at": "2026-10-26T08:43:56.969632+00:00",
   "schema_version": 1
 }
