@@ -1063,9 +1063,10 @@
     "2e460be7bd6b465144035a59": {
       "published_at": "2026-10-26T04:54:40+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10698,
       "title": "Residents turn to alternative fuel amid gas shortages and rising LPG prices in twin cities",
-      "updated_at": "2026-10-26T05:23:18.374715+00:00",
+      "updated_at": "2026-10-26T05:23:29.554714+00:00",
       "url": "https://www.dawn.com/news/2039847/residents-turn-to-alternative-fuel-amid-gas-shortages-and-rising-lpg-prices-in-twin-cities"
     },
     "2e5ffdede6dfa8382bac1348": {
@@ -3098,9 +3099,10 @@
     "7ed6a14ec24cbe84aa11a2a7": {
       "published_at": "2026-10-26T04:47:27+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10696,
       "title": "Sharp rise in prices of smartphones burdens consumers in Karachi",
-      "updated_at": "2026-10-26T05:23:18.374694+00:00",
+      "updated_at": "2026-10-26T05:23:21.440944+00:00",
       "url": "https://www.dawn.com/news/2039859/sharp-rise-in-prices-of-smartphones-burdens-consumers-in-karachi"
     },
     "7f0ec9420f0e1678a0c733d2": {
@@ -4064,9 +4066,10 @@
     "a86d99b826ed95fb20231ab5": {
       "published_at": "2026-10-26T04:57:46+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10699,
       "title": "Fire at fuel station in Larkana causes widespread destruction",
-      "updated_at": "2026-10-26T05:23:18.374718+00:00",
+      "updated_at": "2026-10-26T05:23:33.752288+00:00",
       "url": "https://www.dawn.com/news/2039853/fire-at-fuel-station-in-larkana-causes-widespread-destruction"
     },
     "a88b3d03ee9856d2bd56a75a": {
@@ -4602,9 +4605,10 @@
     "c04d09efdfe915b6fd93ec3f": {
       "published_at": "2026-10-26T04:50:36+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10697,
       "title": "Karachi firms hired illustrators for child pornographic animations without disclosing nature of work: NCCIA",
-      "updated_at": "2026-10-26T05:23:18.374711+00:00",
+      "updated_at": "2026-10-26T05:23:25.407903+00:00",
       "url": "https://www.dawn.com/news/2039922/karachi-firms-hired-illustrators-for-child-pornographic-animations-without-disclosing-nature-of-work-nccia"
     },
     "c0a0ccf8c248421b74d84a78": {
@@ -6211,6 +6215,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:23:18.375293+00:00",
+  "last_cycle_at": "2026-10-26T05:23:36.953471+00:00",
   "schema_version": 1
 }
