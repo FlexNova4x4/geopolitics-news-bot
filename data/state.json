@@ -1833,6 +1833,14 @@
       "updated_at": "2026-10-25T09:04:39.544146+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss"
     },
+    "429851fff4057a296a2ca518": {
+      "published_at": "2026-10-26T06:58:31+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Sugar factories too have grievances, says Karnataka PWD Minister Satish Jarkiholi",
+      "updated_at": "2026-10-26T07:14:56.509943+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/sugar-factories-too-have-grievances-says-karnataka-pwd-minister-satish-jarkiholi/article71625786.ece"
+    },
     "42f5f151d5cde4369775590a": {
       "published_at": "2026-10-25T04:24:36+00:00",
       "source": "hindustantimes.com",
@@ -2174,6 +2182,14 @@
       "title": "Jordanian security forces arrest 3 men for deadly attack on church",
       "updated_at": "2026-10-26T06:43:44.400397+00:00",
       "url": "https://www.thehindu.com/news/international/three-suspects-arrested-after-deadly-karak-church-attack/article71625778.ece"
+    },
+    "4f32507c29205cded65b604b": {
+      "published_at": "2026-10-26T06:58:05+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Odisha bans fishing, tourist entry in 6 districts amid cyclone alert",
+      "updated_at": "2026-10-26T07:14:56.509929+00:00",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-tightens-cyclone-precautions-bans-sea-fishing-and-tourist-entry/article71625863.ece"
     },
     "4f371849fb9efa7fc2fcfcc8": {
       "published_at": "2026-10-25T07:34:41+00:00",
@@ -4441,6 +4457,14 @@
       "updated_at": "2026-10-25T15:10:49.509087+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-government-to-set-up-first-aid-medical-facilities-in-all-1086-government-schools-at-annual-cost-of-4887-crore-101792929121639.html"
     },
+    "a30c5ace461e48bb862b9b74": {
+      "published_at": "2026-10-26T07:02:45+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab threatens Andhra’s municipal polls; SEC hopes to hold them on schedule",
+      "updated_at": "2026-10-26T07:14:56.509947+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threatens-andhras-municipal-polls-sec-hopes-to-hold-them-on-schedule/article71625736.ece"
+    },
     "a3df215727480bf342cc847b": {
       "published_at": "2026-10-26T03:00:38+00:00",
       "source": "dawn.com",
@@ -5671,6 +5695,14 @@
       "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
       "updated_at": "2026-10-25T15:12:32.857864+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
+    "d22ba67e20915ffa85534711": {
+      "published_at": "2026-10-26T07:04:55+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "मंडी: दीपक शर्मा बोले- महर्षि वाल्मीकि के आदर्शों को जीवन में उतारें",
+      "updated_at": "2026-10-26T07:14:56.509950+00:00",
+      "url": "https://www.amarujala.com/video-shots/himachal-pradesh/mandi/video-maharishi-valmiki-jayanti-celebrations-in-mandi-2026-10-26"
     },
     "d293915be054fcbc4e578f87": {
       "published_at": "2026-10-23T14:50:00+00:00",
@@ -7052,6 +7084,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:14:48.181399+00:00",
+  "last_cycle_at": "2026-10-26T07:14:56.510872+00:00",
   "schema_version": 1
 }
