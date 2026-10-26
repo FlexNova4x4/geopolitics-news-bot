@@ -378,6 +378,14 @@
       "updated_at": "2026-10-26T00:58:24.020847+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/378-volunteers-held-a-march-in-dadri-conveying-a-message-of-social-harmony-kangra-news-c-95-1-kng1060-263338-2026-10-26"
     },
+    "10078a896ceed689f1e34ebc": {
+      "published_at": "2026-10-26T05:08:13+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Unnao woman found murdered in Lucknow, paper in bag with 4 names emerges as key lead",
+      "updated_at": "2026-10-26T05:52:57.147755+00:00",
+      "url": "https://www.hindustantimes.com/india-news/unnao-woman-found-murdered-in-lucknow-paper-in-bag-with-4-names-emerges-as-key-lead-101792988878125.html"
+    },
     "102ad4eba123e65defe850f8": {
       "published_at": "2026-10-26T03:14:26+00:00",
       "source": "aljazeera.com",
@@ -1184,6 +1192,14 @@
       "title": "Researchers secure patent for automated homeopathy medicine dispenser",
       "updated_at": "2026-10-25T15:14:54.395793+00:00",
       "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/researchers-secure-patent-for-automated-homeopathy-medicine-dispenser/article71623451.ece"
+    },
+    "30993307ab52b70e5d0ef3ac": {
+      "published_at": "2026-10-26T02:53:00+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "updated_at": "2026-10-26T05:52:57.147734+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
     },
     "30f2aa4da98503eacba52e9a": {
       "published_at": "2026-10-25T13:29:09+00:00",
@@ -4162,6 +4178,14 @@
       "updated_at": "2026-10-25T15:17:50.977557+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/hundreds-demand-removal-of-gyanesh-kumar-in-anti-sir-protest-in-hyderabad/article71623736.ece"
     },
+    "a8fb3c457a70088aa88a3f1b": {
+      "published_at": "2026-10-26T04:05:28+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "updated_at": "2026-10-26T05:52:57.147749+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
+    },
     "a9263e36b2903f34a79ecd7d": {
       "published_at": "2026-10-25T08:04:37+00:00",
       "source": "thehindu.com",
@@ -4286,6 +4310,14 @@
       "title": "Five held in investment fraud case",
       "updated_at": "2026-10-25T16:42:13.887574+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/five-held-in-investment-fraud-case/article71624245.ece"
+    },
+    "b0739e1ca9283319edca8de9": {
+      "published_at": "2026-10-26T05:07:28+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Newlywed woman dies at Jhansi hotel; CCTV captures her die in 5 seconds",
+      "updated_at": "2026-10-26T05:52:57.147752+00:00",
+      "url": "https://www.tribuneindia.com/news/uttar-pradesh/newlywed-woman-dies-at-jhansi-hotel-cctv-captures-her-die-in-5-seconds"
     },
     "b0ba69676148e54e4c460e86": {
       "published_at": "2026-10-25T15:33:25+00:00",
@@ -6350,6 +6382,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:52:49.922250+00:00",
+  "last_cycle_at": "2026-10-26T05:52:57.148537+00:00",
   "schema_version": 1
 }
