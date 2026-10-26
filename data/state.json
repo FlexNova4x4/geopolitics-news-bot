@@ -486,6 +486,14 @@
       "updated_at": "2026-10-26T05:53:34.244953+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss"
     },
+    "0d3d1f14b5167333f55d8b7b": {
+      "published_at": "2026-10-26T18:59:17+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Govt orders review of existing drug pricing formula to ensure medicines are priced fairly",
+      "updated_at": "2026-10-26T22:40:06.524624+00:00",
+      "url": "https://www.dawn.com/news/2040010/govt-orders-review-of-existing-drug-pricing-formula-to-ensure-medicines-are-priced-fairly"
+    },
     "0dd736df51ea9188a674d863": {
       "published_at": "2026-10-25T06:57:11+00:00",
       "source": "hindustantimes.com",
@@ -5071,6 +5079,14 @@
       "updated_at": "2026-10-26T02:52:38.363412+00:00",
       "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation"
     },
+    "86f0d0555acecc3df25bd44c": {
+      "published_at": "2026-10-26T18:53:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "State government relaxes norms for height restriction on non-high rise buildings",
+      "updated_at": "2026-10-26T22:40:06.524611+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece"
+    },
     "87122a28c1009f6059b7a7f3": {
       "published_at": "2026-10-26T04:37:16+00:00",
       "source": "publish.tribuneindia.com",
@@ -5566,6 +5582,14 @@
       "updated_at": "2026-10-26T07:14:41.067424+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/army-man-drowns-in-chaliyar-river-in-keralam-body-recovered-after-hours-of-search/article71625764.ece"
     },
+    "963bb255555a39a42e3529a5": {
+      "published_at": "2026-10-26T18:30:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Tiger Shroff firing case: Custody of four accused extended till Oct 28; 11th accused remanded till Oct 31",
+      "updated_at": "2026-10-26T22:40:06.524575+00:00",
+      "url": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece"
+    },
     "964cfdee41a23f48c9e18345": {
       "published_at": "2026-10-25T09:57:37+00:00",
       "source": "thehindu.com",
@@ -5655,6 +5679,14 @@
       "title": "Nasirabad pylon blast cuts power to many areas",
       "updated_at": "2026-10-25T04:06:05.451448+00:00",
       "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
+    },
+    "985c5e6e1837e71bfbb3f6c7": {
+      "published_at": "2026-10-26T18:56:32+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Minister Vanni Arasu inspects rain affected areas in Kallakurichi",
+      "updated_at": "2026-10-26T22:40:06.524617+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/minister-vanni-arasu-inspects-rain-affected-areas-in-kallakurichi/article71626589.ece"
     },
     "98a816ed69f52680cd432a3c": {
       "published_at": "2026-10-25T16:40:31+00:00",
@@ -9631,6 +9663,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:48:31.051983+00:00",
+  "last_cycle_at": "2026-10-26T22:40:06.527100+00:00",
   "schema_version": 1
 }
