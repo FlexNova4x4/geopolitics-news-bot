@@ -2580,6 +2580,14 @@
       "updated_at": "2026-10-25T08:05:09.055538+00:00",
       "url": "https://www.thehindu.com/education/20-hour-introductory-module-on-computational-thinking-and-artificial-intelligence-released-by-ncert/article71622775.ece"
     },
+    "4f3983676faefe3431ef654c": {
+      "published_at": "2026-10-26T10:27:17+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Russian Duma Chairman Volodin holds bilateral talks with Uganda, Cuba, Thailand counterparts at BRICS parliamentary forum",
+      "updated_at": "2026-10-26T10:46:43.607905+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-discussions/russian-duma-chairman-volodin-holds-bilateral-talks-with-uganda-cuba-thailand-counterparts-at-brics-parliamentary-forum"
+    },
     "4f463247538a1a95d34f042d": {
       "published_at": "2026-10-25T14:34:10+00:00",
       "source": "hindustantimes.com",
@@ -3071,6 +3079,14 @@
       "title": "Congress demands Manipur CM’s resignation, fresh polls amid renewed violence",
       "updated_at": "2026-10-25T11:35:14.204205+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/congress-demands-manipur-cms-resignation-fresh-polls-amid-renewed-violence/article71623008.ece"
+    },
+    "6040643cfb3b18f775a0114c": {
+      "published_at": "2026-10-26T10:25:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Police conduct flag march in Guntur ahead of GMC elections",
+      "updated_at": "2026-10-26T10:46:43.607886+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-flag-march-in-guntur-ahead-of-gmc-elections/article71626193.ece"
     },
     "605943d1806b7d3baa4680a1": {
       "published_at": "2026-10-24T22:35:45+00:00",
@@ -4498,6 +4514,14 @@
       "title": "Supreme Court issues notice on plea against Chhattisgarh anti-conservation law",
       "updated_at": "2026-10-26T09:15:34.268340+00:00",
       "url": "https://www.hindustantimes.com/india-news/supreme-court-issues-notice-on-plea-against-chhattisgarh-anti-conservation-law-101793003923614.html"
+    },
+    "878288f1cf06d645290d5869": {
+      "published_at": "2026-10-26T10:30:31+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rain lashes districts across southern Tamil Nadu",
+      "updated_at": "2026-10-26T10:46:43.607910+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/rain-lashes-districts-across-southern-tamil-nadu/article71626092.ece"
     },
     "87837867cfa1c31a96738fb2": {
       "published_at": "2026-10-25T17:53:31+00:00",
@@ -6436,6 +6460,14 @@
       "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
       "updated_at": "2026-10-25T09:04:54.469451+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+    },
+    "c3683bf4a7244ba0b5121cc9": {
+      "published_at": "2026-10-26T10:31:58+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Pakistan rejects Afghan Taliban's claims of civilian casualties in counterterrorism operations",
+      "updated_at": "2026-10-26T10:46:43.607914+00:00",
+      "url": "https://www.dawn.com/news/2039958/pakistan-rejects-afghan-talibans-claims-of-civilian-casualties-in-counterterrorism-operations"
     },
     "c36ad6347a250b24af4d36b4": {
       "published_at": "2026-10-25T16:08:45+00:00",
@@ -8483,6 +8515,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:46:24.570790+00:00",
+  "last_cycle_at": "2026-10-26T10:46:43.608885+00:00",
   "schema_version": 1
 }
