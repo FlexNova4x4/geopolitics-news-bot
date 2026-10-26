@@ -1412,6 +1412,14 @@
       "updated_at": "2026-10-26T04:22:56.463115+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-kullu-dussehra-fifth-cultural-evening-rohanpreet-singh-ramesh-thakur-anuj-sharma-2026-10-26"
     },
+    "23ead5ea2873dd1a9357dc38": {
+      "published_at": "2026-10-26T19:11:54+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Heavenly Creatures killer Pauline Parker dies in Orkney, aged 88",
+      "updated_at": "2026-10-26T23:10:20.981029+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3425g5381o?at_medium=RSS&at_campaign=rss"
+    },
     "24328b809fdeacc2006cd43f": {
       "published_at": "2026-10-26T05:12:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -10225,6 +10233,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:46:27.660119+00:00",
+  "last_cycle_at": "2026-10-26T23:10:20.982829+00:00",
   "schema_version": 1
 }
