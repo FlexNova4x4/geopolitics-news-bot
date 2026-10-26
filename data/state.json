@@ -830,9 +830,10 @@
     "1d44f7fef5b6a2da86c8661c": {
       "published_at": "2026-10-26T07:49:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10837,
       "title": "Heavy rain inundates streets, homes in Coimbatore city",
-      "updated_at": "2026-10-26T08:44:04.021712+00:00",
+      "updated_at": "2026-10-26T08:44:14.704473+00:00",
       "url": "https://www.thehindu.com/news/cities/Coimbatore/heavy-rain-inundates-streets-homes-in-coimbatore-city/article71625848.ece"
     },
     "1d8b4809ebf533abe57d2683": {
@@ -1907,9 +1908,10 @@
     "42be681e5fa191a0ebc2e444": {
       "published_at": "2026-10-26T07:48:43+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10836,
       "title": "Case filed against actor Urmila Sanawar for remarks against Sikkim governor Gautam",
-      "updated_at": "2026-10-26T08:44:04.021707+00:00",
+      "updated_at": "2026-10-26T08:44:10.391717+00:00",
       "url": "https://www.hindustantimes.com/india-news/case-filed-against-actor-urmila-sanawar-for-remarks-against-sikkim-governor-gautam-101793000924444.html"
     },
     "42f5f151d5cde4369775590a": {
@@ -3475,9 +3477,10 @@
     "7765626bc01f30fa48dffdce": {
       "published_at": "2026-10-26T07:42:01+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10835,
       "title": "Motor Accident Claims Tribunal judge booked after minor son rams Mercedes into scooter, kills rider in Kochi",
-      "updated_at": "2026-10-26T08:44:04.021687+00:00",
+      "updated_at": "2026-10-26T08:44:06.467736+00:00",
       "url": "https://www.hindustantimes.com/india-news/motor-accident-claims-tribunal-judge-booked-after-minor-son-rams-mercedes-into-scooter-kills-rider-in-kochi-101793000327805.html"
     },
     "77786d5be8b00ee0754c51c2": {
@@ -4472,9 +4475,10 @@
     "9ad8d654dff4085bc2721492": {
       "published_at": "2026-10-26T07:54:44+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10838,
       "title": "UP Police constitute SIT to probe accident involving vehicles in Rahul Gandhi’s convoy",
-      "updated_at": "2026-10-26T08:44:04.021716+00:00",
+      "updated_at": "2026-10-26T08:44:18.717030+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/up-police-constitute-sit-to-probe-accident-involving-vehicles-in-rahul-gandhis-convoy"
     },
     "9adeceb6fe7acda4ac474d57": {
@@ -7453,6 +7457,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:44:04.022721+00:00",
+  "last_cycle_at": "2026-10-26T08:44:21.918659+00:00",
   "schema_version": 1
 }
