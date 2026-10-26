@@ -408,9 +408,10 @@
     "1142206d28bba1a030078337": {
       "published_at": "2026-10-26T04:28:26+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10677,
       "title": "As Kharge's remark sparks row, 'heckler' clarifies 'Modi won't go anywhere' remark",
-      "updated_at": "2026-10-26T04:53:38.720635+00:00",
+      "updated_at": "2026-10-26T04:53:45.376452+00:00",
       "url": "https://www.hindustantimes.com/india-news/as-kharges-remark-sparks-row-heckler-clarifies-modi-wont-go-anywhere-remark-101792981689712.html"
     },
     "11518b6023a3677f9818ff72": {
@@ -542,9 +543,10 @@
     "1661ead716406580eee3ab68": {
       "published_at": "2026-10-26T04:30:31+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10678,
       "title": "'Indians don't create disturbance on streets': Piyush Goyal's praise for diaspora amid Europe protests",
-      "updated_at": "2026-10-26T04:53:38.720639+00:00",
+      "updated_at": "2026-10-26T04:53:49.515048+00:00",
       "url": "https://www.hindustantimes.com/india-news/indians-dont-create-disturbance-on-streets-piyush-goyal-france-comparison-amid-protests-across-europe-italy-india-anti-ec-cjp-stir-101792988461681.html"
     },
     "1672b65e0801b5f9a89847e6": {
@@ -1114,9 +1116,10 @@
     "2fd54c91b5af3a4f14f8c59f": {
       "published_at": "2026-10-26T04:26:38+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10676,
       "title": "सिरमौर: शिलाई के शरली गांव में विवाह और समाज सुधार पर बड़े फैसले, दहेज पर रोक और बारातियों की संख्या होगी सीमित",
-      "updated_at": "2026-10-26T04:53:38.720617+00:00",
+      "updated_at": "2026-10-26T04:53:41.206808+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-sharli-village-shillai-marriage-reform-rules-sirmaur-himachal-pradesh-2026-2026-10-26"
     },
     "2ff4a1771e5181ce5d42e451": {
@@ -3455,9 +3458,10 @@
     "943de8f4c6f271e66fc62983": {
       "published_at": "2026-10-26T04:34:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10679,
       "title": "17 candidates unanimously elected chairpersons of municipalities, nagar panchayats in Andhra Pradesh",
-      "updated_at": "2026-10-26T04:53:38.720641+00:00",
+      "updated_at": "2026-10-26T04:53:53.634868+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/17-candidates-unanimously-elected-chairpersons-of-municipalities-nagar-panchayats-in-andhra-pradesh/article71625461.ece"
     },
     "94642db6a084efb54b352850": {
@@ -6031,6 +6035,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:53:38.721191+00:00",
+  "last_cycle_at": "2026-10-26T04:53:56.836075+00:00",
   "schema_version": 1
 }
