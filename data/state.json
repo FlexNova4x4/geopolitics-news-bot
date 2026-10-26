@@ -3490,9 +3490,10 @@
     "a42afe7b9e169b8444e6eaa2": {
       "published_at": "2026-10-26T02:46:29+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10616,
       "title": "Consumer protection body slaps ₹1 lakh fine on walkie-talkie sellers for non-disclosure of essential information",
-      "updated_at": "2026-10-26T03:22:25.277812+00:00",
+      "updated_at": "2026-10-26T03:22:40.078987+00:00",
       "url": "https://www.hindustantimes.com/india-news/consumer-protection-body-slaps-1-lakh-fine-on-walkie-talkie-sellers-for-non-disclosure-of-essential-information-101792982060223.html"
     },
     "a467ad07ebc3c64000b5ac93": {
@@ -3911,9 +3912,10 @@
     "ba0499b8a51b9f7e61036282": {
       "published_at": "2026-10-26T02:32:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10615,
       "title": "“Brazil is no one’s backyard”: President Lula says voting safeguarded democracy after win",
-      "updated_at": "2026-10-26T03:22:25.277809+00:00",
+      "updated_at": "2026-10-26T03:22:35.944885+00:00",
       "url": "https://www.tribuneindia.com/news/brazil/brazil-is-no-ones-backyard-president-lula-says-voting-safeguarded-democracy-after-win"
     },
     "ba197f922032f8cdf091127e": {
@@ -4179,9 +4181,10 @@
     "c5ff3410ddc891d205020635": {
       "published_at": "2026-10-26T02:31:34+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10614,
       "title": "Hands-On Learning: How NCERT’s AI module uses real-life examples, classroom activities to teach Classes 9 to 12",
-      "updated_at": "2026-10-26T03:22:25.277805+00:00",
+      "updated_at": "2026-10-26T03:22:31.804471+00:00",
       "url": "https://www.hindustantimes.com/india-news/handson-learning-how-ncert-s-ai-module-uses-real-life-examples-classroom-activities-to-teach-classes-9-to-12-101792981066677.html"
     },
     "c6902c8a4bc3b83ad794610d": {
@@ -4850,9 +4853,10 @@
     "e98fb4bbc65cbf29789c2107": {
       "published_at": "2026-10-26T01:06:13+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10613,
       "title": "Pakistan’s food supply fails own dietary guidelines: FAO",
-      "updated_at": "2026-10-26T03:22:25.277789+00:00",
+      "updated_at": "2026-10-26T03:22:27.751788+00:00",
       "url": "https://www.dawn.com/news/2039816/pakistans-food-supply-fails-own-dietary-guidelines-fao"
     },
     "eae98406a38dc2218ff3404a": {
@@ -5464,6 +5468,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:22:25.278317+00:00",
+  "last_cycle_at": "2026-10-26T03:22:43.280071+00:00",
   "schema_version": 1
 }
