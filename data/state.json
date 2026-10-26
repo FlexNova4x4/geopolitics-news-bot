@@ -459,6 +459,14 @@
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
     },
+    "0b92aaf263ee55917f769d69": {
+      "published_at": "2026-10-26T19:52:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Shimla News: खेल-खेल में बच्चों को सिखाई गिनती और करवाई रंगों की पहचान",
+      "updated_at": "2026-10-26T22:41:39.071490+00:00",
+      "url": "https://www.amarujala.com/shimla/taught-children-counting-and-helped-them-identify-colors-through-play-shimla-news-c-176-1-sln1016-182876-2026-10-26"
+    },
     "0b9585e1571fda7adea9e9be": {
       "published_at": "2026-10-26T08:12:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -1912,6 +1920,14 @@
       "title": "नितिन गडकरी से मिले विधानसभा अध्यक्ष: चुवाड़ी-चंबा सुरंग सहित जोत तीसा-साच पांगी सड़क को एनएच बनाने की रखी मांग",
       "updated_at": "2026-10-26T11:13:45.845443+00:00",
       "url": "https://www.amarujala.com/shimla/assembly-speaker-meets-nitin-gadkari-demands-that-the-chuwari-chamba-tunnel-and-the-jot-tisa-sach-pangi-road-2026-10-26"
+    },
+    "332ed1b6b3d7262c562358e4": {
+      "published_at": "2026-10-26T19:49:31+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "80 injured after bus plunges down embankment near Barcelona",
+      "updated_at": "2026-10-26T22:41:39.071480+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss"
     },
     "33585be33769eee345ccbe20": {
       "published_at": "2026-10-25T16:59:41+00:00",
@@ -3859,6 +3875,14 @@
       "title": "Death toll from collision between passenger coach and minibus near Balochistan's Uthal rises to 15",
       "updated_at": "2026-10-25T04:06:13.654815+00:00",
       "url": "https://www.dawn.com/news/2039684/death-toll-from-collision-between-passenger-coach-and-minibus-near-balochistans-uthal-rises-to-15"
+    },
+    "6881fa4959c700ad42edc3f3": {
+      "published_at": "2026-10-26T19:48:27+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Media association challenges privacy law in Supreme Court",
+      "updated_at": "2026-10-26T22:41:39.071457+00:00",
+      "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
     },
     "68be5f134af11c6b01abb1d5": {
       "published_at": "2026-10-26T03:33:44+00:00",
@@ -7378,6 +7402,14 @@
       "updated_at": "2026-10-26T13:34:02.202287+00:00",
       "url": "https://www.thehindu.com/news/international/daily-quiz-on-un-81st-anniversary/article71625505.ece"
     },
+    "c0c025fd9f3dfa6c1f7f6dae": {
+      "published_at": "2026-10-26T19:51:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal’s power policy may add Rs 550 crore to electricity board bill",
+      "updated_at": "2026-10-26T22:41:39.071485+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachals-power-policy-may-add-550-crore-to-electricity-board-bill"
+    },
     "c1482d6f3ced47689e4eb8ad": {
       "published_at": "2026-10-25T20:40:55+00:00",
       "source": "amarujala.com",
@@ -9775,6 +9807,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:41:31.757676+00:00",
+  "last_cycle_at": "2026-10-26T22:41:39.072942+00:00",
   "schema_version": 1
 }
