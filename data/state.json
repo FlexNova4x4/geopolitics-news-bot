@@ -30,9 +30,10 @@
     "022bda1c79e27b6ade10deae": {
       "published_at": "2026-10-26T03:48:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10641,
       "title": "Deep depression intensifies into Cyclonic Storm Arnab",
-      "updated_at": "2026-10-26T03:53:36.929139+00:00",
+      "updated_at": "2026-10-26T03:53:51.392277+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/deep-depression-intensifies-into-cyclonic-storm-arnab/article71625560.ece"
     },
     "02311d6adcf0eed7be9b2f25": {
@@ -703,9 +704,10 @@
     "208807a29b94609868fddbdb": {
       "published_at": "2026-10-26T03:44:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10639,
       "title": "शिमला: रामपुर में हाईटेंशन लाइन की चपेट में आने से 22 वर्षीय मजदूर की मौत, एक अन्य गंभीर रूप से झुलसा",
-      "updated_at": "2026-10-26T03:53:36.929133+00:00",
+      "updated_at": "2026-10-26T03:53:43.303882+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/rampur-bushahar/rampur-bushahr-22-kv-high-tension-line-accident-worker-gajay-singh-death-2026-10-26"
     },
     "20bc2993885a8d17c66192d6": {
@@ -4171,9 +4173,10 @@
     "be2cd056c9f9f0713edde282": {
       "published_at": "2026-10-26T03:47:28+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10640,
       "title": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
-      "updated_at": "2026-10-26T03:53:36.929136+00:00",
+      "updated_at": "2026-10-26T03:53:47.427896+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss"
     },
     "be3b35495768a628df6e3a26": {
@@ -5620,9 +5623,10 @@
     "fe11df87d0641661968fd5bc": {
       "published_at": "2026-10-26T03:41:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10638,
       "title": "Ruling TDP-led bloc wins 17 of 87 Andhra Pradesh urban local bodies uncontested",
-      "updated_at": "2026-10-26T03:53:36.929118+00:00",
+      "updated_at": "2026-10-26T03:53:39.152612+00:00",
       "url": "https://www.hindustantimes.com/india-news/ruling-tdp-led-bloc-wins-17-of-87-andhra-pradesh-urban-local-bodies-uncontested-101792986100691.html"
     },
     "fe2cbd9325d39f55a5f8c7af": {
@@ -5689,6 +5693,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T03:53:36.929662+00:00",
+  "last_cycle_at": "2026-10-26T03:53:54.593418+00:00",
   "schema_version": 1
 }
