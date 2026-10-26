@@ -1890,9 +1890,10 @@
     "4d314a73950718caf1bda1b3": {
       "published_at": "2026-10-26T04:59:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10701,
       "title": "Student sets mehndi record in Karnataka",
-      "updated_at": "2026-10-26T05:23:43.094844+00:00",
+      "updated_at": "2026-10-26T05:23:50.733611+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/student-sets-mehndi-record-in-karnataka/article71623773.ece"
     },
     "4f371849fb9efa7fc2fcfcc8": {
@@ -2121,9 +2122,10 @@
     "590366bf02feaba8f60df48d": {
       "published_at": "2026-10-26T04:58:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10700,
       "title": "Political Line | Local, national, and anti-national",
-      "updated_at": "2026-10-26T05:23:43.094827+00:00",
+      "updated_at": "2026-10-26T05:23:46.770282+00:00",
       "url": "https://www.thehindu.com/news/national/political-line-local-national-and-anti-national/article65042538.ece"
     },
     "596344f7ed56b23cef4c3a08": {
@@ -2245,9 +2247,10 @@
     "5ca4797808088b5185fc2e14": {
       "published_at": "2026-10-26T05:01:53+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10703,
       "title": "Proclaimed offender wanted for last 16 years arrested in Islamabad;",
-      "updated_at": "2026-10-26T05:23:43.094851+00:00",
+      "updated_at": "2026-10-26T05:23:58.826319+00:00",
       "url": "https://www.dawn.com/news/2039923/proclaimed-offender-wanted-for-last-16-years-arrested-in-islamabad"
     },
     "5d37ae1020a3bd90c3126f48": {
@@ -4584,9 +4587,10 @@
     "bf0fe8c22deff580e861168d": {
       "published_at": "2026-10-26T05:00:44+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10702,
       "title": "Gold bars worth over ₹2.08 crore seized; two arrested in Chennai",
-      "updated_at": "2026-10-26T05:23:43.094847+00:00",
+      "updated_at": "2026-10-26T05:23:54.703577+00:00",
       "url": "https://www.hindustantimes.com/india-news/gold-bars-worth-over-2-08-crore-seized-two-arrested-in-chennai-101792990844509.html"
     },
     "bf45bde197193fa243b7d8cc": {
@@ -6247,6 +6251,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:23:43.095466+00:00",
+  "last_cycle_at": "2026-10-26T05:24:02.027508+00:00",
   "schema_version": 1
 }
