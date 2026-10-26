@@ -183,9 +183,10 @@
     "04d4661c08e424f3925df339": {
       "published_at": "2026-10-26T12:20:14+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11052,
       "title": "Central bank raises policy rate by 50 basis points to 12pc",
-      "updated_at": "2026-10-26T13:41:44.918791+00:00",
+      "updated_at": "2026-10-26T13:41:51.086902+00:00",
       "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc"
     },
     "04f8c2d2edc74633a5465a3b": {
@@ -740,9 +741,10 @@
     "13ff1cd56660f30975df7a4b": {
       "published_at": "2026-10-26T12:23:44+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11054,
       "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
-      "updated_at": "2026-10-26T13:41:44.918797+00:00",
+      "updated_at": "2026-10-26T13:41:58.735884+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss"
     },
     "1465f4d8bc4c6500e418081c": {
@@ -2517,9 +2519,10 @@
     "4734132a8ec9309e0e325abb": {
       "published_at": "2026-10-26T12:18:12+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11051,
       "title": "Manchester United crisis: What are the top five problems facing the club?",
-      "updated_at": "2026-10-26T13:41:44.918771+00:00",
+      "updated_at": "2026-10-26T13:41:47.290367+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss"
     },
     "4742bcbe8ffa72554ba6ee1b": {
@@ -8392,9 +8395,10 @@
     "e7b2bcfb96191c5e1424d96f": {
       "published_at": "2026-10-26T12:23:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11053,
       "title": "Teenage girl raped, murdered in Bengal's Gaighata; one arrested",
-      "updated_at": "2026-10-26T13:41:44.918794+00:00",
+      "updated_at": "2026-10-26T13:41:54.909571+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/teenage-girl-raped-murdered-in-bengals-gaighata-one-arrested/article71626883.ece"
     },
     "e7c94022901ea2b1e50be64b": {
@@ -9375,6 +9379,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:41:44.919534+00:00",
+  "last_cycle_at": "2026-10-26T13:42:01.937263+00:00",
   "schema_version": 1
 }
