@@ -1791,9 +1791,10 @@
     "4948ed7abc5784e377a9b258": {
       "published_at": "2026-10-26T01:07:22+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10689,
       "title": "Crime in Punjab cut by 63pc in Sept, claims CCD",
-      "updated_at": "2026-10-26T05:22:26.814344+00:00",
+      "updated_at": "2026-10-26T05:22:34.001208+00:00",
       "url": "https://www.dawn.com/news/2039792/crime-in-punjab-cut-by-63pc-in-sept-claims-ccd"
     },
     "49bad963a3556e142d805c93": {
@@ -3223,9 +3224,10 @@
     "83f4ef8524a42dae64ace4ee": {
       "published_at": "2026-10-26T01:06:50+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10688,
       "title": "Khuhro rules out possibility of any new province in Sindh",
-      "updated_at": "2026-10-26T05:22:26.814326+00:00",
+      "updated_at": "2026-10-26T05:22:29.807987+00:00",
       "url": "https://www.dawn.com/news/2039850/khuhro-rules-out-possibility-of-any-new-province-in-sindh"
     },
     "8490f7619591dc2979297fb7": {
@@ -3564,9 +3566,10 @@
     "9515eecf0b2a570c9accd517": {
       "published_at": "2026-10-26T04:18:48+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10691,
       "title": "Amid hunger strike, Jamia varsity agrees to hold student union polls after 21 years",
-      "updated_at": "2026-10-26T05:22:26.814531+00:00",
+      "updated_at": "2026-10-26T05:22:42.209674+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/jamia-agrees-to-hold-students-union-polls-revokes-suspension-notices-amid-protests"
     },
     "95245a9f68f7fb86369461f3": {
@@ -4260,9 +4263,10 @@
     "b66f5193de096b970dfe018f": {
       "published_at": "2026-10-26T01:07:44+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10690,
       "title": "Special polio drive in Peshawar’s high-risk UCs begins today",
-      "updated_at": "2026-10-26T05:22:26.814527+00:00",
+      "updated_at": "2026-10-26T05:22:38.139138+00:00",
       "url": "https://www.dawn.com/news/2039779/special-polio-drive-in-peshawars-high-risk-ucs-begins-today"
     },
     "b6afaa754d9dc95c5397ceae": {
@@ -6139,6 +6143,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:22:26.815055+00:00",
+  "last_cycle_at": "2026-10-26T05:22:45.410802+00:00",
   "schema_version": 1
 }
