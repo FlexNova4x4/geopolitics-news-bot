@@ -3882,9 +3882,10 @@
     "7f9f53fdb5a88887b8a99809": {
       "published_at": "2026-10-26T08:37:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10881,
       "title": "As Trump endorses Netanyahu ahead of Israel poll, President Herzog says “Trump can’t intervene on his discretion”",
-      "updated_at": "2026-10-26T09:15:23.846911+00:00",
+      "updated_at": "2026-10-26T09:15:30.162691+00:00",
       "url": "https://www.tribuneindia.com/news/coalition/as-trump-endorses-netanyahu-ahead-of-israel-poll-president-herzog-says-trump-cant-intervene-on-his-discretion"
     },
     "800c3d267e92ae5c036a2b46": {
@@ -4015,9 +4016,10 @@
     "83721c0f2e0fffde82176b41": {
       "published_at": "2026-10-26T08:40:52+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10883,
       "title": "SC/ST status is state-specific, cannot be carried across states: Orissa HC",
-      "updated_at": "2026-10-26T09:15:23.846918+00:00",
+      "updated_at": "2026-10-26T09:15:38.442461+00:00",
       "url": "https://www.hindustantimes.com/india-news/scst-status-is-state-specific-cannot-be-carried-across-states-orissa-hc-101793004053179.html"
     },
     "83838995307c024e7bbcd69e": {
@@ -4221,9 +4223,10 @@
     "876dbbc9f982c5b5d5fe924b": {
       "published_at": "2026-10-26T08:38:43+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10882,
       "title": "Supreme Court issues notice on plea against Chhattisgarh anti-conservation law",
-      "updated_at": "2026-10-26T09:15:23.846915+00:00",
+      "updated_at": "2026-10-26T09:15:34.268340+00:00",
       "url": "https://www.hindustantimes.com/india-news/supreme-court-issues-notice-on-plea-against-chhattisgarh-anti-conservation-law-101793003923614.html"
     },
     "87837867cfa1c31a96738fb2": {
@@ -4409,9 +4412,10 @@
     "918a96bc1c2dc0d16109056f": {
       "published_at": "2026-10-26T08:26:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10880,
       "title": "Kimi Antonelli wins US Grand Prix, closes in on F1 championship",
-      "updated_at": "2026-10-26T09:15:23.846893+00:00",
+      "updated_at": "2026-10-26T09:15:26.199861+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss"
     },
     "91ee9952970e21fd9a42b354": {
@@ -7858,6 +7862,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:15:23.847752+00:00",
+  "last_cycle_at": "2026-10-26T09:15:41.643935+00:00",
   "schema_version": 1
 }
