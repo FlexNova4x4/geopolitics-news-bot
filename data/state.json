@@ -730,9 +730,10 @@
     "2b27b4150aea62713053877e": {
       "published_at": "2026-10-26T00:02:55+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10502,
       "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "updated_at": "2026-10-26T00:31:24.716741+00:00",
+      "updated_at": "2026-10-26T00:31:30.447312+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss"
     },
     "2b4e65cf9720ea1333d81868": {
@@ -1142,9 +1143,10 @@
     "3e04b894562d92668c215973": {
       "published_at": "2026-10-26T00:16:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10503,
       "title": "Lula holds off far right with victory in Brazil presidential election",
-      "updated_at": "2026-10-26T00:31:24.716744+00:00",
+      "updated_at": "2026-10-26T00:31:34.210219+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss"
     },
     "3e6aa50c9b6b63e9d83faef0": {
@@ -3163,9 +3165,10 @@
     "b7ff10c4cc7c564555a6181e": {
       "published_at": "2026-10-25T19:57:54+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10501,
       "title": "KP Governor Kundi says Sohail Afridi, assembly speaker 'in safe hands' after house arrest",
-      "updated_at": "2026-10-26T00:31:24.716722+00:00",
+      "updated_at": "2026-10-26T00:31:26.682283+00:00",
       "url": "https://www.dawn.com/news/2039755/kp-governor-kundi-says-sohail-afridi-assembly-speaker-in-safe-hands-after-house-arrest"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
@@ -4466,6 +4469,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:31:24.717276+00:00",
+  "last_cycle_at": "2026-10-26T00:31:37.411109+00:00",
   "schema_version": 1
 }
