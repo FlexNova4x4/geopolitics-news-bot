@@ -2879,9 +2879,10 @@
     "4aa78057915b6c90974a1de5": {
       "published_at": "2026-10-26T20:12:55+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11116,
       "title": "Himachal Chief Minister Sukhvinder Singh Sukhu announces Rs 25 lakh for Valmiki temple",
-      "updated_at": "2026-10-26T22:42:53.034595+00:00",
+      "updated_at": "2026-10-26T22:43:03.336952+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-chief-minister-sukhvinder-singh-sukhu-announces-25-lakh-for-valmiki-temple"
     },
     "4ae7702a22d3612dfcd0dec6": {
@@ -3710,9 +3711,10 @@
     "62b8bc8f3f931d635c183361": {
       "published_at": "2026-10-26T20:06:52+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11114,
       "title": "Himachal BJP divided into five factions, says CM Sukhvinder Singh Sukhu ahead of 2027 poll",
-      "updated_at": "2026-10-26T22:42:53.034567+00:00",
+      "updated_at": "2026-10-26T22:42:55.541647+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-bjp-divided-into-five-factions-says-cm-sukhvinder-singh-sukhu-ahead-of-2027-poll"
     },
     "62cded6588590a0fdaa9e7b5": {
@@ -5765,9 +5767,10 @@
     "966ead07d4b91af5e081696d": {
       "published_at": "2026-10-26T20:16:18+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11117,
       "title": "Hamirpur (Himachal) News: हथली पुल पर 1 किलो 28 ग्राम चरस के साथ दो युवक पकड़े",
-      "updated_at": "2026-10-26T22:42:53.034599+00:00",
+      "updated_at": "2026-10-26T22:43:07.240181+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/two-youths-caught-on-hathli-bridge-with-1-kg-28-grams-of-charas-hamirpur-hp-news-c-94-1-hmp1005-213479-2026-10-27"
     },
     "9696e1d2aa2b24343e43f01e": {
@@ -7621,9 +7624,10 @@
     "c3ee7f9884f3388e4273b5c8": {
       "published_at": "2026-10-26T20:11:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11115,
       "title": "Micro plastics in Uhal an environmental threat",
-      "updated_at": "2026-10-26T22:42:53.034590+00:00",
+      "updated_at": "2026-10-26T22:42:59.432284+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/micro-plastics-in-uhal-an-environmental-threat"
     },
     "c44dc796c044d52a24c420b9": {
@@ -9915,6 +9919,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:42:53.036281+00:00",
+  "last_cycle_at": "2026-10-26T22:43:10.442974+00:00",
   "schema_version": 1
 }
