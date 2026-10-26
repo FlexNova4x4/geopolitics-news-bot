@@ -1647,9 +1647,10 @@
     "2bf00bc17cf1d80b54a2cf8b": {
       "published_at": "2026-10-26T20:32:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11131,
       "title": "“Spectre of ethnic cleansing looming”: UN Chief Antonio Guterres expresses deep alarm over Israeli actions in West Bank",
-      "updated_at": "2026-10-26T22:44:27.130843+00:00",
+      "updated_at": "2026-10-26T22:44:33.379496+00:00",
       "url": "https://www.tribuneindia.com/news/antonio-guterres/spectre-of-ethnic-cleansing-looming-un-chief-antonio-guterres-expresses-deep-alarm-over-israeli-actions-in-west-bank"
     },
     "2ca639c6b0aa4e783169be7d": {
@@ -3567,9 +3568,10 @@
     "5cfa53eb5862a5b22d5018e6": {
       "published_at": "2026-10-26T20:38:40+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11132,
       "title": "What Vucic’s defeat means for Serbia’s foreign policy",
-      "updated_at": "2026-10-26T22:44:27.130848+00:00",
+      "updated_at": "2026-10-26T22:44:37.108312+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss"
     },
     "5d2e5f9f1e1b5d17cc8ffcfd": {
@@ -5630,9 +5632,10 @@
     "924bfe57e5f197878e10a887": {
       "published_at": "2026-10-26T20:41:12+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11133,
       "title": "Senate blocks move to withdraw diplomatic passport privileges from state ministers, advisers",
-      "updated_at": "2026-10-26T22:44:27.130853+00:00",
+      "updated_at": "2026-10-26T22:44:41.009636+00:00",
       "url": "https://www.dawn.com/news/2040000/senate-blocks-move-to-withdraw-diplomatic-passport-privileges-from-state-ministers-advisers"
     },
     "928f636cc301831be6854c23": {
@@ -9812,9 +9815,10 @@
     "fab92f3d966c5951063eb83b": {
       "published_at": "2026-10-26T20:28:52+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11130,
       "title": "Himachal: 14 months after bridge collapse, three Banjar villages still cut off",
-      "updated_at": "2026-10-26T22:44:27.130819+00:00",
+      "updated_at": "2026-10-26T22:44:29.431575+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-14-months-after-bridge-collapse-three-banjar-villages-still-cut-off"
     },
     "fab96a2b4ff7229bb431349f": {
@@ -10059,6 +10063,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:44:27.132509+00:00",
+  "last_cycle_at": "2026-10-26T22:44:44.212523+00:00",
   "schema_version": 1
 }
