@@ -1896,6 +1896,14 @@
       "updated_at": "2026-10-25T08:34:53.763027+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-calls-on-dmk-cadres-to-prepare-to-oust-tvk-led-government-soon-in-tamil-nadu/article71622737.ece"
     },
+    "3b85cdd2a0c40cd18603de7d": {
+      "published_at": "2026-10-26T10:24:09+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab to make landfall on October 28 in Andhra Pradesh, evacuation of 5.7 lakh people to start soon",
+      "updated_at": "2026-10-26T10:46:06.481121+00:00",
+      "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-landfall-on-october-28-in-andhra-pradesh-cyclonic-storm-tracker-bay-of-bengal-imd-updates-101793007202400.html"
+    },
     "3c497751b4196702db1904df": {
       "published_at": "2026-10-25T15:23:09+00:00",
       "source": "thehindu.com",
@@ -3242,6 +3250,14 @@
       "updated_at": "2026-10-26T10:44:18.710363+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/maharashtra-cm-responds-positively-to-telanganas-request-for-152-metre-tummidihatti-barrage/article71626235.ece"
     },
+    "662d17b4aadc2602344f0bf4": {
+      "published_at": "2026-10-26T10:19:34+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "SC refuses to relax bail conditions of Delhi riots accused to attend law classes in Ghaziabad",
+      "updated_at": "2026-10-26T10:46:06.481033+00:00",
+      "url": "https://www.tribuneindia.com/news/india/sc-refuses-to-relax-bail-conditions-of-delhi-riots-accused-to-attend-law-classes-in-ghaziabad"
+    },
     "66e4a3b18137eacff7929089": {
       "published_at": "2026-10-26T03:38:59+00:00",
       "source": "thehindu.com",
@@ -4526,6 +4542,14 @@
       "updated_at": "2026-10-25T05:36:03.443176+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece"
     },
+    "8898f38ced55ebd398dbe9ef": {
+      "published_at": "2026-10-26T10:24:47+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Fresh protests erupt at Jamia Millia Islamia hours after election announcement, students detained",
+      "updated_at": "2026-10-26T10:46:06.481126+00:00",
+      "url": "https://www.hindustantimes.com/india-news/fresh-protests-erupt-at-jamia-millia-islamia-hours-after-election-announcement-students-detained-101793008317736.html"
+    },
     "891ca25d788b7fb50edbd8cb": {
       "published_at": "2026-10-25T22:21:58+00:00",
       "source": "amarujala.com",
@@ -5789,6 +5813,14 @@
       "title": "Marine Le Pen launches French presidential campaign",
       "updated_at": "2026-10-25T22:00:46.976601+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss"
+    },
+    "b2bcd6c347e29a940ea49861": {
+      "published_at": "2026-10-26T10:20:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab: Orange alert in four Telangana districts, yellow alert in four others on October 28",
+      "updated_at": "2026-10-26T10:46:06.481114+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/cyclone-arnab-orange-alert-in-four-telangana-districts-yellow-alert-in-four-others-on-october-28/article71626114.ece"
     },
     "b2c201214544e238f2daa23c": {
       "published_at": "2026-10-25T19:02:24+00:00",
@@ -8447,6 +8479,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:45:59.880329+00:00",
+  "last_cycle_at": "2026-10-26T10:46:06.482069+00:00",
   "schema_version": 1
 }
