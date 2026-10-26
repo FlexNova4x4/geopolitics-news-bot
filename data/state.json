@@ -1163,9 +1163,10 @@
     "1e9906488966de660aef3ff2": {
       "published_at": "2026-10-26T20:03:56+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11112,
       "title": "Kullu Dasehra: Deities gather for final battle against Ravana",
-      "updated_at": "2026-10-26T22:42:27.619161+00:00",
+      "updated_at": "2026-10-26T22:42:37.652932+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kullu-dasehra-deities-gather-for-final-battle-against-ravana"
     },
     "1ecd5dc6fb877438855c4018": {
@@ -5280,9 +5281,10 @@
     "8864285490405124e69cf80b": {
       "published_at": "2026-10-26T20:01:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11111,
       "title": "BJP using all unfair practices to remain in power at Centre: MP",
-      "updated_at": "2026-10-26T22:42:27.619153+00:00",
+      "updated_at": "2026-10-26T22:42:33.757479+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/bjp-using-all-unfair-practices-to-remain-in-power-at-centre-mp"
     },
     "886f6517ac2c914003485cf8": {
@@ -7559,9 +7561,10 @@
     "c3549fc39cfe7ecb977d8d5a": {
       "published_at": "2026-10-26T20:04:11+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11113,
       "title": "‘Ask Modi to sack Gyanesh Kumar, will stop in 30 secs’: Rahul as traders seek postponement of Delhi rally",
-      "updated_at": "2026-10-26T22:42:27.619168+00:00",
+      "updated_at": "2026-10-26T22:42:41.533799+00:00",
       "url": "https://www.tribuneindia.com/news/india/ask-modi-to-sack-gyanesh-kumar-will-stop-in-30-secs-rahul-as-traders-seek-postponement-of-delhi-rally"
     },
     "c3683bf4a7244ba0b5121cc9": {
@@ -7819,9 +7822,10 @@
     "cb8a416306827b3c19cce147": {
       "published_at": "2026-10-26T20:00:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11110,
       "title": "Ex-DMK minister Anbil remanded to judicial custody till Nov 6",
-      "updated_at": "2026-10-26T22:42:27.619120+00:00",
+      "updated_at": "2026-10-26T22:42:30.046431+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-mahesh-poyyamozhi-arrested/article71626605.ece"
     },
     "cbac302112c74c9f6e5a8448": {
@@ -9879,6 +9883,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:42:27.620943+00:00",
+  "last_cycle_at": "2026-10-26T22:42:44.736136+00:00",
   "schema_version": 1
 }
