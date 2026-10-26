@@ -1235,9 +1235,10 @@
     "2328374c66e901f8ace77ac3": {
       "published_at": "2026-10-26T12:38:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11057,
       "title": "India’s E85 fuel rollout: what it means for motorists",
-      "updated_at": "2026-10-26T13:42:55.849170+00:00",
+      "updated_at": "2026-10-26T13:43:06.442519+00:00",
       "url": "https://www.thehindu.com/news/national/all-you-need-to-know-about-e85-fuel-what-happens-to-e20-vehicles-fuel-cost-comparison-e85-petrol-fuel-flex-vehicles-in-india/article71087811.ece"
     },
     "23827c27378057676a41af34": {
@@ -6589,9 +6590,10 @@
     "b682ead435b9b31afc698693": {
       "published_at": "2026-10-26T12:36:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11056,
       "title": "Gujarat govt. declares Devbhoomi Dwarka, Kutch, Jamnagar and Porbandar as drought-affected",
-      "updated_at": "2026-10-26T13:42:55.849166+00:00",
+      "updated_at": "2026-10-26T13:43:02.502838+00:00",
       "url": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-declares-devbhoomi-dwarka-kutch-jamnagar-and-porbandar-as-drought-affected/article71626790.ece"
     },
     "b6afaa754d9dc95c5397ceae": {
@@ -8600,9 +8602,10 @@
     "ec072a3af4cda2737064dd06": {
       "published_at": "2026-10-26T12:28:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11055,
       "title": "Newlywed couple killed as car hits motorcycle near Chintamani",
-      "updated_at": "2026-10-26T13:42:55.849149+00:00",
+      "updated_at": "2026-10-26T13:42:58.571335+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/newlywed-couple-killed-as-car-hits-motorcycle-near-chintamani/article71626481.ece"
     },
     "ec14316aecc5793351e25bbe": {
@@ -9074,9 +9077,10 @@
     "f80d1a117d85565a429b6f5c": {
       "published_at": "2026-10-26T12:39:07+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11058,
       "title": "Drones, artillery guns and helicopters: DAC clears ₹2.12 lakh crore defence buys",
-      "updated_at": "2026-10-26T13:42:55.849172+00:00",
+      "updated_at": "2026-10-26T13:43:10.260017+00:00",
       "url": "https://www.hindustantimes.com/india-news/drones-artillery-guns-and-helicopters-dac-clears-2-12-lakh-crore-defence-buys-101793017758895.html"
     },
     "f81074a2dd1a248bfdfb21f8": {
@@ -9411,6 +9415,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:42:55.850083+00:00",
+  "last_cycle_at": "2026-10-26T13:43:13.461408+00:00",
   "schema_version": 1
 }
