@@ -219,9 +219,10 @@
     "0726b45718d40494e2b3bc8b": {
       "published_at": "2026-10-25T21:52:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10916,
       "title": "सोलन: सुभाष बोले-ज्ञानेश कुमार के इस्तीफे तक जारी रहे कांग्रेस का विरोध",
-      "updated_at": "2026-10-26T10:14:33.772594+00:00",
+      "updated_at": "2026-10-26T10:14:49.065314+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-subhash-says-congress-protest-should-continue-until-gyanesh-kumar-resigns-2026-10-26"
     },
     "0747f4615b93967f2301b568": {
@@ -1889,9 +1890,10 @@
     "3cf13ec1155968a2b721ce44": {
       "published_at": "2026-10-25T21:45:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10914,
       "title": "एनसीसी कैडेट्स को मिली सौगात, अब कुल्लू में ही उड़ान भरेंगे प्रदेश के कैडेट",
-      "updated_at": "2026-10-26T10:14:33.772588+00:00",
+      "updated_at": "2026-10-26T10:14:40.727709+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-himachal-ncc-air-wing-hangar-inaugurated-kullu-bhuntar-airport-2026-10-26"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -3611,9 +3613,10 @@
     "734b2f5c763f1f27e5ef7894": {
       "published_at": "2026-10-25T21:50:56+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10915,
       "title": "शिमला: गेयटी थिएटर में गूंजी कविताओं की गूंज, युवान की रचना 'एक बार जीवन में प्यार कर लो प्रिये' ने बटोरी वाहवाही",
-      "updated_at": "2026-10-26T10:14:33.772591+00:00",
+      "updated_at": "2026-10-26T10:14:44.936764+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-yuvan-poem-ek-baar-jeevan-mein-pyar-kar-lo-priye-geyti-theatre-shimla-2026-10-26"
     },
     "73b508190c935beb2a7b8b16": {
@@ -7908,9 +7911,10 @@
     "f9a05de6b96081556e433a6d": {
       "published_at": "2026-10-25T21:44:57+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10913,
       "title": "रामपुर बुशहर: वोट बचाओ-देश बचाओ अभियान के तहत कांग्रेस ने उठाई पारदर्शिता की मांग",
-      "updated_at": "2026-10-26T10:14:33.772573+00:00",
+      "updated_at": "2026-10-26T10:14:36.611563+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-kinnaur-congress-vote-bachao-desh-bachao-campaign-electoral-transparency-2026-10-26"
     },
     "f9dd08526927395b333cca00": {
@@ -8155,6 +8159,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:14:33.773483+00:00",
+  "last_cycle_at": "2026-10-26T10:14:52.266892+00:00",
   "schema_version": 1
 }
