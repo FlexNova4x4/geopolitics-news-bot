@@ -396,6 +396,14 @@
       "updated_at": "2026-10-26T06:22:30.505944+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/rahul-gandhi-heads-to-ups-sultanpur-for-verdict-in-defamation-case"
     },
+    "0c8751fdc5115eb71209e41f": {
+      "published_at": "2026-10-26T08:44:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Jailer 2’ movie review: Rajinikanth’s flourishes elevate Nelson’s rousing herogasm",
+      "updated_at": "2026-10-26T09:16:11.975917+00:00",
+      "url": "https://www.thehindu.com/entertainment/movies/jailer-2-movie-review-superstar-rajinikanth-nelson-shivarajkumar-mohanlal-anirudh-ravichander/article71587540.ece"
+    },
     "0ca76d6b27bdf7c2b0401cad": {
       "published_at": "2026-10-26T05:16:38+00:00",
       "source": "aljazeera.com",
@@ -4544,6 +4552,14 @@
       "updated_at": "2026-10-25T09:04:50.508724+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
     },
+    "9500611802f1b4613a732330": {
+      "published_at": "2026-10-26T09:00:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Regional conflicts, terrorism do not stop at borders, affect all: Lok Sabha Speaker at BRICS Parliamentary Forum",
+      "updated_at": "2026-10-26T09:16:11.975948+00:00",
+      "url": "https://www.thehindu.com/news/national/regional-conflicts-terrorism-do-not-stop-at-borders-affect-all-lok-sabha-speaker-at-brics-parliamentary-forum/article71626163.ece"
+    },
     "9515eecf0b2a570c9accd517": {
       "published_at": "2026-10-26T04:18:48+00:00",
       "source": "publish.tribuneindia.com",
@@ -5016,6 +5032,14 @@
       "title": "Heavy rain lashes Puducherry",
       "updated_at": "2026-10-25T11:04:29.621248+00:00",
       "url": "https://www.thehindu.com/news/cities/puducherry/heavy-rain-lashes-puducherry/article71622916.ece"
+    },
+    "a4b978e1652852bfa59303ce": {
+      "published_at": "2026-10-26T08:50:37+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘Part of political process’: SC junks plea against 6 AIADMK MLAs who defected to TVK",
+      "updated_at": "2026-10-26T09:16:11.975944+00:00",
+      "url": "https://www.tribuneindia.com/news/india/part-of-political-process-sc-junks-plea-against-6-aiadmk-mlas-who-defected-to-tvk"
     },
     "a506a69459cf8c8e4ee3d549": {
       "published_at": "2026-10-25T03:33:25+00:00",
@@ -6256,6 +6280,14 @@
       "title": "Centre dispatches 250 RAF personnel to Arunachal Pradesh as Siang hydropower project protest turns violent",
       "updated_at": "2026-10-25T16:16:56.604738+00:00",
       "url": "https://www.hindustantimes.com/india-news/arunachal-pradesh-violence-centre-dispatches-250-raf-personnel-amid-siang-hydropower-project-protest-101792941341346.html"
+    },
+    "cedd260205b2fcff89fd7c3e": {
+      "published_at": "2026-10-26T08:48:07+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Tell Modi to sack Gyanesh Kumar, protests will stop in 30 seconds: Rahul to traders",
+      "updated_at": "2026-10-26T09:16:11.975937+00:00",
+      "url": "https://www.thehindu.com/news/national/tell-modi-to-sack-gyanesh-kumar-protests-will-stop-in-30-seconds-rahul-to-traders/article71626135.ece"
     },
     "cf59167af9694ed9ffe036e0": {
       "published_at": "2026-10-25T20:07:35+00:00",
@@ -7898,6 +7930,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:16:05.146315+00:00",
+  "last_cycle_at": "2026-10-26T09:16:11.976817+00:00",
   "schema_version": 1
 }
