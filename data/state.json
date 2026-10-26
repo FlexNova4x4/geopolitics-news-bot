@@ -1064,9 +1064,10 @@
     "257aed234e8fa4afa5b2a014": {
       "published_at": "2026-10-26T07:09:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10813,
       "title": "Lakhimpur Kheri violence: SC told FIR registered against Ashish Mishra, others for allegedly threatening witness",
-      "updated_at": "2026-10-26T07:45:41.081162+00:00",
+      "updated_at": "2026-10-26T07:45:52.576336+00:00",
       "url": "https://www.thehindu.com/news/national/lakhimpur-kheri-violence-supreme-court-told-fir-registered-against-ashish-mishra-others-for-allegedly-threatening-witness/article70142740.ece"
     },
     "26315826209faa6b9171dad7": {
@@ -3386,9 +3387,10 @@
     "765a39c00741aee1397c5a38": {
       "published_at": "2026-10-26T07:10:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10814,
       "title": "RJD MP Sudhakar Singh seeks Lok Sabha Speaker’s intervention over ₹5 crore defamation notice, demands probe into allegations",
-      "updated_at": "2026-10-26T07:45:41.081165+00:00",
+      "updated_at": "2026-10-26T07:45:56.559877+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sudhakar-singh-seeks-lok-sabha-speakers-intervention-over-5-crore-defamation-notice-demands-probe-into-allegations/article71625731.ece"
     },
     "76dcebc49a6819fe200789b9": {
@@ -3996,9 +3998,10 @@
     "8a6b0a414b60fb544cf67551": {
       "published_at": "2026-10-26T07:07:57+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10812,
       "title": "Police probe alleged supply of cemetery remains to medical college in Karnataka's Raichur, 3 arrested",
-      "updated_at": "2026-10-26T07:45:41.081159+00:00",
+      "updated_at": "2026-10-26T07:45:48.488489+00:00",
       "url": "https://www.hindustantimes.com/india-news/police-probe-alleged-supply-of-cemetery-remains-to-medical-college-in-karnatakas-raichur-3-arrested-101792997656676.html"
     },
     "8ab1c23be8ac8d3a118fd806": {
@@ -4846,9 +4849,10 @@
     "aa8ddfa1f7994c7b760d05ba": {
       "published_at": "2026-10-26T07:03:45+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10811,
       "title": "16-year-old JEE aspirant dies by suicide in Rajasthan’s Kota: Police",
-      "updated_at": "2026-10-26T07:45:41.081146+00:00",
+      "updated_at": "2026-10-26T07:45:44.352531+00:00",
       "url": "https://www.hindustantimes.com/india-news/16yearold-jee-aspirant-dies-by-suicide-in-rajasthan-s-kota-police-101792998225693.html"
     },
     "aaa731da7deaa2d7e7c4bc0c": {
@@ -7237,6 +7241,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:45:41.081986+00:00",
+  "last_cycle_at": "2026-10-26T07:45:59.761308+00:00",
   "schema_version": 1
 }
