@@ -2134,6 +2134,14 @@
       "updated_at": "2026-10-25T07:35:49.245263+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss"
     },
+    "70f5656f878d13ff3dcbe081": {
+      "published_at": "2026-10-25T20:41:45+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Reward gap: Champions paid on time, rising stars left behind",
+      "updated_at": "2026-10-26T00:55:55.955690+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/reward-gap-champions-paid-on-time-rising-stars-left-behind"
+    },
     "7121600e1d48934c9d4272ea": {
       "published_at": "2026-10-25T14:05:47+00:00",
       "source": "thehindu.com",
@@ -3387,6 +3395,14 @@
       "updated_at": "2026-10-25T07:35:32.036147+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-cm-naidu-orders-alertness-disaster-planning-ahead-of-cyclone-rainfall/article71619149.ece"
     },
+    "b97f22baf269e31a35fa0f10": {
+      "published_at": "2026-10-25T20:47:12+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Jai Ram targets Sukhu govt over schemes, development",
+      "updated_at": "2026-10-26T00:55:55.955708+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/jai-ram-targets-sukhu-govt-over-schemes-development"
+    },
     "b9f9fa8a918318197c588c92": {
       "published_at": "2026-10-25T04:43:06+00:00",
       "source": "aljazeera.com",
@@ -4292,6 +4308,14 @@
       "updated_at": "2026-10-25T16:15:00.373938+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-east-godavari-districts-step-up-cyclone-preparedness/article71623978.ece"
     },
+    "ecfc397da7e5cfd96985e4a9": {
+      "published_at": "2026-10-25T20:47:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Stop baseless allegations, address security issues internally”: Afghanistan hits back at Pakistan, cites over 1,100 civilian casualties",
+      "updated_at": "2026-10-26T00:55:55.955711+00:00",
+      "url": "https://www.tribuneindia.com/news/abdul-qahar-balkhi/stop-baseless-allegations-address-security-issues-internally-afghanistan-hits-back-at-pakistan-cites-over-1100-civilian-casualties"
+    },
     "ee273e8d6d2effa2e3171640": {
       "published_at": "2026-10-24T23:50:02+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4408,6 +4432,14 @@
       "title": "Factors behind Pakistan’s push for joint production in defence pacts",
       "updated_at": "2026-10-25T05:05:36.678286+00:00",
       "url": "https://www.dawn.com/news/2039659/factors-behind-pakistans-push-for-joint-production-in-defence-pacts"
+    },
+    "f33aa78f7d5929e790907685": {
+      "published_at": "2026-10-25T20:46:44+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Gutkar-Mandi road to stay shut during fixed hours till Nov 21",
+      "updated_at": "2026-10-26T00:55:55.955706+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/gutkar-mandi-road-to-stay-shut-during-fixed-hours-till-nov-21"
     },
     "f3aaac77f2002d4d70c45943": {
       "published_at": "2026-10-25T15:38:52+00:00",
@@ -4757,6 +4789,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:55:48.318265+00:00",
+  "last_cycle_at": "2026-10-26T00:55:55.956237+00:00",
   "schema_version": 1
 }
