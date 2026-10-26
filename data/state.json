@@ -2671,9 +2671,10 @@
     "5653a520a2ebae29688a3815": {
       "published_at": "2026-10-26T09:03:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10893,
       "title": "BJP launches nationwide protest against Mallikarjun Kharge over remarks on PM Modi",
-      "updated_at": "2026-10-26T09:16:37.359761+00:00",
+      "updated_at": "2026-10-26T09:16:45.215128+00:00",
       "url": "https://www.thehindu.com/videos/bjp-launches-nationwide-protest-against-mallikarjun-kharge-over-remarks-on-pm-modi/article71626191.ece"
     },
     "571a418bbe002d617bbe1259": {
@@ -4591,9 +4592,10 @@
     "9526dde3a34b7f96006d27df": {
       "published_at": "2026-10-26T09:07:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10894,
       "title": "“Makes no difference to us”: Iran’s Foreign Ministry spokesperson Baghaei compares Israeli election to movie ‘Dr. Strangelove’",
-      "updated_at": "2026-10-26T09:16:37.359765+00:00",
+      "updated_at": "2026-10-26T09:16:49.182898+00:00",
       "url": "https://www.tribuneindia.com/news/dr-strangelove/makes-no-difference-to-us-irans-foreign-ministry-spokesperson-baghaei-compares-israeli-election-to-movie-dr-strangelove"
     },
     "95f143944ae592eec44b7020": {
@@ -4893,9 +4895,10 @@
     "a02e68682864335601c4b5e3": {
       "published_at": "2026-10-26T09:08:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10895,
       "title": "Delhi BJP holds protest near Kharge’s residence; demands apology for ‘insulting’ PM Modi",
-      "updated_at": "2026-10-26T09:16:37.359768+00:00",
+      "updated_at": "2026-10-26T09:16:53.137623+00:00",
       "url": "https://www.thehindu.com/news/national/delhi-bjp-holds-protest-near-kharges-residence-demands-apology-for-insulting-pm-modi/article71626147.ece"
     },
     "a04f408c43583c8279d8587a": {
@@ -7370,9 +7373,10 @@
     "f10a497db187204c7d96bb91": {
       "published_at": "2026-10-26T09:00:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10892,
       "title": "‘Save Votes, Save the Nation’: Kharge calls for November 1 rally at Delhi’s Ramlila Maidan",
-      "updated_at": "2026-10-26T09:16:37.359745+00:00",
+      "updated_at": "2026-10-26T09:16:40.091628+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-president-kharge-accuses-modi-govt-of-shielding-cec-gyanesh-kumar"
     },
     "f10c7436aa1933d5d4699f00": {
@@ -7966,6 +7970,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:16:37.360864+00:00",
+  "last_cycle_at": "2026-10-26T09:16:56.339138+00:00",
   "schema_version": 1
 }
