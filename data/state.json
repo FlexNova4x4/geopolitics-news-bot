@@ -2393,9 +2393,10 @@
     "3ce8dd3cca47cf25993ae7ba": {
       "published_at": "2026-10-26T23:35:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11159,
       "title": "अपनी ही जमा पूंजी के लिए तरस रहे शिक्षक : संघ",
-      "updated_at": "2026-10-26T23:40:18.308830+00:00",
+      "updated_at": "2026-10-26T23:40:24.677450+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/teachers-longing-for-access-to-their-own-savings-union-kangra-news-c-399-dsl1018-544453-2026-10-26"
     },
     "3cf13ec1155968a2b721ce44": {
@@ -8280,9 +8281,10 @@
     "cfb1825fd201c34e8a9813aa": {
       "published_at": "2026-10-26T23:30:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11158,
       "title": "हाईकोर्ट का महत्वपूर्ण फैसला: मेरिट में आए आरक्षित वर्ग के उम्मीदवारों को जनरल में शिफ्ट करने का दिया आदेश",
-      "updated_at": "2026-10-26T23:40:18.308805+00:00",
+      "updated_at": "2026-10-26T23:40:20.766855+00:00",
       "url": "https://www.amarujala.com/shimla/high-court-significant-ruling-order-issued-to-shift-reserved-category-candidates-who-qualify-on-merit-to-the-2026-10-26"
     },
     "cfd17c90a162ff72eecb06ca": {
@@ -10286,6 +10288,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T23:40:18.310505+00:00",
+  "last_cycle_at": "2026-10-26T23:40:27.880240+00:00",
   "schema_version": 1
 }
