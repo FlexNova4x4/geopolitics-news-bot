@@ -1788,6 +1788,14 @@
       "updated_at": "2026-10-26T04:54:16.724585+00:00",
       "url": "https://www.dawn.com/news/2039855/opposition-joins-protest-against-construction-on-karachis-nehr-i-khayyam"
     },
+    "4948ed7abc5784e377a9b258": {
+      "published_at": "2026-10-26T01:07:22+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Crime in Punjab cut by 63pc in Sept, claims CCD",
+      "updated_at": "2026-10-26T05:22:26.814344+00:00",
+      "url": "https://www.dawn.com/news/2039792/crime-in-punjab-cut-by-63pc-in-sept-claims-ccd"
+    },
     "49bad963a3556e142d805c93": {
       "published_at": "2026-10-25T19:50:39+00:00",
       "source": "publish.tribuneindia.com",
@@ -3212,6 +3220,14 @@
       "updated_at": "2026-10-25T17:13:16.354839+00:00",
       "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece"
     },
+    "83f4ef8524a42dae64ace4ee": {
+      "published_at": "2026-10-26T01:06:50+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Khuhro rules out possibility of any new province in Sindh",
+      "updated_at": "2026-10-26T05:22:26.814326+00:00",
+      "url": "https://www.dawn.com/news/2039850/khuhro-rules-out-possibility-of-any-new-province-in-sindh"
+    },
     "8490f7619591dc2979297fb7": {
       "published_at": "2026-10-26T03:56:55+00:00",
       "source": "hindustantimes.com",
@@ -3544,6 +3560,14 @@
       "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
       "updated_at": "2026-10-25T09:04:50.508724+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
+    },
+    "9515eecf0b2a570c9accd517": {
+      "published_at": "2026-10-26T04:18:48+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Amid hunger strike, Jamia varsity agrees to hold student union polls after 21 years",
+      "updated_at": "2026-10-26T05:22:26.814531+00:00",
+      "url": "https://www.tribuneindia.com/news/delhi/jamia-agrees-to-hold-students-union-polls-revokes-suspension-notices-amid-protests"
     },
     "95245a9f68f7fb86369461f3": {
       "published_at": "2026-10-25T20:48:53+00:00",
@@ -4232,6 +4256,14 @@
       "title": "Serbia’s strongman Aleksandar Vučić concedes election defeat; Student List secures parliamentary majority",
       "updated_at": "2026-10-26T00:58:08.095511+00:00",
       "url": "https://www.tribuneindia.com/news/defeat/serbias-strongman-aleksandar-vucic-concedes-election-defeat-student-list-secures-parliamentary-majority"
+    },
+    "b66f5193de096b970dfe018f": {
+      "published_at": "2026-10-26T01:07:44+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Special polio drive in Peshawar’s high-risk UCs begins today",
+      "updated_at": "2026-10-26T05:22:26.814527+00:00",
+      "url": "https://www.dawn.com/news/2039779/special-polio-drive-in-peshawars-high-risk-ucs-begins-today"
     },
     "b6afaa754d9dc95c5397ceae": {
       "published_at": "2026-10-24T19:13:56+00:00",
@@ -6107,6 +6139,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T04:54:45.209545+00:00",
+  "last_cycle_at": "2026-10-26T05:22:26.815055+00:00",
   "schema_version": 1
 }
