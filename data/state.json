@@ -441,6 +441,14 @@
       "updated_at": "2026-10-25T11:04:33.483544+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telanganas-h1-revenue-below-expectations-as-expenditure-remains-high/article71622829.ece"
     },
+    "0b5fe6c8faaeb98bb8c6b126": {
+      "published_at": "2026-10-26T19:14:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Maharashtra will prioritise its own interest on Telangana barrage project, says Fadnavis",
+      "updated_at": "2026-10-26T22:40:28.920326+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-will-prioritise-its-own-interest-on-telangana-barrage-project-says-fadnavis/article71628280.ece"
+    },
     "0b7a7abdb90c68a961048592": {
       "published_at": "2026-10-25T02:25:55+00:00",
       "source": "dawn.com",
@@ -979,6 +987,14 @@
       "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
       "updated_at": "2026-10-25T22:00:59.818572+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss"
+    },
+    "18c25fe65809516485d3f623": {
+      "published_at": "2026-10-26T19:18:10+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "After slashing VAT on jet fuel, Tamil Nadu government asks airlines to add more services from Chennai airport",
+      "updated_at": "2026-10-26T22:40:28.920356+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece"
     },
     "1a5d17f265428fb2a57c423e": {
       "published_at": "2026-10-25T20:09:05+00:00",
@@ -2641,6 +2657,14 @@
       "title": "Cyclone to cross Andhra coast on October 28; people in low-lying areas from Bapatla to Vizianagaram to be evacuated",
       "updated_at": "2026-10-25T06:35:38.565808+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-to-cross-andhra-coast-on-october-28-people-in-low-lying-areas-from-bapatla-to-vizianagaram-to-be-evacuated/article71620236.ece"
+    },
+    "47768f37f1930326542eab11": {
+      "published_at": "2026-10-26T19:20:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "BJP stages protest over Kharge’s comments",
+      "updated_at": "2026-10-26T22:40:28.920366+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-stages-protest-over-kharges-comments/article71627161.ece"
     },
     "4777d9cdd5aa53785a3fc75d": {
       "published_at": "2026-10-25T18:32:32+00:00",
@@ -9434,6 +9458,14 @@
       "updated_at": "2026-10-26T01:23:03.724047+00:00",
       "url": "https://www.tribuneindia.com/news/india/regional-journal-dasehra-sparks-political-fireworks"
     },
+    "fab96a2b4ff7229bb431349f": {
+      "published_at": "2026-10-26T19:20:36+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Supreme Court Collegium recommends chief justices for Delhi, Gujarat, Telangana and Uttarakhand high courts",
+      "updated_at": "2026-10-26T22:40:28.920361+00:00",
+      "url": "https://www.hindustantimes.com/india-news/supreme-court-collegium-recommends-chief-justices-for-delhi-gujarat-telangana-and-uttarakhand-high-courts-101793041933293.html"
+    },
     "fafebdb403dde06cf560ba55": {
       "published_at": "2026-10-26T08:24:55+00:00",
       "source": "thehindu.com",
@@ -9667,6 +9699,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:40:23.463901+00:00",
+  "last_cycle_at": "2026-10-26T22:40:28.922025+00:00",
   "schema_version": 1
 }
