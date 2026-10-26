@@ -3548,9 +3548,10 @@
     "662be6236a873ed8a6983fb3": {
       "published_at": "2026-10-26T11:39:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11031,
       "title": "SC rejects plea for CBI probe into ‘horse-trading’ post TN Assembly polls",
-      "updated_at": "2026-10-26T13:37:11.609220+00:00",
+      "updated_at": "2026-10-26T13:37:14.110214+00:00",
       "url": "https://www.thehindu.com/news/national/sc-rejects-plea-for-cbi-probe-into-horse-trading-post-tn-assembly-polls/article71626557.ece"
     },
     "662d17b4aadc2602344f0bf4": {
@@ -5073,9 +5074,10 @@
     "8ed10cfe1c8eddd516be5058": {
       "published_at": "2026-10-26T11:44:47+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11033,
       "title": "‘Called her murderer in heat of moment over abortion’: Twisha Sharma's mother-in-law Giribala Singh denies abetment of suicide",
-      "updated_at": "2026-10-26T13:37:11.609236+00:00",
+      "updated_at": "2026-10-26T13:37:21.901437+00:00",
       "url": "https://www.hindustantimes.com/india-news/called-her-murderer-in-heat-of-moment-over-abortion-twisha-sharmas-mother-in-law-giribala-singh-denies-abetment-of-suicide-101793006717778.html"
     },
     "8f8ad708ddef06c79d7c6818": {
@@ -5207,9 +5209,10 @@
     "9420d289314b633b8ffcb401": {
       "published_at": "2026-10-26T11:39:16+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11032,
       "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-      "updated_at": "2026-10-26T13:37:11.609233+00:00",
+      "updated_at": "2026-10-26T13:37:17.990320+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss"
     },
     "943de8f4c6f271e66fc62983": {
@@ -6371,9 +6374,10 @@
     "b564f9f3313a84037407d9c1": {
       "published_at": "2026-10-26T11:45:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11034,
       "title": "CMRL-Exalogic payoff case: Ex-Keralam CM Pinarayi Vijayan to skip questioning by ED on October 23",
-      "updated_at": "2026-10-26T13:37:11.609237+00:00",
+      "updated_at": "2026-10-26T13:37:25.987159+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-ex-keralam-cm-pinarayi-vijayan-to-skip-questioning-by-ed-on-october-23/article71611043.ece"
     },
     "b56d1ea1d523ac05c50d966b": {
@@ -9195,6 +9199,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:37:11.609944+00:00",
+  "last_cycle_at": "2026-10-26T13:37:29.188526+00:00",
   "schema_version": 1
 }
