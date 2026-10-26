@@ -180,6 +180,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "04d4661c08e424f3925df339": {
+      "published_at": "2026-10-26T12:20:14+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Central bank raises policy rate by 50 basis points to 12pc",
+      "updated_at": "2026-10-26T13:41:44.918791+00:00",
+      "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc"
+    },
     "04f8c2d2edc74633a5465a3b": {
       "published_at": "2026-10-26T08:30:06+00:00",
       "source": "dawn.com",
@@ -728,6 +736,14 @@
       "title": "News in frames: Kutch’s dwindling camel population",
       "updated_at": "2026-10-25T05:40:46.206531+00:00",
       "url": "https://www.thehindu.com/news/national/gujarat/news-in-frames-kutchs-dwindling-camel-population/article71622558.ece"
+    },
+    "13ff1cd56660f30975df7a4b": {
+      "published_at": "2026-10-26T12:23:44+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
+      "updated_at": "2026-10-26T13:41:44.918797+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss"
     },
     "1465f4d8bc4c6500e418081c": {
       "published_at": "2026-10-24T19:08:26+00:00",
@@ -2497,6 +2513,14 @@
       "title": "“I am here. With you”: Venezuelan opposition leader María Corina Machado returns from exile; US hails reconciliation talks",
       "updated_at": "2026-10-26T00:57:36.194760+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump/i-am-here-with-you-venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-us-hails-reconciliation-talks"
+    },
+    "4734132a8ec9309e0e325abb": {
+      "published_at": "2026-10-26T12:18:12+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Manchester United crisis: What are the top five problems facing the club?",
+      "updated_at": "2026-10-26T13:41:44.918771+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss"
     },
     "4742bcbe8ffa72554ba6ee1b": {
       "published_at": "2026-10-25T21:11:30+00:00",
@@ -8365,6 +8389,14 @@
       "updated_at": "2026-10-26T08:45:55.496744+00:00",
       "url": "https://www.hindustantimes.com/india-news/sixyearold-girl-allegedly-raped-murdered-in-andhra-pradeshs-prakasam-district-accused-in-custody-101793002082051.html"
     },
+    "e7b2bcfb96191c5e1424d96f": {
+      "published_at": "2026-10-26T12:23:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Teenage girl raped, murdered in Bengal's Gaighata; one arrested",
+      "updated_at": "2026-10-26T13:41:44.918794+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/teenage-girl-raped-murdered-in-bengals-gaighata-one-arrested/article71626883.ece"
+    },
     "e7c94022901ea2b1e50be64b": {
       "published_at": "2026-10-25T16:49:51+00:00",
       "source": "thehindu.com",
@@ -9343,6 +9375,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T13:41:29.275244+00:00",
+  "last_cycle_at": "2026-10-26T13:41:44.919534+00:00",
   "schema_version": 1
 }
