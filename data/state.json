@@ -1126,9 +1126,10 @@
     "27360f96f4c2c843f2bac350": {
       "published_at": "2026-10-26T08:02:44+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10846,
       "title": "Order ED probe into Manoj Jarange-Patil’s ₹500 crore row: Sanjay Raut to Amit Shah",
-      "updated_at": "2026-10-26T08:44:53.060838+00:00",
+      "updated_at": "2026-10-26T08:45:07.517542+00:00",
       "url": "https://www.hindustantimes.com/india-news/order-ed-probe-into-manoj-jarange-patil-s-500-crore-row-sanjay-raut-to-amit-shah-101793001764655.html"
     },
     "273c53a48142b5f7d9feaa3e": {
@@ -5189,9 +5190,10 @@
     "b50b6ce7cc6478a850b379fe": {
       "published_at": "2026-10-26T08:02:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10845,
       "title": "“Completely baseless and false”: Israel Defence Minister Katz denies rift with IDF chief over Iran strike plans",
-      "updated_at": "2026-10-26T08:44:53.060832+00:00",
+      "updated_at": "2026-10-26T08:45:03.607994+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/completely-baseless-and-false-israel-defence-minister-katz-denies-rift-with-idf-chief-over-iran-strike-plans"
     },
     "b5602e38a0898ddab2e084e1": {
@@ -5637,9 +5639,10 @@
     "c1541a5d576455a6fa66a4a2": {
       "published_at": "2026-10-26T08:02:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10844,
       "title": "‘Uncle’ throws garbage ‘over’ Bittu Tabahi during Ajnar river cleanup, Internet says ‘we lack civic sense, empathy’",
-      "updated_at": "2026-10-26T08:44:53.060822+00:00",
+      "updated_at": "2026-10-26T08:44:59.554917+00:00",
       "url": "https://www.tribuneindia.com/news/trending/man-throws-garbage-over-bittu-tabahi-during-ajnar-river-cleanup-internet-says-we-lack-civic-sense-empathy"
     },
     "c155aba7bdd9dd0a4a4e8f26": {
@@ -7127,9 +7130,10 @@
     "f54e1b4bd2079255c59b8f1b": {
       "published_at": "2026-10-26T07:58:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10843,
       "title": "Keralam Assembly: Heated exchanges as Speaker disallows Pinarayi’s submission on ex-Governor’s move to remove PSC chairperson",
-      "updated_at": "2026-10-26T08:44:53.060805+00:00",
+      "updated_at": "2026-10-26T08:44:55.639544+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-heated-exchanges-as-speaker-disallows-pinarayis-submission-on-ex-governors-move-to-remove-psc-chairperson/article71625980.ece"
     },
     "f5ac949b61ab526bee0feccd": {
@@ -7525,6 +7529,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:44:53.061709+00:00",
+  "last_cycle_at": "2026-10-26T08:45:10.719005+00:00",
   "schema_version": 1
 }
