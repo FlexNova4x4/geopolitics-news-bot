@@ -1338,6 +1338,14 @@
       "updated_at": "2026-10-25T18:13:18.864548+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
     },
+    "4416e1e84ee2d349095ccce6": {
+      "published_at": "2026-10-25T20:49:34+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Masked duo fires five rounds at Nalagarh scrap dealer’s gate",
+      "updated_at": "2026-10-26T00:56:20.976248+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/masked-duo-fires-five-rounds-at-nalagarh-scrap-dealers-gate"
+    },
     "445f038d3ae1ed2abd9cd056": {
       "published_at": "2026-10-25T07:57:28+00:00",
       "source": "thehindu.com",
@@ -2780,6 +2788,14 @@
       "updated_at": "2026-10-25T09:04:50.508724+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
     },
+    "95245a9f68f7fb86369461f3": {
+      "published_at": "2026-10-25T20:48:53+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Kullu Dasehra: Where faith, folk & fellowship converge",
+      "updated_at": "2026-10-26T00:56:20.976233+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/kullu-dasehra-where-faith-folk-fellowship-converge"
+    },
     "964cfdee41a23f48c9e18345": {
       "published_at": "2026-10-25T09:57:37+00:00",
       "source": "thehindu.com",
@@ -3728,6 +3744,14 @@
       "updated_at": "2026-10-25T20:11:51.558385+00:00",
       "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss"
     },
+    "cb891baa358028694977a1a4": {
+      "published_at": "2026-10-25T20:51:07+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal: Congress likens vote protest to Quit India Movement",
+      "updated_at": "2026-10-26T00:56:20.976251+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-congress-likens-vote-protest-to-quit-india-movement"
+    },
     "cc251f6b28448253d66ba62e": {
       "published_at": "2026-10-25T16:40:23+00:00",
       "source": "hindustantimes.com",
@@ -3969,6 +3993,14 @@
       "title": "President Droupadi Murmu gives assent to Frontier Nagaland Territorial Authority Bill",
       "updated_at": "2026-10-25T16:13:53.576765+00:00",
       "url": "https://www.hindustantimes.com/india-news/president-droupadi-murmu-gives-assent-to-frontier-nagaland-territorial-authority-bill-101792939051918.html"
+    },
+    "d9500a96a963f9be40ccb3bb": {
+      "published_at": "2026-10-25T20:57:17+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "753 strikes launched, 218 Houthi operatives neutralised under ‘Dawn of Yemen’ offensive: Yemen Military Spokesperson",
+      "updated_at": "2026-10-26T00:56:20.976253+00:00",
+      "url": "https://www.tribuneindia.com/news/aden/753-strikes-launched-218-houthi-operatives-neutralised-under-dawn-of-yemen-offensive-yemen-military-spokesperson"
     },
     "d99ef7cea7a042be87b4e78a": {
       "published_at": "2026-10-25T16:58:54+00:00",
@@ -4793,6 +4825,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:56:14.147680+00:00",
+  "last_cycle_at": "2026-10-26T00:56:20.976900+00:00",
   "schema_version": 1
 }
