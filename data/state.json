@@ -542,9 +542,10 @@
     "1deea6330f7670c372ba8473": {
       "published_at": "2026-10-25T20:16:10+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10528,
       "title": "Hamirpur (Himachal) News: मसेरडू गांव में 25 लाख से बना पुल 30 गांवों को देगा राहत, विधायक ने किया लोकार्पण",
-      "updated_at": "2026-10-26T00:55:05.334771+00:00",
+      "updated_at": "2026-10-26T00:55:07.815813+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/bridge-built-for-25-lakh-in-maserdu-village-to-provide-relief-to-30-villages-inaugurated-by-the-mla-hamirpur-hp-news-c-94-1-hmp1004-213332-2026-10-26"
     },
     "1e8268a244f5025ec8e01dc4": {
@@ -1394,9 +1395,10 @@
     "480c76a694dae601595726f9": {
       "published_at": "2026-10-25T20:17:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10529,
       "title": "Solan News: सोलन में 16 हजार के पार पहुंचे डायबिटीज के मरीज, युवा भी चपेट में",
-      "updated_at": "2026-10-26T00:55:05.334790+00:00",
+      "updated_at": "2026-10-26T00:55:11.886358+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/number-of-diabetes-patients-in-solan-crosses-16000-young-people-also-affected-solan-news-c-176-1-sln1013-182727-2026-10-25"
     },
     "4895796a9ca1376d31bc4eef": {
@@ -2395,9 +2397,10 @@
     "7be769f141d40f6f3e16760b": {
       "published_at": "2026-10-25T20:17:21+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10530,
       "title": "Himachal CM for Scouts unit on lines of Ladakh",
-      "updated_at": "2026-10-26T00:55:05.334794+00:00",
+      "updated_at": "2026-10-26T00:55:16.089778+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-cm-for-scouts-unit-on-lines-of-ladakh"
     },
     "7ece01532c3fa5d6f81bb9b9": {
@@ -3575,9 +3578,10 @@
     "c3de3f3c6eea6050bf402fea": {
       "published_at": "2026-10-25T20:19:22+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10531,
       "title": "Kangra News: पौंग झील में छोड़े 11.96 लाख मछली बीज",
-      "updated_at": "2026-10-26T00:55:05.334797+00:00",
+      "updated_at": "2026-10-26T00:55:20.146933+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/1196-lakh-fish-seeds-released-into-pong-lake-kangra-news-c-95-1-kng1037-263425-2026-10-26"
     },
     "c4687dd68edc0199915d6241": {
@@ -4717,6 +4721,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:55:05.335242+00:00",
+  "last_cycle_at": "2026-10-26T00:55:23.347984+00:00",
   "schema_version": 1
 }
