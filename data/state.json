@@ -216,6 +216,14 @@
       "updated_at": "2026-10-25T05:41:07.445855+00:00",
       "url": "https://www.hindustantimes.com/india-news/meerut-blue-drum-murder-convicts-muskan-sahil-challenge-death-sentence-in-high-court-101792901033913.html"
     },
+    "0726b45718d40494e2b3bc8b": {
+      "published_at": "2026-10-25T21:52:06+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सोलन: सुभाष बोले-ज्ञानेश कुमार के इस्तीफे तक जारी रहे कांग्रेस का विरोध",
+      "updated_at": "2026-10-26T10:14:33.772594+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-subhash-says-congress-protest-should-continue-until-gyanesh-kumar-resigns-2026-10-26"
+    },
     "0747f4615b93967f2301b568": {
       "published_at": "2026-10-25T09:57:40+00:00",
       "source": "aljazeera.com",
@@ -1877,6 +1885,14 @@
       "title": "Yamunotri, Kedarnath receive season’s first snowfall",
       "updated_at": "2026-10-25T16:17:14.990332+00:00",
       "url": "https://www.thehindu.com/news/national/uttarakhand/yamunotri-kedarnath-receive-seasons-first-snowfall/article71623722.ece"
+    },
+    "3cf13ec1155968a2b721ce44": {
+      "published_at": "2026-10-25T21:45:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "एनसीसी कैडेट्स को मिली सौगात, अब कुल्लू में ही उड़ान भरेंगे प्रदेश के कैडेट",
+      "updated_at": "2026-10-26T10:14:33.772588+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-himachal-ncc-air-wing-hangar-inaugurated-kullu-bhuntar-airport-2026-10-26"
     },
     "3d40bf7c5ccd76e0d34b0491": {
       "published_at": "2026-10-25T01:05:16+00:00",
@@ -3591,6 +3607,14 @@
       "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
       "updated_at": "2026-10-26T04:53:18.163343+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss"
+    },
+    "734b2f5c763f1f27e5ef7894": {
+      "published_at": "2026-10-25T21:50:56+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "शिमला: गेयटी थिएटर में गूंजी कविताओं की गूंज, युवान की रचना 'एक बार जीवन में प्यार कर लो प्रिये' ने बटोरी वाहवाही",
+      "updated_at": "2026-10-26T10:14:33.772591+00:00",
+      "url": "https://www.amarujala.com/video/shimla/video-yuvan-poem-ek-baar-jeevan-mein-pyar-kar-lo-priye-geyti-theatre-shimla-2026-10-26"
     },
     "73b508190c935beb2a7b8b16": {
       "published_at": "2026-10-26T03:57:42+00:00",
@@ -7881,6 +7905,14 @@
       "updated_at": "2026-10-25T07:05:07.182384+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-vanni-arasu-reviews-monsoon-preparedness-in-villupuram/article71622629.ece"
     },
+    "f9a05de6b96081556e433a6d": {
+      "published_at": "2026-10-25T21:44:57+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "रामपुर बुशहर: वोट बचाओ-देश बचाओ अभियान के तहत कांग्रेस ने उठाई पारदर्शिता की मांग",
+      "updated_at": "2026-10-26T10:14:33.772573+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-kinnaur-congress-vote-bachao-desh-bachao-campaign-electoral-transparency-2026-10-26"
+    },
     "f9dd08526927395b333cca00": {
       "published_at": "2026-10-25T18:34:19+00:00",
       "source": "aljazeera.com",
@@ -8123,6 +8155,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:45:36.964767+00:00",
+  "last_cycle_at": "2026-10-26T10:14:33.773483+00:00",
   "schema_version": 1
 }
