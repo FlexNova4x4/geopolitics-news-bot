@@ -345,9 +345,10 @@
     "0ca76d6b27bdf7c2b0401cad": {
       "published_at": "2026-10-26T05:16:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10721,
       "title": "Israel’s election: Five key things to know",
-      "updated_at": "2026-10-26T05:53:22.951366+00:00",
+      "updated_at": "2026-10-26T05:53:34.244953+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss"
     },
     "0dd736df51ea9188a674d863": {
@@ -901,9 +902,10 @@
     "24328b809fdeacc2006cd43f": {
       "published_at": "2026-10-26T05:12:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10719,
       "title": "“Large victory over Likud will ensure change”: Gadi Eisenkot calls for support ahead of Israel election on Tuesday",
-      "updated_at": "2026-10-26T05:53:22.951348+00:00",
+      "updated_at": "2026-10-26T05:53:26.038987+00:00",
       "url": "https://www.tribuneindia.com/news/eisenkot/large-victory-over-likud-will-ensure-change-gadi-eisenkot-calls-for-support-ahead-of-israel-election-on-tuesday"
     },
     "25055fe601576605c587032b": {
@@ -1735,9 +1737,10 @@
     "4515cfe5f8a44766599c568a": {
       "published_at": "2026-10-26T05:16:37+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10720,
       "title": "‘Aai ke haath ka khaana’: Sachin Tendulkar recalls mum’s dishes he craved on long cricket tours",
-      "updated_at": "2026-10-26T05:53:22.951363+00:00",
+      "updated_at": "2026-10-26T05:53:30.233496+00:00",
       "url": "https://www.tribuneindia.com/news/trending/aai-ke-haath-ka-khaana-sachin-tendulkar-recalls-mums-dishes-he-craved-on-long-cricket-tours"
     },
     "4517691c943f6b5ae59be008": {
@@ -4279,9 +4282,10 @@
     "aaa77c06c74563c7d1d4e1ba": {
       "published_at": "2026-10-26T05:17:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10722,
       "title": "Democrats projected to win 229 House seats as economic concerns weigh on voters: CBS News polls",
-      "updated_at": "2026-10-26T05:53:22.951368+00:00",
+      "updated_at": "2026-10-26T05:53:38.412346+00:00",
       "url": "https://www.tribuneindia.com/news/cbs-news-poll/democrats-projected-to-win-229-house-seats-as-economic-concerns-weigh-on-voters-cbs-news-polls"
     },
     "aad5a01d7fc6de7b00e1bb87": {
@@ -6418,6 +6422,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:53:22.951948+00:00",
+  "last_cycle_at": "2026-10-26T05:53:41.613651+00:00",
   "schema_version": 1
 }
