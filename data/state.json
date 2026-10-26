@@ -4913,6 +4913,14 @@
       "updated_at": "2026-10-25T18:13:38.739284+00:00",
       "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece"
     },
+    "992188af48f1d02428f2aa72": {
+      "published_at": "2026-10-26T10:13:42+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court notice to Centre, ECI on plea against MLAs ‘abandoning’ seats to shift loyalty at public expense",
+      "updated_at": "2026-10-26T10:45:18.165375+00:00",
+      "url": "https://www.thehindu.com/news/national/sc-notice-to-centre-ec-on-plea-against-mlas-abandoning-seats-to-shift-loyalty-at-public-expense/article71626367.ece"
+    },
     "9954f94ee7db8817c8546444": {
       "published_at": "2026-10-25T19:59:44+00:00",
       "source": "amarujala.com",
@@ -5718,6 +5726,14 @@
       "updated_at": "2026-10-25T16:12:54.400042+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-air-quality-dips-to-poor-category-aqi-touches-254/article71623259.ece"
     },
+    "b1a54a2c726a43a3df292759": {
+      "published_at": "2026-10-26T10:12:24+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "From Google Search to ChatGPT: How a 70-year-old Karnataka woman found her way home",
+      "updated_at": "2026-10-26T10:45:18.165360+00:00",
+      "url": "https://www.hindustantimes.com/india-news/from-google-search-to-chatgpt-how-a-70-year-old-karnataka-woman-found-her-way-home-101793007171219.html"
+    },
     "b1bcfc75b3456055df5bdd2a": {
       "published_at": "2026-10-25T22:00:47+00:00",
       "source": "amarujala.com",
@@ -5762,6 +5778,14 @@
       "title": "Photos: Lula supporters flood streets in celebration of historic win",
       "updated_at": "2026-10-26T08:14:38.743665+00:00",
       "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss"
+    },
+    "b45df668dd07dd1e27693197": {
+      "published_at": "2026-10-26T10:14:26+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
+      "updated_at": "2026-10-26T10:45:18.165378+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss"
     },
     "b4f660e47e6161bc60c10661": {
       "published_at": "2026-10-25T11:46:10+00:00",
@@ -6922,6 +6946,14 @@
       "title": "हिमाचल: सरकारी नौकरी के नाम पर 20 लाख की ठगी का आरोप, बैंक में कार्यरत महिला गिरफ्तार; जानें पूरा मामला",
       "updated_at": "2026-10-26T06:23:57.489307+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/hamirpur-woman-arrested-alleged-20-lakh-government-job-fraud-2026-10-26"
+    },
+    "d55aadcc2978ca5abb723e37": {
+      "published_at": "2026-10-26T10:14:38+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Indian Army debunks deepfake video falsely claiming China took control of Arunachal areas",
+      "updated_at": "2026-10-26T10:45:18.165381+00:00",
+      "url": "https://www.hindustantimes.com/india-news/indian-army-debunks-deepfake-video-falsely-claiming-china-took-control-of-arunachal-areas-101793000307043.html"
     },
     "d58590effe1c443fb536bca4": {
       "published_at": "2026-10-24T19:37:35+00:00",
@@ -8375,6 +8407,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T10:45:11.768224+00:00",
+  "last_cycle_at": "2026-10-26T10:45:18.166292+00:00",
   "schema_version": 1
 }
