@@ -153,6 +153,14 @@
       "updated_at": "2026-10-24T23:59:12.881532+00:00",
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss"
     },
+    "04f8c2d2edc74633a5465a3b": {
+      "published_at": "2026-10-26T08:30:06+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Former army chief Abdul Waheed Kakar passes away in Rawalpindi",
+      "updated_at": "2026-10-26T08:46:54.007860+00:00",
+      "url": "https://www.dawn.com/news/2039942/former-army-chief-abdul-waheed-kakar-passes-away-in-rawalpindi"
+    },
     "05051e64daefbf734033befa": {
       "published_at": "2026-10-25T15:44:50+00:00",
       "source": "thehindu.com",
@@ -6983,6 +6991,14 @@
       "updated_at": "2026-10-25T16:15:00.373938+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-east-godavari-districts-step-up-cyclone-preparedness/article71623978.ece"
     },
+    "ecfa72bd109e809fa70c5c3e": {
+      "published_at": "2026-10-26T08:25:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court assures no deleted voters will be prosecuted for submitting Form 6",
+      "updated_at": "2026-10-26T08:46:54.007855+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra-sir-supreme-court-assures-no-deleted-voters-will-be-prosecuted-for-submitting-form-6/article71626077.ece"
+    },
     "ecfc397da7e5cfd96985e4a9": {
       "published_at": "2026-10-25T20:47:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -7207,6 +7223,14 @@
       "title": "India, EU race to finalise FTA before December deadline to coincide with PM Modi's Brussels visit",
       "updated_at": "2026-10-25T12:05:05.165158+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-eu-race-to-finalise-fta-before-december-deadline-to-coincide-with-pm-modis-brussels-visit-101792926809767.html"
+    },
+    "f3c97d2b23f11deca127c387": {
+      "published_at": "2026-10-26T08:30:25+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Godavari water utilised from Devadula, Sitarama projects: Congress MP",
+      "updated_at": "2026-10-26T08:46:54.007865+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/godavari-water-utilised-from-devadula-sitarama-projects-congress-mp/article71626075.ece"
     },
     "f3d545b588bbde88990f5ba8": {
       "published_at": "2026-10-26T04:05:44+00:00",
@@ -7467,6 +7491,14 @@
       "updated_at": "2026-10-26T01:23:03.724047+00:00",
       "url": "https://www.tribuneindia.com/news/india/regional-journal-dasehra-sparks-political-fireworks"
     },
+    "fafebdb403dde06cf560ba55": {
+      "published_at": "2026-10-26T08:24:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Amid row, Keralam’s UDF govt says cost of generic SMA drug can be cut further",
+      "updated_at": "2026-10-26T08:46:54.007836+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/amid-row-keralams-udf-govt-says-cost-of-generic-sma-drug-can-be-cut-further/article71626016.ece"
+    },
     "fb2f53a20f7b747ce6c29660": {
       "published_at": "2026-10-26T06:07:57+00:00",
       "source": "publish.tribuneindia.com",
@@ -7673,6 +7705,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:46:47.664784+00:00",
+  "last_cycle_at": "2026-10-26T08:46:54.008974+00:00",
   "schema_version": 1
 }
