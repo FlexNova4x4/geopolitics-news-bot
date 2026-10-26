@@ -1100,9 +1100,10 @@
     "24f42936a0cafb0637010f5c": {
       "published_at": "2026-10-25T21:10:44+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10874,
       "title": "कुल्लू पहुंचे मुख्यमंत्री सुखविंद्र सिंह सुक्खू, बजौरा में ढोल-नगाड़ों के साथ हुआ भव्य स्वागत",
-      "updated_at": "2026-10-26T09:14:34.798073+00:00",
+      "updated_at": "2026-10-26T09:14:45.772311+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-cm-sukhu-kullu-visit-and-bajoura-welcome-2026-10-26"
     },
     "24f4e73ce7f92a3648d27ebe": {
@@ -1529,9 +1530,10 @@
     "31b54292bf4fdd0cbbff34c4": {
       "published_at": "2026-10-25T21:02:28+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10873,
       "title": "शिमला: वाल्मीकि मंदिर को 25 लाख, पात्र सफाई कर्मचारियों को मकान के लिए तीन लाख; मुख्यमंत्री सुक्खू ने की घोषणा",
-      "updated_at": "2026-10-26T09:14:34.798039+00:00",
+      "updated_at": "2026-10-26T09:14:41.660600+00:00",
       "url": "https://www.amarujala.com/shimla/cm-sukhu-announces-25-lakh-for-valmiki-temple-3-lakh-housing-aid-for-eligible-sanitation-workers-2026-10-26"
     },
     "31fb567f7c421891b63b619c": {
@@ -3781,9 +3783,10 @@
     "7c77b1d428298b4dd4cb44aa": {
       "published_at": "2026-10-25T20:44:23+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10872,
       "title": "हिमाचल में बड़ा हादसा: मंडी में डंगा गिरने से 200 मीटर नीचे लुढ़का बजरी से लदा टिप्पर, चालक की मौत",
-      "updated_at": "2026-10-26T09:14:34.798019+00:00",
+      "updated_at": "2026-10-26T09:14:37.551857+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/dharampur-kotli-road-accident-tipper-falls-200-metres-driver-dies-2026-10-26"
     },
     "7cb6939ad55d89e5fafe8506": {
@@ -7082,9 +7085,10 @@
     "ee0065f26494aeab7363c7d2": {
       "published_at": "2026-10-25T21:10:52+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10875,
       "title": "रामपुर में सनशाइन पब्लिक स्कूल के फेट में दिखी विद्यार्थियों की प्रतिभा, खाने-पीने के स्टॉल से लेकर मॉडलों तक बिखेरा हुनर",
-      "updated_at": "2026-10-26T09:14:34.798079+00:00",
+      "updated_at": "2026-10-26T09:14:49.888908+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-sunshine-public-school-rampur-school-fete-showcases-student-talent-2026-10-26"
     },
     "ee273e8d6d2effa2e3171640": {
@@ -7786,6 +7790,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:14:34.798969+00:00",
+  "last_cycle_at": "2026-10-26T09:14:53.090299+00:00",
   "schema_version": 1
 }
