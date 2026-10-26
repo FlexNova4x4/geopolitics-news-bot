@@ -2286,9 +2286,10 @@
     "4a2be56f04022c2be4135f05": {
       "published_at": "2026-10-26T08:35:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10871,
       "title": "Why has actor Naseeruddin Shah come out in support of SRFTI student protests",
-      "updated_at": "2026-10-26T08:47:38.378481+00:00",
+      "updated_at": "2026-10-26T08:47:40.945986+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/why-has-actor-naseeruddin-shah-come-out-in-support-of-srfti-student-protests/article71625946.ece"
     },
     "4ae7702a22d3612dfcd0dec6": {
@@ -7753,6 +7754,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T08:47:38.379494+00:00",
+  "last_cycle_at": "2026-10-26T08:47:44.147497+00:00",
   "schema_version": 1
 }
