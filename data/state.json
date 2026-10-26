@@ -6257,9 +6257,10 @@
     "e4f15387b52a608cc3f9cb48": {
       "published_at": "2026-10-26T07:20:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10801,
       "title": "Sirmour News: आंगनबाड़ी सहायिका के तीन पदों के लिए अब 7 नवंबर तक करें आवेदन",
-      "updated_at": "2026-10-26T07:15:48.101648+00:00",
+      "updated_at": "2026-10-26T07:15:50.810230+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/application-invited-for-aanganbadi-helpers-post-nahan-news-c-177-1-ssml1028-192499-2026-10-25"
     },
     "e4fd041448810fcb1fa9acf6": {
@@ -7132,6 +7133,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T07:15:48.102423+00:00",
+  "last_cycle_at": "2026-10-26T07:15:54.011681+00:00",
   "schema_version": 1
 }
