@@ -378,6 +378,14 @@
       "updated_at": "2026-10-26T04:23:41.642864+00:00",
       "url": "https://www.dawn.com/news/2039817/lahore-doctors-penalty-in-death-case-set-aside"
     },
+    "0a543acaee6a660bea670149": {
+      "published_at": "2026-10-26T10:56:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "All stakeholders need to find solutions to issues of sugarcane growers, says Karnataka CM",
+      "updated_at": "2026-10-26T11:44:42.892997+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/all-stakeholders-need-to-find-solutions-to-issues-of-sugarcane-growers-says-karnataka-cm/article71626500.ece"
+    },
     "0ad86da679ca75352a3bf1e0": {
       "published_at": "2026-10-25T06:52:23+00:00",
       "source": "hindustantimes.com",
@@ -4131,6 +4139,14 @@
       "updated_at": "2026-10-26T00:55:16.089778+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-cm-for-scouts-unit-on-lines-of-ladakh"
     },
+    "7be9182ea13c65590db7301e": {
+      "published_at": "2026-10-26T11:04:25+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Ankita Bhandari murder case: Fresh FIR against actress Urmila Sanawar a day after her arrest",
+      "updated_at": "2026-10-26T11:44:42.893008+00:00",
+      "url": "https://www.tribuneindia.com/news/uttarakhand/ankita-bhandari-murder-case-fresh-fir-against-actress-urmila-sanawar-a-day-after-her-arrest"
+    },
     "7c77b1d428298b4dd4cb44aa": {
       "published_at": "2026-10-25T20:44:23+00:00",
       "source": "amarujala.com",
@@ -6465,6 +6481,14 @@
       "updated_at": "2026-10-26T05:23:25.407903+00:00",
       "url": "https://www.dawn.com/news/2039922/karachi-firms-hired-illustrators-for-child-pornographic-animations-without-disclosing-nature-of-work-nccia"
     },
+    "c084134207c7001eb52917b7": {
+      "published_at": "2026-10-26T10:56:39+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "PGIMER Chandigarh secures place in Newsweek’s list of world’s best specialized hospitals 2027",
+      "updated_at": "2026-10-26T11:44:42.892977+00:00",
+      "url": "https://www.tribuneindia.com/news/chandigarh/pgimer-chandigarh-secures-place-in-newsweeks-list-of-worlds-best-specialized-hospitals-2027"
+    },
     "c09ddf3f2cb122dba7d6ac01": {
       "published_at": "2026-10-26T06:42:24+00:00",
       "source": "amarujala.com",
@@ -7919,6 +7943,14 @@
       "updated_at": "2026-10-26T00:56:10.946540+00:00",
       "url": "https://www.tribuneindia.com/news/abdul-qahar-balkhi/stop-baseless-allegations-address-security-issues-internally-afghanistan-hits-back-at-pakistan-cites-over-1100-civilian-casualties"
     },
+    "edeca2240d6bfb580b208d9a": {
+      "published_at": "2026-10-26T11:02:42+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Lessons for Sandalwood from the success of ‘Premada Oorali’",
+      "updated_at": "2026-10-26T11:44:42.893002+00:00",
+      "url": "https://www.thehindu.com/videos/lesson-for-sandalwood-from-the-success-of-premada-oorali/article71626623.ece"
+    },
     "ee0065f26494aeab7363c7d2": {
       "published_at": "2026-10-25T21:10:52+00:00",
       "source": "amarujala.com",
@@ -8663,6 +8695,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T11:44:30.005968+00:00",
+  "last_cycle_at": "2026-10-26T11:44:42.893911+00:00",
   "schema_version": 1
 }
