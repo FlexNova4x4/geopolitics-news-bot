@@ -1887,6 +1887,14 @@
       "updated_at": "2026-10-26T04:52:31.207231+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss"
     },
+    "4d314a73950718caf1bda1b3": {
+      "published_at": "2026-10-26T04:59:48+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Student sets mehndi record in Karnataka",
+      "updated_at": "2026-10-26T05:23:43.094844+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/student-sets-mehndi-record-in-karnataka/article71623773.ece"
+    },
     "4f371849fb9efa7fc2fcfcc8": {
       "published_at": "2026-10-25T07:34:41+00:00",
       "source": "thehindu.com",
@@ -2110,6 +2118,14 @@
       "updated_at": "2026-10-25T20:41:42.302604+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss"
     },
+    "590366bf02feaba8f60df48d": {
+      "published_at": "2026-10-26T04:58:45+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Political Line | Local, national, and anti-national",
+      "updated_at": "2026-10-26T05:23:43.094827+00:00",
+      "url": "https://www.thehindu.com/news/national/political-line-local-national-and-anti-national/article65042538.ece"
+    },
     "596344f7ed56b23cef4c3a08": {
       "published_at": "2026-10-24T19:30:42+00:00",
       "source": "thehindu.com",
@@ -2225,6 +2241,14 @@
       "title": "Rubio’s Unusual Visit to India Marks a Paradigm Shift in India-US Ties",
       "updated_at": "2026-10-24T22:52:56.309431+00:00",
       "url": "https://thediplomat.com/2026/10/rubios-unusual-visit-to-india-marks-a-paradigm-shift-in-india-us-ties"
+    },
+    "5ca4797808088b5185fc2e14": {
+      "published_at": "2026-10-26T05:01:53+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Proclaimed offender wanted for last 16 years arrested in Islamabad;",
+      "updated_at": "2026-10-26T05:23:43.094851+00:00",
+      "url": "https://www.dawn.com/news/2039923/proclaimed-offender-wanted-for-last-16-years-arrested-in-islamabad"
     },
     "5d37ae1020a3bd90c3126f48": {
       "published_at": "2026-10-25T14:48:21+00:00",
@@ -4557,6 +4581,14 @@
       "updated_at": "2026-10-26T03:52:59.947784+00:00",
       "url": "https://www.dawn.com/news/2039916/two-women-five-daughters-killed-after-van-plunges-into-deep-ditch-near-murree"
     },
+    "bf0fe8c22deff580e861168d": {
+      "published_at": "2026-10-26T05:00:44+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Gold bars worth over ₹2.08 crore seized; two arrested in Chennai",
+      "updated_at": "2026-10-26T05:23:43.094847+00:00",
+      "url": "https://www.hindustantimes.com/india-news/gold-bars-worth-over-2-08-crore-seized-two-arrested-in-chennai-101792990844509.html"
+    },
     "bf45bde197193fa243b7d8cc": {
       "published_at": "2026-10-25T07:09:28+00:00",
       "source": "thehindu.com",
@@ -6215,6 +6247,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:23:36.953471+00:00",
+  "last_cycle_at": "2026-10-26T05:23:43.095466+00:00",
   "schema_version": 1
 }
