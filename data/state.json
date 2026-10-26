@@ -288,6 +288,14 @@
       "updated_at": "2026-10-25T05:36:47.446479+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/heavy-rain-to-hit-chennai-northern-delta-and-western-districts-on-sunday/article71620782.ece"
     },
+    "0ffc94f12185600e6f4ca01a": {
+      "published_at": "2026-10-26T00:14:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kangra News: दाड़ी में 378 स्वयंसेवकों ने निकाला पथ संचलन, सामाजिक समरसता का दिया संदेश",
+      "updated_at": "2026-10-26T00:58:21.418000+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/378-volunteers-held-a-march-in-dadri-conveying-a-message-of-social-harmony-kangra-news-c-95-1-kng1060-263338-2026-10-26"
+    },
     "1067f720ed8ddbd666d764f0": {
       "published_at": "2026-10-25T10:06:58+00:00",
       "source": "thehindu.com",
@@ -1247,6 +1255,14 @@
       "title": "Israeli soldiers beat elderly Palestinian in Hebron",
       "updated_at": "2026-10-25T16:41:29.914434+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
+    },
+    "3f178139db390d36f541395c": {
+      "published_at": "2026-10-26T00:22:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Libya cannot remain a corridor for illegal migration”: Trump",
+      "updated_at": "2026-10-26T00:58:21.418046+00:00",
+      "url": "https://www.tribuneindia.com/news/illegal-migration/libya-cannot-remain-a-corridor-for-illegal-migration-trump"
     },
     "3fcd6f10560124f915c94c5a": {
       "published_at": "2026-10-24T23:02:06+00:00",
@@ -2528,6 +2544,14 @@
       "title": "Panel formed to probe spurious liquor death claims in Madhya Pradesh's Dewas; report in 15 days",
       "updated_at": "2026-10-25T05:41:15.304821+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/panel-formed-to-probe-spurious-liquor-death-claims-in-madhya-pradeshs-dewas-report-in-15-days/article71622566.ece"
+    },
+    "800c3d267e92ae5c036a2b46": {
+      "published_at": "2026-10-26T00:18:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "दिवाली से पहले चार माह का वेतन जारी करे सरकार : संघ",
+      "updated_at": "2026-10-26T00:58:21.418043+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/government-should-release-four-months-salary-before-diwali-union-kangra-news-c-95-1-kng1024-263365-2026-10-26"
     },
     "803f430a679b5d7c9aae2e86": {
       "published_at": "2026-10-25T20:26:02+00:00",
@@ -3836,6 +3860,14 @@
       "updated_at": "2026-10-25T15:10:37.789323+00:00",
       "url": "https://www.hindustantimes.com/india-news/flight-ops-to-shift-from-mumbai-to-navi-mumbai-airport-adani-airports-air-india-group-announce-plan-indigo-101792929144268.html"
     },
+    "c988551e246a82a6cca26ffe": {
+      "published_at": "2026-10-26T00:17:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "ज्वालामुखी में बनेंगे तीन भव्य प्रवेश द्वार, बस अड्डे के लिए 100 करोड़ स्वीकृत : संजय",
+      "updated_at": "2026-10-26T00:58:21.418039+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/three-grand-entrance-gates-to-be-built-in-jwalamukhi-rs-100-crore-sanctioned-for-bus-stand-sanjay-kangra-news-c-95-1-kng1036-263443-2026-10-26"
+    },
     "caf45fcb27a56d22f14c855e": {
       "published_at": "2026-10-25T21:29:23+00:00",
       "source": "aljazeera.com",
@@ -4973,6 +5005,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:58:15.408977+00:00",
+  "last_cycle_at": "2026-10-26T00:58:21.418657+00:00",
   "schema_version": 1
 }
