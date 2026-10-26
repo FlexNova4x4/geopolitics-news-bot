@@ -3789,6 +3789,14 @@
       "updated_at": "2026-10-26T02:52:34.230713+00:00",
       "url": "https://www.hindustantimes.com/india-news/amid-festive-season-pm-modi-urges-people-to-buy-from-local-artisans-in-mann-ki-baat-101792953992270.html"
     },
+    "644a54ec241f14fd34719154": {
+      "published_at": "2026-10-26T20:26:43+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Baddi police suspect Punjab link in ransom calls to scrap dealers",
+      "updated_at": "2026-10-26T22:44:03.388032+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/baddi-police-suspect-punjab-link-in-ransom-calls-to-scrap-dealers"
+    },
     "64bb329b19abcb6e715f5cc4": {
       "published_at": "2026-10-25T18:37:31+00:00",
       "source": "hindustantimes.com",
@@ -5422,6 +5430,14 @@
       "updated_at": "2026-10-25T09:35:28.668867+00:00",
       "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece"
     },
+    "8cbb77645c3f2ffec534469e": {
+      "published_at": "2026-10-26T20:25:30+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Dance, drama mark Blooming Buds school’s annual function",
+      "updated_at": "2026-10-26T22:44:03.388023+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/dance-drama-mark-blooming-buds-schools-annual-function"
+    },
     "8cd50293985dd714395fa64a": {
       "published_at": "2026-10-25T14:11:15+00:00",
       "source": "thehindu.com",
@@ -5610,6 +5626,14 @@
       "title": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
       "updated_at": "2026-10-26T22:41:28.555122+00:00",
       "url": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece"
+    },
+    "934cb9e2352a67930cc2cee4": {
+      "published_at": "2026-10-26T20:22:31+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Law & economics take centre stage at HPNLU conference",
+      "updated_at": "2026-10-26T22:44:03.387998+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/law-economics-take-centre-stage-at-hpnlu-conference"
     },
     "9374b36218aa40d4d311bff3": {
       "published_at": "2026-10-24T23:03:21+00:00",
@@ -9229,6 +9253,14 @@
       "updated_at": "2026-10-25T16:16:12.963712+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/personal-grudge-youtube-videos-whatsapp-group-and-an-ied/article71624008.ece"
     },
+    "ee8dc95c59a3ed4806f85bb0": {
+      "published_at": "2026-10-26T20:28:27+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal Police to deploy quick response teams in snow-bound areas",
+      "updated_at": "2026-10-26T22:44:03.388037+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-police-to-deploy-quick-response-teams-in-snow-bound-areas"
+    },
     "eecae1ccef23698487fc82e1": {
       "published_at": "2026-10-25T17:03:21+00:00",
       "source": "thehindu.com",
@@ -9991,6 +10023,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T22:43:56.541460+00:00",
+  "last_cycle_at": "2026-10-26T22:44:03.390000+00:00",
   "schema_version": 1
 }
