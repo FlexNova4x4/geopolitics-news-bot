@@ -736,6 +736,14 @@
       "updated_at": "2026-10-25T15:12:28.932676+00:00",
       "url": "https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece"
     },
+    "28f4d5ce10b7e41338d524c0": {
+      "published_at": "2026-10-25T20:12:11+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Hamirpur (Himachal) News: शोभायात्रा के साथ लग-कड़ियार मेले का आगाज, 25 नवंबर तक चलेगा आयोजन",
+      "updated_at": "2026-10-26T00:54:39.851677+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/lag-kadiyar-fair-begins-with-a-ceremonial-procession-the-event-will-continue-until-november-25-hamirpur-hp-news-c-94-1-hmp1005-213335-2026-10-26"
+    },
     "2ac5d225560f70aa9efb31de": {
       "published_at": "2026-10-25T02:27:15+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1104,6 +1112,14 @@
       "updated_at": "2026-10-25T18:12:52.161384+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-cm-himanta-biswa-sarma-cabinet-ministers-dance-to-gangnam-style-ai-generated-video-crosses-2-5-million-views-watch-101792931827581.html"
     },
+    "3a6f7394cd03feec89c3eeed": {
+      "published_at": "2026-10-25T20:12:06+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Six decades later, Palampur varsity alumni return home",
+      "updated_at": "2026-10-26T00:54:39.851657+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/six-decades-later-palampur-varsity-alumni-return-home"
+    },
     "3af44a52fcd33ca6e3248004": {
       "published_at": "2026-10-23T11:08:38+00:00",
       "source": "YouTube",
@@ -1229,6 +1245,14 @@
       "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
       "updated_at": "2026-10-25T15:12:12.473437+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss"
+    },
+    "419d9f2013ec3a322daa40d7": {
+      "published_at": "2026-10-25T20:15:04+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Refresher courses for field vets conclude at Palampur agri varsity",
+      "updated_at": "2026-10-26T00:54:39.851679+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/refresher-courses-for-field-vets-conclude-at-palampur-agri-varsity"
     },
     "4248b3f7df137f42c32f604a": {
       "published_at": "2026-10-25T08:26:19+00:00",
@@ -4621,6 +4645,14 @@
       "updated_at": "2026-10-25T11:34:27.744738+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss"
     },
+    "feb4fab05e9d417b59cfb95e": {
+      "published_at": "2026-10-25T20:12:07+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Govt spent Rs 1K cr on modernising six medical colleges: Shahpur MLA",
+      "updated_at": "2026-10-26T00:54:39.851673+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/govt-spent-rs-1k-cr-on-modernising-six-medical-colleges-shahpur-mla"
+    },
     "ff00da6ff48d059a4de4b5a6": {
       "published_at": "2026-10-25T05:15:52+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4649,6 +4681,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T00:54:32.913844+00:00",
+  "last_cycle_at": "2026-10-26T00:54:39.852289+00:00",
   "schema_version": 1
 }
