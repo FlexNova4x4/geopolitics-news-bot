@@ -2609,9 +2609,10 @@
     "547814c06e9294bda6dd2372": {
       "published_at": "2026-10-26T08:41:23+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10884,
       "title": "Lula’s victory may be a turning point for Latin America",
-      "updated_at": "2026-10-26T09:15:46.839091+00:00",
+      "updated_at": "2026-10-26T09:15:49.931774+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss"
     },
     "547830c823f0782efc196d62": {
@@ -4150,9 +4151,10 @@
     "85af2a7b14da563a493a30f6": {
       "published_at": "2026-10-26T08:43:39+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10887,
       "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
-      "updated_at": "2026-10-26T09:15:46.839121+00:00",
+      "updated_at": "2026-10-26T09:16:01.944800+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss"
     },
     "85b13889261ddb1c19a1f5fe": {
@@ -4778,9 +4780,10 @@
     "9ca5c7e8d209f31fc1902c6b": {
       "published_at": "2026-10-26T08:43:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10886,
       "title": "Maharashtra SIR: Why are more than 2.07 crore enumeration forms ‘uncollected’? | Explained",
-      "updated_at": "2026-10-26T09:15:46.839116+00:00",
+      "updated_at": "2026-10-26T09:15:57.820686+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-why-are-more-than-207-crore-enumeration-forms-uncollected-explained/article71358990.ece"
     },
     "9ce2be0619732bfb37a0d55d": {
@@ -5322,9 +5325,10 @@
     "af6c5ba2f70171657d4fc0bb": {
       "published_at": "2026-10-26T08:42:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 10885,
       "title": "Pakistan’s food supply falls short of healthy diet needs, FAO warns; vegetables and fruits face major gaps",
-      "updated_at": "2026-10-26T09:15:46.839111+00:00",
+      "updated_at": "2026-10-26T09:15:53.855077+00:00",
       "url": "https://www.tribuneindia.com/news/dietary-guidelines/pakistans-food-supply-falls-short-of-healthy-diet-needs-fao-warns-vegetables-and-fruits-face-major-gaps"
     },
     "af99b23d02b52cd21b36603d": {
@@ -7894,6 +7898,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T09:15:46.840007+00:00",
+  "last_cycle_at": "2026-10-26T09:16:05.146315+00:00",
   "schema_version": 1
 }
