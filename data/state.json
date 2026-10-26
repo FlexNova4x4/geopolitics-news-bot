@@ -342,6 +342,14 @@
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
     },
+    "0c25c04b6836571de8f071be": {
+      "published_at": "2026-10-26T05:22:28+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Rahul Gandhi heads to UP’s Sultanpur for verdict in defamation case",
+      "updated_at": "2026-10-26T06:22:23.656484+00:00",
+      "url": "https://www.tribuneindia.com/news/uttar-pradesh/rahul-gandhi-heads-to-ups-sultanpur-for-verdict-in-defamation-case"
+    },
     "0ca76d6b27bdf7c2b0401cad": {
       "published_at": "2026-10-26T05:16:38+00:00",
       "source": "aljazeera.com",
@@ -745,6 +753,14 @@
       "title": "Thousands mourn victims of deadly Jordan church attack",
       "updated_at": "2026-10-25T16:14:52.489118+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
+    },
+    "1d39561ff07b1e536d0e47b4": {
+      "published_at": "2026-10-26T05:22:59+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Mamata accuses BJP of using money, intimidation to target TMC; challenges BJP to fight political battle",
+      "updated_at": "2026-10-26T06:22:23.656487+00:00",
+      "url": "https://www.tribuneindia.com/news/india/mamata-accuses-bjp-of-using-money-intimidation-to-target-tmc-challenges-bjp-to-fight-political-battle"
     },
     "1de0a7d997e5e681ceda7b87": {
       "published_at": "2026-10-25T15:41:09+00:00",
@@ -2065,6 +2081,14 @@
       "title": "JUI-F KP directs leaders to quit ARDC",
       "updated_at": "2026-10-25T03:35:16.710380+00:00",
       "url": "https://www.dawn.com/news/2039587/jui-f-kp-directs-leaders-to-quit-ardc"
+    },
+    "512c12b157254ccc545e9432": {
+      "published_at": "2026-10-26T05:38:41+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "China’s political elite gather for talks on Communist Party discipline",
+      "updated_at": "2026-10-26T06:22:23.656489+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss"
     },
     "512d5a13f5f3fe666aad5873": {
       "published_at": "2026-10-25T07:49:14+00:00",
@@ -3400,6 +3424,14 @@
       "title": "Khuhro rules out possibility of any new province in Sindh",
       "updated_at": "2026-10-26T05:22:29.807987+00:00",
       "url": "https://www.dawn.com/news/2039850/khuhro-rules-out-possibility-of-any-new-province-in-sindh"
+    },
+    "842f3b34c2cc681d62066084": {
+      "published_at": "2026-10-25T23:44:34+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "updated_at": "2026-10-26T06:22:23.656469+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
     },
     "8490f7619591dc2979297fb7": {
       "published_at": "2026-10-26T03:56:55+00:00",
@@ -6521,6 +6553,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T05:54:55.172101+00:00",
+  "last_cycle_at": "2026-10-26T06:22:23.657153+00:00",
   "schema_version": 1
 }
