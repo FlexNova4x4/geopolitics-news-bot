@@ -5237,9 +5237,10 @@
     "4f6682847c1556f72140487f": {
       "published_at": "2026-10-27T17:37:21+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11994,
       "title": "Govt to end slab system punishing consumers crossing 200-unit threshold",
-      "updated_at": "2026-10-27T17:42:51.338044+00:00",
+      "updated_at": "2026-10-27T17:42:59.609431+00:00",
       "url": "https://www.dawn.com/news/2040250/govt-to-end-slab-system-punishing-consumers-crossing-200-unit-threshold"
     },
     "4f9596d87794c5b0c382d3b0": {
@@ -11854,9 +11855,10 @@
     "aef0a609b6e5b76a22e6ffb8": {
       "published_at": "2026-10-27T17:36:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11993,
       "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
-      "updated_at": "2026-10-27T17:42:51.338028+00:00",
+      "updated_at": "2026-10-27T17:42:55.574819+00:00",
       "url": "https://www.thehindu.com/news/international/attacks-kill-at-least-60-orthodox-christians-in-ethiopia-church-says/article71633099.ece"
     },
     "aeff307ce7cc4ecc2d388983": {
@@ -17747,6 +17749,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:42:51.339531+00:00",
+  "last_cycle_at": "2026-10-27T17:43:02.811582+00:00",
   "schema_version": 1
 }
