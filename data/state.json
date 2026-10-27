@@ -3851,9 +3851,10 @@
     "3bba03134ad1911343414dbf": {
       "published_at": "2026-10-27T15:42:22+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11930,
       "title": "Historic election surge: Israel voter turnout hits unprecedented 55.7% by 4 PM local time",
-      "updated_at": "2026-10-27T16:40:44.640005+00:00",
+      "updated_at": "2026-10-27T16:40:55.892454+00:00",
       "url": "https://www.tribuneindia.com/news/central-elections-committee/historic-election-surge-israel-voter-turnout-hits-unprecedented-55-7-by-4-pm-local-time"
     },
     "3bfae3c07cde8e41f296c547": {
@@ -8044,9 +8045,10 @@
     "79d3611cf0b3b48dd679829d": {
       "published_at": "2026-10-27T15:42:28+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11931,
       "title": "“Gone down in history”: Belarus Speaker Vadim Ipatov hails 12th BRICS Parliamentary Forum for human-centric progress and sovereign equality",
-      "updated_at": "2026-10-27T16:40:44.640008+00:00",
+      "updated_at": "2026-10-27T16:40:59.969427+00:00",
       "url": "https://www.tribuneindia.com/news/artificial-intelligence/gone-down-in-history-belarus-speaker-vadim-ipatov-hails-12th-brics-parliamentary-forum-for-human-centric-progress-and-sovereign-equality"
     },
     "79d88536f4b21157028c5803": {
@@ -11448,9 +11450,10 @@
     "ad95eb880a07271a4c815de1": {
       "published_at": "2026-10-27T15:41:46+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11928,
       "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "updated_at": "2026-10-27T16:40:44.639984+00:00",
+      "updated_at": "2026-10-27T16:40:48.153137+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss"
     },
     "ad976883b347afe0cec2b9d7": {
@@ -11726,9 +11729,10 @@
     "b15a84f127b15e7bb1189de4": {
       "published_at": "2026-10-27T15:42:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11929,
       "title": "Defence Minister Rajnath Singh arrives in Philippines to attend 13th ASEAN defence ministers’ meeting-Plus",
-      "updated_at": "2026-10-27T16:40:44.640001+00:00",
+      "updated_at": "2026-10-27T16:40:52.003836+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus/defence-minister-rajnath-singh-arrives-in-philippines-to-attend-13th-asean-defence-ministers-meeting-plus"
     },
     "b17cccc32ea3e5be3c1e8c18": {
@@ -17196,6 +17200,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T16:40:44.641503+00:00",
+  "last_cycle_at": "2026-10-27T16:41:03.171520+00:00",
   "schema_version": 1
 }
