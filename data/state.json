@@ -5812,9 +5812,10 @@
     "8338747ee251eb4dc655710e": {
       "published_at": "2026-10-27T04:09:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11283,
       "title": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
-      "updated_at": "2026-10-27T05:35:26.613390+00:00",
+      "updated_at": "2026-10-27T05:35:28.943082+00:00",
       "url": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece"
     },
     "83721c0f2e0fffde82176b41": {
@@ -8209,9 +8210,10 @@
     "b8d7adb5c14a4fe89d32b5b9": {
       "published_at": "2026-10-27T04:10:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11284,
       "title": "A guide to Israel’s elections",
-      "updated_at": "2026-10-27T05:35:26.613410+00:00",
+      "updated_at": "2026-10-27T05:35:32.691863+00:00",
       "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-a-guide-to-israels-elections/article71627046.ece"
     },
     "b9068584957035e77af619cb": {
@@ -9179,9 +9181,10 @@
     "cf95b9b131e6fcbdd8054401": {
       "published_at": "2026-10-27T04:14:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11285,
       "title": "U.S.-brokered truce begins in Ukraine city occupied by Russia",
-      "updated_at": "2026-10-27T05:35:26.613417+00:00",
+      "updated_at": "2026-10-27T05:35:36.423970+00:00",
       "url": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece"
     },
     "cfb1825fd201c34e8a9813aa": {
@@ -10489,9 +10492,10 @@
     "edecab246c8f21e64c362959": {
       "published_at": "2026-10-27T04:14:28+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11286,
       "title": "RSS to change its annual meeting calendar, highest decision-making body to no longer meet annually",
-      "updated_at": "2026-10-27T05:35:26.613421+00:00",
+      "updated_at": "2026-10-27T05:35:40.135545+00:00",
       "url": "https://www.hindustantimes.com/india-news/rss-to-change-its-annual-meeting-calendar-highest-decision-making-body-to-no-longer-meet-annually-101793073631550.html"
     },
     "ee0065f26494aeab7363c7d2": {
@@ -11409,6 +11413,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:35:26.614651+00:00",
+  "last_cycle_at": "2026-10-27T05:35:43.337471+00:00",
   "schema_version": 1
 }
