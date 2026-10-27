@@ -801,6 +801,14 @@
       "updated_at": "2026-10-26T09:16:14.588334+00:00",
       "url": "https://www.thehindu.com/entertainment/movies/jailer-2-movie-review-superstar-rajinikanth-nelson-shivarajkumar-mohanlal-anirudh-ravichander/article71587540.ece"
     },
+    "0c9bfa84560fa0a2ff1aa487": {
+      "published_at": "2026-10-27T10:54:43+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Two men charged with U.K. national security offences over incident at U.S.-run military base in England",
+      "updated_at": "2026-10-27T12:15:25.538348+00:00",
+      "url": "https://www.thehindu.com/news/international/two-men-charged-with-uk-national-security-offences-over-incident-at-us-run-military-base-in-england/article71630852.ece"
+    },
     "0ca76d6b27bdf7c2b0401cad": {
       "published_at": "2026-10-26T05:16:38+00:00",
       "source": "aljazeera.com",
@@ -5598,6 +5606,14 @@
       "updated_at": "2026-10-27T05:35:11.037246+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandi-college-sweeps-overall-hockey-titles"
     },
+    "64a97563cb28ef1849dd8b62": {
+      "published_at": "2026-10-27T10:59:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Three deaths reported amid Central Railway disruption; student’s family seeks compensation",
+      "updated_at": "2026-10-27T12:15:25.538369+00:00",
+      "url": "https://www.thehindu.com/news/cities/mumbai/three-deaths-reported-amid-central-railway-disruption-students-family-seeks-compensation/article71630680.ece"
+    },
     "64bb329b19abcb6e715f5cc4": {
       "published_at": "2026-10-25T18:37:31+00:00",
       "source": "hindustantimes.com",
@@ -7698,6 +7714,14 @@
       "title": "शिमला पुलिस का नशा तस्करों पर शिकंजा, पंजाब से सप्लायर गिरफ्तार; 257 ग्राम चिट्टा बरामद",
       "updated_at": "2026-10-27T10:03:49.746680+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-shimla-police-heroin-seizure-and-punjab-drug-supplier-arrest-2026-10-27"
+    },
+    "874757b6384af58818c0cb47": {
+      "published_at": "2026-10-27T10:56:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Robert F Kennedy Jr. says Arabs don’t produce science or literature",
+      "updated_at": "2026-10-27T12:15:25.538367+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/robert-f-kennedy-jr-says-arabs-dont-produce-science-or-literature?traffic_source=rss"
     },
     "876dbbc9f982c5b5d5fe924b": {
       "published_at": "2026-10-26T08:38:43+00:00",
@@ -12973,6 +12997,14 @@
       "updated_at": "2026-10-27T07:34:54.334110+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss"
     },
+    "e6bdd7fb638e10f70213a79e": {
+      "published_at": "2026-10-27T10:56:22+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Media groups challenge India’s privacy law at top court",
+      "updated_at": "2026-10-27T12:15:25.538363+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/27/media-groups-challenge-indias-privacy-law-at-top-court?traffic_source=rss"
+    },
     "e6d08f453f1ce4106b121346": {
       "published_at": "2026-10-25T05:00:29+00:00",
       "source": "thehindu.com",
@@ -14599,6 +14631,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:15:17.973020+00:00",
+  "last_cycle_at": "2026-10-27T12:15:25.539705+00:00",
   "schema_version": 1
 }
