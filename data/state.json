@@ -8215,9 +8215,10 @@
     "88554f195973ea02887a0256": {
       "published_at": "2026-10-27T13:01:54+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11732,
       "title": "JI to 'no longer' postpone Islamabad march against petrol levy, says will resume it in mid-November",
-      "updated_at": "2026-10-27T13:13:49.143923+00:00",
+      "updated_at": "2026-10-27T13:13:52.116903+00:00",
       "url": "https://www.dawn.com/news/2040214/ji-to-no-longer-postpone-islamabad-march-against-petrol-levy-says-will-resume-it-in-mid-november"
     },
     "8864285490405124e69cf80b": {
@@ -9204,9 +9205,10 @@
     "99d014b3be06a59ac64b83fb": {
       "published_at": "2026-10-27T13:05:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11733,
       "title": "Netanyahu’s rival Eisenkot urges voters to unseat ‘worst govt’ in Israeli history",
-      "updated_at": "2026-10-27T13:13:49.143937+00:00",
+      "updated_at": "2026-10-27T13:13:55.975312+00:00",
       "url": "https://www.thehindu.com/news/international/netanyahus-rival-eisenkot-urges-voters-to-unseat-worst-govt-in-israeli-history/article71631613.ece"
     },
     "99d82ab01f0ea03d17fd8ea2": {
@@ -15416,6 +15418,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:13:49.145451+00:00",
+  "last_cycle_at": "2026-10-27T13:13:59.177236+00:00",
   "schema_version": 1
 }
