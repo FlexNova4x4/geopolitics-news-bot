@@ -1532,9 +1532,10 @@
     "18669341c5e0c4005209cda3": {
       "published_at": "2026-10-27T12:17:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11702,
       "title": "CPI forms human chain in Delhi demanding CEC’s resignation and rollback of SIR",
-      "updated_at": "2026-10-27T12:42:41.609032+00:00",
+      "updated_at": "2026-10-27T12:42:48.430865+00:00",
       "url": "https://www.thehindu.com/news/national/cpi-forms-human-chain-in-delhi-demanding-cecs-resignation-and-rollback-of-sir/article71631271.ece"
     },
     "18c25fe65809516485d3f623": {
@@ -3958,9 +3959,10 @@
     "45377bd77ba5073d03dc3005": {
       "published_at": "2026-10-27T12:19:06+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11703,
       "title": "Moby-Dick; Tracing the success of a Great American Novel",
-      "updated_at": "2026-10-27T12:42:41.609035+00:00",
+      "updated_at": "2026-10-27T12:42:52.277689+00:00",
       "url": "https://www.hindustantimes.com/india-news/mobydick-tracing-the-success-of-a-great-american-novel-101793103547153.html"
     },
     "45458b2360546473da4bed10": {
@@ -4614,9 +4616,10 @@
     "50a4cdb6e1ae84b61fbca6d1": {
       "published_at": "2026-10-27T12:20:50+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11704,
       "title": "At least 1 killed, 6 injured as roof of under-construction building collapses in Multan",
-      "updated_at": "2026-10-27T12:42:41.609038+00:00",
+      "updated_at": "2026-10-27T12:42:56.316701+00:00",
       "url": "https://www.dawn.com/news/2040215/at-least-1-killed-6-injured-as-roof-of-under-construction-building-collapses-in-multan"
     },
     "50c03be605f659669387e11d": {
@@ -11437,9 +11440,10 @@
     "c10ddfccef7c6f13e6f91323": {
       "published_at": "2026-10-27T12:13:03+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11701,
       "title": "Missing since October 16 in Israel, Mangaluru man's family approaches Indian embassy to help find him",
-      "updated_at": "2026-10-27T12:42:41.609018+00:00",
+      "updated_at": "2026-10-27T12:42:44.377526+00:00",
       "url": "https://www.hindustantimes.com/india-news/shadrak-emmanuel-missing-since-october-16-in-israel-mangaluru-man-family-approaches-indian-embassy-to-help-find-him-tel-aviv-101793099119742.html"
     },
     "c1482d6f3ced47689e4eb8ad": {
@@ -15153,6 +15157,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:42:41.610388+00:00",
+  "last_cycle_at": "2026-10-27T12:42:59.518650+00:00",
   "schema_version": 1
 }
