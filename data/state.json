@@ -3527,9 +3527,10 @@
     "351dfd6d60467364d7f1b182": {
       "published_at": "2026-10-27T18:35:02+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12018,
       "title": "Controversial Islamic cleric shot dead in northern Nigeria",
-      "updated_at": "2026-10-27T19:32:38.236964+00:00",
+      "updated_at": "2026-10-27T19:32:41.275970+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss"
     },
     "3549e8af29da89f78b3a9dc5": {
@@ -8557,9 +8558,10 @@
     "7cb9d29cc1435140b999c2e7": {
       "published_at": "2026-10-27T18:35:05+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12019,
       "title": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-      "updated_at": "2026-10-27T19:32:38.236980+00:00",
+      "updated_at": "2026-10-27T19:32:45.065238+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss"
     },
     "7cd28d7a0d44826d4dd222b2": {
@@ -9788,9 +9790,10 @@
     "8e9f9f0c6037c291ea387b5e": {
       "published_at": "2026-10-27T18:41:28+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12021,
       "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
-      "updated_at": "2026-10-27T19:32:38.236985+00:00",
+      "updated_at": "2026-10-27T19:32:52.636904+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss"
     },
     "8eb5fa5e93f8315564de8cc0": {
@@ -16123,9 +16126,10 @@
     "e8f80441ab3e76aaafa1e2c3": {
       "published_at": "2026-10-27T18:38:13+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12020,
       "title": "Harry Kane: How the ‘runt of the litter’ conquered a historic Ballon d’Or",
-      "updated_at": "2026-10-27T19:32:38.236983+00:00",
+      "updated_at": "2026-10-27T19:32:48.873383+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss"
     },
     "e91a1eeea73e658492814f96": {
@@ -17988,6 +17992,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T19:32:38.238420+00:00",
+  "last_cycle_at": "2026-10-27T19:32:55.838898+00:00",
   "schema_version": 1
 }
