@@ -435,9 +435,10 @@
     "07b4ec702e362be393d3fa2e": {
       "published_at": "2026-10-26T20:34:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11513,
       "title": "हमीरपुर में पुलिस भर्ती शुरू, पहले दिन 1600 पुरुष अभ्यर्थियों का शारीरिक परीक्षण",
-      "updated_at": "2026-10-27T09:03:09.330852+00:00",
+      "updated_at": "2026-10-27T09:03:11.649490+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-police-recruitment-2026-1600-male-candidates-physical-test-2026-10-27"
     },
     "07fcc5f0728e832c037b5e56": {
@@ -4594,9 +4595,10 @@
     "59848306fe0335b819e148d8": {
       "published_at": "2026-10-26T20:34:07+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11514,
       "title": "हमीरपुर: जसकोट हेलीपोर्ट पहुंचे सीएम सुक्खू, मेडिकल कॉलेज के अकादमिक ब्लॉक का करेंगे उद्घाटन",
-      "updated_at": "2026-10-27T09:03:09.330869+00:00",
+      "updated_at": "2026-10-27T09:03:15.578071+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-sukhvinder-singh-sukhu-hamirpur-jaskot-heliport-medical-college-academic-block-inauguration-2026-10-27"
     },
     "59865b18da6240b985e3b891": {
@@ -4844,9 +4846,10 @@
     "5dfba2a00b89e2fe84ecf943": {
       "published_at": "2026-10-27T05:45:08+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11516,
       "title": "Israel heads to polls for pivotal election defined by security and democracy",
-      "updated_at": "2026-10-27T09:03:09.330876+00:00",
+      "updated_at": "2026-10-27T09:03:23.483110+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
     },
     "5e9f63da60135af8eddb38b9": {
@@ -7285,9 +7288,10 @@
     "8a2cebab65435da171f34e1f": {
       "published_at": "2026-10-26T20:34:11+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11515,
       "title": "सोलन: कंडाघाट में शिव कथा के दौरान धूमधाम से मनाया मां पार्वती का जन्मोत्सव",
-      "updated_at": "2026-10-27T09:03:09.330873+00:00",
+      "updated_at": "2026-10-27T09:03:19.503363+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-kandaghat-shiv-katha-maa-parvati-birth-celebration-sadhvi-shweta-bharti-2026-10-27"
     },
     "8a4f91dd3b3446f9af43ea10": {
@@ -13470,6 +13474,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:03:09.332500+00:00",
+  "last_cycle_at": "2026-10-27T09:03:26.685363+00:00",
   "schema_version": 1
 }
