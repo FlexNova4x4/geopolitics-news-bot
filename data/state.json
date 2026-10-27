@@ -180,6 +180,14 @@
       "updated_at": "2026-10-27T08:04:59.852511+00:00",
       "url": "https://www.tribuneindia.com/news/rajasthan/21-lakh-followers-just-33-poll-votes-rajasthan-youtuber-astrologer-fails-to-read-own-electoral-fate"
     },
+    "02fa808d66a0a5bebb690c83": {
+      "published_at": "2026-10-27T12:25:14+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+      "updated_at": "2026-10-27T13:11:15.747883+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss"
+    },
     "031348487f4a98c88df65555": {
       "published_at": "2026-10-25T12:24:51+00:00",
       "source": "thehindu.com",
@@ -2392,6 +2400,14 @@
       "updated_at": "2026-10-26T22:43:42.009495+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/it-is-essential-to-provide-better-opportunities-to-players-anurag-hamirpur-hp-news-c-94-1-hmp1029-213441-2026-10-27"
     },
+    "291a5e933ceb2999c91bf011": {
+      "published_at": "2026-10-27T12:17:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "China accused of intimidation campaign to isolate Taiwan politician",
+      "updated_at": "2026-10-27T13:11:15.747877+00:00",
+      "url": "https://www.tribuneindia.com/news/china/china-accused-of-intimidation-campaign-to-isolate-taiwan-politician"
+    },
     "2944b51e21eb861e4ef21726": {
       "published_at": "2026-10-27T07:48:45+00:00",
       "source": "thehindu.com",
@@ -3983,6 +3999,14 @@
       "updated_at": "2026-10-26T10:45:44.507790+00:00",
       "url": "https://www.hindustantimes.com/india-news/exarmy-man-held-in-tamil-nadu-for-sharing-info-with-suspected-pakistani-woman-101793009685167.html"
     },
+    "4533ca5a8a9481cfb85720f8": {
+      "published_at": "2026-10-27T00:51:58+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल: कसौली में अवैध निर्माण और पेड़ों की कटाई पर अधिकारी तलब, रिपोर्ट में देरी पर हाईकोर्ट नाराज",
+      "updated_at": "2026-10-27T13:11:15.747859+00:00",
+      "url": "https://www.amarujala.com/shimla/officials-summoned-over-illegal-construction-and-felling-of-trees-in-kasauli-high-court-expresses-displeasure-2026-10-27"
+    },
     "45377bd77ba5073d03dc3005": {
       "published_at": "2026-10-27T12:19:06+00:00",
       "source": "hindustantimes.com",
@@ -4027,6 +4051,14 @@
       "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
       "updated_at": "2026-10-25T11:34:46.583810+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
+    },
+    "46c7e7e1288a613916df1508": {
+      "published_at": "2026-10-27T12:22:42+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "PM Modi and Liechtenstein’s Hereditary Prince Alios hail India–EFTA TEPA, reaffirm strategic ties during bilateral talks",
+      "updated_at": "2026-10-27T13:11:15.747880+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-cooperation/pm-modi-and-liechtensteins-hereditary-prince-alios-hail-india-efta-tepa-reaffirm-strategic-ties-during-bilateral-talks"
     },
     "46e93c5053987f11e3b03ef4": {
       "published_at": "2026-10-27T11:28:28+00:00",
@@ -15220,6 +15252,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:11:04.026540+00:00",
+  "last_cycle_at": "2026-10-27T13:11:15.749180+00:00",
   "schema_version": 1
 }
