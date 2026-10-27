@@ -1370,9 +1370,10 @@
     "1be76c2bb93afe9f85e16f3d": {
       "published_at": "2026-10-27T06:32:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11409,
       "title": "PM Modi holds delegation-level talks with Liechtenstein’s Hereditary Prince Alois",
-      "updated_at": "2026-10-27T07:03:59.412249+00:00",
+      "updated_at": "2026-10-27T07:04:05.497154+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-relations/pm-modi-holds-delegation-level-talks-with-liechtensteins-hereditary-prince-alois"
     },
     "1c11618bd298491d4737b23e": {
@@ -3067,9 +3068,10 @@
     "40439d5cdc53f9fc9dea8b4c": {
       "published_at": "2026-10-27T06:35:01+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11410,
       "title": "सोलन: कसौली में बावड़ी में फेंकी जा रही पूजा सामग्री, सूखते जलस्रोत पर मंडराया संकट",
-      "updated_at": "2026-10-27T07:03:59.412253+00:00",
+      "updated_at": "2026-10-27T07:04:09.249170+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-kasauli-dagshai-stepwell-puja-waste-water-source-environment-protection-2026-10-27"
     },
     "40802b12010463f02e668cc7": {
@@ -7061,9 +7063,10 @@
     "90bc5ec53cc284d545154fee": {
       "published_at": "2026-10-27T06:28:13+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11408,
       "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-      "updated_at": "2026-10-27T07:03:59.412236+00:00",
+      "updated_at": "2026-10-27T07:04:01.738127+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -11695,9 +11698,10 @@
     "f0f9b40612290650c7272595": {
       "published_at": "2026-10-27T06:35:44+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11411,
       "title": "Pakistan reaffirms solidarity with Kashmiris on Black Day, calls for end to rights violations",
-      "updated_at": "2026-10-27T07:03:59.412256+00:00",
+      "updated_at": "2026-10-27T07:04:13.176129+00:00",
       "url": "https://www.dawn.com/news/2040175/pakistan-reaffirms-solidarity-with-kashmiris-on-black-day-calls-for-end-to-rights-violations"
     },
     "f10a497db187204c7d96bb91": {
@@ -12534,6 +12538,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:03:59.413666+00:00",
+  "last_cycle_at": "2026-10-27T07:04:16.377925+00:00",
   "schema_version": 1
 }
