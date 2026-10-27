@@ -162,6 +162,14 @@
       "updated_at": "2026-10-26T03:23:21.265693+00:00",
       "url": "https://www.dawn.com/news/2039821/dpm-dar-chinese-envoy-review-cpec-progress"
     },
+    "0450dc368fbe16e7f35b0ad1": {
+      "published_at": "2026-10-27T01:18:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Traffic regulations in Aluva from Oct. 28 for bridge repair work",
+      "updated_at": "2026-10-27T01:41:36.021372+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/traffic-curbs-in-aluva-from-oct-28-for-bridge-maintenance/article71627864.ece"
+    },
     "045b1edb3713127216a9206b": {
       "published_at": "2026-10-25T19:59:35+00:00",
       "source": "publish.tribuneindia.com",
@@ -4336,6 +4344,14 @@
       "updated_at": "2026-10-26T13:46:27.225444+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-wildlife-board-approves-sanctuary-status-for-two-forest-areas-14-conservation-reserves/article71627043.ece"
     },
+    "6bdab4a04cabccb601ea6b43": {
+      "published_at": "2026-10-27T01:20:39+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Centre clears E100 certification for flex-fuel vehicles",
+      "updated_at": "2026-10-27T01:41:36.021377+00:00",
+      "url": "https://www.hindustantimes.com/india-news/centre-clears-e100-certification-for-flex-fuel-vehicles-101793059726026.html"
+    },
     "6bdce6883efacced3468740e": {
       "published_at": "2026-10-25T10:56:29+00:00",
       "source": "thehindu.com",
@@ -7631,6 +7647,14 @@
       "updated_at": "2026-10-26T00:56:06.825554+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/jai-ram-targets-sukhu-govt-over-schemes-development"
     },
+    "b9f51bfed272818e408aa895": {
+      "published_at": "2026-10-27T01:16:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land",
+      "updated_at": "2026-10-27T01:41:36.021349+00:00",
+      "url": "https://www.thehindu.com/news/national/ap-odisha-on-alert-as-cyclone-arnab-nears-land/article71627868.ece"
+    },
     "b9f9fa8a918318197c588c92": {
       "published_at": "2026-10-25T04:43:06+00:00",
       "source": "aljazeera.com",
@@ -10226,6 +10250,14 @@
       "updated_at": "2026-10-26T22:45:20.839680+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-form-sit-to-probe-jaranges-500-crore-claim-as-raut-writes-to-shah-seeking-ed-probe/article71628069.ece"
     },
+    "f8c7d77dbf6efa02165b69ad": {
+      "published_at": "2026-10-27T01:17:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
+      "updated_at": "2026-10-27T01:41:36.021369+00:00",
+      "url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece"
+    },
     "f8da80698d09d6a73cdf962a": {
       "published_at": "2026-10-25T15:15:39+00:00",
       "source": "thehindu.com",
@@ -10549,6 +10581,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T01:41:30.246596+00:00",
+  "last_cycle_at": "2026-10-27T01:41:36.022704+00:00",
   "schema_version": 1
 }
