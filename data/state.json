@@ -3140,9 +3140,10 @@
     "3cbff8c1c88ba896041b7ae0": {
       "published_at": "2026-10-27T09:26:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11559,
       "title": "VC-Syndicate rift escalates over nominations at MG University in Keralam as 12 members quit",
-      "updated_at": "2026-10-27T09:36:05.498088+00:00",
+      "updated_at": "2026-10-27T09:36:11.801620+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/vc-syndicate-rift-escalates-over-nominations-at-mg-university-in-keralam-as-12-members-quit/article71630324.ece"
     },
     "3cdf4781ac896ddb88acc487": {
@@ -6999,9 +7000,10 @@
     "82d6137b9df62c34263efd63": {
       "published_at": "2026-10-27T09:24:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11558,
       "title": "Student held for post on India-Pakistan conflict released from Pune jail",
-      "updated_at": "2026-10-27T09:36:05.498069+00:00",
+      "updated_at": "2026-10-27T09:36:08.081137+00:00",
       "url": "https://www.thehindu.com/news/national/student-held-for-post-on-india-pakistan-conflict-released-from-pune-jail/article69628848.ece"
     },
     "82fecadb5678e7baac3f3410": {
@@ -8186,9 +8188,10 @@
     "980911d1dfb0bd3fd87503c1": {
       "published_at": "2026-10-27T09:28:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11561,
       "title": "Cyclone ‘Arnab’: 64 train services cancelled on October 27 and 28",
-      "updated_at": "2026-10-27T09:36:05.498098+00:00",
+      "updated_at": "2026-10-27T09:36:19.297723+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-train-services-cancelled-on-october-27-and-28/article71630352.ece"
     },
     "982f0250761141acd49c9384": {
@@ -12505,9 +12508,10 @@
     "ea1dfcc29f4555c096186b81": {
       "published_at": "2026-10-27T09:27:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11560,
       "title": "L-G enforces major administrative reshuffle in J&K, ruffles feathers with elected government",
-      "updated_at": "2026-10-27T09:36:05.498094+00:00",
+      "updated_at": "2026-10-27T09:36:15.556835+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/l-g-enforces-major-administrative-reshuffle-in-jk-ruffles-feathers-with-elected-government/article71556915.ece"
     },
     "ea4cad683693607c846f62d0": {
@@ -13875,6 +13879,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:36:05.499755+00:00",
+  "last_cycle_at": "2026-10-27T09:36:22.500144+00:00",
   "schema_version": 1
 }
