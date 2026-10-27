@@ -444,9 +444,10 @@
     "08d30e929aaafeaf69e21b7c": {
       "published_at": "2026-10-27T05:37:36+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11352,
       "title": "J&K Cabinet extended: Meet the 4 new NC ministers who took oath today",
-      "updated_at": "2026-10-27T06:05:13.226952+00:00",
+      "updated_at": "2026-10-27T06:05:19.123770+00:00",
       "url": "https://www.tribuneindia.com/news/j-k/jk-cabinet-extended-meet-the-4-new-nc-ministers-who-took-oath-today"
     },
     "08d9f98c6cf930410f2f0c4c": {
@@ -659,9 +660,10 @@
     "0c4ad1ea0b201f208875eff8": {
       "published_at": "2026-10-27T05:39:56+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11354,
       "title": "Sindh govt, police fulfilled promise of restoring peace across riverine areas: IGP",
-      "updated_at": "2026-10-27T06:05:13.226959+00:00",
+      "updated_at": "2026-10-27T06:05:26.992794+00:00",
       "url": "https://www.dawn.com/news/2040095/sindh-govt-police-fulfilled-promise-of-restoring-peace-across-riverine-areas-igp"
     },
     "0c8751fdc5115eb71209e41f": {
@@ -5838,9 +5840,10 @@
     "7c4a16c98964e534628eff4e": {
       "published_at": "2026-10-27T05:39:22+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11353,
       "title": "खरगे के बयान के विरोध में सोलन में भाजपा का प्रदर्शन, कांग्रेस नेतृत्व के खिलाफ की नारेबाजी",
-      "updated_at": "2026-10-27T06:05:13.226956+00:00",
+      "updated_at": "2026-10-27T06:05:23.038211+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-bjp-solan-protest-against-mallikarjun-kharge-statement-2026-10-27"
     },
     "7c5639c5913ba3dc5155f968": {
@@ -9799,9 +9802,10 @@
     "d3668175263fe51f4eb03573": {
       "published_at": "2026-10-27T05:37:22+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11351,
       "title": "Congress questions RAF deployment amid Arunachal dam protests; 26 arrested in Pasighat, violence spreads to Upper Subansiri",
-      "updated_at": "2026-10-27T06:05:13.226936+00:00",
+      "updated_at": "2026-10-27T06:05:15.378599+00:00",
       "url": "https://www.hindustantimes.com/india-news/congress-questions-raf-deployment-amid-arunachal-dam-protests-26-arrested-in-pasighat-violence-spreads-to-upper-subansiri-101793078248593.html"
     },
     "d3805b47e18355e1e8d97bd8": {
@@ -12021,6 +12025,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:05:13.228338+00:00",
+  "last_cycle_at": "2026-10-27T06:05:30.194433+00:00",
   "schema_version": 1
 }
