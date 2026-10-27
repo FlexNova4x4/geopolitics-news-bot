@@ -9647,6 +9647,14 @@
       "updated_at": "2026-10-26T10:45:20.754078+00:00",
       "url": "https://www.hindustantimes.com/india-news/from-google-search-to-chatgpt-how-a-70-year-old-karnataka-woman-found-her-way-home-101793007171219.html"
     },
+    "b1b6a324bfd30740cf0f78d1": {
+      "published_at": "2026-10-27T09:59:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Tamil Nadu government extends ban on inter-State transport of rough stones by three months",
+      "updated_at": "2026-10-27T10:06:07.030564+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-extends-ban-on-inter-state-transport-of-rough-stones-by-three-months/article71630643.ece"
+    },
     "b1bcfc75b3456055df5bdd2a": {
       "published_at": "2026-10-25T22:00:47+00:00",
       "source": "amarujala.com",
@@ -10851,6 +10859,14 @@
       "title": "Former Shimla SSP Sanjeev Gandhi transferred as HP General Industries Corporation MD",
       "updated_at": "2026-10-27T07:04:47.884663+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/former-shimla-ssp-sanjeev-gandhi-transferred-as-hp-general-industries-corporation-md"
+    },
+    "c5f77233e0d365dde61bb2fc": {
+      "published_at": "2026-10-27T09:59:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cylone ‘Arnab’: Visakhapatnam, Srikakulam districts in A.P. receive widespread rainfall",
+      "updated_at": "2026-10-27T10:06:07.030578+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cylone-arnab-visakhapatnam-srikakulam-districts-in-ap-receive-widespread-rainfall/article71630413.ece"
     },
     "c5ff3410ddc891d205020635": {
       "published_at": "2026-10-26T02:31:34+00:00",
@@ -14095,6 +14111,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:06:03.070128+00:00",
+  "last_cycle_at": "2026-10-27T10:06:07.032269+00:00",
   "schema_version": 1
 }
