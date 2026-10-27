@@ -2780,9 +2780,10 @@
     "32c9b9ac71b3aab4b5b46796": {
       "published_at": "2026-10-27T10:22:20+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11627,
       "title": "North Korean howitzer guns spotted close to border with South Korea",
-      "updated_at": "2026-10-27T12:13:32.377983+00:00",
+      "updated_at": "2026-10-27T12:13:35.044518+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
     },
     "330e22e4234a676df137862d": {
@@ -5671,9 +5672,10 @@
     "665a97067fa3134e42393aca": {
       "published_at": "2026-10-27T10:33:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11629,
       "title": "Mass outages in Sudan after RSF drones hit five power stations",
-      "updated_at": "2026-10-27T12:13:32.378001+00:00",
+      "updated_at": "2026-10-27T12:13:42.975174+00:00",
       "url": "https://www.thehindu.com/news/international/mass-outages-in-sudan-after-rsf-drones-hit-five-power-stations/article71628515.ece"
     },
     "66672a72b1333056df7ecdb4": {
@@ -6747,9 +6749,10 @@
     "77fbc60ac15f6b1b83cf6e6b": {
       "published_at": "2026-10-27T10:32:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11628,
       "title": "“Higher-than-usual turnout in left strongholds”: Netanyahu urges his supporters as Israel records high early poll turnout",
-      "updated_at": "2026-10-27T12:13:32.377998+00:00",
+      "updated_at": "2026-10-27T12:13:38.909683+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/higher-than-usual-turnout-in-left-strongholds-netanyahu-urges-his-supporters-as-israel-records-high-early-poll-turnout"
     },
     "78846d46efd7e027311eead4": {
@@ -7537,9 +7540,10 @@
     "8668b0dd5cb4ceaa8001a83d": {
       "published_at": "2026-10-27T10:33:28+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11630,
       "title": "'Govt allowing this to happen': Supreme Court questions overpricing of medicines, massive gap in MRP and cost to retailers",
-      "updated_at": "2026-10-27T12:13:32.378003+00:00",
+      "updated_at": "2026-10-27T12:13:46.857878+00:00",
       "url": "https://www.hindustantimes.com/india-news/govt-allowing-this-to-happen-supreme-court-questions-on-overpricing-of-medicines-massive-gap-in-mrp-and-cost-to-retailers-101793097066204.html"
     },
     "8692dc07bd1ce838cd1910ee": {
@@ -14487,6 +14491,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:13:32.379220+00:00",
+  "last_cycle_at": "2026-10-27T12:13:50.059641+00:00",
   "schema_version": 1
 }
