@@ -2175,6 +2175,14 @@
       "updated_at": "2026-10-26T07:14:33.218320+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ed-takes-tamil-nandu-minister-kn-nehrus-brother-ravichandran-to-office-for-questioning/article69427176.ece"
     },
+    "2a8c416b364eaca224ff945c": {
+      "published_at": "2026-10-27T08:17:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone ‘Arnab’: Andhra, Odisha step up precautionary measures ahead of landfall",
+      "updated_at": "2026-10-27T08:34:23.941099+00:00",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-schools-shut-trains-cancelled-andhra-pradesh-odisha-brace-for-landfall/article71630334.ece"
+    },
     "2ac5d225560f70aa9efb31de": {
       "published_at": "2026-10-25T02:27:15+00:00",
       "source": "feeds.bbci.co.uk",
@@ -10474,6 +10482,14 @@
       "updated_at": "2026-10-27T07:35:05.797847+00:00",
       "url": "https://www.hindustantimes.com/india-news/poster-and-graffiti-found-at-delhis-shivaji-stadium-metro-days-after-airport-line-defacement-fir-filed-101793082997828.html"
     },
+    "caa7e24606af0a6925293452": {
+      "published_at": "2026-10-27T08:16:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Dog deaths inside IIT Hyderabad spark row over animal welfare; students allege punitive action taken over giving food",
+      "updated_at": "2026-10-27T08:34:23.941096+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/dog-deaths-inside-iit-hyderabad-spark-row-over-animal-welfare-students-allege-action-taken-over-giving-food/article71624183.ece"
+    },
     "cad7ec98c61a8453fc9cdb7f": {
       "published_at": "2026-10-25T22:37:27+00:00",
       "source": "amarujala.com",
@@ -10563,6 +10579,14 @@
       "title": "Maharashtra considers PPP model for public hospitals in tribal belt: Minister",
       "updated_at": "2026-10-27T06:34:41.572353+00:00",
       "url": "https://www.hindustantimes.com/india-news/maharashtra-considers-ppp-model-for-public-hospitals-in-tribal-belt-minister-101793080861099.html"
+    },
+    "cbccc0eab920d70001a23df2": {
+      "published_at": "2026-10-27T08:09:58+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Data protection law challenge: SC stresses balancing privacy rights with press freedom",
+      "updated_at": "2026-10-27T08:34:23.941076+00:00",
+      "url": "https://www.hindustantimes.com/india-news/data-protection-law-challenge-sc-stresses-balancing-privacy-rights-with-press-freedom-101793088599319.html"
     },
     "cbce91fdd240a5bb88efe0cf": {
       "published_at": "2026-10-26T10:02:00+00:00",
@@ -13293,6 +13317,14 @@
       "updated_at": "2026-10-25T22:30:38.152623+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
     },
+    "fe64e116850cb04045bae245": {
+      "published_at": "2026-10-27T08:11:58+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Loud sound creates a sense of panic in Hyderabad’s Attapur, Rajendranagar areas",
+      "updated_at": "2026-10-27T08:34:23.941092+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/loud-sound-creates-a-sense-of-panic-in-hyderabads-attapur-rajendranagar-areas/article71630241.ece"
+    },
     "fe7123951aecd4e340901a65": {
       "published_at": "2026-10-24T19:38:00+00:00",
       "source": "thehindu.com",
@@ -13375,6 +13407,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T08:34:17.986727+00:00",
+  "last_cycle_at": "2026-10-27T08:34:23.942486+00:00",
   "schema_version": 1
 }
