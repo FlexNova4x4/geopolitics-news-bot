@@ -1521,6 +1521,14 @@
       "updated_at": "2026-10-25T05:38:11.681869+00:00",
       "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
+    "177467fc1699cf1469a93cd1": {
+      "published_at": "2026-10-27T13:23:43+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "JI vows Islamabad march against petrol levy to resume in mid-November if govt does not announce any 'package'",
+      "updated_at": "2026-10-27T13:44:04.353263+00:00",
+      "url": "https://www.dawn.com/news/2040214/ji-vows-islamabad-march-against-petrol-levy-to-resume-in-mid-november-if-govt-does-not-announce-any-package"
+    },
     "177f7ebc7b9fc3c533c406bd": {
       "published_at": "2026-10-27T13:11:17+00:00",
       "source": "hindustantimes.com",
@@ -3919,6 +3927,14 @@
       "title": "Member of Prashant Kishor's Jan Suraaj party's communication team goes missing from moving train to Patna",
       "updated_at": "2026-10-27T05:03:40.332162+00:00",
       "url": "https://www.hindustantimes.com/india-news/member-of-prashant-kishor-jan-suraaj-party-communication-team-goes-missing-from-moving-train-to-patna-101793071060199.html"
+    },
+    "4301609bbc18e835e5ffa8a9": {
+      "published_at": "2026-10-27T13:27:24+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "6,000 personnel deployed for cyclone-related power restoration in A.P.",
+      "updated_at": "2026-10-27T13:44:04.353284+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/6000-personnel-deployed-for-cyclone-related-power-restoration-in-ap/article71630665.ece"
     },
     "4309a47fc6e9928613e5ea90": {
       "published_at": "2026-10-25T19:19:54+00:00",
@@ -8508,6 +8524,14 @@
       "title": "Shimla: न्यू शिमला में डंगा गिरा तो 16 परिवारों पर मंडराएगा खतरा, पार्किंग भी बड़ी समस्या",
       "updated_at": "2026-10-26T06:23:23.603208+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-new-shimla-housing-safety-and-parking-crisis-2026-10-26"
+    },
+    "8b4bc0bf7042673543810963": {
+      "published_at": "2026-10-27T13:27:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rivers in north Andhra under watch amid cyclone-triggered rains",
+      "updated_at": "2026-10-27T13:44:04.353279+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rivers-in-north-andhra-under-watch-amid-cyclone-triggered-rains/article71631141.ece"
     },
     "8b52d468fd0ea2345fc34db5": {
       "published_at": "2026-10-27T09:49:38+00:00",
@@ -15401,6 +15425,14 @@
       "updated_at": "2026-10-25T16:13:45.749244+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/india-bloc-will-continue-protests-until-gyanesh-kumar-resigns-says-praveen-chakravarty/article71623557.ece"
     },
+    "fc02a8530bd74d1852c57bec": {
+      "published_at": "2026-10-27T13:27:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Business leaders reject nationalistic tech races at The Hindu Semiconductor Summit 2026",
+      "updated_at": "2026-10-27T13:44:04.353282+00:00",
+      "url": "https://www.thehindu.com/news/national/business-leaders-reject-nationalistic-tech-races-at-the-hindu-semiconductor-summit-2026/article71631698.ece"
+    },
     "fc1cc2f6fcde1a957db654f0": {
       "published_at": "2026-10-27T05:10:49+00:00",
       "source": "amarujala.com",
@@ -15670,6 +15702,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:43:53.892592+00:00",
+  "last_cycle_at": "2026-10-27T13:44:04.354647+00:00",
   "schema_version": 1
 }
