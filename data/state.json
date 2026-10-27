@@ -12,9 +12,10 @@
     "0039eeff93841b27b6b4fb90": {
       "published_at": "2026-10-27T10:44:50+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11636,
       "title": "Israel records highest voter turnout by 10 am since 1981",
-      "updated_at": "2026-10-27T12:14:33.234883+00:00",
+      "updated_at": "2026-10-27T12:14:39.975707+00:00",
       "url": "https://www.tribuneindia.com/news/world/israel-records-highest-voter-turnout-by-10-am-since-1981"
     },
     "0067564a24ee603ac38e8ad9": {
@@ -5088,9 +5089,10 @@
     "5c12c85183e4bbd215edabf4": {
       "published_at": "2026-10-27T10:45:06+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11637,
       "title": "‘Were officers sleeping?’ SC raps Centre, drug regulator over expired Covid-era approvals",
-      "updated_at": "2026-10-27T12:14:33.234887+00:00",
+      "updated_at": "2026-10-27T12:14:44.014136+00:00",
       "url": "https://www.hindustantimes.com/india-news/sc-slams-centre-drug-regulator-over-expired-covid-era-approvals-for-antifungal-drug-101793097907084.html"
     },
     "5c1ed4113d721321c01f1401": {
@@ -12391,9 +12393,10 @@
     "db16e7340c29a71e02965c16": {
       "published_at": "2026-10-27T10:45:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11638,
       "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
-      "updated_at": "2026-10-27T12:14:33.234891+00:00",
+      "updated_at": "2026-10-27T12:14:47.900017+00:00",
       "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece"
     },
     "db58a83640839fee31914c7f": {
@@ -14348,9 +14351,10 @@
     "fcad76629e99d5289c077a17": {
       "published_at": "2026-10-27T10:43:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11635,
       "title": "‘Good change’: Farooq Abdullah on expansion of J&K council of ministers",
-      "updated_at": "2026-10-27T12:14:33.234866+00:00",
+      "updated_at": "2026-10-27T12:14:36.135902+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/good-change-farooq-abdullah-on-expansion-of-jk-council-of-ministers/article71630765.ece"
     },
     "fcc15f0e001ca52f5347dc70": {
@@ -14559,6 +14563,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:14:33.236051+00:00",
+  "last_cycle_at": "2026-10-27T12:14:51.101674+00:00",
   "schema_version": 1
 }
