@@ -3194,9 +3194,10 @@
     "3035281a270c7c6841d4f764": {
       "published_at": "2026-10-27T05:04:49+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11946,
       "title": "हिमाचल: जहरीले पदार्थ के सेवन से मां की मौत, बेटी अस्पताल में भर्ती, पुलिस ने शुरू की जांच",
-      "updated_at": "2026-10-27T17:10:35.962340+00:00",
+      "updated_at": "2026-10-27T17:10:39.830055+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mother-died-after-consuming-a-toxic-substance-daughter-hospitalized-2026-10-27"
     },
     "30993307ab52b70e5d0ef3ac": {
@@ -13041,9 +13042,10 @@
     "c146250057bed883f26cb1bd": {
       "published_at": "2026-10-27T16:05:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11947,
       "title": "SC says ‘economic policy’ cannot take precedence over lives as Centre backs ‘calibrated’ drug-price controls",
-      "updated_at": "2026-10-27T17:10:35.962358+00:00",
+      "updated_at": "2026-10-27T17:10:43.862256+00:00",
       "url": "https://www.thehindu.com/news/national/sc-says-economic-policy-cannot-take-precedence-over-lives-as-centre-backs-calibrated-drug-price-controls/article71631892.ece"
     },
     "c147c6df20ff2222d1159867": {
@@ -13130,9 +13132,10 @@
     "c21d194728f8f22ccd35e66f": {
       "published_at": "2026-10-27T16:05:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11948,
       "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
-      "updated_at": "2026-10-27T17:10:35.962362+00:00",
+      "updated_at": "2026-10-27T17:10:47.714007+00:00",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss"
     },
     "c23da13b62908c3f0401aed9": {
@@ -13219,9 +13222,10 @@
     "c3d383901e707c3a57cf6786": {
       "published_at": "2026-10-27T16:05:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11949,
       "title": "Congress alleges hurdles to INDIA bloc’s proposed ‘public impeachment’ of CEC Gyanesh Kumar on October 30",
-      "updated_at": "2026-10-27T17:10:35.962365+00:00",
+      "updated_at": "2026-10-27T17:10:51.581026+00:00",
       "url": "https://www.thehindu.com/news/national/congress-alleges-hurdles-to-india-blocs-proposed-public-impeachment-of-cec-gyanesh-kumar-on-october-30/article71632378.ece"
     },
     "c3de3f3c6eea6050bf402fea": {
@@ -17340,6 +17344,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:10:35.963969+00:00",
+  "last_cycle_at": "2026-10-27T17:10:54.783367+00:00",
   "schema_version": 1
 }
