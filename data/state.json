@@ -9119,9 +9119,10 @@
     "b057d8903aa565b19e7e9e4b": {
       "published_at": "2026-10-27T08:04:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11503,
       "title": "Supreme Court seeks government response on pleas challenging Vande Mataram as a ‘divisive religious war song’",
-      "updated_at": "2026-10-27T08:34:01.025472+00:00",
+      "updated_at": "2026-10-27T08:34:06.957454+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-seeks-government-response-on-pleas-challenging-vande-mataram-as-a-divisive-religious-war-song/article71630270.ece"
     },
     "b0739e1ca9283319edca8de9": {
@@ -12804,9 +12805,10 @@
     "f67aa3a38995f3038d25b15d": {
       "published_at": "2026-10-27T08:05:01+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11504,
       "title": "Delhi high court refuses to stay probe into two journalists accused of making casteist remarks on ACP Vivek Bhagat",
-      "updated_at": "2026-10-27T08:34:01.025476+00:00",
+      "updated_at": "2026-10-27T08:34:10.861541+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-high-court-refuses-to-stay-probe-into-two-journalists-accused-of-making-casteist-remarks-on-acp-vivek-bhagat-101793087219653.html"
     },
     "f6bbfbf52529377188a38e81": {
@@ -12830,9 +12832,10 @@
     "f6caae45b89135a3f25c0764": {
       "published_at": "2026-10-27T08:04:41+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11502,
       "title": "Suspect in 7-year-old TN girl’s mysterious disappearance detained",
-      "updated_at": "2026-10-27T08:34:01.025457+00:00",
+      "updated_at": "2026-10-27T08:34:03.188176+00:00",
       "url": "https://www.tribuneindia.com/news/india/suspect-in-7-year-old-tn-girls-mysterious-disappearance-detained"
     },
     "f719c2e59baa960efe4b3af5": {
@@ -13365,12 +13368,13 @@
     "ffe9b401f55fd5fd5c6a3253": {
       "published_at": "2026-10-27T08:07:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11505,
       "title": "Bangladesh PM Tarique Rahman emphasises strengthening cooperation with Japan in energy, technology, infrastructure, investment",
-      "updated_at": "2026-10-27T08:34:01.025480+00:00",
+      "updated_at": "2026-10-27T08:34:14.784680+00:00",
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T08:34:01.026947+00:00",
+  "last_cycle_at": "2026-10-27T08:34:17.986727+00:00",
   "schema_version": 1
 }
