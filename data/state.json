@@ -1119,9 +1119,10 @@
     "131c9b4c82148a1800777b6e": {
       "published_at": "2026-10-27T11:02:41+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11648,
       "title": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20",
-      "updated_at": "2026-10-27T12:15:55.781749+00:00",
+      "updated_at": "2026-10-27T12:16:02.635475+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20?traffic_source=rss"
     },
     "1345b01f873e9ed42872cf90": {
@@ -8709,9 +8710,10 @@
     "994545cf286ed52afe6703a4": {
       "published_at": "2026-10-27T11:03:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11650,
       "title": "Kenya announces 2nd Ebola death, close relative of first patient",
-      "updated_at": "2026-10-27T12:15:55.781756+00:00",
+      "updated_at": "2026-10-27T12:16:10.433747+00:00",
       "url": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece"
     },
     "9954f94ee7db8817c8546444": {
@@ -10908,9 +10910,10 @@
     "bf96ea5f4c735aaaf85e768c": {
       "published_at": "2026-10-27T11:03:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11649,
       "title": "Tamil Nadu CM Vijay announces bonus, ex gratia for ‘C’ and ‘D’ category employees in public sector undertakings",
-      "updated_at": "2026-10-27T12:15:55.781753+00:00",
+      "updated_at": "2026-10-27T12:16:06.548370+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-announces-bonus-ex-gratia-for-c-and-d-category-employees-in-public-sector-undertakings/article71630770.ece"
     },
     "c00a918554fe1ba0d5d68e94": {
@@ -12713,9 +12716,10 @@
     "e0bde66d719479fdba3092f3": {
       "published_at": "2026-10-27T11:01:05+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11647,
       "title": "'Permission stands even now, with conditions': Delhi Police clarifies after Congress alleges bid to stall Nov 1 protest",
-      "updated_at": "2026-10-27T12:15:55.781733+00:00",
+      "updated_at": "2026-10-27T12:15:58.565303+00:00",
       "url": "https://www.hindustantimes.com/india-news/permission-stands-even-now-with-conditions-delhi-police-on-congress-claim-over-nov-1-ramlila-maidan-protest-101793098555198.html"
     },
     "e0c6a2beb4929bc1d71975ce": {
@@ -14667,6 +14671,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:15:55.782963+00:00",
+  "last_cycle_at": "2026-10-27T12:16:13.635601+00:00",
   "schema_version": 1
 }
