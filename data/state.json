@@ -570,9 +570,10 @@
     "076a2d76cbfcc3bedd4f0996": {
       "published_at": "2026-10-27T19:52:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12059,
       "title": "17 lakh fish seeds to be released into Pong reservoir to boost production",
-      "updated_at": "2026-10-27T20:05:03.228258+00:00",
+      "updated_at": "2026-10-27T20:05:13.354239+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/17-lakh-fish-seeds-to-be-released-into-pong-reservoir-to-boost-production"
     },
     "0779980b6101bb6bb57ce453": {
@@ -623,9 +624,10 @@
     "0838681bc09c212d8d76b0a6": {
       "published_at": "2026-10-27T19:54:12+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12060,
       "title": "Pollution board fines Parwanoo MC Rs 11.85 lakh for violation of solid waste management rules",
-      "updated_at": "2026-10-27T20:05:03.228261+00:00",
+      "updated_at": "2026-10-27T20:05:17.327775+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/pollution-board-fines-parwanoo-mc-rs-11-85-lakh-for-violation-of-solid-waste-management-rules"
     },
     "08399cd0a307fdc78d87fbac": {
@@ -1863,9 +1865,10 @@
     "19c4bf960a1a2545ca66ab55": {
       "published_at": "2026-10-27T19:47:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12058,
       "title": "Timely treatment can save snakebite victims: Experts",
-      "updated_at": "2026-10-27T20:05:03.228252+00:00",
+      "updated_at": "2026-10-27T20:05:09.551799+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/timely-treatment-can-save-snakebite-victims-experts"
     },
     "1a4b43006e38173ffabbb601": {
@@ -3875,9 +3878,10 @@
     "39dd671e04ea24cc60845a9d": {
       "published_at": "2026-10-27T19:46:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12057,
       "title": "Noted dancer Sreedevi Rajan passes away at 84",
-      "updated_at": "2026-10-27T20:05:03.228234+00:00",
+      "updated_at": "2026-10-27T20:05:05.754231+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/noted-dancer-sreedevi-rajan-passes-away-at-84/article71632139.ece"
     },
     "39ebad13581e75ea0c412345": {
@@ -18339,6 +18343,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T20:05:03.229664+00:00",
+  "last_cycle_at": "2026-10-27T20:05:20.529867+00:00",
   "schema_version": 1
 }
