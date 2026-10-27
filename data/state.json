@@ -3652,9 +3652,10 @@
     "5190bc0338658923e06b72fe": {
       "published_at": "2026-10-27T05:21:21+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11326,
       "title": "‘Triple C gang plotting to disrupt festivals’: VHP slams INDIA bloc over Nov 1 Ramlila Maidan rally, cites traders’ appeal",
-      "updated_at": "2026-10-27T05:39:14.530682+00:00",
+      "updated_at": "2026-10-27T05:39:28.202760+00:00",
       "url": "https://www.hindustantimes.com/india-news/triple-c-gang-plotting-to-disrupt-festivals-vhp-slams-india-bloc-over-nov-1-ramlila-maidan-rally-cites-traders-appeal-101793078050261.html"
     },
     "51bce90f8438efcaf6f9661f": {
@@ -8695,9 +8696,10 @@
     "bd76ebba7716518ebf4f495b": {
       "published_at": "2026-10-27T05:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11325,
       "title": "Voting begins in Israel elections; Eisenkot invokes October 7 massacre to ask for votes, Netanyahu projects strong-man image",
-      "updated_at": "2026-10-27T05:39:14.530679+00:00",
+      "updated_at": "2026-10-27T05:39:24.440192+00:00",
       "url": "https://www.tribuneindia.com/news/avigdor-liberman/voting-begins-in-israel-elections-eisenkot-invokes-october-7-massacre-to-ask-for-votes-netanyahu-projects-strong-man-image"
     },
     "be2cd056c9f9f0713edde282": {
@@ -9629,9 +9631,10 @@
     "d3c0a562d320008d2c26615e": {
       "published_at": "2026-10-27T05:14:13+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11324,
       "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
-      "updated_at": "2026-10-27T05:39:14.530675+00:00",
+      "updated_at": "2026-10-27T05:39:20.712179+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss"
     },
     "d3cc583b77ee5170216fab24": {
@@ -10732,9 +10735,10 @@
     "ec6a5d10904e0c3e7e5d9a46": {
       "published_at": "2026-10-27T05:12:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11323,
       "title": "‘Sprint of the century’: ‘Paralysed’ beggar runs for his life on seeing injection",
-      "updated_at": "2026-10-27T05:39:14.530659+00:00",
+      "updated_at": "2026-10-27T05:39:16.800016+00:00",
       "url": "https://www.tribuneindia.com/news/trending/sprint-of-the-century-paralysed-beggar-runs-for-his-life-on-seeing-injection"
     },
     "ecc49ee6f3e46e78a31a1f9a": {
@@ -11769,6 +11773,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:39:14.531913+00:00",
+  "last_cycle_at": "2026-10-27T05:39:31.404627+00:00",
   "schema_version": 1
 }
