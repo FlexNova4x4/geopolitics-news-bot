@@ -8371,9 +8371,10 @@
     "cd987678a3ec1d2822b51fa1": {
       "published_at": "2026-10-27T00:42:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11179,
       "title": "Expelled Afghan refugees recount police harassment, extortion amid emergency in Pakistan’s Khyber Pakhtunkhwa",
-      "updated_at": "2026-10-27T01:10:17.266555+00:00",
+      "updated_at": "2026-10-27T01:10:19.351052+00:00",
       "url": "https://www.tribuneindia.com/news/afghan-refugees/expelled-afghan-refugees-recount-police-harassment-extortion-amid-emergency-in-pakistans-khyber-pakhtunkhwa"
     },
     "cdb0add25076589e4913c22e": {
@@ -9160,9 +9161,10 @@
     "e179b18d3bb191892400fe59": {
       "published_at": "2026-10-27T01:00:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11180,
       "title": "हिमकेयर योजना: स्टेंट के नाम पर लाखों की गड़बड़ी की आशंका, विजिलेंस ब्यूरो ने आईजीएमसी मांगा रिकॉर्ड",
-      "updated_at": "2026-10-27T01:10:17.266574+00:00",
+      "updated_at": "2026-10-27T01:10:23.063813+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/crime/suspected-irregularities-worth-lakhs-involving-stents-under-the-himcare-scheme-vigilance-bureau-seeks-records-2026-10-26"
     },
     "e1be094a719375d43c682565": {
@@ -10475,6 +10477,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T01:10:17.268266+00:00",
+  "last_cycle_at": "2026-10-27T01:10:26.265946+00:00",
   "schema_version": 1
 }
