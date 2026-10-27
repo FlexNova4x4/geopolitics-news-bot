@@ -1721,9 +1721,10 @@
     "1da737e52ac2a0302b1c0a85": {
       "published_at": "2026-10-27T12:10:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11699,
       "title": "Delhi High Court refuses to stay probe against woman scribe in SC/ST Act case filed by ACP",
-      "updated_at": "2026-10-27T12:42:13.995173+00:00",
+      "updated_at": "2026-10-27T12:42:24.945636+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-refuses-to-stay-probe-against-woman-scribe-in-scst-act-case-filed-by-acp/article71631298.ece"
     },
     "1de0a7d997e5e681ceda7b87": {
@@ -7548,9 +7549,10 @@
     "816b89465702d8473ebf66e1": {
       "published_at": "2026-10-27T11:47:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11697,
       "title": "‘Now it’s my turn to put facts on record’: Sonia Gandhi predicts ‘tamasha’ ahead of memoir release",
-      "updated_at": "2026-10-27T12:42:13.995156+00:00",
+      "updated_at": "2026-10-27T12:42:16.829586+00:00",
       "url": "https://www.tribuneindia.com/news/india/now-its-my-turn-to-put-facts-on-record-sonia-gandhi-predicts-tamasha-ahead-of-memoir-release"
     },
     "8170df8fd3fa3982677d4bc5": {
@@ -8213,9 +8215,10 @@
     "8ba321276729ecb4ac491296": {
       "published_at": "2026-10-27T11:47:53+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11698,
       "title": "Bihar MLC polls: JDU leads in Patna graduates’ seat, Anant Singh’s support for Jan Suraaj’s Anuj Singh in focus",
-      "updated_at": "2026-10-27T12:42:13.995170+00:00",
+      "updated_at": "2026-10-27T12:42:20.925983+00:00",
       "url": "https://www.tribuneindia.com/news/india/bihar-mlc-polls-jdu-leads-in-patna-graduates-seat-anant-singhs-support-for-jan-suraajs-anuj-singh-in-focus"
     },
     "8bd501ff6870c87c0790a899": {
@@ -14224,9 +14227,10 @@
     "f292066645e0fcc4c6053c7f": {
       "published_at": "2026-10-27T12:11:21+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11700,
       "title": "India calls for stronger global cooperation on disaster risk reduction",
-      "updated_at": "2026-10-27T12:42:13.995175+00:00",
+      "updated_at": "2026-10-27T12:42:28.860796+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-committed-to-strengthening-global-cooperation-on-disaster-risk-reduction-says-principal-secy-to-pm-101793102835326.html"
     },
     "f2ed4c3ba33bd5eb9bb79561": {
@@ -15117,6 +15121,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:42:13.996641+00:00",
+  "last_cycle_at": "2026-10-27T12:42:32.062680+00:00",
   "schema_version": 1
 }
