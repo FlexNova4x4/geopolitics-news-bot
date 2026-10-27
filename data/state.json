@@ -4180,9 +4180,10 @@
     "5e9f63da60135af8eddb38b9": {
       "published_at": "2026-10-27T04:54:26+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11311,
       "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
-      "updated_at": "2026-10-27T05:38:03.894744+00:00",
+      "updated_at": "2026-10-27T05:38:05.833886+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss"
     },
     "5eefe6d9715e9d963c9a7361": {
@@ -4869,9 +4870,10 @@
     "6d6d2e1d96d8cf6643fdfdb7": {
       "published_at": "2026-10-27T04:57:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11313,
       "title": "Jamia students refuse to call off stir on 16th day, demand definite date for polls",
-      "updated_at": "2026-10-27T05:38:03.894763+00:00",
+      "updated_at": "2026-10-27T05:38:13.468556+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/jamia-students-refuse-to-call-off-stir-on-16th-day-demand-definite-date-for-polls"
     },
     "6ddf9eb8fc22e7e632a37c51": {
@@ -5909,9 +5911,10 @@
     "824da3df88156412c167f0e0": {
       "published_at": "2026-10-27T04:57:15+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11312,
       "title": "While the state is clear on its decision to fight terrorism in KP, it does not seem to have a clear strategy",
-      "updated_at": "2026-10-27T05:38:03.894758+00:00",
+      "updated_at": "2026-10-27T05:38:09.554393+00:00",
       "url": "https://www.dawn.com/news/2040164/while-the-state-is-clear-on-its-decision-to-fight-terrorism-in-kp-it-does-not-seem-to-have-a-clear-strategy"
     },
     "82aa7099f64bafccb19dd764": {
@@ -10651,9 +10654,10 @@
     "ecc49ee6f3e46e78a31a1f9a": {
       "published_at": "2026-10-27T04:59:08+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11314,
       "title": "हिमाचल के हाल: 13 साल से भवन का इंतजार, कुल्लू के इस मिडिल स्कूल में एक कमरे में चलती हैं तीन कक्षाएं",
-      "updated_at": "2026-10-27T05:38:03.894765+00:00",
+      "updated_at": "2026-10-27T05:38:17.387313+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/dhamah-middle-school-kullu-no-building-no-budget-13-years-2026-10-27"
     },
     "ecc4bb0353fbe405622b7286": {
@@ -11661,6 +11665,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:38:03.895910+00:00",
+  "last_cycle_at": "2026-10-27T05:38:20.589059+00:00",
   "schema_version": 1
 }
