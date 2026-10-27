@@ -477,6 +477,14 @@
       "updated_at": "2026-10-27T03:11:06.553131+00:00",
       "url": "https://www.hindustantimes.com/india-news/shouldnt-be-an-instrument-of-narrow-political-expediency-india-calls-for-veto-powers-for-all-un-security-council-members-amid-reform-push-101793068345698.html"
     },
+    "0a15affbb3f0fc4d24a69c87": {
+      "published_at": "2026-10-27T02:55:35+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Theni jailbreak: Kerala police alerted; combing operations going on in forest areas too, says officer",
+      "updated_at": "2026-10-27T03:12:05.755235+00:00",
+      "url": "https://www.thehindu.com/news/cities/Madurai/theni-jailbreak-kerala-police-alerted-combing-operations-going-on-in-forest-areas-too-says-officer/article71629619.ece"
+    },
     "0a490d39d475a6ab42a5e12d": {
       "published_at": "2026-10-26T03:59:18+00:00",
       "source": "dawn.com",
@@ -6966,6 +6974,14 @@
       "updated_at": "2026-10-26T07:15:07.012789+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threatens-andhras-municipal-polls-sec-hopes-to-hold-them-on-schedule/article71625736.ece"
     },
+    "a31e913a0c94c6737d77f4cc": {
+      "published_at": "2026-10-27T03:00:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
+      "updated_at": "2026-10-27T03:12:05.755241+00:00",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece"
+    },
     "a3df215727480bf342cc847b": {
       "published_at": "2026-10-26T03:00:38+00:00",
       "source": "dawn.com",
@@ -7721,6 +7737,14 @@
       "updated_at": "2026-10-25T00:49:16.383696+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss"
     },
+    "b6eec6e95b1f2367ee92b313": {
+      "published_at": "2026-10-27T03:08:06+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Justice Mohsin Akhtar Kayani posted to Pindi bench after reshuffle at Lahore High Court",
+      "updated_at": "2026-10-27T03:12:05.755245+00:00",
+      "url": "https://www.dawn.com/news/2040120/justice-mohsin-akhtar-kayani-posted-to-pindi-bench-after-reshuffle-at-lahore-high-court"
+    },
     "b719c53a753b77865bd29204": {
       "published_at": "2026-10-26T11:21:38+00:00",
       "source": "hindustantimes.com",
@@ -7810,6 +7834,14 @@
       "title": "BJP accuses Telangana CM Revanth Reddy of ignoring drought concerns for Delhi rally",
       "updated_at": "2026-10-26T13:40:32.961492+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/bjp-accuses-telangana-cm-revanth-reddy-of-ignoring-drought-concerns-for-delhi-rally/article71626683.ece"
+    },
+    "b81b7cc0f30e41c3d28c96d0": {
+      "published_at": "2026-10-27T02:52:37+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "AI will reshape, not replace, Indian jobs: IIT Madras study",
+      "updated_at": "2026-10-27T03:12:05.755210+00:00",
+      "url": "https://www.tribuneindia.com/news/science-technology/ai-will-reshape-not-replace-indian-jobs-iit-madras-study"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
       "published_at": "2026-10-25T11:17:24+00:00",
@@ -10900,6 +10932,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:11:57.294217+00:00",
+  "last_cycle_at": "2026-10-27T03:12:05.757337+00:00",
   "schema_version": 1
 }
