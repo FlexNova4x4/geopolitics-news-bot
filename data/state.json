@@ -441,6 +441,14 @@
       "updated_at": "2026-10-27T02:40:36.390394+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-records-season-low-16-2-c-for-second-day-as-air-quality-worsens-101793065318810.html"
     },
+    "05db79eaf451f1ada32d431a": {
+      "published_at": "2026-10-27T13:37:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India-Liechtenstein ties get boost during Hereditary Prince Alois’ visit; expanded trade, technology, and investment in focus",
+      "updated_at": "2026-10-27T14:41:39.183793+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-trade/india-liechtenstein-ties-get-boost-during-hereditary-prince-alois-visit-expanded-trade-technology-and-investment-in-focus"
+    },
     "05dc0fc669a8d6cc80960f06": {
       "published_at": "2026-10-27T05:24:39+00:00",
       "source": "dawn.com",
@@ -1807,6 +1815,14 @@
       "title": "Thousands mourn victims of deadly Jordan church attack",
       "updated_at": "2026-10-25T16:14:52.489118+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
+    },
+    "1d0831819e7272b31fe0232d": {
+      "published_at": "2026-10-27T13:40:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "ED attaches assets worth ₹23.35 crore in K.C. Veerendra online betting case",
+      "updated_at": "2026-10-27T14:41:39.183800+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/ed-attaches-assets-worth-2335-crore-in-kc-veerendra-online-betting-case/article71631261.ece"
     },
     "1d39561ff07b1e536d0e47b4": {
       "published_at": "2026-10-26T05:22:59+00:00",
@@ -6504,6 +6520,14 @@
       "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
       "updated_at": "2026-10-24T23:59:10.577038+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
+    },
+    "6a8bd72a5df0b7e4eee934db": {
+      "published_at": "2026-10-27T13:34:07+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+      "updated_at": "2026-10-27T14:41:39.183776+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss"
     },
     "6a9c882a4e35941d2610f929": {
       "published_at": "2026-10-27T01:15:21+00:00",
@@ -12805,6 +12829,14 @@
       "updated_at": "2026-10-26T09:16:18.729390+00:00",
       "url": "https://www.thehindu.com/news/national/tell-modi-to-sack-gyanesh-kumar-protests-will-stop-in-30-seconds-rahul-to-traders/article71626135.ece"
     },
+    "cf0d28d36187c7f90838c302": {
+      "published_at": "2026-10-27T13:37:48+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "India to examine Liechtenstein’s proposal for double tax avoidance pact",
+      "updated_at": "2026-10-27T14:41:39.183797+00:00",
+      "url": "https://www.hindustantimes.com/india-news/india-to-examine-liechtenstein-s-proposal-for-double-tax-avoidance-pact-101793107894049.html"
+    },
     "cf401a9a9dc6e4fb820a9aba": {
       "published_at": "2026-10-27T12:52:53+00:00",
       "source": "thehindu.com",
@@ -15976,6 +16008,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:41:26.382838+00:00",
+  "last_cycle_at": "2026-10-27T14:41:39.185154+00:00",
   "schema_version": 1
 }
