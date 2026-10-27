@@ -3569,6 +3569,14 @@
       "updated_at": "2026-10-25T08:05:29.594923+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kssp-supports-distribution-of-generic-drugs-for-sma-patients-in-keralam/article71622756.ece"
     },
+    "44cd3eea75e777ba310bc51c": {
+      "published_at": "2026-10-27T09:07:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Nepal issues high alert as Cyclone Arnab threatens heavy rain, winds, avalanches",
+      "updated_at": "2026-10-27T09:35:18.319055+00:00",
+      "url": "https://www.tribuneindia.com/news/cyclone-arnab/nepal-issues-high-alert-as-cyclone-arnab-threatens-heavy-rain-winds-avalanches"
+    },
     "4515cfe5f8a44766599c568a": {
       "published_at": "2026-10-26T05:16:37+00:00",
       "source": "publish.tribuneindia.com",
@@ -10259,6 +10267,14 @@
       "updated_at": "2026-10-26T11:44:26.804398+00:00",
       "url": "https://www.hindustantimes.com/india-news/govt-allows-e100-fuel-for-flex-fuel-vehicles-under-amended-motor-vehicle-rules-101793011971096.html"
     },
+    "c01a6e9d0c7b5204827e7075": {
+      "published_at": "2026-10-27T09:05:39+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Firearms, grenades and ammunition seized in Manipur amid ongoing ethnic conflict",
+      "updated_at": "2026-10-27T09:35:18.319051+00:00",
+      "url": "https://www.thehindu.com/news/national/manipur/firearms-grenades-and-ammunition-seized-in-manipur-amid-ongoing-ethnic-conflict/article71630346.ece"
+    },
     "c03b353eb4beb9db435166f7": {
       "published_at": "2026-10-26T04:05:14+00:00",
       "source": "thehindu.com",
@@ -10680,6 +10696,14 @@
       "title": "US forces ready for major strikes on Iran within 96 hours of Trump’s order: Report",
       "updated_at": "2026-10-26T08:47:23.907187+00:00",
       "url": "https://www.tribuneindia.com/news/cnn-report/us-forces-ready-for-major-strikes-on-iran-within-96-hours-of-trumps-order-report"
+    },
+    "c8ae55be3cd7adcd1e9fd95f": {
+      "published_at": "2026-10-27T09:09:20+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Climate pledges put world off track as emissions set to drop just 6% by 2035: UN",
+      "updated_at": "2026-10-27T09:35:18.319060+00:00",
+      "url": "https://www.tribuneindia.com/news/world/climate-pledges-put-world-off-track-as-emissions-set-to-drop-just-6-by-2035-un"
     },
     "c8b719d00532565700a74404": {
       "published_at": "2026-10-26T20:47:08+00:00",
@@ -11121,6 +11145,14 @@
       "title": "Brazil's Lula da Silva defies odds to clinch poll victory against Flavio Bolsonaro",
       "updated_at": "2026-10-26T01:23:32.780932+00:00",
       "url": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece"
+    },
+    "d1b8c5ca61002ebd56c8debc": {
+      "published_at": "2026-10-27T09:01:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Guwahati shootout survivor stable, post-mortem exams of five victims underway",
+      "updated_at": "2026-10-27T09:35:18.319030+00:00",
+      "url": "https://www.thehindu.com/news/national/assam/guwahati-shootout-survivor-stable-post-mortem-exams-of-five-victims-underway/article71630501.ece"
     },
     "d221c60a987b5eff7abec0ac": {
       "published_at": "2026-10-25T13:40:10+00:00",
@@ -13771,6 +13803,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:35:09.064781+00:00",
+  "last_cycle_at": "2026-10-27T09:35:18.320769+00:00",
   "schema_version": 1
 }
