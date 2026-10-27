@@ -1002,9 +1002,10 @@
     "134c9c500699893f32867678": {
       "published_at": "2026-10-27T06:58:26+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11429,
       "title": "संगठन की मजबूती, कार्यकर्ताओं की सक्रियता पर जोर : रवि ठाकुर",
-      "updated_at": "2026-10-27T07:05:57.581072+00:00",
+      "updated_at": "2026-10-27T07:06:03.555930+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/emphasis-on-strengthening-the-organization-and-the-active-involvement-of-party-workers-ravi-thakur-kullu-news-c-89-1-ssml1015-190319-2026-10-27"
     },
     "135bf913908718e670af8c71": {
@@ -2932,9 +2933,10 @@
     "3c5dbe423083b380ba360def": {
       "published_at": "2026-10-27T07:00:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11430,
       "title": "Sirmour News: त्रिलोकपुर में आयुष शिविर से 1619 श्रद्धालुओं को मिला उपचार",
-      "updated_at": "2026-10-27T07:05:57.581077+00:00",
+      "updated_at": "2026-10-27T07:06:07.491450+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/aayush-sivir-in-trilokpur-nahan-news-c-177-1-nhn1006-192565-2026-10-26"
     },
     "3cdf4781ac896ddb88acc487": {
@@ -6728,9 +6730,10 @@
     "85e6b5914d0f07de0d44023c": {
       "published_at": "2026-10-27T07:01:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11431,
       "title": "निर्माण श्रमिकों को सौगात : इंडक्शन हीटर बांटे, नए पंजीकृत कामगारों को मिले लेबर कार्ड",
-      "updated_at": "2026-10-27T07:05:57.581081+00:00",
+      "updated_at": "2026-10-27T07:06:11.444970+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/labour-jagrukta-sivir-nahan-news-c-177-1-nhn1001-192592-2026-10-26"
     },
     "8603cfb6169861cbd8e90fd5": {
@@ -11102,9 +11105,10 @@
     "e2a61990e40d0a2906b49808": {
       "published_at": "2026-10-27T06:55:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11428,
       "title": "Tribal, Dalit advocacy groups in Keralam allege policy discrimination against SC, ST students in nursing admissions",
-      "updated_at": "2026-10-27T07:05:57.581051+00:00",
+      "updated_at": "2026-10-27T07:05:59.782125+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/tribal-dalit-advocacy-groups-in-keralam-allege-policy-discrimination-against-sc-st-students-in-nursing-admissions/article71630045.ece"
     },
     "e2b8b48cdc3c18ae40503f7a": {
@@ -12714,6 +12718,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:05:57.582590+00:00",
+  "last_cycle_at": "2026-10-27T07:06:14.647084+00:00",
   "schema_version": 1
 }
