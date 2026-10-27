@@ -7076,9 +7076,10 @@
     "67a0e523cf09431bf41cab1b": {
       "published_at": "2026-10-27T19:40:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12053,
       "title": "Need sustained vigilance: Army Chief reviews LAC op readiness",
-      "updated_at": "2026-10-27T20:04:33.455120+00:00",
+      "updated_at": "2026-10-27T20:04:36.458271+00:00",
       "url": "https://www.tribuneindia.com/news/india/need-sustained-vigilance-army-chief-reviews-lac-op-readiness"
     },
     "67d1399f3ae7ffec1ecbb2ae": {
@@ -8045,9 +8046,10 @@
     "74a1354ffee13e6ad8e3ba60": {
       "published_at": "2026-10-27T19:40:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12054,
       "title": "Ex-MLA’s son booked over ‘forged’ mining transit passes; inquiry flags 2,418 fake forms",
-      "updated_at": "2026-10-27T20:04:33.455139+00:00",
+      "updated_at": "2026-10-27T20:04:40.432962+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/ex-mlas-son-booked-over-forged-mining-transit-passes-inquiry-flags-2418-fake-forms"
     },
     "74a7db7fd904ff1bb6ec3951": {
@@ -11845,9 +11847,10 @@
     "a913c88b0fb51e8addaaa1a9": {
       "published_at": "2026-10-27T19:42:27+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12055,
       "title": "Resistance reborn: From rap to nazm, dissent finds rhythm on Delhi’s streets",
-      "updated_at": "2026-10-27T20:04:33.455143+00:00",
+      "updated_at": "2026-10-27T20:04:44.389632+00:00",
       "url": "https://www.tribuneindia.com/news/india/resistance-reborn-from-rap-to-nazm-dissent-finds-rhythm-on-delhis-streets"
     },
     "a9263e36b2903f34a79ecd7d": {
@@ -12878,9 +12881,10 @@
     "b794abd56a7ec775e14aca98": {
       "published_at": "2026-10-27T19:45:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12056,
       "title": "Fouled waters: On Rajasthan’s river pollution",
-      "updated_at": "2026-10-27T20:04:33.455146+00:00",
+      "updated_at": "2026-10-27T20:04:48.329935+00:00",
       "url": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece"
     },
     "b79d13a62d8f847db37f8425": {
@@ -18303,6 +18307,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T20:04:33.456535+00:00",
+  "last_cycle_at": "2026-10-27T20:04:51.531976+00:00",
   "schema_version": 1
 }
