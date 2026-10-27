@@ -1657,9 +1657,10 @@
     "29684a250e0aa981a057a67d": {
       "published_at": "2026-10-27T01:01:53+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11183,
       "title": "US court rules against Trump administration in California voting case",
-      "updated_at": "2026-10-27T01:40:50.700217+00:00",
+      "updated_at": "2026-10-27T01:41:01.132873+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss"
     },
     "29bc01c91831bea0fe51696d": {
@@ -3004,9 +3005,10 @@
     "4985e0edffa0db0e4d2af048": {
       "published_at": "2026-10-26T19:08:48+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11181,
       "title": "West Bengal SIR: Election Commission cites SC orders to justify 1.61 million appeals",
-      "updated_at": "2026-10-27T01:40:50.700193+00:00",
+      "updated_at": "2026-10-27T01:40:53.454984+00:00",
       "url": "https://www.hindustantimes.com/india-news/west-bengal-sir-election-commission-cites-sc-orders-to-justify-1-61-million-appeals-101793041729310.html"
     },
     "49bad963a3556e142d805c93": {
@@ -3442,9 +3444,10 @@
     "5426dd22380532f26e35cf49": {
       "published_at": "2026-10-27T01:06:50+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11184,
       "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
-      "updated_at": "2026-10-27T01:40:50.700221+00:00",
+      "updated_at": "2026-10-27T01:41:04.883454+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss"
     },
     "547814c06e9294bda6dd2372": {
@@ -9418,9 +9421,10 @@
     "e802f1d302084bbae4343794": {
       "published_at": "2026-10-26T19:32:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11182,
       "title": "Two midnight crashes, four deaths in Ernakulam: MVD, police call for more speed cameras, night patrols",
-      "updated_at": "2026-10-27T01:40:50.700212+00:00",
+      "updated_at": "2026-10-27T01:40:57.398928+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/mvd-police-seek-speed-detection-cameras-more-personnel-for-night-patrol-to-curb-overspeeding/article71627274.ece"
     },
     "e8374bfa1407713775077eba": {
@@ -10509,6 +10513,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T01:40:50.701744+00:00",
+  "last_cycle_at": "2026-10-27T01:41:08.085471+00:00",
   "schema_version": 1
 }
