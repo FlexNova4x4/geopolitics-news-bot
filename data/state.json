@@ -1487,9 +1487,10 @@
     "22ea14075c41ace447bf866e": {
       "published_at": "2026-10-27T03:06:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11236,
       "title": "MCD to procure 98,500 vials of anti-rabies vaccine",
-      "updated_at": "2026-10-27T03:41:42.722956+00:00",
+      "updated_at": "2026-10-27T03:41:52.706334+00:00",
       "url": "https://www.hindustantimes.com/india-news/mcd-to-procure-98-500-vials-of-anti-rabies-vaccine-101793070295651.html"
     },
     "2300b2579a2500899a387252": {
@@ -4518,9 +4519,10 @@
     "6beb965a5c0b5ca84dd0c71f": {
       "published_at": "2026-10-27T01:57:49+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11234,
       "title": "FCC rejects private ownership claim on state land",
-      "updated_at": "2026-10-27T03:41:42.722926+00:00",
+      "updated_at": "2026-10-27T03:41:45.034724+00:00",
       "url": "https://www.dawn.com/news/2040119/fcc-rejects-private-ownership-claim-on-state-land"
     },
     "6c55a5a25076b65b9f6529d3": {
@@ -7551,9 +7553,10 @@
     "b1a21c422cee3346a4e276b5": {
       "published_at": "2026-10-27T03:08:27+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11237,
       "title": "Lok Sabha speaker Om Birla urges Brics parliaments to turn dialogue into concrete outcomes",
-      "updated_at": "2026-10-27T03:41:42.722961+00:00",
+      "updated_at": "2026-10-27T03:41:56.670133+00:00",
       "url": "https://www.hindustantimes.com/india-news/lok-sabha-speaker-om-birla-urges-brics-parliaments-to-turn-dialogue-into-concrete-outcomes-101793065743005.html"
     },
     "b1a54a2c726a43a3df292759": {
@@ -9733,9 +9736,10 @@
     "e556414fc9093d9fd0a11c78": {
       "published_at": "2026-10-27T01:58:00+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11235,
       "title": "Balochistan Assembly shelves resolution against Sardari system",
-      "updated_at": "2026-10-27T03:41:42.722950+00:00",
+      "updated_at": "2026-10-27T03:41:48.978724+00:00",
       "url": "https://www.dawn.com/news/2040072/balochistan-assembly-shelves-resolution-against-sardari-system"
     },
     "e5f3482befc22ed1ccad3206": {
@@ -10968,6 +10972,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:41:42.724747+00:00",
+  "last_cycle_at": "2026-10-27T03:41:59.872766+00:00",
   "schema_version": 1
 }
