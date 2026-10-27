@@ -48,9 +48,10 @@
     "008c6f0e993b6823da7fcb06": {
       "published_at": "2026-10-27T14:45:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11855,
       "title": "Notify Pallikaranai under Wetlands Rules, 2017: Sowmiya Anbumani",
-      "updated_at": "2026-10-27T15:13:07.997575+00:00",
+      "updated_at": "2026-10-27T15:13:22.910264+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/notify-pallikaranai-under-wetlands-rules-2017-sowmiya-anbumani/article71631354.ece"
     },
     "00f750aac2590202af7dd8a9": {
@@ -5521,9 +5522,10 @@
     "580f301b3f62026dceb26c49": {
       "published_at": "2026-10-27T14:42:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11853,
       "title": "Naidu orders subsidised sale of essential commodities through ration shops",
-      "updated_at": "2026-10-27T15:13:07.997569+00:00",
+      "updated_at": "2026-10-27T15:13:15.068959+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-orders-subsidised-sale-of-essential-commodities-through-ration-shops/article71631994.ece"
     },
     "58575d06d889b647af1814ab": {
@@ -16122,9 +16124,10 @@
     "fae5e71f5e5c0857cd92cfc0": {
       "published_at": "2026-10-27T14:45:41+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11854,
       "title": "Sudan’s war steals children’s future with school closures and displacement",
-      "updated_at": "2026-10-27T15:13:07.997572+00:00",
+      "updated_at": "2026-10-27T15:13:19.001286+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/27/sudans-war-steals-childrens-futures-with-school-closures-and-displacement?traffic_source=rss"
     },
     "fafebdb403dde06cf560ba55": {
@@ -16461,9 +16464,10 @@
     "ff22e5ccd2cb1d771969ff0c": {
       "published_at": "2026-10-27T14:38:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11852,
       "title": "Total voters in Mysuru district down to 22.80 lakh from 27.99 prior to SIR",
-      "updated_at": "2026-10-27T15:13:07.997554+00:00",
+      "updated_at": "2026-10-27T15:13:11.122444+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/total-voters-in-mysuru-district-down-to-2280-lakh-from-2799-prior-to-sir/article71632036.ece"
     },
     "ff381c026f0585cfdca5cca6": {
@@ -16512,6 +16516,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:13:07.998962+00:00",
+  "last_cycle_at": "2026-10-27T15:13:26.112386+00:00",
   "schema_version": 1
 }
