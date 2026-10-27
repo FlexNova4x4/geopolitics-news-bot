@@ -165,9 +165,10 @@
     "0370e28db70ab174851a1d39": {
       "published_at": "2026-10-27T04:49:49+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11307,
       "title": "25% of South Asian Americans who voted for Trump in 2024 to back Democrats in midterms: Survey",
-      "updated_at": "2026-10-27T05:37:40.878724+00:00",
+      "updated_at": "2026-10-27T05:37:43.279395+00:00",
       "url": "https://www.tribuneindia.com/news/india/25-of-south-asian-americans-who-voted-for-trump-in-2024-to-back-democrats-in-midterms-survey"
     },
     "03b742e81b55794d988bc3bd": {
@@ -5371,9 +5372,10 @@
     "776f4fc013802d22b82fae4b": {
       "published_at": "2026-10-27T04:53:37+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11309,
       "title": "Odisha steps up cyclone preparedness as Arnab intensifies; heavy rain warning for six districts",
-      "updated_at": "2026-10-27T05:37:40.878748+00:00",
+      "updated_at": "2026-10-27T05:37:50.891469+00:00",
       "url": "https://www.hindustantimes.com/india-news/odisha-steps-up-cyclone-preparedness-as-arnab-intensifies-heavy-rain-warning-for-six-districts-101793075493342.html"
     },
     "777287e979532631a778d786": {
@@ -7444,9 +7446,10 @@
     "a4a0c262a7d579d2bfd336a1": {
       "published_at": "2026-10-27T04:50:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11308,
       "title": "How community-based weather data is bolstering this Wayanad panchayat’s demand for drought-hit status",
-      "updated_at": "2026-10-27T05:37:40.878743+00:00",
+      "updated_at": "2026-10-27T05:37:47.181236+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/how-community-based-weather-data-is-bolstering-this-wayanad-panchayats-demand-for-drought-hit-status/article71628696.ece"
     },
     "a4a2e2af01ebd2de13d0d8c2": {
@@ -8684,9 +8687,10 @@
     "bf9512d13647e1e0dcdb44bb": {
       "published_at": "2026-10-27T04:54:13+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11310,
       "title": "Cyclone Arnab LIVE tracker: ‘Very severe’ cyclonic storm's landfall expected close to Yanam",
-      "updated_at": "2026-10-27T05:37:40.878753+00:00",
+      "updated_at": "2026-10-27T05:37:54.608540+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-tracker-live-satellite-very-severe-cyclonic-storm-arnab-yanam-andhra-pradesh-kakinada-odisha-101793074172830.html"
     },
     "c00a918554fe1ba0d5d68e94": {
@@ -11625,6 +11629,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:37:40.879954+00:00",
+  "last_cycle_at": "2026-10-27T05:37:57.810311+00:00",
   "schema_version": 1
 }
