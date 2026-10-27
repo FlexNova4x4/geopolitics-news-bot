@@ -3362,6 +3362,14 @@
       "updated_at": "2026-10-25T15:15:45.009446+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/holiday-for-schools-colleges-in-palakkad-on-october-26/article71623548.ece"
     },
+    "32593373ee1265c7fc6270df": {
+      "published_at": "2026-10-27T18:47:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Highways Dept. calls for consultants to prepare DPR on linking OMR, ECR",
+      "updated_at": "2026-10-27T19:03:03.983073+00:00",
+      "url": "https://www.thehindu.com/news/cities/chennai/highways-dept-calls-for-consultants-to-prepare-dpr-on-linking-omr-ecr/article71632390.ece"
+    },
     "32bd2b6300f9cd74f3011f57": {
       "published_at": "2026-10-25T10:55:33+00:00",
       "source": "feeds.bbci.co.uk",
@@ -7916,6 +7924,14 @@
       "title": "Pakistani forces accused of abusing women, children during raids in Balochistan’s Kech district",
       "updated_at": "2026-10-27T08:05:28.668595+00:00",
       "url": "https://www.tribuneindia.com/news/balochistan/pakistani-forces-accused-of-abusing-women-children-during-raids-in-balochistans-kech-district"
+    },
+    "74fd03933f58a12b1008e03e": {
+      "published_at": "2026-10-27T18:48:58+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Three girls missing in Tiruvannamalai",
+      "updated_at": "2026-10-27T19:03:03.983090+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/three-girls-missing-in-tiruvannamalai/article71632323.ece"
     },
     "75158c1834e1c18ed588fa82": {
       "published_at": "2026-10-24T20:37:02+00:00",
@@ -17938,6 +17954,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T19:03:00.004930+00:00",
+  "last_cycle_at": "2026-10-27T19:03:03.984640+00:00",
   "schema_version": 1
 }
