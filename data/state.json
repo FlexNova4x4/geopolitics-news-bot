@@ -1421,6 +1421,14 @@
       "updated_at": "2026-10-25T22:00:59.818572+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss"
     },
+    "17fd1ed0d3bec5c91cc134b0": {
+      "published_at": "2026-10-27T10:03:32+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
+      "updated_at": "2026-10-27T10:34:23.916707+00:00",
+      "url": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss"
+    },
     "1856332a138aee5184c65413": {
       "published_at": "2026-10-27T06:46:16+00:00",
       "source": "amarujala.com",
@@ -5255,6 +5263,14 @@
       "title": "239 vulnerable areas identified in Cuddalore district",
       "updated_at": "2026-10-26T13:40:36.733756+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/239-vulnerable-areas-identified-in-cuddalore-district/article71625876.ece"
+    },
+    "615edb8afb43a7891fa20267": {
+      "published_at": "2026-10-27T10:13:01+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Congress vows to go ahead with curtain-raiser for Nov 1 rally",
+      "updated_at": "2026-10-27T10:34:23.916738+00:00",
+      "url": "https://www.hindustantimes.com/india-news/congress-vows-to-go-ahead-with-curtain-raiser-for-nov-1-rally-101793095981931.html"
     },
     "61b023b54352ba94a7e64f4f": {
       "published_at": "2026-10-25T08:52:39+00:00",
@@ -13270,6 +13286,14 @@
       "updated_at": "2026-10-26T07:13:23.036566+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss"
     },
+    "f19ff57b5bcc0bce0453ea82": {
+      "published_at": "2026-10-27T10:12:16+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court issues notice on plea alleging Rahul Gandhi pushed pregnant journalist during October 12 march",
+      "updated_at": "2026-10-27T10:34:23.916732+00:00",
+      "url": "https://www.thehindu.com/news/national/supreme-court-seeks-response-on-plea-alleging-rahul-gandhi-pushed-a-pregnant-journalist-during-the-october-12-march/article71630580.ece"
+    },
     "f1b35a6ef9792201dff06c5f": {
       "published_at": "2026-10-26T06:30:22+00:00",
       "source": "amarujala.com",
@@ -13934,6 +13958,14 @@
       "updated_at": "2026-10-25T05:38:33.613867+00:00",
       "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece"
     },
+    "fc7be3ad58cf11b4dccb5d79": {
+      "published_at": "2026-10-27T10:04:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Telangana RTC land in Musheerabad for affordable housing sparks concerns",
+      "updated_at": "2026-10-27T10:34:23.916726+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-rtc-land-in-musheerabad-for-affordable-housing-sparks-concerns/article71630595.ece"
+    },
     "fca160d88c8f21698cafcacf": {
       "published_at": "2026-10-26T00:05:39+00:00",
       "source": "amarujala.com",
@@ -14149,6 +14181,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:34:17.296288+00:00",
+  "last_cycle_at": "2026-10-27T10:34:23.918174+00:00",
   "schema_version": 1
 }
