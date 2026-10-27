@@ -2510,6 +2510,14 @@
       "updated_at": "2026-10-27T15:16:52.446333+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/realtor-hacked-to-death-in-poothurai-near-auroville/article71631359.ece"
     },
+    "25bbdbe8bb3163e538f176d5": {
+      "published_at": "2026-10-27T15:17:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "SIMBEX-2026: 33rd India-Singapore Maritime bilateral exercise concludes in Visakhapatnam",
+      "updated_at": "2026-10-27T16:10:37.045493+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-exercise/simbex-2026-33rd-india-singapore-maritime-bilateral-exercise-concludes-in-visakhapatnam"
+    },
     "261bbaffea8c666d69aa31ce": {
       "published_at": "2026-10-27T06:34:00+00:00",
       "source": "The Diplomat",
@@ -3244,6 +3252,14 @@
       "title": "शिमला: वाल्मीकि मंदिर को 25 लाख, पात्र सफाई कर्मचारियों को मकान के लिए तीन लाख; मुख्यमंत्री सुक्खू ने की घोषणा",
       "updated_at": "2026-10-26T09:14:41.660600+00:00",
       "url": "https://www.amarujala.com/shimla/cm-sukhu-announces-25-lakh-for-valmiki-temple-3-lakh-housing-aid-for-eligible-sanitation-workers-2026-10-26"
+    },
+    "31c71c6c65f5615dba632c20": {
+      "published_at": "2026-10-27T15:18:58+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'What if someone falls ill?': Delhi's non-BS VI vehicle ban from November 1 leaves Noida commuters worried",
+      "updated_at": "2026-10-27T16:10:37.045509+00:00",
+      "url": "https://www.hindustantimes.com/india-news/what-if-someone-falls-ill-delhis-non-bs-vi-vehicle-ban-from-november-1-leaves-noida-commuters-worried-101793111000908.html"
     },
     "31fb567f7c421891b63b619c": {
       "published_at": "2026-10-25T07:33:28+00:00",
@@ -5662,6 +5678,14 @@
       "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
       "updated_at": "2026-10-26T10:44:29.074943+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss"
+    },
+    "5791a4e5f805bd6122fea29d": {
+      "published_at": "2026-10-27T15:32:17+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Assam Police forms SIT to probe killing of five over Guwahati hotel lease dispute",
+      "updated_at": "2026-10-27T16:10:37.045514+00:00",
+      "url": "https://www.hindustantimes.com/india-news/assam-police-forms-sit-to-probe-killing-of-five-over-guwahati-hotel-lease-dispute-101793114015863.html"
     },
     "580f301b3f62026dceb26c49": {
       "published_at": "2026-10-27T14:42:13+00:00",
@@ -13282,6 +13306,14 @@
       "updated_at": "2026-10-26T00:58:28.069345+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/three-grand-entrance-gates-to-be-built-in-jwalamukhi-rs-100-crore-sanctioned-for-bus-stand-sanjay-kangra-news-c-95-1-kng1036-263443-2026-10-26"
     },
+    "c9f894a0c8e6ed22ceefa2b6": {
+      "published_at": "2026-10-27T15:26:59+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+      "updated_at": "2026-10-27T16:10:37.045512+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss"
+    },
     "c9fb64f1790dee59cfac87a0": {
       "published_at": "2026-10-27T06:57:50+00:00",
       "source": "hindustantimes.com",
@@ -17056,6 +17088,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:46:06.851590+00:00",
+  "last_cycle_at": "2026-10-27T16:10:37.047100+00:00",
   "schema_version": 1
 }
