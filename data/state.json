@@ -1954,9 +1954,10 @@
     "28c07379df843b285030f887": {
       "published_at": "2026-10-27T06:21:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11388,
       "title": "Kerala passes bill aimed at protecting rights, dignity of senior citizens",
-      "updated_at": "2026-10-27T06:35:51.525447+00:00",
+      "updated_at": "2026-10-27T06:36:01.137089+00:00",
       "url": "https://www.hindustantimes.com/india-news/kerala-passes-bill-aimed-at-protecting-rights-dignity-of-senior-citizens-101793082118757.html"
     },
     "28f4d5ce10b7e41338d524c0": {
@@ -6531,9 +6532,10 @@
     "86abfe052cd1e76df4035a57": {
       "published_at": "2026-10-27T06:18:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11386,
       "title": "Theni jailbreak: Human error led to escape of prisoners, says DGP-Prisons",
-      "updated_at": "2026-10-27T06:35:51.525428+00:00",
+      "updated_at": "2026-10-27T06:35:53.654362+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-human-error-led-to-escape-of-prisoners-says-dgp-prisons/article71629966.ece"
     },
     "86af9692337edec9136cec84": {
@@ -7304,9 +7306,10 @@
     "96fd5266fabf22141e93546e": {
       "published_at": "2026-10-27T06:22:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11389,
       "title": "SIR: Over 99.32 lakh names struck off voter list in Karnataka",
-      "updated_at": "2026-10-27T06:35:51.525450+00:00",
+      "updated_at": "2026-10-27T06:36:05.064029+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/sir-over-9932-lakh-names-struck-off-voter-list-in-karnataka/article71629941.ece"
     },
     "971a2373e98039ab0fd85f10": {
@@ -8774,9 +8777,10 @@
     "b759b7d75d70a7d957e07034": {
       "published_at": "2026-10-27T06:20:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11387,
       "title": "Junior doctors, interns at Kolkata govt. hospital allege threats over stampede claims",
-      "updated_at": "2026-10-27T06:35:51.525443+00:00",
+      "updated_at": "2026-10-27T06:35:57.412967+00:00",
       "url": "https://www.thehindu.com/news/cities/kolkata/junior-doctors-interns-at-kolkata-govt-hospital-allege-threats-over-stampede-claims/article71627184.ece"
     },
     "b766d65102273425cad06721": {
@@ -12336,6 +12340,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:35:51.526870+00:00",
+  "last_cycle_at": "2026-10-27T06:36:08.266045+00:00",
   "schema_version": 1
 }
