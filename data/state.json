@@ -5277,9 +5277,10 @@
     "60e056ff8677c454355264da": {
       "published_at": "2026-10-27T10:19:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11601,
       "title": "Man accused in minor’s rape, murder shot dead by police in Bengal",
-      "updated_at": "2026-10-27T10:35:10.654286+00:00",
+      "updated_at": "2026-10-27T10:35:16.917395+00:00",
       "url": "https://www.hindustantimes.com/india-news/man-accused-in-minor-s-rape-murder-shot-dead-by-police-in-bengal-101793096341256.html"
     },
     "613e84deb9154996d6a8b2c9": {
@@ -9452,9 +9453,10 @@
     "ab62948d33e3ec75373a7b79": {
       "published_at": "2026-10-27T10:22:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11603,
       "title": "Cyclonic storm Arnab impact on Telangana | Heavy-very heavy rainfall forecast in four districts, yellow alert in four more on Oct. 28",
-      "updated_at": "2026-10-27T10:35:10.654292+00:00",
+      "updated_at": "2026-10-27T10:35:24.520543+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/cyclonic-storm-arnab-impact-on-telangana-heavy-very-heavy-rainfall-forecast-in-four-districts-yellow-alert-in-four-more-on-october-28/article71630692.ece"
     },
     "aba0ba17c15dbef6d9f7f677": {
@@ -9477,9 +9479,10 @@
     "abb090cdd7869bbae668806d": {
       "published_at": "2026-10-27T10:22:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11602,
       "title": "PM Modi, Liechtenstein’s Prince Alois hold talks to boost ties",
-      "updated_at": "2026-10-27T10:35:10.654290+00:00",
+      "updated_at": "2026-10-27T10:35:20.813801+00:00",
       "url": "https://www.thehindu.com/news/national/pm-modi-liechtensteins-prince-alois-hold-talks-to-boost-ties/article71630774.ece"
     },
     "abc2cf386b28d8a08071f1bf": {
@@ -9899,9 +9902,10 @@
     "b56bb18f2939089bc9f51895": {
       "published_at": "2026-10-27T10:18:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11600,
       "title": "CM Vijay presents cash incentives to WorldSkills Competition medallists, participants from Tamil Nadu",
-      "updated_at": "2026-10-27T10:35:10.654272+00:00",
+      "updated_at": "2026-10-27T10:35:13.063386+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-presents-cash-incentives-to-worldskills-competition-medalists-participants-from-tamil-nadu/article71630695.ece"
     },
     "b56d1ea1d523ac05c50d966b": {
@@ -14253,6 +14257,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:35:10.655938+00:00",
+  "last_cycle_at": "2026-10-27T10:35:27.722655+00:00",
   "schema_version": 1
 }
