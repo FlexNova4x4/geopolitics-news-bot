@@ -2374,6 +2374,14 @@
       "updated_at": "2026-10-27T01:41:01.132873+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss"
     },
+    "299513eb564c0f80472c4ec3": {
+      "published_at": "2026-10-27T11:58:37+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Lahore ATC denies police further remand of PTI's Hammad Azhar, sends him on judicial remand",
+      "updated_at": "2026-10-27T12:19:35.329859+00:00",
+      "url": "https://www.dawn.com/news/2040211/lahore-atc-denies-police-further-remand-of-ptis-hammad-azhar-sends-him-on-judicial-remand"
+    },
     "29bc01c91831bea0fe51696d": {
       "published_at": "2026-10-26T11:07:11+00:00",
       "source": "publish.tribuneindia.com",
@@ -2785,6 +2793,14 @@
       "title": "Mahayuti vs MVA: Counting under way for five Maharashtra Legislative Council seats",
       "updated_at": "2026-10-27T12:16:37.913798+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/five-maharashtra-legislative-council-election-counting-mahayuti-mva-october-27/article71631052.ece"
+    },
+    "30d73138ae3eab675b3d506d": {
+      "published_at": "2026-10-27T11:52:40+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Israel elections: Midday voter turnout soars to 31.5 per cent, reaching highest level since 1973",
+      "updated_at": "2026-10-27T12:19:35.329852+00:00",
+      "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/israel-elections-midday-voter-turnout-soars-to-31-5-per-cent-reaching-highest-level-since-1973"
     },
     "30f2aa4da98503eacba52e9a": {
       "published_at": "2026-10-25T13:29:09+00:00",
@@ -7707,6 +7723,14 @@
       "title": "Man killed, another injured as speeding truck hits e-scooter in Delhi's Kalkaji",
       "updated_at": "2026-10-25T11:04:50.825741+00:00",
       "url": "https://www.hindustantimes.com/india-news/man-killed-another-injured-as-speeding-truck-hits-e-scooter-in-delhis-kalkaji-101792923896714.html"
+    },
+    "8592a8ba926ca91185bd2cfa": {
+      "published_at": "2026-10-27T11:54:43+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "AI can strengthen parliamentary processes, citizen participation: Om Birla",
+      "updated_at": "2026-10-27T12:19:35.329855+00:00",
+      "url": "https://www.thehindu.com/news/national/ai-can-strengthen-parliamentary-processes-citizen-participation-om-birla/article71631153.ece"
     },
     "85af2a7b14da563a493a30f6": {
       "published_at": "2026-10-26T08:43:39+00:00",
@@ -13666,6 +13690,14 @@
       "updated_at": "2026-10-25T16:15:00.373938+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-east-godavari-districts-step-up-cyclone-preparedness/article71623978.ece"
     },
+    "ec5c6c3bb75df34b96094b52": {
+      "published_at": "2026-10-27T11:52:25+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Mojtaba Khamenei stresses control over Strait of Hormuz after meeting with Mohsen Rezaei",
+      "updated_at": "2026-10-27T12:19:35.329834+00:00",
+      "url": "https://www.tribuneindia.com/news/ayatollah-mojtaba-khamenei/mojtaba-khamenei-stresses-control-over-strait-of-hormuz-after-meeting-with-mohsen-rezaei"
+    },
     "ec6a5d10904e0c3e7e5d9a46": {
       "published_at": "2026-10-27T05:12:25+00:00",
       "source": "publish.tribuneindia.com",
@@ -14923,6 +14955,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:19:20.482243+00:00",
+  "last_cycle_at": "2026-10-27T12:19:35.331127+00:00",
   "schema_version": 1
 }
