@@ -6972,9 +6972,10 @@
     "9d190a7b682ba59b2b49cda7": {
       "published_at": "2026-10-26T20:07:56+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11278,
       "title": "BJP burns Kharge’s effigy in Hamirpur over remarks on Modi’s father",
-      "updated_at": "2026-10-27T05:34:39.989737+00:00",
+      "updated_at": "2026-10-27T05:34:53.851310+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/bjp-burns-kharges-effigy-in-hamirpur-over-remarks-on-modis-father"
     },
     "9d323ce167023fbd221d1f68": {
@@ -8515,9 +8516,10 @@
     "c045da6a9ba13747c14e1dca": {
       "published_at": "2026-10-26T20:06:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11277,
       "title": "Central Tibetan Administration seeks unhindered access to earthquake-hit Tibet",
-      "updated_at": "2026-10-27T05:34:39.989733+00:00",
+      "updated_at": "2026-10-27T05:34:49.953863+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/central-tibetan-administration-seeks-unhindered-access-to-earthquake-hit-tibet"
     },
     "c04a9a419822bc3122170059": {
@@ -10463,9 +10465,10 @@
     "eec77913c301980ca84c3eca": {
       "published_at": "2026-10-26T20:00:29+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11276,
       "title": "429 athletes to compete in U-19 athletics meet at Dharamsala",
-      "updated_at": "2026-10-27T05:34:39.989729+00:00",
+      "updated_at": "2026-10-27T05:34:45.990807+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/429-athletes-to-compete-in-u-19-athletics-meet-at-dharamsala"
     },
     "eecae1ccef23698487fc82e1": {
@@ -11054,9 +11057,10 @@
     "f9f85c1390fc2667ed8af1d9": {
       "published_at": "2026-10-26T19:59:50+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11275,
       "title": "Kangra Valley is losing its natural air-conditioners",
-      "updated_at": "2026-10-27T05:34:39.989714+00:00",
+      "updated_at": "2026-10-27T05:34:42.090843+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangra-valley-is-losing-its-natural-air-conditioners"
     },
     "fa081e63b7985a19f1f0f726": {
@@ -11337,6 +11341,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:34:39.990991+00:00",
+  "last_cycle_at": "2026-10-27T05:34:57.053339+00:00",
   "schema_version": 1
 }
