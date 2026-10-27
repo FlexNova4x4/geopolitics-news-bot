@@ -6892,9 +6892,10 @@
     "918779514ebe6908002436f9": {
       "published_at": "2026-10-27T05:56:36+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11376,
       "title": "ITBP faces 12,333 vacancies amid ongoing India-China face-offs in Arunachal Pradesh",
-      "updated_at": "2026-10-27T06:34:27.798892+00:00",
+      "updated_at": "2026-10-27T06:34:37.710135+00:00",
       "url": "https://www.tribuneindia.com/news/india/itbp-faces-12333-vacancies-amid-ongoing-india-china-face-offs-in-arunachal-pradesh"
     },
     "918a96bc1c2dc0d16109056f": {
@@ -9378,9 +9379,10 @@
     "c43aca3f5b82e12d2f982352": {
       "published_at": "2026-10-27T05:56:29+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11375,
       "title": "Karnataka CM DK Shivakumar says considering scheme to use temple gold for deities",
-      "updated_at": "2026-10-27T06:34:27.798887+00:00",
+      "updated_at": "2026-10-27T06:34:33.814332+00:00",
       "url": "https://www.hindustantimes.com/india-news/karnataka-cm-dk-shivakumar-says-considering-scheme-to-use-temple-gold-for-deities-101793079992764.html"
     },
     "c44dc796c044d52a24c420b9": {
@@ -9665,9 +9667,10 @@
     "cbcc66155b338bb029a6b073": {
       "published_at": "2026-10-27T06:01:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11377,
       "title": "Maharashtra considers PPP model for public hospitals in tribal belt: Minister",
-      "updated_at": "2026-10-27T06:34:27.798897+00:00",
+      "updated_at": "2026-10-27T06:34:41.572353+00:00",
       "url": "https://www.hindustantimes.com/india-news/maharashtra-considers-ppp-model-for-public-hospitals-in-tribal-belt-minister-101793080861099.html"
     },
     "cbce91fdd240a5bb88efe0cf": {
@@ -10365,9 +10368,10 @@
     "d965eb7c72ff80c2aa391ac9": {
       "published_at": "2026-10-27T05:47:36+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11374,
       "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
-      "updated_at": "2026-10-27T06:34:27.798867+00:00",
+      "updated_at": "2026-10-27T06:34:30.065500+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss"
     },
     "d98a8f2187f80da3138a4d94": {
@@ -12228,6 +12232,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:34:27.800291+00:00",
+  "last_cycle_at": "2026-10-27T06:34:44.774248+00:00",
   "schema_version": 1
 }
