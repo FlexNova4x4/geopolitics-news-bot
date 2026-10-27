@@ -3931,9 +3931,10 @@
     "51102a388642958c66c8ca2c": {
       "published_at": "2026-10-27T06:47:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11418,
       "title": "Four new faces join Omar Abdullah’s Cabinet in J&K",
-      "updated_at": "2026-10-27T07:04:45.687259+00:00",
+      "updated_at": "2026-10-27T07:04:55.503545+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-cabinet-expansion-new-ministers-october-27-2026/article71629956.ece"
     },
     "512296d1fdccc4355da3c305": {
@@ -6100,9 +6101,10 @@
     "7a3b6588a3531a94d40b198a": {
       "published_at": "2026-10-27T06:44:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11417,
       "title": "New privacy law will shut down news rooms, change the concept of news: Digital News Publishers Association",
-      "updated_at": "2026-10-27T07:04:45.687256+00:00",
+      "updated_at": "2026-10-27T07:04:51.782371+00:00",
       "url": "https://www.thehindu.com/news/national/new-privacy-law-will-shut-down-news-rooms-change-the-concept-of-news-digital-news-publishers-association/article71630056.ece"
     },
     "7a48f95e2d0a59a5acb7296a": {
@@ -8748,9 +8750,10 @@
     "b1c33fc8f9a5c46d22200356": {
       "published_at": "2026-10-27T06:47:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11419,
       "title": "China attempts to change the world with global initiatives",
-      "updated_at": "2026-10-27T07:04:45.687262+00:00",
+      "updated_at": "2026-10-27T07:04:59.216307+00:00",
       "url": "https://www.tribuneindia.com/news/ccp/china-attempts-to-change-the-world-with-global-initiatives"
     },
     "b21419f6e818270701e7bd6e": {
@@ -9799,9 +9802,10 @@
     "c5f6925f3015ac9e4999c08d": {
       "published_at": "2026-10-27T06:44:18+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11416,
       "title": "Former Shimla SSP Sanjeev Gandhi transferred as HP General Industries Corporation MD",
-      "updated_at": "2026-10-27T07:04:45.687239+00:00",
+      "updated_at": "2026-10-27T07:04:47.884663+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/former-shimla-ssp-sanjeev-gandhi-transferred-as-hp-general-industries-corporation-md"
     },
     "c5ff3410ddc891d205020635": {
@@ -12606,6 +12610,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:04:45.688792+00:00",
+  "last_cycle_at": "2026-10-27T07:05:02.418507+00:00",
   "schema_version": 1
 }
