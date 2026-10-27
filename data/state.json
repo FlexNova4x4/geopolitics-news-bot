@@ -3764,6 +3764,14 @@
       "updated_at": "2026-10-25T09:34:36.348069+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss"
     },
+    "55c864e96b862783a159db98": {
+      "published_at": "2026-10-27T04:07:43+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "शिमला: न नंबर प्लेट, न पासिंग; सिर्फ नाम लिखकर सड़कों पर वाहन दौड़ा रहा निगम, चालकों ने की शिकायत",
+      "updated_at": "2026-10-27T05:35:05.009817+00:00",
+      "url": "https://www.amarujala.com/shimla/shimla-municipal-corporation-vehicles-without-number-plates-2026-10-27"
+    },
     "5653a520a2ebae29688a3815": {
       "published_at": "2026-10-26T09:03:15+00:00",
       "source": "thehindu.com",
@@ -4347,6 +4355,14 @@
       "updated_at": "2026-10-26T22:44:13.735837+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/baddi-police-suspect-punjab-link-in-ransom-calls-to-scrap-dealers"
     },
+    "645af2dae1f7466d26cd0797": {
+      "published_at": "2026-10-26T20:10:56+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Mandi college sweeps overall hockey titles",
+      "updated_at": "2026-10-27T05:35:05.009807+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/mandi-college-sweeps-overall-hockey-titles"
+    },
     "64bb329b19abcb6e715f5cc4": {
       "published_at": "2026-10-25T18:37:31+00:00",
       "source": "hindustantimes.com",
@@ -4561,6 +4577,14 @@
       "title": "PM Modi inaugurates RBI’s data centre, cybersecurity institute in Odisha",
       "updated_at": "2026-10-26T01:22:33.493622+00:00",
       "url": "https://www.tribuneindia.com/news/india/pm-modi-launches-rbis-data-centre-cybersecurity-institute-in-odisha"
+    },
+    "695ca1b9363c41c7ad66d9e1": {
+      "published_at": "2026-10-27T04:07:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India-EU FTA to benefit Netherlands as trade, investment ties expand: Indian envoy to Netherlands Tuhin",
+      "updated_at": "2026-10-27T05:35:05.009812+00:00",
+      "url": "https://www.tribuneindia.com/news/economic-cooperation/india-eu-fta-to-benefit-netherlands-as-trade-investment-ties-expand-indian-envoy-to-netherlands-tuhin"
     },
     "6997007871d52ae3dc68d285": {
       "published_at": "2026-10-25T17:39:42+00:00",
@@ -10102,6 +10126,14 @@
       "updated_at": "2026-10-26T13:48:24.019021+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/international-conference-on-ai-opportunities-and-challenges-at-holehonnur-college-on-october-28/article71626346.ece"
     },
+    "e72e22ae3edcc4126e27d5aa": {
+      "published_at": "2026-10-26T20:08:17+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Shimla’s Auckland House skaters shine in Chandigarh championship",
+      "updated_at": "2026-10-27T05:35:05.009787+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/shimlas-auckland-house-skaters-shine-in-chandigarh-cship"
+    },
     "e7355a689b568ac98186c6a6": {
       "published_at": "2026-10-25T13:24:26+00:00",
       "source": "hindustantimes.com",
@@ -11341,6 +11373,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:34:57.053339+00:00",
+  "last_cycle_at": "2026-10-27T05:35:05.011024+00:00",
   "schema_version": 1
 }
