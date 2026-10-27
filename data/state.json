@@ -84,9 +84,10 @@
     "01a1d0f5b94eb41407e6f83b": {
       "published_at": "2026-10-27T14:33:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11839,
       "title": "Cyclone ‘Arnab’: People living in thatched houses shifted to relief camp to prevent loss of life in Konaseema",
-      "updated_at": "2026-10-27T14:46:04.937705+00:00",
+      "updated_at": "2026-10-27T14:46:20.449116+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-people-living-in-thatched-houses-shifted-to-relief-camp-to-prevent-loss-of-life-in-konaseema/article71630571.ece"
     },
     "01a2d007938f6796f9de52d4": {
@@ -4588,9 +4589,10 @@
     "49f9b59bf81b15866d9c1e1b": {
       "published_at": "2026-10-27T14:29:39+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11837,
       "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "updated_at": "2026-10-27T14:46:04.937699+00:00",
+      "updated_at": "2026-10-27T14:46:12.272864+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss"
     },
     "4a04e1b416f1b37cffdbb177": {
@@ -5628,9 +5630,10 @@
     "5a8c14c29602311bd951aab3": {
       "published_at": "2026-10-27T14:32:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11838,
       "title": "Kolkata Police parade men arrested for stripping, abusing two teenagers in public",
-      "updated_at": "2026-10-27T14:46:04.937702+00:00",
+      "updated_at": "2026-10-27T14:46:16.169176+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-police-parade-men-arrested-for-stripping-abusing-two-teenagers-in-public/article71631713.ece"
     },
     "5a9a2f091ca68114c93c8cdf": {
@@ -15923,9 +15926,10 @@
     "f9cd7495de354eadfaeb8178": {
       "published_at": "2026-10-27T14:29:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11836,
       "title": "TNPDCL denies purchasing power at ₹41.50 per unit",
-      "updated_at": "2026-10-27T14:46:04.937681+00:00",
+      "updated_at": "2026-10-27T14:46:08.356901+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-refutes-purchasing-power-at-4150-per-unit/article71631919.ece"
     },
     "f9dd08526927395b333cca00": {
@@ -16368,6 +16372,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:46:04.939348+00:00",
+  "last_cycle_at": "2026-10-27T14:46:23.651411+00:00",
   "schema_version": 1
 }
