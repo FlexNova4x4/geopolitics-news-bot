@@ -2782,9 +2782,10 @@
     "29b4f24b1983e26501d9cbd0": {
       "published_at": "2026-10-27T16:47:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11980,
       "title": "Union Minister Bhupender Yadav meets his German counterpart Carsten Schneider; review Wetland Conservation and Climate Action at CBD COP17",
-      "updated_at": "2026-10-27T17:41:04.963457+00:00",
+      "updated_at": "2026-10-27T17:41:20.370004+00:00",
       "url": "https://www.tribuneindia.com/news/armenia/union-minister-bhupender-yadav-meets-his-german-counterpart-carsten-schneider-review-wetland-conservation-and-climate-action-at-cbd-cop17"
     },
     "29bc01c91831bea0fe51696d": {
@@ -7721,9 +7722,10 @@
     "73cefbe8cc3addca3ec62de4": {
       "published_at": "2026-10-27T05:37:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11978,
       "title": "Kullu News: कुल्लू में 69 शैक्षणिक संस्थान आपदा के प्रति अति संवेदनशील",
-      "updated_at": "2026-10-27T17:41:04.963450+00:00",
+      "updated_at": "2026-10-27T17:41:12.223910+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/69-educational-institutions-in-kullu-are-highly-vulnerable-to-disasters-kullu-news-r-399-1-sml1008-545108-2026-10-27"
     },
     "73f7bc52cc2e773dbb96ba13": {
@@ -8430,9 +8432,10 @@
     "7de54dece08c3b44658a496b": {
       "published_at": "2026-10-27T05:32:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11977,
       "title": "Solan News: डिजिटल हाजिरी पर नेटवर्क का ब्रेक, 20% स्कूल अब भी ऑफलाइन",
-      "updated_at": "2026-10-27T17:41:04.963432+00:00",
+      "updated_at": "2026-10-27T17:41:08.103466+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/network-issues-hinder-digital-attendance-20-of-schools-still-operating-offline-solan-news-c-176-1-ssml1041-182969-2026-10-27"
     },
     "7e180985ea4ffbf8cca02f61": {
@@ -17066,9 +17069,10 @@
     "f8e43f1662ca33f3c6a87915": {
       "published_at": "2026-10-27T16:42:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11979,
       "title": "Germany National Day: Foreign Secy Vikram Misri attends celebrations at German Embassy as nations mark 75 years of diplomatic ties",
-      "updated_at": "2026-10-27T17:41:04.963454+00:00",
+      "updated_at": "2026-10-27T17:41:16.318910+00:00",
       "url": "https://www.tribuneindia.com/news/day-of-german-unity/germany-national-day-foreign-secy-vikram-misri-attends-celebrations-at-german-embassy-as-nations-mark-75-years-of-diplomatic-ties"
     },
     "f9314b9d59a2dfd1f5d212b3": {
@@ -17619,6 +17623,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:41:04.964893+00:00",
+  "last_cycle_at": "2026-10-27T17:41:23.572107+00:00",
   "schema_version": 1
 }
