@@ -4184,9 +4184,10 @@
     "40afac8463e99083b6386bf1": {
       "published_at": "2026-10-27T15:50:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11935,
       "title": "Delhi teenager’s Project Sadak logs 2,927 road complaints across Delhi, Mumbai, Bengaluru; tracks 190 repairs",
-      "updated_at": "2026-10-27T16:41:19.001610+00:00",
+      "updated_at": "2026-10-27T16:41:34.879016+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-teenagers-project-sadak-logs-2927-road-complaints-across-delhi-mumbai-bengaluru-tracks-190-repairs/article71627417.ece"
     },
     "40b5243eae2740bc56d02fbd": {
@@ -9447,9 +9448,10 @@
     "8eb5fa5e93f8315564de8cc0": {
       "published_at": "2026-10-27T15:49:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11933,
       "title": "Ex-MLA’s son booked for using forged transit passes to supply mining material for highway bridges",
-      "updated_at": "2026-10-27T16:41:19.001604+00:00",
+      "updated_at": "2026-10-27T16:41:26.926510+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/ex-mlas-son-booked-for-using-forged-transit-passes-to-supply-mining-material-for-highway-bridges"
     },
     "8ed10cfe1c8eddd516be5058": {
@@ -11251,9 +11253,10 @@
     "a9dcab3e419eff99808bfba0": {
       "published_at": "2026-10-27T15:49:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11934,
       "title": "Aavin increases prices of around 25 milk-based products ahead of Deepavali",
-      "updated_at": "2026-10-27T16:41:19.001608+00:00",
+      "updated_at": "2026-10-27T16:41:30.984315+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/aavin-increases-prices-of-around-25-milk-based-products-ahead-of-deepavali/article71632519.ece"
     },
     "a9fc2dd191984b3d6a7c9816": {
@@ -11951,9 +11954,10 @@
     "b3f78f39236e22829691f4ac": {
       "published_at": "2026-10-27T15:46:05+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11932,
       "title": "Radio-collared cheetah dies in first shooting case in MP; Tiger Strike Force probes poaching angle",
-      "updated_at": "2026-10-27T16:41:19.001588+00:00",
+      "updated_at": "2026-10-27T16:41:22.593697+00:00",
       "url": "https://www.tribuneindia.com/news/madhya-pradesh/radio-collared-cheetah-dies-in-first-shooting-case-in-mp-tiger-strike-force-probes-poaching-angle"
     },
     "b403d2cb62b30f28aa1795a4": {
@@ -17232,6 +17236,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T16:41:19.003240+00:00",
+  "last_cycle_at": "2026-10-27T16:41:38.081041+00:00",
   "schema_version": 1
 }
