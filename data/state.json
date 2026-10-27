@@ -459,6 +459,14 @@
       "updated_at": "2026-10-26T03:52:55.820391+00:00",
       "url": "https://www.hindustantimes.com/india-news/sir-software-cec-gyanesh-kumar-election-commission-opposition-congress-bjp-protests-voters-roll-101792984710448.html"
     },
+    "09aac549f1ee6c71071a792e": {
+      "published_at": "2026-10-27T02:36:53+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'Shouldn't be an instrument of narrow political expediency': India calls for veto powers for all UN Security Council members amid reform push",
+      "updated_at": "2026-10-27T03:10:52.694008+00:00",
+      "url": "https://www.hindustantimes.com/india-news/shouldnt-be-an-instrument-of-narrow-political-expediency-india-calls-for-veto-powers-for-all-un-security-council-members-amid-reform-push-101793068345698.html"
+    },
     "0a490d39d475a6ab42a5e12d": {
       "published_at": "2026-10-26T03:59:18+00:00",
       "source": "dawn.com",
@@ -8018,6 +8026,14 @@
       "updated_at": "2026-10-25T12:05:52.533132+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/owner-mahout-booked-for-neglected-elephant-in-kozhikode/article71623007.ece"
     },
+    "bd3dfdfc1a6a59f936ecff6d": {
+      "published_at": "2026-10-27T02:29:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+      "updated_at": "2026-10-27T03:10:52.694004+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+    },
     "be2cd056c9f9f0713edde282": {
       "published_at": "2026-10-26T03:47:28+00:00",
       "source": "feeds.bbci.co.uk",
@@ -8943,6 +8959,14 @@
       "title": "Pakistan’s Punjab govt extends detention of Imran Khan’s sisters by 30 days",
       "updated_at": "2026-10-26T09:44:57.756605+00:00",
       "url": "https://www.tribuneindia.com/news/pakistan/pakistans-punjab-govt-extends-detention-of-imran-khans-sisters-by-30-days"
+    },
+    "d47cf212a6c002814e093860": {
+      "published_at": "2026-10-27T02:25:17+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'Unanimity doesn't mean rules were followed': Congress leader rejects ECI affidavit amid CEC row",
+      "updated_at": "2026-10-27T03:10:52.694000+00:00",
+      "url": "https://www.hindustantimes.com/india-news/unanimity-doesnt-mean-rules-were-followed-congress-leader-rejects-eci-affidavit-amid-cec-row-101793066956964.html"
     },
     "d4b85185d9b4a4c7e58dd93b": {
       "published_at": "2026-10-26T05:56:04+00:00",
@@ -10012,6 +10036,14 @@
       "updated_at": "2026-10-25T18:14:08.396672+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-in-ranipet-for-stealing-two-wheelers/article71623047.ece"
     },
+    "f04501bdce4a6409b0e94c67": {
+      "published_at": "2026-10-27T02:21:57+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Telecom regulator proposes licences, other new rules for free internet TV channels on smart TVs",
+      "updated_at": "2026-10-27T03:10:52.693977+00:00",
+      "url": "https://www.hindustantimes.com/india-news/telecom-regulator-proposes-licences-other-new-rules-for-free-internet-tv-channels-on-smart-tvs-101793066402566.html"
+    },
     "f090428777887eb1c9262e62": {
       "published_at": "2026-10-25T23:39:37+00:00",
       "source": "amarujala.com",
@@ -10792,6 +10824,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T02:41:38.963543+00:00",
+  "last_cycle_at": "2026-10-27T03:10:52.695661+00:00",
   "schema_version": 1
 }
