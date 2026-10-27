@@ -1056,9 +1056,10 @@
     "10909093bd1c19defd344b1a": {
       "published_at": "2026-10-27T12:46:39+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11791,
       "title": "How Kane defied doubters to become world's best",
-      "updated_at": "2026-10-27T14:40:43.851238+00:00",
+      "updated_at": "2026-10-27T14:41:00.193738+00:00",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss"
     },
     "10af2605d95664da2720988e": {
@@ -2780,9 +2781,10 @@
     "2db85d0ebbecf2956008abec": {
       "published_at": "2026-10-27T02:27:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11790,
       "title": "हिमाचल पुलिस मुख्यालय: नशा तस्करों की अवैध संपत्तियां फ्रीज करने में तेजी लाने के दिए निर्देश",
-      "updated_at": "2026-10-27T14:40:43.851236+00:00",
+      "updated_at": "2026-10-27T14:40:56.064012+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/himachal-police-headquarter-instructions-issued-to-expedite-the-freezing-of-illegal-assets-belonging-to-drug-2026-10-27"
     },
     "2dc380cfa0488430591621c1": {
@@ -6641,9 +6643,10 @@
     "6ca3d9721d7ca6c6b15ba7b0": {
       "published_at": "2026-10-27T02:20:41+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11789,
       "title": "दवा सप्लाई के टेंडर पर हाईकोर्ट की रोक: 500 करोड़ टर्नओवर की शर्त पर राज्य सरकार से जवाब तलब, जानें पूरा मामला",
-      "updated_at": "2026-10-27T14:40:43.851232+00:00",
+      "updated_at": "2026-10-27T14:40:51.994737+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hp-high-court-stays-tender-for-medicine-supply-seeks-response-from-state-govt-regarding-the-500-crore-turnove-2026-10-27"
     },
     "6ca5c47e2408d23d77611e92": {
@@ -7268,9 +7271,10 @@
     "7600d68bb96e0b6262de678e": {
       "published_at": "2026-10-27T02:12:13+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11788,
       "title": "हाईकोर्ट की दोटूक: अदालती आदेश पर बहानेबाजी नहीं चलेगी, सरकार को तीन हफ्ते की मोहलत",
-      "updated_at": "2026-10-27T14:40:43.851217+00:00",
+      "updated_at": "2026-10-27T14:40:47.484439+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/crime/high-court-clear-statement-no-excuses-will-be-accepted-on-the-court-order-three-weeks-time-given-to-the-gov-2026-10-27"
     },
     "763215db47b2e1ed894b5208": {
@@ -15936,6 +15940,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:40:43.852725+00:00",
+  "last_cycle_at": "2026-10-27T14:41:03.395620+00:00",
   "schema_version": 1
 }
