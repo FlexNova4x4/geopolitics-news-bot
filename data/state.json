@@ -21,9 +21,10 @@
     "0075cd51e23f999e553213d0": {
       "published_at": "2026-10-27T01:36:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11196,
       "title": "एसआईआर पर सवाल उठाने के बजाय अपनी नीतियां बताए कांग्रेस : दर्शना सिंह",
-      "updated_at": "2026-10-27T01:41:59.433993+00:00",
+      "updated_at": "2026-10-27T01:42:12.950096+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/instead-of-raising-questions-about-the-sir-the-congress-should-present-its-own-policies-darshana-singh-kangra-news-c-95-1-kng1065-263532-2026-10-26"
     },
     "00f750aac2590202af7dd8a9": {
@@ -839,9 +840,10 @@
     "13f1a2846435b946d2bcd0a4": {
       "published_at": "2026-10-27T01:22:09+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11194,
       "title": "“Veto should not be an instrument of narrow political expediency”: India at UN calls for comprehensive Security Council reforms",
-      "updated_at": "2026-10-27T01:41:59.433983+00:00",
+      "updated_at": "2026-10-27T01:42:05.316172+00:00",
       "url": "https://www.tribuneindia.com/news/ambassador-harish-parvathaneni/veto-should-not-be-an-instrument-of-narrow-political-expediency-india-at-un-calls-for-comprehensive-security-council-reforms"
     },
     "13ff1cd56660f30975df7a4b": {
@@ -3988,9 +3990,10 @@
     "6288c909515f7317dc31c85e": {
       "published_at": "2026-10-27T01:20:56+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11193,
       "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
-      "updated_at": "2026-10-27T01:41:59.433963+00:00",
+      "updated_at": "2026-10-27T01:42:01.593168+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
     },
     "62ac872982ab0d91921c6e13": {
@@ -7649,9 +7652,10 @@
     "b92ecdef59a05f1c48c055dd": {
       "published_at": "2026-10-27T01:22:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11195,
       "title": "Brazil election ‘rigged’, says Trump without citing evidence",
-      "updated_at": "2026-10-27T01:41:59.433988+00:00",
+      "updated_at": "2026-10-27T01:42:09.031121+00:00",
       "url": "https://www.thehindu.com/news/international/brazil-election-rigged-says-trump-without-citing-evidence/article71629584.ece"
     },
     "b96dc3dff51789390e24457a": {
@@ -10617,6 +10621,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T01:41:59.435589+00:00",
+  "last_cycle_at": "2026-10-27T01:42:16.152158+00:00",
   "schema_version": 1
 }
