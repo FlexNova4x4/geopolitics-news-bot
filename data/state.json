@@ -6688,9 +6688,10 @@
     "6abc77e0d1cf19bd88088b18": {
       "published_at": "2026-10-27T10:29:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11843,
       "title": "Why entire system is working to help pharma companies, asks Supreme Court",
-      "updated_at": "2026-10-27T15:10:37.961622+00:00",
+      "updated_at": "2026-10-27T15:10:54.083347+00:00",
       "url": "https://www.tribuneindia.com/news/india/why-entire-system-working-to-help-pharmaceutical-manufacturers-asks-sc"
     },
     "6ad7593ceeea09158168bcd2": {
@@ -12663,9 +12664,10 @@
     "c68dd6dad387df8a5c2043e1": {
       "published_at": "2026-10-27T02:57:56+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11842,
       "title": "हिमाचल: शिक्षकों को अभी अर्जित अवकाश नकदीकरण के लिए करना होगा इंतजार, जानें पूरा मामला",
-      "updated_at": "2026-10-27T15:10:37.961619+00:00",
+      "updated_at": "2026-10-27T15:10:50.007508+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/himachal-teachers-will-have-to-wait-longer-for-the-encashment-of-earned-leave-here-are-the-full-details-2026-10-27"
     },
     "c6902c8a4bc3b83ad794610d": {
@@ -13723,9 +13725,10 @@
     "d751a61a6dfb7e14ac1e3dbf": {
       "published_at": "2026-10-27T02:50:41+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11841,
       "title": "उपलब्धि: हमीरपुर के विशाल ठाकुर ने राष्ट्रीय ग्रैपलिंग चैंपियनशिप में जीता स्वर्ण",
-      "updated_at": "2026-10-27T15:10:37.961616+00:00",
+      "updated_at": "2026-10-27T15:10:45.500243+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/vishal-thakur-from-hamirpur-wins-gold-at-the-national-grappling-championship-2026-10-27"
     },
     "d77ba046a15a0ea1a9a456c4": {
@@ -16326,9 +16329,10 @@
     "feac6f1a7fb22b3be42c001b": {
       "published_at": "2026-10-27T02:45:28+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11840,
       "title": "एथलेटिक्स मीट: चंबा के सिम्मी और बिलासपुर खेल छात्रावास की रिधिमा ने 3000 मीटर दौड़ में जीता स्वर्ण पदक",
-      "updated_at": "2026-10-27T15:10:37.961602+00:00",
+      "updated_at": "2026-10-27T15:10:41.450933+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/athletics-meet-simmi-from-chamba-and-ridhima-from-the-bilaspur-sports-hostel-won-gold-medals-in-the-3000-mete-2026-10-27"
     },
     "feb4fab05e9d417b59cfb95e": {
@@ -16404,6 +16408,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:10:37.963193+00:00",
+  "last_cycle_at": "2026-10-27T15:10:57.285314+00:00",
   "schema_version": 1
 }
