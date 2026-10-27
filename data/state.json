@@ -3236,6 +3236,14 @@
       "updated_at": "2026-10-26T10:45:48.624187+00:00",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss"
     },
+    "383e7108c53074569221bc1b": {
+      "published_at": "2026-10-27T13:21:35+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kadambrayar River pollution: PCB seeks action-taken report from Thrikkakara municipality",
+      "updated_at": "2026-10-27T13:43:36.521419+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/kadambrayar-river-pollution-pcb-seeks-action-taken-report-from-thrikkakara-municipality/article71630460.ece"
+    },
     "3862d49cccce60684b71a58c": {
       "published_at": "2026-10-27T02:38:48+00:00",
       "source": "aljazeera.com",
@@ -6414,6 +6422,14 @@
       "title": "Four friends charred to death in Madhya Pradesh after car hits divider, catches fire",
       "updated_at": "2026-10-26T08:14:01.724935+00:00",
       "url": "https://www.hindustantimes.com/india-news/four-youths-charred-to-death-in-madhya-pradesh-dhar-after-car-hits-divider-catches-fire-101792993855201.html"
+    },
+    "6af4fcc280bf5c2de56deef9": {
+      "published_at": "2026-10-27T13:21:23+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Theni jailbreak: 13 of 17 inmates recaptured, 9 prison staff suspended; Opposition slams govt",
+      "updated_at": "2026-10-27T13:43:36.521404+00:00",
+      "url": "https://www.hindustantimes.com/india-news/theni-jailbreak-13-of-17-inmates-recaptured-9-prison-staff-suspended-opposition-slams-govt-101793106385682.html"
     },
     "6b0c996fb86c3d01a481dbdd": {
       "published_at": "2026-10-27T07:37:12+00:00",
@@ -11186,6 +11202,14 @@
       "updated_at": "2026-10-27T03:12:08.339778+00:00",
       "url": "https://www.tribuneindia.com/news/science-technology/ai-will-reshape-not-replace-indian-jobs-iit-madras-study"
     },
+    "b8725bdd16c16a3ef59a80d1": {
+      "published_at": "2026-10-27T13:23:32+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+      "updated_at": "2026-10-27T13:43:36.521424+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss"
+    },
     "b88ec3378b5dd2cdf5f34ac6": {
       "published_at": "2026-10-25T11:17:24+00:00",
       "source": "thehindu.com",
@@ -14431,6 +14455,14 @@
       "updated_at": "2026-10-25T06:34:45.538216+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
     },
+    "ee2ae582baae142389c8d056": {
+      "published_at": "2026-10-27T13:21:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bharath urges Kurnool voters to back NDA for continued development",
+      "updated_at": "2026-10-27T13:43:36.521422+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bharath-urges-kurnool-voters-to-back-nda-for-continued-development/article71631030.ece"
+    },
     "ee77797f0e1ae753785e33b0": {
       "published_at": "2026-10-25T15:37:33+00:00",
       "source": "thehindu.com",
@@ -15634,6 +15666,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:43:21.017506+00:00",
+  "last_cycle_at": "2026-10-27T13:43:36.522714+00:00",
   "schema_version": 1
 }
