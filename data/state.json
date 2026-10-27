@@ -3446,9 +3446,10 @@
     "4e9c39126c0ef07f24503391": {
       "published_at": "2026-10-27T04:44:14+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11302,
       "title": "Israel heads to the polls as shift to the right dominates critical election",
-      "updated_at": "2026-10-27T05:36:56.219368+00:00",
+      "updated_at": "2026-10-27T05:37:09.892908+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss"
     },
     "4f045394383e56a0a9238400": {
@@ -5380,9 +5381,10 @@
     "779281a38344bedbe93e14ac": {
       "published_at": "2026-10-27T04:43:56+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11301,
       "title": "Meghan to co-host Junior MasterChef Australia",
-      "updated_at": "2026-10-27T05:36:56.219365+00:00",
+      "updated_at": "2026-10-27T05:37:06.162835+00:00",
       "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss"
     },
     "7793e53143f217be92823953": {
@@ -10562,9 +10564,10 @@
     "ecc4bb0353fbe405622b7286": {
       "published_at": "2026-10-27T04:40:00+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11299,
       "title": "हिमाचल: शिमला में चार वाहनों की टक्कर से यातायात बाधित, पुलिस ने संभाला मोर्चा; क्रेन से हटाई गाड़ियां",
-      "updated_at": "2026-10-27T05:36:56.219345+00:00",
+      "updated_at": "2026-10-27T05:36:58.354275+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-old-barrier-vehicle-collision-traffic-disrupted-2026-10-27"
     },
     "ecfa72bd109e809fa70c5c3e": {
@@ -10885,9 +10888,10 @@
     "f3a18f83e10d057a47b8bf9e": {
       "published_at": "2026-10-27T04:40:29+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11300,
       "title": "17 jail inmates escape after ‘epilepsy’ drama in Tamil Nadu",
-      "updated_at": "2026-10-27T05:36:56.219361+00:00",
+      "updated_at": "2026-10-27T05:37:02.255629+00:00",
       "url": "https://www.tribuneindia.com/news/india/17-jail-inmates-escape-after-epilepsy-drama-in-tamil-nadu"
     },
     "f3a911fe11b8a89a8a213046": {
@@ -11553,6 +11557,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:36:56.220623+00:00",
+  "last_cycle_at": "2026-10-27T05:37:13.094920+00:00",
   "schema_version": 1
 }
