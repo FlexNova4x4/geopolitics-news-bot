@@ -3086,9 +3086,10 @@
     "36cc62c592a9c10fd9a42ed8": {
       "published_at": "2026-10-27T00:33:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11692,
       "title": "शिमला: खाद्य सुरक्षा विभाग का ढाबों और मिठाई की दुकानों में छापा, सह आयुक्त डॉ. विजया की अगुवाई में हुई कार्रवाई",
-      "updated_at": "2026-10-27T12:41:02.406783+00:00",
+      "updated_at": "2026-10-27T12:41:17.452962+00:00",
       "url": "https://www.amarujala.com/video-shots/shimla/video-food-safety-department-raids-dhabas-and-sweet-shops-2026-10-27"
     },
     "373e77412f539a1f64c7b7e7": {
@@ -5116,9 +5117,10 @@
     "59128c38863319624d59ae54": {
       "published_at": "2026-10-27T00:24:59+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11690,
       "title": "चंबा: खरगे की पीएम मोदी पर टिप्पणी के विरोध में भाजपा ने किया प्रदर्शन",
-      "updated_at": "2026-10-27T12:41:02.406777+00:00",
+      "updated_at": "2026-10-27T12:41:09.386100+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-bjp-holds-protest-against-kharges-remarks-on-pm-modi-2026-10-27"
     },
     "5922235fdc2b7ef7717429d8": {
@@ -5474,9 +5476,10 @@
     "5f60360db4ab223c4bfb690a": {
       "published_at": "2026-10-27T00:28:38+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11691,
       "title": "वीडियो: भ्रष्टाचार मुक्त हिमाचल के संकल्प पर डाइट नाहन में प्रशिक्षुओं ने किए हस्ताक्षर",
-      "updated_at": "2026-10-27T12:41:02.406780+00:00",
+      "updated_at": "2026-10-27T12:41:13.419662+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-video-trainees-at-diet-nahan-sign-a-pledge-for-a-corruption-free-himachal-2026-10-27"
     },
     "5f6722a017526ea542424f37": {
@@ -8689,9 +8692,10 @@
     "94933012947e900b732ecfe5": {
       "published_at": "2026-10-27T00:22:49+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11689,
       "title": "चंबा: जिला पेंशनर कल्याण संघ की बैठक में मांगों पर हुआ मंथन",
-      "updated_at": "2026-10-27T12:41:02.406762+00:00",
+      "updated_at": "2026-10-27T12:41:05.290829+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-demands-deliberated-upon-at-district-pensioners-welfare-association-meeting-2026-10-27"
     },
     "94ac3732d3c8ed7c2187849f": {
@@ -15045,6 +15049,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:41:02.408037+00:00",
+  "last_cycle_at": "2026-10-27T12:41:20.654805+00:00",
   "schema_version": 1
 }
