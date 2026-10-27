@@ -5998,9 +5998,10 @@
     "5dfbe045329eafb52477aa67": {
       "published_at": "2026-10-27T15:16:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11894,
       "title": "Osmania junior doctors resume protest as promised fixes remain elusive",
-      "updated_at": "2026-10-27T15:42:36.508548+00:00",
+      "updated_at": "2026-10-27T15:42:51.355681+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/osmania-junior-doctors-resume-protest-as-promised-fixes-remain-elusive/article71632220.ece"
     },
     "5e9f63da60135af8eddb38b9": {
@@ -8035,9 +8036,10 @@
     "7bef6c44145067a37af1265d": {
       "published_at": "2026-10-27T15:12:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11892,
       "title": "All Operation Toofan cases being properly investigated: Minister",
-      "updated_at": "2026-10-27T15:42:36.508542+00:00",
+      "updated_at": "2026-10-27T15:42:43.637173+00:00",
       "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/all-operation-toofan-cases-being-properly-investigated-minister/article71631779.ece"
     },
     "7c10e62b2ef4be6a677e942c": {
@@ -8393,9 +8395,10 @@
     "8256a9929744060900487c42": {
       "published_at": "2026-10-27T15:11:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11891,
       "title": "14,210 new voters added to take final poll roll to 10.08 lakh in Vijayanagara",
-      "updated_at": "2026-10-27T15:42:36.508524+00:00",
+      "updated_at": "2026-10-27T15:42:39.660251+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/14210-new-voters-added-to-take-final-poll-roll-to-1008-lakh-in-vijayanagara/article71632198.ece"
     },
     "82aa7099f64bafccb19dd764": {
@@ -14549,9 +14552,10 @@
     "e0414cc08e1240b8736b88ba": {
       "published_at": "2026-10-27T15:13:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11893,
       "title": "Traditional Mysore painting workshop begins at IGRMS",
-      "updated_at": "2026-10-27T15:42:36.508546+00:00",
+      "updated_at": "2026-10-27T15:42:47.483661+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/traditional-mysore-painting-workshop-begins-at-igrms/article71632468.ece"
     },
     "e0662c36b9b20f30a85c2460": {
@@ -16863,6 +16867,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:42:36.510126+00:00",
+  "last_cycle_at": "2026-10-27T15:42:54.557764+00:00",
   "schema_version": 1
 }
