@@ -162,6 +162,14 @@
       "updated_at": "2026-10-25T10:34:24.149742+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/safety-at-the-mrts-railway-stations-in-chennai/article71620990.ece"
     },
+    "02b0927e17269500eebfce63": {
+      "published_at": "2026-10-27T13:40:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bihar CM launches month-long campaign against drug abuse",
+      "updated_at": "2026-10-27T14:42:05.214243+00:00",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-launches-month-long-campaign-against-drug-abuse/article71631821.ece"
+    },
     "02ccd8b8db557962234c13f4": {
       "published_at": "2026-10-26T06:57:48+00:00",
       "source": "publish.tribuneindia.com",
@@ -2490,6 +2498,14 @@
       "title": "Seven arrested on charge of stealing railway signal cable in Kasaragod",
       "updated_at": "2026-10-25T16:12:19.103297+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/seven-arrested-on-charge-of-stealing-railway-signal-cable-in-kasaragod/article71622816.ece"
+    },
+    "28479b08ad7e20fc0d54c589": {
+      "published_at": "2026-10-27T13:42:38+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Debris removal work under way in Munnar highway",
+      "updated_at": "2026-10-27T14:42:05.214261+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/debris-removal-work-under-way-in-munnar-highway/article71631612.ece"
     },
     "2883b0fb3ca9f97d62652a21": {
       "published_at": "2026-10-25T13:37:13+00:00",
@@ -5966,6 +5982,14 @@
       "title": "Congress vows to go ahead with curtain-raiser for Nov 1 rally",
       "updated_at": "2026-10-27T10:34:37.534894+00:00",
       "url": "https://www.hindustantimes.com/india-news/congress-vows-to-go-ahead-with-curtain-raiser-for-nov-1-rally-101793095981931.html"
+    },
+    "616fee7167ed61dfc2d69b68": {
+      "published_at": "2026-10-27T13:43:59+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "ATC reserves verdict in security breach case against Imaan, Hadi",
+      "updated_at": "2026-10-27T14:42:05.214264+00:00",
+      "url": "https://www.dawn.com/news/2040233/atc-reserves-verdict-in-security-breach-case-against-imaan-hadi"
     },
     "61b023b54352ba94a7e64f4f": {
       "published_at": "2026-10-25T08:52:39+00:00",
@@ -15268,6 +15292,14 @@
       "updated_at": "2026-10-26T08:44:55.639544+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-heated-exchanges-as-speaker-disallows-pinarayis-submission-on-ex-governors-move-to-remove-psc-chairperson/article71625980.ece"
     },
+    "f56ea20620a6b5a136c1f8d6": {
+      "published_at": "2026-10-27T13:41:32+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Hyatt to add 600 new rooms in Bengaluru’s hospitality market",
+      "updated_at": "2026-10-27T14:42:05.214258+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/hyatt-to-add-600-new-rooms-in-bengalurus-hospitality-market/article71631253.ece"
+    },
     "f5ac949b61ab526bee0feccd": {
       "published_at": "2026-10-25T17:13:49+00:00",
       "source": "thehindu.com",
@@ -16012,6 +16044,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:41:57.566195+00:00",
+  "last_cycle_at": "2026-10-27T14:42:05.215697+00:00",
   "schema_version": 1
 }
