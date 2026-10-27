@@ -1233,6 +1233,14 @@
       "updated_at": "2026-10-25T05:38:11.681869+00:00",
       "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
+    "17905d75b07b50974ce94052": {
+      "published_at": "2026-10-27T05:57:52+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SRM presents The Hindu Semiconductor Summit 2026 | Watch LIVE",
+      "updated_at": "2026-10-27T06:07:05.384025+00:00",
+      "url": "https://www.thehindu.com/news/cities/chennai/srm-presents-the-hindu-semiconductor-summit-2026/article71629957.ece"
+    },
     "179ab4507cc1739399aa9ac3": {
       "published_at": "2026-10-25T14:15:58+00:00",
       "source": "thehindu.com",
@@ -5290,6 +5298,14 @@
       "updated_at": "2026-10-26T04:54:33.743953+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-snowfall-tourism-boost-narkanda-dalhousie-weekend-hotel-bookings-2026-10-26"
     },
+    "706b1710972b367ab33b8f65": {
+      "published_at": "2026-10-27T05:57:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "CEC row LIVE: SC to hear pleas against CEC Gyanesh Kumar, decisions during SIR",
+      "updated_at": "2026-10-27T06:07:05.384042+00:00",
+      "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece"
+    },
     "70b1da82c53588b708b8a8ed": {
       "published_at": "2026-10-26T12:17:02+00:00",
       "source": "aljazeera.com",
@@ -6960,6 +6976,14 @@
       "title": "Law & economics take centre stage at HPNLU conference",
       "updated_at": "2026-10-26T22:44:05.814434+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/law-economics-take-centre-stage-at-hpnlu-conference"
+    },
+    "935472f56bd271fce87f5c2e": {
+      "published_at": "2026-10-27T05:59:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "All 14 workers trapped at Bengal coal mine rescued",
+      "updated_at": "2026-10-27T06:07:05.384046+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/all-14-workers-trapped-at-bengal-coal-mine-rescued/article71629857.ece"
     },
     "9374b36218aa40d4d311bff3": {
       "published_at": "2026-10-24T23:03:21+00:00",
@@ -12169,6 +12193,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:07:00.818154+00:00",
+  "last_cycle_at": "2026-10-27T06:07:05.385714+00:00",
   "schema_version": 1
 }
