@@ -6433,9 +6433,10 @@
     "8e1ab631b1ba1abf6a115a0f": {
       "published_at": "2026-10-27T04:45:16+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11304,
       "title": "People missing after massive drilling platform sinks off Gabon",
-      "updated_at": "2026-10-27T05:37:18.008088+00:00",
+      "updated_at": "2026-10-27T05:37:23.959573+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss"
     },
     "8e5320dd270eb669025f33e0": {
@@ -7984,9 +7985,10 @@
     "b1c2c7c14431ac951bdb25ac": {
       "published_at": "2026-10-27T04:44:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11303,
       "title": "KEA conducts direct recruitment exam for land surveyors, VAOs in Yadgir without a glitch",
-      "updated_at": "2026-10-27T05:37:18.008070+00:00",
+      "updated_at": "2026-10-27T05:37:20.208624+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/direct-recruitment-exam-for-land-surveyors-vaos-goes-off-smoothly-in-yadgir/article71626915.ece"
     },
     "b21419f6e818270701e7bd6e": {
@@ -9673,9 +9675,10 @@
     "d63dc77297c7978f01b69f7a": {
       "published_at": "2026-10-27T04:45:56+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11306,
       "title": "Meghalaya SIR: 2 foreigners excluded, 2.18 million electors in final roll",
-      "updated_at": "2026-10-27T05:37:18.008095+00:00",
+      "updated_at": "2026-10-27T05:37:31.460549+00:00",
       "url": "https://www.hindustantimes.com/india-news/meghalaya-sir-2-foreigners-excluded-2-18-million-electors-in-final-roll-101793076357025.html"
     },
     "d6871d0535130f899b48193f": {
@@ -11351,9 +11354,10 @@
     "fb258567a8fa69c6548586d8": {
       "published_at": "2026-10-27T04:45:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11305,
       "title": "Supreme Court Collegium proposes four judges for HC Chief Justiceships",
-      "updated_at": "2026-10-27T05:37:18.008092+00:00",
+      "updated_at": "2026-10-27T05:37:27.703334+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-collegium-proposes-four-judges-for-hc-chief-justiceships/article71629756.ece"
     },
     "fb2f53a20f7b747ce6c29660": {
@@ -11589,6 +11593,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:37:18.009444+00:00",
+  "last_cycle_at": "2026-10-27T05:37:34.662354+00:00",
   "schema_version": 1
 }
