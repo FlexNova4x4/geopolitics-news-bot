@@ -3533,6 +3533,14 @@
       "updated_at": "2026-10-25T09:04:39.544146+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss"
     },
+    "429796a639a89bbec392b84f": {
+      "published_at": "2026-10-27T10:26:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Police officer booked for stealing, selling lost mobile phone in Keralam",
+      "updated_at": "2026-10-27T10:35:31.704903+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/police-officer-booked-for-stealing-selling-lost-mobile-phone-in-keralam/article71630371.ece"
+    },
     "429851fff4057a296a2ca518": {
       "published_at": "2026-10-26T06:58:31+00:00",
       "source": "thehindu.com",
@@ -9593,6 +9601,14 @@
       "updated_at": "2026-10-26T11:14:10.267661+00:00",
       "url": "https://www.tribuneindia.com/news/india/was-using-common-expression-not-insulting-anybodys-father-tharoor-on-kharges-remarks-row"
     },
+    "af0a4854f156780b84cfe37f": {
+      "published_at": "2026-10-27T10:23:15+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "5 Tamil Nadu convicts captured after jailbreak, one sent back in auto he took after escape",
+      "updated_at": "2026-10-27T10:35:31.704887+00:00",
+      "url": "https://www.hindustantimes.com/india-news/5-tamil-nadu-convicts-captured-after-jailbreak-one-sent-back-in-auto-he-took-after-escape-theni-101793093904215.html"
+    },
     "af385fb296e702a42cf1ed7d": {
       "published_at": "2026-10-26T07:17:24+00:00",
       "source": "publish.tribuneindia.com",
@@ -14257,6 +14273,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:35:27.722655+00:00",
+  "last_cycle_at": "2026-10-27T10:35:31.706683+00:00",
   "schema_version": 1
 }
