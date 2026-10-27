@@ -1497,9 +1497,10 @@
     "1570a5493f2fed98c53aa7c7": {
       "published_at": "2026-10-27T14:47:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11878,
       "title": "Israel elections: Voter turnout hits highest level since 1973 as participation reaches 44.9 per cent by 2 PM local time",
-      "updated_at": "2026-10-27T15:40:41.924397+00:00",
+      "updated_at": "2026-10-27T15:40:57.630191+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/israel-elections-voter-turnout-hits-highest-level-since-1973-as-participation-reaches-44-9-per-cent-by-2-pm-local-time"
     },
     "15b67cb5df2fa43b72d0e454": {
@@ -10344,9 +10345,10 @@
     "9fe2e01b72f50a999a8cc72a": {
       "published_at": "2026-10-27T14:41:00+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11877,
       "title": "Himachal Pradesh Vidhan Sabha to commence winter session in Dharamsala on Nov 16",
-      "updated_at": "2026-10-27T15:40:41.924395+00:00",
+      "updated_at": "2026-10-27T15:40:53.721790+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-pradesh-vidhan-sabha-to-commence-winter-session-in-dharamsala-on-nov-16"
     },
     "a02e68682864335601c4b5e3": {
@@ -11601,9 +11603,10 @@
     "b4774672ee95ee2d43c99655": {
       "published_at": "2026-10-27T03:24:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11876,
       "title": "हिमाचल प्रदेश: दिवाली से पहले डिपुओं में मिलेगा सरसों का तेल, खाद्य आपूर्ति निगम जारी किए सप्लाई ऑर्डर",
-      "updated_at": "2026-10-27T15:40:41.924392+00:00",
+      "updated_at": "2026-10-27T15:40:49.686272+00:00",
       "url": "https://www.amarujala.com/shimla/mustard-oil-to-be-available-at-ration-depots-ahead-of-diwali-food-and-supplies-corporation-issues-supply-orde-2026-10-27"
     },
     "b4f660e47e6161bc60c10661": {
@@ -15538,9 +15541,10 @@
     "f0f2bdaedd23cbff6ac859d3": {
       "published_at": "2026-10-27T03:19:28+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11875,
       "title": "वीडियो: भाजपा प्रदेश सह प्रभारी दर्शना सिंह ने माता चिंतपूर्णी के दरबार में टेका माथा, कांग्रेस सरकार पर साधा निशाना",
-      "updated_at": "2026-10-27T15:40:41.924376+00:00",
+      "updated_at": "2026-10-27T15:40:45.655438+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-bjp-state-co-in-charge-darshana-singh-paid-obeisance-at-the-shrine-of-mata-chintpurni-2026-10-27"
     },
     "f0f5ef2154d5bdcbb14fe4cb": {
@@ -16719,6 +16723,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:40:41.926002+00:00",
+  "last_cycle_at": "2026-10-27T15:41:00.832232+00:00",
   "schema_version": 1
 }
