@@ -66,9 +66,10 @@
     "021538e234784e76fb06a895": {
       "published_at": "2026-10-27T03:18:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11242,
       "title": "Jordan strikes militant groups in Syria after church attack",
-      "updated_at": "2026-10-27T03:42:29.214515+00:00",
+      "updated_at": "2026-10-27T03:42:31.815880+00:00",
       "url": "https://www.thehindu.com/news/international/jordan-strikes-militant-groups-in-syria-after-church-attack/article71629645.ece"
     },
     "022bda1c79e27b6ade10deae": {
@@ -6009,9 +6010,10 @@
     "89de48812124da7bfda95841": {
       "published_at": "2026-10-27T03:20:10+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11243,
       "title": "National Assembly passes seven bills amid sparse attendance",
-      "updated_at": "2026-10-27T03:42:29.214539+00:00",
+      "updated_at": "2026-10-27T03:42:35.572881+00:00",
       "url": "https://www.dawn.com/news/2040071/national-assembly-passes-seven-bills-amid-sparse-attendance"
     },
     "8a4f91dd3b3446f9af43ea10": {
@@ -10767,9 +10769,10 @@
     "fa57055bf8b9d3c24a6ba1a8": {
       "published_at": "2026-10-27T03:22:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11244,
       "title": "Saudi Arabia offered Houthis $1 bn in Iran-brokered ceasefire deal: Israeli media",
-      "updated_at": "2026-10-27T03:42:29.214544+00:00",
+      "updated_at": "2026-10-27T03:42:39.460948+00:00",
       "url": "https://www.tribuneindia.com/news/ceasefire-agreement/saudi-arabia-offered-houthis-1-bn-in-iran-brokered-ceasefire-deal-israeli-media"
     },
     "fab92f3d966c5951063eb83b": {
@@ -11032,6 +11035,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:42:29.216271+00:00",
+  "last_cycle_at": "2026-10-27T03:42:42.663933+00:00",
   "schema_version": 1
 }
