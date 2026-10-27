@@ -900,6 +900,14 @@
       "updated_at": "2026-10-25T05:39:24.078330+00:00",
       "url": "https://www.thehindu.com/news/international/fresh-clashes-rock-france-as-protesters-march-on/article71622465.ece"
     },
+    "121d68f03f8c9b07d3d66026": {
+      "published_at": "2026-10-27T05:33:50+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल: खलोटा में सड़क धंसने से एनएच-205 बंद, शिमला-बिलासपुर जाने वाले वाहन इन वैकल्पिक रास्तों से निकलें",
+      "updated_at": "2026-10-27T06:04:24.438839+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/nh-205-closed-khalota-road-collapse-namhol-bilaspur-alternate-routes-2026-10-27"
+    },
     "122f4b44375621db7d5c1989": {
       "published_at": "2026-10-25T20:31:41+00:00",
       "source": "thehindu.com",
@@ -5002,6 +5010,14 @@
       "updated_at": "2026-10-26T02:52:30.181003+00:00",
       "url": "https://www.hindustantimes.com/india-news/2-years-on-hit-and-run-section-of-bharatiya-nyaya-sanhita-yet-to-come-into-force-indian-penal-code-101792953692190.html"
     },
+    "6e329e2cf5359caaeeb6c525": {
+      "published_at": "2026-10-27T05:33:18+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Remand of suspect in US postal tickets scam extended",
+      "updated_at": "2026-10-27T06:04:24.438836+00:00",
+      "url": "https://www.dawn.com/news/2040077/remand-of-suspect-in-us-postal-tickets-scam-extended"
+    },
     "6e4439a42a30610f7a172242": {
       "published_at": "2026-10-26T03:57:19+00:00",
       "source": "dawn.com",
@@ -7460,6 +7476,14 @@
       "title": "A.P. braces for very severe cyclone, to evacuate people in coastal districts",
       "updated_at": "2026-10-25T15:16:20.554935+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-braces-for-very-severe-cyclone-to-evacuate-people-in-coastal-districts/article71623247.ece"
+    },
+    "a127bd53c5c08b05c89d0a59": {
+      "published_at": "2026-10-27T05:29:24+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Tracking the money: The biggest donors in the 2026 US midterm elections",
+      "updated_at": "2026-10-27T06:04:24.438817+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections?traffic_source=rss"
     },
     "a176d95bb554ebbd1769568e": {
       "published_at": "2026-10-26T23:18:31+00:00",
@@ -10660,6 +10684,14 @@
       "updated_at": "2026-10-25T12:05:17.522877+00:00",
       "url": "https://www.thehindu.com/news/international/donald-trump-says-audi-to-invest-42-billion-in-its-first-us-auto-plant/article71623143.ece"
     },
+    "e85c9e10d19df7501c178e6e": {
+      "published_at": "2026-10-27T05:30:33+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Portion of NH-205 sinks near Bilaspur, traffic diverted on Shimla highway",
+      "updated_at": "2026-10-27T06:04:24.438832+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/portion-of-nh-205-sinks-near-bilaspur-traffic-diverted-on-shimla-highway"
+    },
     "e86dd046eb1ca09f70846ee8": {
       "published_at": "2026-10-26T06:44:37+00:00",
       "source": "publish.tribuneindia.com",
@@ -11917,6 +11949,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:04:16.900801+00:00",
+  "last_cycle_at": "2026-10-27T06:04:24.440301+00:00",
   "schema_version": 1
 }
