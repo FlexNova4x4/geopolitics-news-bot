@@ -3002,6 +3002,14 @@
       "updated_at": "2026-10-26T10:46:17.224719+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-landfall-on-october-28-in-andhra-pradesh-cyclonic-storm-tracker-bay-of-bengal-imd-updates-101793007202400.html"
     },
+    "3bfae3c07cde8e41f296c547": {
+      "published_at": "2026-10-27T07:55:01+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Qatar’s path to defence autonomy",
+      "updated_at": "2026-10-27T08:06:43.323814+00:00",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy?traffic_source=rss"
+    },
     "3c497751b4196702db1904df": {
       "published_at": "2026-10-25T15:23:09+00:00",
       "source": "thehindu.com",
@@ -7897,6 +7905,14 @@
       "updated_at": "2026-10-26T00:52:43.047280+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/ima-dharamsala-launches-sports-initiative-for-doctors"
     },
+    "982f0250761141acd49c9384": {
+      "published_at": "2026-10-27T07:57:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Israel votes: Eisenkot campaigns in Kibutz Nir Oz, site of October 7 massacre; pledges to bring healing",
+      "updated_at": "2026-10-27T08:06:43.323819+00:00",
+      "url": "https://www.tribuneindia.com/news/avigdor-liberman/israel-votes-eisenkot-campaigns-in-kibutz-nir-oz-site-of-october-7-massacre-pledges-to-bring-healing"
+    },
     "982fd09da3a2325f2e1358d8": {
       "published_at": "2026-10-25T01:19:51+00:00",
       "source": "dawn.com",
@@ -10636,6 +10652,14 @@
       "updated_at": "2026-10-25T09:04:27.449256+00:00",
       "url": "https://www.hindustantimes.com/india-news/collegium-faces-political-pressure-over-njac-setback-former-sc-judge-kaul-writes-in-memoir-101792916013295.html"
     },
+    "cf66082ef04048fba14b8255": {
+      "published_at": "2026-10-27T07:53:25+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "When RSS first acknowledged Sikhism as a separate religion with a distinct ideology",
+      "updated_at": "2026-10-27T08:06:43.323806+00:00",
+      "url": "https://www.tribuneindia.com/news/india/when-rss-first-acknowledged-sikhism-as-a-separate-religion-with-a-distinct-ideology"
+    },
     "cf7273d3875d739588b5503a": {
       "published_at": "2026-10-27T05:35:19+00:00",
       "source": "dawn.com",
@@ -11425,6 +11449,14 @@
       "title": "JI threatens march to Islamabad in mid-November if petroleum levy not abolished",
       "updated_at": "2026-10-26T09:45:01.919195+00:00",
       "url": "https://www.dawn.com/news/2039943/ji-threatens-march-to-islamabad-in-mid-november-if-petroleum-levy-not-abolished"
+    },
+    "df9b7f6a1a6e2daf76746ab2": {
+      "published_at": "2026-10-27T07:52:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Counting of votes begins for North-East Teachers’ constituency in Karnataka Council elections",
+      "updated_at": "2026-10-27T08:06:43.323781+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/counting-of-votes-begins-for-north-east-teachers-constituency-in-karnataka-council-elections/article71630289.ece"
     },
     "e02764594c758da8f812bc5f": {
       "published_at": "2026-10-25T15:05:01+00:00",
@@ -13222,6 +13254,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:06:22.668166+00:00",
+  "last_cycle_at": "2026-10-27T08:06:43.325414+00:00",
   "schema_version": 1
 }
