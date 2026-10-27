@@ -2513,9 +2513,10 @@
     "25bbdbe8bb3163e538f176d5": {
       "published_at": "2026-10-27T15:17:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11916,
       "title": "SIMBEX-2026: 33rd India-Singapore Maritime bilateral exercise concludes in Visakhapatnam",
-      "updated_at": "2026-10-27T16:10:37.045493+00:00",
+      "updated_at": "2026-10-27T16:10:41.984698+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-exercise/simbex-2026-33rd-india-singapore-maritime-bilateral-exercise-concludes-in-visakhapatnam"
     },
     "261bbaffea8c666d69aa31ce": {
@@ -3256,9 +3257,10 @@
     "31c71c6c65f5615dba632c20": {
       "published_at": "2026-10-27T15:18:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11917,
       "title": "'What if someone falls ill?': Delhi's non-BS VI vehicle ban from November 1 leaves Noida commuters worried",
-      "updated_at": "2026-10-27T16:10:37.045509+00:00",
+      "updated_at": "2026-10-27T16:10:45.861578+00:00",
       "url": "https://www.hindustantimes.com/india-news/what-if-someone-falls-ill-delhis-non-bs-vi-vehicle-ban-from-november-1-leaves-noida-commuters-worried-101793111000908.html"
     },
     "31fb567f7c421891b63b619c": {
@@ -5682,9 +5684,10 @@
     "5791a4e5f805bd6122fea29d": {
       "published_at": "2026-10-27T15:32:17+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11919,
       "title": "Assam Police forms SIT to probe killing of five over Guwahati hotel lease dispute",
-      "updated_at": "2026-10-27T16:10:37.045514+00:00",
+      "updated_at": "2026-10-27T16:10:53.809144+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-police-forms-sit-to-probe-killing-of-five-over-guwahati-hotel-lease-dispute-101793114015863.html"
     },
     "580f301b3f62026dceb26c49": {
@@ -13309,9 +13312,10 @@
     "c9f894a0c8e6ed22ceefa2b6": {
       "published_at": "2026-10-27T15:26:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11918,
       "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
-      "updated_at": "2026-10-27T16:10:37.045512+00:00",
+      "updated_at": "2026-10-27T16:10:49.947377+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss"
     },
     "c9fb64f1790dee59cfac87a0": {
@@ -17088,6 +17092,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T16:10:37.047100+00:00",
+  "last_cycle_at": "2026-10-27T16:10:57.011281+00:00",
   "schema_version": 1
 }
