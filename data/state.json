@@ -5234,6 +5234,14 @@
       "updated_at": "2026-10-25T15:16:42.638539+00:00",
       "url": "https://www.hindustantimes.com/india-news/woman-attacks-brother-in-laws-private-parts-in-kanpur-uttar-pradesh-police-register-case-101792935647904.html"
     },
+    "4f6682847c1556f72140487f": {
+      "published_at": "2026-10-27T17:37:21+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Govt to end slab system punishing consumers crossing 200-unit threshold",
+      "updated_at": "2026-10-27T17:42:51.338044+00:00",
+      "url": "https://www.dawn.com/news/2040250/govt-to-end-slab-system-punishing-consumers-crossing-200-unit-threshold"
+    },
     "4f9596d87794c5b0c382d3b0": {
       "published_at": "2026-10-25T16:21:40+00:00",
       "source": "feeds.bbci.co.uk",
@@ -11843,6 +11851,14 @@
       "updated_at": "2026-10-26T10:44:56.821754+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/nedumbassery-luxury-car-crash-audio-clip-of-an-accused-describing-incident-emerges-as-possible-key-evidence/article71626202.ece"
     },
+    "aef0a609b6e5b76a22e6ffb8": {
+      "published_at": "2026-10-27T17:36:28+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
+      "updated_at": "2026-10-27T17:42:51.338028+00:00",
+      "url": "https://www.thehindu.com/news/international/attacks-kill-at-least-60-orthodox-christians-in-ethiopia-church-says/article71633099.ece"
+    },
     "aeff307ce7cc4ecc2d388983": {
       "published_at": "2026-10-26T10:39:20+00:00",
       "source": "publish.tribuneindia.com",
@@ -17731,6 +17747,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:42:39.712006+00:00",
+  "last_cycle_at": "2026-10-27T17:42:51.339531+00:00",
   "schema_version": 1
 }
