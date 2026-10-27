@@ -3545,9 +3545,10 @@
     "3705a6b0e9af55993543bb81": {
       "published_at": "2026-10-27T16:17:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11957,
       "title": "BRICS parliamentary forum expresses ‘deep concern’ about West Asian hostilities",
-      "updated_at": "2026-10-27T17:11:28.345729+00:00",
+      "updated_at": "2026-10-27T17:11:43.536552+00:00",
       "url": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece"
     },
     "373e77412f539a1f64c7b7e7": {
@@ -10158,9 +10159,10 @@
     "982d1676a466c16dd9fb5879": {
       "published_at": "2026-10-27T16:15:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11956,
       "title": "Increase women’s representation in Police force, says Bengaluru Police Commissioner",
-      "updated_at": "2026-10-27T17:11:28.345726+00:00",
+      "updated_at": "2026-10-27T17:11:39.619844+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/increase-womens-representation-in-police-force-says-city-police-commissioner/article71632863.ece"
     },
     "982f0250761141acd49c9384": {
@@ -12402,9 +12404,10 @@
     "b874276b24f401a218b04ade": {
       "published_at": "2026-10-27T16:11:35+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11954,
       "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-      "updated_at": "2026-10-27T17:11:28.345704+00:00",
+      "updated_at": "2026-10-27T17:11:31.764281+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
@@ -16276,9 +16279,10 @@
     "f1961347f3fd12cd36fc351f": {
       "published_at": "2026-10-27T16:13:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11955,
       "title": "Congress-induced drought, not forced by nature: KTR",
-      "updated_at": "2026-10-27T17:11:28.345722+00:00",
+      "updated_at": "2026-10-27T17:11:35.668739+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/congress-induced-drought-not-forced-by-nature-ktr/article71632731.ece"
     },
     "f1971a6c435c7f2d49200b5c": {
@@ -17412,6 +17416,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:11:28.347205+00:00",
+  "last_cycle_at": "2026-10-27T17:11:46.738660+00:00",
   "schema_version": 1
 }
