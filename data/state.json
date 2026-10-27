@@ -10727,6 +10727,14 @@
       "updated_at": "2026-10-27T05:38:52.588400+00:00",
       "url": "https://www.thehindu.com/news/national/rajnath-singh-calls-for-aatmanirbharta-20-in-defence-stresses-advanced-technologies-and-resilient-supply-chains/article71627117.ece"
     },
+    "afe3059687d6c569b48e333d": {
+      "published_at": "2026-10-27T13:36:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Probe on track in PSC exam case, State informs Kerala HC",
+      "updated_at": "2026-10-27T13:45:17.847373+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/probe-on-track-in-psc-exam-case-state-informs-kerala-hc/article71631563.ece"
+    },
     "afed823781786eab3a15e816": {
       "published_at": "2026-10-26T19:40:09+00:00",
       "source": "amarujala.com",
@@ -10825,6 +10833,14 @@
       "title": "Lok Sabha speaker Om Birla urges Brics parliaments to turn dialogue into concrete outcomes",
       "updated_at": "2026-10-27T03:41:56.670133+00:00",
       "url": "https://www.hindustantimes.com/india-news/lok-sabha-speaker-om-birla-urges-brics-parliaments-to-turn-dialogue-into-concrete-outcomes-101793065743005.html"
+    },
+    "b1a3e79ce3b2153f8642e96d": {
+      "published_at": "2026-10-27T13:36:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "BRS leaders urge DGP to launch special drive on pending cases of atrocities",
+      "updated_at": "2026-10-27T13:45:17.847359+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/brs-leaders-urge-dgp-to-launch-special-drive-on-pending-cases-of-atrocities/article71631390.ece"
     },
     "b1a54a2c726a43a3df292759": {
       "published_at": "2026-10-26T10:12:24+00:00",
@@ -15778,6 +15794,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:45:11.473452+00:00",
+  "last_cycle_at": "2026-10-27T13:45:17.848838+00:00",
   "schema_version": 1
 }
