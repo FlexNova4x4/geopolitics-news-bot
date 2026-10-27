@@ -3616,9 +3616,10 @@
     "51bce90f8438efcaf6f9661f": {
       "published_at": "2026-10-27T04:36:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11298,
       "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
-      "updated_at": "2026-10-27T05:36:34.612181+00:00",
+      "updated_at": "2026-10-27T05:36:47.839794+00:00",
       "url": "https://www.thehindu.com/news/international/carney-says-trump-moving-closer-to-canadas-trade-demands-as-midterms-loom/article71629789.ece"
     },
     "51c8ed74b43be2a995158e76": {
@@ -3642,9 +3643,10 @@
     "523360c7bc459ecb6210b896": {
       "published_at": "2026-10-27T04:30:56+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11295,
       "title": "Very severe cyclonic storm ‘Arnab’ to trigger extremely heavy rain across 16 Andhra districts",
-      "updated_at": "2026-10-27T05:36:34.612156+00:00",
+      "updated_at": "2026-10-27T05:36:36.501943+00:00",
       "url": "https://www.hindustantimes.com/india-news/very-severe-cyclonic-storm-arnab-to-trigger-extremely-heavy-rain-across-16-andhra-districts-101793075456969.html"
     },
     "529aab26d4b950650e27e9db": {
@@ -4904,9 +4906,10 @@
     "6e82736842681faff9a3c9ce": {
       "published_at": "2026-10-27T04:34:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11296,
       "title": "Sugarcane price deadlock nears resolution after 10-hour discussion with Karnataka CM D.K. Shivakumar",
-      "updated_at": "2026-10-27T05:36:34.612172+00:00",
+      "updated_at": "2026-10-27T05:36:40.222585+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/sugarcane-price-deadlock-nears-resolution-after-10-hour-discussion-with-karnataka-cm-dk-shivakumar/article71629759.ece"
     },
     "6e98e7f73b9e48567a7c6be3": {
@@ -6979,9 +6982,10 @@
     "9af70a95ce374c0e393c97b7": {
       "published_at": "2026-10-27T04:35:27+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11297,
       "title": "धर्मशाला: अंडर-19 एथलेटिक्स मीट शुरू, 1500 मीटर दौड़ में कांगड़ा के आर्यन और बिलासपुर की सुदीक्षा ने मारी बाजी",
-      "updated_at": "2026-10-27T05:36:34.612177+00:00",
+      "updated_at": "2026-10-27T05:36:43.941268+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/dharamshala/dharamshala-under-19-athletics-meet-aryan-sudiksha-1500m-race-2026-10-27"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
@@ -11517,6 +11521,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:36:34.613549+00:00",
+  "last_cycle_at": "2026-10-27T05:36:51.041536+00:00",
   "schema_version": 1
 }
