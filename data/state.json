@@ -2045,9 +2045,10 @@
     "1e5f494aa42e0bd0a93aa660": {
       "published_at": "2026-10-27T19:13:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12031,
       "title": "City faces extreme groundwater depletion with abysmal levels recorded in Bachupally and Ameerpet",
-      "updated_at": "2026-10-27T19:33:53.305650+00:00",
+      "updated_at": "2026-10-27T19:33:59.769795+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/city-faces-extreme-groundwater-depletion-with-abysmal-levels-recorded-in-bachupally-and-ameerpet/article71632363.ece"
     },
     "1e784e1d2e16eb4ecceb3408": {
@@ -4291,9 +4292,10 @@
     "40608e39db027348e5a0287e": {
       "published_at": "2026-10-27T19:16:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12032,
       "title": "ACB arrests Mirchowk inspector, home guard in ₹3 lakh bribe case",
-      "updated_at": "2026-10-27T19:33:53.305653+00:00",
+      "updated_at": "2026-10-27T19:34:03.538564+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/acb-arrests-mirchowk-inspector-home-guard-in-3-lakh-bribe-case/article71633036.ece"
     },
     "40802b12010463f02e668cc7": {
@@ -11872,9 +11874,10 @@
     "aaeed6489b883934ccb7d76d": {
       "published_at": "2026-10-27T19:10:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12030,
       "title": "T.N. govt. revises housing loan limits for urban cooperative banks and credit societies",
-      "updated_at": "2026-10-27T19:33:53.305631+00:00",
+      "updated_at": "2026-10-27T19:33:55.963609+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-revises-housing-loan-limits-for-urban-cooperative-banks-and-credit-societies/article71632544.ece"
     },
     "ab08da050a21e3dc83d7732e": {
@@ -15360,9 +15363,10 @@
     "db9e0201587c4cb9f8ae08c3": {
       "published_at": "2026-10-27T19:19:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12033,
       "title": "Singareni seeks Angul Collector’s support for road laying to transport coal from Naini",
-      "updated_at": "2026-10-27T19:33:53.305655+00:00",
+      "updated_at": "2026-10-27T19:34:07.301238+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/singareni-seeks-angul-collectors-support-for-road-laying-to-transport-coal-from-naini/article71632515.ece"
     },
     "dbb0b52c0936cf87cf620ae9": {
@@ -18096,6 +18100,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T19:33:53.307255+00:00",
+  "last_cycle_at": "2026-10-27T19:34:10.503572+00:00",
   "schema_version": 1
 }
