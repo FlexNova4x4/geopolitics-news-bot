@@ -9679,6 +9679,14 @@
       "updated_at": "2026-10-26T09:16:49.182898+00:00",
       "url": "https://www.tribuneindia.com/news/dr-strangelove/makes-no-difference-to-us-irans-foreign-ministry-spokesperson-baghaei-compares-israeli-election-to-movie-dr-strangelove"
     },
+    "9533e2b662e44f416dec7f11": {
+      "published_at": "2026-10-27T15:10:56+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Network glitch hits Mumbai airport, IndiGo and Air India flight operations affected",
+      "updated_at": "2026-10-27T15:42:11.330683+00:00",
+      "url": "https://www.hindustantimes.com/india-news/network-glitch-hits-mumbai-airport-indigo-and-air-india-operations-affected-101793113773565.html"
+    },
     "95695fd4f9f797a4252cb692": {
       "published_at": "2026-10-27T01:46:38+00:00",
       "source": "feeds.bbci.co.uk",
@@ -9903,6 +9911,14 @@
       "title": "Supreme Court notice to Centre, ECI on plea against MLAs ‘abandoning’ seats to shift loyalty at public expense",
       "updated_at": "2026-10-26T10:45:24.889404+00:00",
       "url": "https://www.thehindu.com/news/national/sc-notice-to-centre-ec-on-plea-against-mlas-abandoning-seats-to-shift-loyalty-at-public-expense/article71626367.ece"
+    },
+    "99390ff6141c84ebf5d78209": {
+      "published_at": "2026-10-27T15:11:12+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab batters India’s east coast",
+      "updated_at": "2026-10-27T15:42:11.330686+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cyclone-arnab-batters-indias-east-coast?traffic_source=rss"
     },
     "994545cf286ed52afe6703a4": {
       "published_at": "2026-10-27T11:03:53+00:00",
@@ -13399,6 +13415,14 @@
       "updated_at": "2026-10-27T14:41:49.936114+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-to-examine-liechtenstein-s-proposal-for-double-tax-avoidance-pact-101793107894049.html"
     },
+    "cf2eeae66cc6d0fbb510913d": {
+      "published_at": "2026-10-27T15:10:27+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israeli military detains Egyptian national who crossed border",
+      "updated_at": "2026-10-27T15:42:11.330679+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss"
+    },
     "cf401a9a9dc6e4fb820a9aba": {
       "published_at": "2026-10-27T12:52:53+00:00",
       "source": "thehindu.com",
@@ -14324,6 +14348,14 @@
       "title": "Una News: ऊना के 17 वार्डों में लगेंगी नई स्ट्रीट लाइटें",
       "updated_at": "2026-10-26T01:23:46.059429+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/new-streetlights-will-be-installed-in-the-17-wards-of-una-una-news-c-93-1-ssml1047-211239-2026-10-25"
+    },
+    "dbd98efd1f50c7db3d99e7b4": {
+      "published_at": "2026-10-27T15:10:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Raja Ravi Varma awards for C. Douglas, N.N. Rimzon",
+      "updated_at": "2026-10-27T15:42:11.330661+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/raja-ravi-varma-awards-for-c-douglas-nn-rimzon/article71632231.ece"
     },
     "dc0211b68a6d222749fceac1": {
       "published_at": "2026-10-27T08:33:33+00:00",
@@ -16795,6 +16827,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:42:03.787459+00:00",
+  "last_cycle_at": "2026-10-27T15:42:11.332246+00:00",
   "schema_version": 1
 }
