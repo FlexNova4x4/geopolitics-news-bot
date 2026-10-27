@@ -3635,9 +3635,10 @@
     "3e1a9a8336b9c1bccb92e4bf": {
       "published_at": "2026-10-27T12:50:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11745,
       "title": "Himachal High Court quashes PWD Engineer-in-Chief’s extension; terms it illegal, arbitrary",
-      "updated_at": "2026-10-27T13:41:29.953020+00:00",
+      "updated_at": "2026-10-27T13:41:45.165248+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-high-court-quashes-pwd-engineer-in-chiefs-extension-terms-it-illegal-arbitrary"
     },
     "3e1aeecfdc2b1793a43b4f97": {
@@ -7414,9 +7415,10 @@
     "7ab551818cd028c217e75511": {
       "published_at": "2026-10-27T01:25:44+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11742,
       "title": "हिमाचल में चिट्टे की समस्या पर जवाब दे कांग्रेस सरकार : श्रीकांत",
-      "updated_at": "2026-10-27T13:41:29.953000+00:00",
+      "updated_at": "2026-10-27T13:41:32.966940+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/congress-government-must-respond-to-the-issue-of-chitta-synthetic-drugs-in-himachal-shrikant-kullu-news-c-89-1-klu1019-190445-2026-10-27"
     },
     "7abda87c5b99d4becb410a05": {
@@ -9374,9 +9376,10 @@
     "9b16aefcca22880c3b6959cf": {
       "published_at": "2026-10-27T01:35:23+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11744,
       "title": "कांग्रेस दिल्ली महारैली: हिमाचल से जाएंगे 15 हजार से अधिक कार्यकर्ता, प्रदेश अध्यक्ष ने साैंपी जिम्मेदारी",
-      "updated_at": "2026-10-27T13:41:29.953017+00:00",
+      "updated_at": "2026-10-27T13:41:41.060497+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/congresss-mega-rally-in-delhi-over-15-000-party-workers-from-himachal-to-attend-2026-10-27"
     },
     "9b1d1f14a9b8f9bec8a19d49": {
@@ -14827,9 +14830,10 @@
     "f5f96302deaee98cea5e0452": {
       "published_at": "2026-10-27T01:26:35+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11743,
       "title": "वीडियो: लंका दहन के साथ अंतरराष्ट्रीय कुल्लू दशहरा का समापन, 60 देवी-देवताओं की मौजूदगी में निकाली रथयात्रा",
-      "updated_at": "2026-10-27T13:41:29.953014+00:00",
+      "updated_at": "2026-10-27T13:41:36.989032+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/international-kullu-dussehra-concludes-with-lanka-dahan-chariot-procession-held-in-the-presence-of-60-deiti-2026-10-27"
     },
     "f6011bc65e16b1a700ac677d": {
@@ -15522,6 +15526,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:41:29.954347+00:00",
+  "last_cycle_at": "2026-10-27T13:41:48.367146+00:00",
   "schema_version": 1
 }
