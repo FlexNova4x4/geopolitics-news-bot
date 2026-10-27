@@ -1020,9 +1020,10 @@
     "0e812bfaada277b17fff1d58": {
       "published_at": "2026-10-27T15:01:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11869,
       "title": "Shut down Jawahar Nagar landfill, relocate waste facility: Malkajgiri MP Eatala Rajender",
-      "updated_at": "2026-10-27T15:17:32.718241+00:00",
+      "updated_at": "2026-10-27T15:17:39.716988+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/shut-down-jawahar-nagar-landfill-relocate-waste-facility-malkajgiri-mp-eatala-rajender/article71631191.ece"
     },
     "0e95f80adfdd1d3b92c27851": {
@@ -10433,9 +10434,10 @@
     "a20b37a678bbd13ecb1e67b5": {
       "published_at": "2026-10-27T15:02:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11870,
       "title": "SIR adds 48,513 new voters in Kalaburagi, leaves 4.77 lakh out of electoral roll",
-      "updated_at": "2026-10-27T15:17:32.718245+00:00",
+      "updated_at": "2026-10-27T15:17:43.783842+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/sir-adds-48513-new-voters-in-kalaburagi-leaves-477-lakh-out-of-electoral-roll/article71632155.ece"
     },
     "a236b1bfe6f53f9fb167a1da": {
@@ -10738,9 +10740,10 @@
     "a732d39d80e7b423223bfaf7": {
       "published_at": "2026-10-27T14:57:50+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11868,
       "title": "Pawan Kalyan directs evacuation of people from cyclone-prone areas in Kakinada district",
-      "updated_at": "2026-10-27T15:17:32.718227+00:00",
+      "updated_at": "2026-10-27T15:17:35.866356+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyan-directs-evacuation-of-people-from-cyclone-prone-areas-in-kakinada-district/article71632243.ece"
     },
     "a74149f0be2669b92cd8072d": {
@@ -16301,9 +16304,10 @@
     "fb840ea27a6a1e79ded57a7d": {
       "published_at": "2026-10-27T15:04:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11871,
       "title": "Bound to be 'tamasha' when my book comes out; my turn to tell my story: Sonia Gandhi",
-      "updated_at": "2026-10-27T15:17:32.718247+00:00",
+      "updated_at": "2026-10-27T15:17:47.696741+00:00",
       "url": "https://www.thehindu.com/news/national/bound-to-be-tamasha-when-my-book-comes-out-my-turn-to-tell-my-story-sonia-gandhi/article71632387.ece"
     },
     "fb9ddaac8c9ec5da26867373": {
@@ -16656,6 +16660,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:17:32.719647+00:00",
+  "last_cycle_at": "2026-10-27T15:17:50.898730+00:00",
   "schema_version": 1
 }
