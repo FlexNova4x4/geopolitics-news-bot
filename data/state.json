@@ -309,9 +309,10 @@
     "05dc0fc669a8d6cc80960f06": {
       "published_at": "2026-10-27T05:24:39+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11330,
       "title": "Poor performance: CM Maryam gives IGP free hand for action against DPOs, RPOs",
-      "updated_at": "2026-10-27T05:39:35.539481+00:00",
+      "updated_at": "2026-10-27T05:39:49.403029+00:00",
       "url": "https://www.dawn.com/news/2040085/poor-performance-cm-maryam-gives-igp-free-hand-for-action-against-dpos-rpos"
     },
     "05e0ca9115aec66df425cb7f": {
@@ -560,9 +561,10 @@
     "0af1e4b1c954f2a446bab006": {
       "published_at": "2026-10-27T05:21:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11328,
       "title": "Congress criticises activist’s month-long imprisonment in Madhya Pradesh",
-      "updated_at": "2026-10-27T05:39:35.539471+00:00",
+      "updated_at": "2026-10-27T05:39:41.936077+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-criticises-activists-month-long-imprisonment-in-madhya-pradesh/article71627665.ece"
     },
     "0b39f1cd6a335de9b5360408": {
@@ -1906,9 +1908,10 @@
     "2af53dafd587ab245ebf0fff": {
       "published_at": "2026-10-27T05:21:45+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11327,
       "title": "हिमाचल: संजीव कुमार गांधी को मिली नई जिम्मेदारी, बने हिमाचल प्रदेश जनरल इंडस्ट्रीज कॉरपोरेशन के एमडी",
-      "updated_at": "2026-10-27T05:39:35.539451+00:00",
+      "updated_at": "2026-10-27T05:39:37.964125+00:00",
       "url": "https://www.amarujala.com/shimla/sanjeev-kumar-gandhi-new-posting-himachal-pradesh-2026-10-27"
     },
     "2afbfe3aee06e59f7a0deee7": {
@@ -4679,9 +4682,10 @@
     "6800a0857add839415123341": {
       "published_at": "2026-10-27T05:22:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11329,
       "title": "Why has France struggled to address students’ demands?",
-      "updated_at": "2026-10-27T05:39:35.539476+00:00",
+      "updated_at": "2026-10-27T05:39:45.659887+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss"
     },
     "683ae934eb1a4125cf3a9e30": {
@@ -11805,6 +11809,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:39:35.540745+00:00",
+  "last_cycle_at": "2026-10-27T05:39:52.605051+00:00",
   "schema_version": 1
 }
