@@ -3290,6 +3290,14 @@
       "updated_at": "2026-10-26T04:54:16.724585+00:00",
       "url": "https://www.dawn.com/news/2039855/opposition-joins-protest-against-construction-on-karachis-nehr-i-khayyam"
     },
+    "4920da91441221da9379b166": {
+      "published_at": "2026-10-27T05:27:42+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Justice Tapabrata Chakraborty of Calcutta HC elevated as Telangana HC Chief Justice",
+      "updated_at": "2026-10-27T05:39:57.799017+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/justice-tapabrata-chakraborty-of-calcutta-hc-elevated-as-telangana-hc-chief-justice/article71629800.ece"
+    },
     "4942028eed4b42af2503b63a": {
       "published_at": "2026-10-26T07:29:46+00:00",
       "source": "thehindu.com",
@@ -5271,6 +5279,14 @@
       "updated_at": "2026-10-26T13:39:00.317654+00:00",
       "url": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-five-including-child-civil-defence/article71626788.ece"
     },
+    "7300b0dc151a2e9fa8149250": {
+      "published_at": "2026-10-27T05:28:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israel holds polls amid uncertainty over Netanyahu’s future, coalition numbers",
+      "updated_at": "2026-10-27T05:39:57.799027+00:00",
+      "url": "https://www.thehindu.com/news/international/israel-holds-polls-amid-uncertainty-over-netanyahus-future-coalition-numbers/article71629859.ece"
+    },
     "734b2f5c763f1f27e5ef7894": {
       "published_at": "2026-10-25T21:50:56+00:00",
       "source": "amarujala.com",
@@ -6646,6 +6662,14 @@
       "updated_at": "2026-10-27T00:10:55.564207+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hp-high-court-on-benefit-of-jobs-obtained-on-compassionate-grounds-2026-10-26"
     },
+    "9111f8ea41073d6f725b4831": {
+      "published_at": "2026-10-27T05:24:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "When 43 LTTE militants escaped from Vellore Fort in 1995 after digging a 153-foot tunnel",
+      "updated_at": "2026-10-27T05:39:57.798996+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/when-43ltte-militants-escaped-from-thevellorefort-after-digging-a-153-foot-tunnel/article69552888.ece"
+    },
     "916bbc5d420590d132b56582": {
       "published_at": "2026-10-25T14:46:38+00:00",
       "source": "aljazeera.com",
@@ -6681,6 +6705,14 @@
       "title": "Railway Board urged to expedite cadre restructuring orders",
       "updated_at": "2026-10-25T16:11:48.167721+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/railway-board-urged-to-expedite-cadre-restructuring-orders/article71623214.ece"
+    },
+    "92175d9ffb9f7fede747268c": {
+      "published_at": "2026-10-27T05:28:04+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Ahsan Bhoon files Rs5bn defamation suit against Capt Safdar",
+      "updated_at": "2026-10-27T05:39:57.799022+00:00",
+      "url": "https://www.dawn.com/news/2040087/ahsan-bhoon-files-rs5bn-defamation-suit-against-capt-safdar"
     },
     "923648d1ea2d5228546a08a2": {
       "published_at": "2026-10-25T15:11:15+00:00",
@@ -11809,6 +11841,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:39:52.605051+00:00",
+  "last_cycle_at": "2026-10-27T05:39:57.800267+00:00",
   "schema_version": 1
 }
