@@ -3896,9 +3896,10 @@
     "46e93c5053987f11e3b03ef4": {
       "published_at": "2026-10-27T11:28:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11664,
       "title": "This Halloween, Goa’s Bloody Dangerous serves up sex, scares and sophisticated cocktails",
-      "updated_at": "2026-10-27T12:17:38.329343+00:00",
+      "updated_at": "2026-10-27T12:17:44.821655+00:00",
       "url": "https://www.thehindu.com/food/dining/this-halloween-goas-bloody-dangerous-serves-up-sex-scares-and-sophisticated-cocktails/article71626487.ece"
     },
     "46f4e10bfaea2b18de4b40f1": {
@@ -4282,9 +4283,10 @@
     "4c75e9013f9026fe0c2cef30": {
       "published_at": "2026-10-27T11:33:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11666,
       "title": "Cheetah cub dies during treatment in first suspected case of shooting in Madhya Pradesh",
-      "updated_at": "2026-10-27T12:17:38.329350+00:00",
+      "updated_at": "2026-10-27T12:17:52.737340+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/cheetah-cub-dies-during-treatment-in-first-suspected-case-of-shooting-in-madhya-pradesh/article71630830.ece"
     },
     "4cad4eded2823eaaa3ab0908": {
@@ -4917,9 +4919,10 @@
     "57318dc0d574dde5dee785c1": {
       "published_at": "2026-10-27T11:29:21+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11665,
       "title": "Women safety: NHRC recommends sensitisation of police personnel to avoid victim-shaming of survivors",
-      "updated_at": "2026-10-27T12:17:38.329347+00:00",
+      "updated_at": "2026-10-27T12:17:48.687290+00:00",
       "url": "https://www.hindustantimes.com/india-news/women-safety-nhrc-recommends-sensitisation-of-police-personnel-to-avoid-victim-shaming-of-survivors-101793100562099.html"
     },
     "57355419bee7c0e3521d19e9": {
@@ -9128,9 +9131,10 @@
     "9e7fef382471f24f771fad25": {
       "published_at": "2026-10-27T11:24:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11663,
       "title": "SCR cancels daily express trains towards Visakhapatnam as Cyclone Arnab intensifies",
-      "updated_at": "2026-10-27T12:17:38.329328+00:00",
+      "updated_at": "2026-10-27T12:17:40.969705+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/scr-cancels-daily-express-trains-as-cyclone-arnab-intensifies/article71631019.ece"
     },
     "9ed30e3fe86a375981601659": {
@@ -14811,6 +14815,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:17:38.330668+00:00",
+  "last_cycle_at": "2026-10-27T12:17:55.939159+00:00",
   "schema_version": 1
 }
