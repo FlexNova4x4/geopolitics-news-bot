@@ -444,9 +444,10 @@
     "09758bf88ed08cd54b87ecc2": {
       "published_at": "2026-10-27T02:40:15+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11222,
       "title": "Cyclone Arnab LIVE: Heavy rainfall likely in Andhra, Yanam as storm turns ‘very severe’; schools shut, trains cancelled",
-      "updated_at": "2026-10-27T03:11:14.940242+00:00",
+      "updated_at": "2026-10-27T03:11:21.169350+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-live-updates-heavy-rains-cyclone-tracker-schools-trains-shut-andhra-pradesh-yanam-odisha-imd-bay-of-bengal-101793067155262.html"
     },
     "097bce7cdeb58444c378b4b0": {
@@ -2302,9 +2303,10 @@
     "3862d49cccce60684b71a58c": {
       "published_at": "2026-10-27T02:38:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11221,
       "title": "Moroccan police intercept migrant swimming back towards Ceuta",
-      "updated_at": "2026-10-27T03:11:14.940223+00:00",
+      "updated_at": "2026-10-27T03:11:17.392485+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss"
     },
     "386a2aa773ec9dd15c86253e": {
@@ -5028,9 +5030,10 @@
     "76fb1493beec6f9cec6bed7d": {
       "published_at": "2026-10-27T02:42:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11224,
       "title": "“Crisis in Strait of Hormuz will not be last of its kind”: Singapore Energy Minister Tan warns of energy supply risks",
-      "updated_at": "2026-10-27T03:11:14.940251+00:00",
+      "updated_at": "2026-10-27T03:11:28.839982+00:00",
       "url": "https://www.tribuneindia.com/news/energy-crisis/crisis-in-strait-of-hormuz-will-not-be-last-of-its-kind-singapore-energy-minister-tan-warns-of-energy-supply-risks"
     },
     "77294550dedc86b9512e331b": {
@@ -5800,9 +5803,10 @@
     "87222fd3ea56f85a1ceaf687": {
       "published_at": "2026-10-27T02:40:17+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11223,
       "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-      "updated_at": "2026-10-27T03:11:14.940247+00:00",
+      "updated_at": "2026-10-27T03:11:25.102845+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
     },
     "874362239d32e2554fbe9426": {
@@ -10860,6 +10864,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:11:14.941822+00:00",
+  "last_cycle_at": "2026-10-27T03:11:32.042660+00:00",
   "schema_version": 1
 }
