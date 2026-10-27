@@ -774,6 +774,14 @@
       "updated_at": "2026-10-26T09:45:29.626532+00:00",
       "url": "https://www.tribuneindia.com/news/british-parliament/ukpnp-holds-kashmir-conference-at-british-parliament-raises-concerns-over-pojk-rights-situation"
     },
+    "0e34ec3fc79f275715473eab": {
+      "published_at": "2026-10-27T08:34:05+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Keralam Home Minister defends RTI exemption for Vigilance’s top-secret sections",
+      "updated_at": "2026-10-27T09:04:19.938272+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-defends-rti-exemption-for-vigilances-top-secret-sections/article71630382.ece"
+    },
     "0e5c339e7c0b6b0870699919": {
       "published_at": "2026-10-26T06:42:16+00:00",
       "source": "publish.tribuneindia.com",
@@ -11571,6 +11579,14 @@
       "updated_at": "2026-10-26T01:23:46.059429+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/new-streetlights-will-be-installed-in-the-17-wards-of-una-una-news-c-93-1-ssml1047-211239-2026-10-25"
     },
+    "dc0211b68a6d222749fceac1": {
+      "published_at": "2026-10-27T08:33:33+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Role confined to re-posting’: Bombay HC quashes FIR against student linked to controversial Op Sindoor post",
+      "updated_at": "2026-10-27T09:04:19.938268+00:00",
+      "url": "https://www.hindustantimes.com/india-news/role-confined-to-re-posting-bombay-hc-quashes-fir-against-student-linked-to-controversial-op-sindoor-post-101793087646917.html"
+    },
     "dc4f2ba4b9e7cf20f0893d01": {
       "published_at": "2026-10-25T14:01:59+00:00",
       "source": "thehindu.com",
@@ -11794,6 +11810,14 @@
       "title": "Cyclone ‘Arnab’ hurtling towards Andhra Pradesh coast",
       "updated_at": "2026-10-27T02:41:23.407582+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-hurtling-towards-andhra-pradesh-coast/article71629610.ece"
+    },
+    "e2728042f15a462d02c303d1": {
+      "published_at": "2026-10-27T08:34:11+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Section 163 imposed in Nahan till October 29 amid apprehensions of fresh tension",
+      "updated_at": "2026-10-27T09:04:19.938275+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/section-163-imposed-in-nahan-till-october-29-amid-apprehensions-of-fresh-tension"
     },
     "e2a61990e40d0a2906b49808": {
       "published_at": "2026-10-27T06:55:30+00:00",
@@ -12495,6 +12519,14 @@
       "title": "The road ahead for the Asiatic lion",
       "updated_at": "2026-10-25T18:12:44.262713+00:00",
       "url": "https://www.thehindu.com/news/national/the-road-ahead-for-the-asiatic-lion/article71309290.ece"
+    },
+    "ef08eadbad65b1df6aff2271": {
+      "published_at": "2026-10-27T08:33:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Vijay Deverakonda-Rashmika team files complaint over alleged false online narratives about actors",
+      "updated_at": "2026-10-27T09:04:19.938252+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/vijay-deverakonda-rashmika-team-files-complaint-over-alleged-false-online-narratives-about-actors/article71630408.ece"
     },
     "ef20f995c78b337fd1bc6c63": {
       "published_at": "2026-10-26T01:06:50+00:00",
@@ -13546,6 +13578,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:04:12.961098+00:00",
+  "last_cycle_at": "2026-10-27T09:04:19.939979+00:00",
   "schema_version": 1
 }
