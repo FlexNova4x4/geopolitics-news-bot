@@ -12062,9 +12062,10 @@
     "bf573cd54012ff0379b27255": {
       "published_at": "2026-10-27T13:59:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11817,
       "title": "Developmental works ensured unanimous victory of MPTC seats in Rajam constituency: TDP MLA",
-      "updated_at": "2026-10-27T14:43:58.863065+00:00",
+      "updated_at": "2026-10-27T14:44:05.769609+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/developmental-works-ensured-unanimous-victory-of-mptc-seats-in-rajam-constituency-tdp-mla/article71630160.ece"
     },
     "bf5b4f9d684736472ec1de05": {
@@ -14217,9 +14218,10 @@
     "e3c2edf5fbf9b6087c09b723": {
       "published_at": "2026-10-27T13:59:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11818,
       "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-      "updated_at": "2026-10-27T14:43:58.863068+00:00",
+      "updated_at": "2026-10-27T14:44:09.651983+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss"
     },
     "e3e2d3e1fce9a6003cdcf348": {
@@ -15044,9 +15046,10 @@
     "f066515c9fb9f7068ec69b18": {
       "published_at": "2026-10-27T13:58:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11816,
       "title": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain",
-      "updated_at": "2026-10-27T14:43:58.863050+00:00",
+      "updated_at": "2026-10-27T14:44:01.883948+00:00",
       "url": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece"
     },
     "f08d0d2f47bcbb83346134c3": {
@@ -15412,9 +15415,10 @@
     "f543c189b7a72ec7972ef0ec": {
       "published_at": "2026-10-27T14:00:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11819,
       "title": "Majhi urges Patnaik not to politicise Kotia dispute, reiterates Odisha’s territorial claim",
-      "updated_at": "2026-10-27T14:43:58.863070+00:00",
+      "updated_at": "2026-10-27T14:44:13.539290+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/majhi-urges-patnaik-not-to-politicise-kotia-dispute-reiterates-odishas-territorial-claim/article71631591.ece"
     },
     "f54876e51475c452280a9e88": {
@@ -16188,6 +16192,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:43:58.864472+00:00",
+  "last_cycle_at": "2026-10-27T14:44:16.741583+00:00",
   "schema_version": 1
 }
