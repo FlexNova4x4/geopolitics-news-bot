@@ -2108,9 +2108,10 @@
     "1fdfc2574c88fdd8d0262764": {
       "published_at": "2026-10-27T15:20:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11899,
       "title": "Cyclone Arnab impact likely up to Krishna; A.P. on high alert, says Naidu",
-      "updated_at": "2026-10-27T15:43:52.468431+00:00",
+      "updated_at": "2026-10-27T15:43:56.517832+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-impact-likely-up-to-krishna-ap-on-high-alert-says-naidu/article71632354.ece"
     },
     "200fe6aa427c1eefa44ebf71": {
@@ -11476,9 +11477,10 @@
     "b08048c6e40e3a963b248d2f": {
       "published_at": "2026-10-27T15:23:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11902,
       "title": "Prakasam Collector removes DEO over student death case failures",
-      "updated_at": "2026-10-27T15:43:52.468452+00:00",
+      "updated_at": "2026-10-27T15:44:08.249574+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-collector-removes-deo-over-student-death-case-failures/article71632270.ece"
     },
     "b0ba69676148e54e4c460e86": {
@@ -15179,9 +15181,10 @@
     "e884a42c066d5fe3038cfccc": {
       "published_at": "2026-10-27T15:21:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11901,
       "title": "Sanctions revised for Owaisi and Bahadurpura flyovers 4-5 years after inauguration",
-      "updated_at": "2026-10-27T15:43:52.468450+00:00",
+      "updated_at": "2026-10-27T15:44:04.243644+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/sanctions-revised-for-owaisi-and-bahadurpura-flyovers-4-5-years-after-inauguration/article71632496.ece"
     },
     "e8a087a6974b438d397cedc9": {
@@ -15619,9 +15622,10 @@
     "ef27438a4f63dd0288b37b61": {
       "published_at": "2026-10-27T15:20:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11900,
       "title": "Israel election turnout highest in 50 years as voting continues",
-      "updated_at": "2026-10-27T15:43:52.468447+00:00",
+      "updated_at": "2026-10-27T15:44:00.390686+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss"
     },
     "ef50a09ba73a9236ab350a70": {
@@ -16935,6 +16939,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:43:52.469960+00:00",
+  "last_cycle_at": "2026-10-27T15:44:11.451685+00:00",
   "schema_version": 1
 }
