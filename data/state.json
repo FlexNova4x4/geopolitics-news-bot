@@ -219,9 +219,10 @@
     "0406c27630451e1687f7d4ff": {
       "published_at": "2026-10-27T09:12:21+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11554,
       "title": "UK prosecutors charge two after RAF Fairford incident",
-      "updated_at": "2026-10-27T09:35:42.984879+00:00",
+      "updated_at": "2026-10-27T09:35:45.808938+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss"
     },
     "04372c1ba0c94e4a99ba4fc7": {
@@ -1540,9 +1541,10 @@
     "1cbe8385fcf86f4f84e3dac2": {
       "published_at": "2026-10-27T09:22:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11557,
       "title": "Pakistan’s press freedom worsens as journalists unite against censorship, legal harassment",
-      "updated_at": "2026-10-27T09:35:42.984899+00:00",
+      "updated_at": "2026-10-27T09:35:57.252893+00:00",
       "url": "https://www.tribuneindia.com/news/censorship/pakistans-press-freedom-worsens-as-journalists-unite-against-censorship-legal-harassment"
     },
     "1cc15881eea0f528d98c3672": {
@@ -4083,9 +4085,10 @@
     "4e7513e92d71bc3d22ab096e": {
       "published_at": "2026-10-27T09:13:29+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11555,
       "title": "Contamination in rivers: SC slams Rajasthan govt, says may order CBI investigation",
-      "updated_at": "2026-10-27T09:35:42.984893+00:00",
+      "updated_at": "2026-10-27T09:35:49.525964+00:00",
       "url": "https://www.tribuneindia.com/news/india/contamination-in-rivers-sc-slams-rajasthan-govt-says-may-order-cbi-investigation"
     },
     "4e9c39126c0ef07f24503391": {
@@ -12505,9 +12508,10 @@
     "ead83328e8799898ade44649": {
       "published_at": "2026-10-27T09:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11556,
       "title": "Bangladesh-Japan to boost regional connectivity around deep-sea port in Matarbari of the Bay of Bengal",
-      "updated_at": "2026-10-27T09:35:42.984897+00:00",
+      "updated_at": "2026-10-27T09:35:53.432015+00:00",
       "url": "https://www.tribuneindia.com/news/bangladesh-japan/bangladesh-japan-to-boost-regional-connectivity-around-deep-sea-port-in-matarbari-of-the-bay-of-bengal"
     },
     "eae98406a38dc2218ff3404a": {
@@ -13839,6 +13843,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:35:42.986437+00:00",
+  "last_cycle_at": "2026-10-27T09:36:00.454924+00:00",
   "schema_version": 1
 }
