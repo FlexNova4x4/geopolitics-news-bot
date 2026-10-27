@@ -7707,9 +7707,10 @@
     "a6ce42efe5237e1844a143e9": {
       "published_at": "2026-10-26T22:45:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11336,
       "title": "‘We Have Friends, No Enemies’: Timor-Leste’s First Year in ASEAN",
-      "updated_at": "2026-10-27T06:03:37.044673+00:00",
+      "updated_at": "2026-10-27T06:03:43.310332+00:00",
       "url": "https://thediplomat.com/2026/10/we-have-friends-no-enemies-timor-lestes-first-year-in-asean"
     },
     "a6def70ddd121613b81f6e1c": {
@@ -8119,9 +8120,10 @@
     "b0f8384bfc05b48815d9fd9f": {
       "published_at": "2026-10-26T18:36:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11335,
       "title": "The 2026 US Midterm Elections: Ramifications for Australia",
-      "updated_at": "2026-10-27T06:03:37.044656+00:00",
+      "updated_at": "2026-10-27T06:03:39.585911+00:00",
       "url": "https://thediplomat.com/2026/10/the-2026-us-midterm-elections-ramifications-for-australia"
     },
     "b12fd39c40a774e040902837": {
@@ -9979,9 +9981,10 @@
     "d7f33a6c1ef2b18a3754b88c": {
       "published_at": "2026-10-27T01:58:57+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11337,
       "title": "Measures to check water theft in Multan division reviewed",
-      "updated_at": "2026-10-27T06:03:37.044677+00:00",
+      "updated_at": "2026-10-27T06:03:47.031746+00:00",
       "url": "https://www.dawn.com/news/2040078/measures-to-check-water-theft-in-multan-division-reviewed"
     },
     "d802b933a3e2c94fa8000d4e": {
@@ -10570,9 +10573,10 @@
     "e799789cdfe266758ad340fd": {
       "published_at": "2026-10-27T01:58:57+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11338,
       "title": "Plea seeks action against smog, enforcement of environment laws",
-      "updated_at": "2026-10-27T06:03:37.044680+00:00",
+      "updated_at": "2026-10-27T06:03:50.959365+00:00",
       "url": "https://www.dawn.com/news/2040084/plea-seeks-action-against-smog-enforcement-of-environment-laws"
     },
     "e7a8b5eb6b5718fafbf51439": {
@@ -11877,6 +11881,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:03:37.046089+00:00",
+  "last_cycle_at": "2026-10-27T06:03:54.161333+00:00",
   "schema_version": 1
 }
