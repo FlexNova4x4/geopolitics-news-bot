@@ -1281,9 +1281,10 @@
     "13b2da009c8b46c4918a1530": {
       "published_at": "2026-10-27T12:18:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11784,
       "title": "Togo’s China Pivot: Building a Strategic Gateway to the Sahel",
-      "updated_at": "2026-10-27T14:12:28.852644+00:00",
+      "updated_at": "2026-10-27T14:12:32.097892+00:00",
       "url": "https://thediplomat.com/2026/10/togos-china-pivot-building-a-strategic-gateway-to-the-sahel"
     },
     "13c516bafc4edcdc379088bc": {
@@ -4390,9 +4391,10 @@
     "48e9b375c8933160475bcfd1": {
       "published_at": "2026-10-27T13:15:32+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11786,
       "title": "India-China border face-offs test Modi six years after deadly clash",
-      "updated_at": "2026-10-27T14:12:28.852662+00:00",
+      "updated_at": "2026-10-27T14:12:39.946782+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss"
     },
     "48f71e5d2f06622acb38ad6b": {
@@ -6991,9 +6993,10 @@
     "7220f4ac3be65bd3d3766f31": {
       "published_at": "2026-10-27T12:57:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11785,
       "title": "The ASEAN-India Trade Agreement and Its Discontents",
-      "updated_at": "2026-10-27T14:12:28.852659+00:00",
+      "updated_at": "2026-10-27T14:12:36.040393+00:00",
       "url": "https://thediplomat.com/2026/10/the-asean-india-trade-agreement-and-its-discontents"
     },
     "72409e7b4cb4479b8e842e1e": {
@@ -12031,9 +12034,10 @@
     "c147c6df20ff2222d1159867": {
       "published_at": "2026-10-27T13:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11787,
       "title": "“Taking Israel onto a new path”: Gadi Eisenkot casts vote in Knesset elections as turnout hits 31.5%",
-      "updated_at": "2026-10-27T14:12:28.852665+00:00",
+      "updated_at": "2026-10-27T14:12:43.819487+00:00",
       "url": "https://www.tribuneindia.com/news/gadi-eisenkot/taking-israel-onto-a-new-path-gadi-eisenkot-casts-vote-in-knesset-elections-as-turnout-hits-31-5"
     },
     "c1482d6f3ced47689e4eb8ad": {
@@ -15900,6 +15904,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:12:28.854026+00:00",
+  "last_cycle_at": "2026-10-27T14:12:47.021246+00:00",
   "schema_version": 1
 }
