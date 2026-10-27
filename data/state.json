@@ -2013,6 +2013,14 @@
       "updated_at": "2026-10-25T05:37:31.931132+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/a-development-dream-linked-to-ravanas-birthplace/article71616208.ece"
     },
+    "2dc7ed7820157b104c69f0d1": {
+      "published_at": "2026-10-27T05:01:13+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
+      "updated_at": "2026-10-27T05:38:27.209486+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss"
+    },
     "2dceed441b9d36885e4c566d": {
       "published_at": "2026-10-25T01:16:44+00:00",
       "source": "thehindu.com",
@@ -4176,6 +4184,14 @@
       "title": "Free travel scheme: Keralam govt. releases ₹88.23 crore to KSRTC to cover revenue loss",
       "updated_at": "2026-10-25T16:11:52.075042+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/free-travel-scheme-keralam-govt-releases-8823-crore-to-ksrtc-to-cover-revenue-loss/article71623733.ece"
+    },
+    "5de56479d4b50f297800ec7e": {
+      "published_at": "2026-10-27T05:00:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Congress seeks scrapping of SIR, demands CEC’s resignation; protest planned in New Delhi on November 1",
+      "updated_at": "2026-10-27T05:38:27.209470+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-seeks-scrapping-of-sir-demands-cecs-resignation-protest-planned-in-new-delhi-on-november-1/article71627267.ece"
     },
     "5e9f63da60135af8eddb38b9": {
       "published_at": "2026-10-27T04:54:26+00:00",
@@ -6438,6 +6454,14 @@
       "title": "China’s Communist Party elite hold key talks on governance",
       "updated_at": "2026-10-26T04:54:08.593596+00:00",
       "url": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece"
+    },
+    "8d1dc94eecda1265fa89aefd": {
+      "published_at": "2026-10-27T05:02:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Determined to build on this momentum”: Liechtenstein’s Hereditary Prince Alois on strengthening ties with India even further",
+      "updated_at": "2026-10-27T05:38:27.209490+00:00",
+      "url": "https://www.tribuneindia.com/news/advanced-manufacturing/determined-to-build-on-this-momentum-liechtensteins-hereditary-prince-alois-on-strengthening-ties-with-india-even-further"
     },
     "8d7a7110d11e20b2dcdd224d": {
       "published_at": "2026-10-26T09:22:15+00:00",
@@ -10966,6 +10990,14 @@
       "updated_at": "2026-10-26T00:56:02.712090+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/gutkar-mandi-road-to-stay-shut-during-fixed-hours-till-nov-21"
     },
+    "f33bb0fab86f091a923f7455": {
+      "published_at": "2026-10-27T05:03:08+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘System auto generated them’: Karnataka poll officials after 61,059 Form 7s filed without specific grounds",
+      "updated_at": "2026-10-27T05:38:27.209493+00:00",
+      "url": "https://www.hindustantimes.com/india-news/auto-generated-karnataka-poll-officials-after-61-059-form-7-filed-without-specific-grounds-eci-sir-voters-101793075681345.html"
+    },
     "f35afa9bfcbf27bd86641c77": {
       "published_at": "2026-10-26T23:53:45+00:00",
       "source": "aljazeera.com",
@@ -11665,6 +11697,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:38:20.589059+00:00",
+  "last_cycle_at": "2026-10-27T05:38:27.210751+00:00",
   "schema_version": 1
 }
