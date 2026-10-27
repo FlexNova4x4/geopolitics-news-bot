@@ -9205,9 +9205,10 @@
     "9a1f61b6f553f4e103120ca3": {
       "published_at": "2026-10-27T13:00:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11731,
       "title": "Nobel committee says Venezuela needs democratic change despite Maria Machado’s return",
-      "updated_at": "2026-10-27T13:13:22.598321+00:00",
+      "updated_at": "2026-10-27T13:13:37.901644+00:00",
       "url": "https://www.thehindu.com/news/international/nobel-committee-says-venezuela-needs-democratic-change-despite-maria-machados-return/article71631561.ece"
     },
     "9a2f1cbd0a0d793684eafbeb": {
@@ -11044,9 +11045,10 @@
     "b8e8405d68174e9ad315665c": {
       "published_at": "2026-10-27T12:54:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11728,
       "title": "France reports first human Shamonda virus case, says no health risk",
-      "updated_at": "2026-10-27T13:13:22.598302+00:00",
+      "updated_at": "2026-10-27T13:13:25.683379+00:00",
       "url": "https://www.thehindu.com/news/international/france-reports-first-human-shamonda-virus-case-says-no-health-risk/article71611244.ece"
     },
     "b8fc5b5f5166fb7c557fdc5d": {
@@ -12743,9 +12745,10 @@
     "d4916be26ccc59b1c2badeb1": {
       "published_at": "2026-10-27T13:00:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11730,
       "title": "Guntur Collector directs officials to safeguard election materials",
-      "updated_at": "2026-10-27T13:13:22.598319+00:00",
+      "updated_at": "2026-10-27T13:13:33.974671+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-collector-directs-officials-to-safeguard-election-materials/article71631007.ece"
     },
     "d4b85185d9b4a4c7e58dd93b": {
@@ -12876,9 +12879,10 @@
     "d6ae225ab3ae49ea13f68f57": {
       "published_at": "2026-10-27T12:59:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11729,
       "title": "Tata Power in MoU with BPCL to develop 110 kV power infra at Mumbai refinery project",
-      "updated_at": "2026-10-27T13:13:22.598316+00:00",
+      "updated_at": "2026-10-27T13:13:30.127805+00:00",
       "url": "https://www.thehindu.com/business/tata-power-in-mou-with-bpcl-to-develop-110-kv-power-infra-at-mumbai-refinery-project/article71631475.ece"
     },
     "d6b6464e83c45dcd23827667": {
@@ -15396,6 +15400,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:13:22.599748+00:00",
+  "last_cycle_at": "2026-10-27T13:13:41.103574+00:00",
   "schema_version": 1
 }
