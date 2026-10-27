@@ -2475,9 +2475,10 @@
     "2d71b073855b83172a8f9815": {
       "published_at": "2026-10-26T23:20:08+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11615,
       "title": "सिरमौर: शैलेंद्र गुप्ता बोले- तीन दिन में सुधरे पेयजल व्यवस्था, नहीं तो सड़कों पर उतरेगी भाजपा",
-      "updated_at": "2026-10-27T12:11:51.397715+00:00",
+      "updated_at": "2026-10-27T12:11:54.108554+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-water-crisis-bjp-gives-administration-three-day-ultimatum-2026-10-27"
     },
     "2d94e054f413dfafc579c07f": {
@@ -7962,9 +7963,10 @@
     "8fdbb13e00dc569c3226141e": {
       "published_at": "2026-10-26T23:23:59+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11616,
       "title": "Mandi News: करसोग में पटाखों की बिक्री के लिए 12 स्थान निर्धारित",
-      "updated_at": "2026-10-27T12:11:51.397734+00:00",
+      "updated_at": "2026-10-27T12:11:58.145308+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/12-locations-designated-for-the-sale-of-firecrackers-in-karsog-mandi-news-c-90-1-mnd1001-219361-2026-10-27"
     },
     "90bc5ec53cc284d545154fee": {
@@ -8195,9 +8197,10 @@
     "940b4c9390cc8836b4fae9b1": {
       "published_at": "2026-10-26T23:32:59+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11618,
       "title": "नाहन: सैनवाला स्कूल में एनएसएस शिविर संपन्न, नशामुक्त भारत का दिया संदेश",
-      "updated_at": "2026-10-27T12:11:51.397741+00:00",
+      "updated_at": "2026-10-27T12:12:06.285859+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-nahan-nss-camp-concludes-at-sainwala-school-message-of-a-drug-free-india-conveyed-2026-10-27"
     },
     "9413debea6eaa37d34a67f89": {
@@ -11221,9 +11224,10 @@
     "c952f510a04e981fd2891166": {
       "published_at": "2026-10-26T23:29:29+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11617,
       "title": "वीडियो: अंतरराष्ट्रीय लवी मेले के उपलक्ष्य पर रामपुर में बैडमिंटन प्रतियोगिता का हुआ शुभारंभ",
-      "updated_at": "2026-10-27T12:11:51.397737+00:00",
+      "updated_at": "2026-10-27T12:12:02.256244+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-badminton-tournament-has-commenced-in-rampur-on-the-occasion-of-the-international-lavi-fair-2026-10-27"
     },
     "c988551e246a82a6cca26ffe": {
@@ -14379,6 +14383,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:11:51.398952+00:00",
+  "last_cycle_at": "2026-10-27T12:12:09.487680+00:00",
   "schema_version": 1
 }
