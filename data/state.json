@@ -3056,6 +3056,14 @@
       "updated_at": "2026-10-26T08:46:11.954749+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/abandoned-plantations-in-idukki-heighten-human-wildlife-conflict-threats/article71089500.ece"
     },
+    "3b32ec11fa80ffc535e75ccc": {
+      "published_at": "2026-10-27T08:48:58+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "SC refrains from directing ECI to preserve files amid row over SIR decisions",
+      "updated_at": "2026-10-27T09:34:51.578376+00:00",
+      "url": "https://www.hindustantimes.com/india-news/sc-refrains-from-directing-eci-to-preserve-files-amid-row-over-sir-decisions-101793090939337.html"
+    },
     "3b68e81a949a5bbff4ab7f7b": {
       "published_at": "2026-10-25T08:04:16+00:00",
       "source": "thehindu.com",
@@ -4064,6 +4072,14 @@
       "updated_at": "2026-10-26T22:40:57.424880+00:00",
       "url": "https://www.tribuneindia.com/news/parcoursup/french-government-moves-to-overhaul-parcoursup-admissions-portal-as-high-school-student-protests-rage"
     },
+    "4f188aa53abfa58b648b7894": {
+      "published_at": "2026-10-27T08:56:52+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Congress accuses PM Modi, Shah of blocking INDIA bloc’s ‘public impeachment’ of CEC Gyanesh Kumar",
+      "updated_at": "2026-10-27T09:34:51.578392+00:00",
+      "url": "https://www.tribuneindia.com/news/india/congress-accuses-pm-modi-shah-of-blocking-india-blocs-public-impeachment-of-cec-gyanesh-kumar"
+    },
     "4f32507c29205cded65b604b": {
       "published_at": "2026-10-26T06:58:05+00:00",
       "source": "thehindu.com",
@@ -4950,6 +4966,14 @@
       "title": "Cyclone Arnab puts Jharkhand on alert; IMD issues heavy rain warning for 3 days",
       "updated_at": "2026-10-27T08:33:19.621393+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-puts-jharkhand-on-alert-imd-issues-heavy-rain-warning-for-3-days-101793087759201.html"
+    },
+    "5f6722a017526ea542424f37": {
+      "published_at": "2026-10-27T09:01:00+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Weak monsoon, crop failures, force farmers to cut spending",
+      "updated_at": "2026-10-27T09:34:51.578396+00:00",
+      "url": "https://www.hindustantimes.com/india-news/weak-monsoon-crop-failures-force-farmers-to-cut-spending-101793091661357.html"
     },
     "5f9c325b1b2d3c7bf02f5786": {
       "published_at": "2026-10-27T04:54:26+00:00",
@@ -7743,6 +7767,14 @@
       "title": "Senate blocks move to withdraw diplomatic passport privileges from state ministers, advisers",
       "updated_at": "2026-10-26T22:44:41.009636+00:00",
       "url": "https://www.dawn.com/news/2040000/senate-blocks-move-to-withdraw-diplomatic-passport-privileges-from-state-ministers-advisers"
+    },
+    "927201ee6fe7580fb128c009": {
+      "published_at": "2026-10-27T09:01:31+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘After Breaking Bad, Prison Break’: Stalin slams TVK govt over prison escapes in Tamil Nadu",
+      "updated_at": "2026-10-27T09:34:51.578398+00:00",
+      "url": "https://www.tribuneindia.com/news/india/after-breaking-bad-prison-break-stalin-slams-tvk-govt-over-prison-escapes-in-tamil-nadu"
     },
     "928f636cc301831be6854c23": {
       "published_at": "2026-10-26T02:12:40+00:00",
@@ -13735,6 +13767,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:34:43.613237+00:00",
+  "last_cycle_at": "2026-10-27T09:34:51.579857+00:00",
   "schema_version": 1
 }
