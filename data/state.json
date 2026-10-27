@@ -10775,9 +10775,10 @@
     "aebbcbbdd6901e272c292c9b": {
       "published_at": "2026-10-27T13:29:47+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11794,
       "title": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
-      "updated_at": "2026-10-27T14:41:08.544622+00:00",
+      "updated_at": "2026-10-27T14:41:19.323556+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss"
     },
     "aede50b0da19ddf319913e1a": {
@@ -14982,9 +14983,10 @@
     "f19caef12fbed2e0409d7abb": {
       "published_at": "2026-10-27T13:23:32+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11792,
       "title": "Iranians brace for renewed attacks after Israeli, US elections",
-      "updated_at": "2026-10-27T14:41:08.544603+00:00",
+      "updated_at": "2026-10-27T14:41:11.411640+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss"
     },
     "f19ff57b5bcc0bce0453ea82": {
@@ -15017,9 +15019,10 @@
     "f282bbbba1f8b0b2d581b1ab": {
       "published_at": "2026-10-27T13:26:32+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11793,
       "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
-      "updated_at": "2026-10-27T14:41:08.544618+00:00",
+      "updated_at": "2026-10-27T14:41:15.347052+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss"
     },
     "f292066645e0fcc4c6053c7f": {
@@ -15939,9 +15942,10 @@
     "ffc9efced9b8eb9b075c16bb": {
       "published_at": "2026-10-27T13:33:27+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11795,
       "title": "19-month-old cheetah cub dies of gunshot injuries in MP's Kuno National Park; pellets extracted from body",
-      "updated_at": "2026-10-27T14:41:08.544624+00:00",
+      "updated_at": "2026-10-27T14:41:23.180937+00:00",
       "url": "https://www.hindustantimes.com/india-news/19monthold-cheetah-cub-dies-of-gunshot-injuries-in-mps-kuno-national-park-pellets-extracted-from-body-101793102923618.html"
     },
     "ffd15c20228fe71f943d6871": {
@@ -15972,6 +15976,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:41:08.546002+00:00",
+  "last_cycle_at": "2026-10-27T14:41:26.382838+00:00",
   "schema_version": 1
 }
