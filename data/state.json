@@ -2871,9 +2871,10 @@
     "2d00b1ead927c3fb0cfa5218": {
       "published_at": "2026-10-27T15:08:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11885,
       "title": "Sashastra Seema Bal chief Sanjay Singhal to hold additional charge of ITBP",
-      "updated_at": "2026-10-27T15:41:45.557156+00:00",
+      "updated_at": "2026-10-27T15:41:56.733165+00:00",
       "url": "https://www.tribuneindia.com/news/india/sashastra-seema-bal-chief-sanjay-singhal-to-hold-additional-charge-of-itbp"
     },
     "2d15af590c2510d7de39c640": {
@@ -7882,9 +7883,10 @@
     "79ec3c13c3d4e4aff0b7615f": {
       "published_at": "2026-10-27T14:58:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11883,
       "title": "Keralam Congress tenders unconditional apology to CJI Surya Kant over disrespectful X post",
-      "updated_at": "2026-10-27T15:41:45.557135+00:00",
+      "updated_at": "2026-10-27T15:41:48.621871+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/keralam-congress-tenders-unconditional-apology-to-cji-surya-kant-over-disrespectful-x-post"
     },
     "79f8cbe8965930d6b23d8970": {
@@ -13373,9 +13375,10 @@
     "cefe39b60d581ca6363fd2ce": {
       "published_at": "2026-10-27T15:08:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11886,
       "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-      "updated_at": "2026-10-27T15:41:45.557159+00:00",
+      "updated_at": "2026-10-27T15:42:00.585382+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss"
     },
     "cf08a33106af7b997de7bcd4": {
@@ -13849,9 +13852,10 @@
     "d50c467093f21845f2d60a8e": {
       "published_at": "2026-10-27T15:01:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11884,
       "title": "Divorced daughter entitled to family pension if divorce proceedings began during pensioner’s lifetime: AFT",
-      "updated_at": "2026-10-27T15:41:45.557153+00:00",
+      "updated_at": "2026-10-27T15:41:52.659243+00:00",
       "url": "https://www.tribuneindia.com/news/defence/divorced-daughter-entitled-to-family-pension-if-divorce-proceedings-began-during-pensioners-lifetime-aft"
     },
     "d51f6ad35b5b5481439ac051": {
@@ -16791,6 +16795,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:41:45.558555+00:00",
+  "last_cycle_at": "2026-10-27T15:42:03.787459+00:00",
   "schema_version": 1
 }
