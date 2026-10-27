@@ -1524,9 +1524,10 @@
     "177467fc1699cf1469a93cd1": {
       "published_at": "2026-10-27T13:23:43+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11762,
       "title": "JI vows Islamabad march against petrol levy to resume in mid-November if govt does not announce any 'package'",
-      "updated_at": "2026-10-27T13:44:04.353263+00:00",
+      "updated_at": "2026-10-27T13:44:07.194456+00:00",
       "url": "https://www.dawn.com/news/2040214/ji-vows-islamabad-march-against-petrol-levy-to-resume-in-mid-november-if-govt-does-not-announce-any-package"
     },
     "177f7ebc7b9fc3c533c406bd": {
@@ -3931,9 +3932,10 @@
     "4301609bbc18e835e5ffa8a9": {
       "published_at": "2026-10-27T13:27:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11765,
       "title": "6,000 personnel deployed for cyclone-related power restoration in A.P.",
-      "updated_at": "2026-10-27T13:44:04.353284+00:00",
+      "updated_at": "2026-10-27T13:44:18.778160+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/6000-personnel-deployed-for-cyclone-related-power-restoration-in-ap/article71630665.ece"
     },
     "4309a47fc6e9928613e5ea90": {
@@ -8528,9 +8530,10 @@
     "8b4bc0bf7042673543810963": {
       "published_at": "2026-10-27T13:27:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11763,
       "title": "Rivers in north Andhra under watch amid cyclone-triggered rains",
-      "updated_at": "2026-10-27T13:44:04.353279+00:00",
+      "updated_at": "2026-10-27T13:44:11.069239+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/rivers-in-north-andhra-under-watch-amid-cyclone-triggered-rains/article71631141.ece"
     },
     "8b52d468fd0ea2345fc34db5": {
@@ -15428,9 +15431,10 @@
     "fc02a8530bd74d1852c57bec": {
       "published_at": "2026-10-27T13:27:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11764,
       "title": "Business leaders reject nationalistic tech races at The Hindu Semiconductor Summit 2026",
-      "updated_at": "2026-10-27T13:44:04.353282+00:00",
+      "updated_at": "2026-10-27T13:44:14.912221+00:00",
       "url": "https://www.thehindu.com/news/national/business-leaders-reject-nationalistic-tech-races-at-the-hindu-semiconductor-summit-2026/article71631698.ece"
     },
     "fc1cc2f6fcde1a957db654f0": {
@@ -15702,6 +15706,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:44:04.354647+00:00",
+  "last_cycle_at": "2026-10-27T13:44:21.980071+00:00",
   "schema_version": 1
 }
