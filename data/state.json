@@ -2345,6 +2345,14 @@
       "updated_at": "2026-10-26T22:41:24.841656+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece"
     },
+    "3549e8af29da89f78b3a9dc5": {
+      "published_at": "2026-10-26T19:47:56+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Driver killed as dumper plunges into gorge in Himachal’s Mandi",
+      "updated_at": "2026-10-27T05:34:14.649391+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/driver-killed-as-dumper-plunges-into-gorge-in-himachals-mandi"
+    },
     "3597c9b454d48930ebf04fe4": {
       "published_at": "2026-10-25T16:22:26+00:00",
       "source": "thehindu.com",
@@ -5674,6 +5682,14 @@
       "updated_at": "2026-10-24T22:37:02.457882+00:00",
       "url": "https://thediplomat.com/2026/10/xi-jinping-may-have-his-own-reasons-to-avert-a-china-russia-us-summit"
     },
+    "810fb7345ab985206c5626e8": {
+      "published_at": "2026-10-26T19:48:50+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Focus on innovation & research, Dharmani urges NIT students",
+      "updated_at": "2026-10-27T05:34:14.649407+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/focus-on-innovation-research-dharmani-urges-nit-students"
+    },
     "8142849d81d7fb15273d8478": {
       "published_at": "2026-10-25T03:57:13+00:00",
       "source": "aljazeera.com",
@@ -6870,6 +6886,14 @@
       "updated_at": "2026-10-26T02:53:34.564789+00:00",
       "url": "https://www.hindustantimes.com/india-news/nabin-chairs-meet-to-discuss-bjp-s-response-to-oppn-s-nov-1-rally-101792953948606.html"
     },
+    "9bb7c67af820c8bfe92384cf": {
+      "published_at": "2026-10-26T19:50:44+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Real estate regulator seeks structural safety check of eight-storey building in Solan’s Barog",
+      "updated_at": "2026-10-27T05:34:14.649411+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/real-estate-regulator-seeks-structural-safety-check-of-eight-storey-building-in-solans-barog"
+    },
     "9bbaaf14c8c7fb18ba4c643d": {
       "published_at": "2026-10-25T08:21:24+00:00",
       "source": "hindustantimes.com",
@@ -7379,6 +7403,14 @@
       "title": "Jamia protest intensifies over student union demand; 4 students on hunger strike, heavy security outside campus",
       "updated_at": "2026-10-25T15:10:26.013118+00:00",
       "url": "https://www.hindustantimes.com/india-news/jamia-protest-live-news-over-student-union-demand-students-on-hunger-strike-heavy-security-outside-campus-101792925553428.html"
+    },
+    "a7ba049fdd59d4f4f238a026": {
+      "published_at": "2026-10-26T19:52:20+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Nauni varsity scientists win top honours at national symposium",
+      "updated_at": "2026-10-27T05:34:14.649414+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/nauni-varsity-scientists-win-top-honours-at-national-symposium"
     },
     "a7bc7eec190e38f67d80541d": {
       "published_at": "2026-10-27T03:54:13+00:00",
@@ -11269,6 +11301,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:03:43.533899+00:00",
+  "last_cycle_at": "2026-10-27T05:34:14.650675+00:00",
   "schema_version": 1
 }
