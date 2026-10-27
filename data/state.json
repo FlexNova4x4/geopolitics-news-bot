@@ -1475,6 +1475,14 @@
       "updated_at": "2026-10-26T22:40:34.940069+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece"
     },
+    "1a4b43006e38173ffabbb601": {
+      "published_at": "2026-10-27T10:36:54+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+      "updated_at": "2026-10-27T12:14:06.892178+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss"
+    },
     "1a5d17f265428fb2a57c423e": {
       "published_at": "2026-10-25T20:09:05+00:00",
       "source": "amarujala.com",
@@ -3550,6 +3558,14 @@
       "title": "Congress flags judicial independence concerns, cites Kaul memoir",
       "updated_at": "2026-10-26T01:22:29.532138+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-flags-judicial-independence-concerns-cites-kaul-memoir"
+    },
+    "41f75f87ed8c8e79c9ea4ae6": {
+      "published_at": "2026-10-27T10:35:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow spread in African countries",
+      "updated_at": "2026-10-27T12:14:06.892160+00:00",
+      "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-spread-in-african-countries/article71630756.ece"
     },
     "42336781dfa56f9f3784a961": {
       "published_at": "2026-10-26T06:28:35+00:00",
@@ -6441,6 +6457,14 @@
       "updated_at": "2026-10-26T10:14:44.936764+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-yuvan-poem-ek-baar-jeevan-mein-pyar-kar-lo-priye-geyti-theatre-shimla-2026-10-26"
     },
+    "736dd129378993c7b13aac9d": {
+      "published_at": "2026-10-27T10:37:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Karnataka’s final electoral roll published after SIR",
+      "updated_at": "2026-10-27T12:14:06.892185+00:00",
+      "url": "https://www.thehindu.com/videos/karnatakas-final-electoral-roll-published-after-sir/article71630933.ece"
+    },
     "73b508190c935beb2a7b8b16": {
       "published_at": "2026-10-26T03:57:42+00:00",
       "source": "amarujala.com",
@@ -8193,6 +8217,14 @@
       "title": "ECI’s stand that additional declaration is not part of Form 6 comes days after SC said it will examine ‘new’ Form 6",
       "updated_at": "2026-10-27T06:35:00.346335+00:00",
       "url": "https://www.thehindu.com/news/national/ecis-stand-that-additional-declaration-is-not-part-of-form-6-comes-days-after-sc-said-it-will-examine-new-form-6/article71629933.ece"
+    },
+    "9322341c799fd23fbaa618b2": {
+      "published_at": "2026-10-27T10:37:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "BRICS Parliamentary Forum adopts New Delhi Joint Declaration, calling for UN reform, multilateralism, and comprehensive counter-terrorism action",
+      "updated_at": "2026-10-27T12:14:06.892182+00:00",
+      "url": "https://www.tribuneindia.com/news/brics-parliamentary-forum/brics-parliamentary-forum-adopts-new-delhi-joint-declaration-calling-for-un-reform-multilateralism-and-comprehensive-counter-terrorism-action"
     },
     "932560affe1587e67a06092a": {
       "published_at": "2026-10-26T21:24:03+00:00",
@@ -14491,6 +14523,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:13:50.059641+00:00",
+  "last_cycle_at": "2026-10-27T12:14:06.893352+00:00",
   "schema_version": 1
 }
