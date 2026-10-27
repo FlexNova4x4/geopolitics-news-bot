@@ -432,6 +432,14 @@
       "updated_at": "2026-10-26T22:44:55.881874+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss"
     },
+    "07b4ec702e362be393d3fa2e": {
+      "published_at": "2026-10-26T20:34:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हमीरपुर में पुलिस भर्ती शुरू, पहले दिन 1600 पुरुष अभ्यर्थियों का शारीरिक परीक्षण",
+      "updated_at": "2026-10-27T09:03:09.330852+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-police-recruitment-2026-1600-male-candidates-physical-test-2026-10-27"
+    },
     "07fcc5f0728e832c037b5e56": {
       "published_at": "2026-10-26T04:46:40+00:00",
       "source": "amarujala.com",
@@ -4583,6 +4591,14 @@
       "updated_at": "2026-10-25T16:16:09.045088+00:00",
       "url": "https://www.thehindu.com/news/national/haryana/haryana-guest-teachers-demand-regularisation-of-services-march-to-chandigarh/article71623748.ece"
     },
+    "59848306fe0335b819e148d8": {
+      "published_at": "2026-10-26T20:34:07+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हमीरपुर: जसकोट हेलीपोर्ट पहुंचे सीएम सुक्खू, मेडिकल कॉलेज के अकादमिक ब्लॉक का करेंगे उद्घाटन",
+      "updated_at": "2026-10-27T09:03:09.330869+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-sukhvinder-singh-sukhu-hamirpur-jaskot-heliport-medical-college-academic-block-inauguration-2026-10-27"
+    },
     "59865b18da6240b985e3b891": {
       "published_at": "2026-10-27T04:01:55+00:00",
       "source": "publish.tribuneindia.com",
@@ -4824,6 +4840,14 @@
       "title": "Congress seeks scrapping of SIR, demands CEC’s resignation; protest planned in New Delhi on November 1",
       "updated_at": "2026-10-27T05:38:29.816047+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/congress-seeks-scrapping-of-sir-demands-cecs-resignation-protest-planned-in-new-delhi-on-november-1/article71627267.ece"
+    },
+    "5dfba2a00b89e2fe84ecf943": {
+      "published_at": "2026-10-27T05:45:08+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "updated_at": "2026-10-27T09:03:09.330876+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
     },
     "5e9f63da60135af8eddb38b9": {
       "published_at": "2026-10-27T04:54:26+00:00",
@@ -7257,6 +7281,14 @@
       "title": "National Assembly passes seven bills amid sparse attendance",
       "updated_at": "2026-10-27T03:42:35.572881+00:00",
       "url": "https://www.dawn.com/news/2040071/national-assembly-passes-seven-bills-amid-sparse-attendance"
+    },
+    "8a2cebab65435da171f34e1f": {
+      "published_at": "2026-10-26T20:34:11+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सोलन: कंडाघाट में शिव कथा के दौरान धूमधाम से मनाया मां पार्वती का जन्मोत्सव",
+      "updated_at": "2026-10-27T09:03:09.330873+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-kandaghat-shiv-katha-maa-parvati-birth-celebration-sadhvi-shweta-bharti-2026-10-27"
     },
     "8a4f91dd3b3446f9af43ea10": {
       "published_at": "2026-10-25T20:07:03+00:00",
@@ -13438,6 +13470,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T08:34:59.442770+00:00",
+  "last_cycle_at": "2026-10-27T09:03:09.332500+00:00",
   "schema_version": 1
 }
