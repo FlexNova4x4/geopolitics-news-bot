@@ -8539,9 +8539,10 @@
     "84ff0e65c90cfc9cbed21e77": {
       "published_at": "2026-10-27T15:05:18+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11872,
       "title": "Joint JI-govt committee to mull ways to expand fuel relief scheme: Ahsan Iqbal",
-      "updated_at": "2026-10-27T15:18:10.747700+00:00",
+      "updated_at": "2026-10-27T15:18:14.771578+00:00",
       "url": "https://www.dawn.com/news/2040214/joint-ji-govt-committee-to-mull-ways-to-expand-fuel-relief-scheme-ahsan-iqbal"
     },
     "85616f4dbf5ab1cf6473a90e": {
@@ -11674,9 +11675,10 @@
     "b65b2af001c02f88194c1c1e": {
       "published_at": "2026-10-27T15:07:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11873,
       "title": "NDA sweeps Pulivendula ZPTC, MPTC polls in YSR family bastion",
-      "updated_at": "2026-10-27T15:18:10.747715+00:00",
+      "updated_at": "2026-10-27T15:18:18.638846+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-sweeps-pulivendula-zptc-mptc-polls-in-ysr-family-bastion/article71632157.ece"
     },
     "b65e6dc8bf8570fb344d29ae": {
@@ -14729,9 +14731,10 @@
     "e550ddfd69fafe71530afd4d": {
       "published_at": "2026-10-27T15:07:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11874,
       "title": "US wealthtech firm AssetMark opens GCC in Hyderabad",
-      "updated_at": "2026-10-27T15:18:10.747719+00:00",
+      "updated_at": "2026-10-27T15:18:22.494134+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/us-wealthtech-firm-assetmark-opens-gcc-in-hyderabad/article71632040.ece"
     },
     "e556414fc9093d9fd0a11c78": {
@@ -16684,6 +16687,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:18:10.749306+00:00",
+  "last_cycle_at": "2026-10-27T15:18:25.696202+00:00",
   "schema_version": 1
 }
