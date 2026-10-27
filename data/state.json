@@ -3959,9 +3959,10 @@
     "48fafc3e00345ce2611c55bd": {
       "published_at": "2026-10-26T23:04:43+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11613,
       "title": "Mandi News: 180 विद्यार्थियों को मिलेगी जेईई-नीट की कोचिंग",
-      "updated_at": "2026-10-27T12:11:24.003898+00:00",
+      "updated_at": "2026-10-27T12:11:34.920248+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/180-students-will-receive-jee-neet-coaching-mandi-news-c-90-1-mnd1001-219351-2026-10-27"
     },
     "4920da91441221da9379b166": {
@@ -4792,9 +4793,10 @@
     "577c03da24c97ca700e3422c": {
       "published_at": "2026-10-26T23:02:20+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11612,
       "title": "बिलासपुर: घुमारवीं भाजपा ने एसआईआर पर विपक्ष को घेरा, हमीरपुर की पदयात्रा में शामिल होंगे 1000 कार्यकर्ता",
-      "updated_at": "2026-10-27T12:11:24.003895+00:00",
+      "updated_at": "2026-10-27T12:11:30.912276+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/bilaspur/video-ghumarwin-bjp-targets-opposition-over-sir-hamirpur-padyatra-2026-2026-10-27"
     },
     "57807c8671ea4cc80b060d4e": {
@@ -6540,9 +6542,10 @@
     "7679ae09013be9cef1b84597": {
       "published_at": "2026-10-26T22:59:24+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11611,
       "title": "Mandi News: डैहर में सुरक्षित बचपन अभियान शुरू, 625 विद्यार्थी किए जागरूक",
-      "updated_at": "2026-10-27T12:11:24.003877+00:00",
+      "updated_at": "2026-10-27T12:11:26.833943+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/safe-childhood-campaign-launched-in-dahar-625-students-sensitized-mandi-news-c-90-1-mnd1021-219397-2026-10-27"
     },
     "76c36ad86e563e5798ac1800": {
@@ -13288,9 +13291,10 @@
     "f0010f235c58fabb8c72657a": {
       "published_at": "2026-10-26T23:12:36+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11614,
       "title": "सिरमौर: अंतरराष्ट्रीय रेणुकाजी मेले में पहली बार होगी वॉलीबॉल प्रतियोगिता, 32 टीमें लेंगी हिस्सा",
-      "updated_at": "2026-10-27T12:11:24.003901+00:00",
+      "updated_at": "2026-10-27T12:11:39.066650+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-international-renukaji-fair-volleyball-tournament-first-time-2026-2026-10-27"
     },
     "f00f582151babfb5525c52a3": {
@@ -14343,6 +14347,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:11:24.005066+00:00",
+  "last_cycle_at": "2026-10-27T12:11:42.268110+00:00",
   "schema_version": 1
 }
