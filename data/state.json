@@ -1305,6 +1305,14 @@
       "updated_at": "2026-10-26T22:45:43.870007+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss"
     },
+    "15d3e24ce14d6fc7f7b7a721": {
+      "published_at": "2026-10-27T12:03:50+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rubber Board turns to digital platform to revive untapped plantations",
+      "updated_at": "2026-10-27T12:19:58.868692+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/rubber-board-turns-to-digital-platform-to-revive-untapped-plantations/article71631274.ece"
+    },
     "15d780e25c4f5e90739a8aa4": {
       "published_at": "2026-10-25T21:00:02+00:00",
       "source": "aljazeera.com",
@@ -4888,6 +4896,14 @@
       "title": "MONEY FROM INDIA, DEFENCE PACT WITH PAKISTAN! Maldives Signs 20 MoUs; India Sends Warships | Kinjal",
       "updated_at": "2026-10-24T22:36:56.620517+00:00",
       "url": "https://www.youtube.com/watch?v=ZumvuSjM_0Q"
+    },
+    "55470836236252c26209bbd2": {
+      "published_at": "2026-10-27T12:02:09+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "JI chief reaches PM House for meeting with prime minister: party",
+      "updated_at": "2026-10-27T12:19:58.868677+00:00",
+      "url": "https://www.dawn.com/news/2040214/ji-chief-reaches-pm-house-for-meeting-with-prime-minister-party"
     },
     "558eb7a2ddf9f27779103403": {
       "published_at": "2026-10-26T20:55:47+00:00",
@@ -14959,6 +14975,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:19:53.431326+00:00",
+  "last_cycle_at": "2026-10-27T12:19:58.870224+00:00",
   "schema_version": 1
 }
