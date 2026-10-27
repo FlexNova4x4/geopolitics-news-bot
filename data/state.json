@@ -9650,9 +9650,10 @@
     "b1b6a324bfd30740cf0f78d1": {
       "published_at": "2026-10-27T09:59:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11586,
       "title": "Tamil Nadu government extends ban on inter-State transport of rough stones by three months",
-      "updated_at": "2026-10-27T10:06:07.030564+00:00",
+      "updated_at": "2026-10-27T10:06:09.160913+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-extends-ban-on-inter-state-transport-of-rough-stones-by-three-months/article71630643.ece"
     },
     "b1bcfc75b3456055df5bdd2a": {
@@ -10863,9 +10864,10 @@
     "c5f77233e0d365dde61bb2fc": {
       "published_at": "2026-10-27T09:59:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11587,
       "title": "Cylone ‘Arnab’: Visakhapatnam, Srikakulam districts in A.P. receive widespread rainfall",
-      "updated_at": "2026-10-27T10:06:07.030578+00:00",
+      "updated_at": "2026-10-27T10:06:12.920547+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cylone-arnab-visakhapatnam-srikakulam-districts-in-ap-receive-widespread-rainfall/article71630413.ece"
     },
     "c5ff3410ddc891d205020635": {
@@ -14111,6 +14113,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:06:07.032269+00:00",
+  "last_cycle_at": "2026-10-27T10:06:16.122923+00:00",
   "schema_version": 1
 }
