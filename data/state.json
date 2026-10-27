@@ -8044,9 +8044,10 @@
     "99d82ab01f0ea03d17fd8ea2": {
       "published_at": "2026-10-27T08:25:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11512,
       "title": "Karnataka’s Forest Department and Bird Count India launch first Rajyotsava Bird Count",
-      "updated_at": "2026-10-27T08:34:45.770248+00:00",
+      "updated_at": "2026-10-27T08:34:56.240622+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-forest-department-and-bird-count-india-launch-first-rajyotsava-bird-count/article71630300.ece"
     },
     "9a2f1cbd0a0d793684eafbeb": {
@@ -9037,9 +9038,10 @@
     "adc596c2dbae0efbd0575394": {
       "published_at": "2026-10-27T08:19:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11510,
       "title": "Karnataka Council elections: Counting of votes begins for West Graduates’ constituency in Dharwad",
-      "updated_at": "2026-10-27T08:34:45.770230+00:00",
+      "updated_at": "2026-10-27T08:34:48.752545+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-council-elections-counting-of-votes-begins-for-west-graduates-constituency-in-dharwad/article71630393.ece"
     },
     "ade915771d0f628884a3794e": {
@@ -12074,9 +12076,10 @@
     "e91a1eeea73e658492814f96": {
       "published_at": "2026-10-27T08:19:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11511,
       "title": "How GPS tracker helped an Idukki dairy farmer locate missing livestock",
-      "updated_at": "2026-10-27T08:34:45.770245+00:00",
+      "updated_at": "2026-10-27T08:34:52.473697+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/how-gps-tracker-helped-an-idukki-dairy-farmer-locate-missing-livestock/article71630297.ece"
     },
     "e9520f70f2f81375a5967cc0": {
@@ -13435,6 +13438,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T08:34:45.771939+00:00",
+  "last_cycle_at": "2026-10-27T08:34:59.442770+00:00",
   "schema_version": 1
 }
