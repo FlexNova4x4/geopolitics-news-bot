@@ -720,6 +720,14 @@
       "updated_at": "2026-10-27T06:05:26.992794+00:00",
       "url": "https://www.dawn.com/news/2040095/sindh-govt-police-fulfilled-promise-of-restoring-peace-across-riverine-areas-igp"
     },
+    "0c6ea79c1da90d527845a852": {
+      "published_at": "2026-10-27T08:27:58+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "UP: Three businessmen found dead inside car, pulled out of Sitapur pond",
+      "updated_at": "2026-10-27T09:03:55.486313+00:00",
+      "url": "https://www.hindustantimes.com/india-news/up-three-businessmen-found-dead-inside-car-pulled-out-of-sitapur-pond-101793089679259.html"
+    },
     "0c8751fdc5115eb71209e41f": {
       "published_at": "2026-10-26T08:44:15+00:00",
       "source": "thehindu.com",
@@ -4198,6 +4206,14 @@
       "updated_at": "2026-10-25T16:17:18.920900+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-secures-six-of-nine-urban-local-bodies-in-kadapa-district-unopposed/article71623806.ece"
     },
+    "5184e130af284ee04e0a285a": {
+      "published_at": "2026-10-27T08:30:53+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Australia expands biometric collection programme to visa applicants in India",
+      "updated_at": "2026-10-27T09:03:55.486323+00:00",
+      "url": "https://www.hindustantimes.com/india-news/australia-expands-biometric-collection-programme-to-visa-applicants-in-india-101793089854455.html"
+    },
     "5190bc0338658923e06b72fe": {
       "published_at": "2026-10-27T05:21:21+00:00",
       "source": "hindustantimes.com",
@@ -4564,6 +4580,14 @@
       "title": "5 dead in shooting at Assam hotel; cops say rift involving property owner, renter triggered incident",
       "updated_at": "2026-10-27T01:41:15.292043+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-guwahati-hotel-shooting-death-toll-police-dispute-involving-property-owner-renter-triggered-incident-101793062102678.html"
+    },
+    "594cb921dda3d99845baa6b7": {
+      "published_at": "2026-10-27T08:28:45+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Global peace means assurance of security, dignity and justice for all: Birla",
+      "updated_at": "2026-10-27T09:03:55.486318+00:00",
+      "url": "https://www.hindustantimes.com/india-news/global-peace-means-assurance-of-security-dignity-and-justice-for-all-birla-101793089726467.html"
     },
     "595e65ca98b0d2153c60bfc2": {
       "published_at": "2026-10-27T03:10:21+00:00",
@@ -13043,6 +13067,14 @@
       "updated_at": "2026-10-25T15:14:39.625403+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss"
     },
+    "f81f66e9d149b83b76053b56": {
+      "published_at": "2026-10-27T08:27:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "2nd Russian-Thai Investment Forum to be held in Bangkok from October 29 to 31",
+      "updated_at": "2026-10-27T09:03:55.486290+00:00",
+      "url": "https://www.tribuneindia.com/news/bangkok/2nd-russian-thai-investment-forum-to-be-held-in-bangkok-from-october-29-to-31"
+    },
     "f844d6e4d9c58ea3d5d8d3a9": {
       "published_at": "2026-10-25T10:08:29+00:00",
       "source": "thehindu.com",
@@ -13510,6 +13542,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:03:48.807096+00:00",
+  "last_cycle_at": "2026-10-27T09:03:55.487840+00:00",
   "schema_version": 1
 }
