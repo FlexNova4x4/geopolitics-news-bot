@@ -1559,9 +1559,10 @@
     "1ea2b4308d6a4673f429aaf7": {
       "published_at": "2026-10-27T07:16:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11453,
       "title": "‘A chance is required to be given’: HC quashes FIR against Pune student for social media post over Op Sindoor",
-      "updated_at": "2026-10-27T07:36:17.917852+00:00",
+      "updated_at": "2026-10-27T07:36:27.677544+00:00",
       "url": "https://www.tribuneindia.com/news/india/a-chance-is-required-to-be-given-hc-quashes-fir-against-pune-student-for-social-media-post-over-op-sindoor"
     },
     "1ecd5dc6fb877438855c4018": {
@@ -3022,9 +3023,10 @@
     "3dda5a32736af777c20aea7f": {
       "published_at": "2026-10-27T07:14:25+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11451,
       "title": "Wales first minister : ‘We’re within a union that is not a union of equals’",
-      "updated_at": "2026-10-27T07:36:17.917832+00:00",
+      "updated_at": "2026-10-27T07:36:20.190937+00:00",
       "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss"
     },
     "3deb5ef23a745550ea5ecfc5": {
@@ -3966,9 +3968,10 @@
     "4fc5953b2bfdb1bd13e78796": {
       "published_at": "2026-10-27T07:15:08+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11452,
       "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-      "updated_at": "2026-10-27T07:36:17.917847+00:00",
+      "updated_at": "2026-10-27T07:36:23.914782+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
     },
     "4fe2e450c023050631d77d44": {
@@ -8172,9 +8175,10 @@
     "a19da4fef1d3dfebd1ff9712": {
       "published_at": "2026-10-27T07:18:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11454,
       "title": "Keralam Assembly: Opposition confronts govt over alleged police atrocities, claims ‘dual justice system’",
-      "updated_at": "2026-10-27T07:36:17.917855+00:00",
+      "updated_at": "2026-10-27T07:36:31.451616+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-opposition-confronts-govt-over-alleged-police-atrocities-claims-dual-justice-system/article71630136.ece"
     },
     "a1bc666fee8c90260ebe2dc3": {
@@ -12921,6 +12925,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:36:17.919248+00:00",
+  "last_cycle_at": "2026-10-27T07:36:34.653778+00:00",
   "schema_version": 1
 }
