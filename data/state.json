@@ -7495,9 +7495,10 @@
     "8dd5b16f1d553f33fa0eae5b": {
       "published_at": "2026-10-27T08:48:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11538,
       "title": "Bombay High Court quashes FIR against Pune student for social media post over Operation Sindoor",
-      "updated_at": "2026-10-27T09:05:32.709877+00:00",
+      "updated_at": "2026-10-27T09:05:38.838248+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-quashes-fir-against-pune-student-for-social-media-post-over-operation-sindoor/article71630398.ece"
     },
     "8deb19e090a515a312b756da": {
@@ -10503,9 +10504,10 @@
     "c5d819591e072513cc8dd440": {
       "published_at": "2026-10-27T08:47:22+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11537,
       "title": "Pakistan: Rawalpindi faces hours of unannounced, frustrating load-shedding",
-      "updated_at": "2026-10-27T09:05:32.709861+00:00",
+      "updated_at": "2026-10-27T09:05:34.885619+00:00",
       "url": "https://www.tribuneindia.com/news/electricity-outage/pakistan-rawalpindi-faces-hours-of-unannounced-frustrating-load-shedding"
     },
     "c5ec3b788912388614a1a403": {
@@ -10799,9 +10801,10 @@
     "cc4784980d86bf833b460d14": {
       "published_at": "2026-10-27T08:55:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11540,
       "title": "Fire breaks out at chocolate shop in Keralam’s Kannur",
-      "updated_at": "2026-10-27T09:05:32.709884+00:00",
+      "updated_at": "2026-10-27T09:05:46.527579+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/fire-breaks-out-at-chocolate-shop-in-keralams-kannur/article71630474.ece"
     },
     "cc56337f6d578f5c21887cc8": {
@@ -13448,9 +13451,10 @@
     "fc1dd143401d287059fcd8b4": {
       "published_at": "2026-10-27T08:51:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11539,
       "title": "‘Very severe’ cyclone incoming: Odisha targets to shift 48,000 people from coast; 294 rescue teams deployed",
-      "updated_at": "2026-10-27T09:05:32.709881+00:00",
+      "updated_at": "2026-10-27T09:05:42.568985+00:00",
       "url": "https://www.tribuneindia.com/news/india/very-severe-cyclone-incoming-odisha-targets-to-shift-48000-people-from-coast-294-rescue-teams-deployed"
     },
     "fc2b0f3489b93e82c15c7b4b": {
@@ -13686,6 +13690,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:05:32.711318+00:00",
+  "last_cycle_at": "2026-10-27T09:05:49.729743+00:00",
   "schema_version": 1
 }
