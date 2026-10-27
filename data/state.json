@@ -4559,9 +4559,10 @@
     "5a9cadc4c80597c0a02899f6": {
       "published_at": "2026-10-26T19:46:37+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11467,
       "title": "मंडी: मिलेट्स उत्सव में धर्मपुर एफपीओ के उत्पादों की धूम, दोपहर तक बिक गया सारा सामान",
-      "updated_at": "2026-10-27T08:04:02.086085+00:00",
+      "updated_at": "2026-10-27T08:04:15.907457+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-dharampur-fpo-millet-products-sold-out-at-hamirpur-festival-2026-10-27"
     },
     "5ac35c58a87da6e1a0d68bc2": {
@@ -8015,9 +8016,10 @@
     "9c8b03e1542767c0a38a54d7": {
       "published_at": "2026-10-26T19:40:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11464,
       "title": "करवाचौथ से पहले सोलन के बाजारों में उमड़ी भीड़, मेहंदी और खरीदारी के लिए पहुंच रहीं महिलाएं",
-      "updated_at": "2026-10-27T08:04:02.086064+00:00",
+      "updated_at": "2026-10-27T08:04:04.121154+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-market-crowd-karwa-chauth-shopping-mehndi-2026-10-27"
     },
     "9ca5c7e8d209f31fc1902c6b": {
@@ -8910,9 +8912,10 @@
     "afed823781786eab3a15e816": {
       "published_at": "2026-10-26T19:40:09+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11465,
       "title": "हमीरपुर: हथली पुल पर बाइक सवारों से 1 किलो 28 ग्राम चरस बरामद, एक आरोपी नाबालिग",
-      "updated_at": "2026-10-27T08:04:02.086078+00:00",
+      "updated_at": "2026-10-27T08:04:08.070890+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/hamirpur-hp/video-hamirpur-hathli-bridge-charas-recovered-two-mandi-residents-2026-10-27"
     },
     "b0739e1ca9283319edca8de9": {
@@ -12118,9 +12121,10 @@
     "f08d0d2f47bcbb83346134c3": {
       "published_at": "2026-10-26T19:45:38+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11466,
       "title": "बिलासपुर: मल्यावर लिंक रोड पर 3.4 किलो चरस बरामद, हरियाणा का युवक गिरफ्तार",
-      "updated_at": "2026-10-27T08:04:02.086082+00:00",
+      "updated_at": "2026-10-27T08:04:11.974839+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/bilaspur-malyawar-link-road-3-4-kg-charas-seized-sonipat-youth-arrested-2026-10-27"
     },
     "f090428777887eb1c9262e62": {
@@ -13038,6 +13042,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:04:02.087602+00:00",
+  "last_cycle_at": "2026-10-27T08:04:19.109332+00:00",
   "schema_version": 1
 }
