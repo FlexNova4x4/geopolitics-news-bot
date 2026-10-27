@@ -5676,9 +5676,10 @@
     "53a1edaf0ee6cab2fe84ca88": {
       "published_at": "2026-10-27T19:28:12+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12046,
       "title": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
-      "updated_at": "2026-10-27T20:03:37.479796+00:00",
+      "updated_at": "2026-10-27T20:03:44.039000+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss"
     },
     "53b169dd5b0a2d6083a6adaf": {
@@ -12970,9 +12971,10 @@
     "b8c62016bedda8a0011df725": {
       "published_at": "2026-10-27T19:33:41+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12048,
       "title": "BJP to hold padyatras against Congress ‘misrule’ in four districts",
-      "updated_at": "2026-10-27T20:03:37.479804+00:00",
+      "updated_at": "2026-10-27T20:03:51.841359+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/bjp-to-hold-padyatras-against-congress-misrule-in-four-districts"
     },
     "b8d7adb5c14a4fe89d32b5b9": {
@@ -16673,9 +16675,10 @@
     "edea632a5379f83cdabe6203": {
       "published_at": "2026-10-27T19:30:37+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12047,
       "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
-      "updated_at": "2026-10-27T20:03:37.479798+00:00",
+      "updated_at": "2026-10-27T20:03:48.020240+00:00",
       "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
     },
     "edeca2240d6bfb580b208d9a": {
@@ -17077,9 +17080,10 @@
     "f1bee3217269b8fc89a3dd68": {
       "published_at": "2026-10-27T19:27:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12045,
       "title": "Diwali in Singapore: Little India lights up as diaspora prepares for Festival of Lights",
-      "updated_at": "2026-10-27T20:03:37.479779+00:00",
+      "updated_at": "2026-10-27T20:03:40.274150+00:00",
       "url": "https://www.tribuneindia.com/news/diwali-cultural-traditions/diwali-in-singapore-little-india-lights-up-as-diaspora-prepares-for-festival-of-lights"
     },
     "f1daa71b38fa915a189c0b62": {
@@ -18231,6 +18235,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T20:03:37.481345+00:00",
+  "last_cycle_at": "2026-10-27T20:03:55.043381+00:00",
   "schema_version": 1
 }
