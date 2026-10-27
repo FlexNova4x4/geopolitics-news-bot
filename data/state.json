@@ -6123,9 +6123,10 @@
     "6283926f59e0be971385bd73": {
       "published_at": "2026-10-27T14:12:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11829,
       "title": "Army chief reviews operational preparedness in Garhwal Sector, visits Mana and Joshimath",
-      "updated_at": "2026-10-27T14:45:15.186529+00:00",
+      "updated_at": "2026-10-27T14:45:22.319816+00:00",
       "url": "https://www.thehindu.com/news/national/uttarakhand/army-chief-reviews-operational-preparedness-in-garhwal-sector-visits-mana-and-joshimath/article71631681.ece"
     },
     "6288c909515f7317dc31c85e": {
@@ -9474,9 +9475,10 @@
     "9619e46b2dc9a13020e6bb15": {
       "published_at": "2026-10-27T14:13:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11831,
       "title": "Man arrested with 39,000 packets of banned tobacco products in Keralam’s Thrissur",
-      "updated_at": "2026-10-27T14:45:15.186537+00:00",
+      "updated_at": "2026-10-27T14:45:30.082872+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/man-arrested-with-39000-packets-of-banned-tobacco-products-in-keralams-thrissur/article71632008.ece"
     },
     "961a9900ee3994d9682b3fab": {
@@ -13903,9 +13905,10 @@
     "db6fbacefef44fe0d13ea7ee": {
       "published_at": "2026-10-27T14:11:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11828,
       "title": "Bapatla district prepares 174 relief centres to combat Cyclone Arnab",
-      "updated_at": "2026-10-27T14:45:15.186512+00:00",
+      "updated_at": "2026-10-27T14:45:18.393906+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-district-prepares-174-relief-centres-to-combat-cyclone-arnab/article71630726.ece"
     },
     "db72f2e2a78bfaaf26901e35": {
@@ -14809,9 +14812,10 @@
     "eb7ac532b9d9375f2bcee69f": {
       "published_at": "2026-10-27T14:13:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11830,
       "title": "Crime Branch registers two more cases in PSC exam irregularities",
-      "updated_at": "2026-10-27T14:45:15.186533+00:00",
+      "updated_at": "2026-10-27T14:45:26.208893+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/crime-branch-registers-two-more-cases-in-psc-exam-irregularities/article71631964.ece"
     },
     "ebabd24cd98299557972ea38": {
@@ -16296,6 +16300,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:45:15.188005+00:00",
+  "last_cycle_at": "2026-10-27T14:45:33.284893+00:00",
   "schema_version": 1
 }
