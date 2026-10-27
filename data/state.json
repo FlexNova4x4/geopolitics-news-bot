@@ -6122,9 +6122,10 @@
     "6659d2ff72e94811ee8f56aa": {
       "published_at": "2026-10-27T13:06:28+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11749,
       "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
-      "updated_at": "2026-10-27T13:41:58.903600+00:00",
+      "updated_at": "2026-10-27T13:42:15.132373+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss"
     },
     "665a97067fa3134e42393aca": {
@@ -6148,9 +6149,10 @@
     "6696e809752ca0f706555118": {
       "published_at": "2026-10-27T13:03:45+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11748,
       "title": "'Apply through Form 6, name will be added': Karnataka CEO assures voters after 1 crore deleted in final electoral roll",
-      "updated_at": "2026-10-27T13:41:58.903597+00:00",
+      "updated_at": "2026-10-27T13:42:11.246399+00:00",
       "url": "https://www.hindustantimes.com/india-news/apply-through-form-6-name-will-be-added-karnataka-ceo-assures-voters-after-1-crore-deleted-in-final-electoral-roll-101793106066521.html"
     },
     "66e4a3b18137eacff7929089": {
@@ -8366,9 +8368,10 @@
     "8a1c347515a5e0a409164165": {
       "published_at": "2026-10-27T13:02:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11747,
       "title": "‘Ram ne Yadav ko maara’, ‘Takkar Marna’ to ‘Murkh Devi’: UP voter lists turn meme material",
-      "updated_at": "2026-10-27T13:41:58.903593+00:00",
+      "updated_at": "2026-10-27T13:42:07.139376+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/ram-ne-yadav-ko-maara-takkar-marna-to-murkh-devi-up-voter-lists-turn-meme-material"
     },
     "8a2cebab65435da171f34e1f": {
@@ -9534,9 +9537,10 @@
     "9ce4cecfe4b6d9eca9410d52": {
       "published_at": "2026-10-27T12:59:27+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11746,
       "title": "SC castigates Centre over medicine overpricing, asks 'can you justify this loot'",
-      "updated_at": "2026-10-27T13:41:58.903579+00:00",
+      "updated_at": "2026-10-27T13:42:03.214506+00:00",
       "url": "https://www.hindustantimes.com/india-news/sc-castigates-centre-over-medicine-overpricing-asks-can-you-justify-this-loot-101793105967887.html"
     },
     "9d190a7b682ba59b2b49cda7": {
@@ -15558,6 +15562,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:41:58.904938+00:00",
+  "last_cycle_at": "2026-10-27T13:42:18.334326+00:00",
   "schema_version": 1
 }
