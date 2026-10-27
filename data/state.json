@@ -5246,9 +5246,10 @@
     "4e67d69a07bdc8f0b05d3868": {
       "published_at": "2026-10-27T19:12:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12040,
       "title": "President Murmu hosts Liechtenstein’s Prince Alois, says TEPA can combine strengths of both nations",
-      "updated_at": "2026-10-27T20:02:46.619959+00:00",
+      "updated_at": "2026-10-27T20:03:01.314544+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-trade-cooperation/president-murmu-hosts-liechtensteins-prince-alois-says-tepa-can-combine-strengths-of-both-nations"
     },
     "4e7513e92d71bc3d22ab096e": {
@@ -8656,9 +8657,10 @@
     "7cead34be074710e3d4564bb": {
       "published_at": "2026-10-27T19:11:27+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12038,
       "title": "Trump says he’ll respect US midterm results if elections are ‘honest’",
-      "updated_at": "2026-10-27T20:02:46.619954+00:00",
+      "updated_at": "2026-10-27T20:02:53.577752+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss"
     },
     "7de54dece08c3b44658a496b": {
@@ -11917,9 +11919,10 @@
     "aaf31c8f1697171f163544b2": {
       "published_at": "2026-10-27T19:12:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12039,
       "title": "Trump says he will respect midterm election results “if polls are honest”, warns of possible veto",
-      "updated_at": "2026-10-27T20:02:46.619957+00:00",
+      "updated_at": "2026-10-27T20:02:57.332319+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump/trump-says-he-will-respect-midterm-election-results-if-polls-are-honest-warns-of-possible-veto"
     },
     "ab08da050a21e3dc83d7732e": {
@@ -12878,9 +12881,10 @@
     "b860930dbdfc86a1b1f53626": {
       "published_at": "2026-10-27T18:55:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12037,
       "title": "Neutralise remnants of terrorist ecosystem: J&K L-G Manoj Sinha tells security agencies",
-      "updated_at": "2026-10-27T20:02:46.619937+00:00",
+      "updated_at": "2026-10-27T20:02:49.811498+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/neutralise-remnants-of-terrorist-ecosystem-jk-l-g-manoj-sinha-tells-security-agencies/article71632405.ece"
     },
     "b8725bdd16c16a3ef59a80d1": {
@@ -18159,6 +18163,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T20:02:46.621319+00:00",
+  "last_cycle_at": "2026-10-27T20:03:04.516558+00:00",
   "schema_version": 1
 }
