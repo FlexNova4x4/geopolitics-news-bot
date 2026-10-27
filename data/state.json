@@ -2879,9 +2879,10 @@
     "42ffb2d6587b44ef09a62d5b": {
       "published_at": "2026-10-27T04:07:14+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11270,
       "title": "Member of Prashant Kishor's Jan Suraaj party's communication team goes missing from moving train to Patna",
-      "updated_at": "2026-10-27T05:03:26.658316+00:00",
+      "updated_at": "2026-10-27T05:03:40.332162+00:00",
       "url": "https://www.hindustantimes.com/india-news/member-of-prashant-kishor-jan-suraaj-party-communication-team-goes-missing-from-moving-train-to-patna-101793071060199.html"
     },
     "4309a47fc6e9928613e5ea90": {
@@ -3883,9 +3884,10 @@
     "59865b18da6240b985e3b891": {
       "published_at": "2026-10-27T04:01:55+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11268,
       "title": "‘Satyam Shivam Sundaram’: Rahul Gandhi posts Lord Shiva’s ‘Tripund Tilak’ image ahead of SC hearing on SIR",
-      "updated_at": "2026-10-27T05:03:26.658305+00:00",
+      "updated_at": "2026-10-27T05:03:32.698113+00:00",
       "url": "https://www.tribuneindia.com/news/india/satyam-shivam-sundaram-rahul-gandhi-posts-lord-shivas-tripund-tilak-image-ahead-of-sc-hearing-on-sir"
     },
     "598c679611ff83612efffba5": {
@@ -10831,9 +10833,10 @@
     "f7a5b8c98d936ff6be3d9fef": {
       "published_at": "2026-10-27T03:58:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11267,
       "title": "Netanyahu’s allies explore possible ‘national unity government’ with Eisenkot ahead of Tuesday’s poll: Report",
-      "updated_at": "2026-10-27T05:03:26.658282+00:00",
+      "updated_at": "2026-10-27T05:03:28.948412+00:00",
       "url": "https://www.tribuneindia.com/news/coalition-talks/netanyahus-allies-explore-possible-national-unity-government-with-eisenkot-ahead-of-tuesdays-poll-report"
     },
     "f7b91fafa73e9bff9a1dd2f3": {
@@ -10848,9 +10851,10 @@
     "f7e6ee5d2e55f7aeda62e002": {
       "published_at": "2026-10-27T04:02:49+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11269,
       "title": "Hereditary Prince Alois of Liechtenstein attends ceremonial reception at Rashtrapati Bhavan",
-      "updated_at": "2026-10-27T05:03:26.658311+00:00",
+      "updated_at": "2026-10-27T05:03:36.606022+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-relations/hereditary-prince-alois-of-liechtenstein-attends-ceremonial-reception-at-rashtrapati-bhavan"
     },
     "f7f51206ecc16baa12f85335": {
@@ -11265,6 +11269,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:03:26.659405+00:00",
+  "last_cycle_at": "2026-10-27T05:03:43.533899+00:00",
   "schema_version": 1
 }
