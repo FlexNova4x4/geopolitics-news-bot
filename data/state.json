@@ -273,9 +273,10 @@
     "04842f91ad370e1f2d86e9ea": {
       "published_at": "2026-10-27T10:15:21+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11597,
       "title": "Why entire system working to help pharmaceutical manufacturers, asks SC",
-      "updated_at": "2026-10-27T10:34:46.824301+00:00",
+      "updated_at": "2026-10-27T10:34:53.040899+00:00",
       "url": "https://www.hindustantimes.com/india-news/why-entire-system-working-to-help-pharmaceutical-manufacturers-asks-sc-101793096121635.html"
     },
     "04b0f0953fbbaa43cc19de9e": {
@@ -767,9 +768,10 @@
     "0c845ea173953c6e4050feeb": {
       "published_at": "2026-10-27T10:17:36+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11599,
       "title": "What does Israel's election mean for Gaza and the wider world?",
-      "updated_at": "2026-10-27T10:34:46.824312+00:00",
+      "updated_at": "2026-10-27T10:35:00.655152+00:00",
       "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss"
     },
     "0c8751fdc5115eb71209e41f": {
@@ -9334,9 +9336,10 @@
     "aa0a5fe5a1f01e823fc3e9f3": {
       "published_at": "2026-10-27T10:14:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11596,
       "title": "In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November",
-      "updated_at": "2026-10-27T10:34:46.824281+00:00",
+      "updated_at": "2026-10-27T10:34:49.308380+00:00",
       "url": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece"
     },
     "aa47eade2126e1bfd3596dde": {
@@ -11473,9 +11476,10 @@
     "d184e70719e7033279d78302": {
       "published_at": "2026-10-27T10:16:54+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11598,
       "title": "‘No plan to raise ethanol blending above 20%’: Petroleum Minister Puri",
-      "updated_at": "2026-10-27T10:34:46.824308+00:00",
+      "updated_at": "2026-10-27T10:34:56.769768+00:00",
       "url": "https://www.tribuneindia.com/news/india/no-plan-to-raise-ethanol-blending-above-20-petroleum-minister-puri"
     },
     "d1a28d0033df9de8b77a44bb": {
@@ -14217,6 +14221,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:34:46.825827+00:00",
+  "last_cycle_at": "2026-10-27T10:35:03.857303+00:00",
   "schema_version": 1
 }
