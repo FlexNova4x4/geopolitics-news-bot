@@ -876,9 +876,10 @@
     "0c3e9f4e16f12a4bad970d32": {
       "published_at": "2026-10-27T14:18:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11832,
       "title": "Opposition to raise former Governor Arlekar’s action on PSC in Assembly: Pinarayi Vijayan",
-      "updated_at": "2026-10-27T14:45:40.015590+00:00",
+      "updated_at": "2026-10-27T14:45:43.280828+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/oppositionto-raise-former-governor-arlekars-action-on-psc-in-assembly-pinarayi-vijayan/article71631648.ece"
     },
     "0c4ad1ea0b201f208875eff8": {
@@ -8502,9 +8503,10 @@
     "86969948df6c406c4d83c421": {
       "published_at": "2026-10-27T14:19:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11833,
       "title": "Siddhartha Academy of Higher Education awards ₹5.79 crore scholarships to 1,223 students",
-      "updated_at": "2026-10-27T14:45:40.015606+00:00",
+      "updated_at": "2026-10-27T14:45:47.195034+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/siddhartha-academy-of-higher-education-awards-579-crore-scholarships-to-1223-students/article71631014.ece"
     },
     "86abfe052cd1e76df4035a57": {
@@ -14981,9 +14983,10 @@
     "ed14458a7b05f4c88f4fedf1": {
       "published_at": "2026-10-27T14:19:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11834,
       "title": "DRDO scientist ends life; family alleges work-related pressure",
-      "updated_at": "2026-10-27T14:45:40.015608+00:00",
+      "updated_at": "2026-10-27T14:45:51.127625+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/drdo-scientist-ends-life-family-alleges-work-related-pressure/article71632042.ece"
     },
     "edc148b7049142f2dbe949b1": {
@@ -15079,9 +15082,10 @@
     "eed00797f1344200b7d2b2c4": {
       "published_at": "2026-10-27T14:21:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11835,
       "title": "Egypt detains prominent journalist Lina Attalah after trial",
-      "updated_at": "2026-10-27T14:45:40.015611+00:00",
+      "updated_at": "2026-10-27T14:45:55.131402+00:00",
       "url": "https://www.thehindu.com/news/international/egypt-detains-prominent-journalist-lina-attalah-after-trial/article71632130.ece"
     },
     "ef08eadbad65b1df6aff2271": {
@@ -16332,6 +16336,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:45:40.017094+00:00",
+  "last_cycle_at": "2026-10-27T14:45:58.333541+00:00",
   "schema_version": 1
 }
