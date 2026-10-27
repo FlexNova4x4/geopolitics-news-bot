@@ -8598,9 +8598,10 @@
     "ab572625837526230f196fa7": {
       "published_at": "2026-10-27T06:53:57+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11440,
       "title": "Punjab man groped woman in Gurugram’s CyberHub; cops arrest him from Ferozepur",
-      "updated_at": "2026-10-27T07:34:51.910468+00:00",
+      "updated_at": "2026-10-27T07:34:58.100763+00:00",
       "url": "https://www.hindustantimes.com/india-news/punjab-man-groped-woman-in-gurugram-s-cyberhub-cops-arrest-him-from-ferozepur-101793084038035.html"
     },
     "aba0ba17c15dbef6d9f7f677": {
@@ -9136,9 +9137,10 @@
     "b7be7f1298d6af44902f2aaf": {
       "published_at": "2026-10-27T06:56:30+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11441,
       "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
-      "updated_at": "2026-10-27T07:34:51.910471+00:00",
+      "updated_at": "2026-10-27T07:35:02.058437+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss"
     },
     "b7c906e674285537d2f48578": {
@@ -10052,9 +10054,10 @@
     "c9fb64f1790dee59cfac87a0": {
       "published_at": "2026-10-27T06:57:50+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11442,
       "title": "Poster and graffiti found at Delhi's Shivaji Stadium metro days after airport line defacement, FIR filed",
-      "updated_at": "2026-10-27T07:34:51.910474+00:00",
+      "updated_at": "2026-10-27T07:35:05.797847+00:00",
       "url": "https://www.hindustantimes.com/india-news/poster-and-graffiti-found-at-delhis-shivaji-stadium-metro-days-after-airport-line-defacement-fir-filed-101793082997828.html"
     },
     "cad7ec98c61a8453fc9cdb7f": {
@@ -11362,9 +11365,10 @@
     "e696808a37134cd98617d6eb": {
       "published_at": "2026-10-27T06:50:53+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11439,
       "title": "South Korea’s GDP growth beats forecasts amid AI boom",
-      "updated_at": "2026-10-27T07:34:51.910452+00:00",
+      "updated_at": "2026-10-27T07:34:54.334110+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss"
     },
     "e6d08f453f1ce4106b121346": {
@@ -12813,6 +12817,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:34:51.911813+00:00",
+  "last_cycle_at": "2026-10-27T07:35:08.999820+00:00",
   "schema_version": 1
 }
