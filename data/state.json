@@ -4145,6 +4145,14 @@
       "updated_at": "2026-10-27T13:45:00.511479+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/cybercrime-police-uncover-two-more-sim-box-farms-in-tamil-nadu/article71630855.ece"
     },
+    "411b5e606230522c4cdb2a96": {
+      "published_at": "2026-10-27T15:33:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Dasara’s unsung heroes to be honoured with special lunch",
+      "updated_at": "2026-10-27T15:46:00.499583+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/dasaras-unsung-heroes-to-be-honoured-with-special-lunch/article71632450.ece"
+    },
     "417384d39814286641e51c01": {
       "published_at": "2026-10-27T07:13:20+00:00",
       "source": "amarujala.com",
@@ -17047,6 +17055,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:45:56.678375+00:00",
+  "last_cycle_at": "2026-10-27T15:46:00.501032+00:00",
   "schema_version": 1
 }
