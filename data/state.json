@@ -1017,6 +1017,14 @@
       "updated_at": "2026-10-25T02:35:47.273504+00:00",
       "url": "https://www.dawn.com/news/2039678/pakistan-railways-declares-emergency-until-dec-31-after-repeated-accidents"
     },
+    "16abaaedfb08445d958b73d0": {
+      "published_at": "2026-10-27T02:05:40+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "SC warns Raj govt of CBI probe over illegal sand mining",
+      "updated_at": "2026-10-27T02:40:45.709157+00:00",
+      "url": "https://www.hindustantimes.com/india-news/sc-warns-raj-govt-of-cbi-probe-over-illegal-sand-mining-101793039629801.html"
+    },
     "16b615a53a3377cdf0f4226a": {
       "published_at": "2026-10-26T02:45:39+00:00",
       "source": "dawn.com",
@@ -4220,6 +4228,14 @@
       "updated_at": "2026-10-26T10:46:09.190546+00:00",
       "url": "https://www.tribuneindia.com/news/india/sc-refuses-to-relax-bail-conditions-of-delhi-riots-accused-to-attend-law-classes-in-ghaziabad"
     },
+    "664793c1df6edf847441554c": {
+      "published_at": "2026-10-27T02:00:40+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "After spending ₹12,000 crore, only 21 out of 130 cities meet clean air target",
+      "updated_at": "2026-10-27T02:40:45.709127+00:00",
+      "url": "https://www.hindustantimes.com/india-news/after-spending-12-000-crore-only-21-out-of-130-cities-meet-clean-air-target-101793037829680.html"
+    },
     "66e4a3b18137eacff7929089": {
       "published_at": "2026-10-26T03:38:59+00:00",
       "source": "thehindu.com",
@@ -5279,6 +5295,14 @@
       "updated_at": "2026-10-26T03:22:56.935168+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
     },
+    "7f2710e2a2a9c4133bc5ecde": {
+      "published_at": "2026-10-27T02:01:27+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "updated_at": "2026-10-27T02:40:45.709148+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+    },
     "7f417ff6a9ad84e7362919d6": {
       "published_at": "2026-10-26T05:43:53+00:00",
       "source": "hindustantimes.com",
@@ -5871,6 +5895,14 @@
       "title": "हिमाचल प्रदेश: एक कमरे में पांच कक्षाएं, 17 साल से अपनी छत को तरस रहा सिरमौर जिले का मटक माजरी स्कूल",
       "updated_at": "2026-10-26T05:54:28.432276+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/matak-majri-primary-school-building-crisis-paonta-sahib-sirmaur-2026-10-26"
+    },
+    "8bd501ff6870c87c0790a899": {
+      "published_at": "2026-10-27T02:05:05+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Section 18 of 2023 CEC Act in focus as poll panel defends decision-making before Supreme Court",
+      "updated_at": "2026-10-27T02:40:45.709153+00:00",
+      "url": "https://www.hindustantimes.com/india-news/section-18-of-2023-cec-act-in-focus-as-poll-panel-defends-decision-making-before-supreme-court-gyanesh-kumar-101793065577727.html"
     },
     "8c36a839b4b28884cf7cbe36": {
       "published_at": "2026-10-25T09:29:46+00:00",
@@ -10702,6 +10734,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T02:40:39.592747+00:00",
+  "last_cycle_at": "2026-10-27T02:40:45.710966+00:00",
   "schema_version": 1
 }
