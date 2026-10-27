@@ -1808,6 +1808,14 @@
       "updated_at": "2026-10-27T07:04:23.714673+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/government-school-teachers-association-seeks-cluster-kitchen-centres-for-midday-meal-programme/article71564494.ece"
     },
+    "230b7f0cc428721c66f98bad": {
+      "published_at": "2026-10-27T07:25:31+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "SC defers to Nov 2 hearing on Kerala journalist Siddique Kappan's plea for release of passport",
+      "updated_at": "2026-10-27T08:04:23.710741+00:00",
+      "url": "https://www.hindustantimes.com/india-news/sc-defers-to-nov-2-hearing-on-kerala-journalist-siddique-kappan-s-plea-for-release-of-passport-101793085932061.html"
+    },
     "2328374c66e901f8ace77ac3": {
       "published_at": "2026-10-26T12:38:33+00:00",
       "source": "thehindu.com",
@@ -4358,6 +4366,14 @@
       "updated_at": "2026-10-27T05:35:18.925090+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-municipal-corporation-vehicles-without-number-plates-2026-10-27"
     },
+    "55fde60706cfb8ab19c17081": {
+      "published_at": "2026-10-26T19:52:26+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "शिमला: चक्कर कोर्ट में अधिवक्ताओं ने विधायक हरीश जनारथा का किया स्वागत, रखीं मांगें",
+      "updated_at": "2026-10-27T08:04:23.710718+00:00",
+      "url": "https://www.amarujala.com/video-shots/shimla/video-shimla-chakkar-court-advocates-welcome-mla-harish-janartha-demands-2026-10-27"
+    },
     "5653a520a2ebae29688a3815": {
       "published_at": "2026-10-26T09:03:15+00:00",
       "source": "thehindu.com",
@@ -4698,6 +4714,14 @@
       "title": "What Vucic’s defeat means for Serbia’s foreign policy",
       "updated_at": "2026-10-26T22:44:37.108312+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss"
+    },
+    "5d11dbcca19fb079c2e3c7da": {
+      "published_at": "2026-10-27T07:19:00+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Maharashtra farmers march to Mumbai seeking immediate relief for drought-hit cultivators",
+      "updated_at": "2026-10-27T08:04:23.710738+00:00",
+      "url": "https://www.hindustantimes.com/india-news/maharashtra-farmers-march-to-mumbai-seeking-immediate-relief-for-drought-hit-cultivators-101793085541058.html"
     },
     "5d2e5f9f1e1b5d17cc8ffcfd": {
       "published_at": "2026-10-26T11:10:13+00:00",
@@ -7320,6 +7344,14 @@
       "title": "Father-son duo killed as old building collapses in Northeast Delhi’s Harsh Vihar",
       "updated_at": "2026-10-26T13:39:08.114895+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-harsh-vihar-building-collapse-deaths-october-26-2026/article71626601.ece"
+    },
+    "8fbf4d0baf5e0b5a862dd902": {
+      "published_at": "2026-10-27T07:17:18+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Kerala HC allows couple to hand over baby with skeletal dysplasia to child welfare committee after birth",
+      "updated_at": "2026-10-27T08:04:23.710734+00:00",
+      "url": "https://www.hindustantimes.com/india-news/kerala-hc-allows-couple-to-hand-over-baby-with-skeletal-dysplasia-to-child-welfare-committee-after-birth-101793084477066.html"
     },
     "8fc426f507ae590fdcef27a2": {
       "published_at": "2026-10-26T12:57:06+00:00",
@@ -13042,6 +13074,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:04:19.109332+00:00",
+  "last_cycle_at": "2026-10-27T08:04:23.712359+00:00",
   "schema_version": 1
 }
