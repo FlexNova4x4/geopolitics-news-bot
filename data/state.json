@@ -6003,9 +6003,10 @@
     "74c282ad40cc3180f75dcafd": {
       "published_at": "2026-10-27T07:42:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11479,
       "title": "Pakistani forces accused of abusing women, children during raids in Balochistan’s Kech district",
-      "updated_at": "2026-10-27T08:05:14.879067+00:00",
+      "updated_at": "2026-10-27T08:05:28.668595+00:00",
       "url": "https://www.tribuneindia.com/news/balochistan/pakistani-forces-accused-of-abusing-women-children-during-raids-in-balochistans-kech-district"
     },
     "75158c1834e1c18ed588fa82": {
@@ -8606,9 +8607,10 @@
     "a70ad6f12392ef9ed1d9d2a6": {
       "published_at": "2026-10-27T07:41:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11477,
       "title": "Keralam to step up cybercrime prevention under ‘Cyber Safe Kerala’ initiative; plans police dashboard to track FIRs and complaints",
-      "updated_at": "2026-10-27T08:05:14.879060+00:00",
+      "updated_at": "2026-10-27T08:05:21.149735+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-to-step-up-cybercrime-prevention-under-cyber-safe-kerala-initiative-plans-police-dashboard-to-track-firs-and-complaints/article71630186.ece"
     },
     "a74149f0be2669b92cd8072d": {
@@ -9684,9 +9686,10 @@
     "bbf9a6c33014e217efd379b9": {
       "published_at": "2026-10-27T07:41:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11478,
       "title": "Delhi traders flag potential impact on 21 markets from November 1 Congress rally, seek postponement",
-      "updated_at": "2026-10-27T08:05:14.879064+00:00",
+      "updated_at": "2026-10-27T08:05:24.875728+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-traders-flag-potential-impact-on-21-markets-from-november-1-congress-rally-seek-postponement/article71630172.ece"
     },
     "bc22e1c991e1e70fc6be33c6": {
@@ -9988,9 +9991,10 @@
     "c1e9e2855cfd10c9f7a71b0d": {
       "published_at": "2026-10-27T07:39:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11476,
       "title": "Monsoon wet spell to pause over Tamil Nadu; rain likely to revive on November 1",
-      "updated_at": "2026-10-27T08:05:14.879043+00:00",
+      "updated_at": "2026-10-27T08:05:17.408602+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/monsoon-wet-spell-to-pause-over-tamil-nadu-rain-likely-to-revive-on-november-1-2026/article71627379.ece"
     },
     "c2038ce3804e3dbe20b1c183": {
@@ -13146,6 +13150,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:05:14.880667+00:00",
+  "last_cycle_at": "2026-10-27T08:05:31.870808+00:00",
   "schema_version": 1
 }
