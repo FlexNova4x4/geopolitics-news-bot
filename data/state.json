@@ -3928,6 +3928,14 @@
       "updated_at": "2026-10-26T00:30:33.829484+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
     },
+    "51102a388642958c66c8ca2c": {
+      "published_at": "2026-10-27T06:47:01+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Four new faces join Omar Abdullah’s Cabinet in J&K",
+      "updated_at": "2026-10-27T07:04:45.687259+00:00",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-cabinet-expansion-new-ministers-october-27-2026/article71629956.ece"
+    },
     "512296d1fdccc4355da3c305": {
       "published_at": "2026-10-25T03:04:15+00:00",
       "source": "dawn.com",
@@ -6088,6 +6096,14 @@
       "title": "Tribute paid to polio workers in Quetta",
       "updated_at": "2026-10-25T04:06:09.564448+00:00",
       "url": "https://www.dawn.com/news/2039582/tribute-paid-to-polio-workers-in-quetta"
+    },
+    "7a3b6588a3531a94d40b198a": {
+      "published_at": "2026-10-27T06:44:38+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "New privacy law will shut down news rooms, change the concept of news: Digital News Publishers Association",
+      "updated_at": "2026-10-27T07:04:45.687256+00:00",
+      "url": "https://www.thehindu.com/news/national/new-privacy-law-will-shut-down-news-rooms-change-the-concept-of-news-digital-news-publishers-association/article71630056.ece"
     },
     "7a48f95e2d0a59a5acb7296a": {
       "published_at": "2026-10-25T07:50:02+00:00",
@@ -8729,6 +8745,14 @@
       "updated_at": "2026-10-27T05:37:20.208624+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/direct-recruitment-exam-for-land-surveyors-vaos-goes-off-smoothly-in-yadgir/article71626915.ece"
     },
+    "b1c33fc8f9a5c46d22200356": {
+      "published_at": "2026-10-27T06:47:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "China attempts to change the world with global initiatives",
+      "updated_at": "2026-10-27T07:04:45.687262+00:00",
+      "url": "https://www.tribuneindia.com/news/ccp/china-attempts-to-change-the-world-with-global-initiatives"
+    },
     "b21419f6e818270701e7bd6e": {
       "published_at": "2026-10-25T22:37:22+00:00",
       "source": "amarujala.com",
@@ -9771,6 +9795,14 @@
       "title": "Police hold flag march in Narasaraopet ahead of local body polls",
       "updated_at": "2026-10-25T06:07:01.384982+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-hold-flag-march-in-narasaraopet-ahead-of-local-body-polls/article71619593.ece"
+    },
+    "c5f6925f3015ac9e4999c08d": {
+      "published_at": "2026-10-27T06:44:18+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Former Shimla SSP Sanjeev Gandhi transferred as HP General Industries Corporation MD",
+      "updated_at": "2026-10-27T07:04:45.687239+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/former-shimla-ssp-sanjeev-gandhi-transferred-as-hp-general-industries-corporation-md"
     },
     "c5ff3410ddc891d205020635": {
       "published_at": "2026-10-26T02:31:34+00:00",
@@ -12574,6 +12606,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:04:38.444696+00:00",
+  "last_cycle_at": "2026-10-27T07:04:45.688792+00:00",
   "schema_version": 1
 }
