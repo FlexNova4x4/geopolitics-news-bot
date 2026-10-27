@@ -585,6 +585,14 @@
       "updated_at": "2026-10-26T06:22:30.505944+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/rahul-gandhi-heads-to-ups-sultanpur-for-verdict-in-defamation-case"
     },
+    "0c393ca50ff2215b24188b1c": {
+      "published_at": "2026-10-27T03:39:21+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "PTI's KP chapter says avoided protest after emergency imposition to protect workers' lives",
+      "updated_at": "2026-10-27T04:11:16.962517+00:00",
+      "url": "https://www.dawn.com/news/2040160/ptis-kp-chapter-says-avoided-protest-after-emergency-imposition-to-protect-workers-lives"
+    },
     "0c8751fdc5115eb71209e41f": {
       "published_at": "2026-10-26T08:44:15+00:00",
       "source": "thehindu.com",
@@ -2380,6 +2388,14 @@
       "title": "Imaan, Hadi move SC against IHC order refusing to stay trial in security breach case",
       "updated_at": "2026-10-26T13:45:17.072782+00:00",
       "url": "https://www.dawn.com/news/2039962/imaan-hadi-move-sc-against-ihc-order-refusing-to-stay-trial-in-security-breach-case"
+    },
+    "389214172e85e3cf4c8832d3": {
+      "published_at": "2026-10-27T03:43:39+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Telangana State reservoirs storage below normal; Nagarjunasagar and Singur at lowest, CWC data shows",
+      "updated_at": "2026-10-27T04:11:16.962527+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-state-reservoirs-storage-below-normal-nagarjunasagar-and-singur-at-lowest-cwc-data-shows/article71627926.ece"
     },
     "389687d9e17f1d8c247ef6fe": {
       "published_at": "2026-10-25T17:06:07+00:00",
@@ -5710,6 +5726,14 @@
       "updated_at": "2026-10-26T05:22:29.807987+00:00",
       "url": "https://www.dawn.com/news/2039850/khuhro-rules-out-possibility-of-any-new-province-in-sindh"
     },
+    "8413486b0800ccdbd5841e13": {
+      "published_at": "2026-10-27T03:42:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Israel enemies want us to lose”: Netanyahu makes final pitch as Israel votes today in first election after October 7 massacre",
+      "updated_at": "2026-10-27T04:11:16.962522+00:00",
+      "url": "https://www.tribuneindia.com/news/avigdor-liberman/israel-enemies-want-us-to-lose-netanyahu-makes-final-pitch-as-israel-votes-today-in-first-election-after-october-7-massacre"
+    },
     "841bf32215bb37a6d31dd069": {
       "published_at": "2026-10-26T07:55:57+00:00",
       "source": "thehindu.com",
@@ -8557,6 +8581,14 @@
       "updated_at": "2026-10-25T06:06:57.432774+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/influencer-diya-krishna-faces-potential-legal-notice-for-allegedly-endorsing-divisive-instagram-post/article71622583.ece"
     },
+    "c4c8261ae3cc76a949a9fae8": {
+      "published_at": "2026-10-27T03:24:10+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Survey of unincorporated enterprises to expand, shift to financial-year cycle from 2027",
+      "updated_at": "2026-10-27T04:11:16.962491+00:00",
+      "url": "https://www.hindustantimes.com/india-news/survey-of-unincorporated-enterprises-to-expand-shift-to-financial-year-cycle-from-2027-101793070454701.html"
+    },
     "c57c995aed21182697ff6a61": {
       "published_at": "2026-10-25T04:52:21+00:00",
       "source": "dawn.com",
@@ -11071,6 +11103,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T04:11:10.610062+00:00",
+  "last_cycle_at": "2026-10-27T04:11:16.964376+00:00",
   "schema_version": 1
 }
