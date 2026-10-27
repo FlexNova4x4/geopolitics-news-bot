@@ -3158,9 +3158,10 @@
     "4b492a77223e31223293d106": {
       "published_at": "2026-10-27T02:13:36+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11213,
       "title": "WB film institute defends students’ rustication",
-      "updated_at": "2026-10-27T02:41:09.593513+00:00",
+      "updated_at": "2026-10-27T02:41:19.519513+00:00",
       "url": "https://www.tribuneindia.com/news/india/wb-film-institute-defends-students-rustication"
     },
     "4b5a27ebd37155019263f676": {
@@ -3667,9 +3668,10 @@
     "58b67b19c0b828351d487cde": {
       "published_at": "2026-10-27T02:09:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11211,
       "title": "Twisha case: HC reserves order on Giribala bail plea",
-      "updated_at": "2026-10-27T02:41:09.593491+00:00",
+      "updated_at": "2026-10-27T02:41:11.715415+00:00",
       "url": "https://www.hindustantimes.com/india-news/twisha-case-hc-reserves-order-on-giribala-bail-plea-101793040949633.html"
     },
     "58dd76d6c952bad2ddd61861": {
@@ -4517,9 +4519,10 @@
     "6d5b9eda272f97f2c66e71b3": {
       "published_at": "2026-10-27T02:11:30+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11212,
       "title": "A century-old anthem for a 70-year-old state",
-      "updated_at": "2026-10-27T02:41:09.593509+00:00",
+      "updated_at": "2026-10-27T02:41:15.611427+00:00",
       "url": "https://www.hindustantimes.com/india-news/a-century-old-anthem-for-a-70-year-old-state-101793041789995.html"
     },
     "6ddf9eb8fc22e7e632a37c51": {
@@ -9437,9 +9440,10 @@
     "e1edbb1c228ccc93dc761a81": {
       "published_at": "2026-10-27T02:14:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11214,
       "title": "Cyclone ‘Arnab’ hurtling towards Andhra Pradesh coast",
-      "updated_at": "2026-10-27T02:41:09.593518+00:00",
+      "updated_at": "2026-10-27T02:41:23.407582+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-hurtling-towards-andhra-pradesh-coast/article71629610.ece"
     },
     "e2b8b48cdc3c18ae40503f7a": {
@@ -10770,6 +10774,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T02:41:09.595435+00:00",
+  "last_cycle_at": "2026-10-27T02:41:26.609876+00:00",
   "schema_version": 1
 }
