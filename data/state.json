@@ -11382,6 +11382,14 @@
       "updated_at": "2026-10-26T08:45:19.325320+00:00",
       "url": "https://www.hindustantimes.com/india-news/hd-accuses-shivakumar-of-rs-600-crore-plot-to-politically-eliminate-deve-gowda-family-101792995298760.html"
     },
+    "dd8e1e97240376c764a4b008": {
+      "published_at": "2026-10-27T07:57:57+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Diwali fervour grips New York City with celebrations of Indian culture, culinary heritage",
+      "updated_at": "2026-10-27T08:07:03.789350+00:00",
+      "url": "https://www.tribuneindia.com/news/india/diwali-fervour-grips-new-york-city-with-celebrations-of-indian-culture-culinary-heritage"
+    },
     "dd93e08f862d9c4be4b6f5c1": {
       "published_at": "2026-10-25T16:30:51+00:00",
       "source": "aljazeera.com",
@@ -13258,6 +13266,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:07:00.312400+00:00",
+  "last_cycle_at": "2026-10-27T08:07:03.791035+00:00",
   "schema_version": 1
 }
