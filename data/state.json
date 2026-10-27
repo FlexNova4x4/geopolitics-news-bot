@@ -3707,9 +3707,10 @@
     "4ac3febad06145c23237be4f": {
       "published_at": "2026-10-27T07:07:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11446,
       "title": "Israel President Herzog and his wife cast their votes, call for large turnout",
-      "updated_at": "2026-10-27T07:35:17.401389+00:00",
+      "updated_at": "2026-10-27T07:35:31.400026+00:00",
       "url": "https://www.tribuneindia.com/news/accountability/israel-president-herzog-and-his-wife-cast-their-votes-call-for-large-turnout"
     },
     "4ae7702a22d3612dfcd0dec6": {
@@ -4333,9 +4334,10 @@
     "58575d06d889b647af1814ab": {
       "published_at": "2026-10-27T07:04:36+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11445,
       "title": "शिमला: वोकेशनल केंद्र में युवतियों ने दिखाया सिलाई और मेकअप का हुनर",
-      "updated_at": "2026-10-27T07:35:17.401387+00:00",
+      "updated_at": "2026-10-27T07:35:27.378499+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-shimla-inner-wheel-club-vocational-centre-stitching-makeup-exhibition-2026-10-27"
     },
     "58b67b19c0b828351d487cde": {
@@ -4726,9 +4728,10 @@
     "607bfb1c3bc703d2f7721d5a": {
       "published_at": "2026-10-27T07:03:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11444,
       "title": "At just 2 years and 10 months, Karnataka toddler makes record with ‘tabla talent’",
-      "updated_at": "2026-10-27T07:35:17.401384+00:00",
+      "updated_at": "2026-10-27T07:35:23.656149+00:00",
       "url": "https://www.tribuneindia.com/news/trending/at-just-2-years-and-10-months-karnataka-toddler-makes-record-with-tabla-talent"
     },
     "608ae8ed0efb7f61138ac0ea": {
@@ -11067,9 +11070,10 @@
     "de630742a2b566a7adee0518": {
       "published_at": "2026-10-27T07:02:03+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11443,
       "title": "SC notice on plea alleging Rahul Gandhi pushed pregnant journalist during Oct 12 march",
-      "updated_at": "2026-10-27T07:35:17.401368+00:00",
+      "updated_at": "2026-10-27T07:35:19.718467+00:00",
       "url": "https://www.tribuneindia.com/news/india/sc-notice-on-plea-alleging-rahul-gandhi-pushed-pregnant-journalist-during-oct-12-march"
     },
     "deb7c69e3b7118edcd4cce1a": {
@@ -12849,6 +12853,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:35:17.402714+00:00",
+  "last_cycle_at": "2026-10-27T07:35:34.601821+00:00",
   "schema_version": 1
 }
