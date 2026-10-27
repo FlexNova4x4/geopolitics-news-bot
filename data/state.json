@@ -768,9 +768,10 @@
     "118b609c09f14f4f57c4d78f": {
       "published_at": "2026-10-27T01:32:54+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11197,
       "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-      "updated_at": "2026-10-27T02:09:54.745004+00:00",
+      "updated_at": "2026-10-27T02:09:57.412025+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss"
     },
     "11f78ea66b52139c2900f3c1": {
@@ -4428,9 +4429,10 @@
     "6cb3d7a59bcced7828ddbf37": {
       "published_at": "2026-10-27T01:39:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11198,
       "title": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens",
-      "updated_at": "2026-10-27T02:09:54.745024+00:00",
+      "updated_at": "2026-10-27T02:10:01.133417+00:00",
       "url": "https://www.thehindu.com/news/international/trump-administration-asks-washington-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens/article71629596.ece"
     },
     "6cc7074c10d1959987cf1fa0": {
@@ -4454,9 +4456,10 @@
     "6ddf9eb8fc22e7e632a37c51": {
       "published_at": "2026-10-27T01:43:04+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11199,
       "title": "MLC election results 2026 LIVE: Vote counting for 28 seats across UP, Bihar, Maharashtra, Karnataka to begin at 8am",
-      "updated_at": "2026-10-27T02:09:54.745030+00:00",
+      "updated_at": "2026-10-27T02:10:04.880165+00:00",
       "url": "https://www.hindustantimes.com/india-news/mlc-election-results-2026-live-updates-counting-votes-up-bihar-maharashtra-karnataka-bjp-congress-sp-eci-101793063321273.html"
     },
     "6df5bcebfce060a42070267e": {
@@ -7146,9 +7149,10 @@
     "aad8fcbb477b2f0f4850ae8e": {
       "published_at": "2026-10-27T01:57:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11200,
       "title": "17 remand prisoners escape from a sub-jail in Theni district; combing operations lead to arrest of four persons: IGP",
-      "updated_at": "2026-10-27T02:09:54.745035+00:00",
+      "updated_at": "2026-10-27T02:10:08.768841+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/17-remand-prisoners-escape-from-a-sub-jail-in-theni-district-combing-operations/article71629593.ece"
     },
     "ab32eb13a859b69f063f9d9a": {
@@ -10653,6 +10657,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T02:09:54.746773+00:00",
+  "last_cycle_at": "2026-10-27T02:10:11.971707+00:00",
   "schema_version": 1
 }
