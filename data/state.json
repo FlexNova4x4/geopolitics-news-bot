@@ -4667,9 +4667,10 @@
     "5735d4cd5cbd4e30c5eda304": {
       "published_at": "2026-10-27T09:28:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11572,
       "title": "Omar Abdullah brings Statehood resolution in J&K Assembly amid loud protests by BJP MLAs",
-      "updated_at": "2026-10-27T10:04:37.439861+00:00",
+      "updated_at": "2026-10-27T10:04:47.090030+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-moves-resolution-for-full-statehood-restoration-in-assembly-bjp-mlas-protest/article71507463.ece"
     },
     "57788e56a06dcdd4a4eb61a9": {
@@ -7440,9 +7441,10 @@
     "87fe71df9a0a679652f773a2": {
       "published_at": "2026-10-27T09:37:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11573,
       "title": "US suspends visa-free travel programme for Chinese nationals to Northern Mariana Islands",
-      "updated_at": "2026-10-27T10:04:37.439866+00:00",
+      "updated_at": "2026-10-27T10:04:50.815088+00:00",
       "url": "https://www.tribuneindia.com/news/birth-tourism/us-suspends-visa-free-travel-programme-for-chinese-nationals-to-northern-mariana-islands"
     },
     "8805445d4dc8a6f6155ccd33": {
@@ -9801,9 +9803,10 @@
     "b6739ac67da54070437e587e": {
       "published_at": "2026-10-27T09:24:51+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11570,
       "title": "Friends on WhatsApp, adversaries next door: Across Manipur’s ‘Kargil’ divide",
-      "updated_at": "2026-10-27T10:04:37.439836+00:00",
+      "updated_at": "2026-10-27T10:04:39.641748+00:00",
       "url": "https://www.hindustantimes.com/india-news/friends-on-whatsapp-adversaries-next-door-across-manipur-s-kargil-divide-101793093092457.html"
     },
     "b682ead435b9b31afc698693": {
@@ -10241,9 +10244,10 @@
     "bcdbfe0457d0796cc3042a0e": {
       "published_at": "2026-10-27T09:27:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11571,
       "title": "Sudan drone strikes kill 21, cause mass outages in east amid ongoing violence",
-      "updated_at": "2026-10-27T10:04:37.439857+00:00",
+      "updated_at": "2026-10-27T10:04:43.361430+00:00",
       "url": "https://www.thehindu.com/news/international/drone-strike-kills-21-in-sudan-cripples-power-in-east-amid-ongoing-violence/article71630439.ece"
     },
     "bcdfd6c58704059a4d0da0a9": {
@@ -13983,6 +13987,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:04:37.441366+00:00",
+  "last_cycle_at": "2026-10-27T10:04:54.017291+00:00",
   "schema_version": 1
 }
