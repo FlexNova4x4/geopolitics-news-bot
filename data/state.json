@@ -6625,9 +6625,10 @@
     "6d0a1a176e8d47e08af4e77c": {
       "published_at": "2026-10-26T22:27:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11776,
       "title": "Myanmar Using Fake Paperwork to Conceal Shipments of Iranian Jet Fuel, Reports Claim",
-      "updated_at": "2026-10-27T14:10:35.166878+00:00",
+      "updated_at": "2026-10-27T14:10:39.421023+00:00",
       "url": "https://thediplomat.com/2026/10/myanmar-using-fake-paperwork-to-conceal-shipments-of-iranian-jet-fuel-reports-claim"
     },
     "6d1dcfb1bd86ec91629345f4": {
@@ -7819,9 +7820,10 @@
     "7fe3416123151d93ead7b339": {
       "published_at": "2026-10-27T01:49:37+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11779,
       "title": "स्वर्ण पदक विजेता निषाद कुमार का गृह क्षेत्र में होगा भव्य स्वागत, पैरा एथलीट ने वीडियो जारी कर मांगा आशीर्वाद",
-      "updated_at": "2026-10-27T14:10:35.166899+00:00",
+      "updated_at": "2026-10-27T14:10:51.502063+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/una/video-gold-medalist-nishad-kumar-to-receive-a-grand-welcome-in-his-home-region-the-para-athlete-has-released-a-video-seeking-blessings-2026-10-27"
     },
     "800c3d267e92ae5c036a2b46": {
@@ -7872,9 +7874,10 @@
     "80b98c6f067a8ed48c1a0c09": {
       "published_at": "2026-10-27T01:41:27+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11778,
       "title": "राजनीति: एसआईआर पर असम के मुख्यमंत्री हिमंत बिस्वा की अगुवाई में पदयात्रा निकालेगी भाजपा",
-      "updated_at": "2026-10-27T14:10:35.166896+00:00",
+      "updated_at": "2026-10-27T14:10:47.425741+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/politics-bjp-to-hold-a-march-in-assam-led-by-cm-himanta-biswa-over-the-sir-issue-2026-10-27"
     },
     "80d1513b974e9b68ccf0d9bb": {
@@ -9166,9 +9169,10 @@
     "94a9e8292e9ff0a5cc1fb7df": {
       "published_at": "2026-10-27T01:37:19+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11777,
       "title": "अमर उजाला पर देखें हिमाचल प्रदेश की हर बड़ी खबर",
-      "updated_at": "2026-10-27T14:10:35.166893+00:00",
+      "updated_at": "2026-10-27T14:10:43.323292+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/watch-every-big-news-of-himachal-pradesh-on-amar-ujala-2026-10-27"
     },
     "94ac3732d3c8ed7c2187849f": {
@@ -15828,6 +15832,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:10:35.168359+00:00",
+  "last_cycle_at": "2026-10-27T14:10:54.704040+00:00",
   "schema_version": 1
 }
