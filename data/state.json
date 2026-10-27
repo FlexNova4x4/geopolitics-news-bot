@@ -1451,9 +1451,10 @@
     "1c7896c2c4276698f0ac84ce": {
       "published_at": "2026-10-27T07:21:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11456,
       "title": "Theni jailbreak: Efforts are on to nab 13 prisoners still absconding, says T.N. Law Minister Nirmal Kumar",
-      "updated_at": "2026-10-27T07:36:39.883455+00:00",
+      "updated_at": "2026-10-27T07:36:45.998509+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-efforts-are-on-to-nab-13-prisoners-still-absconding-says-tn-law-minister-nirmal-kumar/article71629734.ece"
     },
     "1c7cd55e7b7c7803e3082eab": {
@@ -6397,9 +6398,10 @@
     "7e180985ea4ffbf8cca02f61": {
       "published_at": "2026-10-27T07:24:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11458,
       "title": "Israeli military says it detained Egyptian who crossed into its territory",
-      "updated_at": "2026-10-27T07:36:39.883464+00:00",
+      "updated_at": "2026-10-27T07:36:53.648195+00:00",
       "url": "https://www.thehindu.com/news/international/israeli-military-says-it-detains-an-egyptian-civilian-who-crossed-the-border-near-nitzana/article71630138.ece"
     },
     "7e6fb35f17d37a83081e5a72": {
@@ -10313,9 +10315,10 @@
     "cc950eef532ff3e1513cd7d6": {
       "published_at": "2026-10-27T07:19:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11455,
       "title": "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
-      "updated_at": "2026-10-27T07:36:39.883435+00:00",
+      "updated_at": "2026-10-27T07:36:42.213906+00:00",
       "url": "https://www.thehindu.com/news/international/mbappe-dropped-by-chinese-brands-for-offending-national-sentiments/article71630086.ece"
     },
     "ccc58351ac825cce4a52baac": {
@@ -12037,9 +12040,10 @@
     "f063b1fc825049118c9d5c4b": {
       "published_at": "2026-10-27T07:22:11+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11457,
       "title": "Mandi News: मंडी में 2,220 पेंशनरों ने नहीं बनवाए ऑनलाइन जीवन प्रमाण पत्र",
-      "updated_at": "2026-10-27T07:36:39.883460+00:00",
+      "updated_at": "2026-10-27T07:36:49.755306+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/2220-pensioners-in-mandi-have-not-obtained-online-life-certificates-mandi-news-c-90-1-ssml1024-219274-2026-10-27"
     },
     "f090428777887eb1c9262e62": {
@@ -12957,6 +12961,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:36:39.885047+00:00",
+  "last_cycle_at": "2026-10-27T07:36:56.850218+00:00",
   "schema_version": 1
 }
