@@ -21,9 +21,10 @@
     "00625d8e81bf9d15a1ebed1c": {
       "published_at": "2026-10-27T13:28:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11767,
       "title": "Andhra Pradesh wins national awards for tourism initiatives",
-      "updated_at": "2026-10-27T13:44:28.792145+00:00",
+      "updated_at": "2026-10-27T13:44:35.668594+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-wins-national-awards-for-tourism-initiatives/article71630154.ece"
     },
     "0067564a24ee603ac38e8ad9": {
@@ -1226,9 +1227,10 @@
     "134f4a22acf39aa58a5014e3": {
       "published_at": "2026-10-27T13:30:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11769,
       "title": "Delays in resolving land-related issues will not be tolerated: Ponguleti",
-      "updated_at": "2026-10-27T13:44:28.792151+00:00",
+      "updated_at": "2026-10-27T13:44:43.453328+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/delays-in-resolving-land-related-issues-will-not-be-tolerated-ponguleti/article71631654.ece"
     },
     "135bf913908718e670af8c71": {
@@ -13829,9 +13831,10 @@
     "e32c7e5285b1a69ed2f09060": {
       "published_at": "2026-10-27T13:27:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11766,
       "title": "Prepare cost estimates for upgrading sports facility in Dharwad, officials told",
-      "updated_at": "2026-10-27T13:44:28.792129+00:00",
+      "updated_at": "2026-10-27T13:44:31.757474+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/prepare-cost-estimates-for-upgrading-sports-facility-in-dharwad-officials-told/article71631672.ece"
     },
     "e3771485bac45dc11005f126": {
@@ -13855,9 +13858,10 @@
     "e3f527088fc673646b7091ec": {
       "published_at": "2026-10-27T13:28:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11768,
       "title": "Protest in Shivamogga over delay in allotting houses under Ashraya Scheme",
-      "updated_at": "2026-10-27T13:44:28.792148+00:00",
+      "updated_at": "2026-10-27T13:44:39.564461+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/protest-in-shivamogga-over-delay-in-allotting-houses-under-ashraya-scheme/article71631044.ece"
     },
     "e4034cc802282ad910ff9752": {
@@ -15738,6 +15742,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:44:28.793770+00:00",
+  "last_cycle_at": "2026-10-27T13:44:46.655291+00:00",
   "schema_version": 1
 }
