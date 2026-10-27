@@ -1773,9 +1773,10 @@
     "2d64d18832e02132a9255ebd": {
       "published_at": "2026-10-26T19:15:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11160,
       "title": "Unusual sighting of greater flamingos at Veeranam lake",
-      "updated_at": "2026-10-27T00:10:22.663143+00:00",
+      "updated_at": "2026-10-27T00:10:24.953356+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/unusual-sighting-of-greater-flamingos-at-veeranam-lake/article71627813.ece"
     },
     "2d9b57a6863ab998e431861c": {
@@ -3514,9 +3515,10 @@
     "5729cb26779de9024bc59320": {
       "published_at": "2026-10-26T20:32:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11161,
       "title": "Solicitor-General to appear for Karnataka in bike-taxi case",
-      "updated_at": "2026-10-27T00:10:22.663174+00:00",
+      "updated_at": "2026-10-27T00:10:28.689314+00:00",
       "url": "https://www.thehindu.com/news/national/solicitor-general-to-appear-for-karnataka-in-bike-taxi-case/article71628382.ece"
     },
     "57355419bee7c0e3521d19e9": {
@@ -4310,9 +4312,10 @@
     "6d1dcfb1bd86ec91629345f4": {
       "published_at": "2026-10-26T23:25:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11163,
       "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
-      "updated_at": "2026-10-27T00:10:22.663184+00:00",
+      "updated_at": "2026-10-27T00:10:36.123547+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss"
     },
     "6df5bcebfce060a42070267e": {
@@ -6471,9 +6474,10 @@
     "a176d95bb554ebbd1769568e": {
       "published_at": "2026-10-26T23:18:31+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11162,
       "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
-      "updated_at": "2026-10-27T00:10:22.663179+00:00",
+      "updated_at": "2026-10-27T00:10:32.403287+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss"
     },
     "a187897975e8b3a3b3829d92": {
@@ -10320,6 +10324,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T00:10:22.664909+00:00",
+  "last_cycle_at": "2026-10-27T00:10:39.325862+00:00",
   "schema_version": 1
 }
