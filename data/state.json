@@ -1802,9 +1802,10 @@
     "1f684e393d33d71a17409d72": {
       "published_at": "2026-10-27T11:07:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11651,
       "title": "Netanyahu casts vote in Israel polls, urges supporters to ‘wake up vote Likud’ as voter turnout hits 31.5% at noon",
-      "updated_at": "2026-10-27T12:16:22.652105+00:00",
+      "updated_at": "2026-10-27T12:16:25.782043+00:00",
       "url": "https://www.tribuneindia.com/news/eisenkot/netanyahu-casts-vote-in-israel-polls-urges-supporters-to-wake-up-vote-likud-as-voter-turnout-hits-31-5-at-noon"
     },
     "200fe6aa427c1eefa44ebf71": {
@@ -2743,9 +2744,10 @@
     "30d3282566deaf02f36354f1": {
       "published_at": "2026-10-27T11:11:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11654,
       "title": "Mahayuti vs MVA: Counting under way for five Maharashtra Legislative Council seats",
-      "updated_at": "2026-10-27T12:16:22.652125+00:00",
+      "updated_at": "2026-10-27T12:16:37.913798+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/five-maharashtra-legislative-council-election-counting-mahayuti-mva-october-27/article71631052.ece"
     },
     "30f2aa4da98503eacba52e9a": {
@@ -3228,9 +3230,10 @@
     "3add48b4852a03941c43dfa8": {
       "published_at": "2026-10-27T11:08:06+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11652,
       "title": "3 arrested for parading teen, father naked in Kolkata; cops take accused bare-chested through locality",
-      "updated_at": "2026-10-27T12:16:22.652119+00:00",
+      "updated_at": "2026-10-27T12:16:29.716231+00:00",
       "url": "https://www.hindustantimes.com/india-news/3-arrested-for-parading-teen-father-naked-in-kolkata-cops-take-accused-bare-chested-through-locality-101793098426636.html"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -8140,9 +8143,10 @@
     "8f98401ac21b808cb0acf584": {
       "published_at": "2026-10-27T11:09:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11653,
       "title": "Bombay High Court stays “Leave India Notice” against actor Imran Khan till November 2",
-      "updated_at": "2026-10-27T12:16:22.652122+00:00",
+      "updated_at": "2026-10-27T12:16:34.010359+00:00",
       "url": "https://www.thehindu.com/news/cities/mumbai/bombay-high-court-stays-leave-india-notice-against-actor-imran-khan-till-november-2/article71630922.ece"
     },
     "8f9d3d3aeea1e920e81f96eb": {
@@ -14703,6 +14707,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:16:22.653470+00:00",
+  "last_cycle_at": "2026-10-27T12:16:41.115729+00:00",
   "schema_version": 1
 }
