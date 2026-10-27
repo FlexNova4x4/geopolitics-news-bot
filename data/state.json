@@ -2144,9 +2144,10 @@
     "200a73ebc52bae2204ff5667": {
       "published_at": "2026-10-27T18:46:50+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12015,
       "title": "Cyclone Arnab: heavy rain brings Vizag to standstill; civic agencies on high alert",
-      "updated_at": "2026-10-27T19:02:41.897478+00:00",
+      "updated_at": "2026-10-27T19:02:56.802997+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-heavy-rain-brings-vizag-to-standstill-civic-agencies-on-high-alert/article71632812.ece"
     },
     "200fe6aa427c1eefa44ebf71": {
@@ -2628,9 +2629,10 @@
     "26dd2c26783fde2f386c5975": {
       "published_at": "2026-10-27T18:37:50+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12014,
       "title": "Justice Ayesha Malik challenges assumptions blaming women for 'inviting' rape",
-      "updated_at": "2026-10-27T19:02:41.897475+00:00",
+      "updated_at": "2026-10-27T19:02:53.004245+00:00",
       "url": "https://www.dawn.com/news/2040251/justice-ayesha-malik-challenges-assumptions-blaming-women-for-inviting-rape"
     },
     "26dd5b47d03916618a208a38": {
@@ -12474,9 +12476,10 @@
     "b63c71edb881e6106775a702": {
       "published_at": "2026-10-27T18:31:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12013,
       "title": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
-      "updated_at": "2026-10-27T19:02:41.897471+00:00",
+      "updated_at": "2026-10-27T19:02:49.128165+00:00",
       "url": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece"
     },
     "b65b2af001c02f88194c1c1e": {
@@ -17050,9 +17053,10 @@
     "f57afff2859fda601dea74b9": {
       "published_at": "2026-10-27T18:31:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12012,
       "title": "A Delhi event unveils fault lines in the Dalit-OBC formulation of SP politics",
-      "updated_at": "2026-10-27T19:02:41.897450+00:00",
+      "updated_at": "2026-10-27T19:02:45.276347+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/a-delhi-event-unveils-fault-lines-in-the-dalit-obc-formulation-of-sp-politics/article71632477.ece"
     },
     "f5ac949b61ab526bee0feccd": {
@@ -17934,6 +17938,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T19:02:41.898786+00:00",
+  "last_cycle_at": "2026-10-27T19:03:00.004930+00:00",
   "schema_version": 1
 }
