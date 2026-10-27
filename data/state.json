@@ -7040,9 +7040,10 @@
     "6a59736be554ac035e49a0c2": {
       "published_at": "2026-10-27T17:03:45+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11982,
       "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
-      "updated_at": "2026-10-27T17:41:31.105901+00:00",
+      "updated_at": "2026-10-27T17:41:38.035313+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss"
     },
     "6a7b3fd69ceb0551ff4a4945": {
@@ -10821,9 +10822,10 @@
     "9fd3f2cec6c53911131651b3": {
       "published_at": "2026-10-27T17:02:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11981,
       "title": "European Parliament Foreign Affairs Committee chair David McAllister meets Om Birla, discusses India-EU ties",
-      "updated_at": "2026-10-27T17:41:31.105884+00:00",
+      "updated_at": "2026-10-27T17:41:34.115882+00:00",
       "url": "https://www.tribuneindia.com/news/david-mcallister/european-parliament-foreign-affairs-committee-chair-david-mcallister-meets-om-birla-discusses-india-eu-ties"
     },
     "9fe2e01b72f50a999a8cc72a": {
@@ -13140,9 +13142,10 @@
     "c0334e402a8821004866a362": {
       "published_at": "2026-10-27T17:08:24+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11983,
       "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-      "updated_at": "2026-10-27T17:41:31.105905+00:00",
+      "updated_at": "2026-10-27T17:41:42.077474+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
     },
     "c03b353eb4beb9db435166f7": {
@@ -15673,9 +15676,10 @@
     "e70482d6876caad022780f1b": {
       "published_at": "2026-10-27T17:10:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11984,
       "title": "Fire engulfs Seoul’s last shanty-town, forcing hundreds to evacuate",
-      "updated_at": "2026-10-27T17:41:31.105909+00:00",
+      "updated_at": "2026-10-27T17:41:45.924551+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss"
     },
     "e715cb7b6794c1d495168141": {
@@ -17655,6 +17659,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:41:31.107573+00:00",
+  "last_cycle_at": "2026-10-27T17:41:49.126777+00:00",
   "schema_version": 1
 }
