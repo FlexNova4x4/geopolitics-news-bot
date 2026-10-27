@@ -1460,9 +1460,10 @@
     "2300b2579a2500899a387252": {
       "published_at": "2026-10-27T02:19:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11216,
       "title": "Bolsonaro’s party says it recognises Lula’s election win in Brazil",
-      "updated_at": "2026-10-27T02:41:30.141852+00:00",
+      "updated_at": "2026-10-27T02:41:35.761240+00:00",
       "url": "https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece"
     },
     "2328374c66e901f8ace77ac3": {
@@ -10086,9 +10087,10 @@
     "f12a1ad96fc63a024b4f839c": {
       "published_at": "2026-10-27T02:17:06+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11215,
       "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-      "updated_at": "2026-10-27T02:41:30.141834+00:00",
+      "updated_at": "2026-10-27T02:41:32.035713+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss"
     },
     "f17074f2bff6dfa7b5decd9b": {
@@ -10790,6 +10792,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T02:41:30.143269+00:00",
+  "last_cycle_at": "2026-10-27T02:41:38.963543+00:00",
   "schema_version": 1
 }
