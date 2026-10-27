@@ -1335,9 +1335,10 @@
     "13f65fee8ec2d78080d98dbb": {
       "published_at": "2026-10-27T13:55:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11813,
       "title": "Develop affordable, sustainable food packaging technologies: DRDO scientist",
-      "updated_at": "2026-10-27T14:43:30.272955+00:00",
+      "updated_at": "2026-10-27T14:43:36.820251+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/develop-affordable-sustainable-food-packaging-technologies-drdo-scientist/article71629893.ece"
     },
     "13ff1cd56660f30975df7a4b": {
@@ -3976,9 +3977,10 @@
     "41b55ebf637cf993fe82ad51": {
       "published_at": "2026-10-27T13:56:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11814,
       "title": "Take action against negligent prison officials: Anbumani",
-      "updated_at": "2026-10-27T14:43:30.272958+00:00",
+      "updated_at": "2026-10-27T14:43:40.684312+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/take-action-against-negligent-prison-officials-anbumani/article71631508.ece"
     },
     "41f75f87ed8c8e79c9ea4ae6": {
@@ -7854,9 +7856,10 @@
     "7cd28d7a0d44826d4dd222b2": {
       "published_at": "2026-10-27T13:54:43+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11812,
       "title": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
-      "updated_at": "2026-10-27T14:43:30.272940+00:00",
+      "updated_at": "2026-10-27T14:43:32.954479+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss"
     },
     "7ce96821d833389325c7eb85": {
@@ -11222,9 +11225,10 @@
     "b39c462200e0c2e80897c3bf": {
       "published_at": "2026-10-27T13:57:54+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11815,
       "title": "25 rounds of military talks stabilised India-China ties, but normalisation hinges on border peace: Shringla",
-      "updated_at": "2026-10-27T14:43:30.272960+00:00",
+      "updated_at": "2026-10-27T14:43:44.552452+00:00",
       "url": "https://www.tribuneindia.com/news/india/25-rounds-of-military-talks-stabilised-india-china-ties-but-normalisation-hinges-on-border-peace-shringla"
     },
     "b3a60fa3671009c5c8257212": {
@@ -16152,6 +16156,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:43:30.274330+00:00",
+  "last_cycle_at": "2026-10-27T14:43:47.754426+00:00",
   "schema_version": 1
 }
