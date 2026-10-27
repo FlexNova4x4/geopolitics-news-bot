@@ -639,6 +639,14 @@
       "updated_at": "2026-10-25T07:34:53.275855+00:00",
       "url": "https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece"
     },
+    "08f61633443794391a7bf714": {
+      "published_at": "2026-10-27T14:00:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Sharmila urges SEC to postpone urban local body polls in view of cyclone threat",
+      "updated_at": "2026-10-27T14:44:24.430453+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sharmila-urges-sec-to-postpone-urban-local-body-polls-in-view-of-cyclone-threat/article71631835.ece"
+    },
     "0906678980cab96aeb578af6": {
       "published_at": "2026-10-27T05:43:48+00:00",
       "source": "amarujala.com",
@@ -5338,6 +5346,14 @@
       "title": "Elephant calf dies after slipping down slope in Wayanad",
       "updated_at": "2026-10-27T08:06:19.465939+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/elephant-calf-dies-after-slipping-down-slope-in-wayanad/article71630232.ece"
+    },
+    "56e2a0cb74b8714336db4485": {
+      "published_at": "2026-10-27T14:02:42+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "CIIL launches open-source speech AI ecosystem for Indian languages",
+      "updated_at": "2026-10-27T14:44:24.430473+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/ciil-launches-open-source-speech-ai-ecosystem-for-indian-languages/article71631788.ece"
     },
     "5717bd2caf2d34fa21e56e0a": {
       "published_at": "2026-10-27T06:14:05+00:00",
@@ -10889,6 +10905,14 @@
       "updated_at": "2026-10-27T00:41:01.298622+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/study-major-revelation-number-of-dry-days-increasing-in-the-western-himalayas-situation-in-himachal-is-conc-2026-10-26"
     },
+    "ae0cd974753256753a1b8afd": {
+      "published_at": "2026-10-27T14:01:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Syria condemns deadly Jordan strikes as ‘unacceptable violation’",
+      "updated_at": "2026-10-27T14:44:24.430471+00:00",
+      "url": "https://www.thehindu.com/news/international/syria-condemns-deadly-jordan-strikes-as-unacceptable-violation/article71631979.ece"
+    },
     "ae166d3bf44a62ec49167947": {
       "published_at": "2026-10-26T00:45:15+00:00",
       "source": "amarujala.com",
@@ -15573,6 +15597,14 @@
       "updated_at": "2026-10-24T22:36:56.620531+00:00",
       "url": "https://www.youtube.com/watch?v=XZOj6eFnCB0"
     },
+    "f72506803147adfa57fb67de": {
+      "published_at": "2026-10-27T14:00:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Delhi Police grants Congress rally at Ramlila Maidan with strict conditions, denies mock impeachment request",
+      "updated_at": "2026-10-27T14:44:24.430468+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-grants-congress-rally-at-ramlila-maidan-with-strict-conditions-denies-mock-impeachment-request/article71631883.ece"
+    },
     "f731bead83b21dffde58848d": {
       "published_at": "2026-10-25T09:26:57+00:00",
       "source": "thehindu.com",
@@ -16192,6 +16224,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:44:16.741583+00:00",
+  "last_cycle_at": "2026-10-27T14:44:24.431979+00:00",
   "schema_version": 1
 }
