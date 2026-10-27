@@ -675,6 +675,14 @@
       "updated_at": "2026-10-26T11:44:49.505893+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/all-stakeholders-need-to-find-solutions-to-issues-of-sugarcane-growers-says-karnataka-cm/article71626500.ece"
     },
+    "0a95e4b0cec6e28a7a7562ce": {
+      "published_at": "2026-10-27T11:22:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court defers Kerala journalist Siddique Kappan's plea for release of passport to November 2",
+      "updated_at": "2026-10-27T12:17:14.971072+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-defers-siddique-kappans-passport-release-plea-to-november-2/article71630729.ece"
+    },
     "0ad86da679ca75352a3bf1e0": {
       "published_at": "2026-10-25T06:52:23+00:00",
       "source": "hindustantimes.com",
@@ -9396,6 +9404,14 @@
       "updated_at": "2026-10-26T09:16:22.678404+00:00",
       "url": "https://www.tribuneindia.com/news/india/part-of-political-process-sc-junks-plea-against-6-aiadmk-mlas-who-defected-to-tvk"
     },
+    "a500524a0860c7cfec168386": {
+      "published_at": "2026-10-27T11:24:06+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Tripura CM slams Congress president’s remarks on Modi",
+      "updated_at": "2026-10-27T12:17:14.971097+00:00",
+      "url": "https://www.thehindu.com/news/national/tripura/tripura-cm-slams-congress-presidents-remarks-on-modi/article71631028.ece"
+    },
     "a506a69459cf8c8e4ee3d549": {
       "published_at": "2026-10-25T03:33:25+00:00",
       "source": "thehindu.com",
@@ -9611,6 +9627,14 @@
       "title": "Pakistan, China call for enhanced cooperation between foreign ministries: FO",
       "updated_at": "2026-10-26T13:38:02.540716+00:00",
       "url": "https://www.dawn.com/news/2039966/pakistan-china-call-for-enhanced-cooperation-between-foreign-ministries-fo"
+    },
+    "a8b557c74308b442270c6688": {
+      "published_at": "2026-10-27T11:23:19+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Netherlands makes U-turn over Eurovision return",
+      "updated_at": "2026-10-27T12:17:14.971094+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss"
     },
     "a8c2acd357780544054ea091": {
       "published_at": "2026-10-25T14:42:36+00:00",
@@ -12282,6 +12306,14 @@
       "updated_at": "2026-10-27T05:37:31.460549+00:00",
       "url": "https://www.hindustantimes.com/india-news/meghalaya-sir-2-foreigners-excluded-2-18-million-electors-in-final-roll-101793076357025.html"
     },
+    "d640d6d4ac5474dc3916d0b1": {
+      "published_at": "2026-10-27T11:19:46+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
+      "updated_at": "2026-10-27T12:17:14.971053+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss"
+    },
     "d6871d0535130f899b48193f": {
       "published_at": "2026-10-26T11:27:39+00:00",
       "source": "feeds.bbci.co.uk",
@@ -14743,6 +14775,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:17:06.580339+00:00",
+  "last_cycle_at": "2026-10-27T12:17:14.972463+00:00",
   "schema_version": 1
 }
