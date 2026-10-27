@@ -12764,9 +12764,10 @@
     "ba3ef32da9e54ac8bd39c848": {
       "published_at": "2026-10-27T17:16:11+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11989,
       "title": "Vijay wasn’t asked to convert to Hinduism, only affirm faith in deity: Madras HC",
-      "updated_at": "2026-10-27T17:42:21.313568+00:00",
+      "updated_at": "2026-10-27T17:42:24.777837+00:00",
       "url": "https://www.hindustantimes.com/india-news/vijay-wasn-t-asked-to-convert-to-hinduism-only-affirm-faith-in-deity-madras-hc-101793120514510.html"
     },
     "ba558963e8834e3e432f3cef": {
@@ -12925,9 +12926,10 @@
     "bcbbc07d5787bf31297cc34a": {
       "published_at": "2026-10-27T17:24:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11990,
       "title": "U.P. Chief Electoral Officer apologises for ‘tone, language and sharpness’ of social media posts",
-      "updated_at": "2026-10-27T17:42:21.313583+00:00",
+      "updated_at": "2026-10-27T17:42:28.800431+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-chief-electoral-officer-apologises-for-tone-language-and-sharpness-of-social-media-posts/article71632474.ece"
     },
     "bcdbfe0457d0796cc3042a0e": {
@@ -16259,9 +16261,10 @@
     "ee4b0c248b67922528dd0d58": {
       "published_at": "2026-10-27T17:31:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11992,
       "title": "SSB chief to take additional charge of ITBP as D-G retires",
-      "updated_at": "2026-10-27T17:42:21.313589+00:00",
+      "updated_at": "2026-10-27T17:42:36.509852+00:00",
       "url": "https://www.thehindu.com/news/national/ssb-chief-to-take-additional-charge-of-itbp-as-d-g-retires/article71632607.ece"
     },
     "ee5f44a193685deb50936b4c": {
@@ -17004,9 +17007,10 @@
     "f73dff1900b32994b7f83d55": {
       "published_at": "2026-10-27T17:27:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11991,
       "title": "Norway, Finland leaders hold 'frank and substantive' talk with Putin",
-      "updated_at": "2026-10-27T17:42:21.313586+00:00",
+      "updated_at": "2026-10-27T17:42:32.644810+00:00",
       "url": "https://www.thehindu.com/news/international/norway-finland-leaders-hold-frank-and-substantive-talk-with-putin/article71632960.ece"
     },
     "f7a5b8c98d936ff6be3d9fef": {
@@ -17727,6 +17731,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:42:21.315090+00:00",
+  "last_cycle_at": "2026-10-27T17:42:39.712006+00:00",
   "schema_version": 1
 }
