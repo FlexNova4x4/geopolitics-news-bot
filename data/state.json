@@ -273,9 +273,10 @@
     "05d89245d8d8fb6906831798": {
       "published_at": "2026-10-27T01:59:18+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11206,
       "title": "Delhi records season-low for second day as temp drops to 16.2°C, air quality worsens",
-      "updated_at": "2026-10-27T02:40:22.311959+00:00",
+      "updated_at": "2026-10-27T02:40:36.390394+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-records-season-low-16-2-c-for-second-day-as-air-quality-worsens-101793065318810.html"
     },
     "05e0ca9115aec66df425cb7f": {
@@ -2914,9 +2915,10 @@
     "476f7f66194b68743e633d18": {
       "published_at": "2026-10-26T18:51:03+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11204,
       "title": "India, Mexico to launch trade deal talks this week",
-      "updated_at": "2026-10-27T02:40:22.311946+00:00",
+      "updated_at": "2026-10-27T02:40:28.566371+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-mexico-to-launch-trade-deal-talks-this-week-101793040663776.html"
     },
     "476fcdd51b26ff98975ea435": {
@@ -4544,9 +4546,10 @@
     "6e98e7f73b9e48567a7c6be3": {
       "published_at": "2026-10-26T18:46:19+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11203,
       "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
-      "updated_at": "2026-10-27T02:40:22.311919+00:00",
+      "updated_at": "2026-10-27T02:40:24.824897+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss"
     },
     "6e9cf2331b193e7ad012378f": {
@@ -5737,9 +5740,10 @@
     "878739c3fac2c86a401ba93e": {
       "published_at": "2026-10-27T00:31:11+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11205,
       "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-      "updated_at": "2026-10-27T02:40:22.311953+00:00",
+      "updated_at": "2026-10-27T02:40:32.665961+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss"
     },
     "87d9cbfe6869605c8d6d099e": {
@@ -10698,6 +10702,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T02:40:22.314081+00:00",
+  "last_cycle_at": "2026-10-27T02:40:39.592747+00:00",
   "schema_version": 1
 }
