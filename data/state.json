@@ -1484,6 +1484,14 @@
       "updated_at": "2026-10-26T13:01:26.211879+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/sirmour/video-paonta-sahib-ashi-sharma-secures-first-place-in-a-dance-competition-held-in-panchkula-2026-10-26"
     },
+    "22ea14075c41ace447bf866e": {
+      "published_at": "2026-10-27T03:06:00+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "MCD to procure 98,500 vials of anti-rabies vaccine",
+      "updated_at": "2026-10-27T03:41:42.722956+00:00",
+      "url": "https://www.hindustantimes.com/india-news/mcd-to-procure-98-500-vials-of-anti-rabies-vaccine-101793070295651.html"
+    },
     "2300b2579a2500899a387252": {
       "published_at": "2026-10-27T02:19:59+00:00",
       "source": "thehindu.com",
@@ -4506,6 +4514,14 @@
       "title": "IndiGo to shift 12 daily international departures from Mumbai’s CSMIA to Navi Mumbai airport from February",
       "updated_at": "2026-10-25T12:04:33.503575+00:00",
       "url": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece"
+    },
+    "6beb965a5c0b5ca84dd0c71f": {
+      "published_at": "2026-10-27T01:57:49+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "FCC rejects private ownership claim on state land",
+      "updated_at": "2026-10-27T03:41:42.722926+00:00",
+      "url": "https://www.dawn.com/news/2040119/fcc-rejects-private-ownership-claim-on-state-land"
     },
     "6c55a5a25076b65b9f6529d3": {
       "published_at": "2026-10-26T05:27:16+00:00",
@@ -7532,6 +7548,14 @@
       "updated_at": "2026-10-25T16:12:54.400042+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-air-quality-dips-to-poor-category-aqi-touches-254/article71623259.ece"
     },
+    "b1a21c422cee3346a4e276b5": {
+      "published_at": "2026-10-27T03:08:27+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Lok Sabha speaker Om Birla urges Brics parliaments to turn dialogue into concrete outcomes",
+      "updated_at": "2026-10-27T03:41:42.722961+00:00",
+      "url": "https://www.hindustantimes.com/india-news/lok-sabha-speaker-om-birla-urges-brics-parliaments-to-turn-dialogue-into-concrete-outcomes-101793065743005.html"
+    },
     "b1a54a2c726a43a3df292759": {
       "published_at": "2026-10-26T10:12:24+00:00",
       "source": "hindustantimes.com",
@@ -9706,6 +9730,14 @@
       "updated_at": "2026-10-26T00:53:00.374249+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangras-untapped-tourism-potential-awaits-discovery"
     },
+    "e556414fc9093d9fd0a11c78": {
+      "published_at": "2026-10-27T01:58:00+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Balochistan Assembly shelves resolution against Sardari system",
+      "updated_at": "2026-10-27T03:41:42.722950+00:00",
+      "url": "https://www.dawn.com/news/2040072/balochistan-assembly-shelves-resolution-against-sardari-system"
+    },
     "e5f3482befc22ed1ccad3206": {
       "published_at": "2026-10-26T08:18:39+00:00",
       "source": "aljazeera.com",
@@ -10936,6 +10968,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:12:22.973751+00:00",
+  "last_cycle_at": "2026-10-27T03:41:42.724747+00:00",
   "schema_version": 1
 }
