@@ -7951,9 +7951,10 @@
     "9f66922786259622a4387148": {
       "published_at": "2026-10-27T06:54:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11427,
       "title": "SC collegium recommends four judges for appointment as High Court chief justices",
-      "updated_at": "2026-10-27T07:05:33.801752+00:00",
+      "updated_at": "2026-10-27T07:05:47.980716+00:00",
       "url": "https://www.thehindu.com/news/national/sc-collegium-recommends-four-judges-for-appointment-as-high-court-chief-justices/article71630086.ece"
     },
     "a02e68682864335601c4b5e3": {
@@ -11166,9 +11167,10 @@
     "e4adbf5f353584c04c54be7f": {
       "published_at": "2026-10-27T06:54:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11426,
       "title": "‘Desist from targeting Hindu festivals, economy’: VHP to Opposition over November 1 rally",
-      "updated_at": "2026-10-27T07:05:33.801749+00:00",
+      "updated_at": "2026-10-27T07:05:44.207167+00:00",
       "url": "https://www.thehindu.com/news/national/desist-from-targeting-hindu-festivals-economy-vhp-to-opposition-over-november-1-rally/article71630070.ece"
     },
     "e4b1def385636871dcc6f9b6": {
@@ -11759,9 +11761,10 @@
     "f00f582151babfb5525c52a3": {
       "published_at": "2026-10-27T06:54:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11425,
       "title": "कुल्लू दशहरा: देवी-देवताओं के नजराने में 5% और बजंतरियों के भत्ते में 10% बढ़ोतरी; सीएम सुक्खू ने किया एलान",
-      "updated_at": "2026-10-27T07:05:33.801745+00:00",
+      "updated_at": "2026-10-27T07:05:40.300797+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/kullu-dussehra-devta-nazarana-and-bajantri-allowance-hike-2026-10-27"
     },
     "f04501bdce4a6409b0e94c67": {
@@ -12136,9 +12139,10 @@
     "f653cf3b7e6b67963a5d6e61": {
       "published_at": "2026-10-27T06:52:48+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11424,
       "title": "Bilaspur News: बिलासपुर में जुटेंगे अंडर-14 के 1320 खिलाड़ी",
-      "updated_at": "2026-10-27T07:05:33.801728+00:00",
+      "updated_at": "2026-10-27T07:05:36.405514+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/1320-under-14-players-to-gather-in-bilaspur-bilaspur-news-c-92-1-bls1002-170723-2026-10-27"
     },
     "f66c511734264feb8f718d0c": {
@@ -12678,6 +12682,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:05:33.803378+00:00",
+  "last_cycle_at": "2026-10-27T07:05:51.182784+00:00",
   "schema_version": 1
 }
