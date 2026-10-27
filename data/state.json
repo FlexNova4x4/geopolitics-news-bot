@@ -468,6 +468,14 @@
       "updated_at": "2026-10-25T07:34:53.275855+00:00",
       "url": "https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece"
     },
+    "0906678980cab96aeb578af6": {
+      "published_at": "2026-10-27T05:43:48+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हमीरपुर: दिल्ली में विश्राम गृह की बदहाली पर भड़की एचआरटीसी कंडक्टर यूनियन, रूट बंद करने की चेतावनी",
+      "updated_at": "2026-10-27T06:05:58.401109+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hrtc-conductor-union-warns-delhi-routes-may-be-closed-rest-house-facilities-2026-10-27"
+    },
     "091e50dcca9cc58a1e451e7d": {
       "published_at": "2026-10-25T18:47:33+00:00",
       "source": "hindustantimes.com",
@@ -4832,6 +4840,14 @@
       "updated_at": "2026-10-26T01:22:33.493622+00:00",
       "url": "https://www.tribuneindia.com/news/india/pm-modi-launches-rbis-data-centre-cybersecurity-institute-in-odisha"
     },
+    "691e0ba0b028f3b08a67ffb7": {
+      "published_at": "2026-10-27T05:44:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "What the new E100 vehicle rules mean | Explained",
+      "updated_at": "2026-10-27T06:05:58.401126+00:00",
+      "url": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
+    },
     "695ca1b9363c41c7ad66d9e1": {
       "published_at": "2026-10-27T04:07:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -5818,6 +5834,14 @@
       "title": "Delhi Police revamps website, adds emergency contact widget, section for legal updates",
       "updated_at": "2026-10-27T04:11:03.485121+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-police-revamps-website-adds-emergency-contact-widget-section-for-legal-updates-101793071315580.html"
+    },
+    "7b8ac08390a32740dcb00fdc": {
+      "published_at": "2026-10-27T05:44:30+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सोलन पहुंचे कथावाचक देवकीनंदन ठाकुर, सनातन संस्कृति और धार्मिक आस्था से जुड़ने का दिया संदेश",
+      "updated_at": "2026-10-27T06:05:58.401133+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-devkinandan-thakur-solan-press-conference-sanatan-culture-2026-10-27"
     },
     "7ba3ee19fbc6da2f7d46f1fc": {
       "published_at": "2026-10-26T12:48:03+00:00",
@@ -11317,6 +11341,14 @@
       "updated_at": "2026-10-26T06:24:26.835668+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/vgc-mandi-daughters-win-inter-college-women-kabaddi-championship-mandi-news-c-90-1-mnd1021-219163-2026-10-25"
     },
+    "f1daa71b38fa915a189c0b62": {
+      "published_at": "2026-10-27T05:44:15+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Over 4,000 govt school buildings declared ‘dilapidated’ in KP",
+      "updated_at": "2026-10-27T06:05:58.401130+00:00",
+      "url": "https://www.dawn.com/news/2040048/over-4000-govt-school-buildings-declared-dilapidated-in-kp"
+    },
     "f30d142922e2ed99df3863c6": {
       "published_at": "2026-10-25T09:28:42+00:00",
       "source": "thehindu.com",
@@ -12061,6 +12093,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:05:52.672646+00:00",
+  "last_cycle_at": "2026-10-27T06:05:58.402587+00:00",
   "schema_version": 1
 }
