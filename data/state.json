@@ -606,9 +606,10 @@
     "09ab607dadb2bfeaa60993ea": {
       "published_at": "2026-10-26T21:17:47+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11542,
       "title": "हिमाचल पुलिस ने पकड़ी नशे की खेप: शिमला के शोघी में छह करोड़ का चिट्टा बरामद, पंजाब का आरोपी गिरफ्तार",
-      "updated_at": "2026-10-27T09:34:25.769420+00:00",
+      "updated_at": "2026-10-27T09:34:28.280381+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-shoghi-police-seize-heroin-worth-six-crore-2026-10-27"
     },
     "0a15affbb3f0fc4d24a69c87": {
@@ -5401,9 +5402,10 @@
     "67243ac7cc86b233522a62d1": {
       "published_at": "2026-10-26T21:19:12+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11543,
       "title": "ऊना: एचआरटीसी पेंशनरों की चेतावनी, मांगें पूरी नहीं हुईं तो 3 नवंबर से निगम मुख्यालय का अनिश्चितकालीन घेराव",
-      "updated_at": "2026-10-27T09:34:25.769438+00:00",
+      "updated_at": "2026-10-27T09:34:32.222553+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-hrtc-retired-employees-indefinite-protest-from-november-3-pending-dues-2026-10-27"
     },
     "678653f20fa6e9d1577ed4a2": {
@@ -7403,9 +7405,10 @@
     "8a9577fd2bab4245f01d1352": {
       "published_at": "2026-10-27T08:47:22+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11545,
       "title": "India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri",
-      "updated_at": "2026-10-27T09:34:25.769446+00:00",
+      "updated_at": "2026-10-27T09:34:40.410881+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-ramped-up-lpg-output-diversified-imports-to-weather-hormuz-crisis-union-minister-puri-101793090842952.html"
     },
     "8aa0deec5984dc494e3557ba": {
@@ -11329,9 +11332,10 @@
     "d508b60b9b67578eb6c4f1ea": {
       "published_at": "2026-10-26T21:19:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11544,
       "title": "ऊना: एनएसएस शिविर के छठे दिन स्वयंसेवियों ने ढोखीलां गांव में चलाया स्वच्छता अभियान",
-      "updated_at": "2026-10-27T09:34:25.769443+00:00",
+      "updated_at": "2026-10-27T09:34:36.386086+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-bangana-raipur-maidan-school-nss-camp-cleanliness-drive-dhokhilan-2026-10-27"
     },
     "d51f6ad35b5b5481439ac051": {
@@ -13731,6 +13735,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:34:25.771043+00:00",
+  "last_cycle_at": "2026-10-27T09:34:43.613237+00:00",
   "schema_version": 1
 }
