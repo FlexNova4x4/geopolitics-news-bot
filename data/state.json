@@ -819,6 +819,14 @@
       "updated_at": "2026-10-27T02:09:57.412025+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss"
     },
+    "11bfad4ab050ecc72c3a5246": {
+      "published_at": "2026-10-27T03:17:17+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "17 convicts escape Tamil Nadu jail after staging epilepsy ruse",
+      "updated_at": "2026-10-27T04:10:52.942461+00:00",
+      "url": "https://www.hindustantimes.com/india-news/17-convicts-escape-tamil-nadu-after-claiming-one-of-them-was-suffering-was-epilepsy-theni-inmates-jailbreak-101793070884454.html"
+    },
     "11f78ea66b52139c2900f3c1": {
       "published_at": "2026-10-25T02:21:56+00:00",
       "source": "thehindu.com",
@@ -5333,6 +5341,14 @@
       "updated_at": "2026-10-26T06:23:19.724071+00:00",
       "url": "https://www.thehindu.com/news/national/pm-modi-congratulates-lula-on-re-election-in-brazil/article71625738.ece"
     },
+    "7abf439c65972dea7aedab84": {
+      "published_at": "2026-10-27T03:22:10+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Delhi Police revamps website, adds emergency contact widget, section for legal updates",
+      "updated_at": "2026-10-27T04:10:52.942467+00:00",
+      "url": "https://www.hindustantimes.com/india-news/delhi-police-revamps-website-adds-emergency-contact-widget-section-for-legal-updates-101793071315580.html"
+    },
     "7ba3ee19fbc6da2f7d46f1fc": {
       "published_at": "2026-10-26T12:48:03+00:00",
       "source": "thehindu.com",
@@ -7684,6 +7700,14 @@
       "title": "YSRCP MP Gurumoorthy seeks President’s, Governor’s intervention over SEC’s ‘failures’ in Andhra local polls",
       "updated_at": "2026-10-26T10:45:56.678852+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-mp-gurumoorthy-seeks-presidents-governors-intervention-over-secs-failures-in-andhra-local-polls/article71626052.ece"
+    },
+    "b403d2cb62b30f28aa1795a4": {
+      "published_at": "2026-10-27T03:24:02+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Cyclone ‘Arnab’ intensifies: Severe storm headed for Andhra coast; 16 districts on high alert",
+      "updated_at": "2026-10-27T04:10:52.942473+00:00",
+      "url": "https://www.tribuneindia.com/news/india/cyclone-arnab-intensifies-severe-storm-headed-for-andhra-coast-16-districts-on-high-alert"
     },
     "b45df668dd07dd1e27693197": {
       "published_at": "2026-10-26T10:14:26+00:00",
@@ -10066,6 +10090,14 @@
       "updated_at": "2026-10-26T06:43:18.658566+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-acquitted-in-2018-defamation-case-over-remarks-against-amit-shah-says-congress-101792995192769.html"
     },
+    "ebda7d212b543ab11a85049e": {
+      "published_at": "2026-10-27T00:00:30+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "India's largest share sale could end cheap mobile internet for millions",
+      "updated_at": "2026-10-27T04:10:52.942432+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss"
+    },
     "ebdfa33b4b0124e46db66ce8": {
       "published_at": "2026-10-25T14:04:40+00:00",
       "source": "thehindu.com",
@@ -11035,6 +11067,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:42:42.663933+00:00",
+  "last_cycle_at": "2026-10-27T04:10:52.944301+00:00",
   "schema_version": 1
 }
