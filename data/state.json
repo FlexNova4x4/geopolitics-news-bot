@@ -2178,9 +2178,10 @@
     "2a8c416b364eaca224ff945c": {
       "published_at": "2026-10-27T08:17:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11509,
       "title": "Cyclone ‘Arnab’: Andhra, Odisha step up precautionary measures ahead of landfall",
-      "updated_at": "2026-10-27T08:34:23.941099+00:00",
+      "updated_at": "2026-10-27T08:34:37.724901+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-schools-shut-trains-cancelled-andhra-pradesh-odisha-brace-for-landfall/article71630334.ece"
     },
     "2ac5d225560f70aa9efb31de": {
@@ -10485,9 +10486,10 @@
     "caa7e24606af0a6925293452": {
       "published_at": "2026-10-27T08:16:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11508,
       "title": "Dog deaths inside IIT Hyderabad spark row over animal welfare; students allege punitive action taken over giving food",
-      "updated_at": "2026-10-27T08:34:23.941096+00:00",
+      "updated_at": "2026-10-27T08:34:34.004073+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/dog-deaths-inside-iit-hyderabad-spark-row-over-animal-welfare-students-allege-action-taken-over-giving-food/article71624183.ece"
     },
     "cad7ec98c61a8453fc9cdb7f": {
@@ -10583,9 +10585,10 @@
     "cbccc0eab920d70001a23df2": {
       "published_at": "2026-10-27T08:09:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11506,
       "title": "Data protection law challenge: SC stresses balancing privacy rights with press freedom",
-      "updated_at": "2026-10-27T08:34:23.941076+00:00",
+      "updated_at": "2026-10-27T08:34:26.398825+00:00",
       "url": "https://www.hindustantimes.com/india-news/data-protection-law-challenge-sc-stresses-balancing-privacy-rights-with-press-freedom-101793088599319.html"
     },
     "cbce91fdd240a5bb88efe0cf": {
@@ -13320,9 +13323,10 @@
     "fe64e116850cb04045bae245": {
       "published_at": "2026-10-27T08:11:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11507,
       "title": "Loud sound creates a sense of panic in Hyderabad’s Attapur, Rajendranagar areas",
-      "updated_at": "2026-10-27T08:34:23.941092+00:00",
+      "updated_at": "2026-10-27T08:34:30.298913+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/loud-sound-creates-a-sense-of-panic-in-hyderabads-attapur-rajendranagar-areas/article71630241.ece"
     },
     "fe7123951aecd4e340901a65": {
@@ -13407,6 +13411,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T08:34:23.942486+00:00",
+  "last_cycle_at": "2026-10-27T08:34:40.927052+00:00",
   "schema_version": 1
 }
