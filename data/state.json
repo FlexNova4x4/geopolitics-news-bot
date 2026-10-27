@@ -252,6 +252,14 @@
       "updated_at": "2026-10-27T05:37:43.279395+00:00",
       "url": "https://www.tribuneindia.com/news/india/25-of-south-asian-americans-who-voted-for-trump-in-2024-to-back-democrats-in-midterms-survey"
     },
+    "03775c31489d97f0d58f1447": {
+      "published_at": "2026-10-27T13:36:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Five-year-old girl of Anganwadi centre in Khammam dies after suspected insect bite",
+      "updated_at": "2026-10-27T13:44:53.347271+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/five-year-old-girl-of-anganwadi-centre-in-khammam-dies-after-suspected-insect-bite/article71631719.ece"
+    },
     "03b742e81b55794d988bc3bd": {
       "published_at": "2026-10-26T00:57:12+00:00",
       "source": "amarujala.com",
@@ -3829,6 +3837,14 @@
       "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
       "updated_at": "2026-10-25T15:12:12.473437+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss"
+    },
+    "40b5243eae2740bc56d02fbd": {
+      "published_at": "2026-10-27T13:31:28+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cybercrime police uncover two more SIM box farms in Tamil Nadu",
+      "updated_at": "2026-10-27T13:44:53.347265+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/cybercrime-police-uncover-two-more-sim-box-farms-in-tamil-nadu/article71630855.ece"
     },
     "417384d39814286641e51c01": {
       "published_at": "2026-10-27T07:13:20+00:00",
@@ -9283,6 +9299,14 @@
       "updated_at": "2026-10-26T13:47:04.356493+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
     },
+    "977568d22b522185612e2f01": {
+      "published_at": "2026-10-27T13:34:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Custom Hiring Centres offer machinery on rent to farmers in Telangana",
+      "updated_at": "2026-10-27T13:44:53.347268+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/custom-hiring-centres-offer-machinery-on-rent-to-farmers-in-telangana/article71631517.ece"
+    },
     "97a727283adb09ee5227fa21": {
       "published_at": "2026-10-26T07:26:51+00:00",
       "source": "thehindu.com",
@@ -12679,6 +12703,14 @@
       "updated_at": "2026-10-27T05:35:36.423970+00:00",
       "url": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece"
     },
+    "cfa774cdd4a60494772ce1d6": {
+      "published_at": "2026-10-27T13:31:14+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Bilawal calls for 'full stop' on conversations about new provinces",
+      "updated_at": "2026-10-27T13:44:53.347250+00:00",
+      "url": "https://www.dawn.com/news/2040225/bilawal-calls-for-full-stop-on-conversations-about-new-provinces"
+    },
     "cfb1825fd201c34e8a9813aa": {
       "published_at": "2026-10-26T23:30:03+00:00",
       "source": "amarujala.com",
@@ -15742,6 +15774,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:44:46.655291+00:00",
+  "last_cycle_at": "2026-10-27T13:44:53.348769+00:00",
   "schema_version": 1
 }
