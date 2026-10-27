@@ -435,9 +435,10 @@
     "05de9ce2e9d3e6866b45a645": {
       "published_at": "2026-10-27T12:48:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11724,
       "title": "‘India has engineers, but needs more chip-ready ones’",
-      "updated_at": "2026-10-27T13:12:56.879183+00:00",
+      "updated_at": "2026-10-27T13:12:59.825772+00:00",
       "url": "https://www.thehindu.com/news/national/india-has-engineers-but-needs-more-chip-ready-ones/article71631494.ece"
     },
     "05e0ca9115aec66df425cb7f": {
@@ -524,9 +525,10 @@
     "07f7a6ad3a4608774cd92b0f": {
       "published_at": "2026-10-27T12:50:04+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11725,
       "title": "ECI orders transfer of election-related officers in Goa, UP, 3 other states ahead of 2027 assembly polls",
-      "updated_at": "2026-10-27T13:12:56.879198+00:00",
+      "updated_at": "2026-10-27T13:13:03.754481+00:00",
       "url": "https://www.hindustantimes.com/india-news/eci-orders-transfer-of-election-related-officers-in-5-states-ahead-of-2027-assembly-polls-goa-manipur-punjab-uttar-pradesh-and-uttarakhand-101793104498019.html"
     },
     "07fcc5f0728e832c037b5e56": {
@@ -9685,9 +9687,10 @@
     "a26d6b1f7774d055bf37b9d3": {
       "published_at": "2026-10-27T12:52:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11727,
       "title": "CM Vijay to chair T.N. Cabinet meeting on October 29",
-      "updated_at": "2026-10-27T13:12:56.879204+00:00",
+      "updated_at": "2026-10-27T13:13:11.728716+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-to-chair-tn-cabinet-meeting-on-october-29/article71631327.ece"
     },
     "a27203bc18bb796fb98026b0": {
@@ -12328,9 +12331,10 @@
     "cf401a9a9dc6e4fb820a9aba": {
       "published_at": "2026-10-27T12:52:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11726,
       "title": "India must make its defence chips end-to-end, say scientists",
-      "updated_at": "2026-10-27T13:12:56.879201+00:00",
+      "updated_at": "2026-10-27T13:13:07.778843+00:00",
       "url": "https://www.thehindu.com/news/national/india-must-make-its-defence-chips-end-to-end-say-scientists/article71631519.ece"
     },
     "cf59167af9694ed9ffe036e0": {
@@ -15360,6 +15364,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:12:56.880490+00:00",
+  "last_cycle_at": "2026-10-27T13:13:14.930613+00:00",
   "schema_version": 1
 }
