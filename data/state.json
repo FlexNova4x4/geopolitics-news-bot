@@ -1208,9 +1208,10 @@
     "1e784e1d2e16eb4ecceb3408": {
       "published_at": "2026-10-26T23:42:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11165,
       "title": "Pakistan burdens public again as govt hikes petrol price by Rs 1.54, diesel by Rs 2.16 per litre",
-      "updated_at": "2026-10-27T00:10:45.855788+00:00",
+      "updated_at": "2026-10-27T00:10:51.679014+00:00",
       "url": "https://www.tribuneindia.com/news/diesel/pakistan-burdens-public-again-as-govt-hikes-petrol-price-by-rs-1-54-diesel-by-rs-2-16-per-litre"
     },
     "1e8268a244f5025ec8e01dc4": {
@@ -3971,9 +3972,10 @@
     "6358ab024cb87793fced9b26": {
       "published_at": "2026-10-26T23:27:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11164,
       "title": "SC pulls up Rajasthan over Jojari river pollution, warns of CBI probe",
-      "updated_at": "2026-10-27T00:10:45.855766+00:00",
+      "updated_at": "2026-10-27T00:10:47.892133+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece"
     },
     "6383d84b21be795fc24ed040": {
@@ -5100,9 +5102,10 @@
     "7f5757504adab586ec21c63b": {
       "published_at": "2026-10-26T23:48:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11167,
       "title": "Jordan attacks Syria in response to Karak church attack",
-      "updated_at": "2026-10-27T00:10:45.855798+00:00",
+      "updated_at": "2026-10-27T00:10:59.461127+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss"
     },
     "7f7a3ef7b0da4dcfdcb00a3f": {
@@ -5809,9 +5812,10 @@
     "9100c33c5705dc2b591c1b37": {
       "published_at": "2026-10-26T23:45:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11166,
       "title": "हाईकोर्ट ने खारिज की याचिका: कहा-अनुकंपा पर मिली नौकरी में असीमित करुणा का लाभ संभव नहीं",
-      "updated_at": "2026-10-27T00:10:45.855794+00:00",
+      "updated_at": "2026-10-27T00:10:55.564207+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hp-high-court-on-benefit-of-jobs-obtained-on-compassionate-grounds-2026-10-26"
     },
     "916bbc5d420590d132b56582": {
@@ -10356,6 +10360,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T00:10:45.857185+00:00",
+  "last_cycle_at": "2026-10-27T00:11:02.663962+00:00",
   "schema_version": 1
 }
