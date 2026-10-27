@@ -2966,6 +2966,14 @@
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
+    "3ff5d7b9a967598a92b51f15": {
+      "published_at": "2026-10-27T06:12:04+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+      "updated_at": "2026-10-27T06:34:50.178620+00:00",
+      "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss"
+    },
     "4001f3c359678b7bde3cd14c": {
       "published_at": "2026-10-26T09:11:56+00:00",
       "source": "hindustantimes.com",
@@ -3226,6 +3234,14 @@
       "title": "Dividing fighter assets across theatre commands not an option, says Indian Air Force Chief",
       "updated_at": "2026-10-26T01:23:24.807115+00:00",
       "url": "https://www.tribuneindia.com/news/india/dividing-fighter-assets-across-theatre-commands-not-an-option-says-indian-air-force-chief"
+    },
+    "45e6677d54d8b772979439db": {
+      "published_at": "2026-10-27T06:07:34+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल विधानसभा सत्र का शेड्यूल जारी: 16 नवंबर से 21 तक तपोवन में चलेगी कार्यवाही, देखें पूरा शेड्यूल",
+      "updated_at": "2026-10-27T06:34:50.178589+00:00",
+      "url": "https://www.amarujala.com/shimla/himachal-pradesh-assembly-session-november-16-to-21-dharamshala-schedule-2026-2026-10-27"
     },
     "465ed40cfd3b0af7cd8f17a9": {
       "published_at": "2026-10-25T10:50:38+00:00",
@@ -4419,6 +4435,14 @@
       "title": "Rahul Gandhi calls for ‘Chalo Dilli’ march at Delhi's Ramlila Maidan against CEC on November 1",
       "updated_at": "2026-10-25T06:35:16.680351+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-calls-for-chalo-dilli-march-at-delhis-ramlila-maidan-against-cec-on-november-1-101792905969083.html"
+    },
+    "60240dd4bab5e3655955e250": {
+      "published_at": "2026-10-27T06:10:54+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "SHG women to get dedicated space to sell products at fairs in Hamirpur district",
+      "updated_at": "2026-10-27T06:34:50.178610+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/shg-women-to-get-dedicated-space-to-sell-products-at-fairs-in-hamirpur-district"
     },
     "6034bc0bb848eb3a87ea380c": {
       "published_at": "2026-10-25T11:20:22+00:00",
@@ -6960,6 +6984,14 @@
       "title": "Justice Lalit changed case listing approach as CJI, says Justice Kaul in memoir",
       "updated_at": "2026-10-26T02:53:13.729088+00:00",
       "url": "https://www.hindustantimes.com/india-news/justice-lalit-changed-case-listing-approach-as-cji-says-justice-kaul-in-memoir-101792953692096.html"
+    },
+    "930c7a4defbf699f561247af": {
+      "published_at": "2026-10-27T06:11:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "ECI’s stand that additional declaration is not part of Form 6 comes days after SC said it will examine ‘new’ Form 6",
+      "updated_at": "2026-10-27T06:34:50.178615+00:00",
+      "url": "https://www.thehindu.com/news/national/ecis-stand-that-additional-declaration-is-not-part-of-form-6-comes-days-after-sc-said-it-will-examine-new-form-6/article71629933.ece"
     },
     "932560affe1587e67a06092a": {
       "published_at": "2026-10-26T21:24:03+00:00",
@@ -12232,6 +12264,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:34:44.774248+00:00",
+  "last_cycle_at": "2026-10-27T06:34:50.179935+00:00",
   "schema_version": 1
 }
