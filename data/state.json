@@ -5480,6 +5480,14 @@
       "updated_at": "2026-10-27T06:06:04.963027+00:00",
       "url": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
     },
+    "694b3fbcd2692ac803bfc84c": {
+      "published_at": "2026-10-27T08:46:19+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Cruise ship crashes into two container ships during storm",
+      "updated_at": "2026-10-27T09:05:08.363184+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss"
+    },
     "695ca1b9363c41c7ad66d9e1": {
       "published_at": "2026-10-27T04:07:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -10276,6 +10284,14 @@
       "updated_at": "2026-10-25T07:35:24.248677+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
     },
+    "c17d30ee67dca8e3d97b6bef": {
+      "published_at": "2026-10-27T08:46:02+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Delhi HC refuses to stay probe into FIR against journalist over ‘casteist remarks’ against ACP",
+      "updated_at": "2026-10-27T09:05:08.363179+00:00",
+      "url": "https://www.tribuneindia.com/news/delhi/delhi-hc-refuses-to-stay-probe-into-fir-against-journalist-over-casteist-remarks-against-acp"
+    },
     "c1e9e2855cfd10c9f7a71b0d": {
       "published_at": "2026-10-27T07:39:26+00:00",
       "source": "thehindu.com",
@@ -11562,6 +11578,14 @@
       "updated_at": "2026-10-25T03:35:20.756149+00:00",
       "url": "https://www.dawn.com/news/2039586/wapda-inks-rs133bn-deal-for-diamer-bhasha-dam-project"
     },
+    "db09ce09247e9deea414009c": {
+      "published_at": "2026-10-27T08:47:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Pressure on Russia needed to change situation”:Zelenskyy calls for support after missile strike in Kyiv injures 12",
+      "updated_at": "2026-10-27T09:05:08.363189+00:00",
+      "url": "https://www.tribuneindia.com/news/ballistic-missiles/pressure-on-russia-needed-to-change-situationzelenskyy-calls-for-support-after-missile-strike-in-kyiv-injures-12"
+    },
     "db58a83640839fee31914c7f": {
       "published_at": "2026-10-26T10:06:58+00:00",
       "source": "thehindu.com",
@@ -11687,6 +11711,14 @@
       "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
       "updated_at": "2026-10-26T22:43:18.760562+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss"
+    },
+    "de5b088f0e823fb3cd81b66e": {
+      "published_at": "2026-10-27T08:40:14+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Govt asks Sepa to examine Karachi's Nehr-i-Khayyam project, seeks input on environmental protection",
+      "updated_at": "2026-10-27T09:05:08.363157+00:00",
+      "url": "https://www.dawn.com/news/2040101/govt-asks-sepa-to-examine-karachis-nehr-i-khayyam-project-seeks-input-on-environmental-protection"
     },
     "de630742a2b566a7adee0518": {
       "published_at": "2026-10-27T07:02:03+00:00",
@@ -13618,6 +13650,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:05:00.061902+00:00",
+  "last_cycle_at": "2026-10-27T09:05:08.364970+00:00",
   "schema_version": 1
 }
