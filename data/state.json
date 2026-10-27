@@ -1074,9 +1074,10 @@
     "16d556612946f51ef10bb1ab": {
       "published_at": "2026-10-27T03:17:40+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11241,
       "title": "Ex-FBI chief Comey defiant in the face of third prosecution",
-      "updated_at": "2026-10-27T03:42:06.318818+00:00",
+      "updated_at": "2026-10-27T03:42:20.389607+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss"
     },
     "16e082522845912d7b69578b": {
@@ -3766,9 +3767,10 @@
     "595e65ca98b0d2153c60bfc2": {
       "published_at": "2026-10-27T03:10:21+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11238,
       "title": "HT Morning Brief October 27: India calls for veto powers for UNSC members; Trump's Brazil election 'rigged' claim and more",
-      "updated_at": "2026-10-27T03:42:06.318783+00:00",
+      "updated_at": "2026-10-27T03:42:08.534557+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-27-india-calls-for-veto-powers-for-unsc-members-trumps-brazil-election-rigged-claim-and-more-101793069018388.html"
     },
     "596344f7ed56b23cef4c3a08": {
@@ -4204,9 +4206,10 @@
     "640321c9d04a7cfb49675653": {
       "published_at": "2026-10-27T03:15:34+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11240,
       "title": "New Zealand election 2026: What you need to know",
-      "updated_at": "2026-10-27T03:42:06.318813+00:00",
+      "updated_at": "2026-10-27T03:42:16.386885+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cr1exvxz8g47o?at_medium=RSS&at_campaign=rss"
     },
     "64189bd09c9077f0c5224d62": {
@@ -6502,9 +6505,10 @@
     "96c32c193a27f56d164af38e": {
       "published_at": "2026-10-27T03:15:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11239,
       "title": "5 people shot dead at Guwahati hotel in dispute between property owner, leaseholder: Police",
-      "updated_at": "2026-10-27T03:42:06.318807+00:00",
+      "updated_at": "2026-10-27T03:42:12.485867+00:00",
       "url": "https://www.tribuneindia.com/news/india/5-people-shot-dead-at-guwahati-hotel-in-dispute-between-property-owner-leaseholder-police"
     },
     "971a2373e98039ab0fd85f10": {
@@ -11004,6 +11008,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:42:06.320726+00:00",
+  "last_cycle_at": "2026-10-27T03:42:23.592330+00:00",
   "schema_version": 1
 }
