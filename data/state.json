@@ -1182,9 +1182,10 @@
     "13a240d55ed5c562981de8ea": {
       "published_at": "2026-10-27T11:52:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11678,
       "title": "Tibet, Uyghur rights concerns raised in Geneva with China amid fears over minority freedoms",
-      "updated_at": "2026-10-27T12:19:03.017023+00:00",
+      "updated_at": "2026-10-27T12:19:17.280337+00:00",
       "url": "https://www.tribuneindia.com/news/china/tibet-uyghur-rights-concerns-raised-in-geneva-with-china-amid-fears-over-minority-freedoms"
     },
     "13abbcd26b7030c95fa14e2a": {
@@ -3049,9 +3050,10 @@
     "368634bdd81d9733c344d711": {
       "published_at": "2026-10-27T11:49:59+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11677,
       "title": "The Ballon d’Or has a narrow definition of footballing greatness",
-      "updated_at": "2026-10-27T12:19:03.017020+00:00",
+      "updated_at": "2026-10-27T12:19:13.424394+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss"
     },
     "373e77412f539a1f64c7b7e7": {
@@ -12526,9 +12528,10 @@
     "d7c3dae6a1af2db3e4ac119d": {
       "published_at": "2026-10-27T11:46:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11676,
       "title": "BRICS Forum adopts joint declaration; condemns Pahalgam attack, seeks UNSC reforms",
-      "updated_at": "2026-10-27T12:19:03.017016+00:00",
+      "updated_at": "2026-10-27T12:19:09.557989+00:00",
       "url": "https://www.thehindu.com/news/national/brics-forum-adopts-joint-declaration-condemns-pahalgam-attack-seeks-unsc-reforms/article71631077.ece"
     },
     "d7d0b5415ec50cca3d19921b": {
@@ -12732,9 +12735,10 @@
     "db435da33c4c70c76bc4128d": {
       "published_at": "2026-10-27T11:44:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11675,
       "title": "Self-declaration not required for paddy seed purchase: Telangana Agriculture Dept",
-      "updated_at": "2026-10-27T12:19:03.016999+00:00",
+      "updated_at": "2026-10-27T12:19:05.681707+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/self-declaration-not-required-for-paddy-seed-purchase-telangana-agriculture-dept/article71631035.ece"
     },
     "db58a83640839fee31914c7f": {
@@ -14919,6 +14923,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:19:03.018294+00:00",
+  "last_cycle_at": "2026-10-27T12:19:20.482243+00:00",
   "schema_version": 1
 }
