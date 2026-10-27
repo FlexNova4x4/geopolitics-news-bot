@@ -1442,9 +1442,10 @@
     "20510885fcbc670cee8efe6d": {
       "published_at": "2026-10-27T03:53:55+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11262,
       "title": "524 pedestrian deaths reported in Delhi till October 15: Traffic police data",
-      "updated_at": "2026-10-27T04:12:30.717664+00:00",
+      "updated_at": "2026-10-27T04:12:36.699407+00:00",
       "url": "https://www.hindustantimes.com/india-news/524-pedestrian-deaths-reported-in-delhi-till-october-15-traffic-police-data-101793073235549.html"
     },
     "208807a29b94609868fddbdb": {
@@ -2149,9 +2150,10 @@
     "30cd2c544b5af6b3a27389f8": {
       "published_at": "2026-10-27T03:53:58+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11263,
       "title": "बिलासपुर: बीमार जुड़वा बच्चों की देखभाल के लिए महिला प्रहरी को कोर्ट से राहत, 80 दिन की अतिरिक्त छुट्टी मंजूर",
-      "updated_at": "2026-10-27T04:12:30.717670+00:00",
+      "updated_at": "2026-10-27T04:12:40.592102+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/bilaspur-hc-grants-80-more-days-of-child-care-leave-to-woman-jail-guard-caring-for-sick-twin-babies-2026-10-27"
     },
     "30f2aa4da98503eacba52e9a": {
@@ -4375,9 +4377,10 @@
     "657a654ab92ecbef4f3fc832": {
       "published_at": "2026-10-27T03:53:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11261,
       "title": "JD(U) presses for Anant Singh’s disqualification, Speaker’s office assures ‘quick action’",
-      "updated_at": "2026-10-27T04:12:30.717643+00:00",
+      "updated_at": "2026-10-27T04:12:32.952393+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/jdu-presses-for-anant-singhs-disqualification-speakers-office-assures-quick-action/article71626835.ece"
     },
     "65a35f5b19650f1028268da0": {
@@ -7353,9 +7356,10 @@
     "a7bc7eec190e38f67d80541d": {
       "published_at": "2026-10-27T03:54:13+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11264,
       "title": "125kg paneer found unfit for consumption destroyed in Gurugram; khoa, sweets among samples collected",
-      "updated_at": "2026-10-27T04:12:30.717675+00:00",
+      "updated_at": "2026-10-27T04:12:44.549761+00:00",
       "url": "https://www.hindustantimes.com/india-news/125kg-paneer-found-unfit-for-consumption-destroyed-in-gurugram-khoa-sweets-among-samples-collected-101793072709317.html"
     },
     "a7efd346b673dc8f4f1151ac": {
@@ -11211,6 +11215,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T04:12:30.719330+00:00",
+  "last_cycle_at": "2026-10-27T04:12:47.752615+00:00",
   "schema_version": 1
 }
