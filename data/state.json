@@ -225,6 +225,14 @@
       "updated_at": "2026-10-26T01:23:20.726406+00:00",
       "url": "https://www.tribuneindia.com/news/india/200-seats-for-congress-posters-open-new-front-in-up-2027-battleground"
     },
+    "0468a15c1cfdb3dd0fdb22c9": {
+      "published_at": "2026-10-27T06:41:25+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Telangana’s all-party delegation to visit Delhi after October 28 meet; to seek Centre’s help for El Nino related drought",
+      "updated_at": "2026-10-27T07:04:21.735027+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telanganas-all-party-delegation-to-visit-delhi-after-october-28-meet-to-seek-centres-help-for-el-nino-related-drought/article71628107.ece"
+    },
     "047f73febe62dbfd38fc1e0c": {
       "published_at": "2026-10-27T04:28:33+00:00",
       "source": "thehindu.com",
@@ -819,6 +827,14 @@
       "updated_at": "2026-10-26T03:52:36.497950+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss"
     },
+    "1031fb995e567052568562cb": {
+      "published_at": "2026-10-27T06:41:58+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Odisha tribals protest doctor’s arrest; police allege anti-mining violence role",
+      "updated_at": "2026-10-27T07:04:21.735030+00:00",
+      "url": "https://www.hindustantimes.com/india-news/odisha-tribals-protest-doctor-s-arrest-police-allege-anti-mining-violence-role-101793083318725.html"
+    },
     "1067f720ed8ddbd666d764f0": {
       "published_at": "2026-10-25T10:06:58+00:00",
       "source": "thehindu.com",
@@ -1205,6 +1221,14 @@
       "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
       "updated_at": "2026-10-26T13:30:54.124252+00:00",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
+    },
+    "16c55336ba09561f7b4157ab": {
+      "published_at": "2026-10-27T06:40:26+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "मां चिंतपूर्णी के दरबार में सुबह की आरती और कंजक पूजन, देखें माता रानी की पूजा का वीडियो",
+      "updated_at": "2026-10-27T07:04:21.735023+00:00",
+      "url": "https://www.amarujala.com/video-shots/himachal-pradesh/una/video-maa-chintpurni-morning-aarti-kanjak-pujan-video-2026-10-27"
     },
     "16d556612946f51ef10bb1ab": {
       "published_at": "2026-10-27T03:17:40+00:00",
@@ -1717,6 +1741,14 @@
       "title": "Bolsonaro’s party says it recognises Lula’s election win in Brazil",
       "updated_at": "2026-10-27T02:41:35.761240+00:00",
       "url": "https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece"
+    },
+    "2305434f6f7bbcb6e62e7de1": {
+      "published_at": "2026-10-27T06:39:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Government school teachers’ association seeks cluster kitchen centres for midday meal programme",
+      "updated_at": "2026-10-27T07:04:21.735006+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/government-school-teachers-association-seeks-cluster-kitchen-centres-for-midday-meal-programme/article71564494.ece"
     },
     "2328374c66e901f8ace77ac3": {
       "published_at": "2026-10-26T12:38:33+00:00",
@@ -12538,6 +12570,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:04:16.377925+00:00",
+  "last_cycle_at": "2026-10-27T07:04:21.736467+00:00",
   "schema_version": 1
 }
