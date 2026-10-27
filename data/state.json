@@ -1074,9 +1074,10 @@
     "14a7f474f827cf8d12b67ee0": {
       "published_at": "2026-10-27T06:50:46+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11423,
       "title": "जनता की समस्याओं पर संघर्ष तेज करेगी भाजपा : श्रीकांत",
-      "updated_at": "2026-10-27T07:05:09.187994+00:00",
+      "updated_at": "2026-10-27T07:05:23.364158+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/bjp-to-intensify-struggle-over-public-issues-shrikant-kullu-news-c-89-1-ssml1015-190318-2026-10-27"
     },
     "14ec9f3534961735d10cbd53": {
@@ -6073,9 +6074,10 @@
     "79a58b5c06a65e9c6e4a2cd9": {
       "published_at": "2026-10-27T06:50:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11422,
       "title": "Cyclone Arnab: Bapatla district issues emergency helpline numbers",
-      "updated_at": "2026-10-27T07:05:09.187991+00:00",
+      "updated_at": "2026-10-27T07:05:19.450095+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-bapatla-district-issues-emergency-helpline-numbers/article71629936.ece"
     },
     "79d88536f4b21157028c5803": {
@@ -10681,9 +10683,10 @@
     "d810ac94b4a91285424e2eee": {
       "published_at": "2026-10-27T06:49:51+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11421,
       "title": "Jakhar writes to Amit Shah, seeks NIA probe into drug, gangster and arms networks in Punjab",
-      "updated_at": "2026-10-27T07:05:09.187987+00:00",
+      "updated_at": "2026-10-27T07:05:15.624178+00:00",
       "url": "https://www.tribuneindia.com/news/punjab/jakhar-writes-to-amit-shah-seeks-nia-probe-into-drug-gangster-and-arms-networks-in-punjab"
     },
     "d84e844c92b6230c3516d2d3": {
@@ -11236,9 +11239,10 @@
     "e6f0fecb075731b9af897594": {
       "published_at": "2026-10-27T06:48:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11420,
       "title": "Cyclone Arnab to trigger heavy rains in parts of Jharkhand, government asks districts to remain alert",
-      "updated_at": "2026-10-27T07:05:09.187970+00:00",
+      "updated_at": "2026-10-27T07:05:11.909187+00:00",
       "url": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rains-in-jharkhand-yellow-and-orange-alert-issued/article71629994.ece"
     },
     "e6f197dbc2691af0fa4088aa": {
@@ -12642,6 +12646,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:05:09.189669+00:00",
+  "last_cycle_at": "2026-10-27T07:05:26.566252+00:00",
   "schema_version": 1
 }
