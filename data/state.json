@@ -1071,6 +1071,14 @@
       "updated_at": "2026-10-26T13:30:54.124252+00:00",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
     },
+    "16d556612946f51ef10bb1ab": {
+      "published_at": "2026-10-27T03:17:40+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Ex-FBI chief Comey defiant in the face of third prosecution",
+      "updated_at": "2026-10-27T03:42:06.318818+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss"
+    },
     "16e082522845912d7b69578b": {
       "published_at": "2026-10-26T03:59:57+00:00",
       "source": "dawn.com",
@@ -3755,6 +3763,14 @@
       "updated_at": "2026-10-27T01:41:15.292043+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-guwahati-hotel-shooting-death-toll-police-dispute-involving-property-owner-renter-triggered-incident-101793062102678.html"
     },
+    "595e65ca98b0d2153c60bfc2": {
+      "published_at": "2026-10-27T03:10:21+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "HT Morning Brief October 27: India calls for veto powers for UNSC members; Trump's Brazil election 'rigged' claim and more",
+      "updated_at": "2026-10-27T03:42:06.318783+00:00",
+      "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-27-india-calls-for-veto-powers-for-unsc-members-trumps-brazil-election-rigged-claim-and-more-101793069018388.html"
+    },
     "596344f7ed56b23cef4c3a08": {
       "published_at": "2026-10-24T19:30:42+00:00",
       "source": "thehindu.com",
@@ -4184,6 +4200,14 @@
       "title": "Indian Navy training squadron arrives in Sri Lanka for 3-day visit",
       "updated_at": "2026-10-26T07:13:49.423578+00:00",
       "url": "https://www.tribuneindia.com/news/india/indian-navy-training-squadron-arrives-in-sri-lanka-for-3-day-visit"
+    },
+    "640321c9d04a7cfb49675653": {
+      "published_at": "2026-10-27T03:15:34+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "New Zealand election 2026: What you need to know",
+      "updated_at": "2026-10-27T03:42:06.318813+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr1exvxz8g47o?at_medium=RSS&at_campaign=rss"
     },
     "64189bd09c9077f0c5224d62": {
       "published_at": "2026-10-25T18:46:31+00:00",
@@ -6474,6 +6498,14 @@
       "title": "CMRL pay-off case: Kerala HC stays order to lodge FIR against ex-CM Pinarayi Vijayan, kin",
       "updated_at": "2026-10-26T13:37:58.700544+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-kerala-hc-stays-order-to-lodge-fir-against-ex-keralam-cm-pinarayi-kin/article71626592.ece"
+    },
+    "96c32c193a27f56d164af38e": {
+      "published_at": "2026-10-27T03:15:13+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "5 people shot dead at Guwahati hotel in dispute between property owner, leaseholder: Police",
+      "updated_at": "2026-10-27T03:42:06.318807+00:00",
+      "url": "https://www.tribuneindia.com/news/india/5-people-shot-dead-at-guwahati-hotel-in-dispute-between-property-owner-leaseholder-police"
     },
     "971a2373e98039ab0fd85f10": {
       "published_at": "2026-10-26T01:39:38+00:00",
@@ -10972,6 +11004,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:41:59.872766+00:00",
+  "last_cycle_at": "2026-10-27T03:42:06.320726+00:00",
   "schema_version": 1
 }
