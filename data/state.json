@@ -18,6 +18,14 @@
       "updated_at": "2026-10-26T10:43:44.742615+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/sanjay-takes-charge-as-dg-ap-disaster-response-and-fire-services/article66037034.ece"
     },
+    "0075cd51e23f999e553213d0": {
+      "published_at": "2026-10-27T01:36:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "एसआईआर पर सवाल उठाने के बजाय अपनी नीतियां बताए कांग्रेस : दर्शना सिंह",
+      "updated_at": "2026-10-27T01:41:59.433993+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/instead-of-raising-questions-about-the-sir-the-congress-should-present-its-own-policies-darshana-singh-kangra-news-c-95-1-kng1065-263532-2026-10-26"
+    },
     "00f750aac2590202af7dd8a9": {
       "published_at": "2026-10-25T22:57:17+00:00",
       "source": "aljazeera.com",
@@ -827,6 +835,14 @@
       "title": "News in frames: Kutch’s dwindling camel population",
       "updated_at": "2026-10-25T05:40:46.206531+00:00",
       "url": "https://www.thehindu.com/news/national/gujarat/news-in-frames-kutchs-dwindling-camel-population/article71622558.ece"
+    },
+    "13f1a2846435b946d2bcd0a4": {
+      "published_at": "2026-10-27T01:22:09+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Veto should not be an instrument of narrow political expediency”: India at UN calls for comprehensive Security Council reforms",
+      "updated_at": "2026-10-27T01:41:59.433983+00:00",
+      "url": "https://www.tribuneindia.com/news/ambassador-harish-parvathaneni/veto-should-not-be-an-instrument-of-narrow-political-expediency-india-at-un-calls-for-comprehensive-security-council-reforms"
     },
     "13ff1cd56660f30975df7a4b": {
       "published_at": "2026-10-26T12:23:44+00:00",
@@ -3968,6 +3984,14 @@
       "title": "सोलन: कोटला पंचायत में सजा स्पोर्ट्स मेला, युवाओं को नशे से दूर रहने का दिया संदेश",
       "updated_at": "2026-10-26T10:43:04.749963+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-kotla-panchayat-sports-mela-kasauli-solan-himachal-pradesh-2026-10-26"
+    },
+    "6288c909515f7317dc31c85e": {
+      "published_at": "2026-10-27T01:20:56+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+      "updated_at": "2026-10-27T01:41:59.433963+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
     },
     "62ac872982ab0d91921c6e13": {
       "published_at": "2026-10-24T21:08:51+00:00",
@@ -7622,6 +7646,14 @@
       "updated_at": "2026-10-26T05:24:36.622534+00:00",
       "url": "https://www.dawn.com/news/2039776/experts-call-for-preventive-measures-as-dengue-cases-continue-to-rise-in-kp"
     },
+    "b92ecdef59a05f1c48c055dd": {
+      "published_at": "2026-10-27T01:22:38+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Brazil election ‘rigged’, says Trump without citing evidence",
+      "updated_at": "2026-10-27T01:41:59.433988+00:00",
+      "url": "https://www.thehindu.com/news/international/brazil-election-rigged-says-trump-without-citing-evidence/article71629584.ece"
+    },
     "b96dc3dff51789390e24457a": {
       "published_at": "2026-10-25T07:15:38+00:00",
       "source": "thehindu.com",
@@ -10585,6 +10617,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T01:41:52.761228+00:00",
+  "last_cycle_at": "2026-10-27T01:41:59.435589+00:00",
   "schema_version": 1
 }
