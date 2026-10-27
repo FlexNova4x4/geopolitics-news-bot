@@ -1521,6 +1521,14 @@
       "updated_at": "2026-10-25T05:38:11.681869+00:00",
       "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
+    "177f7ebc7b9fc3c533c406bd": {
+      "published_at": "2026-10-27T13:11:17+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "TVK's Keerthana hits back at criticism over ‘gold ornaments', says Vijay's support keeps her strong",
+      "updated_at": "2026-10-27T13:42:37.494125+00:00",
+      "url": "https://www.hindustantimes.com/india-news/tvks-keerthana-hits-back-at-criticism-over-gold-ornaments-says-vijays-support-keeps-her-strong-101793097502619.html"
+    },
     "17905d75b07b50974ce94052": {
       "published_at": "2026-10-27T05:57:52+00:00",
       "source": "thehindu.com",
@@ -5581,6 +5589,14 @@
       "updated_at": "2026-10-25T16:11:52.075042+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/free-travel-scheme-keralam-govt-releases-8823-crore-to-ksrtc-to-cover-revenue-loss/article71623733.ece"
     },
+    "5dc4592b023e446dda613131": {
+      "published_at": "2026-10-27T13:13:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Seven MEMU passenger trains cancelled in Guntur region due to cyclone Arnab",
+      "updated_at": "2026-10-27T13:42:37.494149+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/seven-memu-passenger-trains-cancelled-in-guntur-region-due-to-cyclone-arnab/article71629876.ece"
+    },
     "5de56479d4b50f297800ec7e": {
       "published_at": "2026-10-27T05:00:08+00:00",
       "source": "thehindu.com",
@@ -6308,6 +6324,14 @@
       "updated_at": "2026-10-25T18:14:12.342726+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss"
     },
+    "6998f63d7289973e3193a9e8": {
+      "published_at": "2026-10-27T13:12:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SRMIST students showcase semiconductor innovation from research to industry projects",
+      "updated_at": "2026-10-27T13:42:37.494146+00:00",
+      "url": "https://www.thehindu.com/news/national/srmist-students-showcase-semiconductor-innovation-from-research-to-industry-projects/article71631615.ece"
+    },
     "69ab4eac74d66449a2d0299e": {
       "published_at": "2026-10-26T02:03:38+00:00",
       "source": "hindustantimes.com",
@@ -6872,6 +6896,14 @@
       "title": "Kangra students display artistic talent at ‘Rangotsav’",
       "updated_at": "2026-10-26T00:53:12.801250+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangra-students-display-artistic-talent-at-rangotsav"
+    },
+    "72a2d33b808a214be974bc22": {
+      "published_at": "2026-10-27T13:12:24+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "updated_at": "2026-10-27T13:42:37.494142+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
     },
     "72a5d5e5e222014a66841c36": {
       "published_at": "2026-10-26T06:24:15+00:00",
@@ -15562,6 +15594,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:42:18.334326+00:00",
+  "last_cycle_at": "2026-10-27T13:42:37.495556+00:00",
   "schema_version": 1
 }
