@@ -165,9 +165,10 @@
     "0450dc368fbe16e7f35b0ad1": {
       "published_at": "2026-10-27T01:18:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11191,
       "title": "Traffic regulations in Aluva from Oct. 28 for bridge repair work",
-      "updated_at": "2026-10-27T01:41:36.021372+00:00",
+      "updated_at": "2026-10-27T01:41:45.839465+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/traffic-curbs-in-aluva-from-oct-28-for-bridge-maintenance/article71627864.ece"
     },
     "045b1edb3713127216a9206b": {
@@ -4347,9 +4348,10 @@
     "6bdab4a04cabccb601ea6b43": {
       "published_at": "2026-10-27T01:20:39+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11192,
       "title": "Centre clears E100 certification for flex-fuel vehicles",
-      "updated_at": "2026-10-27T01:41:36.021377+00:00",
+      "updated_at": "2026-10-27T01:41:49.559178+00:00",
       "url": "https://www.hindustantimes.com/india-news/centre-clears-e100-certification-for-flex-fuel-vehicles-101793059726026.html"
     },
     "6bdce6883efacced3468740e": {
@@ -7650,9 +7652,10 @@
     "b9f51bfed272818e408aa895": {
       "published_at": "2026-10-27T01:16:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11189,
       "title": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land",
-      "updated_at": "2026-10-27T01:41:36.021349+00:00",
+      "updated_at": "2026-10-27T01:41:38.367893+00:00",
       "url": "https://www.thehindu.com/news/national/ap-odisha-on-alert-as-cyclone-arnab-nears-land/article71627868.ece"
     },
     "b9f9fa8a918318197c588c92": {
@@ -10253,9 +10256,10 @@
     "f8c7d77dbf6efa02165b69ad": {
       "published_at": "2026-10-27T01:17:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11190,
       "title": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
-      "updated_at": "2026-10-27T01:41:36.021369+00:00",
+      "updated_at": "2026-10-27T01:41:42.108214+00:00",
       "url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece"
     },
     "f8da80698d09d6a73cdf962a": {
@@ -10581,6 +10585,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T01:41:36.022704+00:00",
+  "last_cycle_at": "2026-10-27T01:41:52.761228+00:00",
   "schema_version": 1
 }
