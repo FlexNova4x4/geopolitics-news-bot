@@ -3913,9 +3913,10 @@
     "5268eb7755587adb3368102c": {
       "published_at": "2026-10-27T06:36:40+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11397,
       "title": "Bilaspur News: राज्य स्तरीय चैंपियनशिप के लिए बिलासपुर की 14 सदस्यीय महिला कबड्डी टीम चयनित",
-      "updated_at": "2026-10-27T06:36:37.468421+00:00",
+      "updated_at": "2026-10-27T06:36:51.518549+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/14-member-womens-kabaddi-team-from-bilaspur-selected-for-state-level-championship-bilaspur-news-c-92-1-ssml1001-170758-2026-10-27"
     },
     "529aab26d4b950650e27e9db": {
@@ -4494,9 +4495,10 @@
     "5ff0ca5d53c47b19d220a8f5": {
       "published_at": "2026-10-27T06:33:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11396,
       "title": "Sirmour News: गुरुकुल पीच वैली स्कूल में उड़ान-2026 कार्यक्रम की रही धूम",
-      "updated_at": "2026-10-27T06:36:37.468417+00:00",
+      "updated_at": "2026-10-27T06:36:47.521239+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/gurukul-international-school-rajgarh-annual-function-nahan-news-c-177-1-nhn1002-192576-2026-10-26"
     },
     "5ff5a5b34653f3e2b8a06cf4": {
@@ -5676,9 +5678,10 @@
     "756096faafeee46ad4bb530d": {
       "published_at": "2026-10-27T06:30:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11394,
       "title": "Cyclone Arnab: Odisha announces evacuation 48,000 in eight districts",
-      "updated_at": "2026-10-27T06:36:37.468393+00:00",
+      "updated_at": "2026-10-27T06:36:39.795998+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-odisha-announces-evacuation-48000-in-eight-districts/article71630044.ece"
     },
     "75811f096b6c58d05903ca1c": {
@@ -12179,9 +12182,10 @@
     "fbc24ecca6acd3f37db7a52f": {
       "published_at": "2026-10-27T06:31:45+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11395,
       "title": "Kullu News: माता हिडिंबा के दर शीश नवाने पहुंच रहे श्रद्धालु",
-      "updated_at": "2026-10-27T06:36:37.468412+00:00",
+      "updated_at": "2026-10-27T06:36:43.543273+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/devotees-are-arriving-to-pay-their-respects-at-the-shrine-of-mother-hidimba-kullu-news-c-89-1-ssml1014-190334-2026-10-27"
     },
     "fbe688263f160d8f4fa9e4c3": {
@@ -12408,6 +12412,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:36:37.469742+00:00",
+  "last_cycle_at": "2026-10-27T06:36:54.720583+00:00",
   "schema_version": 1
 }
