@@ -1533,9 +1533,10 @@
     "15841bedeee571b89bd251c5": {
       "published_at": "2026-10-27T19:12:28+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12041,
       "title": "MoS Jitin Prasada calls on Liechtenstein Deputy PM to strengthen bilateral trade and investment ties",
-      "updated_at": "2026-10-27T20:03:12.620354+00:00",
+      "updated_at": "2026-10-27T20:03:16.128118+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-relations/mos-jitin-prasada-calls-on-liechtenstein-deputy-pm-to-strengthen-bilateral-trade-and-investment-ties"
     },
     "15b67cb5df2fa43b72d0e454": {
@@ -4210,9 +4211,10 @@
     "3e7b46f1912de6765bb1d7f5": {
       "published_at": "2026-10-27T19:12:35+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12043,
       "title": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
-      "updated_at": "2026-10-27T20:03:12.620374+00:00",
+      "updated_at": "2026-10-27T20:03:24.070613+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss"
     },
     "3eb0722bbaad12f068c7977b": {
@@ -13068,9 +13070,10 @@
     "b9906543eba98414c33ea879": {
       "published_at": "2026-10-27T19:12:35+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12042,
       "title": "Rajnath Singh to address ADMM-Plus on regional security, hold bilateral meetings with US, Japan, Australia",
-      "updated_at": "2026-10-27T20:03:12.620371+00:00",
+      "updated_at": "2026-10-27T20:03:20.073876+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus/rajnath-singh-to-address-admm-plus-on-regional-security-hold-bilateral-meetings-with-us-japan-australia"
     },
     "b9f51bfed272818e408aa895": {
@@ -13939,9 +13942,10 @@
     "c57933eeae4e71d3ef3462c0": {
       "published_at": "2026-10-27T19:16:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12044,
       "title": "Women protests force Ladakh administration to discuss ‘declaring region a dry UT'",
-      "updated_at": "2026-10-27T20:03:12.620376+00:00",
+      "updated_at": "2026-10-27T20:03:27.873651+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/women-protests-force-ladakh-administration-to-discuss-declaring-region-a-dry-ut/article71632294.ece"
     },
     "c57c995aed21182697ff6a61": {
@@ -18195,6 +18199,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T20:03:12.621715+00:00",
+  "last_cycle_at": "2026-10-27T20:03:31.075709+00:00",
   "schema_version": 1
 }
