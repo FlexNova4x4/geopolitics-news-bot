@@ -3824,9 +3824,10 @@
     "478d3957709e56997c1a0c30": {
       "published_at": "2026-10-26T22:22:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11588,
       "title": "पेंशनरों को संशोधित वेतनमान का किया जाए भुगतान : गुलशन",
-      "updated_at": "2026-10-27T10:33:59.757344+00:00",
+      "updated_at": "2026-10-27T10:34:02.198008+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/pensioners-should-be-paid-according-to-the-revised-pay-scale-gulshan-kullu-news-c-89-1-ssml1015-190409-2026-10-27"
     },
     "47a2660e497114951924b1a4": {
@@ -4344,9 +4345,10 @@
     "5110d8efc7d69f4b42fdbf4f": {
       "published_at": "2026-10-26T22:23:44+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11590,
       "title": "वीडियो: ज्यूरी में आरएसएस का पथ संचलन, प्रांत प्रचार प्रमुख प्रताप स्मायल ने किया संबोधित",
-      "updated_at": "2026-10-27T10:33:59.757369+00:00",
+      "updated_at": "2026-10-27T10:34:10.161106+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-rss-march-in-jury-addressed-by-prant-prachar-pramukh-pratap-smayl-2026-10-27"
     },
     "512296d1fdccc4355da3c305": {
@@ -10278,9 +10280,10 @@
     "bbad1694f31f2bb858225a73": {
       "published_at": "2026-10-26T22:27:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11591,
       "title": "वीडियो: अर्की में चार दिवसीय राज्य स्तरीय सांस्कृतिक प्रतियोगिता का शुभारंभ",
-      "updated_at": "2026-10-27T10:33:59.757374+00:00",
+      "updated_at": "2026-10-27T10:34:14.094202+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-another-major-accident-on-jwalamukhi-road-hrtc-bus-and-innova-collide-2026-10-27-1793096871"
     },
     "bbc2f387807a9766ce675cf9": {
@@ -11572,9 +11575,10 @@
     "d3c7609cb69d9c4459a28c2b": {
       "published_at": "2026-10-26T22:23:39+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11589,
       "title": "वीडियो: ज्वालाजी रोड पर फिर बड़ा हादसा, एचआरटीसी बस और इनोवा में टक्कर",
-      "updated_at": "2026-10-27T10:33:59.757363+00:00",
+      "updated_at": "2026-10-27T10:34:06.175583+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/una/video-another-major-accident-on-jwalamukhi-road-hrtc-bus-and-innova-collide-2026-10-27"
     },
     "d3cc583b77ee5170216fab24": {
@@ -14145,6 +14149,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:33:59.758940+00:00",
+  "last_cycle_at": "2026-10-27T10:34:17.296288+00:00",
   "schema_version": 1
 }
