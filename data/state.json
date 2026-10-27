@@ -6833,9 +6833,10 @@
     "665dd4f1a1da78f166f941ed": {
       "published_at": "2026-10-27T05:51:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12000,
       "title": "बच्चों को धर्म और संस्कारों से जोड़ें : देवकीनंदन",
-      "updated_at": "2026-10-27T18:03:10.144388+00:00",
+      "updated_at": "2026-10-27T18:03:17.221444+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/connect-children-with-religion-and-values-devkinandan-solan-news-c-176-1-sln1009-182950-2026-10-27"
     },
     "66672a72b1333056df7ecdb4": {
@@ -7245,9 +7246,10 @@
     "6c86b635473b26d35c862138": {
       "published_at": "2026-10-27T17:12:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12002,
       "title": "Trump says US to ban ‘artificial intelligence’ term, pushes ‘super intelligence’",
-      "updated_at": "2026-10-27T18:03:10.144392+00:00",
+      "updated_at": "2026-10-27T18:03:25.174840+00:00",
       "url": "https://www.tribuneindia.com/news/ai/trump-says-us-to-ban-artificial-intelligence-term-pushes-super-intelligence"
     },
     "6ca3d9721d7ca6c6b15ba7b0": {
@@ -16196,9 +16198,10 @@
     "ec204f5bd07a5c8a0e316519": {
       "published_at": "2026-10-27T05:55:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12001,
       "title": "Solan News: प्रदेश में 19 हजार लीटर से खराब तेल जब्त, बायोफ्यूल बनाने में होगा इस्तेमाल",
-      "updated_at": "2026-10-27T18:03:10.144390+00:00",
+      "updated_at": "2026-10-27T18:03:21.190894+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/19000-litres-of-substandard-oil-seized-in-the-state-it-will-be-used-to-produce-biofuel-solan-news-c-176-1-sln1013-182949-2026-10-27"
     },
     "ec5c6c3bb75df34b96094b52": {
@@ -16717,9 +16720,10 @@
     "f2b6c88e8eee6741e0cd9df0": {
       "published_at": "2026-10-27T05:49:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11999,
       "title": "आस्था का संगम : सुबह से शाम तक लगा रहता था श्रद्धालुओं का तांता",
-      "updated_at": "2026-10-27T18:03:10.144372+00:00",
+      "updated_at": "2026-10-27T18:03:13.064825+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/a-confluence-of-faith-a-steady-stream-of-devotees-continued-from-morning-till-evening-kullu-news-c-89-1-ssml1015-190443-2026-10-27"
     },
     "f2ed4c3ba33bd5eb9bb79561": {
@@ -17817,6 +17821,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T18:03:10.145833+00:00",
+  "last_cycle_at": "2026-10-27T18:03:28.376815+00:00",
   "schema_version": 1
 }
