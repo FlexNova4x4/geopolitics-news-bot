@@ -1424,9 +1424,10 @@
     "17fd1ed0d3bec5c91cc134b0": {
       "published_at": "2026-10-27T10:03:32+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11592,
       "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
-      "updated_at": "2026-10-27T10:34:23.916707+00:00",
+      "updated_at": "2026-10-27T10:34:26.214969+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss"
     },
     "1856332a138aee5184c65413": {
@@ -5267,9 +5268,10 @@
     "615edb8afb43a7891fa20267": {
       "published_at": "2026-10-27T10:13:01+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11595,
       "title": "Congress vows to go ahead with curtain-raiser for Nov 1 rally",
-      "updated_at": "2026-10-27T10:34:23.916738+00:00",
+      "updated_at": "2026-10-27T10:34:37.534894+00:00",
       "url": "https://www.hindustantimes.com/india-news/congress-vows-to-go-ahead-with-curtain-raiser-for-nov-1-rally-101793095981931.html"
     },
     "61b023b54352ba94a7e64f4f": {
@@ -13289,9 +13291,10 @@
     "f19ff57b5bcc0bce0453ea82": {
       "published_at": "2026-10-27T10:12:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11594,
       "title": "Supreme Court issues notice on plea alleging Rahul Gandhi pushed pregnant journalist during October 12 march",
-      "updated_at": "2026-10-27T10:34:23.916732+00:00",
+      "updated_at": "2026-10-27T10:34:33.776333+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-seeks-response-on-plea-alleging-rahul-gandhi-pushed-a-pregnant-journalist-during-the-october-12-march/article71630580.ece"
     },
     "f1b35a6ef9792201dff06c5f": {
@@ -13961,9 +13964,10 @@
     "fc7be3ad58cf11b4dccb5d79": {
       "published_at": "2026-10-27T10:04:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11593,
       "title": "Telangana RTC land in Musheerabad for affordable housing sparks concerns",
-      "updated_at": "2026-10-27T10:34:23.916726+00:00",
+      "updated_at": "2026-10-27T10:34:29.997384+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-rtc-land-in-musheerabad-for-affordable-housing-sparks-concerns/article71630595.ece"
     },
     "fca160d88c8f21698cafcacf": {
@@ -14181,6 +14185,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:34:23.918174+00:00",
+  "last_cycle_at": "2026-10-27T10:34:40.737432+00:00",
   "schema_version": 1
 }
