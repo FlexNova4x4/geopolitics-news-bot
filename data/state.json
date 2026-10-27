@@ -1478,9 +1478,10 @@
     "1a4b43006e38173ffabbb601": {
       "published_at": "2026-10-27T10:36:54+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11632,
       "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
-      "updated_at": "2026-10-27T12:14:06.892178+00:00",
+      "updated_at": "2026-10-27T12:14:13.636748+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss"
     },
     "1a5d17f265428fb2a57c423e": {
@@ -3562,9 +3563,10 @@
     "41f75f87ed8c8e79c9ea4ae6": {
       "published_at": "2026-10-27T10:35:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11631,
       "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow spread in African countries",
-      "updated_at": "2026-10-27T12:14:06.892160+00:00",
+      "updated_at": "2026-10-27T12:14:09.759877+00:00",
       "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-spread-in-african-countries/article71630756.ece"
     },
     "42336781dfa56f9f3784a961": {
@@ -6460,9 +6462,10 @@
     "736dd129378993c7b13aac9d": {
       "published_at": "2026-10-27T10:37:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11634,
       "title": "Karnataka’s final electoral roll published after SIR",
-      "updated_at": "2026-10-27T12:14:06.892185+00:00",
+      "updated_at": "2026-10-27T12:14:21.404437+00:00",
       "url": "https://www.thehindu.com/videos/karnatakas-final-electoral-roll-published-after-sir/article71630933.ece"
     },
     "73b508190c935beb2a7b8b16": {
@@ -8221,9 +8224,10 @@
     "9322341c799fd23fbaa618b2": {
       "published_at": "2026-10-27T10:37:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11633,
       "title": "BRICS Parliamentary Forum adopts New Delhi Joint Declaration, calling for UN reform, multilateralism, and comprehensive counter-terrorism action",
-      "updated_at": "2026-10-27T12:14:06.892182+00:00",
+      "updated_at": "2026-10-27T12:14:17.517752+00:00",
       "url": "https://www.tribuneindia.com/news/brics-parliamentary-forum/brics-parliamentary-forum-adopts-new-delhi-joint-declaration-calling-for-un-reform-multilateralism-and-comprehensive-counter-terrorism-action"
     },
     "932560affe1587e67a06092a": {
@@ -14523,6 +14527,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:14:06.893352+00:00",
+  "last_cycle_at": "2026-10-27T12:14:24.606202+00:00",
   "schema_version": 1
 }
