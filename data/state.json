@@ -1524,9 +1524,10 @@
     "177f7ebc7b9fc3c533c406bd": {
       "published_at": "2026-10-27T13:11:17+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11750,
       "title": "TVK's Keerthana hits back at criticism over ‘gold ornaments', says Vijay's support keeps her strong",
-      "updated_at": "2026-10-27T13:42:37.494125+00:00",
+      "updated_at": "2026-10-27T13:42:40.749118+00:00",
       "url": "https://www.hindustantimes.com/india-news/tvks-keerthana-hits-back-at-criticism-over-gold-ornaments-says-vijays-support-keeps-her-strong-101793097502619.html"
     },
     "17905d75b07b50974ce94052": {
@@ -5592,9 +5593,10 @@
     "5dc4592b023e446dda613131": {
       "published_at": "2026-10-27T13:13:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11753,
       "title": "Seven MEMU passenger trains cancelled in Guntur region due to cyclone Arnab",
-      "updated_at": "2026-10-27T13:42:37.494149+00:00",
+      "updated_at": "2026-10-27T13:42:52.459928+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/seven-memu-passenger-trains-cancelled-in-guntur-region-due-to-cyclone-arnab/article71629876.ece"
     },
     "5de56479d4b50f297800ec7e": {
@@ -6327,9 +6329,10 @@
     "6998f63d7289973e3193a9e8": {
       "published_at": "2026-10-27T13:12:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11752,
       "title": "SRMIST students showcase semiconductor innovation from research to industry projects",
-      "updated_at": "2026-10-27T13:42:37.494146+00:00",
+      "updated_at": "2026-10-27T13:42:48.613166+00:00",
       "url": "https://www.thehindu.com/news/national/srmist-students-showcase-semiconductor-innovation-from-research-to-industry-projects/article71631615.ece"
     },
     "69ab4eac74d66449a2d0299e": {
@@ -6900,9 +6903,10 @@
     "72a2d33b808a214be974bc22": {
       "published_at": "2026-10-27T13:12:24+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11751,
       "title": "Norway and Finland leaders hold rare call with Putin",
-      "updated_at": "2026-10-27T13:42:37.494142+00:00",
+      "updated_at": "2026-10-27T13:42:44.636961+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
     },
     "72a5d5e5e222014a66841c36": {
@@ -15594,6 +15598,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:42:37.495556+00:00",
+  "last_cycle_at": "2026-10-27T13:42:55.661856+00:00",
   "schema_version": 1
 }
