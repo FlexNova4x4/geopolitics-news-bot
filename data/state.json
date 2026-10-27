@@ -228,9 +228,10 @@
     "0468a15c1cfdb3dd0fdb22c9": {
       "published_at": "2026-10-27T06:41:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11414,
       "title": "Telangana’s all-party delegation to visit Delhi after October 28 meet; to seek Centre’s help for El Nino related drought",
-      "updated_at": "2026-10-27T07:04:21.735027+00:00",
+      "updated_at": "2026-10-27T07:04:31.479228+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telanganas-all-party-delegation-to-visit-delhi-after-october-28-meet-to-seek-centres-help-for-el-nino-related-drought/article71628107.ece"
     },
     "047f73febe62dbfd38fc1e0c": {
@@ -830,9 +831,10 @@
     "1031fb995e567052568562cb": {
       "published_at": "2026-10-27T06:41:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11415,
       "title": "Odisha tribals protest doctor’s arrest; police allege anti-mining violence role",
-      "updated_at": "2026-10-27T07:04:21.735030+00:00",
+      "updated_at": "2026-10-27T07:04:35.242582+00:00",
       "url": "https://www.hindustantimes.com/india-news/odisha-tribals-protest-doctor-s-arrest-police-allege-anti-mining-violence-role-101793083318725.html"
     },
     "1067f720ed8ddbd666d764f0": {
@@ -1225,9 +1227,10 @@
     "16c55336ba09561f7b4157ab": {
       "published_at": "2026-10-27T06:40:26+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11413,
       "title": "मां चिंतपूर्णी के दरबार में सुबह की आरती और कंजक पूजन, देखें माता रानी की पूजा का वीडियो",
-      "updated_at": "2026-10-27T07:04:21.735023+00:00",
+      "updated_at": "2026-10-27T07:04:27.434931+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/una/video-maa-chintpurni-morning-aarti-kanjak-pujan-video-2026-10-27"
     },
     "16d556612946f51ef10bb1ab": {
@@ -1745,9 +1748,10 @@
     "2305434f6f7bbcb6e62e7de1": {
       "published_at": "2026-10-27T06:39:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11412,
       "title": "Government school teachers’ association seeks cluster kitchen centres for midday meal programme",
-      "updated_at": "2026-10-27T07:04:21.735006+00:00",
+      "updated_at": "2026-10-27T07:04:23.714673+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/government-school-teachers-association-seeks-cluster-kitchen-centres-for-midday-meal-programme/article71564494.ece"
     },
     "2328374c66e901f8ace77ac3": {
@@ -12570,6 +12574,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:04:21.736467+00:00",
+  "last_cycle_at": "2026-10-27T07:04:38.444696+00:00",
   "schema_version": 1
 }
