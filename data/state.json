@@ -153,6 +153,14 @@
       "updated_at": "2026-10-26T05:52:42.736468+00:00",
       "url": "https://thediplomat.com/2026/10/indonesia-seizes-more-than-2-tons-of-narcotics-in-major-anti-drug-operations"
     },
+    "02dffe14ab5f8ef57dd3f1c1": {
+      "published_at": "2026-10-27T07:33:46+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "21 lakh followers, just 33 poll votes: Rajasthan YouTuber-astrologer fails to ‘read’ own electoral fate",
+      "updated_at": "2026-10-27T08:04:49.696093+00:00",
+      "url": "https://www.tribuneindia.com/news/rajasthan/21-lakh-followers-just-33-poll-votes-rajasthan-youtuber-astrologer-fails-to-read-own-electoral-fate"
+    },
     "031348487f4a98c88df65555": {
       "published_at": "2026-10-25T12:24:51+00:00",
       "source": "thehindu.com",
@@ -5407,6 +5415,14 @@
       "updated_at": "2026-10-26T08:14:01.724935+00:00",
       "url": "https://www.hindustantimes.com/india-news/four-youths-charred-to-death-in-madhya-pradesh-dhar-after-car-hits-divider-catches-fire-101792993855201.html"
     },
+    "6b0c996fb86c3d01a481dbdd": {
+      "published_at": "2026-10-27T07:37:12+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "German climber dies while descending from Nepal’s Mt Ama Dablam",
+      "updated_at": "2026-10-27T08:04:49.696096+00:00",
+      "url": "https://www.tribuneindia.com/news/world/german-climber-dies-while-descending-from-nepals-mt-ama-dablam"
+    },
     "6b35917c39b29a754c14e88c": {
       "published_at": "2026-10-25T23:53:02+00:00",
       "source": "amarujala.com",
@@ -6052,6 +6068,14 @@
       "title": "Crowds welcome Venezuela's María Machado after months in exile",
       "updated_at": "2026-10-26T09:45:25.742010+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+    },
+    "766c8ede4a74168c3682d1cc": {
+      "published_at": "2026-10-27T07:26:48+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Cheetah cub found injured in MP's Morena, shifted to Kuno National Park; suspected to have been hit",
+      "updated_at": "2026-10-27T08:04:49.696073+00:00",
+      "url": "https://www.hindustantimes.com/india-news/cheetah-cub-found-injured-by-forest-division-in-mp-suspected-to-have-been-hit-kuno-national-park-101793084916387.html"
     },
     "76c36ad86e563e5798ac1800": {
       "published_at": "2026-10-26T12:05:16+00:00",
@@ -12298,6 +12322,14 @@
       "updated_at": "2026-10-27T06:06:08.691002+00:00",
       "url": "https://www.dawn.com/news/2040048/over-4000-govt-school-buildings-declared-dilapidated-in-kp"
     },
+    "f2ed4c3ba33bd5eb9bb79561": {
+      "published_at": "2026-10-27T07:28:33+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Maharashtra deploys ₹1.2-crore machines to check quality of medicines in government hospitals",
+      "updated_at": "2026-10-27T08:04:49.696089+00:00",
+      "url": "https://www.hindustantimes.com/india-news/handheld-devices-to-detect-spurious-drugs-in-maharashtra-government-health-systems-101793084930141.html"
+    },
     "f30d142922e2ed99df3863c6": {
       "published_at": "2026-10-25T09:28:42+00:00",
       "source": "thehindu.com",
@@ -13078,6 +13110,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:04:40.998978+00:00",
+  "last_cycle_at": "2026-10-27T08:04:49.697462+00:00",
   "schema_version": 1
 }
