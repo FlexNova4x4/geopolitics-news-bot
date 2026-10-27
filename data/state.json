@@ -8161,9 +8161,10 @@
     "8342e716d36e12099dfa8718": {
       "published_at": "2026-10-27T13:45:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11805,
       "title": "BEd students urge Kuvempu University to expedite exam process so that they can apply for teacher recruitment",
-      "updated_at": "2026-10-27T14:42:33.781477+00:00",
+      "updated_at": "2026-10-27T14:42:40.635249+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bed-students-urge-kuvempu-university-to-expedite-exam-process-so-that-they-can-apply-for-teacher-recruitment/article71630877.ece"
     },
     "83721c0f2e0fffde82176b41": {
@@ -8565,9 +8566,10 @@
     "88071c71315640f3892e900d": {
       "published_at": "2026-10-27T13:45:01+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11804,
       "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-      "updated_at": "2026-10-27T14:42:33.781461+00:00",
+      "updated_at": "2026-10-27T14:42:36.695564+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss"
     },
     "88511649eed7544cb44ff0ac": {
@@ -10171,9 +10173,10 @@
     "a27d9730f085445fd986e187": {
       "published_at": "2026-10-27T13:45:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11806,
       "title": "Hyderabad Metro eyes ‘Personal Rapid Transit System’ to solve last-mile connectivity issues",
-      "updated_at": "2026-10-27T14:42:33.781480+00:00",
+      "updated_at": "2026-10-27T14:42:44.502711+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-metro-eyes-personal-rapid-transit-system-to-solve-last-mile-connectivity-issues/article71631528.ece"
     },
     "a28ea3edee0b749c9c4f9060": {
@@ -12805,9 +12808,10 @@
     "ccd0eb167a20fb92674c6cdd": {
       "published_at": "2026-10-27T13:47:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11807,
       "title": "Independent candidate A.B. Venkateswara Rao promises corruption and rowdism free Vijayawada",
-      "updated_at": "2026-10-27T14:42:33.781482+00:00",
+      "updated_at": "2026-10-27T14:42:48.399444+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ab-venkateswara-rao-promises-a-vijayawada-free-of-corruption-and-rowdism/article71631297.ece"
     },
     "cd0fdecfaf7f0ed4a7c575d9": {
@@ -16080,6 +16084,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:42:33.782852+00:00",
+  "last_cycle_at": "2026-10-27T14:42:51.601408+00:00",
   "schema_version": 1
 }
