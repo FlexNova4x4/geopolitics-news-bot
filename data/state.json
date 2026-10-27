@@ -3649,6 +3649,14 @@
       "updated_at": "2026-10-25T16:17:18.920900+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-secures-six-of-nine-urban-local-bodies-in-kadapa-district-unopposed/article71623806.ece"
     },
+    "5190bc0338658923e06b72fe": {
+      "published_at": "2026-10-27T05:21:21+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Triple C gang plotting to disrupt festivals’: VHP slams INDIA bloc over Nov 1 Ramlila Maidan rally, cites traders’ appeal",
+      "updated_at": "2026-10-27T05:39:14.530682+00:00",
+      "url": "https://www.hindustantimes.com/india-news/triple-c-gang-plotting-to-disrupt-festivals-vhp-slams-india-bloc-over-nov-1-ramlila-maidan-rally-cites-traders-appeal-101793078050261.html"
+    },
     "51bce90f8438efcaf6f9661f": {
       "published_at": "2026-10-27T04:36:47+00:00",
       "source": "thehindu.com",
@@ -8684,6 +8692,14 @@
       "updated_at": "2026-10-27T03:11:02.779367+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
     },
+    "bd76ebba7716518ebf4f495b": {
+      "published_at": "2026-10-27T05:17:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Voting begins in Israel elections; Eisenkot invokes October 7 massacre to ask for votes, Netanyahu projects strong-man image",
+      "updated_at": "2026-10-27T05:39:14.530679+00:00",
+      "url": "https://www.tribuneindia.com/news/avigdor-liberman/voting-begins-in-israel-elections-eisenkot-invokes-october-7-massacre-to-ask-for-votes-netanyahu-projects-strong-man-image"
+    },
     "be2cd056c9f9f0713edde282": {
       "published_at": "2026-10-26T03:47:28+00:00",
       "source": "feeds.bbci.co.uk",
@@ -9609,6 +9625,14 @@
       "title": "Bihu dancers assaulted during Durga Puja immersion procession in Assam's Sribhumi, 17 held",
       "updated_at": "2026-10-26T08:44:42.966704+00:00",
       "url": "https://www.hindustantimes.com/india-news/bihu-dancers-assaulted-during-durga-puja-immersion-procession-in-assams-sribhumi-17-held-101793000759689.html"
+    },
+    "d3c0a562d320008d2c26615e": {
+      "published_at": "2026-10-27T05:14:13+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
+      "updated_at": "2026-10-27T05:39:14.530675+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss"
     },
     "d3cc583b77ee5170216fab24": {
       "published_at": "2026-10-26T06:26:26+00:00",
@@ -10705,6 +10729,14 @@
       "updated_at": "2026-10-25T16:15:00.373938+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-east-godavari-districts-step-up-cyclone-preparedness/article71623978.ece"
     },
+    "ec6a5d10904e0c3e7e5d9a46": {
+      "published_at": "2026-10-27T05:12:25+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘Sprint of the century’: ‘Paralysed’ beggar runs for his life on seeing injection",
+      "updated_at": "2026-10-27T05:39:14.530659+00:00",
+      "url": "https://www.tribuneindia.com/news/trending/sprint-of-the-century-paralysed-beggar-runs-for-his-life-on-seeing-injection"
+    },
     "ecc49ee6f3e46e78a31a1f9a": {
       "published_at": "2026-10-27T04:59:08+00:00",
       "source": "amarujala.com",
@@ -11737,6 +11769,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:39:07.292864+00:00",
+  "last_cycle_at": "2026-10-27T05:39:14.531913+00:00",
   "schema_version": 1
 }
