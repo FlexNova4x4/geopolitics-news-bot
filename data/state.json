@@ -93,9 +93,10 @@
     "027c3ef42c4ce16e050b81db": {
       "published_at": "2026-10-27T01:59:11+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11339,
       "title": "Pims officials face probe over alleged failure to address fire safety risks",
-      "updated_at": "2026-10-27T06:03:59.717759+00:00",
+      "updated_at": "2026-10-27T06:04:02.113202+00:00",
       "url": "https://www.dawn.com/news/2040023/pims-officials-face-probe-over-alleged-failure-to-address-fire-safety-risks"
     },
     "02afc6f4da48de06e0d013f4": {
@@ -1764,9 +1765,10 @@
     "2662fa12750c3bc70ec96902": {
       "published_at": "2026-10-27T03:51:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11341,
       "title": "Malaysia’s 2027 Budget: Fiscal Consolidation Continues Apace",
-      "updated_at": "2026-10-27T06:03:59.717780+00:00",
+      "updated_at": "2026-10-27T06:04:09.969896+00:00",
       "url": "https://thediplomat.com/2026/10/malaysias-2027-budget-fiscal-consolidation-continues-apace"
     },
     "266b9ee325a4599d084e8de5": {
@@ -3516,9 +3518,10 @@
     "4d6017a4185f798a2319c748": {
       "published_at": "2026-10-27T01:59:11+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11340,
       "title": "Frequent, prolonged power cuts irk Pindi residents",
-      "updated_at": "2026-10-27T06:03:59.717776+00:00",
+      "updated_at": "2026-10-27T06:04:06.032492+00:00",
       "url": "https://www.dawn.com/news/2040032/frequent-prolonged-power-cuts-irk-pindi-residents"
     },
     "4e3de2377cfa722e0860eaef": {
@@ -9987,9 +9990,10 @@
     "d787e309238284b7092ec62d": {
       "published_at": "2026-10-27T04:14:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11342,
       "title": "Indonesia Announces New Measures to Improve Stock Market Transparency",
-      "updated_at": "2026-10-27T06:03:59.717783+00:00",
+      "updated_at": "2026-10-27T06:04:13.698884+00:00",
       "url": "https://thediplomat.com/2026/10/indonesia-announces-new-measures-to-improve-stock-market-transparency"
     },
     "d7d0b5415ec50cca3d19921b": {
@@ -11913,6 +11917,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:03:59.719020+00:00",
+  "last_cycle_at": "2026-10-27T06:04:16.900801+00:00",
   "schema_version": 1
 }
