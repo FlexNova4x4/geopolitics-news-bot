@@ -1530,6 +1530,14 @@
       "updated_at": "2026-10-27T15:40:57.630191+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/israel-elections-voter-turnout-hits-highest-level-since-1973-as-participation-reaches-44-9-per-cent-by-2-pm-local-time"
     },
+    "15841bedeee571b89bd251c5": {
+      "published_at": "2026-10-27T19:12:28+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "MoS Jitin Prasada calls on Liechtenstein Deputy PM to strengthen bilateral trade and investment ties",
+      "updated_at": "2026-10-27T20:03:12.620354+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-relations/mos-jitin-prasada-calls-on-liechtenstein-deputy-pm-to-strengthen-bilateral-trade-and-investment-ties"
+    },
     "15b67cb5df2fa43b72d0e454": {
       "published_at": "2026-10-26T21:31:53+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4198,6 +4206,14 @@
       "title": "Israeli soldiers beat elderly Palestinian in Hebron",
       "updated_at": "2026-10-25T16:41:29.914434+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
+    },
+    "3e7b46f1912de6765bb1d7f5": {
+      "published_at": "2026-10-27T19:12:35+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
+      "updated_at": "2026-10-27T20:03:12.620374+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss"
     },
     "3eb0722bbaad12f068c7977b": {
       "published_at": "2026-10-27T15:20:09+00:00",
@@ -13049,6 +13065,14 @@
       "updated_at": "2026-10-27T04:11:50.440284+00:00",
       "url": "https://www.hindustantimes.com/india-news/centre-seeks-us-deportation-of-man-who-fled-india-despite-passport-lying-in-supreme-court-101793071768217.html"
     },
+    "b9906543eba98414c33ea879": {
+      "published_at": "2026-10-27T19:12:35+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Rajnath Singh to address ADMM-Plus on regional security, hold bilateral meetings with US, Japan, Australia",
+      "updated_at": "2026-10-27T20:03:12.620371+00:00",
+      "url": "https://www.tribuneindia.com/news/admm-plus/rajnath-singh-to-address-admm-plus-on-regional-security-hold-bilateral-meetings-with-us-japan-australia"
+    },
     "b9f51bfed272818e408aa895": {
       "published_at": "2026-10-27T01:16:08+00:00",
       "source": "thehindu.com",
@@ -13911,6 +13935,14 @@
       "title": "Survey of unincorporated enterprises to expand, shift to financial-year cycle from 2027",
       "updated_at": "2026-10-27T04:11:19.449556+00:00",
       "url": "https://www.hindustantimes.com/india-news/survey-of-unincorporated-enterprises-to-expand-shift-to-financial-year-cycle-from-2027-101793070454701.html"
+    },
+    "c57933eeae4e71d3ef3462c0": {
+      "published_at": "2026-10-27T19:16:46+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Women protests force Ladakh administration to discuss ‘declaring region a dry UT'",
+      "updated_at": "2026-10-27T20:03:12.620376+00:00",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/women-protests-force-ladakh-administration-to-discuss-declaring-region-a-dry-ut/article71632294.ece"
     },
     "c57c995aed21182697ff6a61": {
       "published_at": "2026-10-25T04:52:21+00:00",
@@ -18163,6 +18195,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T20:03:04.516558+00:00",
+  "last_cycle_at": "2026-10-27T20:03:12.621715+00:00",
   "schema_version": 1
 }
