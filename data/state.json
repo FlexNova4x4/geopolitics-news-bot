@@ -8069,6 +8069,14 @@
       "updated_at": "2026-10-25T15:14:15.508847+00:00",
       "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
     },
+    "76583f66463d1a4ec2128b4c": {
+      "published_at": "2026-10-27T19:21:03+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Are coronary stents necessary?",
+      "updated_at": "2026-10-27T19:34:16.020837+00:00",
+      "url": "https://www.thehindu.com/opinion/op-ed/are-coronary-stents-necessary/article71633062.ece"
+    },
     "765a39c00741aee1397c5a38": {
       "published_at": "2026-10-26T07:10:17+00:00",
       "source": "thehindu.com",
@@ -10551,6 +10559,14 @@
       "title": "Nasirabad pylon blast cuts power to many areas",
       "updated_at": "2026-10-25T04:06:05.451448+00:00",
       "url": "https://www.dawn.com/news/2039580/nasirabad-pylon-blast-cuts-power-to-many-areas"
+    },
+    "983d3f6b91640daa829aea67": {
+      "published_at": "2026-10-27T19:32:09+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Bilaspur News: बिलासपुर में ई-ऑटो के 40 परमिट होंगे जारी, 16 नवंबर तक करें आवेदन",
+      "updated_at": "2026-10-27T19:34:16.020859+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/40-e-auto-permits-to-be-issued-in-bilaspur-apply-by-november-16-bilaspur-news-c-92-1-ssml1001-170770-2026-10-28"
     },
     "985c5e6e1837e71bfbb3f6c7": {
       "published_at": "2026-10-26T18:56:32+00:00",
@@ -15396,6 +15412,14 @@
       "updated_at": "2026-10-27T15:42:14.527045+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/raja-ravi-varma-awards-for-c-douglas-nn-rimzon/article71632231.ece"
     },
+    "dbf5f1d6245ce95c19ca3775": {
+      "published_at": "2026-10-27T19:30:11+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Bilaspur News: जिले में बनेंगे चार नए 33 केवी सब स्टेशन, 40 से 50 करोड़ होंगे खर्च",
+      "updated_at": "2026-10-27T19:34:16.020856+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/four-new-33-kv-substations-will-be-built-in-the-district-40-to-50-crore-rupees-will-be-spent-bilaspur-news-c-92-1-bls1001-170786-2026-10-28"
+    },
     "dc0211b68a6d222749fceac1": {
       "published_at": "2026-10-27T08:33:33+00:00",
       "source": "hindustantimes.com",
@@ -18100,6 +18124,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T19:34:10.503572+00:00",
+  "last_cycle_at": "2026-10-27T19:34:16.022478+00:00",
   "schema_version": 1
 }
