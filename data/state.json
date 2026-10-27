@@ -903,9 +903,10 @@
     "121d68f03f8c9b07d3d66026": {
       "published_at": "2026-10-27T05:33:50+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11346,
       "title": "हिमाचल: खलोटा में सड़क धंसने से एनएच-205 बंद, शिमला-बिलासपुर जाने वाले वाहन इन वैकल्पिक रास्तों से निकलें",
-      "updated_at": "2026-10-27T06:04:24.438839+00:00",
+      "updated_at": "2026-10-27T06:04:39.557999+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/nh-205-closed-khalota-road-collapse-namhol-bilaspur-alternate-routes-2026-10-27"
     },
     "122f4b44375621db7d5c1989": {
@@ -5013,9 +5014,10 @@
     "6e329e2cf5359caaeeb6c525": {
       "published_at": "2026-10-27T05:33:18+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11345,
       "title": "Remand of suspect in US postal tickets scam extended",
-      "updated_at": "2026-10-27T06:04:24.438836+00:00",
+      "updated_at": "2026-10-27T06:04:35.652799+00:00",
       "url": "https://www.dawn.com/news/2040077/remand-of-suspect-in-us-postal-tickets-scam-extended"
     },
     "6e4439a42a30610f7a172242": {
@@ -7480,9 +7482,10 @@
     "a127bd53c5c08b05c89d0a59": {
       "published_at": "2026-10-27T05:29:24+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11343,
       "title": "Tracking the money: The biggest donors in the 2026 US midterm elections",
-      "updated_at": "2026-10-27T06:04:24.438817+00:00",
+      "updated_at": "2026-10-27T06:04:27.827881+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections?traffic_source=rss"
     },
     "a176d95bb554ebbd1769568e": {
@@ -10687,9 +10690,10 @@
     "e85c9e10d19df7501c178e6e": {
       "published_at": "2026-10-27T05:30:33+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11344,
       "title": "Portion of NH-205 sinks near Bilaspur, traffic diverted on Shimla highway",
-      "updated_at": "2026-10-27T06:04:24.438832+00:00",
+      "updated_at": "2026-10-27T06:04:31.743459+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/portion-of-nh-205-sinks-near-bilaspur-traffic-diverted-on-shimla-highway"
     },
     "e86dd046eb1ca09f70846ee8": {
@@ -11949,6 +11953,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:04:24.440301+00:00",
+  "last_cycle_at": "2026-10-27T06:04:42.759805+00:00",
   "schema_version": 1
 }
