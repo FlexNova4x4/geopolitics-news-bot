@@ -3830,6 +3830,14 @@
       "updated_at": "2026-10-27T09:34:53.973174+00:00",
       "url": "https://www.hindustantimes.com/india-news/sc-refrains-from-directing-eci-to-preserve-files-amid-row-over-sir-decisions-101793090939337.html"
     },
+    "3b5c60e41a9f67ef2f68fdeb": {
+      "published_at": "2026-10-27T16:01:29+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Contemplating law against child pornography, Centre tells Supreme Court",
+      "updated_at": "2026-10-27T16:42:34.221710+00:00",
+      "url": "https://www.thehindu.com/news/national/contemplating-law-against-child-pornography-centre-tells-supreme-court/article71632394.ece"
+    },
     "3b68e81a949a5bbff4ab7f7b": {
       "published_at": "2026-10-25T08:04:16+00:00",
       "source": "thehindu.com",
@@ -5788,6 +5796,14 @@
       "title": "5 dead in shooting at Assam hotel; cops say rift involving property owner, renter triggered incident",
       "updated_at": "2026-10-27T01:41:15.292043+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-guwahati-hotel-shooting-death-toll-police-dispute-involving-property-owner-renter-triggered-incident-101793062102678.html"
+    },
+    "59379bbf793bb08781817d1a": {
+      "published_at": "2026-10-27T15:58:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India widens its maritime partnerships in Busan, from Shipbuilding supply chains to Ship recycling",
+      "updated_at": "2026-10-27T16:42:34.221690+00:00",
+      "url": "https://www.tribuneindia.com/news/indian-shipyards/india-widens-its-maritime-partnerships-in-busan-from-shipbuilding-supply-chains-to-ship-recycling"
     },
     "594cb921dda3d99845baa6b7": {
       "published_at": "2026-10-27T08:28:45+00:00",
@@ -11465,6 +11481,14 @@
       "updated_at": "2026-10-27T09:04:49.195135+00:00",
       "url": "https://www.tribuneindia.com/news/brazil-politics/brazilian-government-downplays-possible-refusal-by-trump-milei-to-recognise-lulas-victory"
     },
+    "abf0be3aea3b7415734cd75f": {
+      "published_at": "2026-10-27T15:58:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "HYDRAA removes seven borewells near Fox Sagar",
+      "updated_at": "2026-10-27T16:42:34.221704+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/hydraa-removes-seven-borewells-near-fox-sagar/article71632764.ece"
+    },
     "ac3ce2a68e95ddc507bda45e": {
       "published_at": "2026-10-26T10:41:02+00:00",
       "source": "thehindu.com",
@@ -16931,6 +16955,14 @@
       "updated_at": "2026-10-25T05:41:32.787262+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/when-safety-slips-through-a-gaping-hole/article71620990.ece"
     },
+    "fbb3280e6a5811fe05be81d2": {
+      "published_at": "2026-10-27T16:01:10+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "In bid to boost exports, govt sets 120-day deadline for roadmap to expand shrimp farming",
+      "updated_at": "2026-10-27T16:42:34.221708+00:00",
+      "url": "https://www.dawn.com/news/2040236/in-bid-to-boost-exports-govt-sets-120-day-deadline-for-roadmap-to-expand-shrimp-farming"
+    },
     "fbc24ecca6acd3f37db7a52f": {
       "published_at": "2026-10-27T06:31:45+00:00",
       "source": "amarujala.com",
@@ -17272,6 +17304,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T16:42:16.380958+00:00",
+  "last_cycle_at": "2026-10-27T16:42:34.223240+00:00",
   "schema_version": 1
 }
