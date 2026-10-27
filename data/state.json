@@ -1017,6 +1017,14 @@
       "updated_at": "2026-10-27T04:10:59.256813+00:00",
       "url": "https://www.hindustantimes.com/india-news/17-convicts-escape-tamil-nadu-after-claiming-one-of-them-was-suffering-was-epilepsy-theni-inmates-jailbreak-101793070884454.html"
     },
+    "11d59812b4bd54c4b712b6c9": {
+      "published_at": "2026-10-27T09:49:08+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Police invoke culpable homicide charges in Harsh Vihar collapse case that killed 2",
+      "updated_at": "2026-10-27T10:05:24.055066+00:00",
+      "url": "https://www.hindustantimes.com/india-news/police-invoke-culpable-homicide-charges-in-harsh-vihar-collapse-case-that-killed-2-101793094549038.html"
+    },
     "11f78ea66b52139c2900f3c1": {
       "published_at": "2026-10-25T02:21:56+00:00",
       "source": "thehindu.com",
@@ -7609,6 +7617,14 @@
       "updated_at": "2026-10-26T06:23:23.603208+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-new-shimla-housing-safety-and-parking-crisis-2026-10-26"
     },
+    "8b52d468fd0ea2345fc34db5": {
+      "published_at": "2026-10-27T09:49:38+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Karnataka Deputy Chief Minister G. Parameshwara hospitalised after respiratory complaint",
+      "updated_at": "2026-10-27T10:05:24.055070+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-g-parameshwara-hospitalised-after-respiratory-complaint/article71630659.ece"
+    },
     "8b7e40d6cfb888ec0aa7b49d": {
       "published_at": "2026-10-26T05:30:46+00:00",
       "source": "amarujala.com",
@@ -8570,6 +8586,14 @@
       "title": "Govt. to fund half the cost of deepwater wells, recover money from winners",
       "updated_at": "2026-10-25T07:35:28.169086+00:00",
       "url": "https://www.thehindu.com/news/national/government-to-pay-up-to-half-the-cost-of-risky-deepwater-exploration-wells/article71622746.ece"
+    },
+    "9ce35593c6bccb6854a35174": {
+      "published_at": "2026-10-27T09:46:27+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Rage over E20 fuel was ‘paid campaign’: Nitin Gadkari",
+      "updated_at": "2026-10-27T10:05:24.055049+00:00",
+      "url": "https://www.tribuneindia.com/news/india/rage-over-e20-fuel-was-paid-campaign-nitin-gadkari"
     },
     "9d190a7b682ba59b2b49cda7": {
       "published_at": "2026-10-26T20:07:56+00:00",
@@ -10914,6 +10938,14 @@
       "title": "16.7% Voter Turnout reported in Israel polls till 10 am local time",
       "updated_at": "2026-10-27T10:05:02.226712+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/16-7-voter-turnout-reported-in-israel-polls-till-10-am-local-time"
+    },
+    "c91804fd8aa4c2b231a271fc": {
+      "published_at": "2026-10-27T09:52:36+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "WNBA Finals: Valkyries beat Dream to reach the brink of their first title",
+      "updated_at": "2026-10-27T10:05:24.055073+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss"
     },
     "c94066e09036726fec15eff8": {
       "published_at": "2026-10-25T12:05:58+00:00",
@@ -14023,6 +14055,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:05:17.055074+00:00",
+  "last_cycle_at": "2026-10-27T10:05:24.056805+00:00",
   "schema_version": 1
 }
