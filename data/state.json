@@ -1712,9 +1712,10 @@
     "23cbe0f671033e739a3fb962": {
       "published_at": "2026-10-27T05:50:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11368,
       "title": "Stock markets fall in early trade amid persistently elevated crude oil prices, IT selling",
-      "updated_at": "2026-10-27T06:06:43.911604+00:00",
+      "updated_at": "2026-10-27T06:06:49.792419+00:00",
       "url": "https://www.thehindu.com/business/markets/stock-markets-fall-in-early-trade-on-tuesday-amid-elevated-crude-oil-prices-and-it-selling/article71629855.ece"
     },
     "23ead5ea2873dd1a9357dc38": {
@@ -1854,9 +1855,10 @@
     "26dd5b47d03916618a208a38": {
       "published_at": "2026-10-27T05:52:42+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11369,
       "title": "Peshawar policemen accused of shielding suspects in Rs10m robbery case",
-      "updated_at": "2026-10-27T06:06:43.911608+00:00",
+      "updated_at": "2026-10-27T06:06:53.703776+00:00",
       "url": "https://www.dawn.com/news/2040173/peshawar-policemen-accused-of-shielding-suspects-in-rs10m-robbery-case"
     },
     "27360f96f4c2c843f2bac350": {
@@ -7509,9 +7511,10 @@
     "9da77877aa145452ea714a42": {
       "published_at": "2026-10-27T05:53:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11370,
       "title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
-      "updated_at": "2026-10-27T06:06:43.911611+00:00",
+      "updated_at": "2026-10-27T06:06:57.616180+00:00",
       "url": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece"
     },
     "9def979b58e94ad698e81cb7": {
@@ -8351,9 +8354,10 @@
     "b17cccc32ea3e5be3c1e8c18": {
       "published_at": "2026-10-27T05:47:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11367,
       "title": "“Your vote really means a lot”: Israeli’s exercise franchise, surveys show dead heat between Netanyahu-Eisenkot",
-      "updated_at": "2026-10-27T06:06:43.911588+00:00",
+      "updated_at": "2026-10-27T06:06:46.023695+00:00",
       "url": "https://www.tribuneindia.com/news/democracy/your-vote-really-means-a-lot-israelis-exercise-franchise-surveys-show-dead-heat-between-netanyahu-eisenkot"
     },
     "b1921293cc4a250f809ac09f": {
@@ -12165,6 +12169,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:06:43.913002+00:00",
+  "last_cycle_at": "2026-10-27T06:07:00.818154+00:00",
   "schema_version": 1
 }
