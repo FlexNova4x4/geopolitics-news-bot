@@ -372,9 +372,10 @@
     "08399cd0a307fdc78d87fbac": {
       "published_at": "2026-10-27T03:45:18+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11254,
       "title": "North Korea-South Korea tensions rise as howitzers spotted near border, blame game via UN intensifies",
-      "updated_at": "2026-10-27T04:11:40.264233+00:00",
+      "updated_at": "2026-10-27T04:11:46.497101+00:00",
       "url": "https://www.hindustantimes.com/india-news/north-korea-south-korea-tensions-rise-as-howitzers-spotted-near-border-un-row-deepens-101793063530505.html"
     },
     "083ceb6883bfa042ce15c7dc": {
@@ -4429,9 +4430,10 @@
     "683ae934eb1a4125cf3a9e30": {
       "published_at": "2026-10-27T03:44:00+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11253,
       "title": "Gatherings banned in Balochistan's Pishin ahead of intensified operation",
-      "updated_at": "2026-10-27T04:11:40.264207+00:00",
+      "updated_at": "2026-10-27T04:11:42.542075+00:00",
       "url": "https://www.dawn.com/news/2040066/gatherings-banned-in-balochistans-pishin-ahead-of-intensified-operation"
     },
     "685c785c52dad91abf0fd806": {
@@ -8082,9 +8084,10 @@
     "b99052069b744b362052aaba": {
       "published_at": "2026-10-27T03:47:17+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11255,
       "title": "Centre seeks US deportation of man who fled India despite passport lying in Supreme Court",
-      "updated_at": "2026-10-27T04:11:40.264239+00:00",
+      "updated_at": "2026-10-27T04:11:50.440284+00:00",
       "url": "https://www.hindustantimes.com/india-news/centre-seeks-us-deportation-of-man-who-fled-india-despite-passport-lying-in-supreme-court-101793071768217.html"
     },
     "b9f51bfed272818e408aa895": {
@@ -9707,9 +9710,10 @@
     "e0fdd42795ddb422d851d922": {
       "published_at": "2026-10-27T03:47:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11256,
       "title": "Jana Sena’s MLC claim sparks unease in Telangana BJP",
-      "updated_at": "2026-10-27T04:11:40.264243+00:00",
+      "updated_at": "2026-10-27T04:11:54.414544+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/jana-senas-mlc-claim-sparks-unease-in-telangana-bjp/article71628360.ece"
     },
     "e127edf653344941d2b9c0e0": {
@@ -11139,6 +11143,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T04:11:40.265586+00:00",
+  "last_cycle_at": "2026-10-27T04:11:57.617381+00:00",
   "schema_version": 1
 }
