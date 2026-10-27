@@ -5212,9 +5212,10 @@
     "712accc774e0ebe41e6f1515": {
       "published_at": "2026-10-27T05:34:33+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11347,
       "title": "Air India issues travel advisory as Cyclone Arnab threatens flights to Visakhapatnam, Vijayawada",
-      "updated_at": "2026-10-27T06:04:49.383410+00:00",
+      "updated_at": "2026-10-27T06:04:51.887411+00:00",
       "url": "https://www.hindustantimes.com/india-news/air-india-issues-travel-advisory-as-cyclone-arnab-threatens-flights-to-visakhapatnam-vijayawada-101793078799006.html"
     },
     "7132157c130931055a1a4ad2": {
@@ -5785,9 +5786,10 @@
     "7bdc67fe66f4149f0371807e": {
       "published_at": "2026-10-27T05:37:18+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11350,
       "title": "Sindh taking practical measures to increase agricultural production: Sharjeel",
-      "updated_at": "2026-10-27T06:04:49.383435+00:00",
+      "updated_at": "2026-10-27T06:05:03.634091+00:00",
       "url": "https://www.dawn.com/news/2040096/sindh-taking-practical-measures-to-increase-agricultural-production-sharjeel"
     },
     "7be769f141d40f6f3e16760b": {
@@ -9458,9 +9460,10 @@
     "cbbb08d37f80f56aff97862e": {
       "published_at": "2026-10-27T05:37:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11349,
       "title": "Polling underway in Israel election, families of October 7 victims call for ‘vote for party committed to commission of inquiry on attack’",
-      "updated_at": "2026-10-27T06:04:49.383432+00:00",
+      "updated_at": "2026-10-27T06:04:59.696582+00:00",
       "url": "https://www.tribuneindia.com/news/commission-inquiry/polling-underway-in-israel-election-families-of-october-7-victims-call-for-vote-for-party-committed-to-commission-of-inquiry-on-attack"
     },
     "cbce91fdd240a5bb88efe0cf": {
@@ -9610,9 +9613,10 @@
     "cf7273d3875d739588b5503a": {
       "published_at": "2026-10-27T05:35:19+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11348,
       "title": "Petroleum minister blames closure of Pak-Iran border for LPG price hike",
-      "updated_at": "2026-10-27T06:04:49.383428+00:00",
+      "updated_at": "2026-10-27T06:04:55.795208+00:00",
       "url": "https://www.dawn.com/news/2040171/petroleum-minister-blames-closure-of-pak-iran-border-for-lpg-price-hike"
     },
     "cf95b9b131e6fcbdd8054401": {
@@ -11985,6 +11989,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:04:49.384739+00:00",
+  "last_cycle_at": "2026-10-27T06:05:06.836038+00:00",
   "schema_version": 1
 }
