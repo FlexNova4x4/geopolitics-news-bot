@@ -3005,9 +3005,10 @@
     "3bfae3c07cde8e41f296c547": {
       "published_at": "2026-10-27T07:55:01+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11490,
       "title": "Qatar’s path to defence autonomy",
-      "updated_at": "2026-10-27T08:06:43.323814+00:00",
+      "updated_at": "2026-10-27T08:06:53.349941+00:00",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy?traffic_source=rss"
     },
     "3c497751b4196702db1904df": {
@@ -7908,9 +7909,10 @@
     "982f0250761141acd49c9384": {
       "published_at": "2026-10-27T07:57:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11491,
       "title": "Israel votes: Eisenkot campaigns in Kibutz Nir Oz, site of October 7 massacre; pledges to bring healing",
-      "updated_at": "2026-10-27T08:06:43.323819+00:00",
+      "updated_at": "2026-10-27T08:06:57.110207+00:00",
       "url": "https://www.tribuneindia.com/news/avigdor-liberman/israel-votes-eisenkot-campaigns-in-kibutz-nir-oz-site-of-october-7-massacre-pledges-to-bring-healing"
     },
     "982fd09da3a2325f2e1358d8": {
@@ -10655,9 +10657,10 @@
     "cf66082ef04048fba14b8255": {
       "published_at": "2026-10-27T07:53:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11489,
       "title": "When RSS first acknowledged Sikhism as a separate religion with a distinct ideology",
-      "updated_at": "2026-10-27T08:06:43.323806+00:00",
+      "updated_at": "2026-10-27T08:06:49.435536+00:00",
       "url": "https://www.tribuneindia.com/news/india/when-rss-first-acknowledged-sikhism-as-a-separate-religion-with-a-distinct-ideology"
     },
     "cf7273d3875d739588b5503a": {
@@ -11453,9 +11456,10 @@
     "df9b7f6a1a6e2daf76746ab2": {
       "published_at": "2026-10-27T07:52:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11488,
       "title": "Counting of votes begins for North-East Teachers’ constituency in Karnataka Council elections",
-      "updated_at": "2026-10-27T08:06:43.323781+00:00",
+      "updated_at": "2026-10-27T08:06:45.689266+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/counting-of-votes-begins-for-north-east-teachers-constituency-in-karnataka-council-elections/article71630289.ece"
     },
     "e02764594c758da8f812bc5f": {
@@ -13254,6 +13258,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:06:43.325414+00:00",
+  "last_cycle_at": "2026-10-27T08:07:00.312400+00:00",
   "schema_version": 1
 }
