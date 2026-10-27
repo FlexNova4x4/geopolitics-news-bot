@@ -90,6 +90,14 @@
       "updated_at": "2026-10-25T05:39:48.980594+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-25-ec-keeps-sir-software-under-wraps-pistols-used-in-shroff-firing-found-101792898097293.html"
     },
+    "0207b220ce053bf2f28629dc": {
+      "published_at": "2026-10-27T11:42:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Dutch broadcaster pulls out of Eurovision over Israel ‘sensitivities’",
+      "updated_at": "2026-10-27T12:18:35.996613+00:00",
+      "url": "https://www.thehindu.com/news/international/netherlands-withdraws-from-eurovision-2027-amid-sensitivities-over-israels-participation-given-its-military-campaign-in-gaza/article71631050.ece"
+    },
     "021538e234784e76fb06a895": {
       "published_at": "2026-10-27T03:18:10+00:00",
       "source": "thehindu.com",
@@ -1960,6 +1968,14 @@
       "title": "Japan to upgrade “Big B” initiative under new strategic cooperation with Bangladesh: PM Sanae Takaichi",
       "updated_at": "2026-10-27T08:33:39.969424+00:00",
       "url": "https://www.tribuneindia.com/news/bangladesh/japan-to-upgrade-big-b-initiative-under-new-strategic-cooperation-with-bangladesh-pm-sanae-takaichi"
+    },
+    "21d301e9a501e99f0fb87cc3": {
+      "published_at": "2026-10-27T11:42:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Punjab Assembly: Stopped from entering House, Congress MLAs allege; stage protest",
+      "updated_at": "2026-10-27T12:18:35.996611+00:00",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-stopped-from-entering-house-congress-mlas-allege-stage-protest/article71631219.ece"
     },
     "22d141a243ed1872c7842577": {
       "published_at": "2026-10-26T00:12:40+00:00",
@@ -8887,6 +8903,14 @@
       "updated_at": "2026-10-26T07:44:54.322660+00:00",
       "url": "https://www.hindustantimes.com/india-news/video-shows-343-voter-id-cards-found-along-narmada-riverbank-in-madhya-pradesh-congress-demands-probe-101792992855012.html"
     },
+    "9a68a9401ca29677ae843954": {
+      "published_at": "2026-10-27T11:39:10+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘There’s bound to be some tamasha’: Sonia Gandhi on her upcoming memoir ‘Belonging’",
+      "updated_at": "2026-10-27T12:18:35.996594+00:00",
+      "url": "https://www.hindustantimes.com/india-news/theres-bound-to-be-some-tamasha-sonia-gandhi-on-her-new-book-belonging-101793101117580.html"
+    },
     "9a8f5ee0da3782f2f58990c4": {
       "published_at": "2026-10-25T07:44:20+00:00",
       "source": "thehindu.com",
@@ -10663,6 +10687,14 @@
       "title": "Brazil election ‘rigged’, says Trump without citing evidence",
       "updated_at": "2026-10-27T01:42:09.031121+00:00",
       "url": "https://www.thehindu.com/news/international/brazil-election-rigged-says-trump-without-citing-evidence/article71629584.ece"
+    },
+    "b969e9a67a8a6280d8a51592": {
+      "published_at": "2026-10-27T11:42:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "12th BRICS parliamentary forum concludes in New Delhi, with adoption of joint declaration",
+      "updated_at": "2026-10-27T12:18:35.996608+00:00",
+      "url": "https://www.tribuneindia.com/news/brics/12th-brics-parliamentary-forum-concludes-in-new-delhi-with-adoption-of-joint-declaration"
     },
     "b96dc3dff51789390e24457a": {
       "published_at": "2026-10-25T07:15:38+00:00",
@@ -14851,6 +14883,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:18:28.081385+00:00",
+  "last_cycle_at": "2026-10-27T12:18:35.997922+00:00",
   "schema_version": 1
 }
