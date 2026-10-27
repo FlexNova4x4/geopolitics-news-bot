@@ -1478,9 +1478,10 @@
     "1e9c1d5a20bf805cb1e8e49a": {
       "published_at": "2026-10-27T06:15:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11384,
       "title": "Palestinian citizens of Israel can vote, but cannot expect change",
-      "updated_at": "2026-10-27T06:35:15.846161+00:00",
+      "updated_at": "2026-10-27T06:35:26.073052+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss"
     },
     "1ecd5dc6fb877438855c4018": {
@@ -2069,9 +2070,10 @@
     "2c3592fc193e24f9ed35c71d": {
       "published_at": "2026-10-27T06:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11385,
       "title": "Liechtenstein’s Hereditary Prince Alois, Princess Sophie pay tribute to Mahatma Gandhi at Rajghat",
-      "updated_at": "2026-10-27T06:35:15.846164+00:00",
+      "updated_at": "2026-10-27T06:35:29.793430+00:00",
       "url": "https://www.tribuneindia.com/news/liechtenstein/liechtensteins-hereditary-prince-alois-princess-sophie-pay-tribute-to-mahatma-gandhi-at-rajghat"
     },
     "2ca639c6b0aa4e783169be7d": {
@@ -4089,9 +4091,10 @@
     "5717bd2caf2d34fa21e56e0a": {
       "published_at": "2026-10-27T06:14:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11383,
       "title": "Bangladesh leader raises concerns over Assam forest eviction drive, State minister counters",
-      "updated_at": "2026-10-27T06:35:15.846156+00:00",
+      "updated_at": "2026-10-27T06:35:22.132214+00:00",
       "url": "https://www.thehindu.com/news/national/assam/bangladesh-leader-raises-concerns-over-assam-forest-eviction-drive-state-minister-counters/article71627246.ece"
     },
     "571a418bbe002d617bbe1259": {
@@ -4832,9 +4835,10 @@
     "66672a72b1333056df7ecdb4": {
       "published_at": "2026-10-27T06:12:58+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11382,
       "title": "PM Modi meets Liechtenstein’s Hereditary Prince Alois, Princess Sophie at Hyderabad House",
-      "updated_at": "2026-10-27T06:35:15.846141+00:00",
+      "updated_at": "2026-10-27T06:35:18.352875+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-relations/pm-modi-meets-liechtensteins-hereditary-prince-alois-princess-sophie-at-hyderabad-house"
     },
     "66e4a3b18137eacff7929089": {
@@ -12300,6 +12304,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:35:15.847564+00:00",
+  "last_cycle_at": "2026-10-27T06:35:32.995703+00:00",
   "schema_version": 1
 }
