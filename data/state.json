@@ -3621,6 +3621,14 @@
       "updated_at": "2026-10-26T11:45:06.602724+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss"
     },
+    "52dddde132de801ff7d604fe": {
+      "published_at": "2026-10-27T04:21:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "IITs have far fewer mental health counsellors than recommended by UGC: RTI data",
+      "updated_at": "2026-10-27T05:35:47.870484+00:00",
+      "url": "https://www.thehindu.com/education/iits-have-far-fewer-mental-health-counsellors-than-recommended-by-ugc-rti-data/article71627251.ece"
+    },
     "52f0d24601bfdef5427da1b8": {
       "published_at": "2026-10-26T22:37:17+00:00",
       "source": "publish.tribuneindia.com",
@@ -5314,6 +5322,14 @@
       "title": "Jamia students reject university’s appeal to end protest, say order on students’ union restoration is ‘ambiguous’",
       "updated_at": "2026-10-26T04:24:09.575837+00:00",
       "url": "https://www.hindustantimes.com/india-news/jamia-milia-islamia-students-14-day-protest-reject-agreement-with-university-jmi-delhi-101792982197611.html"
+    },
+    "77bd5876ab21d0d78fabe22d": {
+      "published_at": "2026-10-27T04:16:59+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Three-day State-level convention of farmers in Kalaburagi",
+      "updated_at": "2026-10-27T05:35:47.870469+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/three-day-state-level-convention-of-farmers-in-kalaburagi/article71627732.ece"
     },
     "77c44a85cab4f6bd039406a3": {
       "published_at": "2026-10-25T13:49:33+00:00",
@@ -9088,6 +9104,14 @@
       "updated_at": "2026-10-25T15:15:15.014913+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
     },
+    "ccc58351ac825cce4a52baac": {
+      "published_at": "2026-10-27T04:22:36+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल: करवाचौथ पर सजने-संवरने की तैयारी तेज, शिमला के पार्लरों में एडवांस बुकिंग; मिल रही 50% तक छूट",
+      "updated_at": "2026-10-27T05:35:47.870488+00:00",
+      "url": "https://www.amarujala.com/shimla/advance-bookings-at-beauty-parlors-to-ensure-karwa-chauth-glow-shimla-news-c-19-sml1002-810421-2026-10-26"
+    },
     "cd0fdecfaf7f0ed4a7c575d9": {
       "published_at": "2026-10-26T07:11:03+00:00",
       "source": "publish.tribuneindia.com",
@@ -11045,6 +11069,14 @@
       "updated_at": "2026-10-26T03:52:32.133857+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/3-teenage-girls-among-4-killed-as-speeding-car-runs-them-over-in-ups-firozabad"
     },
+    "f8aa394d62f5fe16aaf9ccb2": {
+      "published_at": "2026-10-27T04:25:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rape and murder accused killed in encounter in West Bengal’s Bongaon",
+      "updated_at": "2026-10-27T05:35:47.870491+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/rape-and-murder-accused-killed-in-encounter-in-west-bengals-bongaon/article71629772.ece"
+    },
     "f8b134d77ef1591439ded823": {
       "published_at": "2026-10-25T06:26:50+00:00",
       "source": "thehindu.com",
@@ -11413,6 +11445,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:35:43.337471+00:00",
+  "last_cycle_at": "2026-10-27T05:35:47.871821+00:00",
   "schema_version": 1
 }
