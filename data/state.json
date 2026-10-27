@@ -1488,9 +1488,10 @@
     "147da4b4a55fed7abeb1fc01": {
       "published_at": "2026-10-27T20:00:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12063,
       "title": "Hamirpur (Himachal) News: गांधी चौक में तीन दिवसीय मेहंदी उत्सव शुरू, ओलंपियन दिव्या शर्मा ने किया शुभारंभ",
-      "updated_at": "2026-10-27T20:05:29.050541+00:00",
+      "updated_at": "2026-10-27T20:05:40.205757+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/three-day-mehendi-festival-begins-at-gandhi-chowk-olympian-divya-sharma-inaugurates-the-event-hamirpur-hp-news-c-94-1-ssml1011-213545-2026-10-28"
     },
     "14996176530da03b1025658d": {
@@ -14913,9 +14914,10 @@
     "d34ac04bf63ca9bd616f8b3a": {
       "published_at": "2026-10-27T19:56:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12062,
       "title": "‘Science on wheels’ takes science beyond textbooks in Himachal",
-      "updated_at": "2026-10-27T20:05:29.050538+00:00",
+      "updated_at": "2026-10-27T20:05:36.213694+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/science-on-wheels-takes-science-beyond-textbooks-in-himachal"
     },
     "d3668175263fe51f4eb03573": {
@@ -17222,9 +17224,10 @@
     "f20537a593b2dc59bb92d816": {
       "published_at": "2026-10-27T19:54:41+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12061,
       "title": "Solan hosts Unified Games for children with special needs",
-      "updated_at": "2026-10-27T20:05:29.050522+00:00",
+      "updated_at": "2026-10-27T20:05:32.403378+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/solan-hosts-unified-games-for-children-with-special-needs"
     },
     "f23ade255af0dfa654cda756": {
@@ -18199,9 +18202,10 @@
     "fd7b93710cc1168ae16bbd24": {
       "published_at": "2026-10-27T20:01:32+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12064,
       "title": "Kiran Bhadana assumes charge as Bilaspur Deputy Commissioner",
-      "updated_at": "2026-10-27T20:05:29.050544+00:00",
+      "updated_at": "2026-10-27T20:05:44.201141+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kiran-bhadana-assumes-charge-as-bilaspur-deputy-commissioner"
     },
     "fd7dab0cce59f4579a049873": {
@@ -18375,6 +18379,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T20:05:29.051920+00:00",
+  "last_cycle_at": "2026-10-27T20:05:47.403223+00:00",
   "schema_version": 1
 }
