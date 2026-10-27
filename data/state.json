@@ -441,6 +441,14 @@
       "updated_at": "2026-10-25T04:36:00.411643+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss"
     },
+    "08d30e929aaafeaf69e21b7c": {
+      "published_at": "2026-10-27T05:37:36+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "J&K Cabinet extended: Meet the 4 new NC ministers who took oath today",
+      "updated_at": "2026-10-27T06:05:13.226952+00:00",
+      "url": "https://www.tribuneindia.com/news/j-k/jk-cabinet-extended-meet-the-4-new-nc-ministers-who-took-oath-today"
+    },
     "08d9f98c6cf930410f2f0c4c": {
       "published_at": "2026-10-25T03:20:22+00:00",
       "source": "dawn.com",
@@ -647,6 +655,14 @@
       "title": "PTI's KP chapter says avoided protest after emergency imposition to protect workers' lives",
       "updated_at": "2026-10-27T04:11:23.359813+00:00",
       "url": "https://www.dawn.com/news/2040160/ptis-kp-chapter-says-avoided-protest-after-emergency-imposition-to-protect-workers-lives"
+    },
+    "0c4ad1ea0b201f208875eff8": {
+      "published_at": "2026-10-27T05:39:56+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Sindh govt, police fulfilled promise of restoring peace across riverine areas: IGP",
+      "updated_at": "2026-10-27T06:05:13.226959+00:00",
+      "url": "https://www.dawn.com/news/2040095/sindh-govt-police-fulfilled-promise-of-restoring-peace-across-riverine-areas-igp"
     },
     "0c8751fdc5115eb71209e41f": {
       "published_at": "2026-10-26T08:44:15+00:00",
@@ -5819,6 +5835,14 @@
       "updated_at": "2026-10-26T22:42:09.710397+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/foreign-pilots-protest-three-day-ban-on-paragliding-at-bir-billing"
     },
+    "7c4a16c98964e534628eff4e": {
+      "published_at": "2026-10-27T05:39:22+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "खरगे के बयान के विरोध में सोलन में भाजपा का प्रदर्शन, कांग्रेस नेतृत्व के खिलाफ की नारेबाजी",
+      "updated_at": "2026-10-27T06:05:13.226956+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-bjp-solan-protest-against-mallikarjun-kharge-statement-2026-10-27"
+    },
     "7c5639c5913ba3dc5155f968": {
       "published_at": "2026-10-26T12:51:13+00:00",
       "source": "publish.tribuneindia.com",
@@ -9772,6 +9796,14 @@
       "updated_at": "2026-10-25T15:15:37.134444+00:00",
       "url": "https://www.thehindu.com/news/national/nepal-exports-electricity-worth-39-million-to-india-a-month-after-flash-floods/article71623757.ece"
     },
+    "d3668175263fe51f4eb03573": {
+      "published_at": "2026-10-27T05:37:22+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Congress questions RAF deployment amid Arunachal dam protests; 26 arrested in Pasighat, violence spreads to Upper Subansiri",
+      "updated_at": "2026-10-27T06:05:13.226936+00:00",
+      "url": "https://www.hindustantimes.com/india-news/congress-questions-raf-deployment-amid-arunachal-dam-protests-26-arrested-in-pasighat-violence-spreads-to-upper-subansiri-101793078248593.html"
+    },
     "d3805b47e18355e1e8d97bd8": {
       "published_at": "2026-10-26T07:37:19+00:00",
       "source": "publish.tribuneindia.com",
@@ -11989,6 +12021,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:05:06.836038+00:00",
+  "last_cycle_at": "2026-10-27T06:05:13.228338+00:00",
   "schema_version": 1
 }
