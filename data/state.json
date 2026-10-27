@@ -2076,6 +2076,14 @@
       "updated_at": "2026-10-27T05:38:56.291216+00:00",
       "url": "https://www.hindustantimes.com/india-news/38yearold-police-constable-collapses-dies-of-heart-attack-while-chasing-drug-suspect-101793077795123.html"
     },
+    "2d94e054f413dfafc579c07f": {
+      "published_at": "2026-10-27T05:40:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Precautionary measures in place in Vijayawada, temple ghat road closed to devotees",
+      "updated_at": "2026-10-27T06:05:34.418901+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/precautionary-measures-in-place-in-vijayawada-temple-ghat-road-closed-to-devotees/article71629889.ece"
+    },
     "2d9b57a6863ab998e431861c": {
       "published_at": "2026-10-26T02:55:15+00:00",
       "source": "aljazeera.com",
@@ -2767,6 +2775,14 @@
       "title": "Details of software used in SIR exempt from RTI, Election Commission cites 'trade secrets'",
       "updated_at": "2026-10-25T05:38:41.448804+00:00",
       "url": "https://www.hindustantimes.com/india-news/details-of-software-used-in-sir-exempt-from-rti-election-commission-cites-trade-secrets-101792887710352.html"
+    },
+    "3dcf9a3a5f4334e99f74f0c3": {
+      "published_at": "2026-10-27T05:43:08+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Flu cases double at Karachi hospitals in over a week amid seasonal shift",
+      "updated_at": "2026-10-27T06:05:34.418908+00:00",
+      "url": "https://www.dawn.com/news/2040103/flu-cases-double-at-karachi-hospitals-in-over-a-week-amid-seasonal-shift"
     },
     "3deb5ef23a745550ea5ecfc5": {
       "published_at": "2026-10-23T14:17:00+00:00",
@@ -4373,6 +4389,14 @@
       "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
       "updated_at": "2026-10-25T00:19:16.212300+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
+    },
+    "608ae8ed0efb7f61138ac0ea": {
+      "published_at": "2026-10-27T05:41:36+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Maharashtra agrees to reconsider Telangana's proposal to increase height of Tummidihatti barrage",
+      "updated_at": "2026-10-27T06:05:34.418905+00:00",
+      "url": "https://www.hindustantimes.com/india-news/maharashtra-agrees-to-reconsider-telanganas-proposal-to-increase-height-of-tummidihatti-barrage-telangana-border-devendra-fadnavis-revanth-reddy-101793078041037.html"
     },
     "609f356d695089c6c2a0a502": {
       "published_at": "2026-10-25T22:50:50+00:00",
@@ -8333,6 +8357,14 @@
       "updated_at": "2026-10-26T08:14:38.743665+00:00",
       "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss"
     },
+    "b3eb049e83882ac1a71dd245": {
+      "published_at": "2026-10-27T05:40:10+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Four policemen, two others booked for ‘looting’ people in Islamabad",
+      "updated_at": "2026-10-27T06:05:34.418886+00:00",
+      "url": "https://www.dawn.com/news/2040024/four-policemen-two-others-booked-for-looting-people-in-islamabad"
+    },
     "b3ee218c35f4b505f444e1d0": {
       "published_at": "2026-10-26T10:16:56+00:00",
       "source": "thehindu.com",
@@ -12025,6 +12057,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:05:30.194433+00:00",
+  "last_cycle_at": "2026-10-27T06:05:34.420117+00:00",
   "schema_version": 1
 }
