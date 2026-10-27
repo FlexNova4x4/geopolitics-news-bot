@@ -2565,9 +2565,10 @@
     "2c7f66e45e46dd2465521333": {
       "published_at": "2026-10-27T12:43:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11721,
       "title": "One dead, four others missing in Gabon oil rig disaster",
-      "updated_at": "2026-10-27T13:12:31.411202+00:00",
+      "updated_at": "2026-10-27T13:12:38.471820+00:00",
       "url": "https://www.thehindu.com/news/international/one-dead-four-others-missing-in-gabon-oil-rig-disaster/article71631512.ece"
     },
     "2ca639c6b0aa4e783169be7d": {
@@ -6911,9 +6912,10 @@
     "74776fbb1a48e2043d27cf8c": {
       "published_at": "2026-10-27T12:45:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11722,
       "title": "Assam approves 12% reservation for former Agniveers",
-      "updated_at": "2026-10-27T13:12:31.411205+00:00",
+      "updated_at": "2026-10-27T13:12:42.366229+00:00",
       "url": "https://www.thehindu.com/news/national/assam/assam-approves-12-reservation-for-former-agniveers/article71631389.ece"
     },
     "7484264c14558c2695e43fc8": {
@@ -10368,9 +10370,10 @@
     "af1fbd9463a93bd6bc5bb3ed": {
       "published_at": "2026-10-27T12:43:32+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11720,
       "title": "UP election office apologises over ‘sarcastic’ response to AAP MP’s question on X",
-      "updated_at": "2026-10-27T13:12:31.411188+00:00",
+      "updated_at": "2026-10-27T13:12:34.366673+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/up-election-office-apologises-over-sarcastic-response-to-aap-mps-question-on-x"
     },
     "af385fb296e702a42cf1ed7d": {
@@ -12355,9 +12358,10 @@
     "cfc5a0d8935dc159967f5d75": {
       "published_at": "2026-10-27T12:47:49+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11723,
       "title": "Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans",
-      "updated_at": "2026-10-27T13:12:31.411207+00:00",
+      "updated_at": "2026-10-27T13:12:46.364839+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss"
     },
     "cfd17c90a162ff72eecb06ca": {
@@ -15324,6 +15328,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:12:31.412676+00:00",
+  "last_cycle_at": "2026-10-27T13:12:49.566702+00:00",
   "schema_version": 1
 }
