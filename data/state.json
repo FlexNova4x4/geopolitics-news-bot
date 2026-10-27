@@ -351,6 +351,14 @@
       "updated_at": "2026-10-26T22:45:13.416920+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
     },
+    "05cc0ac167049f628cda3b4f": {
+      "published_at": "2026-10-27T02:46:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Daily Quiz: Imposition of martial law by President Iskander Mirza on October 7, 1958",
+      "updated_at": "2026-10-27T12:12:54.394105+00:00",
+      "url": "https://www.thehindu.com/news/international/daily-quiz-imposition-of-martial-law-by-president-iskander-mirza-on-october-7-1958/article71629630.ece"
+    },
     "05cc728f68ac05656377d31a": {
       "published_at": "2026-10-27T08:37:30+00:00",
       "source": "feeds.bbci.co.uk",
@@ -5947,6 +5955,14 @@
       "updated_at": "2026-10-27T03:41:45.034724+00:00",
       "url": "https://www.dawn.com/news/2040119/fcc-rejects-private-ownership-claim-on-state-land"
     },
+    "6c51b10ea3566bd3df94ef10": {
+      "published_at": "2026-10-27T00:01:35+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "ऊना: राष्ट्रीय थ्रोबॉल चैंपियनशिप के लिए हिमाचल की टीमें कोलकाता रवाना",
+      "updated_at": "2026-10-27T12:12:54.394061+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-himachal-teams-leave-for-kolkata-for-the-national-throwball-championship-2026-10-27"
+    },
     "6c55a5a25076b65b9f6529d3": {
       "published_at": "2026-10-26T05:27:16+00:00",
       "source": "publish.tribuneindia.com",
@@ -6520,6 +6536,14 @@
       "title": "Insurance worker booked for rape in Sahiwal",
       "updated_at": "2026-10-25T05:06:02.358538+00:00",
       "url": "https://www.dawn.com/news/2039546/insurance-worker-booked-for-rape-in-sahiwal"
+    },
+    "75de75b3b50ea354e59f708f": {
+      "published_at": "2026-10-27T00:05:45+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "चंबा: परछोड़ में विद्यार्थियों को अग्निशमन और आपदा प्रबंधन पर दिया प्रशिक्षण",
+      "updated_at": "2026-10-27T12:12:54.394102+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-students-in-parchhod-received-training-on-firefighting-and-disaster-management-2026-10-27"
     },
     "763215db47b2e1ed894b5208": {
       "published_at": "2026-10-25T14:09:33+00:00",
@@ -12138,6 +12162,14 @@
       "updated_at": "2026-10-26T04:24:13.661057+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/himachal-pradesh-15-000-crore-tourism-investment-and-airport-expansion-2026-10-26"
     },
+    "d84f320f95cd526e0ba0507f": {
+      "published_at": "2026-10-27T00:01:41+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Mandi News: अंडर-14 राज्य स्तरीय बैडमिंटन प्रतियोगिता के लिए दिवांशु का चयन",
+      "updated_at": "2026-10-27T12:12:54.394097+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/mandi/divanshu-selected-for-the-under-14-state-level-badminton-tournament-mandi-news-c-90-1-ssml1024-219432-2026-10-27"
+    },
     "d8d9cbac081d765d2027748b": {
       "published_at": "2026-10-26T08:23:03+00:00",
       "source": "publish.tribuneindia.com",
@@ -14419,6 +14451,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:12:45.608950+00:00",
+  "last_cycle_at": "2026-10-27T12:12:54.395390+00:00",
   "schema_version": 1
 }
