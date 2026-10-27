@@ -5156,9 +5156,10 @@
     "78fdf752f58f37e25b4a8334": {
       "published_at": "2026-10-27T02:46:01+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11227,
       "title": "How the first Guru Granth Sahib reached Australia in 1920: Two historians uncover the story",
-      "updated_at": "2026-10-27T03:11:39.703970+00:00",
+      "updated_at": "2026-10-27T03:11:50.161943+00:00",
       "url": "https://www.tribuneindia.com/news/punjab/how-the-first-guru-granth-sahib-reached-australia-in-1920-two-historians-uncover-the-story"
     },
     "79549203377c1e7ccbeca6b5": {
@@ -8631,9 +8632,10 @@
     "cba20f178ade08bc63a88720": {
       "published_at": "2026-10-27T02:43:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11225,
       "title": "Ankita Bhandari murder case: CBI summons journalist, main petitioner for questioning",
-      "updated_at": "2026-10-27T03:11:39.703938+00:00",
+      "updated_at": "2026-10-27T03:11:42.389283+00:00",
       "url": "https://www.hindustantimes.com/india-news/ankita-bhandari-murder-case-cbi-summons-journalist-main-petitioner-for-questioning-101793068917836.html"
     },
     "cbac302112c74c9f6e5a8448": {
@@ -8738,9 +8740,10 @@
     "ce05360d5d90600be59775c7": {
       "published_at": "2026-10-27T02:43:25+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11226,
       "title": "Jay-Z to perform at Super Bowl half-time show",
-      "updated_at": "2026-10-27T03:11:39.703965+00:00",
+      "updated_at": "2026-10-27T03:11:46.393349+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
     },
     "ce6e9e29c1f44014c788c4b6": {
@@ -8872,9 +8875,10 @@
     "d23a0c31b405d97539c30cae": {
       "published_at": "2026-10-27T02:47:09+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11228,
       "title": "US Congressman Krishnamoorthi leads 256 cosponsors in resolution to designate July as ‘Indian American Heritage Month’",
-      "updated_at": "2026-10-27T03:11:39.703974+00:00",
+      "updated_at": "2026-10-27T03:11:54.091240+00:00",
       "url": "https://www.tribuneindia.com/news/bipartisan-resolution/us-congressman-krishnamoorthi-leads-256-cosponsors-in-resolution-to-designate-july-as-indian-american-heritage-month"
     },
     "d293915be054fcbc4e578f87": {
@@ -10896,6 +10900,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:11:39.705758+00:00",
+  "last_cycle_at": "2026-10-27T03:11:57.294217+00:00",
   "schema_version": 1
 }
