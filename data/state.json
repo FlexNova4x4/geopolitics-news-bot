@@ -1945,9 +1945,10 @@
     "27997ed54afd406beb04ef8b": {
       "published_at": "2026-10-27T06:23:13+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11407,
       "title": "India-EU FTA to benefit Netherlands as trade, investment ties expand: Indian envoy",
-      "updated_at": "2026-10-27T07:03:35.539876+00:00",
+      "updated_at": "2026-10-27T07:03:49.537265+00:00",
       "url": "https://www.hindustantimes.com/india-news/indiaeu-fta-to-benefit-netherlands-as-trade-investment-ties-expand-indian-envoy-101793081734467.html"
     },
     "27a26879f4896f4862e2f97e": {
@@ -3220,9 +3221,10 @@
     "43d8fc7f64f914a4f28aa358": {
       "published_at": "2026-10-27T06:23:10+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11406,
       "title": "Bihar MLC polls: Congress candidate alleges CCTV missing at Bankipore counting hall, stages sit-in",
-      "updated_at": "2026-10-27T07:03:35.539871+00:00",
+      "updated_at": "2026-10-27T07:03:45.554030+00:00",
       "url": "https://www.hindustantimes.com/india-news/bihar-mlc-polls-congress-candidate-alleges-cctv-missing-at-bankipore-counting-hall-stages-sitin-101793079918721.html"
     },
     "43e53313b7a999937b974c1c": {
@@ -4538,9 +4540,10 @@
     "5f9c325b1b2d3c7bf02f5786": {
       "published_at": "2026-10-27T04:54:26+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11404,
       "title": "Saudi-led coalition says it downed Houthi missiles and drones",
-      "updated_at": "2026-10-27T07:03:35.539845+00:00",
+      "updated_at": "2026-10-27T07:03:37.868413+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss"
     },
     "5fba8bd71cc8f65aa2a24bbd": {
@@ -12233,9 +12236,10 @@
     "fb1acb802321b5d0d0564a33": {
       "published_at": "2026-10-27T06:22:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11405,
       "title": "Karnataka SIR: Final roll today amid row over exclusion of 10.8mn from draft list",
-      "updated_at": "2026-10-27T07:03:35.539865+00:00",
+      "updated_at": "2026-10-27T07:03:41.623535+00:00",
       "url": "https://www.hindustantimes.com/india-news/karnataka-sir-final-roll-today-amid-row-over-exclusion-of-10-8mn-from-draft-list-101793082179089.html"
     },
     "fb258567a8fa69c6548586d8": {
@@ -12498,6 +12502,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:03:35.541285+00:00",
+  "last_cycle_at": "2026-10-27T07:03:52.739215+00:00",
   "schema_version": 1
 }
