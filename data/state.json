@@ -6982,9 +6982,10 @@
     "8aa0deec5984dc494e3557ba": {
       "published_at": "2026-10-27T02:58:48+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11436,
       "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
-      "updated_at": "2026-10-27T07:34:30.376288+00:00",
+      "updated_at": "2026-10-27T07:34:36.295750+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
     },
     "8ab1c23be8ac8d3a118fd806": {
@@ -7485,9 +7486,10 @@
     "95695fd4f9f797a4252cb692": {
       "published_at": "2026-10-27T01:46:38+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11435,
       "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "updated_at": "2026-10-27T07:34:30.376272+00:00",
+      "updated_at": "2026-10-27T07:34:32.559799+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
     },
     "95f143944ae592eec44b7020": {
@@ -7691,9 +7693,10 @@
     "99a1103834757f3f6dc6d815": {
       "published_at": "2026-10-27T06:49:45+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11437,
       "title": "Sixty Christians killed in Ethiopia’s Oromia region",
-      "updated_at": "2026-10-27T07:34:30.376291+00:00",
+      "updated_at": "2026-10-27T07:34:40.039819+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss"
     },
     "99bfc25711806d69e3e77bce": {
@@ -9467,9 +9470,10 @@
     "bdd563972145e71a1846f07e": {
       "published_at": "2026-10-27T06:49:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11438,
       "title": "Protests erupt after Odisha man held in narcotics case dies in Haryana police custody",
-      "updated_at": "2026-10-27T07:34:30.376294+00:00",
+      "updated_at": "2026-10-27T07:34:43.773993+00:00",
       "url": "https://www.hindustantimes.com/india-news/protests-erupt-after-odisha-man-held-in-narcotics-case-dies-in-haryana-police-custody-101793083798501.html"
     },
     "be2cd056c9f9f0713edde282": {
@@ -12777,6 +12781,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:34:30.377707+00:00",
+  "last_cycle_at": "2026-10-27T07:34:46.976107+00:00",
   "schema_version": 1
 }
