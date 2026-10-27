@@ -3311,9 +3311,10 @@
     "43dad5f4bad0c837e028dcf0": {
       "published_at": "2026-10-27T07:16:12+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11433,
       "title": "Mandi News: पत्नी को हर माह 3,000 रुपये अंतरिम गुजारा भत्ता देने के आदेश",
-      "updated_at": "2026-10-27T07:06:20.997614+00:00",
+      "updated_at": "2026-10-27T07:06:27.213106+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/order-to-pay-an-interim-maintenance-allowance-of-rs-3000-per-month-to-the-wife-mandi-news-c-90-1-mnd1001-219313-2026-10-27"
     },
     "43e53313b7a999937b974c1c": {
@@ -9523,9 +9524,10 @@
     "bf676e8f64c226d79f1f0131": {
       "published_at": "2026-10-27T07:17:25+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11434,
       "title": "Kangra News: टीसीपी क्षेत्रों के पात्र परिवारों को भी मिलेंगे 2.50 लाख",
-      "updated_at": "2026-10-27T07:06:20.997618+00:00",
+      "updated_at": "2026-10-27T07:06:31.114881+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/eligible-families-in-tcp-areas-will-also-receive-250-lakh-kangra-news-c-90-1-mnd1001-219245-2026-10-27"
     },
     "bf9512d13647e1e0dcdb44bb": {
@@ -12629,9 +12631,10 @@
     "fd6f7ccd91356174e2c51db8": {
       "published_at": "2026-10-27T07:08:39+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11432,
       "title": "Kangra News: पीएम श्री जोगिंद्रनगर स्कूल के 45 स्वंयसेवी सम्मानित",
-      "updated_at": "2026-10-27T07:06:20.997599+00:00",
+      "updated_at": "2026-10-27T07:06:23.302256+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/45-volunteers-from-pm-shri-jogindernagar-school-honored-kangra-news-c-90-1-mnd1001-219336-2026-10-27"
     },
     "fd7dab0cce59f4579a049873": {
@@ -12742,6 +12745,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:06:20.999188+00:00",
+  "last_cycle_at": "2026-10-27T07:06:34.317048+00:00",
   "schema_version": 1
 }
