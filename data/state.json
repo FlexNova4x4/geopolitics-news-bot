@@ -606,9 +606,10 @@
     "086000a28fffe43fcf802c57": {
       "published_at": "2026-10-27T14:05:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11824,
       "title": "King Charles’s Caribbean tour: Will he discuss slavery reparations?",
-      "updated_at": "2026-10-27T14:44:50.427013+00:00",
+      "updated_at": "2026-10-27T14:44:53.690912+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss"
     },
     "08d15d0a4ec86561e07bee5e": {
@@ -4597,9 +4598,10 @@
     "4a251769c60a300588eb3a83": {
       "published_at": "2026-10-27T14:08:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11825,
       "title": "Elephant herds terrorise rubber estate workers, ravage crops in Keralam’s Palappilly",
-      "updated_at": "2026-10-27T14:44:50.427027+00:00",
+      "updated_at": "2026-10-27T14:44:57.542789+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/elephant-herds-terrorise-rubber-estate-workers-ravage-crops-in-keralams-palappilly/article71631803.ece"
     },
     "4a2be56f04022c2be4135f05": {
@@ -10738,9 +10740,10 @@
     "aa9b32d9414bf9a6f29fb5c0": {
       "published_at": "2026-10-27T14:11:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11827,
       "title": "SRM University–AP showcases 34 student start-ups at ‘PRARAMBH Demo Day’",
-      "updated_at": "2026-10-27T14:44:50.427032+00:00",
+      "updated_at": "2026-10-27T14:45:05.454461+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/srm-universityap-showcases-34-student-start-ups-at-prarambh-demo-day/article71630125.ece"
     },
     "aaa731da7deaa2d7e7c4bc0c": {
@@ -14072,9 +14075,10 @@
     "dfa1ace24d12aa1b10da5153": {
       "published_at": "2026-10-27T14:09:41+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11826,
       "title": "Karti Chidambaram slams Piyush Goyal for joking about long working hours in India, calls it ‘absurd’",
-      "updated_at": "2026-10-27T14:44:50.427030+00:00",
+      "updated_at": "2026-10-27T14:45:01.423524+00:00",
       "url": "https://www.tribuneindia.com/news/india/karti-chidambaram-slams-piyush-goyal-for-joking-about-long-working-hours-in-india-calls-it-absurd"
     },
     "e02764594c758da8f812bc5f": {
@@ -16260,6 +16264,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:44:50.428618+00:00",
+  "last_cycle_at": "2026-10-27T14:45:08.656462+00:00",
   "schema_version": 1
 }
