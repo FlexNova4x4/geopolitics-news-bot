@@ -2969,9 +2969,10 @@
     "3ff5d7b9a967598a92b51f15": {
       "published_at": "2026-10-27T06:12:04+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11381,
       "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
-      "updated_at": "2026-10-27T06:34:50.178620+00:00",
+      "updated_at": "2026-10-27T06:35:04.328812+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss"
     },
     "4001f3c359678b7bde3cd14c": {
@@ -3238,9 +3239,10 @@
     "45e6677d54d8b772979439db": {
       "published_at": "2026-10-27T06:07:34+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11378,
       "title": "हिमाचल विधानसभा सत्र का शेड्यूल जारी: 16 नवंबर से 21 तक तपोवन में चलेगी कार्यवाही, देखें पूरा शेड्यूल",
-      "updated_at": "2026-10-27T06:34:50.178589+00:00",
+      "updated_at": "2026-10-27T06:34:52.706886+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-pradesh-assembly-session-november-16-to-21-dharamshala-schedule-2026-2026-10-27"
     },
     "465ed40cfd3b0af7cd8f17a9": {
@@ -4439,9 +4441,10 @@
     "60240dd4bab5e3655955e250": {
       "published_at": "2026-10-27T06:10:54+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11379,
       "title": "SHG women to get dedicated space to sell products at fairs in Hamirpur district",
-      "updated_at": "2026-10-27T06:34:50.178610+00:00",
+      "updated_at": "2026-10-27T06:34:56.610334+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/shg-women-to-get-dedicated-space-to-sell-products-at-fairs-in-hamirpur-district"
     },
     "6034bc0bb848eb3a87ea380c": {
@@ -6988,9 +6991,10 @@
     "930c7a4defbf699f561247af": {
       "published_at": "2026-10-27T06:11:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11380,
       "title": "ECI’s stand that additional declaration is not part of Form 6 comes days after SC said it will examine ‘new’ Form 6",
-      "updated_at": "2026-10-27T06:34:50.178615+00:00",
+      "updated_at": "2026-10-27T06:35:00.346335+00:00",
       "url": "https://www.thehindu.com/news/national/ecis-stand-that-additional-declaration-is-not-part-of-form-6-comes-days-after-sc-said-it-will-examine-new-form-6/article71629933.ece"
     },
     "932560affe1587e67a06092a": {
@@ -12264,6 +12268,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:34:50.179935+00:00",
+  "last_cycle_at": "2026-10-27T06:35:07.530882+00:00",
   "schema_version": 1
 }
