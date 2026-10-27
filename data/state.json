@@ -7604,9 +7604,10 @@
     "8059ce6848c325987bf952a1": {
       "published_at": "2026-10-27T12:32:52+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11717,
       "title": "Keralam private bus operators announce indefinite strike from Nov 3",
-      "updated_at": "2026-10-27T13:11:50.998554+00:00",
+      "updated_at": "2026-10-27T13:11:58.132658+00:00",
       "url": "https://www.hindustantimes.com/india-news/keralam-private-bus-operators-announce-indefinite-strike-from-nov-3-101793104372608.html"
     },
     "80ae74cf8c48278793d44730": {
@@ -12645,9 +12646,10 @@
     "d48aecf50fb94cdb89b5d847": {
       "published_at": "2026-10-27T12:40:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11719,
       "title": "Meeting of MLAs, Speaker to chalk out MC Road development plan, says Keralam Public Works Minister P.K. Basheer",
-      "updated_at": "2026-10-27T13:11:50.998559+00:00",
+      "updated_at": "2026-10-27T13:12:06.415343+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/meeting-of-mlas-speaker-to-chalk-out-mc-road-development-plan-says-keralam-public-works-minister-pk-basheer/article71631290.ece"
     },
     "d4b85185d9b4a4c7e58dd93b": {
@@ -13694,9 +13696,10 @@
     "e7a2ddd16fe69930d77bc593": {
       "published_at": "2026-10-27T12:31:19+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11716,
       "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
-      "updated_at": "2026-10-27T13:11:50.998539+00:00",
+      "updated_at": "2026-10-27T13:11:54.200829+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
     },
     "e7a8b5eb6b5718fafbf51439": {
@@ -14557,9 +14560,10 @@
     "f4e0ee9f435024f29c3b0d3f": {
       "published_at": "2026-10-27T12:38:51+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11718,
       "title": "HT Evening News Brief October 27: Sonia Gandhi predicts ‘tamasha’ over memoir; Imran Khan’s ‘leave India’ notice put on hold",
-      "updated_at": "2026-10-27T13:11:50.998556+00:00",
+      "updated_at": "2026-10-27T13:12:02.379985+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-october-28-sonia-gandhi-memoir-imran-khan-leave-india-notice-on-hold-mlc-elections-abhishek-sharma-israel-elections-101793094202381.html"
     },
     "f51c704a4e0662c7e1c0acea": {
@@ -15288,6 +15292,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:11:50.999802+00:00",
+  "last_cycle_at": "2026-10-27T13:12:09.617227+00:00",
   "schema_version": 1
 }
