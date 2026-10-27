@@ -6526,9 +6526,10 @@
     "709698de401165344dff4e2d": {
       "published_at": "2026-10-27T00:21:46+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11686,
       "title": "लाहौल: बर्फीली वादियों के बीच टेलीस्कोप से तारों को देख फूले नहीं समाए ऊना के विद्यार्थी",
-      "updated_at": "2026-10-27T12:40:31.199789+00:00",
+      "updated_at": "2026-10-27T12:40:38.730865+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-students-from-una-are-overjoyed-as-they-observe-the-stars-through-a-telescope-amidst-the-snow-covered-valleys-2026-10-27"
     },
     "70b1da82c53588b708b8a8ed": {
@@ -8034,9 +8035,10 @@
     "88760ce186f60649d131a4a2": {
       "published_at": "2026-10-27T00:22:25+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11687,
       "title": "भरवाईं: राजकीय उच्च विद्यालय धलवाड़ी में ढाई आखर पत्र लेखन प्रतियोगिता आयोजित",
-      "updated_at": "2026-10-27T12:40:31.199792+00:00",
+      "updated_at": "2026-10-27T12:40:42.751566+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-bharwain-dhai-akhar-letter-writing-competition-organized-at-government-high-school-dhalwari-2026-10-27"
     },
     "8898f38ced55ebd398dbe9ef": {
@@ -10314,9 +10316,10 @@
     "b1e649eaff35eb3b29b4c315": {
       "published_at": "2026-10-27T00:22:38+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11688,
       "title": "भरवाईं स्कूल में नशा और टीबी मुक्त युवा विषय पर सात दिवसीय एनएसएस आवासीय शिविर का समापन",
-      "updated_at": "2026-10-27T12:40:31.199795+00:00",
+      "updated_at": "2026-10-27T12:40:46.850617+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-seven-day-nss-residential-camp-on-the-theme-drug-free-and-tb-free-youth-concludes-at-bharwain-school-2026-10-27"
     },
     "b21419f6e818270701e7bd6e": {
@@ -10997,9 +11000,10 @@
     "bc4f6f4fd9cd2a069500ac6d": {
       "published_at": "2026-10-27T00:14:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11685,
       "title": "चंबा: जनसाली छात्रावास में विद्यार्थियों को धमकियां देने का आरोप, एसएफआई ने डीसी को साैंपी शिकायत",
-      "updated_at": "2026-10-27T12:40:31.199774+00:00",
+      "updated_at": "2026-10-27T12:40:34.679021+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-allegations-of-threats-to-students-in-jansali-hostel-sfi-submits-complaint-to-dc-2026-10-27"
     },
     "bc6503a3962451308c79a4dd": {
@@ -15009,6 +15013,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:40:31.201150+00:00",
+  "last_cycle_at": "2026-10-27T12:40:50.052447+00:00",
   "schema_version": 1
 }
