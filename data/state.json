@@ -5305,9 +5305,10 @@
     "5bcd2e9f46b8f33deffa0066": {
       "published_at": "2026-10-27T11:17:38+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11695,
       "title": "No coercive action till October 29, Centre tells Delhi HC on Race Course Masjid",
-      "updated_at": "2026-10-27T12:41:46.911665+00:00",
+      "updated_at": "2026-10-27T12:41:57.592708+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/no-coercive-action-till-october-29-centre-tells-delhi-hc-on-race-course-masjid"
     },
     "5c12c85183e4bbd215edabf4": {
@@ -9230,9 +9231,10 @@
     "9d3161d3790c7fa3c3ef2ffe": {
       "published_at": "2026-10-27T10:56:35+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11693,
       "title": "Gurugram woman biker case: SIT investigation reveals Kalyan Bainsla deliberately rammed car",
-      "updated_at": "2026-10-27T12:41:46.911647+00:00",
+      "updated_at": "2026-10-27T12:41:49.673956+00:00",
       "url": "https://www.tribuneindia.com/news/gurugram/gurugram-woman-biker-case-sit-investigation-reveals-kalyan-bainsla-deliberately-rammed-car"
     },
     "9d323ce167023fbd221d1f68": {
@@ -10368,9 +10370,10 @@
     "b1ccb219d4fffba03786e8ef": {
       "published_at": "2026-10-27T11:23:29+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11696,
       "title": "Relief for actor Imran Khan; Bombay HC puts departure notice on hold",
-      "updated_at": "2026-10-27T12:41:46.911668+00:00",
+      "updated_at": "2026-10-27T12:42:01.681309+00:00",
       "url": "https://www.tribuneindia.com/news/india/bombay-hc-keeps-frros-leave-india-notice-to-actor-imran-khan-in-abeyance-till-nov-2"
     },
     "b1e649eaff35eb3b29b4c315": {
@@ -13990,9 +13993,10 @@
     "ef996350f7a4e863c55aca6d": {
       "published_at": "2026-10-27T11:15:06+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11694,
       "title": "India set to become major exporter to China, ASEAN in coming years: Goyal",
-      "updated_at": "2026-10-27T12:41:46.911662+00:00",
+      "updated_at": "2026-10-27T12:41:53.555459+00:00",
       "url": "https://www.tribuneindia.com/news/business/india-set-to-become-major-exporter-to-china-asean-in-coming-years-goyal"
     },
     "efec5c59c8280662ace8c082": {
@@ -15081,6 +15085,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:41:46.913004+00:00",
+  "last_cycle_at": "2026-10-27T12:42:04.883090+00:00",
   "schema_version": 1
 }
