@@ -183,9 +183,10 @@
     "02fa808d66a0a5bebb690c83": {
       "published_at": "2026-10-27T12:25:14+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11715,
       "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-      "updated_at": "2026-10-27T13:11:15.747883+00:00",
+      "updated_at": "2026-10-27T13:11:30.755007+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss"
     },
     "031348487f4a98c88df65555": {
@@ -2403,9 +2404,10 @@
     "291a5e933ceb2999c91bf011": {
       "published_at": "2026-10-27T12:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11713,
       "title": "China accused of intimidation campaign to isolate Taiwan politician",
-      "updated_at": "2026-10-27T13:11:15.747877+00:00",
+      "updated_at": "2026-10-27T13:11:22.777517+00:00",
       "url": "https://www.tribuneindia.com/news/china/china-accused-of-intimidation-campaign-to-isolate-taiwan-politician"
     },
     "2944b51e21eb861e4ef21726": {
@@ -4002,9 +4004,10 @@
     "4533ca5a8a9481cfb85720f8": {
       "published_at": "2026-10-27T00:51:58+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11712,
       "title": "हिमाचल: कसौली में अवैध निर्माण और पेड़ों की कटाई पर अधिकारी तलब, रिपोर्ट में देरी पर हाईकोर्ट नाराज",
-      "updated_at": "2026-10-27T13:11:15.747859+00:00",
+      "updated_at": "2026-10-27T13:11:18.746040+00:00",
       "url": "https://www.amarujala.com/shimla/officials-summoned-over-illegal-construction-and-felling-of-trees-in-kasauli-high-court-expresses-displeasure-2026-10-27"
     },
     "45377bd77ba5073d03dc3005": {
@@ -4055,9 +4058,10 @@
     "46c7e7e1288a613916df1508": {
       "published_at": "2026-10-27T12:22:42+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11714,
       "title": "PM Modi and Liechtenstein’s Hereditary Prince Alios hail India–EFTA TEPA, reaffirm strategic ties during bilateral talks",
-      "updated_at": "2026-10-27T13:11:15.747880+00:00",
+      "updated_at": "2026-10-27T13:11:26.662045+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-cooperation/pm-modi-and-liechtensteins-hereditary-prince-alios-hail-india-efta-tepa-reaffirm-strategic-ties-during-bilateral-talks"
     },
     "46e93c5053987f11e3b03ef4": {
@@ -15252,6 +15256,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:11:15.749180+00:00",
+  "last_cycle_at": "2026-10-27T13:11:33.956886+00:00",
   "schema_version": 1
 }
