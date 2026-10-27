@@ -6000,6 +6000,14 @@
       "updated_at": "2026-10-25T19:41:12.463469+00:00",
       "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-unanimously-passes-political-resolution-at-state-executive-committee-meeting/article71624016.ece"
     },
+    "74c282ad40cc3180f75dcafd": {
+      "published_at": "2026-10-27T07:42:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Pakistani forces accused of abusing women, children during raids in Balochistan’s Kech district",
+      "updated_at": "2026-10-27T08:05:14.879067+00:00",
+      "url": "https://www.tribuneindia.com/news/balochistan/pakistani-forces-accused-of-abusing-women-children-during-raids-in-balochistans-kech-district"
+    },
     "75158c1834e1c18ed588fa82": {
       "published_at": "2026-10-24T20:37:02+00:00",
       "source": "aljazeera.com",
@@ -8595,6 +8603,14 @@
       "updated_at": "2026-10-25T10:04:51.935472+00:00",
       "url": "https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece"
     },
+    "a70ad6f12392ef9ed1d9d2a6": {
+      "published_at": "2026-10-27T07:41:40+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Keralam to step up cybercrime prevention under ‘Cyber Safe Kerala’ initiative; plans police dashboard to track FIRs and complaints",
+      "updated_at": "2026-10-27T08:05:14.879060+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-to-step-up-cybercrime-prevention-under-cyber-safe-kerala-initiative-plans-police-dashboard-to-track-firs-and-complaints/article71630186.ece"
+    },
     "a74149f0be2669b92cd8072d": {
       "published_at": "2026-10-26T07:22:11+00:00",
       "source": "hindustantimes.com",
@@ -9665,6 +9681,14 @@
       "updated_at": "2026-10-25T08:34:39.308956+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/rahul-gandhi-sarcastically-thanks-bjp-for-promoting-india-bloc-rally/article71622818.ece"
     },
+    "bbf9a6c33014e217efd379b9": {
+      "published_at": "2026-10-27T07:41:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Delhi traders flag potential impact on 21 markets from November 1 Congress rally, seek postponement",
+      "updated_at": "2026-10-27T08:05:14.879064+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-traders-flag-potential-impact-on-21-markets-from-november-1-congress-rally-seek-postponement/article71630172.ece"
+    },
     "bc22e1c991e1e70fc6be33c6": {
       "published_at": "2026-10-26T11:12:47+00:00",
       "source": "thehindu.com",
@@ -9960,6 +9984,14 @@
       "title": "Israeli elections: What are the possible outcomes?",
       "updated_at": "2026-10-25T07:35:24.248677+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
+    },
+    "c1e9e2855cfd10c9f7a71b0d": {
+      "published_at": "2026-10-27T07:39:26+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Monsoon wet spell to pause over Tamil Nadu; rain likely to revive on November 1",
+      "updated_at": "2026-10-27T08:05:14.879043+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/monsoon-wet-spell-to-pause-over-tamil-nadu-rain-likely-to-revive-on-november-1-2026/article71627379.ece"
     },
     "c2038ce3804e3dbe20b1c183": {
       "published_at": "2026-10-26T00:27:31+00:00",
@@ -13114,6 +13146,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:05:07.016552+00:00",
+  "last_cycle_at": "2026-10-27T08:05:14.880667+00:00",
   "schema_version": 1
 }
