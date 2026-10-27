@@ -1308,9 +1308,10 @@
     "15d3e24ce14d6fc7f7b7a721": {
       "published_at": "2026-10-27T12:03:50+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11684,
       "title": "Rubber Board turns to digital platform to revive untapped plantations",
-      "updated_at": "2026-10-27T12:19:58.868692+00:00",
+      "updated_at": "2026-10-27T12:20:05.498904+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/rubber-board-turns-to-digital-platform-to-revive-untapped-plantations/article71631274.ece"
     },
     "15d780e25c4f5e90739a8aa4": {
@@ -4900,9 +4901,10 @@
     "55470836236252c26209bbd2": {
       "published_at": "2026-10-27T12:02:09+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11683,
       "title": "JI chief reaches PM House for meeting with prime minister: party",
-      "updated_at": "2026-10-27T12:19:58.868677+00:00",
+      "updated_at": "2026-10-27T12:20:01.628740+00:00",
       "url": "https://www.dawn.com/news/2040214/ji-chief-reaches-pm-house-for-meeting-with-prime-minister-party"
     },
     "558eb7a2ddf9f27779103403": {
@@ -14975,6 +14977,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:19:58.870224+00:00",
+  "last_cycle_at": "2026-10-27T12:20:08.700818+00:00",
   "schema_version": 1
 }
