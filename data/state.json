@@ -2557,9 +2557,10 @@
     "26c08f14266d477e9daf667a": {
       "published_at": "2026-10-27T15:31:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11910,
       "title": "The Hindu Group wins seven laurels at Love of Advertising Awards",
-      "updated_at": "2026-10-27T15:45:08.535807+00:00",
+      "updated_at": "2026-10-27T15:45:23.143551+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/the-hindu-group-wins-seven-laurels-at-love-of-advertising-awards/article71632361.ece"
     },
     "26dd5b47d03916618a208a38": {
@@ -9132,9 +9133,10 @@
     "8b4d9dcd99286ab058a45eac": {
       "published_at": "2026-10-27T15:31:07+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11909,
       "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-      "updated_at": "2026-10-27T15:45:08.535804+00:00",
+      "updated_at": "2026-10-27T15:45:19.278404+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss"
     },
     "8b52d468fd0ea2345fc34db5": {
@@ -12087,9 +12089,10 @@
     "b8518bfd825918e70dbd541b": {
       "published_at": "2026-10-27T15:31:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11907,
       "title": "Two arrested in ₹1.35-crore digital arrest fraud case",
-      "updated_at": "2026-10-27T15:45:08.535782+00:00",
+      "updated_at": "2026-10-27T15:45:11.525406+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/two-arrested-in-135-crore-digital-arrest-fraud-case/article71632509.ece"
     },
     "b8725bdd16c16a3ef59a80d1": {
@@ -15556,9 +15559,10 @@
     "ed2b9063697fb4c214a47317": {
       "published_at": "2026-10-27T15:31:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11908,
       "title": "Call for dedicated dept., district repositories to preserve ancient manuscripts",
-      "updated_at": "2026-10-27T15:45:08.535800+00:00",
+      "updated_at": "2026-10-27T15:45:15.388895+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/call-for-dedicated-dept-district-repositories-to-preserve-ancient-manuscripts/article71631856.ece"
     },
     "edc148b7049142f2dbe949b1": {
@@ -17007,6 +17011,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:45:08.537344+00:00",
+  "last_cycle_at": "2026-10-27T15:45:26.345613+00:00",
   "schema_version": 1
 }
