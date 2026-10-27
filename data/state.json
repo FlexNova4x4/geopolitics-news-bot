@@ -2126,9 +2126,10 @@
     "1fa8ed7a72fbfd029c3316cc": {
       "published_at": "2026-10-27T15:42:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11922,
       "title": "BJP’s Shashil Namoshi wins North-East Teachers Constituency for the fifth time",
-      "updated_at": "2026-10-27T16:11:09.493006+00:00",
+      "updated_at": "2026-10-27T16:11:20.740247+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bjps-shashil-namoshi-wins-north-east-teachers-constituency-for-the-fifth-time/article71632467.ece"
     },
     "1fdfc2574c88fdd8d0262764": {
@@ -7801,9 +7802,10 @@
     "7733ec85a50112ed945a30fd": {
       "published_at": "2026-10-27T15:43:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11923,
       "title": "Hyderabad Police launch dedicated wing to probe serious crimes",
-      "updated_at": "2026-10-27T16:11:09.493008+00:00",
+      "updated_at": "2026-10-27T16:11:24.621225+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-police-launch-dedicated-wing-to-probe-serious-crimes/article71632134.ece"
     },
     "774e9fc1f4419ee269fc435f": {
@@ -10648,9 +10650,10 @@
     "a1ab75a9f15a35ce1506083f": {
       "published_at": "2026-10-27T15:38:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11920,
       "title": "State’s first tribal university to come up in Chitradurga district",
-      "updated_at": "2026-10-27T16:11:09.492988+00:00",
+      "updated_at": "2026-10-27T16:11:12.669167+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/states-first-tribal-university-to-come-up-in-chitradurga-district/article71632010.ece"
     },
     "a1bc666fee8c90260ebe2dc3": {
@@ -14855,9 +14858,10 @@
     "e174b850cc0ce3d40b7e8e7f": {
       "published_at": "2026-10-27T15:40:00+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11921,
       "title": "PoK would not have existed had Sardar Patel been PM, says Shivraj Chouhan",
-      "updated_at": "2026-10-27T16:11:09.493003+00:00",
+      "updated_at": "2026-10-27T16:11:16.588719+00:00",
       "url": "https://www.tribuneindia.com/news/india/pok-would-not-have-existed-had-sardar-patel-been-pm-says-shivraj-chouhan"
     },
     "e179b18d3bb191892400fe59": {
@@ -17124,6 +17128,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T16:11:09.494598+00:00",
+  "last_cycle_at": "2026-10-27T16:11:27.823227+00:00",
   "schema_version": 1
 }
