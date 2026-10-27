@@ -4607,9 +4607,10 @@
     "464744a6dd62a2b9b2060442": {
       "published_at": "2026-10-27T05:19:23+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11974,
       "title": "Mandi News: बिजली बिल न चुकाने कर काटी 250 घरों की बिजली",
-      "updated_at": "2026-10-27T17:40:33.313523+00:00",
+      "updated_at": "2026-10-27T17:40:41.013662+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/electricity-supply-to-250-homes-disconnected-for-non-payment-of-electricity-bills-mandi-news-c-88-1-cmb1003-201230-2026-10-27"
     },
     "465ed40cfd3b0af7cd8f17a9": {
@@ -9429,9 +9430,10 @@
     "8c3378006d9edc71c4203658": {
       "published_at": "2026-10-27T05:20:23+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11975,
       "title": "Mandi News: आशा ने वोटर लिस्ट से 16 लाख नाम काटने पर उठाए सवाल",
-      "updated_at": "2026-10-27T17:40:33.313526+00:00",
+      "updated_at": "2026-10-27T17:40:45.052680+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/asha-raised-questions-over-the-removal-of-16-million-names-from-the-voter-list-mandi-news-c-88-1-ssml1006-201201-2026-10-27"
     },
     "8c36a839b4b28884cf7cbe36": {
@@ -13346,9 +13348,10 @@
     "c33d0d90dd6e252afbe363e0": {
       "published_at": "2026-10-27T05:21:32+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11976,
       "title": "सिरमौर: नाहन हिंसा मामले में 12 लोग गिरफ्तार, गेट लगाने को लेकर हुआ था विवाद",
-      "updated_at": "2026-10-27T17:40:33.313530+00:00",
+      "updated_at": "2026-10-27T17:40:49.119577+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmaur-12-people-arrested-in-nahan-violence-case-dispute-arose-over-the-installation-of-a-gate-2026-10-27"
     },
     "c351f010dedea817fe298a64": {
@@ -16896,9 +16899,10 @@
     "f7c7c62cc48285cf755ef555": {
       "published_at": "2026-10-27T05:17:42+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11973,
       "title": "Mandi News: रणजीत सागर जलाशय में डाले 85 हजार मछली बीज",
-      "updated_at": "2026-10-27T17:40:33.313505+00:00",
+      "updated_at": "2026-10-27T17:40:36.960912+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/85000-fish-seeds-released-into-ranjit-sagar-reservoir-mandi-news-c-88-1-ssml1007-201225-2026-10-27"
     },
     "f7ce1f91497e1ddfee97ffe8": {
@@ -17583,6 +17587,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:40:33.315202+00:00",
+  "last_cycle_at": "2026-10-27T17:40:52.321715+00:00",
   "schema_version": 1
 }
