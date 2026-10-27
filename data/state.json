@@ -441,6 +441,14 @@
       "updated_at": "2026-10-25T04:06:01.387616+00:00",
       "url": "https://www.dawn.com/news/2039583/gilani-assures-kp-governor-of-federal-support"
     },
+    "09758bf88ed08cd54b87ecc2": {
+      "published_at": "2026-10-27T02:40:15+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab LIVE: Heavy rainfall likely in Andhra, Yanam as storm turns ‘very severe’; schools shut, trains cancelled",
+      "updated_at": "2026-10-27T03:11:14.940242+00:00",
+      "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-live-updates-heavy-rains-cyclone-tracker-schools-trains-shut-andhra-pradesh-yanam-odisha-imd-bay-of-bengal-101793067155262.html"
+    },
     "097bce7cdeb58444c378b4b0": {
       "published_at": "2026-10-25T14:22:09+00:00",
       "source": "thehindu.com",
@@ -2290,6 +2298,14 @@
       "title": "If Netanyahu loses, what changes for Palestinians?",
       "updated_at": "2026-10-26T10:45:48.624187+00:00",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss"
+    },
+    "3862d49cccce60684b71a58c": {
+      "published_at": "2026-10-27T02:38:48+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Moroccan police intercept migrant swimming back towards Ceuta",
+      "updated_at": "2026-10-27T03:11:14.940223+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss"
     },
     "386a2aa773ec9dd15c86253e": {
       "published_at": "2026-10-25T07:34:00+00:00",
@@ -5009,6 +5025,14 @@
       "updated_at": "2026-10-25T16:41:39.984741+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
     },
+    "76fb1493beec6f9cec6bed7d": {
+      "published_at": "2026-10-27T02:42:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“Crisis in Strait of Hormuz will not be last of its kind”: Singapore Energy Minister Tan warns of energy supply risks",
+      "updated_at": "2026-10-27T03:11:14.940251+00:00",
+      "url": "https://www.tribuneindia.com/news/energy-crisis/crisis-in-strait-of-hormuz-will-not-be-last-of-its-kind-singapore-energy-minister-tan-warns-of-energy-supply-risks"
+    },
     "77294550dedc86b9512e331b": {
       "published_at": "2026-10-26T13:00:14+00:00",
       "source": "thehindu.com",
@@ -5772,6 +5796,14 @@
       "title": "“Lula’s leadership supercharges Brazil’s commitment to multipolarity”: Shashi Tharoor hails President Lula’s victory",
       "updated_at": "2026-10-26T04:54:04.473069+00:00",
       "url": "https://www.tribuneindia.com/news/brazil-geopolitics/lulas-leadership-supercharges-brazils-commitment-to-multipolarity-shashi-tharoor-hails-president-lulas-victory"
+    },
+    "87222fd3ea56f85a1ceaf687": {
+      "published_at": "2026-10-27T02:40:17+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+      "updated_at": "2026-10-27T03:11:14.940247+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
     },
     "874362239d32e2554fbe9426": {
       "published_at": "2026-10-26T02:16:20+00:00",
@@ -10828,6 +10860,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T03:11:09.755518+00:00",
+  "last_cycle_at": "2026-10-27T03:11:14.941822+00:00",
   "schema_version": 1
 }
