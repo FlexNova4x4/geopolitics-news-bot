@@ -3059,9 +3059,10 @@
     "3b32ec11fa80ffc535e75ccc": {
       "published_at": "2026-10-27T08:48:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11546,
       "title": "SC refrains from directing ECI to preserve files amid row over SIR decisions",
-      "updated_at": "2026-10-27T09:34:51.578376+00:00",
+      "updated_at": "2026-10-27T09:34:53.973174+00:00",
       "url": "https://www.hindustantimes.com/india-news/sc-refrains-from-directing-eci-to-preserve-files-amid-row-over-sir-decisions-101793090939337.html"
     },
     "3b68e81a949a5bbff4ab7f7b": {
@@ -4075,9 +4076,10 @@
     "4f188aa53abfa58b648b7894": {
       "published_at": "2026-10-27T08:56:52+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11547,
       "title": "Congress accuses PM Modi, Shah of blocking INDIA bloc’s ‘public impeachment’ of CEC Gyanesh Kumar",
-      "updated_at": "2026-10-27T09:34:51.578392+00:00",
+      "updated_at": "2026-10-27T09:34:57.915479+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-accuses-pm-modi-shah-of-blocking-india-blocs-public-impeachment-of-cec-gyanesh-kumar"
     },
     "4f32507c29205cded65b604b": {
@@ -4970,9 +4972,10 @@
     "5f6722a017526ea542424f37": {
       "published_at": "2026-10-27T09:01:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11548,
       "title": "Weak monsoon, crop failures, force farmers to cut spending",
-      "updated_at": "2026-10-27T09:34:51.578396+00:00",
+      "updated_at": "2026-10-27T09:35:01.893085+00:00",
       "url": "https://www.hindustantimes.com/india-news/weak-monsoon-crop-failures-force-farmers-to-cut-spending-101793091661357.html"
     },
     "5f9c325b1b2d3c7bf02f5786": {
@@ -7771,9 +7774,10 @@
     "927201ee6fe7580fb128c009": {
       "published_at": "2026-10-27T09:01:31+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11549,
       "title": "‘After Breaking Bad, Prison Break’: Stalin slams TVK govt over prison escapes in Tamil Nadu",
-      "updated_at": "2026-10-27T09:34:51.578398+00:00",
+      "updated_at": "2026-10-27T09:35:05.862516+00:00",
       "url": "https://www.tribuneindia.com/news/india/after-breaking-bad-prison-break-stalin-slams-tvk-govt-over-prison-escapes-in-tamil-nadu"
     },
     "928f636cc301831be6854c23": {
@@ -13767,6 +13771,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:34:51.579857+00:00",
+  "last_cycle_at": "2026-10-27T09:35:09.064781+00:00",
   "schema_version": 1
 }
