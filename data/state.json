@@ -3293,9 +3293,10 @@
     "4920da91441221da9379b166": {
       "published_at": "2026-10-27T05:27:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11332,
       "title": "Justice Tapabrata Chakraborty of Calcutta HC elevated as Telangana HC Chief Justice",
-      "updated_at": "2026-10-27T05:39:57.799017+00:00",
+      "updated_at": "2026-10-27T05:40:03.962843+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/justice-tapabrata-chakraborty-of-calcutta-hc-elevated-as-telangana-hc-chief-justice/article71629800.ece"
     },
     "4942028eed4b42af2503b63a": {
@@ -5282,9 +5283,10 @@
     "7300b0dc151a2e9fa8149250": {
       "published_at": "2026-10-27T05:28:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11334,
       "title": "Israel holds polls amid uncertainty over Netanyahu’s future, coalition numbers",
-      "updated_at": "2026-10-27T05:39:57.799027+00:00",
+      "updated_at": "2026-10-27T05:40:11.648717+00:00",
       "url": "https://www.thehindu.com/news/international/israel-holds-polls-amid-uncertainty-over-netanyahus-future-coalition-numbers/article71629859.ece"
     },
     "734b2f5c763f1f27e5ef7894": {
@@ -6665,9 +6667,10 @@
     "9111f8ea41073d6f725b4831": {
       "published_at": "2026-10-27T05:24:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11331,
       "title": "When 43 LTTE militants escaped from Vellore Fort in 1995 after digging a 153-foot tunnel",
-      "updated_at": "2026-10-27T05:39:57.798996+00:00",
+      "updated_at": "2026-10-27T05:40:00.190377+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/when-43ltte-militants-escaped-from-thevellorefort-after-digging-a-153-foot-tunnel/article69552888.ece"
     },
     "916bbc5d420590d132b56582": {
@@ -6709,9 +6712,10 @@
     "92175d9ffb9f7fede747268c": {
       "published_at": "2026-10-27T05:28:04+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11333,
       "title": "Ahsan Bhoon files Rs5bn defamation suit against Capt Safdar",
-      "updated_at": "2026-10-27T05:39:57.799022+00:00",
+      "updated_at": "2026-10-27T05:40:07.730833+00:00",
       "url": "https://www.dawn.com/news/2040087/ahsan-bhoon-files-rs5bn-defamation-suit-against-capt-safdar"
     },
     "923648d1ea2d5228546a08a2": {
@@ -11841,6 +11845,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:39:57.800267+00:00",
+  "last_cycle_at": "2026-10-27T05:40:14.850613+00:00",
   "schema_version": 1
 }
