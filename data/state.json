@@ -207,6 +207,14 @@
       "updated_at": "2026-10-27T08:04:59.852511+00:00",
       "url": "https://www.tribuneindia.com/news/rajasthan/21-lakh-followers-just-33-poll-votes-rajasthan-youtuber-astrologer-fails-to-read-own-electoral-fate"
     },
+    "02e38d5d106e07b31964d560": {
+      "published_at": "2026-10-27T14:22:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“We’re at war for our home”: Netanyahu rallies supporters to vote in large numbers for Likud citing “huge lines at polling stations in Arab sector”",
+      "updated_at": "2026-10-27T15:11:33.439501+00:00",
+      "url": "https://www.tribuneindia.com/news/arab-israeli-voters/were-at-war-for-our-home-netanyahu-rallies-supporters-to-vote-in-large-numbers-for-likud-citing-huge-lines-at-polling-stations-in-arab-sector"
+    },
     "02fa808d66a0a5bebb690c83": {
       "published_at": "2026-10-27T12:25:14+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1385,6 +1393,14 @@
       "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
       "updated_at": "2026-10-26T13:41:58.735884+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss"
+    },
+    "146270cb1d48d0736a73993d": {
+      "published_at": "2026-10-27T14:21:37+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Over 99.32 lakh names struck off voter list in Karnataka; electorate down to 4.55 crore",
+      "updated_at": "2026-10-27T15:11:33.439498+00:00",
+      "url": "https://www.tribuneindia.com/news/india/over-99-32-lakh-names-struck-off-voter-list-in-karnataka-electorate-down-to-4-55-crore"
     },
     "1465f4d8bc4c6500e418081c": {
       "published_at": "2026-10-24T19:08:26+00:00",
@@ -3739,6 +3755,14 @@
       "title": "Details of software used in SIR exempt from RTI, Election Commission cites 'trade secrets'",
       "updated_at": "2026-10-25T05:38:41.448804+00:00",
       "url": "https://www.hindustantimes.com/india-news/details-of-software-used-in-sir-exempt-from-rti-election-commission-cites-trade-secrets-101792887710352.html"
+    },
+    "3d6005f96d36da2590fd926b": {
+      "published_at": "2026-10-27T14:18:09+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India faced no pressure from US to reduce Russian oil imports: Hardeep Puri",
+      "updated_at": "2026-10-27T15:11:33.439494+00:00",
+      "url": "https://www.tribuneindia.com/news/business/india-faced-no-pressure-from-us-to-reduce-russian-oil-imports-hardeep-puri"
     },
     "3dcf9a3a5f4334e99f74f0c3": {
       "published_at": "2026-10-27T05:43:08+00:00",
@@ -10189,6 +10213,14 @@
       "updated_at": "2026-10-27T07:05:47.980716+00:00",
       "url": "https://www.thehindu.com/news/national/sc-collegium-recommends-four-judges-for-appointment-as-high-court-chief-justices/article71630086.ece"
     },
+    "9fb33e132a78349a3130fc80": {
+      "published_at": "2026-10-27T14:14:27+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Shimla Police arrest Amritsar resident with 257 g heroin",
+      "updated_at": "2026-10-27T15:11:33.439477+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/shimla-police-arrest-amritsar-resident-with-257-g-heroin"
+    },
     "a02e68682864335601c4b5e3": {
       "published_at": "2026-10-26T09:08:11+00:00",
       "source": "thehindu.com",
@@ -16408,6 +16440,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:10:57.285314+00:00",
+  "last_cycle_at": "2026-10-27T15:11:33.440953+00:00",
   "schema_version": 1
 }
