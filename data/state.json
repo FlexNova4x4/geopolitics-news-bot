@@ -1475,6 +1475,14 @@
       "updated_at": "2026-10-26T22:42:37.652932+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kullu-dasehra-deities-gather-for-final-battle-against-ravana"
     },
+    "1e9c1d5a20bf805cb1e8e49a": {
+      "published_at": "2026-10-27T06:15:48+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+      "updated_at": "2026-10-27T06:35:15.846161+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss"
+    },
     "1ecd5dc6fb877438855c4018": {
       "published_at": "2026-10-25T22:47:08+00:00",
       "source": "publish.tribuneindia.com",
@@ -2057,6 +2065,14 @@
       "title": "“Spectre of ethnic cleansing looming”: UN Chief Antonio Guterres expresses deep alarm over Israeli actions in West Bank",
       "updated_at": "2026-10-26T22:44:33.379496+00:00",
       "url": "https://www.tribuneindia.com/news/antonio-guterres/spectre-of-ethnic-cleansing-looming-un-chief-antonio-guterres-expresses-deep-alarm-over-israeli-actions-in-west-bank"
+    },
+    "2c3592fc193e24f9ed35c71d": {
+      "published_at": "2026-10-27T06:17:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Liechtenstein’s Hereditary Prince Alois, Princess Sophie pay tribute to Mahatma Gandhi at Rajghat",
+      "updated_at": "2026-10-27T06:35:15.846164+00:00",
+      "url": "https://www.tribuneindia.com/news/liechtenstein/liechtensteins-hereditary-prince-alois-princess-sophie-pay-tribute-to-mahatma-gandhi-at-rajghat"
     },
     "2ca639c6b0aa4e783169be7d": {
       "published_at": "2026-10-26T08:07:16+00:00",
@@ -4070,6 +4086,14 @@
       "updated_at": "2026-10-26T13:43:53.620980+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/reduced-lung-function-amongbengaluru-bmtc-drivers-traffic-police-pourakarmikas-reveals-survey/article71626729.ece"
     },
+    "5717bd2caf2d34fa21e56e0a": {
+      "published_at": "2026-10-27T06:14:05+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bangladesh leader raises concerns over Assam forest eviction drive, State minister counters",
+      "updated_at": "2026-10-27T06:35:15.846156+00:00",
+      "url": "https://www.thehindu.com/news/national/assam/bangladesh-leader-raises-concerns-over-assam-forest-eviction-drive-state-minister-counters/article71627246.ece"
+    },
     "571a418bbe002d617bbe1259": {
       "published_at": "2026-10-25T10:29:39+00:00",
       "source": "thehindu.com",
@@ -4804,6 +4828,14 @@
       "title": "After spending ₹12,000 crore, only 21 out of 130 cities meet clean air target",
       "updated_at": "2026-10-27T02:40:48.298879+00:00",
       "url": "https://www.hindustantimes.com/india-news/after-spending-12-000-crore-only-21-out-of-130-cities-meet-clean-air-target-101793037829680.html"
+    },
+    "66672a72b1333056df7ecdb4": {
+      "published_at": "2026-10-27T06:12:58+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "PM Modi meets Liechtenstein’s Hereditary Prince Alois, Princess Sophie at Hyderabad House",
+      "updated_at": "2026-10-27T06:35:15.846141+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-relations/pm-modi-meets-liechtensteins-hereditary-prince-alois-princess-sophie-at-hyderabad-house"
     },
     "66e4a3b18137eacff7929089": {
       "published_at": "2026-10-26T03:38:59+00:00",
@@ -12268,6 +12300,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:35:07.530882+00:00",
+  "last_cycle_at": "2026-10-27T06:35:15.847564+00:00",
   "schema_version": 1
 }
