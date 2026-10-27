@@ -2876,6 +2876,14 @@
       "updated_at": "2026-10-25T05:41:03.381352+00:00",
       "url": "https://www.hindustantimes.com/india-news/abvp-alleges-free-umar-khalid-kashmir-long-live-naxalbari-slogans-written-on-jnu-walls-jamia-university-seeks-action-101792900049100.html"
     },
+    "42ffb2d6587b44ef09a62d5b": {
+      "published_at": "2026-10-27T04:07:14+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Member of Prashant Kishor's Jan Suraaj party's communication team goes missing from moving train to Patna",
+      "updated_at": "2026-10-27T05:03:26.658316+00:00",
+      "url": "https://www.hindustantimes.com/india-news/member-of-prashant-kishor-jan-suraaj-party-communication-team-goes-missing-from-moving-train-to-patna-101793071060199.html"
+    },
     "4309a47fc6e9928613e5ea90": {
       "published_at": "2026-10-25T19:19:54+00:00",
       "source": "aljazeera.com",
@@ -3871,6 +3879,14 @@
       "title": "Haryana guest teachers demand regularisation of services, march to Chandigarh",
       "updated_at": "2026-10-25T16:16:09.045088+00:00",
       "url": "https://www.thehindu.com/news/national/haryana/haryana-guest-teachers-demand-regularisation-of-services-march-to-chandigarh/article71623748.ece"
+    },
+    "59865b18da6240b985e3b891": {
+      "published_at": "2026-10-27T04:01:55+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘Satyam Shivam Sundaram’: Rahul Gandhi posts Lord Shiva’s ‘Tripund Tilak’ image ahead of SC hearing on SIR",
+      "updated_at": "2026-10-27T05:03:26.658305+00:00",
+      "url": "https://www.tribuneindia.com/news/india/satyam-shivam-sundaram-rahul-gandhi-posts-lord-shivas-tripund-tilak-image-ahead-of-sc-hearing-on-sir"
     },
     "598c679611ff83612efffba5": {
       "published_at": "2026-10-26T06:35:02+00:00",
@@ -10812,6 +10828,14 @@
       "updated_at": "2026-10-25T09:35:10.431208+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/thevar-jayanthi-edappadi-palaniswami-to-pay-tributes-at-pasumpon-on-october-30/article71622886.ece"
     },
+    "f7a5b8c98d936ff6be3d9fef": {
+      "published_at": "2026-10-27T03:58:13+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Netanyahu’s allies explore possible ‘national unity government’ with Eisenkot ahead of Tuesday’s poll: Report",
+      "updated_at": "2026-10-27T05:03:26.658282+00:00",
+      "url": "https://www.tribuneindia.com/news/coalition-talks/netanyahus-allies-explore-possible-national-unity-government-with-eisenkot-ahead-of-tuesdays-poll-report"
+    },
     "f7b91fafa73e9bff9a1dd2f3": {
       "published_at": "2026-10-25T21:41:10+00:00",
       "source": "aljazeera.com",
@@ -10820,6 +10844,14 @@
       "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
       "updated_at": "2026-10-25T22:00:55.909495+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss"
+    },
+    "f7e6ee5d2e55f7aeda62e002": {
+      "published_at": "2026-10-27T04:02:49+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Hereditary Prince Alois of Liechtenstein attends ceremonial reception at Rashtrapati Bhavan",
+      "updated_at": "2026-10-27T05:03:26.658311+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-relations/hereditary-prince-alois-of-liechtenstein-attends-ceremonial-reception-at-rashtrapati-bhavan"
     },
     "f7f51206ecc16baa12f85335": {
       "published_at": "2026-10-24T19:01:52+00:00",
@@ -11233,6 +11265,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T04:13:14.175289+00:00",
+  "last_cycle_at": "2026-10-27T05:03:26.659405+00:00",
   "schema_version": 1
 }
