@@ -336,9 +336,10 @@
     "05cc728f68ac05656377d31a": {
       "published_at": "2026-10-27T08:37:30+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11531,
       "title": "Why it could take time for a new Israeli government to form",
-      "updated_at": "2026-10-27T09:04:43.312604+00:00",
+      "updated_at": "2026-10-27T09:04:52.947166+00:00",
       "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss"
     },
     "05d58d43bb53eab2690ffce3": {
@@ -8374,9 +8375,10 @@
     "9db10d400390d6096f86626b": {
       "published_at": "2026-10-27T08:35:27+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11529,
       "title": "Drone strike kills at least 21 and injures 40 in Sudan’s Nyala",
-      "updated_at": "2026-10-27T09:04:43.312583+00:00",
+      "updated_at": "2026-10-27T09:04:45.471588+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss"
     },
     "9def979b58e94ad698e81cb7": {
@@ -9099,9 +9101,10 @@
     "abc2cf386b28d8a08071f1bf": {
       "published_at": "2026-10-27T08:37:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11530,
       "title": "Brazilian government downplays possible refusal by Trump, Milei to recognise Lula’s victory",
-      "updated_at": "2026-10-27T09:04:43.312601+00:00",
+      "updated_at": "2026-10-27T09:04:49.195135+00:00",
       "url": "https://www.tribuneindia.com/news/brazil-politics/brazilian-government-downplays-possible-refusal-by-trump-milei-to-recognise-lulas-victory"
     },
     "ac3ce2a68e95ddc507bda45e": {
@@ -9611,9 +9614,10 @@
     "b71a80be70d76f9b9d7cf591": {
       "published_at": "2026-10-27T08:38:44+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11532,
       "title": "Israelis begin voting as Netanyahu fights for political survival",
-      "updated_at": "2026-10-27T09:04:43.312607+00:00",
+      "updated_at": "2026-10-27T09:04:56.859532+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss"
     },
     "b735f1df747df0f6feaf8736": {
@@ -13614,6 +13618,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:04:43.314207+00:00",
+  "last_cycle_at": "2026-10-27T09:05:00.061902+00:00",
   "schema_version": 1
 }
