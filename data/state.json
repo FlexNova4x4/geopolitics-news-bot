@@ -2777,6 +2777,14 @@
       "updated_at": "2026-10-25T19:12:45.131032+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
     },
+    "37e7767f7d4c27dd860963db": {
+      "published_at": "2026-10-26T20:29:05+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हमीरपुर: बिहार से पकड़ा हत्या का फरार आरोपी, पांच दिन के पुलिस रिमांड पर भेजा",
+      "updated_at": "2026-10-27T08:33:09.262177+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-tyalu-murder-accused-arrested-bihar-five-day-police-remand-2026-10-27"
+    },
     "37ed4397085bb4e3e8fb411d": {
       "published_at": "2026-10-26T10:16:39+00:00",
       "source": "aljazeera.com",
@@ -4825,6 +4833,14 @@
       "updated_at": "2026-10-25T16:13:09.435474+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/why-congress-govt-not-investigating-yathindras-statement-on-sting-operation-asks-joshi/article71623588.ece"
     },
+    "5f32385f71dfaa9a97b2e6e9": {
+      "published_at": "2026-10-27T07:55:58+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab puts Jharkhand on alert; IMD issues heavy rain warning for 3 days",
+      "updated_at": "2026-10-27T08:33:09.262181+00:00",
+      "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-puts-jharkhand-on-alert-imd-issues-heavy-rain-warning-for-3-days-101793087759201.html"
+    },
     "5f9c325b1b2d3c7bf02f5786": {
       "published_at": "2026-10-27T04:54:26+00:00",
       "source": "aljazeera.com",
@@ -5236,6 +5252,14 @@
       "title": "After spending ₹12,000 crore, only 21 out of 130 cities meet clean air target",
       "updated_at": "2026-10-27T02:40:48.298879+00:00",
       "url": "https://www.hindustantimes.com/india-news/after-spending-12-000-crore-only-21-out-of-130-cities-meet-clean-air-target-101793037829680.html"
+    },
+    "66538915070d6a9be4a68d50": {
+      "published_at": "2026-10-26T20:25:15+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "कुल्लू दशहरा लोकनृत्य प्रतियोगिता में भुट्टी वीवर्ज ने मारी बाजी, सूत्रधार कला संगम दूसरे स्थान पर",
+      "updated_at": "2026-10-27T08:33:09.262162+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-kullu-dussehra-folk-dance-competition-bhutti-weavers-first-prize-2026-10-27"
     },
     "66672a72b1333056df7ecdb4": {
       "published_at": "2026-10-27T06:12:58+00:00",
@@ -11659,6 +11683,14 @@
       "updated_at": "2026-10-26T13:39:04.131877+00:00",
       "url": "https://www.tribuneindia.com/news/india/kerala-high-court-stays-order-to-register-fir-against-ex-cm-vijayan-kin-in-cmrl-case"
     },
+    "e41597d1cc8936dad81be654": {
+      "published_at": "2026-10-27T07:59:11+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "'After Breaking Bad, Prison Break has begun in Tamil Nadu': Stalin slams Vijay govt over Theni jailbreak",
+      "updated_at": "2026-10-27T08:33:09.262183+00:00",
+      "url": "https://www.hindustantimes.com/india-news/after-breaking-bad-prison-break-has-begun-in-tamil-nadu-stalin-slams-vijay-govt-over-theni-jailbreak-101793086875625.html"
+    },
     "e45447987be3d824ed5c553c": {
       "published_at": "2026-10-25T12:40:51+00:00",
       "source": "hindustantimes.com",
@@ -13267,6 +13299,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:07:09.572840+00:00",
+  "last_cycle_at": "2026-10-27T08:33:09.263579+00:00",
   "schema_version": 1
 }
