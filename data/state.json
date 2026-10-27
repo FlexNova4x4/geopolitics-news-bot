@@ -138,9 +138,10 @@
     "022684d1443a25e0db1b6b22": {
       "published_at": "2026-10-27T18:47:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12024,
       "title": "BJP government spending 'unprecedented resources' to malign Rahul, says Priyanka",
-      "updated_at": "2026-10-27T19:33:01.109524+00:00",
+      "updated_at": "2026-10-27T19:33:11.613511+00:00",
       "url": "https://www.thehindu.com/news/national/bjp-government-spending-unprecedented-resources-to-malign-rahul-says-priyanka/article71632491.ece"
     },
     "022bda1c79e27b6ade10deae": {
@@ -8233,9 +8234,10 @@
     "7841834cca2d395c18743099": {
       "published_at": "2026-10-27T18:52:07+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12025,
       "title": "Deadly tornado strikes construction site in Turkiye",
-      "updated_at": "2026-10-27T19:33:01.109526+00:00",
+      "updated_at": "2026-10-27T19:33:15.378365+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss"
     },
     "78846d46efd7e027311eead4": {
@@ -9023,9 +9025,10 @@
     "83d7c8448e0641a064213d52": {
       "published_at": "2026-10-27T18:42:48+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12022,
       "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
-      "updated_at": "2026-10-27T19:33:01.109502+00:00",
+      "updated_at": "2026-10-27T19:33:03.986163+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss"
     },
     "83e258b80ad169fb4fed068a": {
@@ -11403,9 +11406,10 @@
     "a547d38bcaf240188841d27d": {
       "published_at": "2026-10-27T18:43:41+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12023,
       "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "updated_at": "2026-10-27T19:33:01.109521+00:00",
+      "updated_at": "2026-10-27T19:33:07.805451+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss"
     },
     "a5769d48d57b94ba3ddbd147": {
@@ -18024,6 +18028,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T19:33:01.111181+00:00",
+  "last_cycle_at": "2026-10-27T19:33:18.580434+00:00",
   "schema_version": 1
 }
