@@ -1995,6 +1995,14 @@
       "updated_at": "2026-10-27T00:10:24.953356+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/unusual-sighting-of-greater-flamingos-at-veeranam-lake/article71627813.ece"
     },
+    "2d6f587c16030408c8214781": {
+      "published_at": "2026-10-27T05:09:54+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "38-year-old police constable collapses, dies of heart attack while chasing drug suspect",
+      "updated_at": "2026-10-27T05:38:50.298441+00:00",
+      "url": "https://www.hindustantimes.com/india-news/38yearold-police-constable-collapses-dies-of-heart-attack-while-chasing-drug-suspect-101793077795123.html"
+    },
     "2d9b57a6863ab998e431861c": {
       "published_at": "2026-10-26T02:55:15+00:00",
       "source": "aljazeera.com",
@@ -7982,6 +7990,14 @@
       "updated_at": "2026-10-25T16:42:13.887574+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/five-held-in-investment-fraud-case/article71624245.ece"
     },
+    "afd24773c56dc9a5148913d8": {
+      "published_at": "2026-10-27T05:05:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rajnath Singh calls for ‘Aatmanirbharta 2.0’ in defence, stresses advanced technologies and resilient supply chains",
+      "updated_at": "2026-10-27T05:38:50.298426+00:00",
+      "url": "https://www.thehindu.com/news/national/rajnath-singh-calls-for-aatmanirbharta-20-in-defence-stresses-advanced-technologies-and-resilient-supply-chains/article71627117.ece"
+    },
     "b0739e1ca9283319edca8de9": {
       "published_at": "2026-10-26T05:07:28+00:00",
       "source": "publish.tribuneindia.com",
@@ -10534,6 +10550,14 @@
       "updated_at": "2026-10-26T03:22:27.751788+00:00",
       "url": "https://www.dawn.com/news/2039816/pakistans-food-supply-fails-own-dietary-guidelines-fao"
     },
+    "ea4cad683693607c846f62d0": {
+      "published_at": "2026-10-27T05:10:41+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘100% whole wheat bread’ claim ‘misleading’, Britannia fined by consumer protection authority",
+      "updated_at": "2026-10-27T05:38:50.298445+00:00",
+      "url": "https://www.tribuneindia.com/news/india/100-whole-wheat-bread-claim-misleading-britannia-fined-by-consumer-protection-authority"
+    },
     "eaa4aa3a4157a93450eabdae": {
       "published_at": "2026-10-26T04:11:33+00:00",
       "source": "hindustantimes.com",
@@ -11495,6 +11519,14 @@
       "updated_at": "2026-10-25T16:13:45.749244+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/india-bloc-will-continue-protests-until-gyanesh-kumar-resigns-says-praveen-chakravarty/article71623557.ece"
     },
+    "fc1cc2f6fcde1a957db654f0": {
+      "published_at": "2026-10-27T05:10:49+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हमीरपुर: मोरसू सुल्तानी पंचायत की ग्राम सभा में भजन-कीर्तन का वीडियो बनाने पर विवाद, पंचायत प्रधान पर एफआईआर",
+      "updated_at": "2026-10-27T05:38:50.298449+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/hamirpur-morsu-sultani-gram-sabha-video-recording-dispute-fir-2026-10-27"
+    },
     "fc2b0f3489b93e82c15c7b4b": {
       "published_at": "2026-10-25T14:34:33+00:00",
       "source": "feeds.bbci.co.uk",
@@ -11701,6 +11733,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:38:44.226093+00:00",
+  "last_cycle_at": "2026-10-27T05:38:50.299686+00:00",
   "schema_version": 1
 }
