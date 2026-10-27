@@ -5995,6 +5995,14 @@
       "updated_at": "2026-10-27T09:03:23.483110+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
     },
+    "5dfbe045329eafb52477aa67": {
+      "published_at": "2026-10-27T15:16:40+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Osmania junior doctors resume protest as promised fixes remain elusive",
+      "updated_at": "2026-10-27T15:42:36.508548+00:00",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/osmania-junior-doctors-resume-protest-as-promised-fixes-remain-elusive/article71632220.ece"
+    },
     "5e9f63da60135af8eddb38b9": {
       "published_at": "2026-10-27T04:54:26+00:00",
       "source": "aljazeera.com",
@@ -8024,6 +8032,14 @@
       "updated_at": "2026-10-26T11:44:57.333378+00:00",
       "url": "https://www.tribuneindia.com/news/uttarakhand/ankita-bhandari-murder-case-fresh-fir-against-actress-urmila-sanawar-a-day-after-her-arrest"
     },
+    "7bef6c44145067a37af1265d": {
+      "published_at": "2026-10-27T15:12:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "All Operation Toofan cases being properly investigated: Minister",
+      "updated_at": "2026-10-27T15:42:36.508542+00:00",
+      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/all-operation-toofan-cases-being-properly-investigated-minister/article71631779.ece"
+    },
     "7c10e62b2ef4be6a677e942c": {
       "published_at": "2026-10-26T23:37:38+00:00",
       "source": "amarujala.com",
@@ -8373,6 +8389,14 @@
       "title": "While the state is clear on its decision to fight terrorism in KP, it does not seem to have a clear strategy",
       "updated_at": "2026-10-27T05:38:09.554393+00:00",
       "url": "https://www.dawn.com/news/2040164/while-the-state-is-clear-on-its-decision-to-fight-terrorism-in-kp-it-does-not-seem-to-have-a-clear-strategy"
+    },
+    "8256a9929744060900487c42": {
+      "published_at": "2026-10-27T15:11:58+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "14,210 new voters added to take final poll roll to 10.08 lakh in Vijayanagara",
+      "updated_at": "2026-10-27T15:42:36.508524+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/14210-new-voters-added-to-take-final-poll-roll-to-1008-lakh-in-vijayanagara/article71632198.ece"
     },
     "82aa7099f64bafccb19dd764": {
       "published_at": "2026-10-25T22:10:41+00:00",
@@ -14522,6 +14546,14 @@
       "updated_at": "2026-10-25T16:13:41.833408+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/congress-legislators-accuse-brs-of-spreading-misinformation-on-power-supply/article71623862.ece"
     },
+    "e0414cc08e1240b8736b88ba": {
+      "published_at": "2026-10-27T15:13:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Traditional Mysore painting workshop begins at IGRMS",
+      "updated_at": "2026-10-27T15:42:36.508546+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/traditional-mysore-painting-workshop-begins-at-igrms/article71632468.ece"
+    },
     "e0662c36b9b20f30a85c2460": {
       "published_at": "2026-10-25T07:29:06+00:00",
       "source": "hindustantimes.com",
@@ -16831,6 +16863,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:42:29.593756+00:00",
+  "last_cycle_at": "2026-10-27T15:42:36.510126+00:00",
   "schema_version": 1
 }
