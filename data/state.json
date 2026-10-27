@@ -2242,9 +2242,10 @@
     "295047aef89a7f65795f594a": {
       "published_at": "2026-10-27T09:53:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11582,
       "title": "Action sought against Periyar University professor for participating in DMK function",
-      "updated_at": "2026-10-27T10:05:46.484783+00:00",
+      "updated_at": "2026-10-27T10:05:48.535289+00:00",
       "url": "https://www.thehindu.com/news/cities/Coimbatore/action-sought-against-periyar-university-professorfor-participating-in-dmk-function/article71630582.ece"
     },
     "29684a250e0aa981a057a67d": {
@@ -2896,9 +2897,10 @@
     "373e77412f539a1f64c7b7e7": {
       "published_at": "2026-10-27T09:57:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11585,
       "title": "Cheranalloor car crash: ADGP pledges prompt action on ‘genuine demands’ of victims’ family based on probe",
-      "updated_at": "2026-10-27T10:05:46.484805+00:00",
+      "updated_at": "2026-10-27T10:05:59.867905+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cheranalloor-car-crash-adgp-pledges-prompt-action-on-genuine-demands-of-victims-family-based-on-probe/article71630498.ece"
     },
     "37a56c5e2966e74e495c5811": {
@@ -10080,9 +10082,10 @@
     "b8fc5b5f5166fb7c557fdc5d": {
       "published_at": "2026-10-27T09:56:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11584,
       "title": "SC says ‘will examine’ petitioners’ ‘innocuous’ plea to direct ECI to preserve or file in court ‘complete’ SIR records",
-      "updated_at": "2026-10-27T10:05:46.484803+00:00",
+      "updated_at": "2026-10-27T10:05:56.102351+00:00",
       "url": "https://www.thehindu.com/news/national/sc-says-will-examine-petitioners-innocuous-plea-to-direct-eci-to-preserve-or-file-in-court-complete-sir-records/article71630549.ece"
     },
     "b9068584957035e77af619cb": {
@@ -13405,9 +13408,10 @@
     "f54876e51475c452280a9e88": {
       "published_at": "2026-10-27T09:54:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11583,
       "title": "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri",
-      "updated_at": "2026-10-27T10:05:46.484799+00:00",
+      "updated_at": "2026-10-27T10:05:52.345655+00:00",
       "url": "https://www.thehindu.com/business/Economy/india-poised-to-refine-for-world-as-global-capacity-declines-union-minister-hardeep-puri/article71630663.ece"
     },
     "f54e1b4bd2079255c59b8f1b": {
@@ -14091,6 +14095,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:05:46.486345+00:00",
+  "last_cycle_at": "2026-10-27T10:06:03.070128+00:00",
   "schema_version": 1
 }
