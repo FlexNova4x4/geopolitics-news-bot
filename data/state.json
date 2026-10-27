@@ -7243,9 +7243,10 @@
     "886ac1df3d441ea140a05ae0": {
       "published_at": "2026-10-27T08:14:59+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11518,
       "title": "Armed forces sign MoU with Sarvam to boost AI capabilities",
-      "updated_at": "2026-10-27T09:03:31.814128+00:00",
+      "updated_at": "2026-10-27T09:03:37.839095+00:00",
       "url": "https://www.hindustantimes.com/india-news/armed-forces-sign-mou-with-sarvam-to-boost-ai-capabilities-101793088900459.html"
     },
     "886f6517ac2c914003485cf8": {
@@ -9334,9 +9335,10 @@
     "b29304dd7ea0400999bf9371": {
       "published_at": "2026-10-27T07:22:41+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11517,
       "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-      "updated_at": "2026-10-27T09:03:31.814106+00:00",
+      "updated_at": "2026-10-27T09:03:34.080088+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss"
     },
     "b2bcd6c347e29a940ea49861": {
@@ -10961,9 +10963,10 @@
     "d23da9f61d3be2a3f355c094": {
       "published_at": "2026-10-27T08:25:38+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11520,
       "title": "SC issues notice on fresh pleas challenging law mandating singing of Vande Mataram",
-      "updated_at": "2026-10-27T09:03:31.814136+00:00",
+      "updated_at": "2026-10-27T09:03:45.604709+00:00",
       "url": "https://www.hindustantimes.com/india-news/sc-issues-notice-on-fresh-pleas-challenging-law-mandating-singing-of-vande-mataram-101793089538806.html"
     },
     "d293915be054fcbc4e578f87": {
@@ -11265,9 +11268,10 @@
     "d6c4c676d3450f1d1830ac99": {
       "published_at": "2026-10-27T08:18:47+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11519,
       "title": "Traders body raise concerns over Rahul Gandhi's Ramlila Maidan rally on Nov 1; cite traffic, parking issues",
-      "updated_at": "2026-10-27T09:03:31.814132+00:00",
+      "updated_at": "2026-10-27T09:03:41.643428+00:00",
       "url": "https://www.hindustantimes.com/india-news/traders-body-raise-concerns-over-rahul-gandhis-ramlila-maidan-rally-on-nov-1-cite-traffic-parking-issues-20000-vehicles-sadar-bazaar-chandni-chowk-101793086450268.html"
     },
     "d6cfd4f710ea8c69c5d628b0": {
@@ -13506,6 +13510,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:03:31.815965+00:00",
+  "last_cycle_at": "2026-10-27T09:03:48.807096+00:00",
   "schema_version": 1
 }
