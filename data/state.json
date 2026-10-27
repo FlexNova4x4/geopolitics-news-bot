@@ -3767,9 +3767,10 @@
     "55c864e96b862783a159db98": {
       "published_at": "2026-10-27T04:07:43+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11282,
       "title": "शिमला: न नंबर प्लेट, न पासिंग; सिर्फ नाम लिखकर सड़कों पर वाहन दौड़ा रहा निगम, चालकों ने की शिकायत",
-      "updated_at": "2026-10-27T05:35:05.009817+00:00",
+      "updated_at": "2026-10-27T05:35:18.925090+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-municipal-corporation-vehicles-without-number-plates-2026-10-27"
     },
     "5653a520a2ebae29688a3815": {
@@ -4358,9 +4359,10 @@
     "645af2dae1f7466d26cd0797": {
       "published_at": "2026-10-26T20:10:56+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11280,
       "title": "Mandi college sweeps overall hockey titles",
-      "updated_at": "2026-10-27T05:35:05.009807+00:00",
+      "updated_at": "2026-10-27T05:35:11.037246+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandi-college-sweeps-overall-hockey-titles"
     },
     "64bb329b19abcb6e715f5cc4": {
@@ -4581,9 +4583,10 @@
     "695ca1b9363c41c7ad66d9e1": {
       "published_at": "2026-10-27T04:07:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11281,
       "title": "India-EU FTA to benefit Netherlands as trade, investment ties expand: Indian envoy to Netherlands Tuhin",
-      "updated_at": "2026-10-27T05:35:05.009812+00:00",
+      "updated_at": "2026-10-27T05:35:15.012533+00:00",
       "url": "https://www.tribuneindia.com/news/economic-cooperation/india-eu-fta-to-benefit-netherlands-as-trade-investment-ties-expand-indian-envoy-to-netherlands-tuhin"
     },
     "6997007871d52ae3dc68d285": {
@@ -10129,9 +10132,10 @@
     "e72e22ae3edcc4126e27d5aa": {
       "published_at": "2026-10-26T20:08:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11279,
       "title": "Shimla’s Auckland House skaters shine in Chandigarh championship",
-      "updated_at": "2026-10-27T05:35:05.009787+00:00",
+      "updated_at": "2026-10-27T05:35:07.153168+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/shimlas-auckland-house-skaters-shine-in-chandigarh-cship"
     },
     "e7355a689b568ac98186c6a6": {
@@ -11373,6 +11377,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:35:05.011024+00:00",
+  "last_cycle_at": "2026-10-27T05:35:22.126674+00:00",
   "schema_version": 1
 }
