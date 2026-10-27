@@ -3536,9 +3536,10 @@
     "429796a639a89bbec392b84f": {
       "published_at": "2026-10-27T10:26:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11605,
       "title": "Police officer booked for stealing, selling lost mobile phone in Keralam",
-      "updated_at": "2026-10-27T10:35:31.704903+00:00",
+      "updated_at": "2026-10-27T10:35:37.896056+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/police-officer-booked-for-stealing-selling-lost-mobile-phone-in-keralam/article71630371.ece"
     },
     "429851fff4057a296a2ca518": {
@@ -9604,9 +9605,10 @@
     "af0a4854f156780b84cfe37f": {
       "published_at": "2026-10-27T10:23:15+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11604,
       "title": "5 Tamil Nadu convicts captured after jailbreak, one sent back in auto he took after escape",
-      "updated_at": "2026-10-27T10:35:31.704887+00:00",
+      "updated_at": "2026-10-27T10:35:33.987001+00:00",
       "url": "https://www.hindustantimes.com/india-news/5-tamil-nadu-convicts-captured-after-jailbreak-one-sent-back-in-auto-he-took-after-escape-theni-101793093904215.html"
     },
     "af385fb296e702a42cf1ed7d": {
@@ -14273,6 +14275,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:35:31.706683+00:00",
+  "last_cycle_at": "2026-10-27T10:35:41.098177+00:00",
   "schema_version": 1
 }
