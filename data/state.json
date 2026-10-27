@@ -1236,9 +1236,10 @@
     "17905d75b07b50974ce94052": {
       "published_at": "2026-10-27T05:57:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11371,
       "title": "SRM presents The Hindu Semiconductor Summit 2026 | Watch LIVE",
-      "updated_at": "2026-10-27T06:07:05.384025+00:00",
+      "updated_at": "2026-10-27T06:07:07.482696+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/srm-presents-the-hindu-semiconductor-summit-2026/article71629957.ece"
     },
     "179ab4507cc1739399aa9ac3": {
@@ -5301,9 +5302,10 @@
     "706b1710972b367ab33b8f65": {
       "published_at": "2026-10-27T05:57:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11372,
       "title": "CEC row LIVE: SC to hear pleas against CEC Gyanesh Kumar, decisions during SIR",
-      "updated_at": "2026-10-27T06:07:05.384042+00:00",
+      "updated_at": "2026-10-27T06:07:11.265612+00:00",
       "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece"
     },
     "70b1da82c53588b708b8a8ed": {
@@ -6980,9 +6982,10 @@
     "935472f56bd271fce87f5c2e": {
       "published_at": "2026-10-27T05:59:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11373,
       "title": "All 14 workers trapped at Bengal coal mine rescued",
-      "updated_at": "2026-10-27T06:07:05.384046+00:00",
+      "updated_at": "2026-10-27T06:07:15.045251+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/all-14-workers-trapped-at-bengal-coal-mine-rescued/article71629857.ece"
     },
     "9374b36218aa40d4d311bff3": {
@@ -12193,6 +12196,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:07:05.385714+00:00",
+  "last_cycle_at": "2026-10-27T06:07:18.247430+00:00",
   "schema_version": 1
 }
