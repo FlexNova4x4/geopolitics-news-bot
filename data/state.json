@@ -4256,9 +4256,10 @@
     "413cb784f128a2f725fba557": {
       "published_at": "2026-10-27T16:45:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11968,
       "title": "Jaishankar to travel to U.S. for G20 Foreign Ministers’ meet, Quad this week",
-      "updated_at": "2026-10-27T17:12:52.322709+00:00",
+      "updated_at": "2026-10-27T17:13:03.593206+00:00",
       "url": "https://www.thehindu.com/news/national/jaishankar-to-travel-to-us-for-g20-foreign-ministers-meet-quad-this-week/article71632365.ece"
     },
     "417384d39814286641e51c01": {
@@ -4867,9 +4868,10 @@
     "49938168a42ed6447597b6c0": {
       "published_at": "2026-10-27T16:44:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11967,
       "title": "Days after claims of irregularities in garbage contracts, Chief Minister meets with Opposition",
-      "updated_at": "2026-10-27T17:12:52.322705+00:00",
+      "updated_at": "2026-10-27T17:12:59.668155+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/days-after-claims-of-irregularities-in-garbage-contracts-chief-minister-meets-with-opposition/article71632870.ece"
     },
     "49bad963a3556e142d805c93": {
@@ -11107,9 +11109,10 @@
     "a5347313b0fe15800943347e": {
       "published_at": "2026-10-27T16:43:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11966,
       "title": "Retired PSU staff ask President to expedite pension hikes",
-      "updated_at": "2026-10-27T17:12:52.322688+00:00",
+      "updated_at": "2026-10-27T17:12:55.810377+00:00",
       "url": "https://www.thehindu.com/news/national/retired-psu-staff-ask-president-to-expedite-pension-hikes/article71632750.ece"
     },
     "a539fd0636c495975d382810": {
@@ -14793,9 +14796,10 @@
     "da8869e9ceb07fba9b58be0e": {
       "published_at": "2026-10-27T16:48:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11969,
       "title": "Telangana declares 365 mandals drought-affected, of which 111 severely drought-affected",
-      "updated_at": "2026-10-27T17:12:52.322712+00:00",
+      "updated_at": "2026-10-27T17:13:07.552387+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-declares-365-mandals-drought-affected-of-which-111-severely-drought-affected/article71632836.ece"
     },
     "da95fb181a4212a82c22ad84": {
@@ -17520,6 +17524,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:12:52.324333+00:00",
+  "last_cycle_at": "2026-10-27T17:13:10.754502+00:00",
   "schema_version": 1
 }
