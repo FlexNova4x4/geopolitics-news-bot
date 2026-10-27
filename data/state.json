@@ -3893,6 +3893,14 @@
       "updated_at": "2026-10-25T11:34:46.583810+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
     },
+    "46e93c5053987f11e3b03ef4": {
+      "published_at": "2026-10-27T11:28:28+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "This Halloween, Goa’s Bloody Dangerous serves up sex, scares and sophisticated cocktails",
+      "updated_at": "2026-10-27T12:17:38.329343+00:00",
+      "url": "https://www.thehindu.com/food/dining/this-halloween-goas-bloody-dangerous-serves-up-sex-scares-and-sophisticated-cocktails/article71626487.ece"
+    },
     "46f4e10bfaea2b18de4b40f1": {
       "published_at": "2026-10-26T09:15:21+00:00",
       "source": "aljazeera.com",
@@ -4270,6 +4278,14 @@
       "title": "Police in Albania filmed beating protester unconscious",
       "updated_at": "2026-10-25T11:34:35.711871+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss"
+    },
+    "4c75e9013f9026fe0c2cef30": {
+      "published_at": "2026-10-27T11:33:27+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cheetah cub dies during treatment in first suspected case of shooting in Madhya Pradesh",
+      "updated_at": "2026-10-27T12:17:38.329350+00:00",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/cheetah-cub-dies-during-treatment-in-first-suspected-case-of-shooting-in-madhya-pradesh/article71630830.ece"
     },
     "4cad4eded2823eaaa3ab0908": {
       "published_at": "2026-10-25T21:11:04+00:00",
@@ -4897,6 +4913,14 @@
       "title": "Solicitor-General to appear for Karnataka in bike-taxi case",
       "updated_at": "2026-10-27T00:10:28.689314+00:00",
       "url": "https://www.thehindu.com/news/national/solicitor-general-to-appear-for-karnataka-in-bike-taxi-case/article71628382.ece"
+    },
+    "57318dc0d574dde5dee785c1": {
+      "published_at": "2026-10-27T11:29:21+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Women safety: NHRC recommends sensitisation of police personnel to avoid victim-shaming of survivors",
+      "updated_at": "2026-10-27T12:17:38.329347+00:00",
+      "url": "https://www.hindustantimes.com/india-news/women-safety-nhrc-recommends-sensitisation-of-police-personnel-to-avoid-victim-shaming-of-survivors-101793100562099.html"
     },
     "57355419bee7c0e3521d19e9": {
       "published_at": "2026-10-26T00:44:51+00:00",
@@ -9100,6 +9124,14 @@
       "title": "Western Command to hold mechanisation technology seminar at Chandimandir on December 14-15",
       "updated_at": "2026-10-26T13:36:48.159301+00:00",
       "url": "https://www.tribuneindia.com/news/india/western-command-to-hold-mechanisation-technology-seminar-at-chandimandir-on-december-14-15"
+    },
+    "9e7fef382471f24f771fad25": {
+      "published_at": "2026-10-27T11:24:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SCR cancels daily express trains towards Visakhapatnam as Cyclone Arnab intensifies",
+      "updated_at": "2026-10-27T12:17:38.329328+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/scr-cancels-daily-express-trains-as-cyclone-arnab-intensifies/article71631019.ece"
     },
     "9ed30e3fe86a375981601659": {
       "published_at": "2026-10-25T07:59:38+00:00",
@@ -14779,6 +14811,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:17:32.676335+00:00",
+  "last_cycle_at": "2026-10-27T12:17:38.330668+00:00",
   "schema_version": 1
 }
