@@ -201,9 +201,10 @@
     "047f73febe62dbfd38fc1e0c": {
       "published_at": "2026-10-27T04:28:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11293,
       "title": "Sabarimala gold theft case: Kerala HC directs SIT to expedite prosecution sanction",
-      "updated_at": "2026-10-27T05:36:12.379738+00:00",
+      "updated_at": "2026-10-27T05:36:22.152453+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-kerala-hc-directs-sit-to-expedite-prosecution-sanction/article71628096.ece"
     },
     "04b0f0953fbbaa43cc19de9e": {
@@ -1225,9 +1226,10 @@
     "1b2cff704ac314f9ff1bab21": {
       "published_at": "2026-10-27T04:27:29+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11292,
       "title": "Justice P Sam Koshy recommended for appointment as Delhi High Court Chief Justice",
-      "updated_at": "2026-10-27T05:36:12.379734+00:00",
+      "updated_at": "2026-10-27T05:36:18.243723+00:00",
       "url": "https://www.tribuneindia.com/news/india/justice-p-sam-koshy-recommended-for-appointment-as-delhi-high-court-chief-justice"
     },
     "1b5a9890f8041fe67c832803": {
@@ -2886,9 +2888,10 @@
     "42bb32ca8e2f426ac71d761a": {
       "published_at": "2026-10-27T04:30:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11294,
       "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
-      "updated_at": "2026-10-27T05:36:12.379741+00:00",
+      "updated_at": "2026-10-27T05:36:26.076476+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss"
     },
     "42be681e5fa191a0ebc2e444": {
@@ -4042,9 +4045,10 @@
     "5bafa3121e9c14695467c018": {
       "published_at": "2026-10-27T04:27:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11291,
       "title": "“Explore new avenues to strengthen strategic partnerships”: Rajnath Singh leaves for ASEAN Defence Ministers’ Meeting-Plus in Philippines",
-      "updated_at": "2026-10-27T05:36:12.379718+00:00",
+      "updated_at": "2026-10-27T05:36:14.511159+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus/explore-new-avenues-to-strengthen-strategic-partnerships-rajnath-singh-leaves-for-asean-defence-ministers-meeting-plus-in-philippines"
     },
     "5c1ed4113d721321c01f1401": {
@@ -11481,6 +11485,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T05:36:12.381036+00:00",
+  "last_cycle_at": "2026-10-27T05:36:29.278368+00:00",
   "schema_version": 1
 }
