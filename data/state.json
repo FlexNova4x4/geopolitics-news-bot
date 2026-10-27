@@ -1047,9 +1047,10 @@
     "14ec9f3534961735d10cbd53": {
       "published_at": "2026-10-27T05:46:40+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11366,
       "title": "Operation against illegal Afghans in Peshawar from Nov 1",
-      "updated_at": "2026-10-27T06:06:20.538274+00:00",
+      "updated_at": "2026-10-27T06:06:34.742835+00:00",
       "url": "https://www.dawn.com/news/2040046/operation-against-illegal-afghans-in-peshawar-from-nov-1"
     },
     "150c2824467b4b387706135d": {
@@ -2500,9 +2501,10 @@
     "355ea15f9d8c76b2038f85f1": {
       "published_at": "2026-10-27T05:45:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11363,
       "title": "Cyclone Arnab: 10,176 households in 37 villages of Visakhapatnam district likely to be affected",
-      "updated_at": "2026-10-27T06:06:20.538248+00:00",
+      "updated_at": "2026-10-27T06:06:23.331999+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-10176-households-in-37-villages-of-visakhapatnam-district-likely-to-be-affected/article71629825.ece"
     },
     "3597c9b454d48930ebf04fe4": {
@@ -4967,9 +4969,10 @@
     "6b4b12f2b3c426adf7a2202d": {
       "published_at": "2026-10-27T05:45:49+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11364,
       "title": "Man held for ‘robbing 59 women of mobile phones’ in Gadap farmhouse",
-      "updated_at": "2026-10-27T06:06:20.538266+00:00",
+      "updated_at": "2026-10-27T06:06:27.073436+00:00",
       "url": "https://www.dawn.com/news/2040104/man-held-for-robbing-59-women-of-mobile-phones-in-gadap-farmhouse"
     },
     "6bc851e3443abd39e8b18177": {
@@ -10642,9 +10645,10 @@
     "e4034cc802282ad910ff9752": {
       "published_at": "2026-10-27T05:45:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11365,
       "title": "Karnataka SIR: Final electoral roll out on October 27; net additions remain minuscule",
-      "updated_at": "2026-10-27T06:06:20.538270+00:00",
+      "updated_at": "2026-10-27T06:06:30.975292+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/sir-karnatakas-final-electoral-roll-out-on-october-27-net-additions-remain-minuscule/article71627925.ece"
     },
     "e41379e89eed9656b09b1e1f": {
@@ -12129,6 +12133,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:06:20.539900+00:00",
+  "last_cycle_at": "2026-10-27T06:06:37.945090+00:00",
   "schema_version": 1
 }
