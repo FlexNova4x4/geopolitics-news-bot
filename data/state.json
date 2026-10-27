@@ -3365,9 +3365,10 @@
     "32593373ee1265c7fc6270df": {
       "published_at": "2026-10-27T18:47:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12016,
       "title": "Highways Dept. calls for consultants to prepare DPR on linking OMR, ECR",
-      "updated_at": "2026-10-27T19:03:03.983073+00:00",
+      "updated_at": "2026-10-27T19:03:06.575169+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/highways-dept-calls-for-consultants-to-prepare-dpr-on-linking-omr-ecr/article71632390.ece"
     },
     "32bd2b6300f9cd74f3011f57": {
@@ -7928,9 +7929,10 @@
     "74fd03933f58a12b1008e03e": {
       "published_at": "2026-10-27T18:48:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12017,
       "title": "Three girls missing in Tiruvannamalai",
-      "updated_at": "2026-10-27T19:03:03.983090+00:00",
+      "updated_at": "2026-10-27T19:03:10.342365+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/three-girls-missing-in-tiruvannamalai/article71632323.ece"
     },
     "75158c1834e1c18ed588fa82": {
@@ -17954,6 +17956,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T19:03:03.984640+00:00",
+  "last_cycle_at": "2026-10-27T19:03:13.544473+00:00",
   "schema_version": 1
 }
