@@ -3239,9 +3239,10 @@
     "383e7108c53074569221bc1b": {
       "published_at": "2026-10-27T13:21:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11759,
       "title": "Kadambrayar River pollution: PCB seeks action-taken report from Thrikkakara municipality",
-      "updated_at": "2026-10-27T13:43:36.521419+00:00",
+      "updated_at": "2026-10-27T13:43:42.973123+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kadambrayar-river-pollution-pcb-seeks-action-taken-report-from-thrikkakara-municipality/article71630460.ece"
     },
     "3862d49cccce60684b71a58c": {
@@ -6426,9 +6427,10 @@
     "6af4fcc280bf5c2de56deef9": {
       "published_at": "2026-10-27T13:21:23+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11758,
       "title": "Theni jailbreak: 13 of 17 inmates recaptured, 9 prison staff suspended; Opposition slams govt",
-      "updated_at": "2026-10-27T13:43:36.521404+00:00",
+      "updated_at": "2026-10-27T13:43:39.098615+00:00",
       "url": "https://www.hindustantimes.com/india-news/theni-jailbreak-13-of-17-inmates-recaptured-9-prison-staff-suspended-opposition-slams-govt-101793106385682.html"
     },
     "6b0c996fb86c3d01a481dbdd": {
@@ -11205,9 +11207,10 @@
     "b8725bdd16c16a3ef59a80d1": {
       "published_at": "2026-10-27T13:23:32+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11761,
       "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
-      "updated_at": "2026-10-27T13:43:36.521424+00:00",
+      "updated_at": "2026-10-27T13:43:50.690660+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
@@ -14458,9 +14461,10 @@
     "ee2ae582baae142389c8d056": {
       "published_at": "2026-10-27T13:21:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11760,
       "title": "Bharath urges Kurnool voters to back NDA for continued development",
-      "updated_at": "2026-10-27T13:43:36.521422+00:00",
+      "updated_at": "2026-10-27T13:43:46.832390+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/bharath-urges-kurnool-voters-to-back-nda-for-continued-development/article71631030.ece"
     },
     "ee77797f0e1ae753785e33b0": {
@@ -15666,6 +15670,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:43:36.522714+00:00",
+  "last_cycle_at": "2026-10-27T13:43:53.892592+00:00",
   "schema_version": 1
 }
