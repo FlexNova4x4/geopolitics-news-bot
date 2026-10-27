@@ -165,9 +165,10 @@
     "02b0927e17269500eebfce63": {
       "published_at": "2026-10-27T13:40:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11800,
       "title": "Bihar CM launches month-long campaign against drug abuse",
-      "updated_at": "2026-10-27T14:42:05.214243+00:00",
+      "updated_at": "2026-10-27T14:42:07.892653+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-launches-month-long-campaign-against-drug-abuse/article71631821.ece"
     },
     "02ccd8b8db557962234c13f4": {
@@ -2502,9 +2503,10 @@
     "28479b08ad7e20fc0d54c589": {
       "published_at": "2026-10-27T13:42:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11802,
       "title": "Debris removal work under way in Munnar highway",
-      "updated_at": "2026-10-27T14:42:05.214261+00:00",
+      "updated_at": "2026-10-27T14:42:15.758674+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/debris-removal-work-under-way-in-munnar-highway/article71631612.ece"
     },
     "2883b0fb3ca9f97d62652a21": {
@@ -5986,9 +5988,10 @@
     "616fee7167ed61dfc2d69b68": {
       "published_at": "2026-10-27T13:43:59+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11803,
       "title": "ATC reserves verdict in security breach case against Imaan, Hadi",
-      "updated_at": "2026-10-27T14:42:05.214264+00:00",
+      "updated_at": "2026-10-27T14:42:19.643987+00:00",
       "url": "https://www.dawn.com/news/2040233/atc-reserves-verdict-in-security-breach-case-against-imaan-hadi"
     },
     "61b023b54352ba94a7e64f4f": {
@@ -15295,9 +15298,10 @@
     "f56ea20620a6b5a136c1f8d6": {
       "published_at": "2026-10-27T13:41:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11801,
       "title": "Hyatt to add 600 new rooms in Bengaluru’s hospitality market",
-      "updated_at": "2026-10-27T14:42:05.214258+00:00",
+      "updated_at": "2026-10-27T14:42:11.882417+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/hyatt-to-add-600-new-rooms-in-bengalurus-hospitality-market/article71631253.ece"
     },
     "f5ac949b61ab526bee0feccd": {
@@ -16044,6 +16048,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T14:42:05.215697+00:00",
+  "last_cycle_at": "2026-10-27T14:42:22.846028+00:00",
   "schema_version": 1
 }
