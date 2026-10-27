@@ -6865,9 +6865,10 @@
     "8467b5e18e1572eab6e69def": {
       "published_at": "2026-10-27T07:42:23+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11480,
       "title": "HRCP slams Pakistan’s emergency rule in Khyber Pakhtunkhwa, warns of growing assault on democracy",
-      "updated_at": "2026-10-27T08:05:40.186560+00:00",
+      "updated_at": "2026-10-27T08:05:42.893202+00:00",
       "url": "https://www.tribuneindia.com/news/arbitrary-detentions/hrcp-slams-pakistans-emergency-rule-in-khyber-pakhtunkhwa-warns-of-growing-assault-on-democracy"
     },
     "8490f7619591dc2979297fb7": {
@@ -7476,9 +7477,10 @@
     "91dd2c3062951b78af1f25a6": {
       "published_at": "2026-10-27T07:42:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11481,
       "title": "WUC weekly brief highlights Uyghur rights abuses, transnational repression, forced labour concerns",
-      "updated_at": "2026-10-27T08:05:40.186576+00:00",
+      "updated_at": "2026-10-27T08:05:46.616699+00:00",
       "url": "https://www.tribuneindia.com/news/dolkun-isa/wuc-weekly-brief-highlights-uyghur-rights-abuses-transnational-repression-forced-labour-concerns"
     },
     "91ee9952970e21fd9a42b354": {
@@ -9549,9 +9551,10 @@
     "b978163c06320851f3fa1e3f": {
       "published_at": "2026-10-27T07:44:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11482,
       "title": "Highways Department begins repair of Chennai roads",
-      "updated_at": "2026-10-27T08:05:40.186580+00:00",
+      "updated_at": "2026-10-27T08:05:50.501403+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/highways-department-begins-repair-of-chennai-roads/article71624443.ece"
     },
     "b97f22baf269e31a35fa0f10": {
@@ -12872,9 +12875,10 @@
     "fa7a19d3d7a7c213933ee504": {
       "published_at": "2026-10-27T07:44:37+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11483,
       "title": "SC grants 10 days to petitioners to reply to Election Commission affidavit defending SIR",
-      "updated_at": "2026-10-27T08:05:40.186583+00:00",
+      "updated_at": "2026-10-27T08:05:54.410070+00:00",
       "url": "https://www.tribuneindia.com/news/india/sc-grants-10-days-to-petitioners-to-reply-to-election-commission-affidavit-defending-sir"
     },
     "fab92f3d966c5951063eb83b": {
@@ -13182,6 +13186,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:05:40.188234+00:00",
+  "last_cycle_at": "2026-10-27T08:05:57.612150+00:00",
   "schema_version": 1
 }
