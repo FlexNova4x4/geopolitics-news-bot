@@ -939,9 +939,10 @@
     "0e9b4e23e158ee234638b00e": {
       "published_at": "2026-10-27T01:23:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11740,
       "title": "संगड़ाह: बैठक में महिला सुरक्षा, घरेलू हिंसा और नशे के बढ़ते प्रचलन पर हुआ मंथन",
-      "updated_at": "2026-10-27T13:41:03.077811+00:00",
+      "updated_at": "2026-10-27T13:41:14.193257+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-sangrah-meeting-focuses-on-womens-safety-domestic-violence-and-the-rising-prevalence-of-substance-abuse-2026-10-27"
     },
     "0ea77ba010f518ceef28c6c7": {
@@ -7261,9 +7262,10 @@
     "78e37c4e93a1594bdc757658": {
       "published_at": "2026-10-27T01:20:42+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11739,
       "title": "हमीरपुर: सीएम सुक्खू बोले- मेडिकल कॉलेज को लेकर सांसद अनुराग ठाकुर ने हमेशा बोल झूठ",
-      "updated_at": "2026-10-27T13:41:03.077807+00:00",
+      "updated_at": "2026-10-27T13:41:10.094919+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-cm-sukhu-says-mp-anurag-thakur-has-always-lied-regarding-the-medical-college-2026-10-27"
     },
     "78fd986ba58c922cb055b92e": {
@@ -11268,9 +11270,10 @@
     "bb4d4d8a67dda909f62d6bf2": {
       "published_at": "2026-10-27T01:19:57+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11738,
       "title": "कांगड़ा: भाजपा की सह प्रभारी एवं राज्यसभा सांसद दर्शना सिंह ने किए मां ज्वाला के दर्शन",
-      "updated_at": "2026-10-27T13:41:03.077789+00:00",
+      "updated_at": "2026-10-27T13:41:06.040866+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kangra/video-kangra-bjp-co-in-charge-and-rajya-sabha-mp-darshana-singh-offered-prayers-to-maa-jwala-2026-10-27"
     },
     "bb6bb539bd0d678995e322e4": {
@@ -14925,9 +14928,10 @@
     "f7ce1f91497e1ddfee97ffe8": {
       "published_at": "2026-10-27T01:25:37+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11741,
       "title": "वीडियो: नाहन में शांति बहाली की पहल, दोनों समुदायों के बाहरी राज्यों के पदाधिकारी पहुंचे",
-      "updated_at": "2026-10-27T13:41:03.077814+00:00",
+      "updated_at": "2026-10-27T13:41:18.242211+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-video-initiative-to-restore-peace-in-nahan-representatives-from-both-communities-arrive-in-nahan-from-other-states-2026-10-27"
     },
     "f7e6ee5d2e55f7aeda62e002": {
@@ -15486,6 +15490,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:41:03.079114+00:00",
+  "last_cycle_at": "2026-10-27T13:41:21.445735+00:00",
   "schema_version": 1
 }
