@@ -1134,6 +1134,14 @@
       "updated_at": "2026-10-26T06:44:35.586423+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/rti-area-9-to-build-government-school-in-dundigal-municipality/article71624041.ece"
     },
+    "1306ec22856c375a7ff51256": {
+      "published_at": "2026-10-27T12:35:32+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "U.P. Cabinet clears ₹1,947-cr textile park project, seven water-sewerage schemes in Lucknow, Varanasi",
+      "updated_at": "2026-10-27T12:43:24.116557+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-cabinet-clears-1947-cr-textile-park-project-seven-water-sewerage-schemes-in-lucknow-varanasi/article71631472.ece"
+    },
     "131c9b4c82148a1800777b6e": {
       "published_at": "2026-10-27T11:02:41+00:00",
       "source": "aljazeera.com",
@@ -6298,6 +6306,14 @@
       "updated_at": "2026-10-27T03:41:45.034724+00:00",
       "url": "https://www.dawn.com/news/2040119/fcc-rejects-private-ownership-claim-on-state-land"
     },
+    "6bf3aa172588ad228ba7ee99": {
+      "published_at": "2026-10-27T12:26:32+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
+      "updated_at": "2026-10-27T12:43:24.116539+00:00",
+      "url": "https://www.thehindu.com/entertainment/movies/magazine-how-shubham-shevade-turned-a-maharashtra-village-into-a-dazzling-marathi-indie/article71631249.ece"
+    },
     "6c51b10ea3566bd3df94ef10": {
       "published_at": "2026-10-27T00:01:35+00:00",
       "source": "amarujala.com",
@@ -7590,6 +7606,14 @@
       "title": "Amid outcry, poll body orders re-poll at three polling stations under Agra Teachers MLC seat",
       "updated_at": "2026-10-25T05:37:35.871400+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
+    },
+    "8194ae620331aa334877256f": {
+      "published_at": "2026-10-27T12:27:24+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Over 32,000 trees to be axed for hydropower project ahead of PM Modi's visit: Sanjay Raut",
+      "updated_at": "2026-10-27T12:43:24.116554+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/over-32000-trees-to-be-axed-for-hydropower-project-ahead-of-pm-modis-visit-sanjay-raut/article71631405.ece"
     },
     "819718c17bd2230be0001aa7": {
       "published_at": "2026-10-26T05:01:59+00:00",
@@ -15157,6 +15181,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:42:59.518650+00:00",
+  "last_cycle_at": "2026-10-27T12:43:24.117907+00:00",
   "schema_version": 1
 }
