@@ -1784,9 +1784,10 @@
     "21cd084719bb8aec48eca57b": {
       "published_at": "2026-10-27T08:02:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11499,
       "title": "Japan to upgrade “Big B” initiative under new strategic cooperation with Bangladesh: PM Sanae Takaichi",
-      "updated_at": "2026-10-27T08:33:33.425595+00:00",
+      "updated_at": "2026-10-27T08:33:39.969424+00:00",
       "url": "https://www.tribuneindia.com/news/bangladesh/japan-to-upgrade-big-b-initiative-under-new-strategic-cooperation-with-bangladesh-pm-sanae-takaichi"
     },
     "22d141a243ed1872c7842577": {
@@ -8831,9 +8832,10 @@
     "a90c7973b57451dc49d82244": {
       "published_at": "2026-10-27T07:59:24+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11498,
       "title": "Karnataka’s final electoral roll published, nearly 1 crore names deleted",
-      "updated_at": "2026-10-27T08:33:33.425579+00:00",
+      "updated_at": "2026-10-27T08:33:36.103308+00:00",
       "url": "https://www.hindustantimes.com/india-news/karnatakas-final-electoral-roll-published-nearly-1-crore-names-deleted-101793087602028.html"
     },
     "a9263e36b2903f34a79ecd7d": {
@@ -9009,9 +9011,10 @@
     "ad976883b347afe0cec2b9d7": {
       "published_at": "2026-10-27T08:02:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11500,
       "title": "Prabhu Deva, Simran reunite for ‘Kamal Sridevi’, produced by Soundarya Rajinikanth",
-      "updated_at": "2026-10-27T08:33:33.425599+00:00",
+      "updated_at": "2026-10-27T08:33:43.689296+00:00",
       "url": "https://www.thehindu.com/entertainment/movies/prabhu-deva-simran-kamal-sridevi-soundarya-rajinikanth-gv-prakash-kumar/article71630273.ece"
     },
     "ade915771d0f628884a3794e": {
@@ -10681,9 +10684,10 @@
     "ce9463cd26d41fdcca6f23bb": {
       "published_at": "2026-10-27T08:02:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11501,
       "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
-      "updated_at": "2026-10-27T08:33:33.425603+00:00",
+      "updated_at": "2026-10-27T08:33:47.579824+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss"
     },
     "cedd260205b2fcff89fd7c3e": {
@@ -13335,6 +13339,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:33:33.427284+00:00",
+  "last_cycle_at": "2026-10-27T08:33:50.781794+00:00",
   "schema_version": 1
 }
