@@ -57,9 +57,10 @@
     "01a2d007938f6796f9de52d4": {
       "published_at": "2026-10-27T06:27:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11392,
       "title": "एम्स बिलासपुर में सफाई कर्मचारियों ने ली स्वच्छता की शपथ, विशेष अभियान 6.0 के तहत दिया संदेश",
-      "updated_at": "2026-10-27T06:36:14.370877+00:00",
+      "updated_at": "2026-10-27T06:36:24.207027+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/bilaspur/video-aiims-bilaspur-cleanliness-pledge-special-campaign-60-2026-10-27"
     },
     "01b41b5451f03931ce810285": {
@@ -4395,9 +4396,10 @@
     "5ca5350743c2c1f8bb8ad1f1": {
       "published_at": "2026-10-27T06:26:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11390,
       "title": "Car crash involving Keralam judge’s minor son: ADGP visits police station to probe alleged lapses in case handling",
-      "updated_at": "2026-10-27T06:36:14.370857+00:00",
+      "updated_at": "2026-10-27T06:36:16.446406+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/car-crash-involving-keralam-judges-minor-son-adgp-visits-police-station-to-probe-alleged-lapses-in-case-handling/article71629968.ece"
     },
     "5cfa53eb5862a5b22d5018e6": {
@@ -7133,9 +7135,10 @@
     "93c6a06f0b916a9090444439": {
       "published_at": "2026-10-27T06:27:01+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11391,
       "title": "कांगड़ा: चिट्टा तस्करी मामले में 1.01 करोड़ की संपत्ति फ्रीज, घर और कार पर लगाया बोर्ड",
-      "updated_at": "2026-10-27T06:36:14.370872+00:00",
+      "updated_at": "2026-10-27T06:36:20.195630+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kangra/video-nurpur-police-chitta-case-property-freezing-2026-2026-10-27"
     },
     "93d49050c8dcd908d11746ea": {
@@ -10329,9 +10332,10 @@
     "d5f0560940815322cb70e37c": {
       "published_at": "2026-10-27T06:29:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11393,
       "title": "जब तक ज्ञानेश कुमार इस्तीफा नहीं देंगे तब तक चुप नहीं बैठेंगे : मीणा",
-      "updated_at": "2026-10-27T06:36:14.370880+00:00",
+      "updated_at": "2026-10-27T06:36:28.104516+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/we-will-not-remain-silent-until-gyanesh-kumar-resigns-meena-kangra-news-r-399-1-sml1005-544561-2026-10-27"
     },
     "d60f937a8e7747578ea5234e": {
@@ -12372,6 +12376,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:36:14.372184+00:00",
+  "last_cycle_at": "2026-10-27T06:36:31.306241+00:00",
   "schema_version": 1
 }
