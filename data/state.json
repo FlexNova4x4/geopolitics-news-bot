@@ -2780,9 +2780,10 @@
     "37e7767f7d4c27dd860963db": {
       "published_at": "2026-10-26T20:29:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11495,
       "title": "हमीरपुर: बिहार से पकड़ा हत्या का फरार आरोपी, पांच दिन के पुलिस रिमांड पर भेजा",
-      "updated_at": "2026-10-27T08:33:09.262177+00:00",
+      "updated_at": "2026-10-27T08:33:15.717078+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-tyalu-murder-accused-arrested-bihar-five-day-police-remand-2026-10-27"
     },
     "37ed4397085bb4e3e8fb411d": {
@@ -4836,9 +4837,10 @@
     "5f32385f71dfaa9a97b2e6e9": {
       "published_at": "2026-10-27T07:55:58+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11496,
       "title": "Cyclone Arnab puts Jharkhand on alert; IMD issues heavy rain warning for 3 days",
-      "updated_at": "2026-10-27T08:33:09.262181+00:00",
+      "updated_at": "2026-10-27T08:33:19.621393+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-puts-jharkhand-on-alert-imd-issues-heavy-rain-warning-for-3-days-101793087759201.html"
     },
     "5f9c325b1b2d3c7bf02f5786": {
@@ -5256,9 +5258,10 @@
     "66538915070d6a9be4a68d50": {
       "published_at": "2026-10-26T20:25:15+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11494,
       "title": "कुल्लू दशहरा लोकनृत्य प्रतियोगिता में भुट्टी वीवर्ज ने मारी बाजी, सूत्रधार कला संगम दूसरे स्थान पर",
-      "updated_at": "2026-10-27T08:33:09.262162+00:00",
+      "updated_at": "2026-10-27T08:33:11.775210+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-kullu-dussehra-folk-dance-competition-bhutti-weavers-first-prize-2026-10-27"
     },
     "66672a72b1333056df7ecdb4": {
@@ -11686,9 +11689,10 @@
     "e41597d1cc8936dad81be654": {
       "published_at": "2026-10-27T07:59:11+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11497,
       "title": "'After Breaking Bad, Prison Break has begun in Tamil Nadu': Stalin slams Vijay govt over Theni jailbreak",
-      "updated_at": "2026-10-27T08:33:09.262183+00:00",
+      "updated_at": "2026-10-27T08:33:23.560458+00:00",
       "url": "https://www.hindustantimes.com/india-news/after-breaking-bad-prison-break-has-begun-in-tamil-nadu-stalin-slams-vijay-govt-over-theni-jailbreak-101793086875625.html"
     },
     "e45447987be3d824ed5c553c": {
@@ -13299,6 +13303,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:33:09.263579+00:00",
+  "last_cycle_at": "2026-10-27T08:33:26.762534+00:00",
   "schema_version": 1
 }
