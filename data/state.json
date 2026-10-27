@@ -432,6 +432,14 @@
       "updated_at": "2026-10-27T05:39:49.403029+00:00",
       "url": "https://www.dawn.com/news/2040085/poor-performance-cm-maryam-gives-igp-free-hand-for-action-against-dpos-rpos"
     },
+    "05de9ce2e9d3e6866b45a645": {
+      "published_at": "2026-10-27T12:48:18+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘India has engineers, but needs more chip-ready ones’",
+      "updated_at": "2026-10-27T13:12:56.879183+00:00",
+      "url": "https://www.thehindu.com/news/national/india-has-engineers-but-needs-more-chip-ready-ones/article71631494.ece"
+    },
     "05e0ca9115aec66df425cb7f": {
       "published_at": "2026-10-25T14:08:25+00:00",
       "source": "thehindu.com",
@@ -512,6 +520,14 @@
       "title": "हमीरपुर में पुलिस भर्ती शुरू, पहले दिन 1600 पुरुष अभ्यर्थियों का शारीरिक परीक्षण",
       "updated_at": "2026-10-27T09:03:11.649490+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-police-recruitment-2026-1600-male-candidates-physical-test-2026-10-27"
+    },
+    "07f7a6ad3a4608774cd92b0f": {
+      "published_at": "2026-10-27T12:50:04+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "ECI orders transfer of election-related officers in Goa, UP, 3 other states ahead of 2027 assembly polls",
+      "updated_at": "2026-10-27T13:12:56.879198+00:00",
+      "url": "https://www.hindustantimes.com/india-news/eci-orders-transfer-of-election-related-officers-in-5-states-ahead-of-2027-assembly-polls-goa-manipur-punjab-uttar-pradesh-and-uttarakhand-101793104498019.html"
     },
     "07fcc5f0728e832c037b5e56": {
       "published_at": "2026-10-26T04:46:40+00:00",
@@ -9666,6 +9682,14 @@
       "updated_at": "2026-10-27T12:17:03.378518+00:00",
       "url": "https://www.tribuneindia.com/news/brics/uganda-parliament-speaker-oboth-hails-pm-modis-cooperation-says-indian-community-may-gain-indigenous-recognition"
     },
+    "a26d6b1f7774d055bf37b9d3": {
+      "published_at": "2026-10-27T12:52:59+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "CM Vijay to chair T.N. Cabinet meeting on October 29",
+      "updated_at": "2026-10-27T13:12:56.879204+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-to-chair-tn-cabinet-meeting-on-october-29/article71631327.ece"
+    },
     "a27203bc18bb796fb98026b0": {
       "published_at": "2026-10-26T09:24:01+00:00",
       "source": "hindustantimes.com",
@@ -12300,6 +12324,14 @@
       "title": "Tell Modi to sack Gyanesh Kumar, protests will stop in 30 seconds: Rahul to traders",
       "updated_at": "2026-10-26T09:16:18.729390+00:00",
       "url": "https://www.thehindu.com/news/national/tell-modi-to-sack-gyanesh-kumar-protests-will-stop-in-30-seconds-rahul-to-traders/article71626135.ece"
+    },
+    "cf401a9a9dc6e4fb820a9aba": {
+      "published_at": "2026-10-27T12:52:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "India must make its defence chips end-to-end, say scientists",
+      "updated_at": "2026-10-27T13:12:56.879201+00:00",
+      "url": "https://www.thehindu.com/news/national/india-must-make-its-defence-chips-end-to-end-say-scientists/article71631519.ece"
     },
     "cf59167af9694ed9ffe036e0": {
       "published_at": "2026-10-25T20:07:35+00:00",
@@ -15328,6 +15360,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T13:12:49.566702+00:00",
+  "last_cycle_at": "2026-10-27T13:12:56.880490+00:00",
   "schema_version": 1
 }
