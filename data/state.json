@@ -3572,9 +3572,10 @@
     "44cd3eea75e777ba310bc51c": {
       "published_at": "2026-10-27T09:07:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11552,
       "title": "Nepal issues high alert as Cyclone Arnab threatens heavy rain, winds, avalanches",
-      "updated_at": "2026-10-27T09:35:18.319055+00:00",
+      "updated_at": "2026-10-27T09:35:28.299166+00:00",
       "url": "https://www.tribuneindia.com/news/cyclone-arnab/nepal-issues-high-alert-as-cyclone-arnab-threatens-heavy-rain-winds-avalanches"
     },
     "4515cfe5f8a44766599c568a": {
@@ -10270,9 +10271,10 @@
     "c01a6e9d0c7b5204827e7075": {
       "published_at": "2026-10-27T09:05:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11551,
       "title": "Firearms, grenades and ammunition seized in Manipur amid ongoing ethnic conflict",
-      "updated_at": "2026-10-27T09:35:18.319051+00:00",
+      "updated_at": "2026-10-27T09:35:24.577131+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/firearms-grenades-and-ammunition-seized-in-manipur-amid-ongoing-ethnic-conflict/article71630346.ece"
     },
     "c03b353eb4beb9db435166f7": {
@@ -10700,9 +10702,10 @@
     "c8ae55be3cd7adcd1e9fd95f": {
       "published_at": "2026-10-27T09:09:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11553,
       "title": "Climate pledges put world off track as emissions set to drop just 6% by 2035: UN",
-      "updated_at": "2026-10-27T09:35:18.319060+00:00",
+      "updated_at": "2026-10-27T09:35:32.036320+00:00",
       "url": "https://www.tribuneindia.com/news/world/climate-pledges-put-world-off-track-as-emissions-set-to-drop-just-6-by-2035-un"
     },
     "c8b719d00532565700a74404": {
@@ -11149,9 +11152,10 @@
     "d1b8c5ca61002ebd56c8debc": {
       "published_at": "2026-10-27T09:01:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11550,
       "title": "Guwahati shootout survivor stable, post-mortem exams of five victims underway",
-      "updated_at": "2026-10-27T09:35:18.319030+00:00",
+      "updated_at": "2026-10-27T09:35:20.850769+00:00",
       "url": "https://www.thehindu.com/news/national/assam/guwahati-shootout-survivor-stable-post-mortem-exams-of-five-victims-underway/article71630501.ece"
     },
     "d221c60a987b5eff7abec0ac": {
@@ -13803,6 +13807,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T09:35:18.320769+00:00",
+  "last_cycle_at": "2026-10-27T09:35:35.238548+00:00",
   "schema_version": 1
 }
