@@ -9160,9 +9160,10 @@
     "88cfe11fff663ed830cadf33": {
       "published_at": "2026-10-27T15:52:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11936,
       "title": "FATHI urges govt. for release of RTF dues",
-      "updated_at": "2026-10-27T16:41:58.082753+00:00",
+      "updated_at": "2026-10-27T16:42:01.330489+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/fathi-urges-govt-for-release-of-rtf-dues/article71632383.ece"
     },
     "891ca25d788b7fb50edbd8cb": {
@@ -10820,9 +10821,10 @@
     "a2dfd95d0b7e14d405ede880": {
       "published_at": "2026-10-27T15:55:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11938,
       "title": "3 held for parading teen, father naked in Kolkata taken through locality bare-chested by cops",
-      "updated_at": "2026-10-27T16:41:58.082771+00:00",
+      "updated_at": "2026-10-27T16:42:09.053068+00:00",
       "url": "https://www.tribuneindia.com/news/india/3-held-for-parading-teen-father-naked-in-kolkata-taken-through-locality-bare-chested-by-cops"
     },
     "a2eb6e51b01654396342a2e5": {
@@ -12393,9 +12395,10 @@
     "b907bbcac8b7d3dbb3a6c10c": {
       "published_at": "2026-10-27T15:56:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11939,
       "title": "As rice prices spike, traders warned against creating artificial shortage",
-      "updated_at": "2026-10-27T16:41:58.082774+00:00",
+      "updated_at": "2026-10-27T16:42:13.178926+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/as-rice-prices-spike-traders-warned-against-creating-artificial-shortage/article71632698.ece"
     },
     "b92ecdef59a05f1c48c055dd": {
@@ -17136,9 +17139,10 @@
     "fe63ba3172f709a3bd5f6adf": {
       "published_at": "2026-10-27T15:53:35+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11937,
       "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
-      "updated_at": "2026-10-27T16:41:58.082768+00:00",
+      "updated_at": "2026-10-27T16:42:05.204028+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss"
     },
     "fe64e116850cb04045bae245": {
@@ -17268,6 +17272,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T16:41:58.084440+00:00",
+  "last_cycle_at": "2026-10-27T16:42:16.380958+00:00",
   "schema_version": 1
 }
