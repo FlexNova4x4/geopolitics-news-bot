@@ -2531,9 +2531,10 @@
     "260b420ae1304f85ab1cb677": {
       "published_at": "2026-10-27T16:36:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11964,
       "title": "Sreedharan tells Keralam govt. to ‘ignore’ technical panel’s objections over high-speed rail project",
-      "updated_at": "2026-10-27T17:12:21.649654+00:00",
+      "updated_at": "2026-10-27T17:12:33.359928+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/sreedharan-tells-keralam-govt-to-ignore-technical-panels-objections-over-high-speed-rail-project/article71632175.ece"
     },
     "261bbaffea8c666d69aa31ce": {
@@ -7918,9 +7919,10 @@
     "775b16dd8cb02f97964e7a0d": {
       "published_at": "2026-10-27T16:37:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11965,
       "title": "Melania Trump announces Ukraine-Russia ceasefire around Oleshky takes effect two days ahead of schedule",
-      "updated_at": "2026-10-27T17:12:21.649658+00:00",
+      "updated_at": "2026-10-27T17:12:37.235430+00:00",
       "url": "https://www.tribuneindia.com/news/ceasefire/melania-trump-announces-ukraine-russia-ceasefire-around-oleshky-takes-effect-two-days-ahead-of-schedule"
     },
     "7765626bc01f30fa48dffdce": {
@@ -8259,9 +8261,10 @@
     "7bb89666c6519399b9e8e0c2": {
       "published_at": "2026-10-27T16:34:05+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11963,
       "title": "Mahayuti leads in 3 Maharashtra Council seats, MVA ahead in 2; preferential votes hold key",
-      "updated_at": "2026-10-27T17:12:21.649650+00:00",
+      "updated_at": "2026-10-27T17:12:29.310044+00:00",
       "url": "https://www.hindustantimes.com/india-news/mahayuti-leads-in-3-maharashtra-council-seats-mva-ahead-in-2-preferential-votes-hold-key-101793118629547.html"
     },
     "7bdc67fe66f4149f0371807e": {
@@ -14919,9 +14922,10 @@
     "dc30a941cd2b90b52916b339": {
       "published_at": "2026-10-27T16:33:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11962,
       "title": "Kerala Pradesh Congress Committe apologises to CJI for post on X",
-      "updated_at": "2026-10-27T17:12:21.649632+00:00",
+      "updated_at": "2026-10-27T17:12:25.452316+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-pradesh-congress-committe-apologises-to-cji-for-post-on-x/article71632905.ece"
     },
     "dc4f2ba4b9e7cf20f0893d01": {
@@ -17484,6 +17488,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T17:12:21.651157+00:00",
+  "last_cycle_at": "2026-10-27T17:12:40.437556+00:00",
   "schema_version": 1
 }
