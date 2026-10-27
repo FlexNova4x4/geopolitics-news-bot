@@ -2423,9 +2423,10 @@
     "2530144a6fa4023cc81bd377": {
       "published_at": "2026-10-27T14:47:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11857,
       "title": "Science carnival draws over 4,000 students",
-      "updated_at": "2026-10-27T15:14:22.348739+00:00",
+      "updated_at": "2026-10-27T15:14:29.934769+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/science-carnival-draws-over-4000-students/article71630806.ece"
     },
     "2539f709f12b337025da362c": {
@@ -3562,9 +3563,10 @@
     "39ebad13581e75ea0c412345": {
       "published_at": "2026-10-27T14:48:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11858,
       "title": "1.89 lakh names deleted in electoral rolls of Shivamogga district after SIR",
-      "updated_at": "2026-10-27T15:14:22.348743+00:00",
+      "updated_at": "2026-10-27T15:14:33.850268+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/189-lakh-names-deleted-in-electoral-rolls-of-shivamogga-district-after-sir/article71632058.ece"
     },
     "3a1848b68d0a30ff13abf2c0": {
@@ -5682,9 +5684,10 @@
     "5a0ffa74be8faa5c9894b408": {
       "published_at": "2026-10-27T14:46:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11856,
       "title": "Infant deaths in Keralam’s Attappady renew calls for health-care review",
-      "updated_at": "2026-10-27T15:14:22.348725+00:00",
+      "updated_at": "2026-10-27T15:14:25.988105+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/infant-deaths-in-keralams-attappady-renew-calls-for-health-care-review/article71632203.ece"
     },
     "5a1f66392d0452c7d70c021a": {
@@ -16058,9 +16061,10 @@
     "f94f29bf446bde6c6e4298c1": {
       "published_at": "2026-10-27T14:50:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11859,
       "title": "Minister directs officials to ensure safety of BC hostel students",
-      "updated_at": "2026-10-27T15:14:22.348745+00:00",
+      "updated_at": "2026-10-27T15:14:37.802286+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-directs-officials-to-ensure-safety-of-bc-hostel-students/article71632128.ece"
     },
     "f9a05de6b96081556e433a6d": {
@@ -16548,6 +16552,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:14:22.350358+00:00",
+  "last_cycle_at": "2026-10-27T15:14:41.004364+00:00",
   "schema_version": 1
 }
