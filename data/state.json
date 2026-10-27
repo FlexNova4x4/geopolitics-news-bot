@@ -3239,9 +3239,10 @@
     "3add6951ea3cc82b86155f55": {
       "published_at": "2026-10-27T11:12:01+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11656,
       "title": "Jan Suraaj Party functionary, missing from train, found dead near tracks in Ranchi",
-      "updated_at": "2026-10-27T12:16:48.755933+00:00",
+      "updated_at": "2026-10-27T12:16:55.431581+00:00",
       "url": "https://www.hindustantimes.com/india-news/jan-suraaj-party-functionary-missing-from-train-found-dead-near-tracks-in-ranchi-101793099522117.html"
     },
     "3af44a52fcd33ca6e3248004": {
@@ -9254,9 +9255,10 @@
     "a236b1bfe6f53f9fb167a1da": {
       "published_at": "2026-10-27T11:17:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11658,
       "title": "Uganda Parliament speaker Oboth hails PM Modi’s cooperation, says Indian community may gain Indigenous recognition",
-      "updated_at": "2026-10-27T12:16:48.755940+00:00",
+      "updated_at": "2026-10-27T12:17:03.378518+00:00",
       "url": "https://www.tribuneindia.com/news/brics/uganda-parliament-speaker-oboth-hails-pm-modis-cooperation-says-indian-community-may-gain-indigenous-recognition"
     },
     "a27203bc18bb796fb98026b0": {
@@ -10125,9 +10127,10 @@
     "b224374ea2021f77f615e2e2": {
       "published_at": "2026-10-27T11:16:53+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11657,
       "title": "Pakistan, China launch information corridor 'CPIC' to counter misleading narratives, promote cultural exchange",
-      "updated_at": "2026-10-27T12:16:48.755937+00:00",
+      "updated_at": "2026-10-27T12:16:59.490150+00:00",
       "url": "https://www.dawn.com/news/2040200/pakistan-china-launch-information-corridor-cpic-to-counter-misleading-narratives-promote-cultural-exchange"
     },
     "b230acc72b2932746274645c": {
@@ -12318,9 +12321,10 @@
     "d7057574cb51468b0a686af0": {
       "published_at": "2026-10-27T11:11:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11655,
       "title": "Gruha Lakshmi beneficiaries in Karnataka used funds to increase income",
-      "updated_at": "2026-10-27T12:16:48.755919+00:00",
+      "updated_at": "2026-10-27T12:16:51.554254+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/gruha-lakshmi-beneficiaries-in-karnataka-used-funds-to-increase-income/article71630735.ece"
     },
     "d7326455d3174baa940e497a": {
@@ -14739,6 +14743,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T12:16:48.757167+00:00",
+  "last_cycle_at": "2026-10-27T12:17:06.580339+00:00",
   "schema_version": 1
 }
