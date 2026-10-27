@@ -1770,6 +1770,14 @@
       "updated_at": "2026-10-26T22:42:05.819778+00:00",
       "url": "https://www.tribuneindia.com/news/india/rajnath-slams-congress-chief-kharge-over-remarks-against-modi"
     },
+    "2d64d18832e02132a9255ebd": {
+      "published_at": "2026-10-26T19:15:31+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Unusual sighting of greater flamingos at Veeranam lake",
+      "updated_at": "2026-10-27T00:10:22.663143+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/unusual-sighting-of-greater-flamingos-at-veeranam-lake/article71627813.ece"
+    },
     "2d9b57a6863ab998e431861c": {
       "published_at": "2026-10-26T02:55:15+00:00",
       "source": "aljazeera.com",
@@ -3503,6 +3511,14 @@
       "updated_at": "2026-10-25T10:34:49.491037+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bjp-leader-hartal-halappa-urges-karnataka-govt-to-ensure-at-least-seven-hour-power-supply-to-agri-pump-sets-during-day-time/article71622920.ece"
     },
+    "5729cb26779de9024bc59320": {
+      "published_at": "2026-10-26T20:32:05+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Solicitor-General to appear for Karnataka in bike-taxi case",
+      "updated_at": "2026-10-27T00:10:22.663174+00:00",
+      "url": "https://www.thehindu.com/news/national/solicitor-general-to-appear-for-karnataka-in-bike-taxi-case/article71628382.ece"
+    },
     "57355419bee7c0e3521d19e9": {
       "published_at": "2026-10-26T00:44:51+00:00",
       "source": "amarujala.com",
@@ -4290,6 +4306,14 @@
       "title": "Rahul Gandhi acquitted in 2018 defamation case by Sultanpur MP-MLA court",
       "updated_at": "2026-10-26T10:44:06.803723+00:00",
       "url": "https://www.thehindu.com/videos/rahul-gandhi-acquitted-in-2018-defamation-case-by-sultanpur-mp-mla-court/article71626204.ece"
+    },
+    "6d1dcfb1bd86ec91629345f4": {
+      "published_at": "2026-10-26T23:25:29+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+      "updated_at": "2026-10-27T00:10:22.663184+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss"
     },
     "6df5bcebfce060a42070267e": {
       "published_at": "2026-10-25T18:41:31+00:00",
@@ -6443,6 +6467,14 @@
       "title": "A.P. braces for very severe cyclone, to evacuate people in coastal districts",
       "updated_at": "2026-10-25T15:16:20.554935+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-braces-for-very-severe-cyclone-to-evacuate-people-in-coastal-districts/article71623247.ece"
+    },
+    "a176d95bb554ebbd1769568e": {
+      "published_at": "2026-10-26T23:18:31+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+      "updated_at": "2026-10-27T00:10:22.663179+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss"
     },
     "a187897975e8b3a3b3829d92": {
       "published_at": "2026-10-26T05:24:59+00:00",
@@ -10288,6 +10320,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-26T23:40:27.880240+00:00",
+  "last_cycle_at": "2026-10-27T00:10:22.664909+00:00",
   "schema_version": 1
 }
