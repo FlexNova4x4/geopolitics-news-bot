@@ -4814,9 +4814,10 @@
     "777287e979532631a778d786": {
       "published_at": "2026-10-27T00:32:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11177,
       "title": "Protesters target police convoy in Belgrade after Vučić concedes defeat in parliamentary polls: Report",
-      "updated_at": "2026-10-27T01:09:56.062321+00:00",
+      "updated_at": "2026-10-27T01:10:05.982400+00:00",
       "url": "https://www.tribuneindia.com/news/aleksandar-vucic/protesters-target-police-convoy-in-belgrade-after-vucic-concedes-defeat-in-parliamentary-polls-report"
     },
     "77786d5be8b00ee0754c51c2": {
@@ -5919,9 +5920,10 @@
     "932560affe1587e67a06092a": {
       "published_at": "2026-10-26T21:24:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11175,
       "title": "Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls",
-      "updated_at": "2026-10-27T01:09:56.062289+00:00",
+      "updated_at": "2026-10-27T01:09:58.501614+00:00",
       "url": "https://www.thehindu.com/news/international/netanyahu-wanted-by-icc-battles-for-political-survival-as-israel-goes-to-the-polls/article71627508.ece"
     },
     "934bd8317579bd82d0adc39e": {
@@ -6269,9 +6271,10 @@
     "9a2f1cbd0a0d793684eafbeb": {
       "published_at": "2026-10-27T00:25:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11176,
       "title": "Results of Karnataka Legislative Council polls to be announced today",
-      "updated_at": "2026-10-27T01:09:56.062315+00:00",
+      "updated_at": "2026-10-27T01:10:02.227528+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/results-of-karnataka-legislative-council-polls-to-be-announced-today/article71627547.ece"
     },
     "9a5b65d9da514e8812f3ba6e": {
@@ -6366,9 +6369,10 @@
     "9bf104e96a566f27ecffe9db": {
       "published_at": "2026-10-27T00:33:06+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11178,
       "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-      "updated_at": "2026-10-27T01:09:56.062326+00:00",
+      "updated_at": "2026-10-27T01:10:09.991338+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss"
     },
     "9c2f4bea9633690be6f3bb97": {
@@ -10455,6 +10459,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T01:09:56.063732+00:00",
+  "last_cycle_at": "2026-10-27T01:10:13.193342+00:00",
   "schema_version": 1
 }
