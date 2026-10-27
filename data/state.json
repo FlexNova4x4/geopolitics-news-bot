@@ -2134,9 +2134,10 @@
     "2944b51e21eb861e4ef21726": {
       "published_at": "2026-10-27T07:48:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11485,
       "title": "U.S. judge halts tree-cutting at Trump’s golf course project",
-      "updated_at": "2026-10-27T08:06:05.648598+00:00",
+      "updated_at": "2026-10-27T08:06:11.788891+00:00",
       "url": "https://www.thehindu.com/news/international/us-judge-halts-tree-cutting-at-trumps-golf-course-project/article71630079.ece"
     },
     "29684a250e0aa981a057a67d": {
@@ -4414,9 +4415,10 @@
     "56c47777a8d3bf4c248c6a1e": {
       "published_at": "2026-10-27T07:50:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11487,
       "title": "Elephant calf dies after slipping down slope in Wayanad",
-      "updated_at": "2026-10-27T08:06:05.648604+00:00",
+      "updated_at": "2026-10-27T08:06:19.465939+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/elephant-calf-dies-after-slipping-down-slope-in-wayanad/article71630232.ece"
     },
     "5717bd2caf2d34fa21e56e0a": {
@@ -7673,9 +7675,10 @@
     "943cc615dc89d9bb60fa5cd3": {
       "published_at": "2026-10-27T07:47:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11484,
       "title": "New UNSC permanent members without veto would be 'second-class': India",
-      "updated_at": "2026-10-27T08:06:05.648582+00:00",
+      "updated_at": "2026-10-27T08:06:08.046591+00:00",
       "url": "https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece"
     },
     "943de8f4c6f271e66fc62983": {
@@ -11722,9 +11725,10 @@
     "e646f0c78d0f97a48e4d0cd7": {
       "published_at": "2026-10-27T07:49:06+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11486,
       "title": "Congress has no concern for country, economy: Shivraj Singh Chouhan on Opposition proposed Nov 1 rally",
-      "updated_at": "2026-10-27T08:06:05.648601+00:00",
+      "updated_at": "2026-10-27T08:06:15.518331+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-has-no-concern-for-country-economy-shivraj-singh-chouhan-on-opposition-proposed-nov-1-rally"
     },
     "e696808a37134cd98617d6eb": {
@@ -13218,6 +13222,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:06:05.650352+00:00",
+  "last_cycle_at": "2026-10-27T08:06:22.668166+00:00",
   "schema_version": 1
 }
