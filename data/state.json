@@ -4042,6 +4042,14 @@
       "updated_at": "2026-10-26T13:34:37.242133+00:00",
       "url": "https://www.tribuneindia.com/news/india/sc-asks-states-uts-to-allocate-funds-to-build-bar-rooms-washrooms-for-women-advocates"
     },
+    "5d2e780c47764867458fcca7": {
+      "published_at": "2026-10-27T03:56:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cancer 360: Overview of Detection, Treatment, Palliation",
+      "updated_at": "2026-10-27T04:13:04.991977+00:00",
+      "url": "https://www.thehindu.com/sci-tech/health/cancer-360-overview-of-detection-treatment-palliation/article71629701.ece"
+    },
     "5d37ae1020a3bd90c3126f48": {
       "published_at": "2026-10-25T14:48:21+00:00",
       "source": "thehindu.com",
@@ -7514,6 +7522,14 @@
       "title": "Democrats projected to win 229 House seats as economic concerns weigh on voters: CBS News polls",
       "updated_at": "2026-10-26T05:53:38.412346+00:00",
       "url": "https://www.tribuneindia.com/news/cbs-news-poll/democrats-projected-to-win-229-house-seats-as-economic-concerns-weigh-on-voters-cbs-news-polls"
+    },
+    "aab31edad40ec73606e83bc4": {
+      "published_at": "2026-10-27T03:55:22+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Arnab becomes ‘very severe cyclonic storm’, light showers begin in north Andhra",
+      "updated_at": "2026-10-27T04:13:04.991957+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/arnab-becomes-very-severe-cyclonic-storm-light-showers-begin-in-north-andhra/article71629655.ece"
     },
     "aad5a01d7fc6de7b00e1bb87": {
       "published_at": "2026-10-25T15:44:17+00:00",
@@ -11215,6 +11231,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T04:12:47.752615+00:00",
+  "last_cycle_at": "2026-10-27T04:13:04.994165+00:00",
   "schema_version": 1
 }
