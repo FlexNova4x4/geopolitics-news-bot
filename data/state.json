@@ -1289,9 +1289,10 @@
     "1856332a138aee5184c65413": {
       "published_at": "2026-10-27T06:46:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11403,
       "title": "Bilaspur News: लोकमंथन-2026 में हिमाचल की भागीदारी बढ़ाने पर जोर",
-      "updated_at": "2026-10-27T06:37:21.745158+00:00",
+      "updated_at": "2026-10-27T06:37:28.307630+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/emphasis-on-increasing-himachals-participation-in-lokmanthan-2026-bilaspur-news-c-92-1-ssml1001-170699-2026-10-27"
     },
     "18c25fe65809516485d3f623": {
@@ -2689,9 +2690,10 @@
     "389b47a7d24a33309ec53b88": {
       "published_at": "2026-10-27T06:45:13+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11402,
       "title": "Bilaspur News: मेडिकल पीजी की 320 सीटें मंजूर होने पर जताया आभार",
-      "updated_at": "2026-10-27T06:37:21.745139+00:00",
+      "updated_at": "2026-10-27T06:37:24.157870+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/expressed-gratitude-over-the-approval-of-320-medical-pg-seats-bilaspur-news-c-92-1-ssml1001-170705-2026-10-27"
     },
     "390b335947f0cfae8304a891": {
@@ -12464,6 +12466,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:37:21.746742+00:00",
+  "last_cycle_at": "2026-10-27T06:37:31.509408+00:00",
   "schema_version": 1
 }
