@@ -1092,9 +1092,10 @@
     "139c0bf86fead18984a40473": {
       "published_at": "2026-10-27T09:24:49+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11569,
       "title": "Kylian Mbappe loses Chinese sponsors for calling Mao ‘Chinese dictator’",
-      "updated_at": "2026-10-27T10:03:58.872831+00:00",
+      "updated_at": "2026-10-27T10:04:13.339460+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-loses-chinese-sponsors-for-calling-mao-chinese-dictator?traffic_source=rss"
     },
     "13abbcd26b7030c95fa14e2a": {
@@ -3346,9 +3347,10 @@
     "3f74f281a937a3f81696ae3f": {
       "published_at": "2026-10-26T21:54:45+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11566,
       "title": "कुल्लू दशहरा: माता भुवनेश्वरी दुराह को सुलाने के बाद नृत्य करते हैं पुजारी, सदियों पुरानी परंपरा आज भी कायम",
-      "updated_at": "2026-10-27T10:03:58.872799+00:00",
+      "updated_at": "2026-10-27T10:04:01.694245+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/kullu-dussehra-maa-bhuvaneshwari-durah-priest-dance-ancient-tradition-2026-10-27"
     },
     "3f8123bdc6d9ee6d2a39708c": {
@@ -9271,9 +9273,10 @@
     "ab08da050a21e3dc83d7732e": {
       "published_at": "2026-10-26T22:02:47+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11567,
       "title": "शिमला में आज खिली धूप, 29 और 30 अक्तूबर को बदलेगा मौसम; पहाड़ों पर बारिश-बर्फबारी के आसार",
-      "updated_at": "2026-10-27T10:03:58.872822+00:00",
+      "updated_at": "2026-10-27T10:04:05.623358+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-shimla-himachal-weather-update-rain-snowfall-october-2026-2026-10-27"
     },
     "ab32eb13a859b69f063f9d9a": {
@@ -12244,9 +12247,10 @@
     "e44b9bd853abbb389136f045": {
       "published_at": "2026-10-27T09:22:45+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11568,
       "title": "Israel election results 2026: When will we know who won and what’s next?",
-      "updated_at": "2026-10-27T10:03:58.872827+00:00",
+      "updated_at": "2026-10-27T10:04:09.577759+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next?traffic_source=rss"
     },
     "e45447987be3d824ed5c553c": {
@@ -13947,6 +13951,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T10:03:58.874427+00:00",
+  "last_cycle_at": "2026-10-27T10:04:16.541719+00:00",
   "schema_version": 1
 }
