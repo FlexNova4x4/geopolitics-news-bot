@@ -1641,9 +1641,10 @@
     "16ca9b19d3b6f26958512d81": {
       "published_at": "2026-10-27T15:23:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11903,
       "title": "Four cops suspended for mishandling Cheranalloor accident case",
-      "updated_at": "2026-10-27T15:44:35.301918+00:00",
+      "updated_at": "2026-10-27T15:44:38.555171+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/four-cops-suspended-for-mishandling-cheranalloor-accident-case/article71632021.ece"
     },
     "16d556612946f51ef10bb1ab": {
@@ -2744,9 +2745,10 @@
     "2a43edeef3372c2b8586e34c": {
       "published_at": "2026-10-27T15:27:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11905,
       "title": "Nobel laureate Richard Roberts says it’s ‘nonsense’ to fear foreign dependence due to genetically modified crop use",
-      "updated_at": "2026-10-27T15:44:35.301935+00:00",
+      "updated_at": "2026-10-27T15:44:46.810656+00:00",
       "url": "https://www.thehindu.com/news/national/nobel-laureate-richard-roberts-says-its-nonsense-to-fear-foreign-dependence-due-to-genetically-modified-crop-use/article71631558.ece"
     },
     "2a8c416b364eaca224ff945c": {
@@ -10810,9 +10812,10 @@
     "a57a5c54a37583be16bb2e29": {
       "published_at": "2026-10-27T15:29:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11906,
       "title": "Jagan warns NDA of retaliation if YSRCP cadres are targeted",
-      "updated_at": "2026-10-27T15:44:35.301937+00:00",
+      "updated_at": "2026-10-27T15:44:50.675171+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-warns-nda-of-retaliation-if-ysrcp-cadres-are-targeted/article71632062.ece"
     },
     "a5a473ea1c1f44b4a41b9705": {
@@ -16275,9 +16278,10 @@
     "f72d877549978fea5b593eda": {
       "published_at": "2026-10-27T15:24:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11904,
       "title": "Karnataka Deputy Chief Minister Parameshwara admitted to hospital, stable",
-      "updated_at": "2026-10-27T15:44:35.301932+00:00",
+      "updated_at": "2026-10-27T15:44:42.415900+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-parameshwara-admitted-to-hospital-stable/article71631048.ece"
     },
     "f731bead83b21dffde58848d": {
@@ -16971,6 +16975,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:44:35.303451+00:00",
+  "last_cycle_at": "2026-10-27T15:44:53.877241+00:00",
   "schema_version": 1
 }
