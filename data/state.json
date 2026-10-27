@@ -11385,9 +11385,10 @@
     "dd8e1e97240376c764a4b008": {
       "published_at": "2026-10-27T07:57:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11492,
       "title": "Diwali fervour grips New York City with celebrations of Indian culture, culinary heritage",
-      "updated_at": "2026-10-27T08:07:03.789350+00:00",
+      "updated_at": "2026-10-27T08:07:06.370692+00:00",
       "url": "https://www.tribuneindia.com/news/india/diwali-fervour-grips-new-york-city-with-celebrations-of-indian-culture-culinary-heritage"
     },
     "dd93e08f862d9c4be4b6f5c1": {
@@ -13266,6 +13267,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T08:07:03.791035+00:00",
+  "last_cycle_at": "2026-10-27T08:07:09.572840+00:00",
   "schema_version": 1
 }
