@@ -2112,6 +2112,14 @@
       "updated_at": "2026-10-25T06:34:49.398404+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
     },
+    "2acf951ae8c30bad42a8d43a": {
+      "published_at": "2026-10-27T07:09:35+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Outrage has been noted’: UP poll body apologises for controversial comment amid voter roll revision",
+      "updated_at": "2026-10-27T07:35:53.962898+00:00",
+      "url": "https://www.hindustantimes.com/india-news/outrage-has-been-noted-up-ceo-ram-comment-sir-revision-voter-roll-aap-sanjay-singh-election-commission-of-india-101793084813416.html"
+    },
     "2af53dafd587ab245ebf0fff": {
       "published_at": "2026-10-27T05:21:45+00:00",
       "source": "amarujala.com",
@@ -2219,6 +2227,14 @@
       "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
       "updated_at": "2026-10-26T13:34:06.013754+00:00",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"
+    },
+    "2d15af590c2510d7de39c640": {
+      "published_at": "2026-10-27T07:08:27+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Supreme Court notice to Centre on news publishers’ plea challenging data protection law",
+      "updated_at": "2026-10-27T07:35:53.962883+00:00",
+      "url": "https://www.tribuneindia.com/news/india/supreme-court-notice-to-centre-on-news-publishers-plea-challenging-data-protection-law"
     },
     "2d2824d82af7bb7e341611e4": {
       "published_at": "2026-10-26T19:52:33+00:00",
@@ -2849,6 +2865,14 @@
       "updated_at": "2026-10-25T18:12:52.161384+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-cm-himanta-biswa-sarma-cabinet-ministers-dance-to-gangnam-style-ai-generated-video-crosses-2-5-million-views-watch-101792931827581.html"
     },
+    "3a60daa71fcc1ec0fdf0eeea": {
+      "published_at": "2026-10-27T07:13:25+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "ऊना: बंगाणा स्कूल में एनएसएस शिविर, विधायक विवेक शर्मा ने की शिरकत",
+      "updated_at": "2026-10-27T07:35:53.962905+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-bangana-school-nss-camp-mla-vivek-sharma-una-2026-10-27"
+    },
     "3a6f7394cd03feec89c3eeed": {
       "published_at": "2026-10-25T20:12:06+00:00",
       "source": "publish.tribuneindia.com",
@@ -3163,6 +3187,14 @@
       "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
       "updated_at": "2026-10-25T15:12:12.473437+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss"
+    },
+    "417384d39814286641e51c01": {
+      "published_at": "2026-10-27T07:13:20+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हमीरपुर: आरसेटी में अधिकारियों और प्रशिक्षुओं को दिलाई भ्रष्टाचार विरोधी शपथ",
+      "updated_at": "2026-10-27T07:35:53.962902+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-rseti-vigilance-awareness-week-2026-anti-corruption-pledge-2026-10-27"
     },
     "41798b942daa6289e57cc092": {
       "published_at": "2026-10-26T13:02:29+00:00",
@@ -12853,6 +12885,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T07:35:34.601821+00:00",
+  "last_cycle_at": "2026-10-27T07:35:53.964250+00:00",
   "schema_version": 1
 }
