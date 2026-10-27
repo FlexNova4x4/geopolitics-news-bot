@@ -1286,6 +1286,14 @@
       "updated_at": "2026-10-25T22:00:59.818572+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss"
     },
+    "1856332a138aee5184c65413": {
+      "published_at": "2026-10-27T06:46:16+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Bilaspur News: लोकमंथन-2026 में हिमाचल की भागीदारी बढ़ाने पर जोर",
+      "updated_at": "2026-10-27T06:37:21.745158+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/emphasis-on-increasing-himachals-participation-in-lokmanthan-2026-bilaspur-news-c-92-1-ssml1001-170699-2026-10-27"
+    },
     "18c25fe65809516485d3f623": {
       "published_at": "2026-10-26T19:18:10+00:00",
       "source": "thehindu.com",
@@ -2677,6 +2685,14 @@
       "title": "Iran says US talks ‘meaningless’ until 7 conditions met as Qatari mediators arrive in Tehran",
       "updated_at": "2026-10-25T18:13:06.023861+00:00",
       "url": "https://www.hindustantimes.com/india-news/iran-says-us-talks-meaningless-until-7-conditions-met-as-qatari-mediators-arrive-in-tehran-101792945652451.html"
+    },
+    "389b47a7d24a33309ec53b88": {
+      "published_at": "2026-10-27T06:45:13+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Bilaspur News: मेडिकल पीजी की 320 सीटें मंजूर होने पर जताया आभार",
+      "updated_at": "2026-10-27T06:37:21.745139+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/expressed-gratitude-over-the-approval-of-320-medical-pg-seats-bilaspur-news-c-92-1-ssml1001-170705-2026-10-27"
     },
     "390b335947f0cfae8304a891": {
       "published_at": "2026-10-24T19:15:08+00:00",
@@ -12448,6 +12464,6 @@
       "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-gram-panchayat-polls-second-phase/article71623101.ece"
     }
   },
-  "last_cycle_at": "2026-10-27T06:37:17.747370+00:00",
+  "last_cycle_at": "2026-10-27T06:37:21.746742+00:00",
   "schema_version": 1
 }
