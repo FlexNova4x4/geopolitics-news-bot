@@ -8557,9 +8557,10 @@
     "85078e00612a62fdea9c588f": {
       "published_at": "2026-10-27T14:56:40+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11881,
       "title": "Carrick stays on as Manchester United manager for crucial Chelsea match",
-      "updated_at": "2026-10-27T15:41:10.023329+00:00",
+      "updated_at": "2026-10-27T15:41:21.276415+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss"
     },
     "85616f4dbf5ab1cf6473a90e": {
@@ -11224,9 +11225,10 @@
     "ae476c4f094be01ac1f15493": {
       "published_at": "2026-10-27T14:47:56+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11879,
       "title": "Two accused shot dead in separate police encounters in Bengal in a day",
-      "updated_at": "2026-10-27T15:41:10.023311+00:00",
+      "updated_at": "2026-10-27T15:41:13.292442+00:00",
       "url": "https://www.hindustantimes.com/india-news/two-accused-shot-dead-in-separate-police-encounters-in-bengal-in-a-day-north-24-parganas-and-murshidabad-101793110158727.html"
     },
     "ae5585ff86b9908ae754f92b": {
@@ -13355,9 +13357,10 @@
     "cf08a33106af7b997de7bcd4": {
       "published_at": "2026-10-27T14:57:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11882,
       "title": "VP Radhakrishnan meets Russian Duma Chairman Volodin, discusses strengthening parliamentary cooperation at BRICS Forum",
-      "updated_at": "2026-10-27T15:41:10.023332+00:00",
+      "updated_at": "2026-10-27T15:41:25.378268+00:00",
       "url": "https://www.tribuneindia.com/news/brics-forum/vp-radhakrishnan-meets-russian-duma-chairman-volodin-discusses-strengthening-parliamentary-cooperation-at-brics-forum"
     },
     "cf0d28d36187c7f90838c302": {
@@ -14881,9 +14884,10 @@
     "e715cb7b6794c1d495168141": {
       "published_at": "2026-10-27T14:52:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 11880,
       "title": "Thai Senator Nophadol In-Na praises India’s hosting of 12th BRICS parliamentary forum, sees platform as bridge for Asian ties",
-      "updated_at": "2026-10-27T15:41:10.023325+00:00",
+      "updated_at": "2026-10-27T15:41:17.369664+00:00",
       "url": "https://www.tribuneindia.com/news/brics-forum/thai-senator-nophadol-in-na-praises-indias-hosting-of-12th-brics-parliamentary-forum-sees-platform-as-bridge-for-asian-ties"
     },
     "e72e22ae3edcc4126e27d5aa": {
@@ -16755,6 +16759,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-27T15:41:10.024811+00:00",
+  "last_cycle_at": "2026-10-27T15:41:28.580347+00:00",
   "schema_version": 1
 }
