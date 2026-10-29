@@ -3750,6 +3750,14 @@
       "updated_at": "2026-10-25T05:35:55.640634+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece"
     },
+    "2eb401fedf29c3ecfbcfdd1d": {
+      "published_at": "2026-10-29T00:00:15+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "updated_at": "2026-10-29T08:10:17.984747+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+    },
     "2ec8d553ad3ddd29d40fa1ab": {
       "published_at": "2026-10-25T06:10:02+00:00",
       "source": "hindustantimes.com",
@@ -12019,6 +12027,14 @@
       "updated_at": "2026-10-27T05:40:00.190377+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/when-43ltte-militants-escaped-from-thevellorefort-after-digging-a-153-foot-tunnel/article69552888.ece"
     },
+    "91124b3ea1c87698282c4303": {
+      "published_at": "2026-10-28T19:15:58+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "updated_at": "2026-10-29T08:10:17.984724+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
+    },
     "916bbc5d420590d132b56582": {
       "published_at": "2026-10-25T14:46:38+00:00",
       "source": "aljazeera.com",
@@ -19723,6 +19739,14 @@
       "updated_at": "2026-10-27T05:36:58.354275+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-old-barrier-vehicle-collision-traffic-disrupted-2026-10-27"
     },
+    "ecdebdd7338d38cc0540dd9a": {
+      "published_at": "2026-10-28T23:11:59+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "updated_at": "2026-10-29T08:10:17.984744+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
+    },
     "ecf08b317d648a9b10b2ae78": {
       "published_at": "2026-10-28T23:30:03+00:00",
       "source": "amarujala.com",
@@ -21474,6 +21498,14 @@
       "updated_at": "2026-10-26T03:53:39.152612+00:00",
       "url": "https://www.hindustantimes.com/india-news/ruling-tdp-led-bloc-wins-17-of-87-andhra-pradesh-urban-local-bodies-uncontested-101792986100691.html"
     },
+    "fe260bae566af19f29f35316": {
+      "published_at": "2026-10-28T19:50:22+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सतर्कता जागरूकता सप्ताह के तहत पीएनबी ने शिमला में लगाया रक्तदान शिविर",
+      "updated_at": "2026-10-29T08:10:17.984740+00:00",
+      "url": "https://www.amarujala.com/video/shimla/video-pnb-blood-donation-camp-shimla-vigilance-awareness-week-2026-10-29"
+    },
     "fe2cbd9325d39f55a5f8c7af": {
       "published_at": "2026-10-25T22:11:13+00:00",
       "source": "feeds.bbci.co.uk",
@@ -21664,6 +21696,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T07:40:50.594444+00:00",
+  "last_cycle_at": "2026-10-29T08:10:17.986924+00:00",
   "schema_version": 1
 }
