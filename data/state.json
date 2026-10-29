@@ -705,9 +705,10 @@
     "074d5bd64ce726a399c0a70e": {
       "published_at": "2026-10-29T14:50:50+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12815,
       "title": "Inaugural Professor Vepa Rao memorial lecture in Shimla on October 31",
-      "updated_at": "2026-10-29T15:26:45.396156+00:00",
+      "updated_at": "2026-10-29T15:26:59.896066+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/inaugural-professor-vepa-rao-memorial-lecture-in-shimla-on-october-31"
     },
     "0754330016c29494f14d3085": {
@@ -1748,9 +1749,10 @@
     "125ec3fe41c6fd6306b0d545": {
       "published_at": "2026-10-29T14:46:30+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12814,
       "title": "Delhi Metro trains to operate till midnight on Oct 30 for Diljit Dosanjh concert at JLN Stadium",
-      "updated_at": "2026-10-29T15:26:45.396150+00:00",
+      "updated_at": "2026-10-29T15:26:55.931198+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-metro-to-run-trains-till-midnight-on-oct-30-for-diljit-dosanjh-concert-aura-india-tour-2026-at-jln-stadium-101793283384269.html"
     },
     "126308cd8ccec22bb30dfb9e": {
@@ -22109,9 +22111,10 @@
     "e67b0ab15d05bb12472c29bc": {
       "published_at": "2026-10-29T14:41:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12812,
       "title": "Bengaluru firm Pixxel sets up Pixxel Federal to serve U.S. defence, intelligence agencies",
-      "updated_at": "2026-10-29T15:26:45.396127+00:00",
+      "updated_at": "2026-10-29T15:26:48.078149+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-firm-pixxel-sets-up-pixxel-federal-to-serve-us-defence-intelligence-agencies/article71641287.ece"
     },
     "e696808a37134cd98617d6eb": {
@@ -22252,9 +22255,10 @@
     "e769491f466739007a97cb9c": {
       "published_at": "2026-10-29T14:44:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12813,
       "title": "Hyderabad residents can now report water wastage through HMWSSB’s ‘PAANI’ app",
-      "updated_at": "2026-10-29T15:26:45.396145+00:00",
+      "updated_at": "2026-10-29T15:26:51.889941+00:00",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-residents-can-now-report-water-wastage-through-hmwssbs-paani-app/article71641255.ece"
     },
     "e77af0b7fb711361340d64a7": {
@@ -25008,6 +25012,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:26:45.398851+00:00",
+  "last_cycle_at": "2026-10-29T15:27:03.098992+00:00",
   "schema_version": 1
 }
