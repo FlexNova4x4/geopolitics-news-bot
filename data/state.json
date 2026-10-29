@@ -8279,9 +8279,10 @@
     "771d8ccf60b2a0e530159a27": {
       "published_at": "2026-10-28T18:54:39+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12080,
       "title": "Noreen Niazi moved from Lahore jail to hospital due to high blood pressure: lawyer",
-      "updated_at": "2026-10-29T03:40:11.434381+00:00",
+      "updated_at": "2026-10-29T03:40:26.458438+00:00",
       "url": "https://www.dawn.com/news/2040494/noreen-niazi-moved-from-lahore-jail-to-hospital-due-to-high-blood-pressure-lawyer"
     },
     "77294550dedc86b9512e331b": {
@@ -8647,9 +8648,10 @@
     "7b0b19b84fa04860f7e64f07": {
       "published_at": "2026-10-28T18:50:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12078,
       "title": "Mob assaults buffalo traders in Madhya Pradesh’s Damoh; two cases lodged",
-      "updated_at": "2026-10-29T03:40:11.434370+00:00",
+      "updated_at": "2026-10-29T03:40:18.646294+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/mob-assaults-buffalo-traders-in-madhya-pradeshs-damoh-two-cases-lodged/article71637532.ece"
     },
     "7b8ac08390a32740dcb00fdc": {
@@ -12213,9 +12215,10 @@
     "ada2b7d98f535763f252c2d0": {
       "published_at": "2026-10-28T18:38:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12077,
       "title": "U.S. Fed holds interest rates steady despite surging inflation",
-      "updated_at": "2026-10-29T03:40:11.434348+00:00",
+      "updated_at": "2026-10-29T03:40:14.739990+00:00",
       "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
     },
     "adc596c2dbae0efbd0575394": {
@@ -15486,9 +15489,10 @@
     "da1b46e682616586de2a5f9b": {
       "published_at": "2026-10-28T18:51:05+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12079,
       "title": "How did Flávio Bolsonaro end up in Miami?",
-      "updated_at": "2026-10-29T03:40:11.434376+00:00",
+      "updated_at": "2026-10-29T03:40:22.550742+00:00",
       "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss"
     },
     "da6803af0725d64265005359": {
@@ -18411,6 +18415,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:40:11.436083+00:00",
+  "last_cycle_at": "2026-10-29T03:40:29.660818+00:00",
   "schema_version": 1
 }
