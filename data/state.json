@@ -10699,9 +10699,10 @@
     "8c71b5ed79c28ccb30833596": {
       "published_at": "2026-10-29T02:02:49+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12248,
       "title": "Three killed in different accidents in Wah",
-      "updated_at": "2026-10-29T05:10:53.542760+00:00",
+      "updated_at": "2026-10-29T05:11:09.063684+00:00",
       "url": "https://www.dawn.com/news/2040528/three-killed-in-different-accidents-in-wah"
     },
     "8cbb77645c3f2ffec534469e": {
@@ -13402,9 +13403,10 @@
     "afcad926827051c0400a940d": {
       "published_at": "2026-10-29T02:02:42+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12247,
       "title": "Death toll of Kasur food poisoning rises to four",
-      "updated_at": "2026-10-29T05:10:53.542755+00:00",
+      "updated_at": "2026-10-29T05:11:04.973732+00:00",
       "url": "https://www.dawn.com/news/2040601/death-toll-of-kasur-food-poisoning-rises-to-four"
     },
     "afd24773c56dc9a5148913d8": {
@@ -13887,9 +13889,10 @@
     "b654de70c28943e8dbc1161f": {
       "published_at": "2026-10-29T02:02:34+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12245,
       "title": "Seven killed, five injured as ambulance catches fire at Thar hospital",
-      "updated_at": "2026-10-29T05:10:53.542729+00:00",
+      "updated_at": "2026-10-29T05:10:56.991457+00:00",
       "url": "https://www.dawn.com/news/2040540/seven-killed-five-injured-as-ambulance-catches-fire-at-thar-hospital"
     },
     "b65b2af001c02f88194c1c1e": {
@@ -16746,9 +16749,10 @@
     "d97499482bf8ac5200fb1f5e": {
       "published_at": "2026-10-29T02:02:41+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12246,
       "title": "Turkish Maarif Foundation: High court sets aside labour court order",
-      "updated_at": "2026-10-29T05:10:53.542749+00:00",
+      "updated_at": "2026-10-29T05:11:00.897242+00:00",
       "url": "https://www.dawn.com/news/2040606/turkish-maarif-foundation-high-court-sets-aside-labour-court-order"
     },
     "d98a8f2187f80da3138a4d94": {
@@ -19923,6 +19927,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:10:53.545110+00:00",
+  "last_cycle_at": "2026-10-29T05:11:12.266499+00:00",
   "schema_version": 1
 }
