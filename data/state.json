@@ -13894,9 +13894,10 @@
     "8fa874e7f1bbabc0a8486519": {
       "published_at": "2026-10-29T15:36:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12862,
       "title": "Hundreds take part in breast cancer awareness walkathon in Thrissur",
-      "updated_at": "2026-10-29T16:20:42.904296+00:00",
+      "updated_at": "2026-10-29T16:20:54.172023+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/hundreds-take-part-in-breast-cancer-awareness-walkathon-in-thrissur/article71641062.ece"
     },
     "8fbf4d0baf5e0b5a862dd902": {
@@ -16885,9 +16886,10 @@
     "aeb4ea16ee920460e116fb2c": {
       "published_at": "2026-10-29T15:37:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12863,
       "title": "The rise of industrial tourism in China",
-      "updated_at": "2026-10-29T16:20:42.904300+00:00",
+      "updated_at": "2026-10-29T16:20:57.927894+00:00",
       "url": "https://www.thehindu.com/news/international/the-rise-of-industrial-tourism-in-china/article71469788.ece"
     },
     "aebbcbbdd6901e272c292c9b": {
@@ -20375,9 +20377,10 @@
     "d143c4b5a4fbc90cd202b4c4": {
       "published_at": "2026-10-29T15:35:53+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12861,
       "title": "Israel’s anti-Qatar campaign bleeds into elections",
-      "updated_at": "2026-10-29T16:20:42.904291+00:00",
+      "updated_at": "2026-10-29T16:20:49.965959+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss"
     },
     "d168cb5eac28602265fbe1e3": {
@@ -21669,9 +21672,10 @@
     "dc54be1f8ceb0f219267f9e5": {
       "published_at": "2026-10-29T15:35:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12860,
       "title": "Vijay presents prizes to Chief Minister’s Trophy winners",
-      "updated_at": "2026-10-29T16:20:42.904271+00:00",
+      "updated_at": "2026-10-29T16:20:46.104638+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-presents-prizes-for-chief-ministers-trophy-winners/article71641404.ece"
     },
     "dc7ea4d5739b44ebbff74ae6": {
@@ -25440,6 +25444,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:20:42.907148+00:00",
+  "last_cycle_at": "2026-10-29T16:21:01.131291+00:00",
   "schema_version": 1
 }
