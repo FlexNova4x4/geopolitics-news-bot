@@ -3699,9 +3699,10 @@
     "2d1d40968cf10820e65f54e1": {
       "published_at": "2026-10-29T08:08:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12507,
       "title": "Cyclone Arnab: Odisha prepares to airlift people stranded by floodwater",
-      "updated_at": "2026-10-29T08:45:22.745962+00:00",
+      "updated_at": "2026-10-29T08:45:27.417852+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/post-arnab-odisha-preparing-to-airlift-people-stranded-by-floodwater/article71639465.ece"
     },
     "2d2824d82af7bb7e341611e4": {
@@ -3994,9 +3995,10 @@
     "3078997d101e7a7e70b42510": {
       "published_at": "2026-10-29T08:14:34+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12510,
       "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
-      "updated_at": "2026-10-29T08:45:22.745986+00:00",
+      "updated_at": "2026-10-29T08:45:39.522342+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss"
     },
     "307a22abbc104467d01804ca": {
@@ -14023,9 +14025,10 @@
     "a4fd1a443aa9aa9cab3e9c9f": {
       "published_at": "2026-10-29T08:09:01+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12508,
       "title": "Kerala murder convict found dead in jail cell, was recently diagnosed with cancer",
-      "updated_at": "2026-10-29T08:45:22.745978+00:00",
+      "updated_at": "2026-10-29T08:45:31.336558+00:00",
       "url": "https://www.hindustantimes.com/india-news/thiruvananthapuram-central-jail-prisoner-hanging-suicide-cancer-101793260384499.html"
     },
     "a500524a0860c7cfec168386": {
@@ -15758,9 +15761,10 @@
     "b83f6bd1d3a752b200cdcce4": {
       "published_at": "2026-10-29T08:12:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12509,
       "title": "PM questions Congress over party’s MLC election results",
-      "updated_at": "2026-10-29T08:45:22.745982+00:00",
+      "updated_at": "2026-10-29T08:45:35.597012+00:00",
       "url": "https://www.thehindu.com/news/national/pm-modi-taunts-congress-for-dismal-show-in-mlc-polls-despite-use-of-paper-ballots/article71635894.ece"
     },
     "b8518bfd825918e70dbd541b": {
@@ -22272,6 +22276,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:45:22.748246+00:00",
+  "last_cycle_at": "2026-10-29T08:45:42.725312+00:00",
   "schema_version": 1
 }
