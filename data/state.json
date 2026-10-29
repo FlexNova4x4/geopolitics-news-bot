@@ -567,6 +567,14 @@
       "updated_at": "2026-10-25T16:17:22.811340+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
     },
+    "075b2c648a3c3de75a9e9e43": {
+      "published_at": "2026-10-28T18:57:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Spain: Indian Embassy opens emergency helpline as death toll from high-speed train collision rises to 68",
+      "updated_at": "2026-10-29T03:40:49.052867+00:00",
+      "url": "https://www.tribuneindia.com/news/european-leaders-condolences/spain-indian-embassy-opens-emergency-helpline-as-death-toll-from-high-speed-train-collision-rises-to-68"
+    },
     "076a2d76cbfcc3bedd4f0996": {
       "published_at": "2026-10-27T19:52:20+00:00",
       "source": "publish.tribuneindia.com",
@@ -5869,6 +5877,14 @@
       "title": "Contractor, his father dead in under-construction building collapse in Delhi's Harsh Vihar",
       "updated_at": "2026-10-26T05:24:12.848253+00:00",
       "url": "https://www.hindustantimes.com/india-news/contractor-his-father-dead-in-under-construction-building-collapse-in-delhis-harsh-vihar-101792990435651.html"
+    },
+    "55abef226d0637f9e59f195a": {
+      "published_at": "2026-10-28T19:02:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "US jury convicts Rwandan American of lying about role in genocide",
+      "updated_at": "2026-10-29T03:40:49.052886+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss"
     },
     "55b61fdfa8f065b445e71ae5": {
       "published_at": "2026-10-25T08:54:47+00:00",
@@ -16231,6 +16247,14 @@
       "updated_at": "2026-10-27T03:41:48.978724+00:00",
       "url": "https://www.dawn.com/news/2040072/balochistan-assembly-shelves-resolution-against-sardari-system"
     },
+    "e5b64acb905ad2c3c1760088": {
+      "published_at": "2026-10-28T19:03:03+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "What are the implications of Israel’s elections?",
+      "updated_at": "2026-10-29T03:40:49.052889+00:00",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss"
+    },
     "e5f3482befc22ed1ccad3206": {
       "published_at": "2026-10-26T08:18:39+00:00",
       "source": "aljazeera.com",
@@ -16365,6 +16389,14 @@
       "title": "5 of family among 6 killed in Rajasthan car-truck collision, infant sole survivor",
       "updated_at": "2026-10-25T05:39:58.539535+00:00",
       "url": "https://www.hindustantimes.com/india-news/5-of-family-among-6-killed-in-rajasthan-car-truck-collision-infant-sole-survivor-101792896406354.html"
+    },
+    "e7641a5f203bce7754c1b7b1": {
+      "published_at": "2026-10-28T19:01:47+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Maritime Board (Amendment) Bill passed in Assembly amid Opposition walkout",
+      "updated_at": "2026-10-29T03:40:49.052882+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece"
     },
     "e764a5389607640e08851c6c": {
       "published_at": "2026-10-25T08:15:24+00:00",
@@ -18415,6 +18447,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:40:29.660818+00:00",
+  "last_cycle_at": "2026-10-29T03:40:49.054808+00:00",
   "schema_version": 1
 }
