@@ -6571,6 +6571,14 @@
       "updated_at": "2026-10-26T11:14:18.303346+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss"
     },
+    "5b3bdff12e57bf3a545a67f2": {
+      "published_at": "2026-10-28T20:44:10+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "updated_at": "2026-10-29T04:18:46.688404+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss"
+    },
     "5b850988cff3ad097502ce95": {
       "published_at": "2026-10-25T14:15:56+00:00",
       "source": "thehindu.com",
@@ -7019,6 +7027,14 @@
       "title": "'200 seats are our right': Congress poster seen in Lucknow as UP poll seat-sharing talks with SP intensify",
       "updated_at": "2026-10-25T09:04:58.332362+00:00",
       "url": "https://www.hindustantimes.com/india-news/200-seats-are-our-right-congress-poster-seen-in-lucknow-as-up-poll-seat-sharing-talks-with-sp-intensify-101792912946489.html"
+    },
+    "61b6adbea1d9af6edf159c17": {
+      "published_at": "2026-10-28T20:49:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bihar MLC polls: Upper caste candidates dominate election results",
+      "updated_at": "2026-10-29T04:18:46.688419+00:00",
+      "url": "https://www.thehindu.com/news/bihar-mlc-polls-upper-caste-candidates-dominate-election-results/article71636195.ece"
     },
     "61b95814bd7b1e80b16ea8b4": {
       "published_at": "2026-10-24T19:20:27+00:00",
@@ -10119,6 +10135,14 @@
       "title": "भरवाईं: राजकीय उच्च विद्यालय धलवाड़ी में ढाई आखर पत्र लेखन प्रतियोगिता आयोजित",
       "updated_at": "2026-10-27T12:40:42.751566+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-bharwain-dhai-akhar-letter-writing-competition-organized-at-government-high-school-dhalwari-2026-10-27"
+    },
+    "887c6092f567763abef7d126": {
+      "published_at": "2026-10-28T20:57:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Pakistan minister invites Punjab CM Mann",
+      "updated_at": "2026-10-29T04:18:46.688426+00:00",
+      "url": "https://www.thehindu.com/news/national/punjab/pakistan-minister-invites-punjab-cm-mann/article71636711.ece"
     },
     "8898f38ced55ebd398dbe9ef": {
       "published_at": "2026-10-26T10:24:47+00:00",
@@ -19206,6 +19230,14 @@
       "updated_at": "2026-10-25T10:04:55.807954+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-likely-to-appear-before-special-mp-mla-court-in-up-on-october-26-101792920644149.html"
     },
+    "ff9d0f685de616595da2bf82": {
+      "published_at": "2026-10-28T20:53:02+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "updated_at": "2026-10-29T04:18:46.688422+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
+    },
     "ffc9efced9b8eb9b075c16bb": {
       "published_at": "2026-10-27T13:33:27+00:00",
       "source": "hindustantimes.com",
@@ -19243,6 +19275,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:18:40.049422+00:00",
+  "last_cycle_at": "2026-10-29T04:18:46.690407+00:00",
   "schema_version": 1
 }
