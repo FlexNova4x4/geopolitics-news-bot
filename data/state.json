@@ -5930,9 +5930,10 @@
     "4c9668999ccf988a0d406dba": {
       "published_at": "2026-10-29T06:01:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12380,
       "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
-      "updated_at": "2026-10-29T06:40:39.905833+00:00",
+      "updated_at": "2026-10-29T06:40:43.370293+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss"
     },
     "4caca38ca77f64f5c5eeb5a0": {
@@ -8415,9 +8416,10 @@
     "6af10201def60d35f0a421e8": {
       "published_at": "2026-10-29T06:05:50+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12382,
       "title": "Rijiju calls Naseeruddin Shah ‘dangerous dimagi naxal’ over video backing student protests",
-      "updated_at": "2026-10-29T06:40:39.905856+00:00",
+      "updated_at": "2026-10-29T06:40:51.457215+00:00",
       "url": "https://www.tribuneindia.com/news/india/harmful-to-indian-democracy-rijiju-slams-naseeruddin-shahs-dimagi-naxal-video"
     },
     "6af4fcc280bf5c2de56deef9": {
@@ -10868,9 +10870,10 @@
     "8692bb2a5ef4d31ad3aa37df": {
       "published_at": "2026-10-29T06:06:02+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12383,
       "title": "MLC election result LIVE: Congress stuns BJP in Nagpur, MVA wins 3 seats in Maharashtra",
-      "updated_at": "2026-10-29T06:40:39.905860+00:00",
+      "updated_at": "2026-10-29T06:40:55.562192+00:00",
       "url": "https://www.hindustantimes.com/india-news/mlc-election-results-2026-live-updates-congress-bjp-up-bihar-maharashtra-karnataka-winners-list-winning-seats-latest-101793250963733.html"
     },
     "8692dc07bd1ce838cd1910ee": {
@@ -18374,9 +18377,10 @@
     "e22a862beefa00ef9e27450e": {
       "published_at": "2026-10-29T06:02:36+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12381,
       "title": "Janjatiya Gaurav Diwas: Tribal ministry lines up 300 projects for Nov 1-15 campaign",
-      "updated_at": "2026-10-29T06:40:39.905851+00:00",
+      "updated_at": "2026-10-29T06:40:47.271508+00:00",
       "url": "https://www.hindustantimes.com/india-news/janjatiya-gaurav-diwas-tribal-ministry-lines-up-300-projects-for-nov-1-15-campaign-101793253757064.html"
     },
     "e249667a0ff13faffc4f7fdf": {
@@ -21138,6 +21142,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:40:39.908258+00:00",
+  "last_cycle_at": "2026-10-29T06:40:58.765600+00:00",
   "schema_version": 1
 }
