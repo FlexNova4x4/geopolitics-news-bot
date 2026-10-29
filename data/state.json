@@ -5948,9 +5948,10 @@
     "41f6b3994164b3b300c530b0": {
       "published_at": "2026-10-29T13:33:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12745,
       "title": "Haveri final electoral roll sees an increase of 13,013 voters",
-      "updated_at": "2026-10-29T14:05:37.963107+00:00",
+      "updated_at": "2026-10-29T14:05:47.133381+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/haveri-final-electoral-roll-sees-an-increase-of-13013-voters/article71640630.ece"
     },
     "41f75f87ed8c8e79c9ea4ae6": {
@@ -14549,9 +14550,10 @@
     "9c5947905e8e49e3073a670b": {
       "published_at": "2026-10-29T13:36:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12747,
       "title": "Nutritional deficiencies, alcohol intake linked to venous stroke in Karnataka: NIMHANS study",
-      "updated_at": "2026-10-29T14:05:37.963114+00:00",
+      "updated_at": "2026-10-29T14:05:55.856470+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/nutritional-deficiencies-alcohol-intake-linked-to-venous-stroke-in-karnataka-nimhans-study/article71635803.ece"
     },
     "9c5d5b2b0e3dc6fa849b716c": {
@@ -16812,9 +16814,10 @@
     "b571e4ef116f7692754b0d0c": {
       "published_at": "2026-10-29T13:33:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12744,
       "title": "Karnataka ranks second in PLI Scheme for Textiles and job creation",
-      "updated_at": "2026-10-29T14:05:37.963091+00:00",
+      "updated_at": "2026-10-29T14:05:42.242838+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-ranks-second-in-pli-scheme-for-textiles-and-job-creation/article71639268.ece"
     },
     "b588746b3b4fe3e5655c768f": {
@@ -22207,9 +22210,10 @@
     "ecb9e3921a68cdce7d497ada": {
       "published_at": "2026-10-29T13:33:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12746,
       "title": "Ceiling collapses again at Kottayam medical college block",
-      "updated_at": "2026-10-29T14:05:37.963110+00:00",
+      "updated_at": "2026-10-29T14:05:51.868551+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/ceiling-collapses-again-at-kottayam-medical-college-block/article71640538.ece"
     },
     "ecc49ee6f3e46e78a31a1f9a": {
@@ -24396,6 +24400,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:05:37.966024+00:00",
+  "last_cycle_at": "2026-10-29T14:05:59.059765+00:00",
   "schema_version": 1
 }
