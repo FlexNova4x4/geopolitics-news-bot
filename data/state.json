@@ -2861,6 +2861,14 @@
       "updated_at": "2026-10-27T06:06:49.792419+00:00",
       "url": "https://www.thehindu.com/business/markets/stock-markets-fall-in-early-trade-on-tuesday-amid-elevated-crude-oil-prices-and-it-selling/article71629855.ece"
     },
+    "23cf94a1715f4436a502249c": {
+      "published_at": "2026-10-29T06:13:51+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Chelsea beat Liverpool 6-5 on penalties to reach League Cup quarterfinals",
+      "updated_at": "2026-10-29T06:41:06.657430+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss"
+    },
     "23ead5ea2873dd1a9357dc38": {
       "published_at": "2026-10-26T19:11:54+00:00",
       "source": "feeds.bbci.co.uk",
@@ -7488,6 +7496,14 @@
       "title": "Weak monsoon, crop failures, force farmers to cut spending",
       "updated_at": "2026-10-27T09:35:01.893085+00:00",
       "url": "https://www.hindustantimes.com/india-news/weak-monsoon-crop-failures-force-farmers-to-cut-spending-101793091661357.html"
+    },
+    "5f813f59b6e80379c1870181": {
+      "published_at": "2026-10-29T06:06:08+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "BJP loses both MLC seats in Varanasi, SP retains its hold in PM Modi’s constituency",
+      "updated_at": "2026-10-29T06:41:06.657408+00:00",
+      "url": "https://www.tribuneindia.com/news/india/bjp-loses-both-mlc-seats-in-varanasi-sp-retains-its-hold-in-pm-modis-constituency"
     },
     "5f849a0ece1b66563a4241c3": {
       "published_at": "2026-10-27T19:37:42+00:00",
@@ -16432,6 +16448,14 @@
       "updated_at": "2026-10-26T05:24:45.116227+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/women-breaking-barriers-in-kullu-dev-traditions-2026-10-26"
     },
+    "c8e7f6347155efec1a0ccb90": {
+      "published_at": "2026-10-29T06:10:37+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Man stabbed to death by food vendor after he asked for extra chhole in Delhi's Nihal Vihar",
+      "updated_at": "2026-10-29T06:41:06.657427+00:00",
+      "url": "https://www.hindustantimes.com/india-news/man-stabbed-to-death-by-food-vendor-after-he-asked-for-extra-chhole-in-delhis-nihal-vihar-101793253233462.html"
+    },
     "c906a515a52aabf1b4e433b3": {
       "published_at": "2026-10-27T09:37:22+00:00",
       "source": "publish.tribuneindia.com",
@@ -20513,6 +20537,14 @@
       "updated_at": "2026-10-27T15:14:37.802286+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-directs-officials-to-ensure-safety-of-bc-hostel-students/article71632128.ece"
     },
+    "f992c5df7dd73db782d402e1": {
+      "published_at": "2026-10-29T06:10:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Learning Hebrew to be Israeli: How education is shaping the Bnei Menashe community’s journey",
+      "updated_at": "2026-10-29T06:41:06.657423+00:00",
+      "url": "https://www.thehindu.com/education/learning-hebrew-to-be-israeli-how-education-is-shaping-the-bnei-menashe-communitys-journey/article71635767.ece"
+    },
     "f9a05de6b96081556e433a6d": {
       "published_at": "2026-10-25T21:44:57+00:00",
       "source": "amarujala.com",
@@ -21142,6 +21174,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:40:58.765600+00:00",
+  "last_cycle_at": "2026-10-29T06:41:06.659670+00:00",
   "schema_version": 1
 }
