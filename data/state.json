@@ -1152,6 +1152,14 @@
       "updated_at": "2026-10-26T13:45:13.254755+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss"
     },
+    "0fb97cbc377bdc7efb9851e9": {
+      "published_at": "2026-10-29T01:14:01+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "updated_at": "2026-10-29T04:22:50.267661+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+    },
     "0fe5303fb47015eaf9030dec": {
       "published_at": "2026-10-26T05:40:03+00:00",
       "source": "thehindu.com",
@@ -9374,6 +9382,14 @@
       "updated_at": "2026-10-27T17:41:08.103466+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/network-issues-hinder-digital-attendance-20-of-schools-still-operating-offline-solan-news-c-176-1-ssml1041-182969-2026-10-27"
     },
+    "7df2d4b24e83527b376ebb5d": {
+      "published_at": "2026-10-29T01:11:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case",
+      "updated_at": "2026-10-29T04:22:50.267645+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/ed-attaches-land-buildings-of-mohammad-ali-jauhar-university-in-rampur-in-money-laundering-case/article71636106.ece"
+    },
     "7e180985ea4ffbf8cca02f61": {
       "published_at": "2026-10-27T07:24:11+00:00",
       "source": "thehindu.com",
@@ -9508,6 +9524,14 @@
       "title": "Greater Chennai Police issue Look Out Circular against Archana Veeramani",
       "updated_at": "2026-10-27T15:43:12.824881+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/greater-chennai-police-issue-look-out-circular-against-archana-veeramani/article71631529.ece"
+    },
+    "7fe2bbd42d4860215422c1e3": {
+      "published_at": "2026-10-29T01:16:24+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cabinet approves 3% hike in dearness allowance for central government employees",
+      "updated_at": "2026-10-29T04:22:50.267668+00:00",
+      "url": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece"
     },
     "7fe3416123151d93ead7b339": {
       "published_at": "2026-10-27T01:49:37+00:00",
@@ -9714,6 +9738,14 @@
       "title": "Why has West Bengal cleared land for the BSF now? | Explained",
       "updated_at": "2026-10-25T18:12:40.242328+00:00",
       "url": "https://www.thehindu.com/news/national/why-has-west-bengal-cleared-land-for-the-bsf-now-explained/article71301118.ece"
+    },
+    "8302ac4f837c83b73e6d1c1c": {
+      "published_at": "2026-10-29T01:15:45+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+      "updated_at": "2026-10-29T04:22:50.267665+00:00",
+      "url": "https://www.thehindu.com/news/national/digital-personal-data-protection-act-does-not-infringe-on-press-freedom-ashwini-vaishnaw/article71637035.ece"
     },
     "831a8a6a1456649042fc71ef": {
       "published_at": "2026-10-26T06:26:39+00:00",
@@ -19567,6 +19599,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:22:43.270463+00:00",
+  "last_cycle_at": "2026-10-29T04:22:50.269621+00:00",
   "schema_version": 1
 }
