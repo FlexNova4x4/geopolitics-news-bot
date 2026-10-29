@@ -1515,9 +1515,10 @@
     "1021c29ded89da0053b8c92f": {
       "published_at": "2026-10-29T16:27:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12896,
       "title": "Anti-mega dam protest rocks Arunachal capital",
-      "updated_at": "2026-10-29T16:55:08.292297+00:00",
+      "updated_at": "2026-10-29T16:55:11.420296+00:00",
       "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-mega-dam-protest-rocks-arunachal-capital/article71640965.ece"
     },
     "102822b22f133e4c9a1acdcb": {
@@ -7270,9 +7271,10 @@
     "4be0a61ef2b7220fb668ef1c": {
       "published_at": "2026-10-29T16:29:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12899,
       "title": "Srikakulam Collector urges truckers, motorists stranded on NH-16 to wait till floodwaters recedes",
-      "updated_at": "2026-10-29T16:55:08.292319+00:00",
+      "updated_at": "2026-10-29T16:55:23.860600+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-collector-urges-truckers-motorists-stranded-on-nh-16-to-wait-till-floodwaters-recedes/article71641528.ece"
     },
     "4bea722745993b733c042f6b": {
@@ -10880,9 +10882,10 @@
     "707504f07005a69065cf8dc0": {
       "published_at": "2026-10-29T16:28:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12897,
       "title": "Republicans defend their bastions, as senate comes within reach of Democrats",
-      "updated_at": "2026-10-29T16:55:08.292313+00:00",
+      "updated_at": "2026-10-29T16:55:15.231872+00:00",
       "url": "https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece"
     },
     "70761a9bd1890a773e181a6c": {
@@ -24986,9 +24989,10 @@
     "f99ebcf58b4eb89a9a0dcfb3": {
       "published_at": "2026-10-29T16:29:44+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12898,
       "title": "Former Air Force officer who filmed Sheikh Hasina leaving Bangladesh found dead",
-      "updated_at": "2026-10-29T16:55:08.292316+00:00",
+      "updated_at": "2026-10-29T16:55:18.998287+00:00",
       "url": "https://www.tribuneindia.com/news/india/ex-air-force-officer-who-filmed-sheikh-hasina-leaving-bangladesh-found-dead"
     },
     "f9a05de6b96081556e433a6d": {
@@ -25764,6 +25768,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:55:08.295366+00:00",
+  "last_cycle_at": "2026-10-29T16:55:27.064036+00:00",
   "schema_version": 1
 }
