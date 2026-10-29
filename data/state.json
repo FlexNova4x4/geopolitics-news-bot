@@ -1242,6 +1242,14 @@
       "updated_at": "2026-10-27T19:33:36.504740+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-stealing-cars-near-katpadi-railway-station/article71631428.ece"
     },
+    "0d95c6932434bfab16f31d40": {
+      "published_at": "2026-10-29T11:50:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Telangana introduces special fire safety norms for data centres, mandates suppression systems",
+      "updated_at": "2026-10-29T12:07:09.552237+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-introduces-special-fire-safety-norms-for-data-centres-mandates-suppression-systems/article71640123.ece"
+    },
     "0dd736df51ea9188a674d863": {
       "published_at": "2026-10-25T06:57:11+00:00",
       "source": "hindustantimes.com",
@@ -10877,6 +10885,14 @@
       "updated_at": "2026-10-27T00:40:53.333002+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-pradesh-milkfed-sweets-to-become-costlier-this-diwali-prices-increased-by-rs-10-to-rs-25-2026-10-26"
     },
+    "79e643e06f25ee66837a0e30": {
+      "published_at": "2026-10-29T11:47:40+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Bilawal urges Achakzai to use ‘authority’ delegated by Imran, asks opposition to play role in Parliament",
+      "updated_at": "2026-10-29T12:07:09.552234+00:00",
+      "url": "https://www.dawn.com/news/2040707/bilawal-urges-achakzai-to-use-authority-delegated-by-imran-asks-opposition-to-play-role-in-parliament"
+    },
     "79ec3c13c3d4e4aff0b7615f": {
       "published_at": "2026-10-27T14:58:17+00:00",
       "source": "publish.tribuneindia.com",
@@ -14894,6 +14910,14 @@
       "title": "Cyclone Arnab: Home Minister Shah speaks with CMs of affected States, assures all support",
       "updated_at": "2026-10-29T07:40:39.383579+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-home-minister-shah-speaks-with-cms-of-affected-states-assures-all-support/article71639388.ece"
+    },
+    "a66ec8e12da34f83ce75f7df": {
+      "published_at": "2026-10-29T11:41:44+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
+      "updated_at": "2026-10-29T12:07:09.552218+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss"
     },
     "a67e22e7babf02eb21f3ca5e": {
       "published_at": "2026-10-27T14:29:59+00:00",
@@ -20938,6 +20962,14 @@
       "updated_at": "2026-10-27T13:11:54.200829+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
     },
+    "e7a8b33af490b5c299fc1f90": {
+      "published_at": "2026-10-29T11:52:10+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Expired drugs possibly given to Nipah patients, says Keralam Health Minister",
+      "updated_at": "2026-10-29T12:07:09.552240+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/expired-drugs-possibly-given-to-nipah-patients-says-keralam-health-minister/article71640126.ece"
+    },
     "e7a8b5eb6b5718fafbf51439": {
       "published_at": "2026-10-26T08:16:45+00:00",
       "source": "hindustantimes.com",
@@ -23545,6 +23577,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:05:39.560549+00:00",
+  "last_cycle_at": "2026-10-29T12:07:09.556392+00:00",
   "schema_version": 1
 }
