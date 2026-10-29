@@ -1233,6 +1233,14 @@
       "updated_at": "2026-10-26T22:40:20.261123+00:00",
       "url": "https://www.dawn.com/news/2040010/govt-orders-review-of-existing-drug-pricing-formula-to-ensure-medicines-are-priced-fairly"
     },
+    "0d6e7115fcf52b6ae3305b50": {
+      "published_at": "2026-10-29T00:28:36+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Una News: 23 लाख रुपये से बाबा बाल गेट तक लाइटें लगाने का कार्य पूरा",
+      "updated_at": "2026-10-29T12:31:21.635949+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/una/work-on-installing-lights-up-to-baba-bal-gate-at-a-cost-of-rs-23-lakh-has-been-completed-una-news-c-93-1-ssml1047-211808-2026-10-29"
+    },
     "0d7223a1e9302e6904ed389f": {
       "published_at": "2026-10-27T19:07:21+00:00",
       "source": "thehindu.com",
@@ -2914,6 +2922,14 @@
       "title": "Mandi News: आईटीआई पपलोग में 30 अक्तूबर को लगेगा रोजगार मेला",
       "updated_at": "2026-10-27T13:40:47.187206+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/a-job-fair-will-be-held-at-iti-paplog-on-october-30-mandi-news-c-90-1-ssml1024-219452-2026-10-27"
+    },
+    "20471c24bfeb1ec05920a028": {
+      "published_at": "2026-10-29T11:38:51+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Madhya Pradesh man kills wife in Gwalior on Karwa Chauth",
+      "updated_at": "2026-10-29T12:31:21.635954+00:00",
+      "url": "https://www.hindustantimes.com/india-news/madhya-pradesh-man-kills-wife-in-gwalior-on-karwa-chauth-101793272876007.html"
     },
     "204c8ce5a2c8b496552fab57": {
       "published_at": "2026-10-26T22:52:58+00:00",
@@ -10094,6 +10110,14 @@
       "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
       "updated_at": "2026-10-26T11:45:06.602745+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"
+    },
+    "71accb895d432364005767c3": {
+      "published_at": "2026-10-29T00:08:06+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल हाईकोर्ट का बड़ा फैसला: केस लंबित रहने के दौरान खरीदी गई जमीन पर बोनाफाइड खरीदार का दावा अमान्य",
+      "updated_at": "2026-10-29T12:31:21.635945+00:00",
+      "url": "https://www.amarujala.com/shimla/himachal-high-court-claim-of-a-bona-fide-purchaser-over-land-bought-while-a-case-is-pending-is-invalid-2026-10-29"
     },
     "71db2c665ed2bc4a44947583": {
       "published_at": "2026-10-26T03:11:26+00:00",
@@ -21136,6 +21160,14 @@
       "updated_at": "2026-10-26T13:31:43.957087+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-video-punches-fly-thick-and-fast-on-day-two-of-the-bushehr-boxing-championship-2026-10-26"
     },
+    "e967de68c860570d98f39b52": {
+      "published_at": "2026-10-29T00:04:14+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Una News: 14.5 मीटर चौड़ा और 120 मीटर लंबा होगा रामपुर का नया पुल",
+      "updated_at": "2026-10-29T12:31:21.635931+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/una/rampurs-new-bridge-will-be-145-metres-wide-and-120-metres-long-una-news-c-93-1-una1025-211805-2026-10-29"
+    },
     "e972e294425ac6d4267c2b43": {
       "published_at": "2026-10-25T16:29:11+00:00",
       "source": "thehindu.com",
@@ -23590,6 +23622,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:07:47.496118+00:00",
+  "last_cycle_at": "2026-10-29T12:31:21.638370+00:00",
   "schema_version": 1
 }
