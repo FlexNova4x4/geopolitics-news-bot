@@ -1155,9 +1155,10 @@
     "0fb97cbc377bdc7efb9851e9": {
       "published_at": "2026-10-29T01:14:01+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12210,
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "updated_at": "2026-10-29T04:22:50.267661+00:00",
+      "updated_at": "2026-10-29T04:22:58.194017+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
     },
     "0fe5303fb47015eaf9030dec": {
@@ -9385,9 +9386,10 @@
     "7df2d4b24e83527b376ebb5d": {
       "published_at": "2026-10-29T01:11:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12209,
       "title": "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case",
-      "updated_at": "2026-10-29T04:22:50.267645+00:00",
+      "updated_at": "2026-10-29T04:22:54.231787+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/ed-attaches-land-buildings-of-mohammad-ali-jauhar-university-in-rampur-in-money-laundering-case/article71636106.ece"
     },
     "7e180985ea4ffbf8cca02f61": {
@@ -9528,9 +9530,10 @@
     "7fe2bbd42d4860215422c1e3": {
       "published_at": "2026-10-29T01:16:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12212,
       "title": "Cabinet approves 3% hike in dearness allowance for central government employees",
-      "updated_at": "2026-10-29T04:22:50.267668+00:00",
+      "updated_at": "2026-10-29T04:23:06.067886+00:00",
       "url": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece"
     },
     "7fe3416123151d93ead7b339": {
@@ -9742,9 +9745,10 @@
     "8302ac4f837c83b73e6d1c1c": {
       "published_at": "2026-10-29T01:15:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12211,
       "title": "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
-      "updated_at": "2026-10-29T04:22:50.267665+00:00",
+      "updated_at": "2026-10-29T04:23:02.109742+00:00",
       "url": "https://www.thehindu.com/news/national/digital-personal-data-protection-act-does-not-infringe-on-press-freedom-ashwini-vaishnaw/article71637035.ece"
     },
     "831a8a6a1456649042fc71ef": {
@@ -19599,6 +19603,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:22:50.269621+00:00",
+  "last_cycle_at": "2026-10-29T04:23:09.270755+00:00",
   "schema_version": 1
 }
