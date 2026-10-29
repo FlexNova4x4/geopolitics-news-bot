@@ -4940,9 +4940,10 @@
     "46e64ce2297432659d70f20c": {
       "published_at": "2026-10-28T19:41:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12119,
       "title": "Una police arrest trio with 12.8 gm heroin",
-      "updated_at": "2026-10-29T03:46:39.989752+00:00",
+      "updated_at": "2026-10-29T03:46:52.955585+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/una-police-arrest-trio-with-12-8-gm-heroin"
     },
     "46e93c5053987f11e3b03ef4": {
@@ -7515,9 +7516,10 @@
     "6ad848cbcff43e440bbce925": {
       "published_at": "2026-10-28T19:38:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12117,
       "title": "KSU leader serves legal notice on private firm MD in Kannur",
-      "updated_at": "2026-10-29T03:46:39.989734+00:00",
+      "updated_at": "2026-10-29T03:46:44.917340+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/ksu-leader-serves-legal-notice-on-private-firm-md-in-kannur/article71634595.ece"
     },
     "6af4fcc280bf5c2de56deef9": {
@@ -11111,9 +11113,10 @@
     "9abe248584c7773dfd9d4560": {
       "published_at": "2026-10-28T19:40:28+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12118,
       "title": "Need to promote integrity, says Himachal Director General of Police Ashok Tewari on Vigilance Awareness Week",
-      "updated_at": "2026-10-29T03:46:39.989748+00:00",
+      "updated_at": "2026-10-29T03:46:48.871047+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/need-to-promote-integrity-says-himachal-director-general-of-police-ashok-tewari-on-vigilance-awareness-week"
     },
     "9ac17e1a9e5c70d9cdfab39b": {
@@ -18308,9 +18311,10 @@
     "fabd12d0c5896083d56c5b2e": {
       "published_at": "2026-10-28T19:41:41+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12120,
       "title": "Day after sending SCO invite, MEA says no change in Pak policy post Pahalgam",
-      "updated_at": "2026-10-29T03:46:39.989756+00:00",
+      "updated_at": "2026-10-29T03:46:57.053610+00:00",
       "url": "https://www.tribuneindia.com/news/india/day-after-sending-sco-invite-mea-says-no-change-in-pak-policy-post-pahalgam"
     },
     "facec78c95f2252d79889dda": {
@@ -18771,6 +18775,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:46:39.991823+00:00",
+  "last_cycle_at": "2026-10-29T03:47:00.256148+00:00",
   "schema_version": 1
 }
