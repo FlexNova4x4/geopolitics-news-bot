@@ -6947,9 +6947,10 @@
     "43e225625d2ab4f8d8142d18": {
       "published_at": "2026-10-29T20:42:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13050,
       "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
-      "updated_at": "2026-10-29T22:45:08.337676+00:00",
+      "updated_at": "2026-10-29T22:45:11.107277+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss"
     },
     "43e53313b7a999937b974c1c": {
@@ -10576,9 +10577,10 @@
     "67dccefc1b2a71f36c2112e8": {
       "published_at": "2026-10-29T20:50:25+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13052,
       "title": "Watch: What leaked audio reveals about Spain train crash",
-      "updated_at": "2026-10-29T22:45:08.337699+00:00",
+      "updated_at": "2026-10-29T22:45:18.735946+00:00",
       "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss"
     },
     "67f1c1d64fca16b1ee6c24af": {
@@ -11195,9 +11197,10 @@
     "6dcdc66103a457706f1d000e": {
       "published_at": "2026-10-29T20:52:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13053,
       "title": "Iran gets JD Vance’s letter to revive peace talks, yet to respond: Report",
-      "updated_at": "2026-10-29T22:45:08.337701+00:00",
+      "updated_at": "2026-10-29T22:45:22.513702+00:00",
       "url": "https://www.tribuneindia.com/news/abbas-araghchi-statement/iran-gets-jd-vances-letter-to-revive-peace-talks-yet-to-respond-report"
     },
     "6dda2756d2ab5cd8a0954c13": {
@@ -13486,9 +13489,10 @@
     "82dd00ecea58c84331e6cd8b": {
       "published_at": "2026-10-29T20:46:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13051,
       "title": "Former West Bengal minister Indranil Sen sent to 13 days police custody",
-      "updated_at": "2026-10-29T22:45:08.337696+00:00",
+      "updated_at": "2026-10-29T22:45:14.901258+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/former-west-bengal-minister-indranil-sen-sent-to-13-days-police-custody/article71640831.ece"
     },
     "82fecadb5678e7baac3f3410": {
@@ -27123,6 +27127,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T22:45:08.339820+00:00",
+  "last_cycle_at": "2026-10-29T22:45:25.716666+00:00",
   "schema_version": 1
 }
