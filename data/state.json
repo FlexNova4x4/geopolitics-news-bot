@@ -3275,6 +3275,14 @@
       "updated_at": "2026-10-29T14:04:58.008159+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss"
     },
+    "23613d04c6bafe80f4e701aa": {
+      "published_at": "2026-10-29T13:49:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "37% of pre-SIR Form-6 applications rejected due to absence of declaration form",
+      "updated_at": "2026-10-29T14:35:25.232728+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/37-of-pre-sir-form-6-applications-rejected-due-to-absence-of-declaration-form/article71640758.ece"
+    },
     "23827c27378057676a41af34": {
       "published_at": "2026-10-25T14:25:20+00:00",
       "source": "hindustantimes.com",
@@ -11822,6 +11830,14 @@
       "updated_at": "2026-10-26T08:42:52.882241+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-mandi-bjp-protest-mallikarjun-kharge-remark-pm-modi-late-father-2026-10-26"
     },
+    "7f5581afbc747bfc4e1eafe4": {
+      "published_at": "2026-10-29T13:52:54+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "HC moved seeking APPs at Attappady, Mannarkkad courts",
+      "updated_at": "2026-10-29T14:35:25.232745+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/hc-moved-seeking-apps-at-attappady-mannarkkad-courts/article71640292.ece"
+    },
     "7f5757504adab586ec21c63b": {
       "published_at": "2026-10-26T23:48:51+00:00",
       "source": "aljazeera.com",
@@ -13962,6 +13978,14 @@
       "title": "Regional conflicts, terrorism do not stop at borders, affect all: Lok Sabha Speaker at BRICS Parliamentary Forum",
       "updated_at": "2026-10-26T09:16:26.826565+00:00",
       "url": "https://www.thehindu.com/news/national/regional-conflicts-terrorism-do-not-stop-at-borders-affect-all-lok-sabha-speaker-at-brics-parliamentary-forum/article71626163.ece"
+    },
+    "9510a3faab79c1cbad2e80db": {
+      "published_at": "2026-10-29T13:52:23+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "How India developed Pioxaniliprole, its first home-grown insecticide molecule",
+      "updated_at": "2026-10-29T14:35:25.232742+00:00",
+      "url": "https://www.tribuneindia.com/news/india/how-india-developed-pioxaniliprole-its-first-home-grown-insecticide-molecule"
     },
     "9515eecf0b2a570c9accd517": {
       "published_at": "2026-10-26T04:18:48+00:00",
@@ -23395,6 +23419,14 @@
       "updated_at": "2026-10-26T00:57:44.371498+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/restarted-the-jute-bag-business-at-the-age-of-55-kangra-news-c-95-1-kng1060-263364-2026-10-26"
     },
+    "f53e80b645a6719e9347ef7c": {
+      "published_at": "2026-10-29T13:53:49+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Neville says managers need sacking ‘for own good’ as Man Utd retain Carrick",
+      "updated_at": "2026-10-29T14:35:25.232749+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss"
+    },
     "f543c189b7a72ec7972ef0ec": {
       "published_at": "2026-10-27T14:00:24+00:00",
       "source": "thehindu.com",
@@ -24580,6 +24612,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:35:01.212404+00:00",
+  "last_cycle_at": "2026-10-29T14:35:25.235589+00:00",
   "schema_version": 1
 }
