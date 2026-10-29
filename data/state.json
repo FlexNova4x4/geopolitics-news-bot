@@ -5021,9 +5021,10 @@
     "45e03deb37cc9297e8914cce": {
       "published_at": "2026-10-28T23:43:06+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12195,
       "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
-      "updated_at": "2026-10-29T04:20:57.718088+00:00",
+      "updated_at": "2026-10-29T04:21:09.681682+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss"
     },
     "45e6677d54d8b772979439db": {
@@ -7866,9 +7867,10 @@
     "6c3b09553835ab9a88c857d3": {
       "published_at": "2026-10-28T23:42:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12194,
       "title": "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’",
-      "updated_at": "2026-10-29T04:20:57.718084+00:00",
+      "updated_at": "2026-10-29T04:21:05.549672+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece"
     },
     "6c51b10ea3566bd3df94ef10": {
@@ -10265,9 +10267,10 @@
     "894208a06596b8faf9d03db5": {
       "published_at": "2026-10-28T23:42:06+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12193,
       "title": "JD Vance sends letter to Iran hard-liner in bid to revive peace talks as Trump threatens strikes: Report",
-      "updated_at": "2026-10-29T04:20:57.718068+00:00",
+      "updated_at": "2026-10-29T04:21:01.632543+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump-iran-threats/jd-vance-sends-letter-to-iran-hard-liner-in-bid-to-revive-peace-talks-as-trump-threatens-strikes-report"
     },
     "89de48812124da7bfda95841": {
@@ -11586,9 +11589,10 @@
     "9b30d8b27ba55a35938182af": {
       "published_at": "2026-10-28T23:45:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12196,
       "title": "शिमला-कुफरी हाईवे पर जाम से मिलेगी मुक्ति: हाईकोर्ट के निर्देश पर पार्किंग के लिए 23 हेक्टेयर जमीन चिन्हित",
-      "updated_at": "2026-10-29T04:20:57.718091+00:00",
+      "updated_at": "2026-10-29T04:21:13.593718+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/relief-from-traffic-congestion-on-the-shimla-kufri-highway-2026-10-28"
     },
     "9b4a0dc8fb83ea75681c64d8": {
@@ -19455,6 +19459,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:20:57.720086+00:00",
+  "last_cycle_at": "2026-10-29T04:21:16.796399+00:00",
   "schema_version": 1
 }
