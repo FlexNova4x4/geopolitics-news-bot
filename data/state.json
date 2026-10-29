@@ -1452,9 +1452,10 @@
     "116fb998fa580c4c99f94b72": {
       "published_at": "2026-10-28T20:39:01+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12475,
       "title": "सोलन: कंडाघाट में शिव कथा का समापन, शिव विवाह के प्रसंग पर भक्ति में झूमे श्रद्धालु",
-      "updated_at": "2026-10-29T08:41:14.100964+00:00",
+      "updated_at": "2026-10-29T08:41:18.497058+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-kandaghat-shiv-katha-concludes-shiv-vivah-prasang-2026-10-29"
     },
     "11717b4443bc514112049b0d": {
@@ -8506,9 +8507,10 @@
     "6791e2a9d7ec1b1962af6a23": {
       "published_at": "2026-10-29T07:33:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12476,
       "title": "Mandal level committees to oversee El Niño mitigation measures in Telangana",
-      "updated_at": "2026-10-29T08:41:14.100980+00:00",
+      "updated_at": "2026-10-29T08:41:23.270226+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/mandal-level-committees-to-oversee-el-nino-mitigation-measures-in-telangana/article71639116.ece"
     },
     "67a0e523cf09431bf41cab1b": {
@@ -11237,9 +11239,10 @@
     "859d343f7390ec02a99bbab5": {
       "published_at": "2026-10-29T07:35:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12478,
       "title": "Afghanistan opium poppy cultivation surges despite Taliban government ban: UN",
-      "updated_at": "2026-10-29T08:41:14.100986+00:00",
+      "updated_at": "2026-10-29T08:41:31.333419+00:00",
       "url": "https://www.thehindu.com/news/international/afghanistan-opium-poppy-cultivation-surges-despite-taliban-government-ban-un/article71639446.ece"
     },
     "85a6209010f5a54ae04f76b2": {
@@ -17962,9 +17965,10 @@
     "d46b6f12de78c89b7a99ebbe": {
       "published_at": "2026-10-29T07:34:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12477,
       "title": "17 two-wheelers, four four-wheelers gutted in fire near Pune; one injured",
-      "updated_at": "2026-10-29T08:41:14.100983+00:00",
+      "updated_at": "2026-10-29T08:41:27.290683+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/17-two-wheelers-four-four-wheelers-gutted-in-fire-near-pune-one-injured/article71639431.ece"
     },
     "d46d52dd596a532e45392334": {
@@ -21984,6 +21988,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:41:14.103387+00:00",
+  "last_cycle_at": "2026-10-29T08:41:34.536382+00:00",
   "schema_version": 1
 }
