@@ -669,9 +669,10 @@
     "06dbacd5ba8662b72e3cdc15": {
       "published_at": "2026-10-29T13:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12732,
       "title": "Erdogan dials Trump; extends diplomatic resolution for Hormuz, Yemen, Russia-Ukraine conflict",
-      "updated_at": "2026-10-29T14:03:25.760580+00:00",
+      "updated_at": "2026-10-29T14:03:29.702145+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump/erdogan-dials-trump-extends-diplomatic-resolution-for-hormuz-yemen-russia-ukraine-conflict"
     },
     "0726b45718d40494e2b3bc8b": {
@@ -13119,9 +13120,10 @@
     "8dd76e232746e9c2ead8bdeb": {
       "published_at": "2026-10-29T13:25:07+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12733,
       "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "updated_at": "2026-10-29T14:03:25.760596+00:00",
+      "updated_at": "2026-10-29T14:03:33.622993+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
     },
     "8ddaa6241c00fe78d9add81e": {
@@ -16173,9 +16175,10 @@
     "af9280c4dcec4b782c1ebb08": {
       "published_at": "2026-10-29T13:26:07+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12734,
       "title": "The megadonors financing the US midterms to influence policy",
-      "updated_at": "2026-10-29T14:03:25.760600+00:00",
+      "updated_at": "2026-10-29T14:03:37.700155+00:00",
       "url": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss"
     },
     "af99b23d02b52cd21b36603d": {
@@ -21280,9 +21283,10 @@
     "e424d71ed68ac8964990368c": {
       "published_at": "2026-10-29T13:26:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12735,
       "title": "Rising fuel costs force passengers off cruise ship",
-      "updated_at": "2026-10-29T14:03:25.760603+00:00",
+      "updated_at": "2026-10-29T14:03:41.585322+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss"
     },
     "e44b9bd853abbb389136f045": {
@@ -24288,6 +24292,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:03:25.763463+00:00",
+  "last_cycle_at": "2026-10-29T14:03:44.788622+00:00",
   "schema_version": 1
 }
