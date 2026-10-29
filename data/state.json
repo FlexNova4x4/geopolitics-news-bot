@@ -5822,9 +5822,10 @@
     "3e16fea2eefda5925af560c9": {
       "published_at": "2026-10-29T15:13:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12844,
       "title": "Power sector suffers ₹500-crore damage due to Cyclone Arnab, says Minister",
-      "updated_at": "2026-10-29T15:52:32.085124+00:00",
+      "updated_at": "2026-10-29T15:52:34.753502+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/power-sector-suffers-500-crore-damage-due-to-cyclone-arnab-says-minister/article71641231.ece"
     },
     "3e17418136513898cd7cd96f": {
@@ -13596,9 +13597,10 @@
     "8d610e1c0e4165a8a9ecaaba": {
       "published_at": "2026-10-29T15:17:49+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12845,
       "title": "CM Sukhu’s blood sugar test exposes faulty testing machine at Shimla medical camp",
-      "updated_at": "2026-10-29T15:52:32.085139+00:00",
+      "updated_at": "2026-10-29T15:52:38.538413+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/cm-sukhus-blood-sugar-test-exposes-faulty-testing-machine-at-shimla-medical-camp"
     },
     "8d6c640fcd12925f63458e7c": {
@@ -23018,9 +23020,10 @@
     "ec779500c5dbf2bfeee82c71": {
       "published_at": "2026-10-29T15:18:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12846,
       "title": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
-      "updated_at": "2026-10-29T15:52:32.085142+00:00",
+      "updated_at": "2026-10-29T15:52:42.439871+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss"
     },
     "ecb9e3921a68cdce7d497ada": {
@@ -23233,9 +23236,10 @@
     "ee80c325306968a88a88cfd2": {
       "published_at": "2026-10-29T15:20:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12847,
       "title": "Fishing boat catches fire near Feroke",
-      "updated_at": "2026-10-29T15:52:32.085146+00:00",
+      "updated_at": "2026-10-29T15:52:46.178494+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/fishing-boat-catches-fire-near-feroke/article71640157.ece"
     },
     "ee8dc95c59a3ed4806f85bb0": {
@@ -25296,6 +25300,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:52:32.088027+00:00",
+  "last_cycle_at": "2026-10-29T15:52:49.381929+00:00",
   "schema_version": 1
 }
