@@ -732,9 +732,10 @@
     "073d01a770a81951ce190900": {
       "published_at": "2026-10-29T19:30:00+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12988,
       "title": "Will throw back infiltrators to Bangladesh, says Bengal CM",
-      "updated_at": "2026-10-29T19:50:44.925950+00:00",
+      "updated_at": "2026-10-29T19:50:47.554497+00:00",
       "url": "https://www.tribuneindia.com/news/india/will-throw-back-infiltrators-to-bangladesh-says-bengal-cm"
     },
     "0747f4615b93967f2301b568": {
@@ -2665,9 +2666,10 @@
     "19ad7508b91406a321c70087": {
       "published_at": "2026-10-29T19:30:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12989,
       "title": "Blast in explosives godown in Vellore; three vehicles damaged",
-      "updated_at": "2026-10-29T19:50:44.925966+00:00",
+      "updated_at": "2026-10-29T19:50:51.442798+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/blast-in-explosives-godown-in-vellore-three-vehicles-damaged/article71640778.ece"
     },
     "19b79f9985cb44ee6531e0b0": {
@@ -7116,9 +7118,10 @@
     "475cad6246f079dc27792475": {
       "published_at": "2026-10-29T19:32:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12990,
       "title": "Man, daughter killed in road accident in Tiruvannamalai",
-      "updated_at": "2026-10-29T19:50:44.925973+00:00",
+      "updated_at": "2026-10-29T19:50:55.174235+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/man-daughter-killed-in-road-accident-in-tiruvannamalai/article71640682.ece"
     },
     "476f7f66194b68743e633d18": {
@@ -26566,6 +26569,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:50:44.929152+00:00",
+  "last_cycle_at": "2026-10-29T19:50:58.377740+00:00",
   "schema_version": 1
 }
