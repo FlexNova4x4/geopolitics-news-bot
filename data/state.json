@@ -6440,9 +6440,10 @@
     "57dba6d2ad0f94769a913faa": {
       "published_at": "2026-10-29T02:25:20+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12236,
       "title": "Vaishnaw seeks open discussions with editors on DPDP concerns",
-      "updated_at": "2026-10-29T04:25:51.035078+00:00",
+      "updated_at": "2026-10-29T04:26:05.894659+00:00",
       "url": "https://www.hindustantimes.com/india-news/vaishnaw-seeks-open-discussions-with-editors-on-dpdp-concerns-101793215164526.html"
     },
     "580f301b3f62026dceb26c49": {
@@ -13816,9 +13817,10 @@
     "b6022ee3dc196cd799c4b809": {
       "published_at": "2026-10-29T02:25:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12234,
       "title": "TB Alliance fails to get patent for six-month treatment regimen",
-      "updated_at": "2026-10-29T04:25:51.035071+00:00",
+      "updated_at": "2026-10-29T04:25:57.812216+00:00",
       "url": "https://www.hindustantimes.com/india-news/tb-alliance-fails-to-get-patent-for-six-month-treatment-regimen-101793215103983.html"
     },
     "b63c71edb881e6106775a702": {
@@ -14805,9 +14807,10 @@
     "c09d68f3831d40599a711619": {
       "published_at": "2026-10-29T02:25:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12235,
       "title": "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-      "updated_at": "2026-10-29T04:25:51.035075+00:00",
+      "updated_at": "2026-10-29T04:26:01.947323+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
     },
     "c09ddf3f2cb122dba7d6ac01": {
@@ -15694,9 +15697,10 @@
     "cd657700aa583b94263dea77": {
       "published_at": "2026-10-29T02:24:10+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12233,
       "title": "Industrial output growth hits four-month low of 6.7% in Sept",
-      "updated_at": "2026-10-29T04:25:51.035057+00:00",
+      "updated_at": "2026-10-29T04:25:53.930373+00:00",
       "url": "https://www.hindustantimes.com/india-news/industrial-output-growth-hits-four-month-low-of-6-7-in-sept-101793214983533.html"
     },
     "cd794ab2a2f8aa36fa421c03": {
@@ -19815,6 +19819,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:25:51.037064+00:00",
+  "last_cycle_at": "2026-10-29T04:26:09.097461+00:00",
   "schema_version": 1
 }
