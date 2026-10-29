@@ -2006,6 +2006,14 @@
       "updated_at": "2026-10-29T04:22:09.898423+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss"
     },
+    "19bbd4e05889d2c8a8fc9b2f": {
+      "published_at": "2026-10-29T02:02:48+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Govt plans $10m fund to support clean-air startups",
+      "updated_at": "2026-10-29T04:39:57.010987+00:00",
+      "url": "https://www.dawn.com/news/2040532/govt-plans-10m-fund-to-support-clean-air-startups"
+    },
     "19c4bf960a1a2545ca66ab55": {
       "published_at": "2026-10-27T19:47:13+00:00",
       "source": "publish.tribuneindia.com",
@@ -5251,6 +5259,14 @@
       "title": "चंबा: महर्षि वाल्मीकि जयंती पर पक्काटाला मंदिर में हुआ हवन-यज्ञ",
       "updated_at": "2026-10-26T13:00:46.959605+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-havan-yajna-held-at-pakkatala-temple-on-the-occasion-of-maharishi-valmiki-jayanti-2026-10-26"
+    },
+    "47abe6386d21cebe6240c4e8": {
+      "published_at": "2026-10-29T02:02:34+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "BSEK officials face fresh probe over ‘illegal appointments, promotions’",
+      "updated_at": "2026-10-29T04:39:57.010971+00:00",
+      "url": "https://www.dawn.com/news/2040549/bsek-officials-face-fresh-probe-over-illegal-appointments-promotions"
     },
     "47cb7ee84070f706e546de08": {
       "published_at": "2026-10-26T07:02:48+00:00",
@@ -15883,6 +15899,14 @@
       "updated_at": "2026-10-26T23:40:20.766855+00:00",
       "url": "https://www.amarujala.com/shimla/high-court-significant-ruling-order-issued-to-shift-reserved-category-candidates-who-qualify-on-merit-to-the-2026-10-26"
     },
+    "cfbf25fe34cd9e2d233a61bd": {
+      "published_at": "2026-10-29T02:02:48+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "School sealed over safety violations in Attock",
+      "updated_at": "2026-10-29T04:39:57.010993+00:00",
+      "url": "https://www.dawn.com/news/2040534/school-sealed-over-safety-violations-in-attock"
+    },
     "cfc5a0d8935dc159967f5d75": {
       "published_at": "2026-10-27T12:47:49+00:00",
       "source": "aljazeera.com",
@@ -16116,6 +16140,14 @@
       "title": "Mandil’s Kol Dam sets sail for adventure tourism",
       "updated_at": "2026-10-26T00:53:35.075630+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandils-kol-dam-sets-sail-for-adventure-tourism"
+    },
+    "d3a8f5246b4b1f47642916e6": {
+      "published_at": "2026-10-29T02:02:48+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "PM orders urgent reforms in Islamabad government schools",
+      "updated_at": "2026-10-29T04:39:57.010991+00:00",
+      "url": "https://www.dawn.com/news/2040536/pm-orders-urgent-reforms-in-islamabad-government-schools"
     },
     "d3aa4059d887f3e59b4403ab": {
       "published_at": "2026-10-26T07:57:11+00:00",
@@ -19819,6 +19851,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:26:09.097461+00:00",
+  "last_cycle_at": "2026-10-29T04:39:57.013049+00:00",
   "schema_version": 1
 }
