@@ -4940,9 +4940,10 @@
     "3ea8520f40701ee47066ba2a": {
       "published_at": "2026-10-29T07:01:10+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12437,
       "title": "US midterms: Five days to go – What the polls say as Trump, Harris campaign",
-      "updated_at": "2026-10-29T07:40:05.645849+00:00",
+      "updated_at": "2026-10-29T07:40:21.777104+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign?traffic_source=rss"
     },
     "3eb0722bbaad12f068c7977b": {
@@ -8156,9 +8157,10 @@
     "652f7ec9e4d5f814210fc7d1": {
       "published_at": "2026-10-28T19:39:12+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12434,
       "title": "करवाचौथ पर सोलन के बाजारों में उमड़ी भीड़, मिठाई की दुकानों पर लगी कतारें",
-      "updated_at": "2026-10-29T07:40:05.645824+00:00",
+      "updated_at": "2026-10-29T07:40:09.436470+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-karwa-chauth-shopping-rush-solan-markets-sweet-shops-2026-10-29"
     },
     "6534d38e01a230c7f5991402": {
@@ -11048,9 +11050,10 @@
     "85a6209010f5a54ae04f76b2": {
       "published_at": "2026-10-29T06:51:32+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12435,
       "title": "No ‘paani’ or ‘abba’ in Bengali textbooks: Govt panel plans syllabus revamp from 2027",
-      "updated_at": "2026-10-29T07:40:05.645841+00:00",
+      "updated_at": "2026-10-29T07:40:13.685456+00:00",
       "url": "https://www.hindustantimes.com/india-news/no-paani-or-abba-in-bengali-textbooks-govt-panel-plans-syllabus-revamp-from-2027-101793256692595.html"
     },
     "85af2a7b14da563a493a30f6": {
@@ -15857,9 +15860,10 @@
     "bdb90090798d7cb123bc9e15": {
       "published_at": "2026-10-29T06:51:33+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12436,
       "title": "Karnataka SIR: Congress minister defends deletions, says exercise legitimate unlike other states",
-      "updated_at": "2026-10-29T07:40:05.645845+00:00",
+      "updated_at": "2026-10-29T07:40:17.631450+00:00",
       "url": "https://www.hindustantimes.com/india-news/karnataka-sir-congress-minister-defends-deletions-says-exercise-legitimate-unlike-other-states-101793256694008.html"
     },
     "bdd563972145e71a1846f07e": {
@@ -21624,6 +21628,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T07:40:05.648143+00:00",
+  "last_cycle_at": "2026-10-29T07:40:24.980098+00:00",
   "schema_version": 1
 }
