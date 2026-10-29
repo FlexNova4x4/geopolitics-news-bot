@@ -3461,6 +3461,14 @@
       "updated_at": "2026-10-26T05:52:59.751218+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
     },
+    "30bdb4c118690ef680d01483": {
+      "published_at": "2026-10-28T20:41:32+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Railways to turn off charging points in trains during night",
+      "updated_at": "2026-10-29T04:18:21.010706+00:00",
+      "url": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece"
+    },
     "30cd2c544b5af6b3a27389f8": {
       "published_at": "2026-10-27T03:53:58+00:00",
       "source": "amarujala.com",
@@ -10543,6 +10551,14 @@
       "updated_at": "2026-10-27T12:11:58.145308+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/12-locations-designated-for-the-sale-of-firecrackers-in-karsog-mandi-news-c-90-1-mnd1001-219361-2026-10-27"
     },
+    "901a84d4e586400cffbe667a": {
+      "published_at": "2026-10-28T20:33:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone",
+      "updated_at": "2026-10-29T04:18:21.010624+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/all-17-escapees-from-theni-district-jail-apprehended-in-less-than-40-hours-igp-south-zone/article71636064.ece"
+    },
     "9040f2bb7e72bd2ce79b80e9": {
       "published_at": "2026-10-28T19:49:02+00:00",
       "source": "publish.tribuneindia.com",
@@ -14677,6 +14693,14 @@
       "updated_at": "2026-10-27T04:11:19.449556+00:00",
       "url": "https://www.hindustantimes.com/india-news/survey-of-unincorporated-enterprises-to-expand-shift-to-financial-year-cycle-from-2027-101793070454701.html"
     },
+    "c5239f39a393510fb972e02d": {
+      "published_at": "2026-10-28T20:38:01+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+      "updated_at": "2026-10-29T04:18:21.010703+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss"
+    },
     "c57933eeae4e71d3ef3462c0": {
       "published_at": "2026-10-27T19:16:46+00:00",
       "source": "thehindu.com",
@@ -16618,6 +16642,14 @@
       "title": "Extremely unfortunate: Rajnath Singh on Mallikarjun Kharge’s PM remarks",
       "updated_at": "2026-10-26T08:44:39.043777+00:00",
       "url": "https://www.thehindu.com/news/national/mallikarjun-kharge-remarks-on-pm-modi-rajnath-singh-replies/article71626019.ece"
+    },
+    "e15ee257d439df12cc8110a2": {
+      "published_at": "2026-10-28T20:36:03+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bihar MLC polls: NDA close to win 4 out of 8 seats",
+      "updated_at": "2026-10-29T04:18:21.010698+00:00",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-results-counting-updates/article71632702.ece"
     },
     "e174b850cc0ce3d40b7e8e7f": {
       "published_at": "2026-10-27T15:40:00+00:00",
@@ -19207,6 +19239,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:18:12.666417+00:00",
+  "last_cycle_at": "2026-10-29T04:18:21.012647+00:00",
   "schema_version": 1
 }
