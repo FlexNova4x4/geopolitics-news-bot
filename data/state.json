@@ -8060,9 +8060,10 @@
     "57b5c5db53960f34288a7a78": {
       "published_at": "2026-10-29T14:31:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12799,
       "title": "Coimbatore student’s death: How caste identity continues to divide TN’s schoolchildren | Focus Tamil Nadu",
-      "updated_at": "2026-10-29T15:23:39.579848+00:00",
+      "updated_at": "2026-10-29T15:23:54.756320+00:00",
       "url": "https://www.thehindu.com/videos/shows/coimbatore-students-death-how-caste-identity-continues-to-divide-tns-schoolchildren-focus-tamil-nadu/article71641304.ece"
     },
     "57d39223ca6521e014c033ed": {
@@ -18280,9 +18281,10 @@
     "bf6c0533023822f1011fec7e": {
       "published_at": "2026-10-29T14:30:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12798,
       "title": "Chennai Press Club president and two other journalists move Madras High Court seeking anticipatory bail",
-      "updated_at": "2026-10-29T15:23:39.579845+00:00",
+      "updated_at": "2026-10-29T15:23:50.159387+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-press-club-president-and-two-other-journalists-move-madras-high-court-seeking-anticipatory-bail/article71640943.ece"
     },
     "bf9512d13647e1e0dcdb44bb": {
@@ -19115,9 +19117,10 @@
     "c81244d6feaeff2b35b83f61": {
       "published_at": "2026-10-29T14:30:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12797,
       "title": "Kurnool outdoor stadium will be upgraded to meet international standards: Bharath",
-      "updated_at": "2026-10-29T15:23:39.579842+00:00",
+      "updated_at": "2026-10-29T15:23:46.337896+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-outdoor-stadium-will-be-upgraded-to-meet-international-standards-bharath/article71640901.ece"
     },
     "c819abece4e4453075cea224": {
@@ -23827,9 +23830,10 @@
     "f714037608184b29d21b6e4e": {
       "published_at": "2026-10-29T14:30:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12796,
       "title": "Govt.’s timely response to Arnab minimised human casualties, property damages, says TDP leader",
-      "updated_at": "2026-10-29T15:23:39.579827+00:00",
+      "updated_at": "2026-10-29T15:23:42.061157+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/govts-timely-response-to-arnab-minimised-human-casualties-property-damages-says-tdp-leader/article71640753.ece"
     },
     "f719c2e59baa960efe4b3af5": {
@@ -24864,6 +24868,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:23:39.582526+00:00",
+  "last_cycle_at": "2026-10-29T15:23:57.959538+00:00",
   "schema_version": 1
 }
