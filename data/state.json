@@ -6638,6 +6638,14 @@
       "updated_at": "2026-10-26T08:44:10.391717+00:00",
       "url": "https://www.hindustantimes.com/india-news/case-filed-against-actor-urmila-sanawar-for-remarks-against-sikkim-governor-gautam-101793000924444.html"
     },
+    "42d3b80fb38b24549c3a7ed6": {
+      "published_at": "2026-10-29T19:22:57+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Saras mela resumes after remaining closed on Wednesday",
+      "updated_at": "2026-10-29T19:50:15.464877+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/saras-mela-resumes-after-remaining-closed-on-wednesday/article71641489.ece"
+    },
     "42da2118d49718e2b1ee4e4a": {
       "published_at": "2026-10-29T09:17:54+00:00",
       "source": "hindustantimes.com",
@@ -6727,6 +6735,14 @@
       "title": "Muizzu could stir up anti-India campaign again: Former Maldives Minister Abdullah Shahid",
       "updated_at": "2026-10-25T18:13:11.022133+00:00",
       "url": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece"
+    },
+    "43682d3c2c970d96902e4d93": {
+      "published_at": "2026-10-29T19:27:21+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Israel election: 100% of votes counted, Netanyahu bloc gets 53 seats; Likud emerges as largest party",
+      "updated_at": "2026-10-29T19:50:15.464899+00:00",
+      "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/israel-election-100-of-votes-counted-netanyahu-bloc-gets-53-seats-likud-emerges-as-largest-party"
     },
     "437845766b49af23b149dfb7": {
       "published_at": "2026-10-26T00:44:18+00:00",
@@ -7015,6 +7031,14 @@
       "title": "PM Modi and Liechtenstein’s Hereditary Prince Alios hail India–EFTA TEPA, reaffirm strategic ties during bilateral talks",
       "updated_at": "2026-10-27T13:11:26.662045+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-cooperation/pm-modi-and-liechtensteins-hereditary-prince-alios-hail-india-efta-tepa-reaffirm-strategic-ties-during-bilateral-talks"
+    },
+    "46de895ccf6f635cf57e1790": {
+      "published_at": "2026-10-29T19:26:40+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "T.N. govt. to establish five Model Registration Hubs in first phase",
+      "updated_at": "2026-10-29T19:50:15.464892+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-to-establish-five-model-registration-hubs-in-first-phase/article71641804.ece"
     },
     "46e64ce2297432659d70f20c": {
       "published_at": "2026-10-28T19:41:26+00:00",
@@ -24574,6 +24598,14 @@
       "updated_at": "2026-10-27T14:44:01.883948+00:00",
       "url": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece"
     },
+    "f078e5f550f4931acc01f446": {
+      "published_at": "2026-10-29T19:27:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Israel election 2026: Democrats’ Golan meets Ra’am chair Abbas as efforts continue to oust Netanyahu",
+      "updated_at": "2026-10-29T19:50:15.464896+00:00",
+      "url": "https://www.tribuneindia.com/news/foreign-election-interference/israel-election-2026-democrats-golan-meets-raam-chair-abbas-as-efforts-continue-to-oust-netanyahu"
+    },
     "f08d0d2f47bcbb83346134c3": {
       "published_at": "2026-10-26T19:45:38+00:00",
       "source": "amarujala.com",
@@ -26506,6 +26538,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:50:04.240395+00:00",
+  "last_cycle_at": "2026-10-29T19:50:15.467994+00:00",
   "schema_version": 1
 }
