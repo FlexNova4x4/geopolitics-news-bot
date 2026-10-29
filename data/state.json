@@ -174,9 +174,10 @@
     "01c89b3dcc836eb5b4a58222": {
       "published_at": "2026-10-29T08:00:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12498,
       "title": "Cyclone Arnab: Railway bridge near Andhra’s Ichchapuram inundated; trains cancelled, diverted",
-      "updated_at": "2026-10-29T08:44:01.998551+00:00",
+      "updated_at": "2026-10-29T08:44:19.164001+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-railway-bridge-near-andhras-ichchapuram-inundated-trains-cancelled-diverted/article71639000.ece"
     },
     "0207b220ce053bf2f28629dc": {
@@ -5569,9 +5570,10 @@
     "440db584964469a885f8c30a": {
       "published_at": "2026-10-29T07:55:35+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12496,
       "title": "Rahul asks people to join ‘Chalo Dilli Ramlila March’ without worrying about police, batons",
-      "updated_at": "2026-10-29T08:44:01.998544+00:00",
+      "updated_at": "2026-10-29T08:44:10.164817+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-asks-people-to-join-chalo-dilli-ramlila-march-without-worrying-about-police-batons-101793260536481.html"
     },
     "4416e1e84ee2d349095ccce6": {
@@ -15165,9 +15167,10 @@
     "b2d1b80f0226163c3ff32e9f": {
       "published_at": "2026-10-29T07:54:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12495,
       "title": "How to stop the US-Israel war on Iran",
-      "updated_at": "2026-10-29T08:44:01.998528+00:00",
+      "updated_at": "2026-10-29T08:44:05.819978+00:00",
       "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss"
     },
     "b2db4ebc26b9c11d55f8aaa8": {
@@ -18870,9 +18873,10 @@
     "dbfeaa337de89b26a99f8595": {
       "published_at": "2026-10-29T07:56:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12497,
       "title": "Cyclone Arnab effect: Rain intensifies in parts of Jharkhand, to continue till October 30",
-      "updated_at": "2026-10-29T08:44:01.998548+00:00",
+      "updated_at": "2026-10-29T08:44:14.462420+00:00",
       "url": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rainfall-in-jharkhand-with-orange-and-yellow-alerts-issued-across-several-districts-and-school-closures-through-friday/article71639339.ece"
     },
     "dc0211b68a6d222749fceac1": {
@@ -22164,6 +22168,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:44:02.000770+00:00",
+  "last_cycle_at": "2026-10-29T08:44:22.366979+00:00",
   "schema_version": 1
 }
