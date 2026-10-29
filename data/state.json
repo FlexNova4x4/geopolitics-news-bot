@@ -3589,6 +3589,14 @@
       "updated_at": "2026-10-27T13:11:22.777517+00:00",
       "url": "https://www.tribuneindia.com/news/china/china-accused-of-intimidation-campaign-to-isolate-taiwan-politician"
     },
+    "292be8b725a4bac373fcdff7": {
+      "published_at": "2026-10-29T11:27:05+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "updated_at": "2026-10-29T12:04:09.319199+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+    },
     "2944b51e21eb861e4ef21726": {
       "published_at": "2026-10-27T07:48:45+00:00",
       "source": "thehindu.com",
@@ -3920,6 +3928,14 @@
       "title": "सिरमौर: शैलेंद्र गुप्ता बोले- तीन दिन में सुधरे पेयजल व्यवस्था, नहीं तो सड़कों पर उतरेगी भाजपा",
       "updated_at": "2026-10-27T12:11:54.108554+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-water-crisis-bjp-gives-administration-three-day-ultimatum-2026-10-27"
+    },
+    "2d92a3d6567430c4713831a4": {
+      "published_at": "2026-10-29T11:26:28+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "European Central Bank President Christine Lagarde will resign February 7, nine months early",
+      "updated_at": "2026-10-29T12:04:09.319184+00:00",
+      "url": "https://www.thehindu.com/news/international/european-central-bank-president-christine-lagarde-will-resign-february-7-nine-months-early/article71640231.ece"
     },
     "2d94e054f413dfafc579c07f": {
       "published_at": "2026-10-27T05:40:23+00:00",
@@ -13531,6 +13547,14 @@
       "updated_at": "2026-10-26T08:14:42.746344+00:00",
       "url": "https://www.thehindu.com/news/national/set-aside-mann-ki-baat-to-focus-on-peoples-concerns-cong-slams-pm-on-inflation/article71625907.ece"
     },
+    "97b19c3c09b0dcbae5a7feab": {
+      "published_at": "2026-10-29T11:27:16+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "I-PAC raids case: SC reserves verdict on ED plea for CBI probe into Mamata Banerjee’s conduct",
+      "updated_at": "2026-10-29T12:04:09.319206+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/i-pac-raids-case-sc-reserves-verdict-on-ed-plea-for-cbi-probe-into-mamatabanerjees-conduct/article71640004.ece"
+    },
     "97d551b54d137d0c997308a8": {
       "published_at": "2026-10-26T09:38:40+00:00",
       "source": "hindustantimes.com",
@@ -15388,6 +15412,14 @@
       "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
       "updated_at": "2026-10-29T04:19:49.454887+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+    },
+    "acd52a3a9a6335fa58985302": {
+      "published_at": "2026-10-29T11:27:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "WUC vice president Zumretay Arkin to contest Canadian federal by-election as Bloc Québécois candidate",
+      "updated_at": "2026-10-29T12:04:09.319203+00:00",
+      "url": "https://www.tribuneindia.com/news/bloc-quebecois/wuc-vice-president-zumretay-arkin-to-contest-canadian-federal-by-election-as-bloc-quebecois-candidate"
     },
     "ace1caa9b05690db484aad5c": {
       "published_at": "2026-10-29T01:54:23+00:00",
@@ -23437,6 +23469,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:03:53.851026+00:00",
+  "last_cycle_at": "2026-10-29T12:04:09.321514+00:00",
   "schema_version": 1
 }
