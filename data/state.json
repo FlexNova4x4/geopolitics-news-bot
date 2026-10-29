@@ -2289,9 +2289,10 @@
     "16d823ff9ebc0a2adf615cb1": {
       "published_at": "2026-10-29T15:43:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12869,
       "title": "Early stroke signs require urgent action",
-      "updated_at": "2026-10-29T16:50:18.614559+00:00",
+      "updated_at": "2026-10-29T16:50:25.315280+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/early-stroke-signs-require-urgent-action/article71638843.ece"
     },
     "16e082522845912d7b69578b": {
@@ -13344,9 +13345,10 @@
     "88d8b8b3c60532831e6c5882": {
       "published_at": "2026-10-29T04:29:55+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12868,
       "title": "हिमाचल स्कूल शिक्षा बोर्ड: एसओएस परीक्षा के लिए बिना लेट फीस 30 नवंबर तक करें आवेदन",
-      "updated_at": "2026-10-29T16:50:18.614542+00:00",
+      "updated_at": "2026-10-29T16:50:21.312018+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/himachal-board-of-school-education-apply-for-sos-examinations-by-november-30-without-a-late-fee-2026-10-29"
     },
     "891ca25d788b7fb50edbd8cb": {
@@ -19088,9 +19090,10 @@
     "c1b909cea2548d29e2bc0bd0": {
       "published_at": "2026-10-29T15:43:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12870,
       "title": "Youth allegedly stabbed to death in Kozhikode",
-      "updated_at": "2026-10-29T16:50:18.614562+00:00",
+      "updated_at": "2026-10-29T16:50:29.043216+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/youth-allegedly-stabbed-to-death-in-kozhikode/article71639184.ece"
     },
     "c1e9e2855cfd10c9f7a71b0d": {
@@ -24932,9 +24935,10 @@
     "fb01f77c9005d4c0fe74f002": {
       "published_at": "2026-10-29T15:44:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12871,
       "title": "Serbia’s students demand resignations in police, judiciary as they prepare to take power",
-      "updated_at": "2026-10-29T16:50:18.614565+00:00",
+      "updated_at": "2026-10-29T16:50:32.816290+00:00",
       "url": "https://www.thehindu.com/news/international/serbias-students-demand-resignations-in-police-judiciary-as-they-prepare-to-take-power/article71641428.ece"
     },
     "fb1acb802321b5d0d0564a33": {
@@ -25512,6 +25516,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:50:18.633394+00:00",
+  "last_cycle_at": "2026-10-29T16:50:36.019851+00:00",
   "schema_version": 1
 }
