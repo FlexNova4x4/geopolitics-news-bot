@@ -5774,6 +5774,14 @@
       "updated_at": "2026-10-25T16:41:48.030689+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
     },
+    "4fa021c3deff66f40dea46a9": {
+      "published_at": "2026-10-29T02:02:02+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+      "updated_at": "2026-10-29T04:25:00.188609+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss"
+    },
     "4fb0b6aa4688db957ab7fb59": {
       "published_at": "2026-10-25T07:33:35+00:00",
       "source": "thehindu.com",
@@ -8753,6 +8761,14 @@
       "updated_at": "2026-10-25T05:06:02.358538+00:00",
       "url": "https://www.dawn.com/news/2039546/insurance-worker-booked-for-rape-in-sahiwal"
     },
+    "75bed4d167ac991ab62d79a6": {
+      "published_at": "2026-10-29T02:02:07+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Philippines: Rajnath Singh receives Guard of Honour at Mactan Expo, to participate in 13th ADMM-Plus meeting",
+      "updated_at": "2026-10-29T04:25:00.188614+00:00",
+      "url": "https://www.tribuneindia.com/news/admm-plus-meeting/philippines-rajnath-singh-receives-guard-of-honour-at-mactan-expo-to-participate-in-13th-admm-plus-meeting"
+    },
     "75de75b3b50ea354e59f708f": {
       "published_at": "2026-10-27T00:05:45+00:00",
       "source": "amarujala.com",
@@ -9437,6 +9453,14 @@
       "updated_at": "2026-10-29T04:22:54.231787+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/ed-attaches-land-buildings-of-mohammad-ali-jauhar-university-in-rampur-in-money-laundering-case/article71636106.ece"
     },
+    "7df9a848c8e7a027df5d2246": {
+      "published_at": "2026-10-29T02:07:27+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Over 4.5 lakh PUC challans issued in Delhi till Oct 27: Traffic police data",
+      "updated_at": "2026-10-29T04:25:00.188617+00:00",
+      "url": "https://www.hindustantimes.com/india-news/over-4-5-lakh-puc-challans-issued-in-delhi-till-oct-27-traffic-police-data-101793239648260.html"
+    },
     "7e180985ea4ffbf8cca02f61": {
       "published_at": "2026-10-27T07:24:11+00:00",
       "source": "thehindu.com",
@@ -9669,6 +9693,14 @@
       "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
       "updated_at": "2026-10-25T04:35:56.497876+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss"
+    },
+    "8144c2c691fe96d0306432aa": {
+      "published_at": "2026-10-29T02:01:09+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
+      "updated_at": "2026-10-29T04:25:00.188594+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss"
     },
     "8156fc1e4b308fb02f8cdaa3": {
       "published_at": "2026-10-24T18:53:08+00:00",
@@ -19711,6 +19743,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:24:53.855411+00:00",
+  "last_cycle_at": "2026-10-29T04:25:00.190914+00:00",
   "schema_version": 1
 }
