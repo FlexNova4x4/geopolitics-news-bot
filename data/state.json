@@ -2576,9 +2576,10 @@
     "21b0af32f1c61500df5c86c5": {
       "published_at": "2026-10-29T03:57:52+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12292,
       "title": "ऊना: मां चिंतपूर्णी के दरबार से करें लाइव दर्शन, घर बैठे लगाएं हाजिरी",
-      "updated_at": "2026-10-29T05:16:17.548856+00:00",
+      "updated_at": "2026-10-29T05:16:33.165331+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-maa-chintpurni-live-darshan-thursday-morning-2026-10-29"
     },
     "21cd084719bb8aec48eca57b": {
@@ -3419,9 +3420,10 @@
     "2dd4c25c0ca4ed08cd7bd714": {
       "published_at": "2026-10-29T03:52:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12290,
       "title": "Fresh Ukrainian drone strikes reported near Moscow, Russian forces destroy several UAV’s",
-      "updated_at": "2026-10-29T05:16:17.548846+00:00",
+      "updated_at": "2026-10-29T05:16:24.974507+00:00",
       "url": "https://www.tribuneindia.com/news/air-targets/fresh-ukrainian-drone-strikes-reported-near-moscow-russian-forces-destroy-several-uavs"
     },
     "2e460be7bd6b465144035a59": {
@@ -9276,9 +9278,10 @@
     "78f30d6e365782900ee827a8": {
       "published_at": "2026-10-29T03:48:34+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12289,
       "title": "करवा चौथ 2026: आज सार्वजनिक अवकाश, स्कूल-कॉलेज बंद; हिमाचल प्रदेश के किस शहर में कब होंगे चांद के दीदार?",
-      "updated_at": "2026-10-29T05:16:17.548825+00:00",
+      "updated_at": "2026-10-29T05:16:20.839251+00:00",
       "url": "https://www.amarujala.com/shimla/karwa-chauth-2026-moon-rise-time-today-live-karwa-chauth-ka-chand-kitne-baje-niklega-himachal-live-blog-2026-10-29"
     },
     "78fd986ba58c922cb055b92e": {
@@ -14804,9 +14807,10 @@
     "bc66f426805346f9fb7049aa": {
       "published_at": "2026-10-29T03:52:47+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12291,
       "title": "Teacher arrested for alleging worms found in food served at state sports meet",
-      "updated_at": "2026-10-29T05:16:17.548851+00:00",
+      "updated_at": "2026-10-29T05:16:29.073227+00:00",
       "url": "https://www.tribuneindia.com/news/india/teacher-arrested-for-alleging-worms-found-in-food-served-at-state-sports-meet"
     },
     "bcbbc07d5787bf31297cc34a": {
@@ -20319,6 +20323,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:16:17.550897+00:00",
+  "last_cycle_at": "2026-10-29T05:16:36.368140+00:00",
   "schema_version": 1
 }
