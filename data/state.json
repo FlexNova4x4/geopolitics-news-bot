@@ -6314,6 +6314,14 @@
       "updated_at": "2026-10-26T09:44:32.315940+00:00",
       "url": "https://www.hindustantimes.com/india-news/hyderabad-woman-found-dead-after-allegedly-threatening-suicide-during-video-call-with-colleague-over-marriage-101792995568744.html"
     },
+    "4002639b900185ff8153b1e5": {
+      "published_at": "2026-10-29T19:07:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "ACB, Food Safety and Drug Control teams inspect NIMS amid corruption allegations",
+      "updated_at": "2026-10-29T19:21:00.490090+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/acb-food-safety-and-drug-control-teams-inspect-nims-amid-corruption-allegations/article71642065.ece"
+    },
     "401186e0123678f277afecad": {
       "published_at": "2026-10-29T08:06:25+00:00",
       "source": "hindustantimes.com",
@@ -7420,6 +7428,14 @@
       "title": "Himachal Chief Minister Sukhvinder Singh Sukhu announces Rs 25 lakh for Valmiki temple",
       "updated_at": "2026-10-26T22:43:03.336952+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-chief-minister-sukhvinder-singh-sukhu-announces-25-lakh-for-valmiki-temple"
+    },
+    "4ab3a42f36bc06f4e6143fcc": {
+      "published_at": "2026-10-29T19:06:00+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+      "updated_at": "2026-10-29T19:21:00.490074+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss"
     },
     "4ac3febad06145c23237be4f": {
       "published_at": "2026-10-27T07:07:15+00:00",
@@ -9198,6 +9214,14 @@
       "title": "Opposition leaders, activists urge SEC to delay Bengal civic polls till SSR to enrol voters is complete",
       "updated_at": "2026-10-29T06:42:41.554845+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/opposition-leaders-activists-urge-sec-to-delay-bengal-civic-polls-till-ssr-to-enrol-voters-is-complete/article71636241.ece"
+    },
+    "5c918ee577b78a3fd21c65a5": {
+      "published_at": "2026-10-29T19:12:58+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Zelenskyy calls for stronger EU support as Antonio Costa condemns Russian strikes that kill 19 in Ukraine",
+      "updated_at": "2026-10-29T19:21:00.490094+00:00",
+      "url": "https://www.tribuneindia.com/news/antonio-costa/zelenskyy-calls-for-stronger-eu-support-as-antonio-costa-condemns-russian-strikes-that-kill-19-in-ukraine"
     },
     "5ca4797808088b5185fc2e14": {
       "published_at": "2026-10-26T05:01:53+00:00",
@@ -26443,6 +26467,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:20:54.395466+00:00",
+  "last_cycle_at": "2026-10-29T19:21:00.493452+00:00",
   "schema_version": 1
 }
