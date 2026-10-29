@@ -4077,9 +4077,10 @@
     "2dedc59da5f3f65dbcef7698": {
       "published_at": "2026-10-29T12:03:22+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12666,
       "title": "'No choice left but to look to increase fares': IndiGo CEO on 'very significant' rise in fuel bill",
-      "updated_at": "2026-10-29T12:32:37.256767+00:00",
+      "updated_at": "2026-10-29T12:32:41.001168+00:00",
       "url": "https://www.hindustantimes.com/india-news/no-choice-left-but-to-look-to-increase-fares-indigo-ceo-on-very-significant-rise-in-fuel-bill-101793275288653.html"
     },
     "2e460be7bd6b465144035a59": {
@@ -10268,9 +10269,10 @@
     "72f93d44e9ac614dbd33894c": {
       "published_at": "2026-10-29T12:09:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12667,
       "title": "Trio gets life sentence for cow slaughter in Gujarat, court cites Manusmriti on cow’s significance",
-      "updated_at": "2026-10-29T12:32:37.256784+00:00",
+      "updated_at": "2026-10-29T12:32:44.890805+00:00",
       "url": "https://www.thehindu.com/news/national/gujarat/trio-gets-life-sentence-for-cow-slaughter-in-gujarat-court-cites-manusmriti-on-cows-significance/article71640361.ece"
     },
     "72fc72d420f885eac465ac45": {
@@ -13775,9 +13777,10 @@
     "983eb20f57dd505f5c3b7291": {
       "published_at": "2026-10-29T12:10:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12668,
       "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
-      "updated_at": "2026-10-29T12:32:37.256789+00:00",
+      "updated_at": "2026-10-29T12:32:48.867238+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss"
     },
     "985c5e6e1837e71bfbb3f6c7": {
@@ -20022,9 +20025,10 @@
     "db731c0155a9b413f7663c71": {
       "published_at": "2026-10-29T12:12:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12669,
       "title": "Israel President Herzog calls for probe into claims of foreign influence in elections, cautions against targeting Arab voters",
-      "updated_at": "2026-10-29T12:32:37.256794+00:00",
+      "updated_at": "2026-10-29T12:32:52.775717+00:00",
       "url": "https://www.tribuneindia.com/news/arab-community/israel-president-herzog-calls-for-probe-into-claims-of-foreign-influence-in-elections-cautions-against-targeting-arab-voters"
     },
     "db905f1bece0c42057250746": {
@@ -23694,6 +23698,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:32:37.259346+00:00",
+  "last_cycle_at": "2026-10-29T12:32:55.978719+00:00",
   "schema_version": 1
 }
