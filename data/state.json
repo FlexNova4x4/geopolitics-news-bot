@@ -678,9 +678,10 @@
     "075b70db57b1a2fdb0127b78": {
       "published_at": "2026-10-29T09:59:44+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12586,
       "title": "Parts of Delhi under IMD red alert for rain, cloudy skies may delay moon sighting on Karwa Chauth",
-      "updated_at": "2026-10-29T11:01:58.312309+00:00",
+      "updated_at": "2026-10-29T11:02:09.651268+00:00",
       "url": "https://www.hindustantimes.com/india-news/karwa-chauth-moon-sighting-likely-to-be-impacted-as-delhi-ncr-braces-for-rainy-evening-imd-issues-alerts-101793266008427.html"
     },
     "076a2d76cbfcc3bedd4f0996": {
@@ -5164,9 +5165,10 @@
     "3d357982f2bcdfc7ca28fce1": {
       "published_at": "2026-10-29T09:58:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12585,
       "title": "Document change regime developed following NALSA ‘grossly discriminatory’ against ‘biological females’: PIL",
-      "updated_at": "2026-10-29T11:01:58.312298+00:00",
+      "updated_at": "2026-10-29T11:02:05.599449+00:00",
       "url": "https://www.thehindu.com/news/national/pil-challenges-indias-gender-identity-regime-post-nalsa-says-regime-discriminatory-to-biological-females/article71639485.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -20624,9 +20626,10 @@
     "ea7fa35046a9829208a9c991": {
       "published_at": "2026-10-29T10:00:00+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12587,
       "title": "If permission given for 100% ethanol-run vehicles, how will supply be made: SC asks Govt",
-      "updated_at": "2026-10-29T11:01:58.312314+00:00",
+      "updated_at": "2026-10-29T11:02:13.759230+00:00",
       "url": "https://www.tribuneindia.com/news/india/if-permission-given-for-100-ethanol-run-vehicles-how-will-supply-be-made-sc-asks-govt"
     },
     "eaa4aa3a4157a93450eabdae": {
@@ -22475,9 +22478,10 @@
     "fb4760b1539300f9bfbaf401": {
       "published_at": "2026-10-29T09:56:47+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12584,
       "title": "UK PM Burnham’s trip to India could take place soon: British envoy",
-      "updated_at": "2026-10-29T11:01:58.312277+00:00",
+      "updated_at": "2026-10-29T11:02:01.413414+00:00",
       "url": "https://www.tribuneindia.com/news/india/uk-pm-burnhams-trip-to-india-could-take-place-soon-british-envoy"
     },
     "fb840ea27a6a1e79ded57a7d": {
@@ -22965,6 +22969,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:01:58.314585+00:00",
+  "last_cycle_at": "2026-10-29T11:02:16.962134+00:00",
   "schema_version": 1
 }
