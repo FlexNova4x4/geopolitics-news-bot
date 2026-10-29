@@ -3957,6 +3957,14 @@
       "updated_at": "2026-10-25T05:39:02.448517+00:00",
       "url": "https://www.hindustantimes.com/india-news/sajjan-singh-yadav-appointed-chief-secretary-of-jammu-and-kashmir-101792864816023.html"
     },
+    "2f45ec71fb3078c2a2ec9639": {
+      "published_at": "2026-10-29T08:56:56+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Spanish rescuers search trains in hope of finding survivors of deadly crash that killed 68",
+      "updated_at": "2026-10-29T09:29:39.282508+00:00",
+      "url": "https://www.tribuneindia.com/news/world/spanish-rescuers-search-trains-in-hope-of-finding-survivors-of-deadly-crash-that-killed-68"
+    },
     "2f70aa3bb68fef0a7c7da092": {
       "published_at": "2026-10-26T08:22:12+00:00",
       "source": "thehindu.com",
@@ -12577,6 +12585,14 @@
       "updated_at": "2026-10-27T09:35:05.862516+00:00",
       "url": "https://www.tribuneindia.com/news/india/after-breaking-bad-prison-break-stalin-slams-tvk-govt-over-prison-escapes-in-tamil-nadu"
     },
+    "927aa9df16c839344f3ccc6e": {
+      "published_at": "2026-10-29T08:38:54+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "updated_at": "2026-10-29T09:29:39.282489+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+    },
     "928f636cc301831be6854c23": {
       "published_at": "2026-10-26T02:12:40+00:00",
       "source": "hindustantimes.com",
@@ -13170,6 +13186,14 @@
       "title": "Kenya announces 2nd Ebola death, close relative of first patient",
       "updated_at": "2026-10-27T12:16:10.433747+00:00",
       "url": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece"
+    },
+    "994d4115cdfa44c1933c70c7": {
+      "published_at": "2026-10-29T09:06:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Photos: Aftermath of deadly Cyclone Arnab in southern India",
+      "updated_at": "2026-10-29T09:29:39.282520+00:00",
+      "url": "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss"
     },
     "9954f94ee7db8817c8546444": {
       "published_at": "2026-10-25T19:59:44+00:00",
@@ -19355,6 +19379,14 @@
       "updated_at": "2026-10-29T08:44:58.402034+00:00",
       "url": "https://www.dawn.com/news/2040672/death-toll-from-thar-ambulance-fire-rises-to-nine-district-official"
     },
+    "dfc40f7163d06368a9b75e0b": {
+      "published_at": "2026-10-29T08:58:02+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Israel: Eisenkot says “forbidden to allow political actors to exploit situation” as Shin Bet probes alleged electoral fraud",
+      "updated_at": "2026-10-29T09:29:39.282515+00:00",
+      "url": "https://www.tribuneindia.com/news/bezalel-smotrich/israel-eisenkot-says-forbidden-to-allow-political-actors-to-exploit-situation-as-shin-bet-probes-alleged-electoral-fraud"
+    },
     "e02764594c758da8f812bc5f": {
       "published_at": "2026-10-25T15:05:01+00:00",
       "source": "thehindu.com",
@@ -22528,6 +22560,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:11:17.056285+00:00",
+  "last_cycle_at": "2026-10-29T09:29:39.285027+00:00",
   "schema_version": 1
 }
