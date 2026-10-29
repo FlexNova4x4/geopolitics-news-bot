@@ -2585,9 +2585,10 @@
     "1892bb7d9848dd5a9934938a": {
       "published_at": "2026-10-29T18:07:09+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12967,
       "title": "Pakistan 'overperformer' in innovation, climbs 4 ranks globally: report",
-      "updated_at": "2026-10-29T18:22:14.591405+00:00",
+      "updated_at": "2026-10-29T18:22:25.042623+00:00",
       "url": "https://www.dawn.com/news/2040752/pakistan-overperformer-in-innovation-climbs-4-ranks-globally-report"
     },
     "18b87447e1cb0e9c11d796f2": {
@@ -12490,9 +12491,10 @@
     "7d8a918c47040eda3543805f": {
       "published_at": "2026-10-29T18:06:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12966,
       "title": "36,351 police personnel deployed for ULB polls in Andhra Pradesh",
-      "updated_at": "2026-10-29T18:22:14.591400+00:00",
+      "updated_at": "2026-10-29T18:22:21.320451+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/36351-police-personnel-deployed-for-ulb-polls-in-andhra-pradesh/article71641135.ece"
     },
     "7de54dece08c3b44658a496b": {
@@ -19835,9 +19837,10 @@
     "c2fdb31c7e76de48df57a9bd": {
       "published_at": "2026-10-29T18:03:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12965,
       "title": "SC Collegium recommends 9 advocates for appointment as judges of J&K and Ladakh High Court",
-      "updated_at": "2026-10-29T18:22:14.591385+00:00",
+      "updated_at": "2026-10-29T18:22:17.374991+00:00",
       "url": "https://www.tribuneindia.com/news/india/sc-collegium-recommends-9-advocates-for-appointment-as-judges-of-jk-and-ladakh-high-court"
     },
     "c3005249b4364682c313af9c": {
@@ -26359,6 +26362,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:22:14.594261+00:00",
+  "last_cycle_at": "2026-10-29T18:22:28.246147+00:00",
   "schema_version": 1
 }
