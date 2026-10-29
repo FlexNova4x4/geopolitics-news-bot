@@ -3350,9 +3350,10 @@
     "240852db51392a025bfef118": {
       "published_at": "2026-10-29T13:44:39+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12761,
       "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "updated_at": "2026-10-29T14:33:52.000605+00:00",
+      "updated_at": "2026-10-29T14:33:59.338744+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
     },
     "240afeaffa9e14b8021e2505": {
@@ -3591,9 +3592,10 @@
     "271df858ec1ceb98f568289f": {
       "published_at": "2026-10-29T13:45:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12763,
       "title": "Sachivayalam staff fear rockslides as office relocation requests remain unaddressed",
-      "updated_at": "2026-10-29T14:33:52.000612+00:00",
+      "updated_at": "2026-10-29T14:34:07.904990+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/sachivayalam-staff-fear-rockslides-as-office-relocation-requests-remain-unaddressed/article71640461.ece"
     },
     "27360f96f4c2c843f2bac350": {
@@ -5037,9 +5039,10 @@
     "380bc9b40584572e95f816f0": {
       "published_at": "2026-10-29T13:44:42+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12762,
       "title": "Damascus, Amman contradict each other on attack that killed civilians",
-      "updated_at": "2026-10-29T14:33:52.000609+00:00",
+      "updated_at": "2026-10-29T14:34:03.297840+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss"
     },
     "38213d9ebfee383baee7daa4": {
@@ -8398,9 +8401,10 @@
     "5b7a59c94ec12a9ef44ebd3f": {
       "published_at": "2026-10-29T13:43:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12760,
       "title": "Congress joined hands with anti-nationals to launch protests against BJP at Centre, alleges Chalavadi Narayanaswamy",
-      "updated_at": "2026-10-29T14:33:52.000590+00:00",
+      "updated_at": "2026-10-29T14:33:55.416646+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/congress-joined-hands-with-anti-nationals-to-launch-protests-against-bjp-at-centre-alleges-chalavadi-narayanaswamy/article71640324.ece"
     },
     "5b850988cff3ad097502ce95": {
@@ -24540,6 +24544,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:33:52.003318+00:00",
+  "last_cycle_at": "2026-10-29T14:34:11.108322+00:00",
   "schema_version": 1
 }
