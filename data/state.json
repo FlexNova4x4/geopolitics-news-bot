@@ -5426,9 +5426,10 @@
     "4968a330f3beb13d4eb7b52c": {
       "published_at": "2026-10-29T03:22:48+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12279,
       "title": "‘Diwali gift’: Centre approves 3% DA hike for 4.8 million government employees",
-      "updated_at": "2026-10-29T05:14:52.491831+00:00",
+      "updated_at": "2026-10-29T05:15:03.902000+00:00",
       "url": "https://www.hindustantimes.com/india-news/diwali-gift-centre-approves-3-per-cent-da-hike-for-central-government-employees-101793235149209.html"
     },
     "4985e0edffa0db0e4d2af048": {
@@ -12342,9 +12343,10 @@
     "9fc60c8225ab39781b911588": {
       "published_at": "2026-10-29T03:22:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12278,
       "title": "U.S. warns allies to prepare for possible Iran strikes, retaliation after elections, say sources",
-      "updated_at": "2026-10-29T05:14:52.491826+00:00",
+      "updated_at": "2026-10-29T05:14:59.964809+00:00",
       "url": "https://www.thehindu.com/news/international/us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-say-sources/article71638851.ece"
     },
     "9fd3f2cec6c53911131651b3": {
@@ -14112,9 +14114,10 @@
     "b68a6c393c77a7b28127fbc0": {
       "published_at": "2026-10-29T03:24:46+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12280,
       "title": "Editorial: Empowered local bodies, not a closed debate, is the answer to the provinces question",
-      "updated_at": "2026-10-29T05:14:52.491838+00:00",
+      "updated_at": "2026-10-29T05:15:07.848702+00:00",
       "url": "https://www.dawn.com/news/2040591/editorial-empowered-local-bodies-not-a-closed-debate-is-the-answer-to-the-provinces-question"
     },
     "b6afaa754d9dc95c5397ceae": {
@@ -19327,9 +19330,10 @@
     "f69acd8f27cee6b54c8870d9": {
       "published_at": "2026-10-29T03:21:35+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12277,
       "title": "SC okays fresh probe into FIA role in 2023 Greek boat tragedy",
-      "updated_at": "2026-10-29T05:14:52.491805+00:00",
+      "updated_at": "2026-10-29T05:14:55.871155+00:00",
       "url": "https://www.dawn.com/news/2040653/sc-okays-fresh-probe-into-fia-role-in-2023-greek-boat-tragedy"
     },
     "f6bbfbf52529377188a38e81": {
@@ -20211,6 +20215,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:14:52.493831+00:00",
+  "last_cycle_at": "2026-10-29T05:15:11.051644+00:00",
   "schema_version": 1
 }
