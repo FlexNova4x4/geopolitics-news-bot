@@ -11428,9 +11428,10 @@
     "8c850c5c2efc6835fa3a8fd5": {
       "published_at": "2026-10-29T06:22:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12393,
       "title": "Indian inventions, hospitality, to thousands of years of culture: Washington State mayors share their experiences from Indian visit",
-      "updated_at": "2026-10-29T06:41:59.014509+00:00",
+      "updated_at": "2026-10-29T06:42:07.527720+00:00",
       "url": "https://www.tribuneindia.com/news/compassion/indian-inventions-hospitality-to-thousands-of-years-of-culture-washington-state-mayors-share-their-experiences-from-indian-visit"
     },
     "8cbb77645c3f2ffec534469e": {
@@ -12794,9 +12795,10 @@
     "9cd9e31e8973325f2819ff3a": {
       "published_at": "2026-10-29T06:23:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12394,
       "title": "Elephant calf falls into abandoned well in Keralam’s Thrissur; rescue operation underway",
-      "updated_at": "2026-10-29T06:41:59.014514+00:00",
+      "updated_at": "2026-10-29T06:42:11.454273+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/elephant-calf-falls-into-abandoned-well-in-keralams-thrissur-rescue-operation-underway/article71639259.ece"
     },
     "9ce2be0619732bfb37a0d55d": {
@@ -18250,9 +18252,10 @@
     "de7efc17cfe351fb464a6529": {
       "published_at": "2026-10-29T06:24:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12395,
       "title": "Why MLC results take more than 24 hours when Lok Sabha, Assembly counting ends in a day",
-      "updated_at": "2026-10-29T06:41:59.014517+00:00",
+      "updated_at": "2026-10-29T06:42:15.644565+00:00",
       "url": "https://www.tribuneindia.com/news/india/why-mlc-results-take-more-than-24-hours-when-lok-sabha-assembly-counting-ends-in-a-day"
     },
     "deb7c69e3b7118edcd4cce1a": {
@@ -19786,9 +19789,10 @@
     "f1071bc78fa986682305d653": {
       "published_at": "2026-10-29T06:22:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12392,
       "title": "Cockroach Janta Party backs INDIA bloc’s November 1 rally",
-      "updated_at": "2026-10-29T06:41:59.014495+00:00",
+      "updated_at": "2026-10-29T06:42:03.609199+00:00",
       "url": "https://www.thehindu.com/news/national/cockroach-janta-party-backs-india-blocs-november-1-rally/article71636383.ece"
     },
     "f10a497db187204c7d96bb91": {
@@ -21246,6 +21250,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:41:59.017034+00:00",
+  "last_cycle_at": "2026-10-29T06:42:18.847449+00:00",
   "schema_version": 1
 }
