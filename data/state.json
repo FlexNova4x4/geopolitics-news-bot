@@ -5318,9 +5318,10 @@
     "45e894981d5b6c3c1e277812": {
       "published_at": "2026-10-29T05:19:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12337,
       "title": "नारेबाजी मामले की निष्पक्ष जांच की जाए : कार्तिक",
-      "updated_at": "2026-10-29T05:41:30.211431+00:00",
+      "updated_at": "2026-10-29T05:41:37.917172+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/there-should-be-an-impartial-investigation-into-the-sloganeering-incident-kartik-kullu-news-c-89-1-ssml1012-190505-2026-10-28"
     },
     "464744a6dd62a2b9b2060442": {
@@ -6091,9 +6092,10 @@
     "4ff33d58faee745a027fab4b": {
       "published_at": "2026-10-29T05:19:24+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12338,
       "title": "Fake MoFA official arrested in Gujrat",
-      "updated_at": "2026-10-29T05:41:30.211436+00:00",
+      "updated_at": "2026-10-29T05:41:41.992488+00:00",
       "url": "https://www.dawn.com/news/2040599/fake-mofa-official-arrested-in-gujrat"
     },
     "5006d2bc5bf44c8c3875e444": {
@@ -6906,9 +6908,10 @@
     "5a03f5a7d7cfb256e17453fb": {
       "published_at": "2026-10-29T05:18:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12336,
       "title": "Kullu News: किराये पर विवाद, 300 व्यापारियों ने बंद की दुकानें, डीसी के हस्तक्षेप के बाद माने",
-      "updated_at": "2026-10-29T05:41:30.211409+00:00",
+      "updated_at": "2026-10-29T05:41:33.822938+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/300-traders-shut-their-shops-over-rent-dispute-but-relented-after-dc-intervened-kullu-news-c-89-1-klu1019-190513-2026-10-28"
     },
     "5a0ffa74be8faa5c9894b408": {
@@ -12423,9 +12426,10 @@
     "9c53a59f314deab49c1e4023": {
       "published_at": "2026-10-29T05:19:26+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12339,
       "title": "North India getting hotter, drier, South wetter: A study of 70-year climate trends uncovers worrying climate shift",
-      "updated_at": "2026-10-29T05:41:30.211440+00:00",
+      "updated_at": "2026-10-29T05:41:46.153364+00:00",
       "url": "https://www.hindustantimes.com/india-news/north-india-getting-hotter-drier-south-wetter-a-study-of-70-year-climate-trends-uncovers-worrying-climate-shift-101793248500727.html"
     },
     "9c5d5b2b0e3dc6fa849b716c": {
@@ -20742,6 +20746,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:41:30.213824+00:00",
+  "last_cycle_at": "2026-10-29T05:41:49.356260+00:00",
   "schema_version": 1
 }
