@@ -2429,6 +2429,14 @@
       "updated_at": "2026-10-27T07:04:05.497154+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-relations/pm-modi-holds-delegation-level-talks-with-liechtensteins-hereditary-prince-alois"
     },
+    "1bfcbf7f109b7d77429fd0f4": {
+      "published_at": "2026-10-29T10:21:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
+      "updated_at": "2026-10-29T11:31:10.074583+00:00",
+      "url": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece"
+    },
     "1bffa55f9b7c830af9c53316": {
       "published_at": "2026-10-29T05:02:39+00:00",
       "source": "amarujala.com",
@@ -4630,6 +4638,14 @@
       "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
       "updated_at": "2026-10-25T06:34:53.310221+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+    },
+    "35f84cb7209357ed4c65c7f0": {
+      "published_at": "2026-10-29T10:22:10+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Trump demands Alaska candidates be removed over alleged ballot scheme",
+      "updated_at": "2026-10-29T11:31:10.074598+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme?traffic_source=rss"
     },
     "36192417e74607f5fda1b54d": {
       "published_at": "2026-10-29T06:43:50+00:00",
@@ -8603,6 +8619,14 @@
       "title": "SC pulls up Rajasthan over Jojari river pollution, warns of CBI probe",
       "updated_at": "2026-10-27T00:10:47.892133+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece"
+    },
+    "637df43a6969bd99c445a50e": {
+      "published_at": "2026-10-29T10:27:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Activists write open letter to Telangana CM, point at issues in govt hospitals",
+      "updated_at": "2026-10-29T11:31:10.074604+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/activists-write-open-letter-to-telangana-cm-point-at-issues-in-govt-hospitals/article71639866.ece"
     },
     "6383d84b21be795fc24ed040": {
       "published_at": "2026-10-26T06:40:31+00:00",
@@ -15127,6 +15151,14 @@
       "title": "HYDRAA removes seven borewells near Fox Sagar",
       "updated_at": "2026-10-27T16:42:40.928271+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/hydraa-removes-seven-borewells-near-fox-sagar/article71632764.ece"
+    },
+    "abfaf115765aed32da4d2772": {
+      "published_at": "2026-10-29T10:27:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Kazakhstan’s President Tokayev outlines major construction programme and economic reforms in State of the Nation address",
+      "updated_at": "2026-10-29T11:31:10.074601+00:00",
+      "url": "https://www.tribuneindia.com/news/economic-reform/kazakhstans-president-tokayev-outlines-major-construction-programme-and-economic-reforms-in-state-of-the-nation-address"
     },
     "ac3ce2a68e95ddc507bda45e": {
       "published_at": "2026-10-26T10:41:02+00:00",
@@ -23077,6 +23109,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:31:01.463276+00:00",
+  "last_cycle_at": "2026-10-29T11:31:10.077012+00:00",
   "schema_version": 1
 }
