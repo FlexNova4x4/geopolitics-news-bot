@@ -7431,9 +7431,10 @@
     "54010e89ed3e735dab04e829": {
       "published_at": "2026-10-29T12:56:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12691,
       "title": "SC calls for mandatory compensation to digital fraud victims in case of banks' due diligence",
-      "updated_at": "2026-10-29T13:03:45.666678+00:00",
+      "updated_at": "2026-10-29T13:03:57.479141+00:00",
       "url": "https://www.thehindu.com/news/national/sc-calls-for-mandatory-compensation-to-digital-fraud-victims-in-case-of-banks-due-diligence/article71640230.ece"
     },
     "541dfa9668483852d398f92c": {
@@ -9199,9 +9200,10 @@
     "672e5b7d54da476a223c90cd": {
       "published_at": "2026-10-29T12:37:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12689,
       "title": "Supreme Court refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’",
-      "updated_at": "2026-10-29T13:03:45.666658+00:00",
+      "updated_at": "2026-10-29T13:03:49.553326+00:00",
       "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-order-full-public-disclosure-of-ultimate-beneficiaries-of-aifs-fpis-without-legal-framework/article71639833.ece"
     },
     "678653f20fa6e9d1577ed4a2": {
@@ -9665,9 +9667,10 @@
     "6c2242e4c7771a065afcc3ff": {
       "published_at": "2026-10-29T12:42:11+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12690,
       "title": "Afghan farmers pushed to opium farming to make a living",
-      "updated_at": "2026-10-29T13:03:45.666674+00:00",
+      "updated_at": "2026-10-29T13:03:53.489334+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/title-afghan-farmers-pushed-to-opium-farming-to-make-a-living?traffic_source=rss"
     },
     "6c3b09553835ab9a88c857d3": {
@@ -23893,6 +23896,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:03:45.669267+00:00",
+  "last_cycle_at": "2026-10-29T13:04:00.682269+00:00",
   "schema_version": 1
 }
