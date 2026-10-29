@@ -39,9 +39,10 @@
     "003d3ea116091a9e14b9ed4b": {
       "published_at": "2026-10-29T05:02:43+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12322,
       "title": "सोलन में गड़गड़ाहट के साथ सुबह से बारिश, 3 से 4 डिग्री गिरा तापमान, बढ़ी ठंड",
-      "updated_at": "2026-10-29T05:20:00.312481+00:00",
+      "updated_at": "2026-10-29T05:20:08.073866+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-rain-thunderstorm-temperature-drop-cold-weather-2026-10-29"
     },
     "00625d8e81bf9d15a1ebed1c": {
@@ -2179,9 +2180,10 @@
     "1bffa55f9b7c830af9c53316": {
       "published_at": "2026-10-29T05:02:39+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12321,
       "title": "सोलन में एनएच-5 पर बाइक, कार और कैंटर ट्रक की जोरदार टक्कर, तीनों वाहन क्षतिग्रस्त",
-      "updated_at": "2026-10-29T05:20:00.312465+00:00",
+      "updated_at": "2026-10-29T05:20:03.885597+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-nh-5-bike-car-canter-truck-accident-2026-10-29"
     },
     "1c11618bd298491d4737b23e": {
@@ -3651,9 +3653,10 @@
     "2fe9e6d5174022661903ff6a": {
       "published_at": "2026-10-29T05:03:52+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12323,
       "title": "Inquiry holds school owner responsible for roof collapse that killed 30 students in Peshawar",
-      "updated_at": "2026-10-29T05:20:00.312485+00:00",
+      "updated_at": "2026-10-29T05:20:12.179179+00:00",
       "url": "https://www.dawn.com/news/2040661/inquiry-holds-school-owner-responsible-for-roof-collapse-that-killed-30-students-in-peshawar"
     },
     "2ff4a1771e5181ce5d42e451": {
@@ -14147,9 +14150,10 @@
     "b39e3ee3b8a38d6aa3df5832": {
       "published_at": "2026-10-29T05:08:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12324,
       "title": "बजंतरियों का मानदेय बढ़ाना संस्कृति संरक्षण की दिशा में अहम कदम : मेहर",
-      "updated_at": "2026-10-29T05:20:00.312490+00:00",
+      "updated_at": "2026-10-29T05:20:16.323871+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/increasing-the-honorarium-for-traditional-musicians-is-a-significant-step-towards-cultural-preservation-meher-kullu-news-c-89-1-klu1002-190485-2026-10-28"
     },
     "b3a60fa3671009c5c8257212": {
@@ -20607,6 +20611,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:20:00.314694+00:00",
+  "last_cycle_at": "2026-10-29T05:20:19.526726+00:00",
   "schema_version": 1
 }
