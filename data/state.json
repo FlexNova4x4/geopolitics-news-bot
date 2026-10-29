@@ -1704,9 +1704,10 @@
     "1698c30342915895b8b905c5": {
       "published_at": "2026-10-28T19:26:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12105,
       "title": "Stalin urges Murmu to initiate action against Gyanesh Kumar",
-      "updated_at": "2026-10-29T03:45:04.361221+00:00",
+      "updated_at": "2026-10-29T03:45:07.991362+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-urges-murmu-to-initiate-action-against-gyanesh-kumar/article71637691.ece"
     },
     "16abaaedfb08445d958b73d0": {
@@ -4201,9 +4202,10 @@
     "3d2ab5c6a7382d36a96c1238": {
       "published_at": "2026-10-28T19:30:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12107,
       "title": "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic",
-      "updated_at": "2026-10-29T03:45:04.361239+00:00",
+      "updated_at": "2026-10-29T03:45:16.119737+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/furniture-thrown-proceedings-disrupted-as-lawyers-protest-against-hc-judge-turns-chaotic/article71636515.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -13491,9 +13493,10 @@
     "bb1368790e2e8b136025c26b": {
       "published_at": "2026-10-28T19:27:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12106,
       "title": "Terror financing, cross-border terrorism need to be held accountable: MEA on FATF meeting",
-      "updated_at": "2026-10-29T03:45:04.361235+00:00",
+      "updated_at": "2026-10-29T03:45:11.925472+00:00",
       "url": "https://www.tribuneindia.com/news/cross-border-terrorism/terror-financing-cross-border-terrorism-need-to-be-held-accountable-mea-on-fatf-meeting"
     },
     "bb4d4d8a67dda909f62d6bf2": {
@@ -15396,9 +15399,10 @@
     "d5f5622943cb63d3a802d1dd": {
       "published_at": "2026-10-28T19:30:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12108,
       "title": "T.N. govt. declares holiday on November 9 in view of Deepavali",
-      "updated_at": "2026-10-29T03:45:04.361243+00:00",
+      "updated_at": "2026-10-29T03:45:20.209540+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-declares-holiday-on-november-9-in-view-of-deepavali/article71635636.ece"
     },
     "d60f937a8e7747578ea5234e": {
@@ -18663,6 +18667,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:45:04.363205+00:00",
+  "last_cycle_at": "2026-10-29T03:45:23.412129+00:00",
   "schema_version": 1
 }
