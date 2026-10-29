@@ -6962,9 +6962,10 @@
     "590fe2cc56a160dd807228f7": {
       "published_at": "2026-10-29T06:35:57+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12407,
       "title": "शिमला में छाए बादल, बारिश और गरज-चमक के आसार; मौसम हुआ ठंडा",
-      "updated_at": "2026-10-29T06:43:22.945499+00:00",
+      "updated_at": "2026-10-29T06:43:38.997215+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-shimla-weather-update-cloudy-sky-rain-forecast-2026-10-29"
     },
     "59128c38863319624d59ae54": {
@@ -8039,9 +8040,10 @@
     "65619932b70f8522b506bf00": {
       "published_at": "2026-10-29T06:35:39+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12406,
       "title": "Una News: 16 स्कूलों में विद्यार्थियों को बताए बाल अधिकार",
-      "updated_at": "2026-10-29T06:43:22.945496+00:00",
+      "updated_at": "2026-10-29T06:43:34.917879+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/students-in-16-schools-were-informed-about-child-rights-una-news-c-93-1-ssml1048-211713-2026-10-29"
     },
     "657a654ab92ecbef4f3fc832": {
@@ -17998,9 +18000,10 @@
     "d9c5b389417fc3811885304b": {
       "published_at": "2026-10-29T06:34:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12404,
       "title": "Una News: एक घंटा 41 मिनट देरी से अंब अंदौरा पहुंची रायपुर-हरियाणा ट्रेन",
-      "updated_at": "2026-10-29T06:43:22.945476+00:00",
+      "updated_at": "2026-10-29T06:43:26.700184+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/raipur-haryana-train-arrived-at-amb-andaura-1-hour-and-41-minutes-late-una-news-c-93-1-una1025-211731-2026-10-29"
     },
     "da1b46e682616586de2a5f9b": {
@@ -19210,9 +19213,10 @@
     "ea7e99f3988353b5438fd35e": {
       "published_at": "2026-10-29T06:35:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12405,
       "title": "Sirmour News: मातृ-शिशु कल्याण केंद्र में 52 बच्चों का हुआ टीकाकरण",
-      "updated_at": "2026-10-29T06:43:22.945493+00:00",
+      "updated_at": "2026-10-29T06:43:30.809420+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/52-children-vaccination-nahan-news-c-177-1-nhn1002-192747-2026-10-28"
     },
     "eaa4aa3a4157a93450eabdae": {
@@ -21354,6 +21358,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:43:22.947959+00:00",
+  "last_cycle_at": "2026-10-29T06:43:42.199967+00:00",
   "schema_version": 1
 }
