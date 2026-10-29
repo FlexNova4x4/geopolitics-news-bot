@@ -2636,6 +2636,14 @@
       "updated_at": "2026-10-26T04:53:00.148457+00:00",
       "url": "https://www.tribuneindia.com/news/india/centre-panel-defers-forest-land-diversion-for-subsidiary-intelligence-bureau-complex-in-sikkim-seeks-alternatives"
     },
+    "1c7efc159eac60937408f701": {
+      "published_at": "2026-10-29T14:32:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "MPSC examination: Maharashtra government appoints Commission to inquire into malpractices, paper leaks",
+      "updated_at": "2026-10-29T15:24:18.979002+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/mpsc-examination-maharashtra-government-appoints-commission-to-inquire-into-malpractices-paper-leaks/article71641272.ece"
+    },
     "1c8b6c85e08f31432c7b90e0": {
       "published_at": "2026-10-29T13:37:09+00:00",
       "source": "thehindu.com",
@@ -14170,6 +14178,14 @@
       "updated_at": "2026-10-29T11:02:35.278563+00:00",
       "url": "https://www.hindustantimes.com/india-news/two-madhya-pradesh-sisters-die-by-suicide-with-four-children-within-hours-police-101793268215054.html"
     },
+    "95c6b6a19cca9a64fc6e8c6a": {
+      "published_at": "2026-10-29T14:32:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rare photographs of Gandhi’s life displayed at exhibition",
+      "updated_at": "2026-10-29T15:24:18.978989+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/rare-photographs-of-gandhi-displayed-at-exhibition/article71640572.ece"
+    },
     "95f143944ae592eec44b7020": {
       "published_at": "2026-10-26T08:23:02+00:00",
       "source": "thehindu.com",
@@ -15938,6 +15954,14 @@
       "title": "Netherlands makes U-turn over Eurovision return",
       "updated_at": "2026-10-27T12:17:25.630653+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss"
+    },
+    "a8b71cbbe6a447431364b640": {
+      "published_at": "2026-10-29T14:36:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israel piles pressure on Arab parties as Netanyahu seeks government",
+      "updated_at": "2026-10-29T15:24:18.979010+00:00",
+      "url": "https://www.thehindu.com/news/international/israel-piles-pressure-on-arab-parties-as-netanyahu-seeks-government/article71641215.ece"
     },
     "a8c2acd357780544054ea091": {
       "published_at": "2026-10-25T14:42:36+00:00",
@@ -21982,6 +22006,14 @@
       "updated_at": "2026-10-29T05:17:22.292593+00:00",
       "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-corporator-candidates-shifts-focus-to-relief-works-from-electioneering-in-vizag/article71635899.ece"
     },
+    "e67929942ecd8dcb93256170": {
+      "published_at": "2026-10-29T14:33:15+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cancellation of trains between Palakkad Town, Junction",
+      "updated_at": "2026-10-29T15:24:18.979007+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/cancellation-of-trains-between-palakkad-town-junction/article71640280.ece"
+    },
     "e696808a37134cd98617d6eb": {
       "published_at": "2026-10-27T06:50:53+00:00",
       "source": "aljazeera.com",
@@ -24868,6 +24900,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:23:57.959538+00:00",
+  "last_cycle_at": "2026-10-29T15:24:18.981586+00:00",
   "schema_version": 1
 }
