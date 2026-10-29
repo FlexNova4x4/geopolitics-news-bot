@@ -4427,9 +4427,10 @@
     "357e83d5d39c87578101f7ab": {
       "published_at": "2026-10-29T08:24:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12525,
       "title": "Telangana IAS transfers Oct 2026 | Govt reshuffles 12 officers, orders key administrative changes",
-      "updated_at": "2026-10-29T09:09:39.543486+00:00",
+      "updated_at": "2026-10-29T09:09:46.945814+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-ias-transfers-oct-2026-govt-reshuffles-12-officers-orders-key-administrative-changes/article71634753.ece"
     },
     "3597c9b454d48930ebf04fe4": {
@@ -10933,9 +10934,10 @@
     "7fecbf78e5dbe7605da4da03": {
       "published_at": "2026-10-29T08:31:09+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12526,
       "title": "European Union backtracks on Canada becoming ‘associate member’",
-      "updated_at": "2026-10-29T09:09:39.543491+00:00",
+      "updated_at": "2026-10-29T09:09:50.845270+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/european-union-backtracks-on-canada-becoming-associate-2?traffic_source=rss"
     },
     "800c3d267e92ae5c036a2b46": {
@@ -18071,9 +18073,10 @@
     "d2c1e21cbe5f74d3290520f4": {
       "published_at": "2026-10-29T08:23:31+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12524,
       "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "updated_at": "2026-10-29T09:09:39.543471+00:00",
+      "updated_at": "2026-10-29T09:09:43.001078+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
     },
     "d2c719fadd1a83835da69e09": {
@@ -21163,9 +21166,10 @@
     "f3a3f73b49c115ad3975fd7a": {
       "published_at": "2026-10-29T08:32:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12527,
       "title": "Israel Polls: Smotrich, Ben Gvir call for interrogation of Arab party heads after investigation ordered into allegations of foreign interference",
-      "updated_at": "2026-10-29T09:09:39.543494+00:00",
+      "updated_at": "2026-10-29T09:09:55.016865+00:00",
       "url": "https://www.tribuneindia.com/news/arab-parties/israel-polls-smotrich-ben-gvir-call-for-interrogation-of-arab-party-heads-after-investigation-ordered-into-allegations-of-foreign-interference"
     },
     "f3a911fe11b8a89a8a213046": {
@@ -22425,6 +22429,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:09:39.545884+00:00",
+  "last_cycle_at": "2026-10-29T09:09:58.219967+00:00",
   "schema_version": 1
 }
