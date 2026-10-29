@@ -621,6 +621,14 @@
       "updated_at": "2026-10-27T02:40:36.390394+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-records-season-low-16-2-c-for-second-day-as-air-quality-worsens-101793065318810.html"
     },
+    "05db01238212369be2951fd8": {
+      "published_at": "2026-10-29T06:10:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Rampur Bushahar News: ठियोग में 9 ग्राम चिट्टे के साथ दो युवक गिरफ्तार",
+      "updated_at": "2026-10-29T18:19:50.831829+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/rampur-bushahar/accused-arrested-with-chitta-rampur-hp-news-c-178-1-ssml1034-173614-2026-10-29"
+    },
     "05db79eaf451f1ada32d431a": {
       "published_at": "2026-10-27T13:37:14+00:00",
       "source": "publish.tribuneindia.com",
@@ -2204,6 +2212,14 @@
       "title": "Stage set for counting of votes in Council polls today",
       "updated_at": "2026-10-25T15:17:09.440662+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/stage-set-for-counting-of-votes-in-council-polls-today/article71623614.ece"
+    },
+    "16329d366d52a96dfa6a679b": {
+      "published_at": "2026-10-29T05:50:33+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Bilaspur News: तीन दिन में खाते से उड़ाए 2.62 लाख रुपये, महज 106 रुपये बचे",
+      "updated_at": "2026-10-29T18:19:50.831822+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/rs-262-lakh-siphoned-off-from-account-in-three-days-only-rs-106-remains-bilaspur-news-c-92-1-bls1001-170916-2026-10-29"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
       "published_at": "2026-10-24T21:39:29+00:00",
@@ -8488,6 +8504,14 @@
       "title": "Assam Police forms SIT to probe killing of five over Guwahati hotel lease dispute",
       "updated_at": "2026-10-27T16:10:53.809144+00:00",
       "url": "https://www.hindustantimes.com/india-news/assam-police-forms-sit-to-probe-killing-of-five-over-guwahati-hotel-lease-dispute-101793114015863.html"
+    },
+    "5797c357746001ecd95646c2": {
+      "published_at": "2026-10-29T05:48:16+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kullu News: सड़क सुधार और बाढ़ नियंत्रण पर खर्च होंगे 6.57 करोड़",
+      "updated_at": "2026-10-29T18:19:50.831804+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kullu/657-crore-will-be-spent-on-road-improvements-and-flood-control-kullu-news-c-89-1-ssml1014-190566-2026-10-29"
     },
     "57b5c5db53960f34288a7a78": {
       "published_at": "2026-10-29T14:31:37+00:00",
@@ -24601,6 +24625,14 @@
       "updated_at": "2026-10-25T05:05:36.678286+00:00",
       "url": "https://www.dawn.com/news/2039659/factors-behind-pakistans-push-for-joint-production-in-defence-pacts"
     },
+    "f33a3a8afb30aa363ad24f0a": {
+      "published_at": "2026-10-29T06:10:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Rampur Bushahar News: बरोट गांव में भालू ने गोशाला का दरवाजा तोड़ गाय को किया घायल",
+      "updated_at": "2026-10-29T18:19:50.831826+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/rampur-bushahar/fear-of-bear-in-rampur-rampur-hp-news-c-178-1-ram1006-173655-2026-10-29"
+    },
     "f33aa78f7d5929e790907685": {
       "published_at": "2026-10-25T20:46:44+00:00",
       "source": "publish.tribuneindia.com",
@@ -26155,6 +26187,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:51:11.963372+00:00",
+  "last_cycle_at": "2026-10-29T18:19:50.835230+00:00",
   "schema_version": 1
 }
