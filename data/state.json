@@ -12814,9 +12814,10 @@
     "8c10c465d03feec4eed0b2b9": {
       "published_at": "2026-10-29T01:16:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12695,
       "title": "अमर उजाला पर देखें हिमाचल प्रदेश की हर बड़ी खबर",
-      "updated_at": "2026-10-29T13:31:26.141638+00:00",
+      "updated_at": "2026-10-29T13:31:42.171333+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/watch-every-big-news-of-himachal-pradesh-on-amar-ujala-2026-10-29"
     },
     "8c3378006d9edc71c4203658": {
@@ -15590,9 +15591,10 @@
     "aaecaf968004d7eb01db94d5": {
       "published_at": "2026-10-29T01:01:18+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12692,
       "title": "सोलन: अर्की में शुक्रवार से होगी राज्य स्तरीय प्रतियोगिता, पहुंचने लगे खिलाड़ी",
-      "updated_at": "2026-10-29T13:31:26.141616+00:00",
+      "updated_at": "2026-10-29T13:31:29.780917+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-state-level-competition-to-begin-in-arki-on-friday-players-start-arriving-2026-10-29"
     },
     "aaeed6489b883934ccb7d76d": {
@@ -20688,9 +20690,10 @@
     "e18e8b070f316af23ac0f5b0": {
       "published_at": "2026-10-29T01:06:01+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12694,
       "title": "हिमाचल: सीबीएसई से संबद्ध होंगे पांच और सरकारी स्कूल, 1371 विद्यार्थियों को मिलेगा लाभ",
-      "updated_at": "2026-10-29T13:31:26.141635+00:00",
+      "updated_at": "2026-10-29T13:31:38.087599+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-five-more-govt-schools-to-be-affiliated-with-cbse-1-371-students-to-benefit-2026-10-29"
     },
     "e19bd8c686545cca7af9f3df": {
@@ -21271,9 +21274,10 @@
     "e77af0b7fb711361340d64a7": {
       "published_at": "2026-10-29T01:03:32+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12693,
       "title": "शिमला: करवाचौथ पर कृष्णानगर में हुई थाली घुमाने की रस्म",
-      "updated_at": "2026-10-29T13:31:26.141631+00:00",
+      "updated_at": "2026-10-29T13:31:33.924473+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-the-ritual-of-rotating-the-plate-took-place-in-krishnanagar-on-karva-chauth-2026-10-29"
     },
     "e799789cdfe266758ad340fd": {
@@ -23928,6 +23932,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:31:26.144379+00:00",
+  "last_cycle_at": "2026-10-29T13:31:45.374546+00:00",
   "schema_version": 1
 }
