@@ -1917,6 +1917,14 @@
       "updated_at": "2026-10-26T02:53:57.276771+00:00",
       "url": "https://www.dawn.com/news/2039912/pti-rejects-reports-of-shake-up-in-partys-decision-making-structure"
     },
+    "16bbb17ff018156e262d5d94": {
+      "published_at": "2026-10-29T06:45:08+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Una News: रक्षा पेंशनभोगी 30 नवंबर तक जमा करवाएं जीवन प्रमाणपत्र",
+      "updated_at": "2026-10-29T06:44:54.082384+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/una/defence-pensioners-should-submit-their-life-certificate-by-30-november-una-news-c-93-1-ssml1048-211660-2026-10-29"
+    },
     "16c236743dafb31d1752d2a6": {
       "published_at": "2026-10-26T00:07:16+00:00",
       "source": "feeds.bbci.co.uk",
@@ -21430,6 +21438,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:44:49.617451+00:00",
+  "last_cycle_at": "2026-10-29T06:44:54.084803+00:00",
   "schema_version": 1
 }
