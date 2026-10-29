@@ -2603,9 +2603,10 @@
     "240afeaffa9e14b8021e2505": {
       "published_at": "2026-10-28T20:01:55+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12143,
       "title": "Himachal: Nearly 29% of drug samples fail quality tests in September alert",
-      "updated_at": "2026-10-29T04:14:13.559706+00:00",
+      "updated_at": "2026-10-29T04:14:24.644267+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-nearly-29-of-drug-samples-fail-quality-tests-in-september-alert"
     },
     "24328b809fdeacc2006cd43f": {
@@ -5470,9 +5471,10 @@
     "4cc9cf7d90ebe0343fd265cf": {
       "published_at": "2026-10-28T20:01:26+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12142,
       "title": "16 liquor vends sealed over suspected repackaging racket",
-      "updated_at": "2026-10-29T04:14:13.559701+00:00",
+      "updated_at": "2026-10-29T04:14:20.560053+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/16-liquor-vends-sealed-over-suspected-repackaging-racket"
     },
     "4d0401ee1cc88833e528a296": {
@@ -13914,9 +13916,10 @@
     "bd5380a91e30b1c02d7bfbf4": {
       "published_at": "2026-10-28T20:02:19+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12144,
       "title": "Triund trek to get toilets, water supply, rain shelters",
-      "updated_at": "2026-10-29T04:14:13.559711+00:00",
+      "updated_at": "2026-10-29T04:14:28.805265+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/triund-trek-to-get-toilets-water-supply-rain-shelters"
     },
     "bd76ebba7716518ebf4f495b": {
@@ -17464,9 +17467,10 @@
     "eef30d7f062c47ffc45c6f2d": {
       "published_at": "2026-10-28T20:00:33+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12141,
       "title": "Himachal to engage 3,100 teachers for CBSE schools",
-      "updated_at": "2026-10-29T04:14:13.559682+00:00",
+      "updated_at": "2026-10-29T04:14:16.648459+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-to-engage-3100-teachers-for-cbse-schools"
     },
     "ef08eadbad65b1df6aff2271": {
@@ -18987,6 +18991,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:14:13.561762+00:00",
+  "last_cycle_at": "2026-10-29T04:14:32.007855+00:00",
   "schema_version": 1
 }
