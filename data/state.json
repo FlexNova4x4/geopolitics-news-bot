@@ -5027,6 +5027,14 @@
       "updated_at": "2026-10-26T02:53:17.646231+00:00",
       "url": "https://www.hindustantimes.com/india-news/mercedes-driven-by-judge-s-minor-son-kills-scooter-rider-in-kochi-101792953753173.html"
     },
+    "39c1d909461e03e3fd435e27": {
+      "published_at": "2026-10-29T12:17:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Eisenkot warns Netanyahu against using foreign interference claims to delay election results",
+      "updated_at": "2026-10-29T13:02:15.436277+00:00",
+      "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/eisenkot-warns-netanyahu-against-using-foreign-interference-claims-to-delay-election-results"
+    },
     "39c21d21eca8d6f9f4a11a9c": {
       "published_at": "2026-10-25T23:36:02+00:00",
       "source": "amarujala.com",
@@ -18286,6 +18294,14 @@
       "updated_at": "2026-10-29T05:19:38.431081+00:00",
       "url": "https://www.dawn.com/news/2040604/childs-kidnapping-murder-suspects-killed-in-encounter-in-muridke"
     },
+    "c7c467702108dbb0bc60178c": {
+      "published_at": "2026-10-29T12:25:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Pope Leo’s Argentina visit brings renewed scrutiny of clergy abuse scandals",
+      "updated_at": "2026-10-29T13:02:15.436309+00:00",
+      "url": "https://www.thehindu.com/news/international/pope-leos-argentina-visit-brings-renewed-scrutiny-of-clergy-abuse-scandals/article71640439.ece"
+    },
     "c819abece4e4453075cea224": {
       "published_at": "2026-10-29T00:47:07+00:00",
       "source": "publish.tribuneindia.com",
@@ -19545,6 +19561,14 @@
       "updated_at": "2026-10-24T23:59:10.577035+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
     },
+    "d5e578b7161dc1a719e523a0": {
+      "published_at": "2026-10-29T12:17:22+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "NDM holds All Parties Conference outside sealed Hall in Miran Shah, demands end to Governor’s rule",
+      "updated_at": "2026-10-29T13:02:15.436303+00:00",
+      "url": "https://www.tribuneindia.com/news/all-parties-conference/ndm-holds-all-parties-conference-outside-sealed-hall-in-miran-shah-demands-end-to-governors-rule"
+    },
     "d5f0560940815322cb70e37c": {
       "published_at": "2026-10-27T06:29:02+00:00",
       "source": "amarujala.com",
@@ -20273,6 +20297,14 @@
       "title": "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
       "updated_at": "2026-10-29T04:19:45.529693+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/ncp-leader-challenges-sunetra-pawars-decision-to-appoint-a-new-national-chief-spokesperson/article71637703.ece"
+    },
+    "dc925098c1ded396dbeb6a54": {
+      "published_at": "2026-10-29T12:28:03+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "'Not related to defence': Govt responds to Fazl's remarks about Makkah pact countries' meeting in Tehran",
+      "updated_at": "2026-10-29T13:02:15.436315+00:00",
+      "url": "https://www.dawn.com/news/2040695/not-related-to-defence-govt-responds-to-fazls-remarks-about-makkah-pact-countries-meeting-in-tehran"
     },
     "dcc2dfd57611288a2d36b1cc": {
       "published_at": "2026-10-26T08:03:16+00:00",
@@ -23797,6 +23829,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:02:00.192911+00:00",
+  "last_cycle_at": "2026-10-29T13:02:15.438659+00:00",
   "schema_version": 1
 }
