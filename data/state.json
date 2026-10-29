@@ -792,6 +792,14 @@
       "updated_at": "2026-10-26T22:44:55.881874+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss"
     },
+    "07ab15a14294f045a97a1c52": {
+      "published_at": "2026-10-29T17:06:26+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "TVK functionary arrested for allegedly sexually harassing college student in Tamil Nadu",
+      "updated_at": "2026-10-29T17:23:02.935777+00:00",
+      "url": "https://www.hindustantimes.com/india-news/tvk-functionary-arrested-for-allegedly-sexually-harassing-college-student-in-tamil-nadu-101793292668523.html"
+    },
     "07b4ec702e362be393d3fa2e": {
       "published_at": "2026-10-26T20:34:02+00:00",
       "source": "amarujala.com",
@@ -18638,6 +18646,14 @@
       "updated_at": "2026-10-26T03:22:35.944885+00:00",
       "url": "https://www.tribuneindia.com/news/brazil/brazil-is-no-ones-backyard-president-lula-says-voting-safeguarded-democracy-after-win"
     },
+    "ba0fde44cd1804f0991a65f1": {
+      "published_at": "2026-10-29T17:07:04+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Delhi's Jamia University agrees to students’ demands, sets timeline for union polls",
+      "updated_at": "2026-10-29T17:23:02.935781+00:00",
+      "url": "https://www.hindustantimes.com/india-news/delhis-jamia-university-agrees-to-students-demands-sets-timeline-for-jmi-student-union-polls-101793293361136.html"
+    },
     "ba197f922032f8cdf091127e": {
       "published_at": "2026-10-25T14:54:53+00:00",
       "source": "aljazeera.com",
@@ -19914,6 +19930,14 @@
       "title": "Hands-On Learning: How NCERT’s AI module uses real-life examples, classroom activities to teach Classes 9 to 12",
       "updated_at": "2026-10-26T03:22:31.804471+00:00",
       "url": "https://www.hindustantimes.com/india-news/handson-learning-how-ncert-s-ai-module-uses-real-life-examples-classroom-activities-to-teach-classes-9-to-12-101792981066677.html"
+    },
+    "c6861b86af740133e0cdf7ae": {
+      "published_at": "2026-10-29T17:03:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "29 unrecognised parties from Gujarat recorded ₹510 crore income, highest in FY 2024-25: ADR",
+      "updated_at": "2026-10-29T17:23:02.935772+00:00",
+      "url": "https://www.thehindu.com/news/national/gujarat/29-unrecognised-parties-from-gujarat-recorded-510-crore-income-highest-in-fy-2024-25-adr/article71640894.ece"
     },
     "c6879ea78b088f7b561e095a": {
       "published_at": "2026-10-28T20:03:15+00:00",
@@ -25490,6 +25514,14 @@
       "updated_at": "2026-10-27T15:17:47.696741+00:00",
       "url": "https://www.thehindu.com/news/national/bound-to-be-tamasha-when-my-book-comes-out-my-turn-to-tell-my-story-sonia-gandhi/article71632387.ece"
     },
+    "fb928bd4a4406f0cddafff2b": {
+      "published_at": "2026-10-29T17:01:01+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "NIA takes over probe into alleged arson attack at Kadavumbhagam synagogue",
+      "updated_at": "2026-10-29T17:23:02.935753+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/nia-takes-over-probe-into-alleged-arson-attack-at-kadavumbhagam-synagogue/article71641712.ece"
+    },
     "fb9ddaac8c9ec5da26867373": {
       "published_at": "2026-10-26T23:55:06+00:00",
       "source": "amarujala.com",
@@ -26029,6 +26061,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:22:36.310572+00:00",
+  "last_cycle_at": "2026-10-29T17:23:02.939019+00:00",
   "schema_version": 1
 }
