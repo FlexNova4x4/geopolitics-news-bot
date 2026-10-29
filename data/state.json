@@ -4937,6 +4937,14 @@
       "updated_at": "2026-10-27T20:03:24.070613+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss"
     },
+    "3ea8520f40701ee47066ba2a": {
+      "published_at": "2026-10-29T07:01:10+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "US midterms: Five days to go – What the polls say as Trump, Harris campaign",
+      "updated_at": "2026-10-29T07:40:05.645849+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign?traffic_source=rss"
+    },
     "3eb0722bbaad12f068c7977b": {
       "published_at": "2026-10-27T15:20:09+00:00",
       "source": "thehindu.com",
@@ -8145,6 +8153,14 @@
       "updated_at": "2026-10-26T04:53:26.331989+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-nageshwar-mahadev-temple-kudd-sharad-purnima-medicinal-kheer-2026-10-26"
     },
+    "652f7ec9e4d5f814210fc7d1": {
+      "published_at": "2026-10-28T19:39:12+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "करवाचौथ पर सोलन के बाजारों में उमड़ी भीड़, मिठाई की दुकानों पर लगी कतारें",
+      "updated_at": "2026-10-29T07:40:05.645824+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-karwa-chauth-shopping-rush-solan-markets-sweet-shops-2026-10-29"
+    },
     "6534d38e01a230c7f5991402": {
       "published_at": "2026-10-25T15:15:57+00:00",
       "source": "hindustantimes.com",
@@ -11028,6 +11044,14 @@
       "title": "AI can strengthen parliamentary processes, citizen participation: Om Birla",
       "updated_at": "2026-10-27T12:19:46.381997+00:00",
       "url": "https://www.thehindu.com/news/national/ai-can-strengthen-parliamentary-processes-citizen-participation-om-birla/article71631153.ece"
+    },
+    "85a6209010f5a54ae04f76b2": {
+      "published_at": "2026-10-29T06:51:32+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "No ‘paani’ or ‘abba’ in Bengali textbooks: Govt panel plans syllabus revamp from 2027",
+      "updated_at": "2026-10-29T07:40:05.645841+00:00",
+      "url": "https://www.hindustantimes.com/india-news/no-paani-or-abba-in-bengali-textbooks-govt-panel-plans-syllabus-revamp-from-2027-101793256692595.html"
     },
     "85af2a7b14da563a493a30f6": {
       "published_at": "2026-10-26T08:43:39+00:00",
@@ -15829,6 +15853,14 @@
       "title": "Families of victims killed in Jordanian strike deny links to church attack",
       "updated_at": "2026-10-27T12:15:14.771154+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss"
+    },
+    "bdb90090798d7cb123bc9e15": {
+      "published_at": "2026-10-29T06:51:33+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Karnataka SIR: Congress minister defends deletions, says exercise legitimate unlike other states",
+      "updated_at": "2026-10-29T07:40:05.645845+00:00",
+      "url": "https://www.hindustantimes.com/india-news/karnataka-sir-congress-minister-defends-deletions-says-exercise-legitimate-unlike-other-states-101793256694008.html"
     },
     "bdd563972145e71a1846f07e": {
       "published_at": "2026-10-27T06:49:58+00:00",
@@ -21592,6 +21624,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T07:11:24.648514+00:00",
+  "last_cycle_at": "2026-10-29T07:40:05.648143+00:00",
   "schema_version": 1
 }
