@@ -1812,9 +1812,10 @@
     "133824786f036a508f4c4ae1": {
       "published_at": "2026-10-29T15:01:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12826,
       "title": "Karnataka High Court upholds acquisition of additional land for expansion of Bengaluru central prison",
-      "updated_at": "2026-10-29T15:28:59.818774+00:00",
+      "updated_at": "2026-10-29T15:29:10.594128+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-upholds-acquisition-of-additional-land-for-expansion-of-bengaluru-central-prison/article71640786.ece"
     },
     "1345b01f873e9ed42872cf90": {
@@ -2216,9 +2217,10 @@
     "16b471041ab7abc9adee8fb7": {
       "published_at": "2026-10-29T14:57:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12824,
       "title": "₹58 crore lost to cyber fraud cases in Kalaburagi, says police officer",
-      "updated_at": "2026-10-29T15:28:59.818755+00:00",
+      "updated_at": "2026-10-29T15:29:02.675879+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/58-crore-lost-to-cyber-fraud-cases-in-kalaburagi-says-police-officer/article71640920.ece"
     },
     "16b615a53a3377cdf0f4226a": {
@@ -6108,9 +6110,10 @@
     "414ea63e7ce05ec849b9a794": {
       "published_at": "2026-10-29T15:00:04+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12825,
       "title": "Amid internal doubts, PTI affirms Sohail Afridi 'remains KP chief minister'",
-      "updated_at": "2026-10-29T15:28:59.818770+00:00",
+      "updated_at": "2026-10-29T15:29:06.861827+00:00",
       "url": "https://www.dawn.com/news/2040734/amid-internal-doubts-pti-affirms-sohail-afridi-remains-kp-chief-minister"
     },
     "415cd077138958ebedbb5a9f": {
@@ -16442,9 +16445,10 @@
     "abe2fd39b1d98802fd78443c": {
       "published_at": "2026-10-29T15:03:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12827,
       "title": "Campaigning enters its final day in Vizianagaram, candidates make final pitch to voters",
-      "updated_at": "2026-10-29T15:28:59.818777+00:00",
+      "updated_at": "2026-10-29T15:29:14.932846+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/campaigning-enters-its-final-day-in-vizianagaram-candidates-make-final-pitch-to-voters/article71638951.ece"
     },
     "abf0be3aea3b7415734cd75f": {
@@ -25116,6 +25120,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:28:59.821534+00:00",
+  "last_cycle_at": "2026-10-29T15:29:18.136138+00:00",
   "schema_version": 1
 }
