@@ -561,9 +561,10 @@
     "05a172181b0f1e51d2eaec78": {
       "published_at": "2026-10-29T14:39:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12807,
       "title": "BJP Kisan Morcha demands ₹10 crore relief package for each drought-hit mandal",
-      "updated_at": "2026-10-29T15:25:04.039628+00:00",
+      "updated_at": "2026-10-29T15:25:18.769639+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/bjp-kisan-morcha-demands-10-crore-relief-package-for-each-drought-hit-mandal/article71640710.ece"
     },
     "05a48b60ee15a7026c59c3e8": {
@@ -4516,9 +4517,10 @@
     "31a7783c7da61826b31c5deb": {
       "published_at": "2026-10-29T14:39:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12806,
       "title": "Palestinian President says hopes for peace talks with new Israeli government",
-      "updated_at": "2026-10-29T15:25:04.039624+00:00",
+      "updated_at": "2026-10-29T15:25:14.517404+00:00",
       "url": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece"
     },
     "31b54292bf4fdd0cbbff34c4": {
@@ -13892,9 +13894,10 @@
     "9327b841fcbe1257f6f4e49d": {
       "published_at": "2026-10-29T14:38:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12804,
       "title": "DVAC searches places linked to former DMK MLA, industrialist Sekar Reddy in Vellore",
-      "updated_at": "2026-10-29T15:25:04.039604+00:00",
+      "updated_at": "2026-10-29T15:25:07.049618+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/dvac-searches-places-linked-to-former-dmk-mla-industrialist-sekar-reddy-in-vellore/article71640674.ece"
     },
     "934bd8317579bd82d0adc39e": {
@@ -14080,9 +14083,10 @@
     "948e3b9e0dd755b44e554986": {
       "published_at": "2026-10-29T14:38:54+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12805,
       "title": "PM approves expansion of Jinnah and Allama Iqbal airports, eyes making Karachi 'air cargo hub'",
-      "updated_at": "2026-10-29T15:25:04.039620+00:00",
+      "updated_at": "2026-10-29T15:25:10.799896+00:00",
       "url": "https://www.dawn.com/news/2040729/pm-approves-expansion-of-jinnah-and-allama-iqbal-airports-eyes-making-karachi-air-cargo-hub"
     },
     "94933012947e900b732ecfe5": {
@@ -24936,6 +24940,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:25:04.042480+00:00",
+  "last_cycle_at": "2026-10-29T15:25:21.972957+00:00",
   "schema_version": 1
 }
