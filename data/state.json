@@ -1386,6 +1386,14 @@
       "updated_at": "2026-10-27T02:09:57.412025+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss"
     },
+    "11b65ea438ca8adf09f97688": {
+      "published_at": "2026-10-29T05:21:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "How brown mussels sustain livelihoods along Thiruvananthapuram’s coast",
+      "updated_at": "2026-10-29T05:41:55.801515+00:00",
+      "url": "https://www.thehindu.com/society/how-brown-mussels-sustain-livelihoods-along-thiruvananthapurams-coast/article71631476.ece"
+    },
     "11bfad4ab050ecc72c3a5246": {
       "published_at": "2026-10-27T03:17:17+00:00",
       "source": "hindustantimes.com",
@@ -5908,6 +5916,14 @@
       "title": "“Meeting can be prelude to further work”: Iran ahead of talks with Saudi, Pakistan, Turkiye",
       "updated_at": "2026-10-26T09:45:33.763210+00:00",
       "url": "https://www.tribuneindia.com/news/esmaeil-baghaei/meeting-can-be-prelude-to-further-work-iran-ahead-of-talks-with-saudi-pakistan-turkiye"
+    },
+    "4d5a7c0195228f575d88c5a8": {
+      "published_at": "2026-10-29T05:20:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "As Kozhikode marks three years of ‘City of Literature’ recognition, writers seek more focus at local level",
+      "updated_at": "2026-10-29T05:41:55.801512+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/as-kozhikode-marks-three-years-of-city-of-literature-recognition-writers-seek-more-focus-at-local-level/article71636386.ece"
     },
     "4d6017a4185f798a2319c748": {
       "published_at": "2026-10-27T01:59:11+00:00",
@@ -11064,6 +11080,14 @@
       "title": "हिमाचल प्रदेश: एक कमरे में पांच कक्षाएं, 17 साल से अपनी छत को तरस रहा सिरमौर जिले का मटक माजरी स्कूल",
       "updated_at": "2026-10-26T05:54:28.432276+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/matak-majri-primary-school-building-crisis-paonta-sahib-sirmaur-2026-10-26"
+    },
+    "8b8ec09cbf9d39e3ef1659af": {
+      "published_at": "2026-10-29T05:19:50+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+      "updated_at": "2026-10-29T05:41:55.801508+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece"
     },
     "8ba321276729ecb4ac491296": {
       "published_at": "2026-10-27T11:47:53+00:00",
@@ -16819,6 +16843,14 @@
       "updated_at": "2026-10-25T11:05:06.821502+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece"
     },
+    "d3021b4360c86661227bb076": {
+      "published_at": "2026-10-29T05:19:44+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Thane Police warn of action over highway blockades amid Purnekar murder protests, say SIT probe on track",
+      "updated_at": "2026-10-29T05:41:55.801493+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/thane-police-warn-of-action-over-highway-blockades-amid-purnekar-murder-protests-say-sit-probe-on-track/article71636310.ece"
+    },
     "d3464e8b48bb3c0e133ce982": {
       "published_at": "2026-10-25T14:22:16+00:00",
       "source": "thehindu.com",
@@ -20746,6 +20778,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:41:49.356260+00:00",
+  "last_cycle_at": "2026-10-29T05:41:55.803668+00:00",
   "schema_version": 1
 }
