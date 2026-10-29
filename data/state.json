@@ -2603,9 +2603,10 @@
     "1dd05fe65830832375cae9d9": {
       "published_at": "2026-10-29T10:19:34+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12599,
       "title": "Denied permission, Opposition moves symbolic CEC ‘trial’ to Kharge’s house",
-      "updated_at": "2026-10-29T11:30:42.809962+00:00",
+      "updated_at": "2026-10-29T11:30:58.260314+00:00",
       "url": "https://www.hindustantimes.com/india-news/denied-permission-opposition-moves-symbolic-cec-trial-to-kharge-s-house-101793269174744.html"
     },
     "1de0a7d997e5e681ceda7b87": {
@@ -3950,9 +3951,10 @@
     "2dd714870e7db5689d109111": {
       "published_at": "2026-10-28T23:15:20+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12596,
       "title": "HP Big News: माैसम ने बदली करवट, करवाचौथ पर बाजारों में भीड़, कार में चिट्टा; महंगे प्लॉट पर भड़के कारोबारी",
-      "updated_at": "2026-10-29T11:30:42.809940+00:00",
+      "updated_at": "2026-10-29T11:30:46.057882+00:00",
       "url": "https://www.amarujala.com/shimla/hp-big-news-weather-update-karwa-chauth-crowd-chitta-seized-from-a-car-outrage-over-high-priced-plots-2026-10-29"
     },
     "2e460be7bd6b465144035a59": {
@@ -9521,9 +9523,10 @@
     "6e249e1768fc9b1084a96401": {
       "published_at": "2026-10-28T23:19:19+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12597,
       "title": "हमीरपुर के दयानंद चौक पर हुड़दंगबाजी, मारपीट का वीडियो वायरल",
-      "updated_at": "2026-10-29T11:30:42.809955+00:00",
+      "updated_at": "2026-10-29T11:30:50.177146+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/hamirpur-hp/video-video-of-rowdy-behavior-and-a-physical-altercation-at-dayanand-chowk-in-hamirpur-goes-viral-2026-10-29"
     },
     "6e329e2cf5359caaeeb6c525": {
@@ -20407,9 +20410,10 @@
     "e7072e643905d6747231dd89": {
       "published_at": "2026-10-29T09:51:06+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12598,
       "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-      "updated_at": "2026-10-29T11:30:42.809958+00:00",
+      "updated_at": "2026-10-29T11:30:54.342378+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
     },
     "e715cb7b6794c1d495168141": {
@@ -23073,6 +23077,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:30:42.812218+00:00",
+  "last_cycle_at": "2026-10-29T11:31:01.463276+00:00",
   "schema_version": 1
 }
