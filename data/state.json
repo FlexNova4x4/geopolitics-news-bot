@@ -7271,9 +7271,10 @@
     "4a975aa06806dc7441102042": {
       "published_at": "2026-10-29T17:17:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12941,
       "title": "Shin Bet says alleged fraud in Israsel elections will be probed on intelligence-based inputs, denies targeting Arabs",
-      "updated_at": "2026-10-29T17:50:35.301250+00:00",
+      "updated_at": "2026-10-29T17:50:42.528901+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/shin-bet-says-alleged-fraud-in-israsel-elections-will-be-probed-on-intelligence-based-inputs-denies-targeting-arabs"
     },
     "4aa78057915b6c90974a1de5": {
@@ -14271,9 +14272,10 @@
     "90154b65e46cecff07cd8afd": {
       "published_at": "2026-10-29T05:47:52+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12940,
       "title": "Bilaspur News: बिलासपुर कॉलेज में 200 छात्राओं ने सीखी मेहंदी लगाने की कला",
-      "updated_at": "2026-10-29T17:50:35.301229+00:00",
+      "updated_at": "2026-10-29T17:50:38.546922+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/200-female-students-at-bilaspur-college-learned-the-art-of-applying-henna-mehndi-bilaspur-news-c-92-1-bls1002-170898-2026-10-29"
     },
     "901a84d4e586400cffbe667a": {
@@ -17163,9 +17165,10 @@
     "accbbd2506e65fa6fa479efc": {
       "published_at": "2026-10-29T17:23:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12942,
       "title": "Our orders breached ‘left and right’, Deepavali was a festival of lights before gunpowder, Supreme Court says in firecrackers case",
-      "updated_at": "2026-10-29T17:50:35.301256+00:00",
+      "updated_at": "2026-10-29T17:50:46.558262+00:00",
       "url": "https://www.thehindu.com/news/national/our-orders-breached-left-and-right-deepavali-was-a-festival-of-lights-before-gunpowder-supreme-court-says-in-firecrackers-case/article71641952.ece"
     },
     "acd52a3a9a6335fa58985302": {
@@ -23494,9 +23497,10 @@
     "ea4b8e5894470652b0c1b93e": {
       "published_at": "2026-10-29T17:35:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12943,
       "title": "U.P. MLC poll results mark a defeat of BJP’s anti-education policies: Opposition leaders",
-      "updated_at": "2026-10-29T17:50:35.301260+00:00",
+      "updated_at": "2026-10-29T17:50:50.477372+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-poll-results-mark-a-defeat-of-bjps-anti-education-policies-opposition-leaders/article71641269.ece"
     },
     "ea4cad683693607c846f62d0": {
@@ -26142,6 +26146,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:50:35.304100+00:00",
+  "last_cycle_at": "2026-10-29T17:50:53.681120+00:00",
   "schema_version": 1
 }
