@@ -390,9 +390,10 @@
     "03a79ae44f5197c0e7b172d8": {
       "published_at": "2026-10-29T12:53:11+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12707,
       "title": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
-      "updated_at": "2026-10-29T13:33:26.602993+00:00",
+      "updated_at": "2026-10-29T13:33:42.186929+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss"
     },
     "03b742e81b55794d988bc3bd": {
@@ -4777,9 +4778,10 @@
     "358becb7317b417a06233107": {
       "published_at": "2026-10-29T12:44:33+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12704,
       "title": "HT Evening News Brief October 29: Israel ‘vote theft’ row, SC on digital fraud, Imran Khan’s OCI case, India hockey in action",
-      "updated_at": "2026-10-29T13:33:26.602964+00:00",
+      "updated_at": "2026-10-29T13:33:30.124026+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-october-29-israel-vote-theft-row-sc-on-digital-fraud-imran-khan-s-oci-case-india-hockey-in-action-101793276209839.html"
     },
     "3597c9b454d48930ebf04fe4": {
@@ -5073,9 +5075,10 @@
     "3990bddabab9b19ed6ed9099": {
       "published_at": "2026-10-29T12:49:45+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12706,
       "title": "UP tightens government job verification rules, says political ideology alone cannot disqualify candidates",
-      "updated_at": "2026-10-29T13:33:26.602989+00:00",
+      "updated_at": "2026-10-29T13:33:38.088752+00:00",
       "url": "https://www.hindustantimes.com/india-news/up-tightens-government-job-verification-rules-says-political-ideology-alone-cannot-disqualify-candidates-101793277307345.html"
     },
     "39a0f790d5caaa2ebae8a128": {
@@ -18736,9 +18739,10 @@
     "cbdb9dda2cd8207a6ef46c1f": {
       "published_at": "2026-10-29T12:46:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12705,
       "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-      "updated_at": "2026-10-29T13:33:26.602983+00:00",
+      "updated_at": "2026-10-29T13:33:34.032555+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss"
     },
     "cbe337d1d872d99ef5c2b30d": {
@@ -24036,6 +24040,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:33:26.605442+00:00",
+  "last_cycle_at": "2026-10-29T13:33:45.390122+00:00",
   "schema_version": 1
 }
