@@ -5282,9 +5282,10 @@
     "38615355815c7df545df7f4e": {
       "published_at": "2026-10-29T16:12:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12885,
       "title": "“Saving Israel is on the line”: Yair Golan meets Gadi Eisenkot as election drama unfolds in Jerusalem",
-      "updated_at": "2026-10-29T16:53:10.909556+00:00",
+      "updated_at": "2026-10-29T16:53:17.343052+00:00",
       "url": "https://www.tribuneindia.com/news/arab-israelis/saving-israel-is-on-the-line-yair-golan-meets-gadi-eisenkot-as-election-drama-unfolds-in-jerusalem"
     },
     "3862d49cccce60684b71a58c": {
@@ -10152,9 +10153,10 @@
     "6a99cbb085d91e99666bb67d": {
       "published_at": "2026-10-29T16:09:50+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12884,
       "title": "KTR flays govt. for holding public hearing on Musi river project",
-      "updated_at": "2026-10-29T16:53:10.909537+00:00",
+      "updated_at": "2026-10-29T16:53:13.563171+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/ktr-flays-govt-for-holding-public-hearing-on-musi-river-project/article71641849.ece"
     },
     "6a9c882a4e35941d2610f929": {
@@ -10709,9 +10711,10 @@
     "6f2dfb86513327bce686f8f0": {
       "published_at": "2026-10-29T16:12:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12887,
       "title": "NoRKA Care enrolment portal launched for Non-Resident Keralites",
-      "updated_at": "2026-10-29T16:53:10.909565+00:00",
+      "updated_at": "2026-10-29T16:53:25.032202+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/norka-care-enrolment-portal-launched-for-non-resident-keralites/article71641087.ece"
     },
     "6f3e96f353e18d3137072cf0": {
@@ -12191,9 +12194,10 @@
     "7e8f29285161a9ccd8c1f59b": {
       "published_at": "2026-10-29T16:12:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12886,
       "title": "Four arrested in CPI (M) leader Samineni Rama Rao’s murder case in Khammam",
-      "updated_at": "2026-10-29T16:53:10.909562+00:00",
+      "updated_at": "2026-10-29T16:53:21.122264+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/four-arrested-in-cpi-m-leader-samineni-rama-raos-murder-case-in-khammam/article71641720.ece"
     },
     "7ea6928c80038b08e7a9e86f": {
@@ -25656,6 +25660,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:53:10.912532+00:00",
+  "last_cycle_at": "2026-10-29T16:53:28.235777+00:00",
   "schema_version": 1
 }
