@@ -24640,9 +24640,10 @@
     "f374840be66d38a9b31a7171": {
       "published_at": "2026-10-29T17:46:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12944,
       "title": "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters",
-      "updated_at": "2026-10-29T17:51:06.228339+00:00",
+      "updated_at": "2026-10-29T17:51:08.759825+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leader-promotes-green-campaigning-in-tirupati-by-gifting-saplings-to-voters/article71640804.ece"
     },
     "f3a18f83e10d057a47b8bf9e": {
@@ -26154,6 +26155,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:51:06.231406+00:00",
+  "last_cycle_at": "2026-10-29T17:51:11.963372+00:00",
   "schema_version": 1
 }
