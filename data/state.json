@@ -5423,6 +5423,14 @@
       "updated_at": "2026-10-26T05:22:34.001208+00:00",
       "url": "https://www.dawn.com/news/2039792/crime-in-punjab-cut-by-63pc-in-sept-claims-ccd"
     },
+    "4968a330f3beb13d4eb7b52c": {
+      "published_at": "2026-10-29T03:22:48+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Diwali gift’: Centre approves 3% DA hike for 4.8 million government employees",
+      "updated_at": "2026-10-29T05:14:52.491831+00:00",
+      "url": "https://www.hindustantimes.com/india-news/diwali-gift-centre-approves-3-per-cent-da-hike-for-central-government-employees-101793235149209.html"
+    },
     "4985e0edffa0db0e4d2af048": {
       "published_at": "2026-10-26T19:08:48+00:00",
       "source": "hindustantimes.com",
@@ -12331,6 +12339,14 @@
       "updated_at": "2026-10-27T15:11:37.944156+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/shimla-police-arrest-amritsar-resident-with-257-g-heroin"
     },
+    "9fc60c8225ab39781b911588": {
+      "published_at": "2026-10-29T03:22:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "U.S. warns allies to prepare for possible Iran strikes, retaliation after elections, say sources",
+      "updated_at": "2026-10-29T05:14:52.491826+00:00",
+      "url": "https://www.thehindu.com/news/international/us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-say-sources/article71638851.ece"
+    },
     "9fd3f2cec6c53911131651b3": {
       "published_at": "2026-10-27T17:02:16+00:00",
       "source": "publish.tribuneindia.com",
@@ -14092,6 +14108,14 @@
       "title": "Gujarat govt. declares Devbhoomi Dwarka, Kutch, Jamnagar and Porbandar as drought-affected",
       "updated_at": "2026-10-26T13:43:02.502838+00:00",
       "url": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-declares-devbhoomi-dwarka-kutch-jamnagar-and-porbandar-as-drought-affected/article71626790.ece"
+    },
+    "b68a6c393c77a7b28127fbc0": {
+      "published_at": "2026-10-29T03:24:46+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Editorial: Empowered local bodies, not a closed debate, is the answer to the provinces question",
+      "updated_at": "2026-10-29T05:14:52.491838+00:00",
+      "url": "https://www.dawn.com/news/2040591/editorial-empowered-local-bodies-not-a-closed-debate-is-the-answer-to-the-provinces-question"
     },
     "b6afaa754d9dc95c5397ceae": {
       "published_at": "2026-10-24T19:13:56+00:00",
@@ -19300,6 +19324,14 @@
       "updated_at": "2026-10-27T08:34:10.861541+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-high-court-refuses-to-stay-probe-into-two-journalists-accused-of-making-casteist-remarks-on-acp-vivek-bhagat-101793087219653.html"
     },
+    "f69acd8f27cee6b54c8870d9": {
+      "published_at": "2026-10-29T03:21:35+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "SC okays fresh probe into FIA role in 2023 Greek boat tragedy",
+      "updated_at": "2026-10-29T05:14:52.491805+00:00",
+      "url": "https://www.dawn.com/news/2040653/sc-okays-fresh-probe-into-fia-role-in-2023-greek-boat-tragedy"
+    },
     "f6bbfbf52529377188a38e81": {
       "published_at": "2026-10-25T22:20:02+00:00",
       "source": "amarujala.com",
@@ -20179,6 +20211,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:14:42.970525+00:00",
+  "last_cycle_at": "2026-10-29T05:14:52.493831+00:00",
   "schema_version": 1
 }
