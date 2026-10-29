@@ -1584,6 +1584,14 @@
       "updated_at": "2026-10-29T03:43:26.094549+00:00",
       "url": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece"
     },
+    "128f20f65e0ac6456e39a7f2": {
+      "published_at": "2026-10-29T08:20:13+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "World is far behind on ecosystem restoration target of 1 billion hectares by 2030: UN",
+      "updated_at": "2026-10-29T08:46:22.185656+00:00",
+      "url": "https://www.tribuneindia.com/news/world/world-is-far-behind-on-ecosystem-restoration-target-of-1-billion-hectares-by-2030-un"
+    },
     "12ec63ab29bac3924115a196": {
       "published_at": "2026-10-26T06:33:30+00:00",
       "source": "thehindu.com",
@@ -2455,6 +2463,14 @@
       "title": "Thousands mourn victims of deadly Jordan church attack",
       "updated_at": "2026-10-25T16:14:52.489118+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
+    },
+    "1cde4014cec7eb06b5094f0f": {
+      "published_at": "2026-10-29T08:20:34+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
+      "updated_at": "2026-10-29T08:46:22.185662+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss"
     },
     "1d0831819e7272b31fe0232d": {
       "published_at": "2026-10-27T13:40:12+00:00",
@@ -5656,6 +5672,14 @@
       "title": "In divided Manipur, a Naga village with no safe way out",
       "updated_at": "2026-10-29T05:19:34.274398+00:00",
       "url": "https://www.hindustantimes.com/india-news/in-divided-manipur-a-naga-village-with-no-safe-way-out-konsakhul-kangpokpi-district-101793249566179.html"
+    },
+    "44a182d6c0b2641e91201771": {
+      "published_at": "2026-10-29T08:25:40+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Bayern celebrate Kane’s Ballon d’Or, Kompany’s discharge with Magdeburg win",
+      "updated_at": "2026-10-29T08:46:22.185667+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/bayern-celebrate-kanes-ballon-dor-kompany-discharge-with-magdeburg-win?traffic_source=rss"
     },
     "44cd3eea75e777ba310bc51c": {
       "published_at": "2026-10-27T09:07:15+00:00",
@@ -21989,6 +22013,14 @@
       "updated_at": "2026-10-25T00:19:18.203674+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
     },
+    "fcc53864dd3c3b99d7418a06": {
+      "published_at": "2026-10-29T08:19:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Use of treated water for non-drinking purposes in govt offices; supply it to data centres: Telangana CM",
+      "updated_at": "2026-10-29T08:46:22.185616+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-orders-100-use-of-treated-water-for-non-drinking-purposes-in-govt-offices-public-spaces/article71635093.ece"
+    },
     "fccc119dc5103ac4bea607f2": {
       "published_at": "2026-10-27T00:37:03+00:00",
       "source": "amarujala.com",
@@ -22312,6 +22344,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:46:12.024264+00:00",
+  "last_cycle_at": "2026-10-29T08:46:22.187909+00:00",
   "schema_version": 1
 }
