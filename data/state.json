@@ -6782,9 +6782,10 @@
     "5a9882f88a3b8e61c41c7ab2": {
       "published_at": "2026-10-29T04:06:55+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12295,
       "title": "Karwa Chauth 2026: When will the Moon be visible in your city?",
-      "updated_at": "2026-10-29T05:16:44.761483+00:00",
+      "updated_at": "2026-10-29T05:16:56.066000+00:00",
       "url": "https://www.tribuneindia.com/news/trending/karwa-chauth-2026-when-will-the-moon-be-visible-in-your-city"
     },
     "5a9a2f091ca68114c93c8cdf": {
@@ -8100,9 +8101,10 @@
     "6b5ce3d501d640d77155ebe1": {
       "published_at": "2026-10-29T04:07:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12296,
       "title": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
-      "updated_at": "2026-10-29T05:16:44.761486+00:00",
+      "updated_at": "2026-10-29T05:17:00.258854+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-sir-form-6-rejections-and-form-7-deletions-unusually-high-during-pre-sir-period/article71637814.ece"
     },
     "6b7e8d2ad5a25488a03649da": {
@@ -12324,9 +12326,10 @@
     "9dd6a3dff16b0c2ef799abb7": {
       "published_at": "2026-10-29T04:02:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12293,
       "title": "“India’s counter-terrorism strategies battle-tested”: Rajnath Singh cites Operation Sindoor in ADMM-Plus",
-      "updated_at": "2026-10-29T05:16:44.761463+00:00",
+      "updated_at": "2026-10-29T05:16:48.020535+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus/indias-counter-terrorism-strategies-battle-tested-rajnath-singh-cites-operation-sindoor-in-admm-plus"
     },
     "9def979b58e94ad698e81cb7": {
@@ -17070,9 +17073,10 @@
     "d935c05371abf257fed0477b": {
       "published_at": "2026-10-29T04:02:19+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12294,
       "title": "Nirmala Sitharaman, Rahul Gandhi spar over Tata leadership dispute: ‘Stop politicising every issue’",
-      "updated_at": "2026-10-29T05:16:44.761479+00:00",
+      "updated_at": "2026-10-29T05:16:51.945892+00:00",
       "url": "https://www.hindustantimes.com/india-news/nirmala-sitharaman-rahul-gandhi-spar-over-tata-leadership-dispute-stop-politicising-every-issue-101793243145068.html"
     },
     "d94d22f07e4c58b7f5e4b935": {
@@ -20355,6 +20359,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:16:44.763757+00:00",
+  "last_cycle_at": "2026-10-29T05:17:03.461741+00:00",
   "schema_version": 1
 }
