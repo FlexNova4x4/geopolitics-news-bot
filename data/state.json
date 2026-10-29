@@ -13138,9 +13138,10 @@
     "8ec36de901ef510e1619eace": {
       "published_at": "2026-10-29T13:11:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12714,
       "title": "Demo Day for 20 start-ups in Mysuru on Oct. 30",
-      "updated_at": "2026-10-29T13:34:29.197187+00:00",
+      "updated_at": "2026-10-29T13:34:40.872459+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/demo-day-for-20-start-ups-in-mysuru-on-oct-30/article71639978.ece"
     },
     "8ed10cfe1c8eddd516be5058": {
@@ -15230,9 +15231,10 @@
     "a6443c028eae430f1d7e0488": {
       "published_at": "2026-10-29T13:11:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12715,
       "title": "Telangana pitches tourism investment opportunities to US investors",
-      "updated_at": "2026-10-29T13:34:29.197192+00:00",
+      "updated_at": "2026-10-29T13:34:44.850344+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-pitches-tourism-investment-opportunities-to-us-investors/article71640543.ece"
     },
     "a64835e6eaad02a31722902d": {
@@ -18575,9 +18577,10 @@
     "c8fa52564f2207be2d269393": {
       "published_at": "2026-10-29T13:10:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12713,
       "title": "Karnataka to set up fire stations in every taluk and major hoblis",
-      "updated_at": "2026-10-29T13:34:29.197180+00:00",
+      "updated_at": "2026-10-29T13:34:36.840630+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-set-up-fire-stations-in-every-taluk-and-major-hoblis/article71640218.ece"
     },
     "c906a515a52aabf1b4e433b3": {
@@ -20607,9 +20610,10 @@
     "de0643fa9970e2516510d942": {
       "published_at": "2026-10-29T13:04:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12712,
       "title": "Earthquake of magnitude 5.1 hits Andaman Sea",
-      "updated_at": "2026-10-29T13:34:29.197162+00:00",
+      "updated_at": "2026-10-29T13:34:32.894031+00:00",
       "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/earthquake-of-magnitude-51-hits-andaman-sea/article71640708.ece"
     },
     "de068800e18fc3e0c81d0d7a": {
@@ -24108,6 +24112,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:34:29.200060+00:00",
+  "last_cycle_at": "2026-10-29T13:34:48.053634+00:00",
   "schema_version": 1
 }
