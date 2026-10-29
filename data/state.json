@@ -5039,9 +5039,10 @@
     "37e84135ade9f6aa2e76309b": {
       "published_at": "2026-10-29T14:18:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12791,
       "title": "A.P. Chambers seeks CM’s intervention for release of ₹5,000 crore of industrial incentives",
-      "updated_at": "2026-10-29T15:22:19.413983+00:00",
+      "updated_at": "2026-10-29T15:22:33.926855+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-chambers-seeks-cms-intervention-for-release-of-5000-crore-of-industrial-incentives/article71640468.ece"
     },
     "37ed4397085bb4e3e8fb411d": {
@@ -6946,9 +6947,10 @@
     "4bb894fad370ceda3903bc35": {
       "published_at": "2026-10-29T14:16:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12789,
       "title": "Call to make social service a way of life",
-      "updated_at": "2026-10-29T15:22:19.413976+00:00",
+      "updated_at": "2026-10-29T15:22:26.013078+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/call-to-make-social-service-a-way-of-life/article71640271.ece"
     },
     "4bbbc719d973ef4fe2513e5e": {
@@ -8588,9 +8590,10 @@
     "5caca2ddb3d0720d4cc1c16b": {
       "published_at": "2026-10-29T14:16:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12790,
       "title": "Police tighten security ahead of polls in Chittoor, Sri Sathya Sai districts",
-      "updated_at": "2026-10-29T15:22:19.413980+00:00",
+      "updated_at": "2026-10-29T15:22:30.188593+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-tighten-security-ahead-of-polls-in-chittoor-and-sri-sathya-sai-districts/article71640511.ece"
     },
     "5cd8126047357f4cfa46ef4f": {
@@ -13963,9 +13966,10 @@
     "94378e86ebbcb8a7320b428c": {
       "published_at": "2026-10-29T14:15:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12788,
       "title": "Keralam has identified 10 potential sites for AIIMS, says Health Minister",
-      "updated_at": "2026-10-29T15:22:19.413961+00:00",
+      "updated_at": "2026-10-29T15:22:22.254294+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-identifies-10-potential-sites-for-aiims/article71640661.ece"
     },
     "943cc615dc89d9bb60fa5cd3": {
@@ -24792,6 +24796,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:22:19.416651+00:00",
+  "last_cycle_at": "2026-10-29T15:22:37.130075+00:00",
   "schema_version": 1
 }
