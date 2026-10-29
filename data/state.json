@@ -786,9 +786,10 @@
     "08875df5985649198dc7bf36": {
       "published_at": "2026-10-29T08:58:57+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12535,
       "title": "North Koreans being recruited into forced labour in Russia, report says",
-      "updated_at": "2026-10-29T09:10:38.677156+00:00",
+      "updated_at": "2026-10-29T09:10:53.903077+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss"
     },
     "08c9328970d57d689da91a98": {
@@ -20535,9 +20536,10 @@
     "ed551b56db50ec9006842981": {
       "published_at": "2026-10-29T08:52:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12532,
       "title": "“Ra’amgate an earthquake”: Netanyahu calls on Zionist parties to shun Arab parties after allegations of foreign funding of polls",
-      "updated_at": "2026-10-29T09:10:38.677133+00:00",
+      "updated_at": "2026-10-29T09:10:41.811713+00:00",
       "url": "https://www.tribuneindia.com/news/arab-parties/raamgate-an-earthquake-netanyahu-calls-on-zionist-parties-to-shun-arab-parties-after-allegations-of-foreign-funding-of-polls"
     },
     "edc148b7049142f2dbe949b1": {
@@ -20669,9 +20671,10 @@
     "eecb9a1077fbd9c3a18d9978": {
       "published_at": "2026-10-29T08:52:34+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12533,
       "title": "Karnataka: Draft rules propose banning coaching for under-15s, fee instalments, refunds",
-      "updated_at": "2026-10-29T09:10:38.677149+00:00",
+      "updated_at": "2026-10-29T09:10:45.767085+00:00",
       "url": "https://www.hindustantimes.com/india-news/karnataka-draft-rules-propose-banning-coaching-for-under-15s-fee-instalments-refunds-101793263954686.html"
     },
     "eed00797f1344200b7d2b2c4": {
@@ -20713,9 +20716,10 @@
     "ef0bc39db6b3fc9edb09745b": {
       "published_at": "2026-10-29T08:52:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12534,
       "title": "Airfare hikes: Keralam CM and Opposition Leader slam airlines for ‘fleecing’ NRKs",
-      "updated_at": "2026-10-29T09:10:38.677152+00:00",
+      "updated_at": "2026-10-29T09:10:49.935238+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/airfare-hikes-keralam-cm-and-opposition-leader-slam-airlines-for-fleecing-nrks/article71639343.ece"
     },
     "ef20744d409a636fdacd8cb0": {
@@ -22497,6 +22501,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:10:38.679581+00:00",
+  "last_cycle_at": "2026-10-29T09:10:57.106050+00:00",
   "schema_version": 1
 }
