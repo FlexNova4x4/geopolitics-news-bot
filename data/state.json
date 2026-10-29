@@ -10696,6 +10696,14 @@
       "updated_at": "2026-10-25T09:35:28.668867+00:00",
       "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece"
     },
+    "8c71b5ed79c28ccb30833596": {
+      "published_at": "2026-10-29T02:02:49+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Three killed in different accidents in Wah",
+      "updated_at": "2026-10-29T05:10:53.542760+00:00",
+      "url": "https://www.dawn.com/news/2040528/three-killed-in-different-accidents-in-wah"
+    },
     "8cbb77645c3f2ffec534469e": {
       "published_at": "2026-10-26T20:25:30+00:00",
       "source": "publish.tribuneindia.com",
@@ -13391,6 +13399,14 @@
       "updated_at": "2026-10-25T16:42:13.887574+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/five-held-in-investment-fraud-case/article71624245.ece"
     },
+    "afcad926827051c0400a940d": {
+      "published_at": "2026-10-29T02:02:42+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Death toll of Kasur food poisoning rises to four",
+      "updated_at": "2026-10-29T05:10:53.542755+00:00",
+      "url": "https://www.dawn.com/news/2040601/death-toll-of-kasur-food-poisoning-rises-to-four"
+    },
     "afd24773c56dc9a5148913d8": {
       "published_at": "2026-10-27T05:05:02+00:00",
       "source": "thehindu.com",
@@ -13867,6 +13883,14 @@
       "title": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
       "updated_at": "2026-10-27T19:02:49.128165+00:00",
       "url": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece"
+    },
+    "b654de70c28943e8dbc1161f": {
+      "published_at": "2026-10-29T02:02:34+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Seven killed, five injured as ambulance catches fire at Thar hospital",
+      "updated_at": "2026-10-29T05:10:53.542729+00:00",
+      "url": "https://www.dawn.com/news/2040540/seven-killed-five-injured-as-ambulance-catches-fire-at-thar-hospital"
     },
     "b65b2af001c02f88194c1c1e": {
       "published_at": "2026-10-27T15:07:04+00:00",
@@ -16718,6 +16742,14 @@
       "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
       "updated_at": "2026-10-27T06:34:30.065500+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss"
+    },
+    "d97499482bf8ac5200fb1f5e": {
+      "published_at": "2026-10-29T02:02:41+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Turkish Maarif Foundation: High court sets aside labour court order",
+      "updated_at": "2026-10-29T05:10:53.542749+00:00",
+      "url": "https://www.dawn.com/news/2040606/turkish-maarif-foundation-high-court-sets-aside-labour-court-order"
     },
     "d98a8f2187f80da3138a4d94": {
       "published_at": "2026-10-27T03:48:41+00:00",
@@ -19891,6 +19923,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:40:53.028025+00:00",
+  "last_cycle_at": "2026-10-29T05:10:53.545110+00:00",
   "schema_version": 1
 }
