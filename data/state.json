@@ -2564,6 +2564,14 @@
       "updated_at": "2026-10-27T06:37:28.307630+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/emphasis-on-increasing-himachals-participation-in-lokmanthan-2026-bilaspur-news-c-92-1-ssml1001-170699-2026-10-27"
     },
+    "18600d8f02f81c8e1860d6bb": {
+      "published_at": "2026-10-29T17:59:45+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Coastal Andhra Pradesh may receive heavy rain from November 1 as low-pressure area brewing over Bay of Bengal",
+      "updated_at": "2026-10-29T18:21:48.405828+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/coastal-andhra-pradesh-may-receive-heavy-rain-from-november-1-as-low-pressure-area-brewing-over-bay-of-bengal-revised-copy-for-print/article71640142.ece"
+    },
     "18669341c5e0c4005209cda3": {
       "published_at": "2026-10-27T12:17:58+00:00",
       "source": "thehindu.com",
@@ -5179,6 +5187,14 @@
       "title": "Cyclone Arnab: 10,176 households in 37 villages of Visakhapatnam district likely to be affected",
       "updated_at": "2026-10-27T06:06:23.331999+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-10176-households-in-37-villages-of-visakhapatnam-district-likely-to-be-affected/article71629825.ece"
+    },
+    "356861b34c4ab40fa46ce631": {
+      "published_at": "2026-10-29T18:03:21+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "At least 14 people killed in attack on Ukraine train station",
+      "updated_at": "2026-10-29T18:21:48.405834+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
     },
     "357e83d5d39c87578101f7ab": {
       "published_at": "2026-10-29T08:24:19+00:00",
@@ -10843,6 +10859,14 @@
       "updated_at": "2026-10-25T12:05:25.292256+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-warns-of-action-against-private-firms-sidelining-kannadigas/article71623006.ece"
     },
+    "6e490f624360474a0862b212": {
+      "published_at": "2026-10-29T18:01:37+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Local body polls: Andhra Pradesh CM Naidu insists on alliance dharma, warns rebels of suspension",
+      "updated_at": "2026-10-29T18:21:48.405831+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-andhra-pradesh-cm-naidu-insists-on-alliance-dharma-warns-rebels-of-suspension/article71641233.ece"
+    },
     "6e4d517edd5a8941aaa88838": {
       "published_at": "2026-10-25T05:05:55+00:00",
       "source": "thehindu.com",
@@ -14439,6 +14463,14 @@
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
       "updated_at": "2026-10-29T08:10:21.868619+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
+    },
+    "915e447cb7555f7e2bdd16c6": {
+      "published_at": "2026-10-29T17:58:03+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "36 trains cancelled, 30 diverted as Cyclone Arnab disrupts services on Howrah-Chennai route",
+      "updated_at": "2026-10-29T18:21:48.405813+00:00",
+      "url": "https://www.tribuneindia.com/news/india/36-trains-cancelled-30-diverted-as-cyclone-arnab-disrupts-services-on-howrah-chennai-route"
     },
     "916bbc5d420590d132b56582": {
       "published_at": "2026-10-25T14:46:38+00:00",
@@ -26299,6 +26331,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:21:39.409136+00:00",
+  "last_cycle_at": "2026-10-29T18:21:48.408673+00:00",
   "schema_version": 1
 }
