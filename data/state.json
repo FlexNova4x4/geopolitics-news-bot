@@ -2288,9 +2288,10 @@
     "1c4fdbb58cdee173e3171a5f": {
       "published_at": "2026-10-29T06:18:27+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12389,
       "title": "India votes in favour of UN resolution calling for end to US embargo on Cuba",
-      "updated_at": "2026-10-29T06:41:32.824694+00:00",
+      "updated_at": "2026-10-29T06:41:40.347401+00:00",
       "url": "https://www.tribuneindia.com/news/india/india-votes-in-favour-of-un-resolution-calling-for-end-to-us-embargo-on-cuba"
     },
     "1c5766102e7746f0b807db5f": {
@@ -7114,9 +7115,10 @@
     "5a36a495ce75222b773fc146": {
       "published_at": "2026-10-29T06:16:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12388,
       "title": "Pink Line elevated corridor likely to be inaugurated on November 15: CM",
-      "updated_at": "2026-10-29T06:41:32.824673+00:00",
+      "updated_at": "2026-10-29T06:41:36.416230+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/pink-line-elevated-corridor-likely-to-be-inaugurated-on-november-15-cm-page-one/article71637448.ece"
     },
     "5a498be6490d6c4e6f6f7356": {
@@ -10787,9 +10789,10 @@
     "852b030c5bbfb220c5aeb5fe": {
       "published_at": "2026-10-29T06:20:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12390,
       "title": "Restore previous elected govt in West Bengal, says TMC’s Abhishek Banerjee after SC’s SIR observations",
-      "updated_at": "2026-10-29T06:41:32.824700+00:00",
+      "updated_at": "2026-10-29T06:41:44.562557+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/restore-previous-elected-govt-in-west-bengal-says-tmcs-abhishek-banerjee-after-scs-sir-observations/article71639197.ece"
     },
     "85616f4dbf5ab1cf6473a90e": {
@@ -11236,9 +11239,10 @@
     "89c77696be44e629c728e4bd": {
       "published_at": "2026-10-29T06:21:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12391,
       "title": "Stalin demands apology from Tamil Nadu CM Vijay for detention of MIDS professor",
-      "updated_at": "2026-10-29T06:41:32.824703+00:00",
+      "updated_at": "2026-10-29T06:41:48.483898+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-demands-apology-from-tamil-nadu-cm-vijay-for-detention-of-mids-professor/article71639187.ece"
     },
     "89de48812124da7bfda95841": {
@@ -21210,6 +21214,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:41:32.826832+00:00",
+  "last_cycle_at": "2026-10-29T06:41:51.686733+00:00",
   "schema_version": 1
 }
