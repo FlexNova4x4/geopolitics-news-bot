@@ -9656,9 +9656,10 @@
     "75ac6b5d299a3527a4d22558": {
       "published_at": "2026-10-29T07:24:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12454,
       "title": "Rajnath raises U.S. F-16 package for Pakistan, cross-border terrorism with Hegseth",
-      "updated_at": "2026-10-29T08:11:35.565271+00:00",
+      "updated_at": "2026-10-29T08:11:39.542866+00:00",
       "url": "https://www.thehindu.com/news/national/rajnath-singh-pete-hegseth-meeting-india-usa-defence-pact-october-28-2026/article71634844.ece"
     },
     "75bed4d167ac991ab62d79a6": {
@@ -14734,9 +14735,10 @@
     "b16e42d6ca223b7d5a628f25": {
       "published_at": "2026-10-29T07:25:05+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12457,
       "title": "Stephen Curry, Warriors hold nerve to beat Timberwolves in tight NBA battle",
-      "updated_at": "2026-10-29T08:11:35.565302+00:00",
+      "updated_at": "2026-10-29T08:11:51.639373+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/stephen-curry-warriors-hold-nerve-to-beat-timberwolves-in-tight-nba-battle?traffic_source=rss"
     },
     "b17cccc32ea3e5be3c1e8c18": {
@@ -17144,9 +17146,10 @@
     "cc854d41a0eff067f40e9763": {
       "published_at": "2026-10-29T07:24:47+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12456,
       "title": "North Korea fires missiles as row over landmine blast intensifies",
-      "updated_at": "2026-10-29T08:11:35.565298+00:00",
+      "updated_at": "2026-10-29T08:11:47.630400+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss"
     },
     "cc950eef532ff3e1513cd7d6": {
@@ -18600,9 +18603,10 @@
     "dcc5a6de0f01bc3055f3ae70": {
       "published_at": "2026-10-29T07:24:29+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12455,
       "title": "Loka Kerala Sabha disbanded as it failed to meet objectives: Keralam CM",
-      "updated_at": "2026-10-29T08:11:35.565292+00:00",
+      "updated_at": "2026-10-29T08:11:43.490009+00:00",
       "url": "https://www.hindustantimes.com/india-news/loka-kerala-sabha-disbanded-as-it-failed-to-meet-objectives-keralam-cm-101793258669723.html"
     },
     "dd18f8b2621c0e0328d62e4d": {
@@ -21804,6 +21808,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:11:35.567547+00:00",
+  "last_cycle_at": "2026-10-29T08:11:54.842332+00:00",
   "schema_version": 1
 }
