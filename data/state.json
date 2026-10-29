@@ -4068,9 +4068,10 @@
     "2be7fc717029b51a2377ec42": {
       "published_at": "2026-10-29T15:42:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12867,
       "title": "Private bus owners’ hunger strike in Keralam to enter 4th day on Oct. 30; agitation to expand to other districts",
-      "updated_at": "2026-10-29T16:21:28.974531+00:00",
+      "updated_at": "2026-10-29T16:21:43.064082+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/private-bus-owners-hunger-strike-in-keralam-to-enter-4th-day-on-oct-30-agitation-to-expand-to-other-districts/article71641159.ece"
     },
     "2bf00bc17cf1d80b54a2cf8b": {
@@ -16732,9 +16733,10 @@
     "acbb1569780f172d5aff567b": {
       "published_at": "2026-10-29T15:40:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12865,
       "title": "Lalitha Hospitals in Guntur hosts World Stroke Day",
-      "updated_at": "2026-10-29T16:21:28.974522+00:00",
+      "updated_at": "2026-10-29T16:21:35.513729+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/lalitha-hospitals-in-guntur-hosts-world-stroke-day/article71639824.ece"
     },
     "acd52a3a9a6335fa58985302": {
@@ -19052,9 +19054,10 @@
     "c178ae54501d41b82c7ddc98": {
       "published_at": "2026-10-29T15:42:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12866,
       "title": "Welfare schemes will ensure TDP victory in Vizianagaram, say leaders",
-      "updated_at": "2026-10-29T16:21:28.974526+00:00",
+      "updated_at": "2026-10-29T16:21:39.277456+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/welfare-schemes-will-ensure-tdp-victory-in-vizianagaram-say-leaders/article71639483.ece"
     },
     "c17d30ee67dca8e3d97b6bef": {
@@ -20392,9 +20395,10 @@
     "d095692403f3acbb80d6bf52": {
       "published_at": "2026-10-29T15:38:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12864,
       "title": "Why public intellectuals matter in present-day India",
-      "updated_at": "2026-10-29T16:21:28.974505+00:00",
+      "updated_at": "2026-10-29T16:21:31.741964+00:00",
       "url": "https://www.thehindu.com/news/national/why-public-intellectuals-matter-in-present-day-india/article71469761.ece"
     },
     "d0b2f32fda4086864b28b74f": {
@@ -25476,6 +25480,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:21:28.977629+00:00",
+  "last_cycle_at": "2026-10-29T16:21:46.267576+00:00",
   "schema_version": 1
 }
