@@ -8054,9 +8054,10 @@
     "5043a38b063fedc75f1eee76": {
       "published_at": "2026-10-29T20:00:26+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13016,
       "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
-      "updated_at": "2026-10-29T20:22:21.056905+00:00",
+      "updated_at": "2026-10-29T20:22:35.480127+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/man-targeted-muslims-africans-and-north-africans-french-prosecutors-say?traffic_source=rss"
     },
     "50646b1f51a7a5ac5f3a5f3c": {
@@ -9175,9 +9176,10 @@
     "5ab99c7d4aa62f973a417cbc": {
       "published_at": "2026-10-29T19:59:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13014,
       "title": "Nauni varsity to set up plant health diagnostic centre at Neri college; foundation stone laid",
-      "updated_at": "2026-10-29T20:22:21.056897+00:00",
+      "updated_at": "2026-10-29T20:22:27.858650+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/nauni-varsity-to-set-up-plant-health-diagnostic-centre-at-neri-college-foundation-stone-laid"
     },
     "5abab056515cf390eec3c919": {
@@ -12660,9 +12662,10 @@
     "7c281b58a436b63d3c447182": {
       "published_at": "2026-10-29T19:58:18+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13013,
       "title": "Opposition to hold ‘public impeachment’ of CEC at Kharge’s residence today",
-      "updated_at": "2026-10-29T20:22:21.056876+00:00",
+      "updated_at": "2026-10-29T20:22:23.900141+00:00",
       "url": "https://www.tribuneindia.com/news/india/oppn-to-hold-public-impeachment-of-cec-at-kharges-residence-today"
     },
     "7c4a16c98964e534628eff4e": {
@@ -12812,9 +12815,10 @@
     "7e1a0db9a73000349505ae4c": {
       "published_at": "2026-10-29T20:00:11+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13015,
       "title": "Monitored, yet shot: How safe are Kuno’s big cats?",
-      "updated_at": "2026-10-29T20:22:21.056901+00:00",
+      "updated_at": "2026-10-29T20:22:31.787184+00:00",
       "url": "https://www.tribuneindia.com/news/india/monitored-yet-shot-how-safe-are-kunos-big-cats"
     },
     "7e6fb35f17d37a83081e5a72": {
@@ -26799,6 +26803,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:22:21.059881+00:00",
+  "last_cycle_at": "2026-10-29T20:22:38.683912+00:00",
   "schema_version": 1
 }
