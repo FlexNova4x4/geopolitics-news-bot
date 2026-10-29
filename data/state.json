@@ -2810,9 +2810,10 @@
     "20d14cc7b239168121f18348": {
       "published_at": "2026-10-29T08:28:23+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12520,
       "title": "ATC sentences Imaan, Hadi to 10 years in security breach case",
-      "updated_at": "2026-10-29T08:46:48.449569+00:00",
+      "updated_at": "2026-10-29T08:46:55.658146+00:00",
       "url": "https://www.dawn.com/news/2040694/atc-sentences-imaan-hadi-to-10-years-in-security-breach-case"
     },
     "20da4af74ca59b81bc2bd93f": {
@@ -8255,9 +8256,10 @@
     "62a06f1172d4fb8995b1a279": {
       "published_at": "2026-10-29T08:26:12+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12519,
       "title": "Russian Embassy files FIR over fake recruitment website duping Indian citizens",
-      "updated_at": "2026-10-29T08:46:48.449552+00:00",
+      "updated_at": "2026-10-29T08:46:51.749892+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/russian-embassy-files-fir-over-fake-recruitment-website-duping-indian-citizens"
     },
     "62ac872982ab0d91921c6e13": {
@@ -11840,9 +11842,10 @@
     "8964912df921f6fcda7c2f87": {
       "published_at": "2026-10-29T08:32:00+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12521,
       "title": "Lahore ranks world’s most polluted city as Punjab battles poor air quality",
-      "updated_at": "2026-10-29T08:46:48.449573+00:00",
+      "updated_at": "2026-10-29T08:46:59.797684+00:00",
       "url": "https://www.dawn.com/news/2040684/lahore-ranks-worlds-most-polluted-city-as-punjab-battles-poor-air-quality"
     },
     "898ec1b3b5952ddfde3e1fa0": {
@@ -13878,9 +13881,10 @@
     "a249075d94ff16fb91235dc6": {
       "published_at": "2026-10-29T08:33:21+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12522,
       "title": "Terror suspect wanted in Punjab grenade attack case arrested from Haryana's Faridabad",
-      "updated_at": "2026-10-29T08:46:48.449576+00:00",
+      "updated_at": "2026-10-29T08:47:03.729677+00:00",
       "url": "https://www.hindustantimes.com/india-news/terror-suspect-wanted-in-punjab-grenade-attack-case-arrested-from-haryanas-faridabad-101793261897039.html"
     },
     "a26d6b1f7774d055bf37b9d3": {
@@ -22380,6 +22384,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:46:48.451925+00:00",
+  "last_cycle_at": "2026-10-29T08:47:06.932690+00:00",
   "schema_version": 1
 }
