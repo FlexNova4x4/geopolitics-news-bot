@@ -5471,9 +5471,10 @@
     "3c3131c1182f0561fcea5f2b": {
       "published_at": "2026-10-29T13:53:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12772,
       "title": "Officers told to withdraw expired medicine from Belagavi hospital",
-      "updated_at": "2026-10-29T14:36:24.287702+00:00",
+      "updated_at": "2026-10-29T14:36:28.259350+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/officers-told-to-withdraw-expired-medicine-from-belagavi-hospital/article71640910.ece"
     },
     "3c497751b4196702db1904df": {
@@ -14415,9 +14416,10 @@
     "99ba847c7be15faf4e40c24d": {
       "published_at": "2026-10-29T13:54:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12774,
       "title": "Venkaiah Naidu calls for greater citizen participation in building Viksit Bharat",
-      "updated_at": "2026-10-29T14:36:24.287720+00:00",
+      "updated_at": "2026-10-29T14:36:36.263800+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/venkaiah-naidu-calls-for-greater-citizen-participation-in-building-viksit-bharat/article71640577.ece"
     },
     "99bfc25711806d69e3e77bce": {
@@ -16938,9 +16940,10 @@
     "b4b30b30ac1d011cbbef00db": {
       "published_at": "2026-10-29T13:54:18+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12773,
       "title": "YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight",
-      "updated_at": "2026-10-29T14:36:24.287717+00:00",
+      "updated_at": "2026-10-29T14:36:32.283450+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss"
     },
     "b4f660e47e6161bc60c10661": {
@@ -24050,9 +24053,10 @@
     "fab9c40e3a27cf49fb9b34e9": {
       "published_at": "2026-10-29T13:55:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12775,
       "title": "1,671 cases of ticketless travel detected in trains in Thiruvananthapuram division, ₹13 lakh penalty imposed",
-      "updated_at": "2026-10-29T14:36:24.287723+00:00",
+      "updated_at": "2026-10-29T14:36:40.167303+00:00",
       "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/1671-cases-of-ticket-less-travel-detected-in-trains-in-thiruvananthapuram-division-13-lakh-penalty-imposed/article71640900.ece"
     },
     "fabd12d0c5896083d56c5b2e": {
@@ -24648,6 +24652,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:36:24.290708+00:00",
+  "last_cycle_at": "2026-10-29T14:36:43.370746+00:00",
   "schema_version": 1
 }
