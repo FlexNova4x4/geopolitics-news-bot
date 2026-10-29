@@ -5216,6 +5216,14 @@
       "updated_at": "2026-10-26T09:44:32.315940+00:00",
       "url": "https://www.hindustantimes.com/india-news/hyderabad-woman-found-dead-after-allegedly-threatening-suicide-during-video-call-with-colleague-over-marriage-101792995568744.html"
     },
+    "401186e0123678f277afecad": {
+      "published_at": "2026-10-29T08:06:25+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Legal opinion just advisory, not binding; can’t prosecute lawyers for it: Patna high court",
+      "updated_at": "2026-10-29T08:44:54.744502+00:00",
+      "url": "https://www.hindustantimes.com/india-news/legal-opinion-just-advisory-not-binding-can-t-prosecute-lawyers-for-it-patna-high-court-101793259718322.html"
+    },
     "40439d5cdc53f9fc9dea8b4c": {
       "published_at": "2026-10-27T06:35:01+00:00",
       "source": "amarujala.com",
@@ -12135,6 +12143,14 @@
       "title": "राजनीति: खरगे के बयान पर बरसे जयराम ठाकुर, बोले- उनके दिल में कुंठा और दिमाग में जहर",
       "updated_at": "2026-10-26T13:33:10.561436+00:00",
       "url": "https://www.amarujala.com/shimla/politics-jairam-thakur-lashes-out-at-kharge-s-statement-says-he-has-frustration-in-his-heart-and-poison-in-h-2026-10-26"
+    },
+    "8e7af45add35f5a756a2bca0": {
+      "published_at": "2026-10-29T08:07:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "BNM’s Human Rights Department condemns reported eviction order affecting 30,000 people in Balochistan",
+      "updated_at": "2026-10-29T08:44:54.744506+00:00",
+      "url": "https://www.tribuneindia.com/news/ancestral-lands/bnms-human-rights-department-condemns-reported-eviction-order-affecting-30000-people-in-balochistan"
     },
     "8e8a2e3db301ba421eae0b63": {
       "published_at": "2026-10-26T07:12:03+00:00",
@@ -19112,6 +19128,14 @@
       "updated_at": "2026-10-27T14:45:01.423524+00:00",
       "url": "https://www.tribuneindia.com/news/india/karti-chidambaram-slams-piyush-goyal-for-joking-about-long-working-hours-in-india-calls-it-absurd"
     },
+    "dfadf9399645d33a2ad434fe": {
+      "published_at": "2026-10-29T08:04:48+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Death toll from Thar ambulance fire rises to nine: district official",
+      "updated_at": "2026-10-29T08:44:54.744486+00:00",
+      "url": "https://www.dawn.com/news/2040672/death-toll-from-thar-ambulance-fire-rises-to-nine-district-official"
+    },
     "e02764594c758da8f812bc5f": {
       "published_at": "2026-10-25T15:05:01+00:00",
       "source": "thehindu.com",
@@ -21440,6 +21464,14 @@
       "updated_at": "2026-10-27T09:03:57.934185+00:00",
       "url": "https://www.tribuneindia.com/news/bangkok/2nd-russian-thai-investment-forum-to-be-held-in-bangkok-from-october-29-to-31"
     },
+    "f8230aac7498fa8cb085293c": {
+      "published_at": "2026-10-29T08:07:23+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "World Ughyr Congress urges German President to raise community’s rights concerns during China visit",
+      "updated_at": "2026-10-29T08:44:54.744509+00:00",
+      "url": "https://www.tribuneindia.com/news/china-visit/world-ughyr-congress-urges-german-president-to-raise-communitys-rights-concerns-during-china-visit"
+    },
     "f844d6e4d9c58ea3d5d8d3a9": {
       "published_at": "2026-10-25T10:08:29+00:00",
       "source": "thehindu.com",
@@ -22204,6 +22236,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:44:47.310924+00:00",
+  "last_cycle_at": "2026-10-29T08:44:54.746811+00:00",
   "schema_version": 1
 }
