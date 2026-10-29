@@ -3753,9 +3753,10 @@
     "2eb401fedf29c3ecfbcfdd1d": {
       "published_at": "2026-10-29T00:00:15+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12445,
       "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-      "updated_at": "2026-10-29T08:10:17.984747+00:00",
+      "updated_at": "2026-10-29T08:10:33.873439+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
     },
     "2ec8d553ad3ddd29d40fa1ab": {
@@ -12030,9 +12031,10 @@
     "91124b3ea1c87698282c4303": {
       "published_at": "2026-10-28T19:15:58+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12442,
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "updated_at": "2026-10-29T08:10:17.984724+00:00",
+      "updated_at": "2026-10-29T08:10:21.868619+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
     },
     "916bbc5d420590d132b56582": {
@@ -19742,9 +19744,10 @@
     "ecdebdd7338d38cc0540dd9a": {
       "published_at": "2026-10-28T23:11:59+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12444,
       "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-      "updated_at": "2026-10-29T08:10:17.984744+00:00",
+      "updated_at": "2026-10-29T08:10:29.934344+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
     },
     "ecf08b317d648a9b10b2ae78": {
@@ -21501,9 +21504,10 @@
     "fe260bae566af19f29f35316": {
       "published_at": "2026-10-28T19:50:22+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12443,
       "title": "सतर्कता जागरूकता सप्ताह के तहत पीएनबी ने शिमला में लगाया रक्तदान शिविर",
-      "updated_at": "2026-10-29T08:10:17.984740+00:00",
+      "updated_at": "2026-10-29T08:10:25.859013+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-pnb-blood-donation-camp-shimla-vigilance-awareness-week-2026-10-29"
     },
     "fe2cbd9325d39f55a5f8c7af": {
@@ -21696,6 +21700,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:10:17.986924+00:00",
+  "last_cycle_at": "2026-10-29T08:10:37.076335+00:00",
   "schema_version": 1
 }
