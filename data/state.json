@@ -4131,9 +4131,10 @@
     "2ea8b077095fe42cdfbd780a": {
       "published_at": "2026-10-29T12:29:05+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12685,
       "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-      "updated_at": "2026-10-29T13:03:12.631244+00:00",
+      "updated_at": "2026-10-29T13:03:16.331346+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss"
     },
     "2eb401fedf29c3ecfbcfdd1d": {
@@ -4417,9 +4418,10 @@
     "3224573d4e9053aedcd8d3fe": {
       "published_at": "2026-10-29T12:36:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12687,
       "title": "Hyderabad: Nearly four in 10 complaints on new traffic portal are for wrongly-issued challans",
-      "updated_at": "2026-10-29T13:03:12.631263+00:00",
+      "updated_at": "2026-10-29T13:03:24.386844+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/hyderabad-nearly-four-in-10-complaints-on-new-traffic-portal-are-for-wrongly-issued-challans/article71635688.ece"
     },
     "324fb21afd86531baa97b96f": {
@@ -6414,9 +6416,10 @@
     "485484d27562c96f534ecf57": {
       "published_at": "2026-10-29T12:36:43+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12688,
       "title": "South Korean prosecutors press for death sentence in Yoon martial law case",
-      "updated_at": "2026-10-29T13:03:12.631266+00:00",
+      "updated_at": "2026-10-29T13:03:29.001341+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss"
     },
     "485cadb53c686afce73731c2": {
@@ -22099,9 +22102,10 @@
     "f01404285087ef1915c4714f": {
       "published_at": "2026-10-29T12:32:49+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12686,
       "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-      "updated_at": "2026-10-29T13:03:12.631258+00:00",
+      "updated_at": "2026-10-29T13:03:20.292383+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss"
     },
     "f0424110d7e234fe5df74630": {
@@ -23865,6 +23869,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:03:12.633741+00:00",
+  "last_cycle_at": "2026-10-29T13:03:32.204424+00:00",
   "schema_version": 1
 }
