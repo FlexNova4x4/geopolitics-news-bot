@@ -1512,6 +1512,14 @@
       "updated_at": "2026-10-29T10:31:32.936327+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss"
     },
+    "1021c29ded89da0053b8c92f": {
+      "published_at": "2026-10-29T16:27:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Anti-mega dam protest rocks Arunachal capital",
+      "updated_at": "2026-10-29T16:55:08.292297+00:00",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-mega-dam-protest-rocks-arunachal-capital/article71640965.ece"
+    },
     "102822b22f133e4c9a1acdcb": {
       "published_at": "2026-10-29T07:02:02+00:00",
       "source": "amarujala.com",
@@ -7259,6 +7267,14 @@
       "updated_at": "2026-10-27T12:12:30.192147+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-rampur-prerana-wins-gold-medal-in-boxing-winners-receive-cash-prizes-2026-10-27"
     },
+    "4be0a61ef2b7220fb668ef1c": {
+      "published_at": "2026-10-29T16:29:52+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Srikakulam Collector urges truckers, motorists stranded on NH-16 to wait till floodwaters recedes",
+      "updated_at": "2026-10-29T16:55:08.292319+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-collector-urges-truckers-motorists-stranded-on-nh-16-to-wait-till-floodwaters-recedes/article71641528.ece"
+    },
     "4bea722745993b733c042f6b": {
       "published_at": "2026-10-28T19:51:59+00:00",
       "source": "thehindu.com",
@@ -10860,6 +10876,14 @@
       "title": "CEC row LIVE: SC to hear pleas against CEC Gyanesh Kumar, decisions during SIR",
       "updated_at": "2026-10-27T06:07:11.265612+00:00",
       "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece"
+    },
+    "707504f07005a69065cf8dc0": {
+      "published_at": "2026-10-29T16:28:29+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Republicans defend their bastions, as senate comes within reach of Democrats",
+      "updated_at": "2026-10-29T16:55:08.292313+00:00",
+      "url": "https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece"
     },
     "70761a9bd1890a773e181a6c": {
       "published_at": "2026-10-27T17:37:14+00:00",
@@ -24959,6 +24983,14 @@
       "updated_at": "2026-10-29T06:41:14.678301+00:00",
       "url": "https://www.thehindu.com/education/learning-hebrew-to-be-israeli-how-education-is-shaping-the-bnei-menashe-communitys-journey/article71635767.ece"
     },
+    "f99ebcf58b4eb89a9a0dcfb3": {
+      "published_at": "2026-10-29T16:29:44+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Former Air Force officer who filmed Sheikh Hasina leaving Bangladesh found dead",
+      "updated_at": "2026-10-29T16:55:08.292316+00:00",
+      "url": "https://www.tribuneindia.com/news/india/ex-air-force-officer-who-filmed-sheikh-hasina-leaving-bangladesh-found-dead"
+    },
     "f9a05de6b96081556e433a6d": {
       "published_at": "2026-10-25T21:44:57+00:00",
       "source": "amarujala.com",
@@ -25732,6 +25764,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:54:41.757824+00:00",
+  "last_cycle_at": "2026-10-29T16:55:08.295366+00:00",
   "schema_version": 1
 }
