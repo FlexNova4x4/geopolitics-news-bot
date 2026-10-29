@@ -6388,9 +6388,10 @@
     "51f6768493cfcd1e7d74be50": {
       "published_at": "2026-10-29T06:00:22+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12379,
       "title": "Six killed in cyclone off India's eastern coast",
-      "updated_at": "2026-10-29T06:40:12.184781+00:00",
+      "updated_at": "2026-10-29T06:40:28.342416+00:00",
       "url": "https://www.hindustantimes.com/india-news/six-killed-in-cyclone-off-india-s-eastern-coast-101793253622664.html"
     },
     "520abfc2877cc30ff2ea52bf": {
@@ -7383,9 +7384,10 @@
     "5d760321f07f2c6086c4baa8": {
       "published_at": "2026-10-28T23:34:44+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12376,
       "title": "Delhi to host 1st Chinese film festival",
-      "updated_at": "2026-10-29T06:40:12.184758+00:00",
+      "updated_at": "2026-10-29T06:40:16.138512+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/delhi-to-host-1st-chinese-film-festival"
     },
     "5dc4592b023e446dda613131": {
@@ -9834,9 +9836,10 @@
     "7a361650c9cde0eabbd1d6c3": {
       "published_at": "2026-10-29T00:05:19+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12377,
       "title": "Neha Bora again refuses to furnish peace bond",
-      "updated_at": "2026-10-29T06:40:12.184774+00:00",
+      "updated_at": "2026-10-29T06:40:20.080334+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/neha-bora-again-refuses-to-furnish-peace-bond"
     },
     "7a3b6588a3531a94d40b198a": {
@@ -15740,9 +15743,10 @@
     "c08bb915e3707c779e704c9e": {
       "published_at": "2026-10-29T05:37:46+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12378,
       "title": "Himachal Pradesh weather alert: Snowfall and rain expected",
-      "updated_at": "2026-10-29T06:40:12.184778+00:00",
+      "updated_at": "2026-10-29T06:40:24.180112+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-pradesh-weather-alert-snowfall-and-rain-expected"
     },
     "c09d68f3831d40599a711619": {
@@ -21102,6 +21106,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:40:12.187227+00:00",
+  "last_cycle_at": "2026-10-29T06:40:31.545313+00:00",
   "schema_version": 1
 }
