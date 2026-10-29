@@ -6215,6 +6215,14 @@
       "updated_at": "2026-10-27T09:35:28.299166+00:00",
       "url": "https://www.tribuneindia.com/news/cyclone-arnab/nepal-issues-high-alert-as-cyclone-arnab-threatens-heavy-rain-winds-avalanches"
     },
+    "44e7e579db44ce988301d28e": {
+      "published_at": "2026-10-29T13:27:24+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Orders becoming a mockery’: Supreme Court pulls up Delhi govt over firecracker curbs",
+      "updated_at": "2026-10-29T14:04:13.799502+00:00",
+      "url": "https://www.hindustantimes.com/india-news/orders-becoming-a-mockery-supreme-court-pulls-up-delhi-govt-over-firecracker-curbs-101793271815916.html"
+    },
     "4515cfe5f8a44766599c568a": {
       "published_at": "2026-10-26T05:16:37+00:00",
       "source": "publish.tribuneindia.com",
@@ -6871,6 +6879,14 @@
       "title": "Ernakulam district panchayat in Keralam to speed up sterilisation of dogs",
       "updated_at": "2026-10-26T01:52:56.591358+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-in-keralam-to-speed-up-sterilisation-of-dogs/article71579887.ece"
+    },
+    "4c6bad04d7b7cf57f778fabb": {
+      "published_at": "2026-10-29T13:27:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Qatar rejects claims of interference in Israel elections, accuses politicians of using country as “scapegoat”",
+      "updated_at": "2026-10-29T14:04:13.799499+00:00",
+      "url": "https://www.tribuneindia.com/news/arab-vote/qatar-rejects-claims-of-interference-in-israel-elections-accuses-politicians-of-using-country-as-scapegoat"
     },
     "4c6f6dc2f81840c7b9d13812": {
       "published_at": "2026-10-25T10:45:51+00:00",
@@ -7894,6 +7910,14 @@
       "title": "Vaishnaw seeks open discussions with editors on DPDP concerns",
       "updated_at": "2026-10-29T04:26:05.894659+00:00",
       "url": "https://www.hindustantimes.com/india-news/vaishnaw-seeks-open-discussions-with-editors-on-dpdp-concerns-101793215164526.html"
+    },
+    "57e6ce15dc359067a297fb13": {
+      "published_at": "2026-10-29T13:27:13+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Albania opposition disrupts parliament session after violent street protests",
+      "updated_at": "2026-10-29T14:04:13.799477+00:00",
+      "url": "https://www.thehindu.com/news/international/albania-opposition-disrupts-parliament-session-after-violent-street-protests/article71640762.ece"
     },
     "580f301b3f62026dceb26c49": {
       "published_at": "2026-10-27T14:42:13+00:00",
@@ -19834,6 +19858,14 @@
       "updated_at": "2026-10-26T10:44:40.868359+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss"
     },
+    "d4e208958298acecdd75d031": {
+      "published_at": "2026-10-29T13:28:36+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Double-defeat of double-engine government,’ says Akhilesh on BJP’s MLC polls performance",
+      "updated_at": "2026-10-29T14:04:13.799505+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/double-defeat-of-double-engine-government-says-akhilesh-on-bjps-mlc-polls-performance/article71640685.ece"
+    },
     "d4f4b4c5bee0c02c0f567751": {
       "published_at": "2026-10-25T16:42:33+00:00",
       "source": "aljazeera.com",
@@ -24292,6 +24324,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:03:44.788622+00:00",
+  "last_cycle_at": "2026-10-29T14:04:13.802115+00:00",
   "schema_version": 1
 }
