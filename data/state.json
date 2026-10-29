@@ -3161,9 +3161,10 @@
     "20f3a5acf3037f963059638a": {
       "published_at": "2026-10-29T15:20:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12848,
       "title": "Syria says French jihadist killed in shootout with government forces",
-      "updated_at": "2026-10-29T15:52:59.672254+00:00",
+      "updated_at": "2026-10-29T15:53:02.226917+00:00",
       "url": "https://www.thehindu.com/news/national/syria-says-french-jihadist-killed-in-shootout-with-government-forces/article71637049.ece"
     },
     "210fc81eed41c61449eb5724": {
@@ -4885,9 +4886,10 @@
     "348d8bd8b2781af33c950887": {
       "published_at": "2026-10-29T15:23:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12850,
       "title": "Food Safety officials conduct State-wide inspection at 45 packaged drinking water units; notices issued to 24",
-      "updated_at": "2026-10-29T15:52:59.672272+00:00",
+      "updated_at": "2026-10-29T15:53:09.775131+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/food-safety-officials-conduct-state-wide-inspection-at-45-packaged-drinking-water-units-notices-issued-to-24/article71641340.ece"
     },
     "34903c75a098e9b5e3793910": {
@@ -10322,9 +10324,10 @@
     "6c96d2fd07bab4d657e4b433": {
       "published_at": "2026-10-29T15:23:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12849,
       "title": "Three missing fishermen rescued",
-      "updated_at": "2026-10-29T15:52:59.672268+00:00",
+      "updated_at": "2026-10-29T15:53:06.011750+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-missing-fishermen-rescued/article71641011.ece"
     },
     "6ca3d9721d7ca6c6b15ba7b0": {
@@ -14620,9 +14623,10 @@
     "9728e00420e7803ad3c81774": {
       "published_at": "2026-10-29T15:26:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12851,
       "title": "IndiGo Q2 loss narrows to ₹1,879.1 crore as fare gains partly offset fuel-cost surge",
-      "updated_at": "2026-10-29T15:52:59.672276+00:00",
+      "updated_at": "2026-10-29T15:53:13.481020+00:00",
       "url": "https://www.thehindu.com/news/national/indigo-q2-loss-narrows-to-18791-crore-as-fare-gains-partly-offset-fuel-cost-surge/article71641417.ece"
     },
     "9749e394fa91acfe6a1c4b7a": {
@@ -25332,6 +25336,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:52:59.675374+00:00",
+  "last_cycle_at": "2026-10-29T15:53:16.684381+00:00",
   "schema_version": 1
 }
