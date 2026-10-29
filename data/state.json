@@ -2576,9 +2576,10 @@
     "193c060b239c6a526dcb1b29": {
       "published_at": "2026-10-29T05:44:26+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12936,
       "title": "Bilaspur News: खेलो इंडिया स्टेट सेंटर ऑफ एक्सीलेंस बिलासपुर के खिलाड़ियों ने 16 पदक जीते",
-      "updated_at": "2026-10-29T17:50:08.664712+00:00",
+      "updated_at": "2026-10-29T17:50:11.831439+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/athletes-from-the-khelo-india-state-centre-of-excellence-bilaspur-won-16-medals-bilaspur-news-c-92-1-ssml1001-170888-2026-10-29"
     },
     "19b79f9985cb44ee6531e0b0": {
@@ -8635,9 +8636,10 @@
     "59412862cdced8823d6c22b0": {
       "published_at": "2026-10-29T05:47:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12939,
       "title": "Kullu News: भूस्खलन पीड़ित को 50.70 लाख मुआवजा देने का आदेश",
-      "updated_at": "2026-10-29T17:50:08.664746+00:00",
+      "updated_at": "2026-10-29T17:50:24.018989+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/order-to-pay-5070-lakh-as-compensation-to-landslide-victim-kullu-news-c-89-1-ssml1012-190597-2026-10-29"
     },
     "594cb921dda3d99845baa6b7": {
@@ -10727,9 +10729,10 @@
     "6e28e59b26832a9a40dddc21": {
       "published_at": "2026-10-29T05:45:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12937,
       "title": "Bilaspur News: घुमारवीं अस्पताल में जल्द शुरू होगी डायलिसिस सुविधा",
-      "updated_at": "2026-10-29T17:50:08.664736+00:00",
+      "updated_at": "2026-10-29T17:50:15.755631+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/dialysis-facility-to-start-soon-at-ghumarwin-hospital-bilaspur-news-c-92-1-bpr1012-170879-2026-10-29"
     },
     "6e329e2cf5359caaeeb6c525": {
@@ -15913,9 +15916,10 @@
     "9fe1ab5d478aa1814b76ce57": {
       "published_at": "2026-10-29T05:46:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12938,
       "title": "Solan News: वार्डों में रात 12 बजे आया पानी, कई जगह जल संकट",
-      "updated_at": "2026-10-29T17:50:08.664741+00:00",
+      "updated_at": "2026-10-29T17:50:20.116402+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/water-arrived-in-the-wards-at-midnight-water-crisis-in-several-areas-solan-news-c-176-1-sln1016-183197-2026-10-29"
     },
     "9fe2e01b72f50a999a8cc72a": {
@@ -26106,6 +26110,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:50:08.668327+00:00",
+  "last_cycle_at": "2026-10-29T17:50:27.222439+00:00",
   "schema_version": 1
 }
