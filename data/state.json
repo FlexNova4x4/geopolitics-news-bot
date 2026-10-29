@@ -1641,9 +1641,10 @@
     "14917845fb84314afc43362d": {
       "published_at": "2026-10-29T05:12:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12330,
       "title": "कुल्लू दशहरा लकी ड्रॉ : 008247 नंबर के नाम निकली कार",
-      "updated_at": "2026-10-29T05:40:31.719298+00:00",
+      "updated_at": "2026-10-29T05:40:39.286178+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/kullu-dussehra-lucky-draw-car-won-by-ticket-number-008247-kullu-news-c-89-1-ssml1015-190523-2026-10-28"
     },
     "14996176530da03b1025658d": {
@@ -11877,9 +11878,10 @@
     "96987f7cb7e2bb925cee0e92": {
       "published_at": "2026-10-29T05:07:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12329,
       "title": "Rs 35 crore PNB fraud in Greater Noida: Farmer had Rs 88 lakh savings, left with just Rs 1 lakh",
-      "updated_at": "2026-10-29T05:40:31.719279+00:00",
+      "updated_at": "2026-10-29T05:40:35.120781+00:00",
       "url": "https://www.tribuneindia.com/news/india/pnb-rs-35-crore-fraud-in-greater-noida-farmers-rs-88-lakh-savings-shrink-to-just-rs-1-lakh"
     },
     "96bf2cd90ac403d96fa1d9b2": {
@@ -17278,9 +17280,10 @@
     "d83a372aca61c994a2cc4afe": {
       "published_at": "2026-10-29T05:14:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12331,
       "title": "Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert",
-      "updated_at": "2026-10-29T05:40:31.719304+00:00",
+      "updated_at": "2026-10-29T05:40:43.494721+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-guntur-district-records-41-mm-average-rainfall-authorities-on-toes/article71634401.ece"
     },
     "d84e844c92b6230c3516d2d3": {
@@ -20671,6 +20674,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:40:31.721491+00:00",
+  "last_cycle_at": "2026-10-29T05:40:46.697792+00:00",
   "schema_version": 1
 }
