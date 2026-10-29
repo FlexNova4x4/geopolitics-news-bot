@@ -2645,6 +2645,14 @@
       "updated_at": "2026-10-27T12:18:46.809756+00:00",
       "url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-stopped-from-entering-house-congress-mlas-allege-stage-protest/article71631219.ece"
     },
+    "21f1b9f3423a9aec2fd9e68c": {
+      "published_at": "2026-10-29T05:01:59+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "5 killed, over two dozen injured in bus accident in Punjab's Hafizabad",
+      "updated_at": "2026-10-29T05:19:30.950496+00:00",
+      "url": "https://www.dawn.com/news/2040660/5-killed-over-two-dozen-injured-in-bus-accident-in-punjabs-hafizabad"
+    },
     "22b28ebf8fbbb7abea6350c1": {
       "published_at": "2026-10-27T05:46:02+00:00",
       "source": "amarujala.com",
@@ -5152,6 +5160,14 @@
       "title": "KSSP supports distribution of generic drugs for SMA patients in Keralam",
       "updated_at": "2026-10-25T08:05:29.594923+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kssp-supports-distribution-of-generic-drugs-for-sma-patients-in-keralam/article71622756.ece"
+    },
+    "448e56b4f7baeb59a5d67c6c": {
+      "published_at": "2026-10-29T04:55:54+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "In divided Manipur, a Naga village with no safe way out",
+      "updated_at": "2026-10-29T05:19:30.950473+00:00",
+      "url": "https://www.hindustantimes.com/india-news/in-divided-manipur-a-naga-village-with-no-safe-way-out-konsakhul-kangpokpi-district-101793249566179.html"
     },
     "44cd3eea75e777ba310bc51c": {
       "published_at": "2026-10-27T09:07:15+00:00",
@@ -12906,6 +12922,14 @@
       "updated_at": "2026-10-26T09:16:22.678404+00:00",
       "url": "https://www.tribuneindia.com/news/india/part-of-political-process-sc-junks-plea-against-6-aiadmk-mlas-who-defected-to-tvk"
     },
+    "a4bfc7ac9ab0dfc691b02e8f": {
+      "published_at": "2026-10-29T04:59:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Keralam teacher arrested for alleging worms found in food at State Sports Meet; Minister alleges conspiracy",
+      "updated_at": "2026-10-29T05:19:30.950493+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-teacher-arrested-for-alleging-worms-found-in-food-at-state-sports-meet-minister-alleges-conspiracy/article71639027.ece"
+    },
     "a4f2d62d1dee2e1340d2009e": {
       "published_at": "2026-10-27T15:48:25+00:00",
       "source": "thehindu.com",
@@ -15873,6 +15897,14 @@
       "title": "Naidu puts officials on high alert as cyclone nears Andhra Pradesh coast",
       "updated_at": "2026-10-25T15:16:34.728192+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-puts-officials-on-high-alert-as-cyclone-nears-andhra-pradesh-coast/article71623312.ece"
+    },
+    "c7a033a34e1dac3a99e2b568": {
+      "published_at": "2026-10-29T04:57:44+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Child’s kidnapping, murder suspects killed in ‘encounter’ in Muridke",
+      "updated_at": "2026-10-29T05:19:30.950488+00:00",
+      "url": "https://www.dawn.com/news/2040604/childs-kidnapping-murder-suspects-killed-in-encounter-in-muridke"
     },
     "c819abece4e4453075cea224": {
       "published_at": "2026-10-29T00:47:07+00:00",
@@ -20539,6 +20571,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:19:19.218332+00:00",
+  "last_cycle_at": "2026-10-29T05:19:30.952614+00:00",
   "schema_version": 1
 }
