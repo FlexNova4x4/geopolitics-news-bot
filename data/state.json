@@ -8831,9 +8831,10 @@
     "67c27340fc7e64fa8b4a3aff": {
       "published_at": "2026-10-29T09:46:16+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12573,
       "title": "Why Michigan could decide the future of Trump’s presidency",
-      "updated_at": "2026-10-29T10:32:51.529275+00:00",
+      "updated_at": "2026-10-29T10:32:55.962882+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss"
     },
     "67d1399f3ae7ffec1ecbb2ae": {
@@ -15373,9 +15374,10 @@
     "b0cde43478705c5f509653ab": {
       "published_at": "2026-10-29T09:46:25+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12574,
       "title": "Hong Kong's leader apologises for deadly high-rise fire",
-      "updated_at": "2026-10-29T10:32:51.529289+00:00",
+      "updated_at": "2026-10-29T10:32:59.981737+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cr5yn9770pgvo?at_medium=RSS&at_campaign=rss"
     },
     "b0d15dda01181ae38b43e3a1": {
@@ -21902,9 +21904,10 @@
     "f701c134aaa74d5b3681d0cc": {
       "published_at": "2026-10-29T09:47:56+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12575,
       "title": "Magnitude 5.1 earthquake strikes near Andaman and Nicobar Islands",
-      "updated_at": "2026-10-29T10:32:51.529293+00:00",
+      "updated_at": "2026-10-29T10:33:04.150579+00:00",
       "url": "https://www.hindustantimes.com/india-news/magnitude-5-1-earthquake-strikes-near-andaman-and-nicobar-islands-bamboo-flat-tsunami-alert-101793266606598.html"
     },
     "f719c2e59baa960efe4b3af5": {
@@ -22815,9 +22818,10 @@
     "ffb226eb48d231980f0cf6ab": {
       "published_at": "2026-10-29T09:48:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12576,
       "title": "Supreme Court directs NCLAT, NCLT presidents to submit proposals on infrastructure, staff requirements",
-      "updated_at": "2026-10-29T10:32:51.529297+00:00",
+      "updated_at": "2026-10-29T10:33:08.076207+00:00",
       "url": "https://www.thehindu.com/news/national/sc-nclat-nclt-presidents-proposals-on-infrastructure-staff-requirements/article71639787.ece"
     },
     "ffc9efced9b8eb9b075c16bb": {
@@ -22866,6 +22870,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T10:32:51.531772+00:00",
+  "last_cycle_at": "2026-10-29T10:33:11.279077+00:00",
   "schema_version": 1
 }
