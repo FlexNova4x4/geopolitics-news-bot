@@ -12,9 +12,10 @@
     "0024b5a5d2347894c4156f06": {
       "published_at": "2026-10-29T03:37:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12283,
       "title": "US: Savannah River Site nuclear site resumes traffic movement in area after ‘no contamination’ confirmed outside facility following fire incident",
-      "updated_at": "2026-10-29T05:15:20.999039+00:00",
+      "updated_at": "2026-10-29T05:15:31.959294+00:00",
       "url": "https://www.tribuneindia.com/news/aiken/us-savannah-river-site-nuclear-site-resumes-traffic-movement-in-area-after-no-contamination-confirmed-outside-facility-following-fire-incident"
     },
     "0039eeff93841b27b6b4fb90": {
@@ -6520,9 +6521,10 @@
     "57d39223ca6521e014c033ed": {
       "published_at": "2026-10-29T03:34:29+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12282,
       "title": "Students win Viksit Bharat Buildathon for bomb-diffusing robot, smart glasses",
-      "updated_at": "2026-10-29T05:15:20.999036+00:00",
+      "updated_at": "2026-10-29T05:15:28.034208+00:00",
       "url": "https://www.hindustantimes.com/india-news/students-win-viksit-bharat-buildathon-for-bomb-diffusing-robot-smart-glasses-101793244869866.html"
     },
     "57dba6d2ad0f94769a913faa": {
@@ -9744,17 +9746,19 @@
     "7f6c32aa16975605e47577f1": {
       "published_at": "2026-10-29T03:37:27+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12284,
       "title": "International tourism mart returns to Arunachal Pradesh's Tawang after 13 years",
-      "updated_at": "2026-10-29T05:15:20.999042+00:00",
+      "updated_at": "2026-10-29T05:15:35.863514+00:00",
       "url": "https://www.hindustantimes.com/india-news/international-tourism-mart-returns-to-arunachal-pradeshs-tawang-after-13-years-101793244456733.html"
     },
     "7f79e264470c51edc22fc19b": {
       "published_at": "2026-10-29T03:31:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12281,
       "title": "Cyberabad Police plan one-way loop to ease IT corridor traffic",
-      "updated_at": "2026-10-29T05:15:20.999020+00:00",
+      "updated_at": "2026-10-29T05:15:24.122461+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/cyberabad-police-plan-one-way-loop-to-ease-it-corridor-traffic/article71637785.ece"
     },
     "7f7a3ef7b0da4dcfdcb00a3f": {
@@ -20247,6 +20251,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:15:21.001117+00:00",
+  "last_cycle_at": "2026-10-29T05:15:39.066329+00:00",
   "schema_version": 1
 }
