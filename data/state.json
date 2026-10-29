@@ -2241,6 +2241,14 @@
       "updated_at": "2026-10-27T06:07:07.482696+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/srm-presents-the-hindu-semiconductor-summit-2026/article71629957.ece"
     },
+    "1798f62a5e0f6128d0c7fe6a": {
+      "published_at": "2026-10-29T11:53:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Milk price hiked in Karnataka",
+      "updated_at": "2026-10-29T12:07:40.654925+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/milk-price-hiked-in-karnataka/article71640242.ece"
+    },
     "179ab4507cc1739399aa9ac3": {
       "published_at": "2026-10-25T14:15:58+00:00",
       "source": "thehindu.com",
@@ -23581,6 +23589,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:07:29.403759+00:00",
+  "last_cycle_at": "2026-10-29T12:07:40.657538+00:00",
   "schema_version": 1
 }
