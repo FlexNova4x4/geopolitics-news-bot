@@ -5327,9 +5327,10 @@
     "36b5f46ed3bdc74083f77377": {
       "published_at": "2026-10-29T18:34:20+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12970,
       "title": "Pakistan, Turkiye shall 'continue to champion dialogue, diplomacy' alongside bolstering defences: PM Shehbaz",
-      "updated_at": "2026-10-29T18:50:10.577432+00:00",
+      "updated_at": "2026-10-29T18:50:20.965817+00:00",
       "url": "https://www.dawn.com/news/2040754/pakistan-turkiye-shall-continue-to-champion-dialogue-diplomacy-alongside-bolstering-defences-pm-shehbaz"
     },
     "36cc62c592a9c10fd9a42ed8": {
@@ -5551,9 +5552,10 @@
     "394e5ffc415c87534e916ab5": {
       "published_at": "2026-10-29T18:31:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12969,
       "title": "Foreign Secretary to visit Kathmandu as plans get underway for Nepal PM’s India visit",
-      "updated_at": "2026-10-29T18:50:10.577428+00:00",
+      "updated_at": "2026-10-29T18:50:17.232917+00:00",
       "url": "https://www.thehindu.com/news/national/foreign-secretary-to-visit-kathmandu-as-plans-get-underway-for-nepal-pms-india-visit/article71641874.ece"
     },
     "3970ee70d46f2488641efc63": {
@@ -12777,9 +12779,10 @@
     "80166d59bd14d1ca1c806091": {
       "published_at": "2026-10-29T18:38:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12971,
       "title": "ED searches premises linked to Mudrex, Instadapp over alleged ₹4,600-crore FEMA violations",
-      "updated_at": "2026-10-29T18:50:10.577435+00:00",
+      "updated_at": "2026-10-29T18:50:24.740854+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/ed-searches-mudrex-instadapp-linked-premises-in-bengaluru-and-madhya-pradesh-over-alleged-4600-crore-fema-violations/article71640629.ece"
     },
     "803f430a679b5d7c9aae2e86": {
@@ -13909,9 +13912,10 @@
     "8a9502a29f763e1cb1814f87": {
       "published_at": "2026-10-29T18:30:04+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12968,
       "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-      "updated_at": "2026-10-29T18:50:10.577413+00:00",
+      "updated_at": "2026-10-29T18:50:13.520657+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss"
     },
     "8a9577fd2bab4245f01d1352": {
@@ -26394,6 +26398,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:50:10.580861+00:00",
+  "last_cycle_at": "2026-10-29T18:50:27.944670+00:00",
   "schema_version": 1
 }
