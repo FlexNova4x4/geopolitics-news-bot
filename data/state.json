@@ -666,6 +666,14 @@
       "updated_at": "2026-10-25T16:14:41.559825+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/no-need-to-fear-losing-power-by-visiting-chamarajanagar-shivakumar/article71623094.ece"
     },
+    "078fe5fba6abea72afd59086": {
+      "published_at": "2026-10-29T07:31:22+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Indian worker jailed in Dubai for 4 months, family says he was held for leaving job without notice",
+      "updated_at": "2026-10-29T08:13:02.932205+00:00",
+      "url": "https://www.hindustantimes.com/india-news/indian-worker-jailed-in-dubai-for-4-months-family-says-he-was-held-for-leaving-job-without-notice-101793255647590.html"
+    },
     "07985be7c5310d05b37e0964": {
       "published_at": "2026-10-26T20:46:01+00:00",
       "source": "aljazeera.com",
@@ -4244,6 +4252,14 @@
       "updated_at": "2026-10-27T19:32:41.275970+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss"
     },
+    "3520fb33ad1a08c2cdb8911c": {
+      "published_at": "2026-10-29T07:32:36+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Maharashtra MLC polls: Blame game begins in Mahayuti as BJP accuses Shiv Sena for defeat",
+      "updated_at": "2026-10-29T08:13:02.932227+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls-blame-game-begins-in-mahayuti-as-bjp-accuses-shiv-sena-for-defeat/article71639270.ece"
+    },
     "3539988275121536d2cd5332": {
       "published_at": "2026-10-28T19:05:44+00:00",
       "source": "aljazeera.com",
@@ -4558,6 +4574,14 @@
       "title": "Trump offers USD 1 million reward for reporting voter fraud in past and upcoming 2026 midterm polls",
       "updated_at": "2026-10-26T23:40:11.120856+00:00",
       "url": "https://www.tribuneindia.com/news/2026-midterms/trump-offers-usd-1-million-reward-for-reporting-voter-fraud-in-past-and-upcoming-2026-midterm-polls"
+    },
+    "39c8571d4e46df659cf6a8b0": {
+      "published_at": "2026-10-29T07:32:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "UKMTO says ship seen ablaze in Strait of Hormuz off Oman coast",
+      "updated_at": "2026-10-29T08:13:02.932220+00:00",
+      "url": "https://www.tribuneindia.com/news/crew-status/ukmto-says-ship-seen-ablaze-in-strait-of-hormuz-off-oman-coast"
     },
     "39dd671e04ea24cc60845a9d": {
       "published_at": "2026-10-27T19:46:02+00:00",
@@ -7237,6 +7261,14 @@
       "title": "Haryana guest teachers demand regularisation of services, march to Chandigarh",
       "updated_at": "2026-10-25T16:16:09.045088+00:00",
       "url": "https://www.thehindu.com/news/national/haryana/haryana-guest-teachers-demand-regularisation-of-services-march-to-chandigarh/article71623748.ece"
+    },
+    "5980df8ab04c8d15ef8e5ceb": {
+      "published_at": "2026-10-29T07:32:24+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SCR rolls out GPS tracking devices for 1,800 patrolmen across three divisions",
+      "updated_at": "2026-10-29T08:13:02.932224+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/scr-rolls-out-gps-tracking-devices-for-1800-patrolmen-across-three-divisions/article71634751.ece"
     },
     "59848306fe0335b819e148d8": {
       "published_at": "2026-10-26T20:34:07+00:00",
@@ -21880,6 +21912,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:12:50.879207+00:00",
+  "last_cycle_at": "2026-10-29T08:13:02.934511+00:00",
   "schema_version": 1
 }
