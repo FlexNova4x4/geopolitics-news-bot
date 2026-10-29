@@ -6385,6 +6385,14 @@
       "updated_at": "2026-10-26T22:45:39.965326+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/fish-production-to-increase-in-pong-lake-target-set-to-release-17-million-fish-seeds-kangra-news-c-95-1-kng1047-263454-2026-10-27"
     },
+    "51f6768493cfcd1e7d74be50": {
+      "published_at": "2026-10-29T06:00:22+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Six killed in cyclone off India's eastern coast",
+      "updated_at": "2026-10-29T06:40:12.184781+00:00",
+      "url": "https://www.hindustantimes.com/india-news/six-killed-in-cyclone-off-india-s-eastern-coast-101793253622664.html"
+    },
     "520abfc2877cc30ff2ea52bf": {
       "published_at": "2026-10-25T11:54:30+00:00",
       "source": "thehindu.com",
@@ -7371,6 +7379,14 @@
       "title": "Free travel scheme: Keralam govt. releases ₹88.23 crore to KSRTC to cover revenue loss",
       "updated_at": "2026-10-25T16:11:52.075042+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/free-travel-scheme-keralam-govt-releases-8823-crore-to-ksrtc-to-cover-revenue-loss/article71623733.ece"
+    },
+    "5d760321f07f2c6086c4baa8": {
+      "published_at": "2026-10-28T23:34:44+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Delhi to host 1st Chinese film festival",
+      "updated_at": "2026-10-29T06:40:12.184758+00:00",
+      "url": "https://www.tribuneindia.com/news/delhi/delhi-to-host-1st-chinese-film-festival"
     },
     "5dc4592b023e446dda613131": {
       "published_at": "2026-10-27T13:13:00+00:00",
@@ -9814,6 +9830,14 @@
       "title": "Tribute paid to polio workers in Quetta",
       "updated_at": "2026-10-25T04:06:09.564448+00:00",
       "url": "https://www.dawn.com/news/2039582/tribute-paid-to-polio-workers-in-quetta"
+    },
+    "7a361650c9cde0eabbd1d6c3": {
+      "published_at": "2026-10-29T00:05:19+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Neha Bora again refuses to furnish peace bond",
+      "updated_at": "2026-10-29T06:40:12.184774+00:00",
+      "url": "https://www.tribuneindia.com/news/delhi/neha-bora-again-refuses-to-furnish-peace-bond"
     },
     "7a3b6588a3531a94d40b198a": {
       "published_at": "2026-10-27T06:44:38+00:00",
@@ -15713,6 +15737,14 @@
       "updated_at": "2026-10-29T05:40:22.723799+00:00",
       "url": "https://www.dawn.com/news/2040603/294-sahiwal-farmers-booked-for-water-theft-in-five-months"
     },
+    "c08bb915e3707c779e704c9e": {
+      "published_at": "2026-10-29T05:37:46+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal Pradesh weather alert: Snowfall and rain expected",
+      "updated_at": "2026-10-29T06:40:12.184778+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-pradesh-weather-alert-snowfall-and-rain-expected"
+    },
     "c09d68f3831d40599a711619": {
       "published_at": "2026-10-29T02:25:12+00:00",
       "source": "thehindu.com",
@@ -21070,6 +21102,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:12:53.790256+00:00",
+  "last_cycle_at": "2026-10-29T06:40:12.187227+00:00",
   "schema_version": 1
 }
