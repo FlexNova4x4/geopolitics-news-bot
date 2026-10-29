@@ -4128,6 +4128,14 @@
       "updated_at": "2026-10-25T05:35:55.640634+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece"
     },
+    "2ea8b077095fe42cdfbd780a": {
+      "published_at": "2026-10-29T12:29:05+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+      "updated_at": "2026-10-29T13:03:12.631244+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss"
+    },
     "2eb401fedf29c3ecfbcfdd1d": {
       "published_at": "2026-10-29T00:00:15+00:00",
       "source": "feeds.bbci.co.uk",
@@ -4405,6 +4413,14 @@
       "title": "सोलन अस्पताल में दवाइयों की कमी, छह माह से बंद ऑक्सीजन प्लांट पर भाजपा ने उठाए सवाल: शैलेंद्र",
       "updated_at": "2026-10-29T06:12:26.322144+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-hospital-medicine-shortage-oxygen-plant-closed-six-months-2026-10-29"
+    },
+    "3224573d4e9053aedcd8d3fe": {
+      "published_at": "2026-10-29T12:36:16+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Hyderabad: Nearly four in 10 complaints on new traffic portal are for wrongly-issued challans",
+      "updated_at": "2026-10-29T13:03:12.631263+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-nearly-four-in-10-complaints-on-new-traffic-portal-are-for-wrongly-issued-challans/article71635688.ece"
     },
     "324fb21afd86531baa97b96f": {
       "published_at": "2026-10-25T14:26:35+00:00",
@@ -6394,6 +6410,14 @@
       "title": "Solan News: सोलन में 16 हजार के पार पहुंचे डायबिटीज के मरीज, युवा भी चपेट में",
       "updated_at": "2026-10-26T00:55:11.886358+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/number-of-diabetes-patients-in-solan-crosses-16000-young-people-also-affected-solan-news-c-176-1-sln1013-182727-2026-10-25"
+    },
+    "485484d27562c96f534ecf57": {
+      "published_at": "2026-10-29T12:36:43+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "South Korean prosecutors press for death sentence in Yoon martial law case",
+      "updated_at": "2026-10-29T13:03:12.631266+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss"
     },
     "485cadb53c686afce73731c2": {
       "published_at": "2026-10-26T21:33:56+00:00",
@@ -22072,6 +22096,14 @@
       "updated_at": "2026-10-27T07:05:40.300797+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/kullu-dussehra-devta-nazarana-and-bajantri-allowance-hike-2026-10-27"
     },
+    "f01404285087ef1915c4714f": {
+      "published_at": "2026-10-29T12:32:49+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+      "updated_at": "2026-10-29T13:03:12.631258+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss"
+    },
     "f0424110d7e234fe5df74630": {
       "published_at": "2026-10-29T06:37:13+00:00",
       "source": "amarujala.com",
@@ -23833,6 +23865,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:02:34.231244+00:00",
+  "last_cycle_at": "2026-10-29T13:03:12.633741+00:00",
   "schema_version": 1
 }
