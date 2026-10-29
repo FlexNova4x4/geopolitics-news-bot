@@ -570,9 +570,10 @@
     "075b2c648a3c3de75a9e9e43": {
       "published_at": "2026-10-28T18:57:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12081,
       "title": "Spain: Indian Embassy opens emergency helpline as death toll from high-speed train collision rises to 68",
-      "updated_at": "2026-10-29T03:40:49.052867+00:00",
+      "updated_at": "2026-10-29T03:40:52.578266+00:00",
       "url": "https://www.tribuneindia.com/news/european-leaders-condolences/spain-indian-embassy-opens-emergency-helpline-as-death-toll-from-high-speed-train-collision-rises-to-68"
     },
     "076a2d76cbfcc3bedd4f0996": {
@@ -5881,9 +5882,10 @@
     "55abef226d0637f9e59f195a": {
       "published_at": "2026-10-28T19:02:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12083,
       "title": "US jury convicts Rwandan American of lying about role in genocide",
-      "updated_at": "2026-10-29T03:40:49.052886+00:00",
+      "updated_at": "2026-10-29T03:41:00.640171+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss"
     },
     "55b61fdfa8f065b445e71ae5": {
@@ -16250,9 +16252,10 @@
     "e5b64acb905ad2c3c1760088": {
       "published_at": "2026-10-28T19:03:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12084,
       "title": "What are the implications of Israel’s elections?",
-      "updated_at": "2026-10-29T03:40:49.052889+00:00",
+      "updated_at": "2026-10-29T03:41:04.669401+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss"
     },
     "e5f3482befc22ed1ccad3206": {
@@ -16393,9 +16396,10 @@
     "e7641a5f203bce7754c1b7b1": {
       "published_at": "2026-10-28T19:01:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12082,
       "title": "Maritime Board (Amendment) Bill passed in Assembly amid Opposition walkout",
-      "updated_at": "2026-10-29T03:40:49.052882+00:00",
+      "updated_at": "2026-10-29T03:40:56.664358+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece"
     },
     "e764a5389607640e08851c6c": {
@@ -18447,6 +18451,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:40:49.054808+00:00",
+  "last_cycle_at": "2026-10-29T03:41:07.871699+00:00",
   "schema_version": 1
 }
