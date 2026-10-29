@@ -5723,9 +5723,10 @@
     "3e94480baed6b6be8547ca6d": {
       "published_at": "2026-10-29T13:46:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12764,
       "title": "Financial protection for patients cannot be achieved through a single intervention: former National Health Authority CEO",
-      "updated_at": "2026-10-29T14:34:42.306962+00:00",
+      "updated_at": "2026-10-29T14:34:46.191431+00:00",
       "url": "https://www.thehindu.com/sci-tech/health/financial-protection-cannot-be-achieved-through-a-single-intervention-indu-bhushan/article71640220.ece"
     },
     "3ea8520f40701ee47066ba2a": {
@@ -11950,9 +11951,10 @@
     "8044d996a3e6a7a07d9344e0": {
       "published_at": "2026-10-29T13:47:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12766,
       "title": "Farmer, sons washed away in Pampa canal in Kakinada district",
-      "updated_at": "2026-10-29T14:34:42.307257+00:00",
+      "updated_at": "2026-10-29T14:34:54.081186+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/farmer-sons-washed-away-in-pampa-canal-in-kakinada-district/article71640801.ece"
     },
     "804681cc13c5ff209f810355": {
@@ -17982,9 +17984,10 @@
     "be9126cfc48bca4e89454d54": {
       "published_at": "2026-10-29T13:47:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12767,
       "title": "Ugrappa urges Centre to include law enhancing SC, ST reservation in Ninth Schedule",
-      "updated_at": "2026-10-29T14:34:42.307260+00:00",
+      "updated_at": "2026-10-29T14:34:58.009046+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/ugrappa-urges-centre-to-include-law-enhancing-sc-st-reservation-in-ninth-schedule/article71640161.ece"
     },
     "bf0fe8c22deff580e861168d": {
@@ -20499,9 +20502,10 @@
     "d86c7c7970f32e690472c6c5": {
       "published_at": "2026-10-29T13:46:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12765,
       "title": "MLA seeks fresh probe into disruption of Thrissur Pooram",
-      "updated_at": "2026-10-29T14:34:42.307252+00:00",
+      "updated_at": "2026-10-29T14:34:50.103628+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/mla-seeks-fresh-probe-into-disruption-of-thrissur-pooram/article71640835.ece"
     },
     "d87817f0379981eec4b95991": {
@@ -24576,6 +24580,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:34:42.309828+00:00",
+  "last_cycle_at": "2026-10-29T14:35:01.212404+00:00",
   "schema_version": 1
 }
