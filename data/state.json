@@ -3635,9 +3635,10 @@
     "35164c58d2a823ed95f02152": {
       "published_at": "2026-10-28T19:17:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12099,
       "title": "Main negotiating tracks concluded for India-EU FTA, text undergoing legal scrubbing, says MEA",
-      "updated_at": "2026-10-29T03:44:07.821407+00:00",
+      "updated_at": "2026-10-29T03:44:19.284373+00:00",
       "url": "https://www.tribuneindia.com/news/economic-ties/main-negotiating-tracks-concluded-for-india-eu-fta-text-undergoing-legal-scrubbing-says-mea"
     },
     "351dfd6d60467364d7f1b182": {
@@ -11120,9 +11121,10 @@
     "9c5d5b2b0e3dc6fa849b716c": {
       "published_at": "2026-10-28T19:17:23+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12100,
       "title": "Election Commission's SIR exercise identifies just 1,600 foreigners on voter lists in six states",
-      "updated_at": "2026-10-29T03:44:07.821409+00:00",
+      "updated_at": "2026-10-29T03:44:23.184963+00:00",
       "url": "https://www.hindustantimes.com/india-news/election-commission-sir-exercise-identifies-just-1-600-foreigners-on-voter-lists-in-six-states-101793215044121.html"
     },
     "9c8b03e1542767c0a38a54d7": {
@@ -11155,9 +11157,10 @@
     "9cbb4d01c7a9fb8242b0c1e7": {
       "published_at": "2026-10-28T19:16:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12097,
       "title": "Cyclone Arnab: 17 Odisha districts affected by heavy rain, Gajapati worst hit",
-      "updated_at": "2026-10-29T03:44:07.821389+00:00",
+      "updated_at": "2026-10-29T03:44:11.416302+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-17-odisha-districts-affected-by-heavy-rain-gajapati-worst-hit/article71637117.ece"
     },
     "9ce2be0619732bfb37a0d55d": {
@@ -12392,9 +12395,10 @@
     "aeb06829dc3492ed2ed49351": {
       "published_at": "2026-10-28T19:16:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12098,
       "title": "From garbage dump to green lung: Residents give Aane Park in Malleswaram a new lease of life",
-      "updated_at": "2026-10-29T03:44:07.821402+00:00",
+      "updated_at": "2026-10-29T03:44:15.348557+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/from-garbage-dump-to-green-lung-residents-give-aane-park-in-malleswaram-a-new-lease-of-life/article71635067.ece"
     },
     "aebbcbbdd6901e272c292c9b": {
@@ -18591,6 +18595,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:44:07.823223+00:00",
+  "last_cycle_at": "2026-10-29T03:44:26.387291+00:00",
   "schema_version": 1
 }
