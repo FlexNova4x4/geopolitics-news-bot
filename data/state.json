@@ -372,9 +372,10 @@
     "03e4a700d40065bff3fc6f87": {
       "published_at": "2026-10-29T07:38:23+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12480,
       "title": "Odisha plans air evacuations in Ganjam district as Cyclone Arnab maroons 300 villages",
-      "updated_at": "2026-10-29T08:41:42.323970+00:00",
+      "updated_at": "2026-10-29T08:41:50.099526+00:00",
       "url": "https://www.tribuneindia.com/news/india/odisha-plans-air-evacuations-in-ganjam-district-as-cyclone-arnab-maroons-300-villages"
     },
     "0406c27630451e1687f7d4ff": {
@@ -9306,9 +9307,10 @@
     "6fbecc0ff0fdebbb677dca1f": {
       "published_at": "2026-10-29T07:36:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12479,
       "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
-      "updated_at": "2026-10-29T08:41:42.323955+00:00",
+      "updated_at": "2026-10-29T08:41:46.074501+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss"
     },
     "6fe185b26c7b94045b10f1f1": {
@@ -12452,9 +12454,10 @@
     "93e1366243660fab4e3eeff9": {
       "published_at": "2026-10-29T07:38:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12481,
       "title": "Congress-led Keralam govt firm on anti-corruption probe against Gyanesh Kumar over 2006 road project",
-      "updated_at": "2026-10-29T08:41:42.323974+00:00",
+      "updated_at": "2026-10-29T08:41:54.112505+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/congress-led-keralam-govt-firm-on-anti-corruption-probe-against-gyanesh-kumar-over-2006-road-project/article71639377.ece"
     },
     "940b4c9390cc8836b4fae9b1": {
@@ -14382,9 +14385,10 @@
     "aad5348a3ccc090174484751": {
       "published_at": "2026-10-29T07:41:04+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12482,
       "title": "Former US officials call on 2028 candidates to denounce Biden’s Gaza policy",
-      "updated_at": "2026-10-29T08:41:42.323978+00:00",
+      "updated_at": "2026-10-29T08:41:58.405074+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss"
     },
     "aad5a01d7fc6de7b00e1bb87": {
@@ -22020,6 +22024,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:41:42.326288+00:00",
+  "last_cycle_at": "2026-10-29T08:42:01.608035+00:00",
   "schema_version": 1
 }
