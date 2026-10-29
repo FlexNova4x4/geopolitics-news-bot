@@ -1200,9 +1200,10 @@
     "0c02315661a4840bbc2e06c3": {
       "published_at": "2026-10-29T17:52:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12956,
       "title": "Andhra Pradesh Minister tells official to expedite restoration works in cyclone-hit towns",
-      "updated_at": "2026-10-29T18:20:48.839721+00:00",
+      "updated_at": "2026-10-29T18:21:02.938823+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-minister-tells-official-to-expedite-restoration-works-in-cyclone-hit-towns/article71639870.ece"
     },
     "0c20be2279a6ab1b50124ae9": {
@@ -13911,9 +13912,10 @@
     "8b6cf137abd0064fb4cf57ca": {
       "published_at": "2026-10-29T17:50:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12955,
       "title": "Andhra Pradesh: Pay Intermediate Public Exam fee by November 10, 2026",
-      "updated_at": "2026-10-29T18:20:48.839715+00:00",
+      "updated_at": "2026-10-29T18:20:59.107790+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-pay-intermediate-public-exam-fee-by-november-10-2026/article71641540.ece"
     },
     "8b7e40d6cfb888ec0aa7b49d": {
@@ -19646,9 +19648,10 @@
     "c1f8a439437c5adbcad0e9d1": {
       "published_at": "2026-10-29T17:28:18+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12953,
       "title": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-      "updated_at": "2026-10-29T18:20:48.839666+00:00",
+      "updated_at": "2026-10-29T18:20:51.472043+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss"
     },
     "c2038ce3804e3dbe20b1c183": {
@@ -24610,9 +24613,10 @@
     "f26bb5563937c6e14340c798": {
       "published_at": "2026-10-29T17:48:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12954,
       "title": "KLU students win awards in two categories at Rashtriya Innovation Challenge-2026",
-      "updated_at": "2026-10-29T18:20:48.839680+00:00",
+      "updated_at": "2026-10-29T18:20:55.329651+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/klu-students-win-awards-in-two-categories-at-rashtriya-innovation-challenge-2026/article71641654.ece"
     },
     "f27ea5ce5945a716cd0ced85": {
@@ -26259,6 +26263,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:20:48.842823+00:00",
+  "last_cycle_at": "2026-10-29T18:21:06.142504+00:00",
   "schema_version": 1
 }
