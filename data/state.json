@@ -480,9 +480,10 @@
     "05539dfb9003061a9b74146b": {
       "published_at": "2026-10-29T05:39:54+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12361,
       "title": "मंडी: दो बीघा जमीन से दो लाख की कमाई, ड्रैगन फ्रूट ने बदली किसानों की तकदीर",
-      "updated_at": "2026-10-29T06:10:58.548066+00:00",
+      "updated_at": "2026-10-29T06:11:14.594123+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-dragon-fruit-farming-two-bigha-two-lakh-income-mandi-himachal-2026-10-29"
     },
     "0559fbba62aa2d59a81d89ca": {
@@ -6556,9 +6557,10 @@
     "557f8661cafd5174462fe852": {
       "published_at": "2026-10-29T05:35:03+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12358,
       "title": "BJP's Kiren Rijiju calls Naseeruddin Shah ‘dangerous urban Dimagi Naxal’ after actor backs Jamia students",
-      "updated_at": "2026-10-29T06:10:58.548042+00:00",
+      "updated_at": "2026-10-29T06:11:02.295589+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjps-kiren-rijiju-calls-naseeruddin-shah-dangerous-urban-dimagi-naxal-after-actor-backs-jamia-students-101793249676180.html"
     },
     "558eb7a2ddf9f27779103403": {
@@ -6951,9 +6953,10 @@
     "5994dcf41936c7ffee2516e8": {
       "published_at": "2026-10-29T05:36:08+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12359,
       "title": "Why a Democratic win in US midterms could adversely affect Europe",
-      "updated_at": "2026-10-29T06:10:58.548059+00:00",
+      "updated_at": "2026-10-29T06:11:06.395783+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe?traffic_source=rss"
     },
     "59b4867865910abe7cc097e2": {
@@ -20477,9 +20480,10 @@
     "fb2e57a22378a812daad2392": {
       "published_at": "2026-10-29T05:37:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12360,
       "title": "Suspected ballistic missile launched from North Korea: Japan PMO",
-      "updated_at": "2026-10-29T06:10:58.548063+00:00",
+      "updated_at": "2026-10-29T06:11:10.367490+00:00",
       "url": "https://www.tribuneindia.com/news/aircraft-safety/suspected-ballistic-missile-launched-from-north-korea-japan-pmo"
     },
     "fb2f53a20f7b747ce6c29660": {
@@ -20940,6 +20944,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:10:58.550264+00:00",
+  "last_cycle_at": "2026-10-29T06:11:17.797009+00:00",
   "schema_version": 1
 }
