@@ -3251,9 +3251,10 @@
     "234cf72de8843a7ec588f8b1": {
       "published_at": "2026-10-29T13:30:55+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12743,
       "title": "Indonesians share impact of haze on their livelihoods",
-      "updated_at": "2026-10-29T14:04:41.758451+00:00",
+      "updated_at": "2026-10-29T14:04:58.008159+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss"
     },
     "23827c27378057676a41af34": {
@@ -10996,9 +10997,10 @@
     "7776b88a1b3a992d7f4d4974": {
       "published_at": "2026-10-29T13:29:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12740,
       "title": "Hasanamba Temple festival: KSRTC, KSTDC announce 12 tour packages; private operators fully booked",
-      "updated_at": "2026-10-29T14:04:41.758422+00:00",
+      "updated_at": "2026-10-29T14:04:45.977733+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/hasanamba-temple-festival-ksrtc-kstdc-announce-12-tour-packages-private-operators-fully-booked/article71640140.ece"
     },
     "77786d5be8b00ee0754c51c2": {
@@ -12524,9 +12526,10 @@
     "86fd35e40b52508d3df9f3bd": {
       "published_at": "2026-10-29T13:29:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12741,
       "title": "GWMC told to fast-track Waddepalli Tank Bund development project",
-      "updated_at": "2026-10-29T14:04:41.758440+00:00",
+      "updated_at": "2026-10-29T14:04:49.889114+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/gwmc-told-to-fast-track-waddepalli-tank-bund-development-project/article71640215.ece"
     },
     "87122a28c1009f6059b7a7f3": {
@@ -17792,9 +17795,10 @@
     "be7df1df4e1f831036924979": {
       "published_at": "2026-10-29T13:30:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12742,
       "title": "Vishwanath rules out releasing his book Bombay Days",
-      "updated_at": "2026-10-29T14:04:41.758445+00:00",
+      "updated_at": "2026-10-29T14:04:53.883481+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/vishwanath-rules-out-releasing-his-book-bombay-days/article71640515.ece"
     },
     "be9044723dbee5eb1b77a7dc": {
@@ -24360,6 +24364,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:04:41.761322+00:00",
+  "last_cycle_at": "2026-10-29T14:05:01.211552+00:00",
   "schema_version": 1
 }
