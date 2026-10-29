@@ -4067,9 +4067,10 @@
     "3065d5af8ba6de4f6af66edf": {
       "published_at": "2026-10-29T09:19:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12550,
       "title": "Hong Kong's Housing Minister resigns after fire investigation finds inadequate oversight",
-      "updated_at": "2026-10-29T09:30:43.972667+00:00",
+      "updated_at": "2026-10-29T09:31:01.189531+00:00",
       "url": "https://www.thehindu.com/news/international/hong-kongs-housing-minister-resigns-after-fire-investigation-finds-inadequate-oversight/article71639735.ece"
     },
     "3078997d101e7a7e70b42510": {
@@ -5569,9 +5570,10 @@
     "42da2118d49718e2b1ee4e4a": {
       "published_at": "2026-10-29T09:17:54+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12548,
       "title": "Odisha plans to airlift 120 stranded in Ganjam amid Cyclone Arnab aftermath",
-      "updated_at": "2026-10-29T09:30:43.972657+00:00",
+      "updated_at": "2026-10-29T09:30:52.833074+00:00",
       "url": "https://www.hindustantimes.com/india-news/odisha-plans-to-airlift-120-stranded-in-ganjam-amid-cyclone-arnab-aftermath-101793264429754.html"
     },
     "42f5f151d5cde4369775590a": {
@@ -9880,9 +9882,10 @@
     "735506910a5c9cf705e5007d": {
       "published_at": "2026-10-29T09:14:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12547,
       "title": "Cheranalloor luxury car crash: judge appears before SIT for second day of questioning",
-      "updated_at": "2026-10-29T09:30:43.972637+00:00",
+      "updated_at": "2026-10-29T09:30:48.876128+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cheranalloor-luxury-car-crash-judge-appears-before-sit-for-second-day-of-questioning/article71639285.ece"
     },
     "736dd129378993c7b13aac9d": {
@@ -20776,9 +20779,10 @@
     "eeb8d3a20edc78ddff523525": {
       "published_at": "2026-10-29T09:18:28+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12549,
       "title": "Chhattisgarh govt school principal removed after Asaram booklets distributed to students",
-      "updated_at": "2026-10-29T09:30:43.972662+00:00",
+      "updated_at": "2026-10-29T09:30:57.030080+00:00",
       "url": "https://www.hindustantimes.com/india-news/chhattisgarh-govt-school-principal-removed-after-asaram-booklets-distributed-to-students-101793264566924.html"
     },
     "eec77913c301980ca84c3eca": {
@@ -22632,6 +22636,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:30:43.974831+00:00",
+  "last_cycle_at": "2026-10-29T09:31:04.392284+00:00",
   "schema_version": 1
 }
