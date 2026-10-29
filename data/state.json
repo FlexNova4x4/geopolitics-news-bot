@@ -5426,9 +5426,10 @@
     "4a5e83c446ec7c8cc2aec85d": {
       "published_at": "2026-10-29T01:17:28+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12214,
       "title": "ED conducts searches Mumbai, Gujarat in drug-trafficking probe",
-      "updated_at": "2026-10-29T04:23:45.089501+00:00",
+      "updated_at": "2026-10-29T04:23:52.499489+00:00",
       "url": "https://www.hindustantimes.com/india-news/ed-conducts-searches-mumbai-gujarat-in-drug-trafficking-probe-101793236649386.html"
     },
     "4a7318ccf24ce723cd311943": {
@@ -7597,9 +7598,10 @@
     "680ca4caee5b5fc7d6d7efa4": {
       "published_at": "2026-10-29T01:17:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12215,
       "title": "In setback to BJP, Congress wins Nagpur MLC seat",
-      "updated_at": "2026-10-29T04:23:45.089505+00:00",
+      "updated_at": "2026-10-29T04:23:56.593902+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/in-setback-to-bjp-congress-wins-nagpur-mlc-seat/article71638769.ece"
     },
     "683ae934eb1a4125cf3a9e30": {
@@ -15083,9 +15085,10 @@
     "c5fe387bb381f8c9033806d5": {
       "published_at": "2026-10-29T01:16:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12213,
       "title": "Modi will return to Red Fort as PM in 2029, Congress breathing its last under Rahul: Nitin Nabin",
-      "updated_at": "2026-10-29T04:23:45.089486+00:00",
+      "updated_at": "2026-10-29T04:23:48.455115+00:00",
       "url": "https://www.thehindu.com/news/national/bjp-criticises-the-indian-national-congress/article71636906.ece"
     },
     "c5ff3410ddc891d205020635": {
@@ -17743,9 +17746,10 @@
     "eb60950b0d81429b9ecf34d4": {
       "published_at": "2026-10-29T01:22:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12216,
       "title": "Israel: Hundreds protest in Tel Aviv, Jerusalem and Haifa calling for Jewish-Arab government",
-      "updated_at": "2026-10-29T04:23:45.089509+00:00",
+      "updated_at": "2026-10-29T04:24:00.572159+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu-government/israel-hundreds-protest-in-tel-aviv-jerusalem-and-haifa-calling-for-jewish-arab-government"
     },
     "eb64aab57592c0edcbfac440": {
@@ -19635,6 +19639,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:23:45.091462+00:00",
+  "last_cycle_at": "2026-10-29T04:24:03.774799+00:00",
   "schema_version": 1
 }
