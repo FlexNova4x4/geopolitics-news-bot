@@ -9653,6 +9653,14 @@
       "updated_at": "2026-10-25T05:06:02.358538+00:00",
       "url": "https://www.dawn.com/news/2039546/insurance-worker-booked-for-rape-in-sahiwal"
     },
+    "75ac6b5d299a3527a4d22558": {
+      "published_at": "2026-10-29T07:24:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rajnath raises U.S. F-16 package for Pakistan, cross-border terrorism with Hegseth",
+      "updated_at": "2026-10-29T08:11:35.565271+00:00",
+      "url": "https://www.thehindu.com/news/national/rajnath-singh-pete-hegseth-meeting-india-usa-defence-pact-october-28-2026/article71634844.ece"
+    },
     "75bed4d167ac991ab62d79a6": {
       "published_at": "2026-10-29T02:02:07+00:00",
       "source": "publish.tribuneindia.com",
@@ -14723,6 +14731,14 @@
       "updated_at": "2026-10-27T16:40:52.003836+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus/defence-minister-rajnath-singh-arrives-in-philippines-to-attend-13th-asean-defence-ministers-meeting-plus"
     },
+    "b16e42d6ca223b7d5a628f25": {
+      "published_at": "2026-10-29T07:25:05+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Stephen Curry, Warriors hold nerve to beat Timberwolves in tight NBA battle",
+      "updated_at": "2026-10-29T08:11:35.565302+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/stephen-curry-warriors-hold-nerve-to-beat-timberwolves-in-tight-nba-battle?traffic_source=rss"
+    },
     "b17cccc32ea3e5be3c1e8c18": {
       "published_at": "2026-10-27T05:47:16+00:00",
       "source": "publish.tribuneindia.com",
@@ -17125,6 +17141,14 @@
       "updated_at": "2026-10-25T15:15:15.014913+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
     },
+    "cc854d41a0eff067f40e9763": {
+      "published_at": "2026-10-29T07:24:47+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "North Korea fires missiles as row over landmine blast intensifies",
+      "updated_at": "2026-10-29T08:11:35.565298+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss"
+    },
     "cc950eef532ff3e1513cd7d6": {
       "published_at": "2026-10-27T07:19:32+00:00",
       "source": "thehindu.com",
@@ -18572,6 +18596,14 @@
       "title": "Kumaraswamy accuses DK Shivakumar of plotting ₹600-crore deal to ‘politically eliminate’ Deve Gowda family",
       "updated_at": "2026-10-26T08:45:19.325320+00:00",
       "url": "https://www.hindustantimes.com/india-news/hd-accuses-shivakumar-of-rs-600-crore-plot-to-politically-eliminate-deve-gowda-family-101792995298760.html"
+    },
+    "dcc5a6de0f01bc3055f3ae70": {
+      "published_at": "2026-10-29T07:24:29+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Loka Kerala Sabha disbanded as it failed to meet objectives: Keralam CM",
+      "updated_at": "2026-10-29T08:11:35.565292+00:00",
+      "url": "https://www.hindustantimes.com/india-news/loka-kerala-sabha-disbanded-as-it-failed-to-meet-objectives-keralam-cm-101793258669723.html"
     },
     "dd18f8b2621c0e0328d62e4d": {
       "published_at": "2026-10-28T19:42:34+00:00",
@@ -21772,6 +21804,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:11:27.787319+00:00",
+  "last_cycle_at": "2026-10-29T08:11:35.567547+00:00",
   "schema_version": 1
 }
