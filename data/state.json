@@ -6710,9 +6710,10 @@
     "5abab056515cf390eec3c919": {
       "published_at": "2026-10-29T02:35:29+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12258,
       "title": "Decoding MLC poll results: BJP wins 13 seats, Samajwadi Party gains, Congress and Jan Suraaj win 1 each",
-      "updated_at": "2026-10-29T05:12:33.735554+00:00",
+      "updated_at": "2026-10-29T05:12:41.424030+00:00",
       "url": "https://www.hindustantimes.com/india-news/mlc-poll-results-uttar-pradesh-maharashtra-bihar-karnataka-legislative-council-elections-bjp-sp-congress-jan-suraaj-ncp-101793234311774.html"
     },
     "5ac35c58a87da6e1a0d68bc2": {
@@ -8172,9 +8173,10 @@
     "6dda2756d2ab5cd8a0954c13": {
       "published_at": "2026-10-29T02:36:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12260,
       "title": "Not Modi-Shah’s plaything: Rahul says Tata Group being criminally destroyed",
-      "updated_at": "2026-10-29T05:12:33.735565+00:00",
+      "updated_at": "2026-10-29T05:12:49.726905+00:00",
       "url": "https://www.tribuneindia.com/news/india/not-modi-shahs-plaything-rahul-says-tata-group-being-criminally-destroyed"
     },
     "6ddf9eb8fc22e7e632a37c51": {
@@ -13842,9 +13844,10 @@
     "b540eb8de54ffdad32d05279": {
       "published_at": "2026-10-29T02:36:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12259,
       "title": "ECI team, including Maneesh Garg, visited Manipur to review poll preps",
-      "updated_at": "2026-10-29T05:12:33.735560+00:00",
+      "updated_at": "2026-10-29T05:12:45.630307+00:00",
       "url": "https://www.hindustantimes.com/india-news/eci-team-including-maneesh-garg-visited-manipur-to-review-poll-preps-101793241329811.html"
     },
     "b5602e38a0898ddab2e084e1": {
@@ -15118,9 +15121,10 @@
     "c29a39126f667d71275d0ab1": {
       "published_at": "2026-10-29T02:33:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12257,
       "title": "Kalshi, cofounders hit with criminal charges in US state of Utah",
-      "updated_at": "2026-10-29T05:12:33.735535+00:00",
+      "updated_at": "2026-10-29T05:12:37.520761+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/29/kalshi-co-founders-hit-with-criminal-charges-in-us-state-of-utah?traffic_source=rss"
     },
     "c3005249b4364682c313af9c": {
@@ -20031,6 +20035,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:12:33.737554+00:00",
+  "last_cycle_at": "2026-10-29T05:12:52.929538+00:00",
   "schema_version": 1
 }
