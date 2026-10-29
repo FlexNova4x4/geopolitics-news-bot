@@ -498,9 +498,10 @@
     "056a83b245d72a4a90fdd40e": {
       "published_at": "2026-10-28T20:38:24+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12474,
       "title": "कांगड़ा: करवाचौथ पर धर्मशाला के फव्वारा चौक में मेहंदी लगवाने पहुंचीं महिलाएं, कलाकारों को मिला मंच",
-      "updated_at": "2026-10-29T08:40:46.682355+00:00",
+      "updated_at": "2026-10-29T08:41:03.299849+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kangra/video-dharamshala-karwa-chauth-mehndi-artists-fountain-chowk-2026-10-29"
     },
     "058ce8f9ca82f475c2cdb219": {
@@ -1955,9 +1956,10 @@
     "16ac6bc4ced306d41a3fcd34": {
       "published_at": "2026-10-28T20:32:42+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12472,
       "title": "करवाचौथ पर शिमला के लोअर बाजार में उमड़ी महिलाओं की भीड़, चूड़ियों और डिजाइनर थालियों की खूब हुई खरीदारी",
-      "updated_at": "2026-10-29T08:40:46.682344+00:00",
+      "updated_at": "2026-10-29T08:40:54.665379+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-shimla-lower-bazaar-karwa-chauth-shopping-rush-2026-10-29"
     },
     "16b615a53a3377cdf0f4226a": {
@@ -3284,9 +3286,10 @@
     "282047c560df4a9b347ebad2": {
       "published_at": "2026-10-28T20:27:11+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12471,
       "title": "हिमाचल: शिमला के फागू में कार से नौ ग्राम चिट्टा बरामद, ठियोग के दो युवक गिरफ्तार",
-      "updated_at": "2026-10-29T08:40:46.682324+00:00",
+      "updated_at": "2026-10-29T08:40:50.279189+00:00",
       "url": "https://www.amarujala.com/shimla/fagu-shimla-car-heroin-seizure-two-arrested-2026-10-29"
     },
     "283c299a6757038aacd891df": {
@@ -7022,9 +7025,10 @@
     "56f2717276a87588d80ab112": {
       "published_at": "2026-10-28T20:37:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12473,
       "title": "बिलासपुर: करवा चौथ पर रंग-बिरंगी चूड़ियों से सजा श्री नयना देवी जी का बाजार, सुहागिनों में खरीदारी का उत्साह",
-      "updated_at": "2026-10-29T08:40:46.682350+00:00",
+      "updated_at": "2026-10-29T08:40:58.966970+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/bilaspur/video-shri-naina-devi-karwa-chauth-colourful-bangles-market-2026-10-29"
     },
     "5717bd2caf2d34fa21e56e0a": {
@@ -21948,6 +21952,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:40:46.684802+00:00",
+  "last_cycle_at": "2026-10-29T08:41:06.502868+00:00",
   "schema_version": 1
 }
