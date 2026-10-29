@@ -1452,9 +1452,10 @@
     "0f2426b9624faf9b292977e6": {
       "published_at": "2026-10-29T16:15:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12890,
       "title": "Census trainers flag queries on Aadhaar, caste, age and birthplace of parents as key challenges",
-      "updated_at": "2026-10-29T16:53:42.032249+00:00",
+      "updated_at": "2026-10-29T16:53:52.493464+00:00",
       "url": "https://www.thehindu.com/news/national/census-trainers-flag-queries-on-aadhaar-caste-age-and-birthplace-of-parents-as-key-challenges/article71640896.ece"
     },
     "0f7dd16fe6cc0d9f990389da": {
@@ -11437,9 +11438,10 @@
     "769bdd7c20b5f49159dbed00": {
       "published_at": "2026-10-29T16:17:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12891,
       "title": "Flash floods leave AP-Odisha border villages inundated, traffic on NH-16 disrupted",
-      "updated_at": "2026-10-29T16:53:42.032252+00:00",
+      "updated_at": "2026-10-29T16:53:56.237145+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/flash-floods-leave-ap-odisha-border-villages-inundated-traffic-on-nh-16-disrupted/article71639316.ece"
     },
     "76c36ad86e563e5798ac1800": {
@@ -16183,9 +16185,10 @@
     "a5939b182c9c55642f414ce8": {
       "published_at": "2026-10-29T16:13:11+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12888,
       "title": "Former Bengal minister Indranil Sen remanded to police custody till November 10 in Durga Puja graft case",
-      "updated_at": "2026-10-29T16:53:42.032227+00:00",
+      "updated_at": "2026-10-29T16:53:44.839152+00:00",
       "url": "https://www.tribuneindia.com/news/india/former-bengal-minister-indranil-sen-remanded-to-police-custody-till-november-10-in-durga-puja-graft-case"
     },
     "a5a473ea1c1f44b4a41b9705": {
@@ -21669,9 +21672,10 @@
     "daee927a124c0f5762b5c419": {
       "published_at": "2026-10-29T16:13:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12889,
       "title": "Lorry driver gets seven days jail for hitting Vizianagaram Collector’s car",
-      "updated_at": "2026-10-29T16:53:42.032245+00:00",
+      "updated_at": "2026-10-29T16:53:48.744129+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/lorry-driver-gets-seven-days-jail-for-hitting-vizianagaram-collectors-car/article71641667.ece"
     },
     "db03056f068ac83473e99bf4": {
@@ -25692,6 +25696,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:53:42.035166+00:00",
+  "last_cycle_at": "2026-10-29T16:53:59.440858+00:00",
   "schema_version": 1
 }
