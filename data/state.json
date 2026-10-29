@@ -3008,9 +3008,10 @@
     "1d2ab4e044f42a6639102672": {
       "published_at": "2026-10-29T20:27:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13040,
       "title": "Israel: Ra’am’s Abbas reportedly pessimistic over potential to establish minority government",
-      "updated_at": "2026-10-29T20:51:38.079198+00:00",
+      "updated_at": "2026-10-29T20:51:41.435270+00:00",
       "url": "https://www.tribuneindia.com/news/arab-party-support/israel-raams-abbas-reportedly-pessimistic-over-potential-to-establish-minority-government"
     },
     "1d39561ff07b1e536d0e47b4": {
@@ -11906,9 +11907,10 @@
     "742a03813971fe41ac0c6b80": {
       "published_at": "2026-10-29T20:30:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13042,
       "title": "Stop trolling, reflect on MLC poll losses: Congress hits out at Modi",
-      "updated_at": "2026-10-29T20:51:38.079218+00:00",
+      "updated_at": "2026-10-29T20:51:49.090716+00:00",
       "url": "https://www.tribuneindia.com/news/india/stop-trolling-reflect-on-mlc-poll-losses-congress-hits-out-at-modi"
     },
     "742ea8b45a3edcf31c8a31c5": {
@@ -22426,9 +22428,10 @@
     "d72db0ab036baecfb908b007": {
       "published_at": "2026-10-29T20:37:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13043,
       "title": "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise",
-      "updated_at": "2026-10-29T20:51:38.079221+00:00",
+      "updated_at": "2026-10-29T20:51:52.983932+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/any-plan-to-restrict-sale-of-liquor-in-hotel-bars-and-clubs-located-close-to-educational-institutions-madas-high-court-asks-commissioner-of-prohibition-and-excise/article71642073.ece"
     },
     "d7326455d3174baa940e497a": {
@@ -26856,9 +26859,10 @@
     "fe779940c54c8ca7196e2a48": {
       "published_at": "2026-10-29T20:30:51+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13041,
       "title": "Banks must repay digital fraud victims if due diligence fails: SC",
-      "updated_at": "2026-10-29T20:51:38.079215+00:00",
+      "updated_at": "2026-10-29T20:51:45.205972+00:00",
       "url": "https://www.tribuneindia.com/news/india/banks-must-repay-digital-fraud-victims-if-due-diligence-fails-sc"
     },
     "fe9a5e93f24287b7a4630153": {
@@ -27042,6 +27046,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:51:38.082571+00:00",
+  "last_cycle_at": "2026-10-29T20:51:56.188207+00:00",
   "schema_version": 1
 }
