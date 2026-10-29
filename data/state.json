@@ -1515,9 +1515,10 @@
     "103de95531210383d0dc3e32": {
       "published_at": "2026-10-29T14:40:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12810,
       "title": "Prior approval not required for private complaints against corruption, says judge",
-      "updated_at": "2026-10-29T15:25:56.352102+00:00",
+      "updated_at": "2026-10-29T15:26:07.398452+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/prior-approval-not-required-for-private-complaints-against-corruption-says-judge/article71640993.ece"
     },
     "1067f720ed8ddbd666d764f0": {
@@ -3968,9 +3969,10 @@
     "2bd08e7e550900e23c383a22": {
       "published_at": "2026-10-29T14:40:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12809,
       "title": "Tirumala water reserves to last till March-April, says TTD Chairman",
-      "updated_at": "2026-10-29T15:25:56.352097+00:00",
+      "updated_at": "2026-10-29T15:26:03.367448+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirumala-water-reserves-to-last-till-march-april-says-ttd-chairman/article71640807.ece"
     },
     "2bdfa8e264c62c5061d53ffb": {
@@ -4983,9 +4985,10 @@
     "35f62fd8ad296c087852d374": {
       "published_at": "2026-10-29T14:40:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12811,
       "title": "Elephant calf falls into abandoned well in Keralam’s Palappilly; rescued after hours of effort",
-      "updated_at": "2026-10-29T15:25:56.352105+00:00",
+      "updated_at": "2026-10-29T15:26:11.434570+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/elephant-calf-falls-into-abandoned-well-in-keralams-palappilly-rescued-after-hours-of-effort/article71641009.ece"
     },
     "35f84cb7209357ed4c65c7f0": {
@@ -5954,9 +5957,10 @@
     "405879824bc34173262d5e65": {
       "published_at": "2026-10-29T14:39:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12808,
       "title": "Loans to the tune of ₹584.67 crore disbursed to MSMEs in Cuddalore",
-      "updated_at": "2026-10-29T15:25:56.352084+00:00",
+      "updated_at": "2026-10-29T15:25:59.471845+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/loans-to-the-tune-of-58467-crore-disbursed-to-msmes-in-cuddalore/article71639899.ece"
     },
     "40608e39db027348e5a0287e": {
@@ -24972,6 +24976,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:25:56.354762+00:00",
+  "last_cycle_at": "2026-10-29T15:26:14.637829+00:00",
   "schema_version": 1
 }
