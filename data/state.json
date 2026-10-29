@@ -6317,9 +6317,10 @@
     "4002639b900185ff8153b1e5": {
       "published_at": "2026-10-29T19:07:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12978,
       "title": "ACB, Food Safety and Drug Control teams inspect NIMS amid corruption allegations",
-      "updated_at": "2026-10-29T19:21:00.490090+00:00",
+      "updated_at": "2026-10-29T19:21:06.660907+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/acb-food-safety-and-drug-control-teams-inspect-nims-amid-corruption-allegations/article71642065.ece"
     },
     "401186e0123678f277afecad": {
@@ -7432,9 +7433,10 @@
     "4ab3a42f36bc06f4e6143fcc": {
       "published_at": "2026-10-29T19:06:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12977,
       "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
-      "updated_at": "2026-10-29T19:21:00.490074+00:00",
+      "updated_at": "2026-10-29T19:21:02.907201+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss"
     },
     "4ac3febad06145c23237be4f": {
@@ -9218,9 +9220,10 @@
     "5c918ee577b78a3fd21c65a5": {
       "published_at": "2026-10-29T19:12:58+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12979,
       "title": "Zelenskyy calls for stronger EU support as Antonio Costa condemns Russian strikes that kill 19 in Ukraine",
-      "updated_at": "2026-10-29T19:21:00.490094+00:00",
+      "updated_at": "2026-10-29T19:21:10.394228+00:00",
       "url": "https://www.tribuneindia.com/news/antonio-costa/zelenskyy-calls-for-stronger-eu-support-as-antonio-costa-condemns-russian-strikes-that-kill-19-in-ukraine"
     },
     "5ca4797808088b5185fc2e14": {
@@ -26467,6 +26470,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:21:00.493452+00:00",
+  "last_cycle_at": "2026-10-29T19:21:13.598029+00:00",
   "schema_version": 1
 }
