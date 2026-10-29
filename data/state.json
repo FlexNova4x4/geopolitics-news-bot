@@ -1524,9 +1524,10 @@
     "117f28d220c8f25d1352d757": {
       "published_at": "2026-10-28T22:51:11+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12579,
       "title": "हिमाचल होटल फेडरेशन को मिला नया नेतृत्व, देवेंद्र अध्यक्ष और तरुण बख्शी महासचिव नियुक्त; देखें पूरी सूची",
-      "updated_at": "2026-10-29T11:01:03.898490+00:00",
+      "updated_at": "2026-10-29T11:01:16.087556+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-hotel-restaurant-association-new-executive-devendra-verma-president-2026-10-29"
     },
     "118b609c09f14f4f57c4d78f": {
@@ -4444,9 +4445,10 @@
     "34903c75a098e9b5e3793910": {
       "published_at": "2026-10-28T22:35:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12577,
       "title": "वीडियो: करवाचौथ पर बाजार में खराब माैसम के कारण कम रही आवाजाही",
-      "updated_at": "2026-10-29T11:01:03.898471+00:00",
+      "updated_at": "2026-10-29T11:01:07.822454+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-low-footfall-in-markets-on-karwa-chauth-due-to-bad-weather-2026-10-29"
     },
     "3499ac59864dbf3cd0ccf248": {
@@ -7257,9 +7259,10 @@
     "55a230fccaf69b6dbd6b050a": {
       "published_at": "2026-10-28T22:37:46+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12578,
       "title": "शिमला: रणधीर शर्मा बोले- 397 कैंसर दवाओं के दाम घटे, 93 फीसदी तक राहत",
-      "updated_at": "2026-10-29T11:01:03.898487+00:00",
+      "updated_at": "2026-10-29T11:01:11.928476+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-randhir-sharma-says-prices-of-397-cancer-drugs-have-been-reduced-offering-relief-of-up-to-93-percent-2026-10-29"
     },
     "55abef226d0637f9e59f195a": {
@@ -16109,9 +16112,10 @@
     "b809b2edea17e0e2495474c2": {
       "published_at": "2026-10-28T22:53:40+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12580,
       "title": "धर्मपुर: 18 लाख से धर्मपुर-छपाणु सड़क की जा रही चकाचक",
-      "updated_at": "2026-10-29T11:01:03.898493+00:00",
+      "updated_at": "2026-10-29T11:01:20.213980+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/mandi/video-dharampur-dharampur-chhapanu-road-being-spruced-up-at-a-cost-of-rs-18-lakh-2026-10-29"
     },
     "b811cd897ca8750a2c94d2fd": {
@@ -22902,6 +22906,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:01:03.900775+00:00",
+  "last_cycle_at": "2026-10-29T11:01:23.416916+00:00",
   "schema_version": 1
 }
