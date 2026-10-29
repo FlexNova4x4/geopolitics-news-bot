@@ -3554,9 +3554,10 @@
     "327aca0e6f96429810e1f79d": {
       "published_at": "2026-10-28T19:52:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12137,
       "title": "Clinging on: On Netanyahu and the Israel elections",
-      "updated_at": "2026-10-29T04:13:45.923696+00:00",
+      "updated_at": "2026-10-29T04:13:49.183847+00:00",
       "url": "https://www.thehindu.com/opinion/editorial/clinging-on-on-netanyahu-and-the-israel-elections/article71636497.ece"
     },
     "32bd2b6300f9cd74f3011f57": {
@@ -10806,9 +10807,10 @@
     "94fa238d56915c5d2ca491a4": {
       "published_at": "2026-10-28T19:55:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12139,
       "title": "25 Chamba panchayats, MC areas designated drug red zones",
-      "updated_at": "2026-10-29T04:13:45.923716+00:00",
+      "updated_at": "2026-10-29T04:13:57.007581+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/25-chamba-panchayats-mc-areas-designated-drug-red-zones"
     },
     "9500611802f1b4613a732330": {
@@ -15542,9 +15544,10 @@
     "d4f815efba612428fb66a91d": {
       "published_at": "2026-10-28T19:54:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12138,
       "title": "Shortage of medicines at Solan’s Regional Hospital, oxygen plant non-functional for four months",
-      "updated_at": "2026-10-29T04:13:45.923712+00:00",
+      "updated_at": "2026-10-29T04:13:53.105324+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/shortage-of-medicines-at-solans-regional-hospital-oxygen-plant-non-functional-for-four-months"
     },
     "d508b60b9b67578eb6c4f1ea": {
@@ -15846,9 +15849,10 @@
     "d87817f0379981eec4b95991": {
       "published_at": "2026-10-28T19:55:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12140,
       "title": "Make AI security priority, not productivity: Altman",
-      "updated_at": "2026-10-29T04:13:45.923718+00:00",
+      "updated_at": "2026-10-29T04:14:01.115703+00:00",
       "url": "https://www.tribuneindia.com/news/world/make-ai-security-priority-not-productivity-altman"
     },
     "d8d9cbac081d765d2027748b": {
@@ -18951,6 +18955,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:13:45.925778+00:00",
+  "last_cycle_at": "2026-10-29T04:14:04.318393+00:00",
   "schema_version": 1
 }
