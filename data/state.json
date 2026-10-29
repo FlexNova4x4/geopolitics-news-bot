@@ -6182,9 +6182,10 @@
     "4903e8aa90439b3a1fcb350c": {
       "published_at": "2026-10-29T09:41:58+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12572,
       "title": "Here’s how Israel could break the election deadlock",
-      "updated_at": "2026-10-29T10:32:10.922309+00:00",
+      "updated_at": "2026-10-29T10:32:27.472789+00:00",
       "url": "https://www.tribuneindia.com/news/world/heres-how-israel-could-break-the-election-deadlock"
     },
     "4920da91441221da9379b166": {
@@ -9971,9 +9972,10 @@
     "73c3273e4743cd5bad758ea3": {
       "published_at": "2026-10-29T09:41:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12571,
       "title": "Sada ‘Master’, ace guitarist who enriched Ilaiyaraaja’s compositions, dies at 80",
-      "updated_at": "2026-10-29T10:32:10.922306+00:00",
+      "updated_at": "2026-10-29T10:32:23.485147+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/sada-master-ace-guitarist-who-enriched-ilaiyaraajas-compositions-dies-at-80/article71639851.ece"
     },
     "73cefbe8cc3addca3ec62de4": {
@@ -11282,9 +11284,10 @@
     "82429dcf004153257eec49ba": {
       "published_at": "2026-10-29T09:38:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12570,
       "title": "Spain train crash: Indian Embassy in Madrid issues helpline after deadly accident",
-      "updated_at": "2026-10-29T10:32:10.922301+00:00",
+      "updated_at": "2026-10-29T10:32:19.019938+00:00",
       "url": "https://www.thehindu.com/news/international/spain-train-crash-indian-embassy-madrid-emergency-helpline/article71639009.ece"
     },
     "824da3df88156412c167f0e0": {
@@ -13951,9 +13954,10 @@
     "9fb56ab218125245bcc82914": {
       "published_at": "2026-10-29T09:37:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12569,
       "title": "Israel police say they will not allow “purity of election to be undermined”, assure full investigation of alleged fraud",
-      "updated_at": "2026-10-29T10:32:10.922286+00:00",
+      "updated_at": "2026-10-29T10:32:15.098158+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/israel-police-say-they-will-not-allow-purity-of-election-to-be-undermined-assure-full-investigation-of-alleged-fraud"
     },
     "9fc60c8225ab39781b911588": {
@@ -22830,6 +22834,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T10:32:10.924691+00:00",
+  "last_cycle_at": "2026-10-29T10:32:30.675768+00:00",
   "schema_version": 1
 }
