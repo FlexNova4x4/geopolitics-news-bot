@@ -5228,9 +5228,10 @@
     "34f72d48c5914a4ec5c06acb": {
       "published_at": "2026-10-29T19:35:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12993,
       "title": "Hike to help farmers, says CM; Ashok accuses govt. of placing burden on people",
-      "updated_at": "2026-10-29T19:51:05.675370+00:00",
+      "updated_at": "2026-10-29T19:51:15.483364+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/hike-to-help-farmers-says-cm-ashok-accuses-govt-of-placing-burden-on-people/article71641665.ece"
     },
     "35164c58d2a823ed95f02152": {
@@ -8806,9 +8807,10 @@
     "5837ccab1351d5bcf45869b8": {
       "published_at": "2026-10-29T19:35:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12992,
       "title": "Tribune impact: Dr YS Parmar University of Horticulture and Forestry sets interview dates for 15 posts",
-      "updated_at": "2026-10-29T19:51:05.675366+00:00",
+      "updated_at": "2026-10-29T19:51:11.673792+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/dr-ys-parmar-university-of-horticulture-and-forestry-sets-interview-dates-for-15-posts"
     },
     "58575d06d889b647af1814ab": {
@@ -9658,9 +9660,10 @@
     "6067cf0a1ae8e60d26db136c": {
       "published_at": "2026-10-29T19:37:41+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12994,
       "title": "To save crops, two Jawali panchayats lead drive to shift 80 head of stray cattle to gaushala",
-      "updated_at": "2026-10-29T19:51:05.675373+00:00",
+      "updated_at": "2026-10-29T19:51:19.440841+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/to-save-crops-two-jawali-panchayats-lead-drive-to-shift-80-head-of-stray-cattle-to-gaushala"
     },
     "607bfb1c3bc703d2f7721d5a": {
@@ -26263,9 +26266,10 @@
     "fcf7e8ec5625319a6a2ad1ea": {
       "published_at": "2026-10-29T19:33:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12991,
       "title": "3,000 LED street lights to be installed in Vellore, Tiruvannamalai",
-      "updated_at": "2026-10-29T19:51:05.675350+00:00",
+      "updated_at": "2026-10-29T19:51:07.930936+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/3000-led-street-lights-to-be-installed-in-vellore-tiruvannamalai/article71640686.ece"
     },
     "fd01c9e95c4716c6a10a5910": {
@@ -26601,6 +26605,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:51:05.678331+00:00",
+  "last_cycle_at": "2026-10-29T19:51:22.644379+00:00",
   "schema_version": 1
 }
