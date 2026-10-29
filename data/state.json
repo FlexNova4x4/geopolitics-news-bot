@@ -4094,9 +4094,10 @@
     "35a3e9bdcf10d79dcf185d05": {
       "published_at": "2026-10-29T05:24:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12345,
       "title": "BJP's Kedarnath Singh concedes defeat in Varanasi Graduate polls",
-      "updated_at": "2026-10-29T05:42:20.862397+00:00",
+      "updated_at": "2026-10-29T05:42:28.062888+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjp-kedarnath-singh-concedes-defeat-in-varanasi-graduate-polls-101793251352168.html"
     },
     "35c67fdb10b3910ba1b39a56": {
@@ -9098,9 +9099,10 @@
     "742ea8b45a3edcf31c8a31c5": {
       "published_at": "2026-10-29T05:27:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12347,
       "title": "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
-      "updated_at": "2026-10-29T05:42:20.862403+00:00",
+      "updated_at": "2026-10-29T05:42:36.273571+00:00",
       "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/dvac-launches-search-at-ex-minister-kn-nehrus-residence-in-tiruchi/article71638830.ece"
     },
     "746609e7b8598597eb07af5f": {
@@ -9231,9 +9233,10 @@
     "75c5931f274f269fedc8d916": {
       "published_at": "2026-10-29T05:24:10+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12346,
       "title": "Punjab govt has 1m tonnes of wheat for five months, provincial assembly told",
-      "updated_at": "2026-10-29T05:42:20.862400+00:00",
+      "updated_at": "2026-10-29T05:42:32.187121+00:00",
       "url": "https://www.dawn.com/news/2040609/punjab-govt-has-1m-tonnes-of-wheat-for-five-months-provincial-assembly-told"
     },
     "75de75b3b50ea354e59f708f": {
@@ -16549,9 +16552,10 @@
     "ceb91e584b7d00ccf6fbccdf": {
       "published_at": "2026-10-29T05:22:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12344,
       "title": "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
-      "updated_at": "2026-10-29T05:42:20.862380+00:00",
+      "updated_at": "2026-10-29T05:42:24.160508+00:00",
       "url": "https://www.thehindu.com/business/markets/rupee-rises-11-paise-against-us-dollar-in-early-trade-on-thursday/article71639047.ece"
     },
     "cedd260205b2fcff89fd7c3e": {
@@ -20814,6 +20818,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:42:20.864671+00:00",
+  "last_cycle_at": "2026-10-29T05:42:39.476477+00:00",
   "schema_version": 1
 }
