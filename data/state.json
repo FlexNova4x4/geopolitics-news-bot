@@ -8843,6 +8843,14 @@
       "updated_at": "2026-10-26T04:24:09.575837+00:00",
       "url": "https://www.hindustantimes.com/india-news/jamia-milia-islamia-students-14-day-protest-reject-agreement-with-university-jmi-delhi-101792982197611.html"
     },
+    "77af6df052da83c229a112b9": {
+      "published_at": "2026-10-28T22:32:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Pro-Netanyahu bloc leading Israel election with 53 seats as 90% of votes counted",
+      "updated_at": "2026-10-29T04:20:31.442212+00:00",
+      "url": "https://www.tribuneindia.com/news/world/pro-netanyahu-bloc-leading-israel-election-with-53-seats-as-90-of-votes-counted"
+    },
     "77bd5876ab21d0d78fabe22d": {
       "published_at": "2026-10-27T04:16:59+00:00",
       "source": "thehindu.com",
@@ -11082,6 +11090,14 @@
       "title": "Network glitch hits Mumbai airport, IndiGo and Air India flight operations affected",
       "updated_at": "2026-10-27T15:42:22.305402+00:00",
       "url": "https://www.hindustantimes.com/india-news/network-glitch-hits-mumbai-airport-indigo-and-air-india-operations-affected-101793113773565.html"
+    },
+    "95449db266d3ea50ef521ae6": {
+      "published_at": "2026-10-28T23:07:13+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Flavio Bolsonaro claims he’s Brazil’s “elected president” after fleeing to US; Trump says he “won’t get involved”",
+      "updated_at": "2026-10-29T04:20:31.442231+00:00",
+      "url": "https://www.tribuneindia.com/news/bolsonaro-claims-presidency/flavio-bolsonaro-claims-hes-brazils-elected-president-after-fleeing-to-us-trump-says-he-wont-get-involved"
     },
     "95695fd4f9f797a4252cb692": {
       "published_at": "2026-10-27T01:46:38+00:00",
@@ -15145,6 +15161,14 @@
       "updated_at": "2026-10-25T22:00:43.093438+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss"
     },
+    "cb5286c761ef1de3c4045568": {
+      "published_at": "2026-10-28T22:34:51+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "UN experts sound alarm at excessive use of force in French student protests",
+      "updated_at": "2026-10-29T04:20:31.442228+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss"
+    },
     "cb69f01837fe6e170f43fe8b": {
       "published_at": "2026-10-25T06:50:54+00:00",
       "source": "thehindu.com",
@@ -17662,6 +17686,14 @@
       "updated_at": "2026-10-27T05:36:58.354275+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-old-barrier-vehicle-collision-traffic-disrupted-2026-10-27"
     },
+    "ecf08b317d648a9b10b2ae78": {
+      "published_at": "2026-10-28T23:30:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल हाईकोर्ट: विद्युत नियामक आयोग के चेयरमैन की चयन प्रक्रिया रद्द करना असांविधानिक",
+      "updated_at": "2026-10-29T04:20:31.442235+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/high-court-cancelling-the-selection-process-for-the-electricity-regulatory-commission-chairman-is-unconstitu-2026-10-28"
+    },
     "ecfa72bd109e809fa70c5c3e": {
       "published_at": "2026-10-26T08:25:23+00:00",
       "source": "thehindu.com",
@@ -19387,6 +19419,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:20:23.182770+00:00",
+  "last_cycle_at": "2026-10-29T04:20:31.444265+00:00",
   "schema_version": 1
 }
