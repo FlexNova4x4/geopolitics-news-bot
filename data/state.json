@@ -1371,9 +1371,10 @@
     "0f1a6ad0c47fe947fe57ae9c": {
       "published_at": "2026-10-29T11:25:16+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12699,
       "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "updated_at": "2026-10-29T13:31:54.338952+00:00",
+      "updated_at": "2026-10-29T13:32:10.603492+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss"
     },
     "0f7dd16fe6cc0d9f990389da": {
@@ -9460,9 +9461,10 @@
     "6a1b761a74fc4df47966d2fd": {
       "published_at": "2026-10-29T01:17:59+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12696,
       "title": "फोरलेन सुरंग निर्माण विवाद: हाईकोर्ट ने एनएचएआई से पूछा, 600 करोड़ का मुआवजा बांटने के बाद प्लान क्यों बदला?",
-      "updated_at": "2026-10-29T13:31:54.338921+00:00",
+      "updated_at": "2026-10-29T13:31:58.000899+00:00",
       "url": "https://www.amarujala.com/shimla/fourlane-tunnel-construction-dispute-high-court-asks-nhai-why-plan-was-changed-after-distribution-compensatio-2026-10-29"
     },
     "6a59736be554ac035e49a0c2": {
@@ -16128,9 +16130,10 @@
     "b0d50d8d047572643aff6de3": {
       "published_at": "2026-10-29T01:20:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12697,
       "title": "फुटब्रिज शुरू, हलू-बलड़ी सड़क पर खर्च होंगे 90 लाख : पठानिया",
-      "updated_at": "2026-10-29T13:31:54.338942+00:00",
+      "updated_at": "2026-10-29T13:32:02.278296+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/footbridge-started-90-lakh-will-be-spent-on-halu-baldi-road-kangra-news-c-95-1-kng1039-263784-2026-10-28"
     },
     "b0f8384bfc05b48815d9fd9f": {
@@ -20508,9 +20511,10 @@
     "dea35d3b22eed21fb84ee7e0": {
       "published_at": "2026-10-29T01:30:06+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12698,
       "title": "सुक्खू सरकार का बड़ा फैसला: दूध प्रोत्साहन राशि हुई दोगुनी,14 करोड़ का बजट रखा, डीबीटी से होगा भुगतान",
-      "updated_at": "2026-10-29T13:31:54.338947+00:00",
+      "updated_at": "2026-10-29T13:32:06.447510+00:00",
       "url": "https://www.amarujala.com/shimla/hp-sukhu-govt-milk-incentive-amount-doubled-a-budget-of-14-crore-has-been-allocated-2026-10-29"
     },
     "deb7c69e3b7118edcd4cce1a": {
@@ -23964,6 +23968,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:31:54.341759+00:00",
+  "last_cycle_at": "2026-10-29T13:32:13.806525+00:00",
   "schema_version": 1
 }
