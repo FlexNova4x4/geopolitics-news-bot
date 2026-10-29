@@ -48,9 +48,10 @@
     "0052b8c3624f58398348be00": {
       "published_at": "2026-10-29T18:47:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12973,
       "title": "Aavin to invest proceeds from sale of sweets in welfare of dairy farmers",
-      "updated_at": "2026-10-29T19:20:37.041388+00:00",
+      "updated_at": "2026-10-29T19:20:39.860873+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/aavin-to-invest-proceeds-from-sale-of-sweets-in-welfare-of-dairy-farmers/article71641131.ece"
     },
     "00625d8e81bf9d15a1ebed1c": {
@@ -785,9 +786,10 @@
     "07874ab03d8223ce0dfd124a": {
       "published_at": "2026-10-29T19:02:19+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12975,
       "title": "Pentagon fires general it says leaked classified information to media",
-      "updated_at": "2026-10-29T19:20:37.041410+00:00",
+      "updated_at": "2026-10-29T19:20:47.300293+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss"
     },
     "078a75e14aa26beffc7f0fc0": {
@@ -3132,9 +3134,10 @@
     "1f553b16fea4ac2b3b8122eb": {
       "published_at": "2026-10-29T19:02:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12974,
       "title": "Israeli opposition leader Eisenkot accuses Netanyahu of delegitimising election results amid Shin Bet probe",
-      "updated_at": "2026-10-29T19:20:37.041406+00:00",
+      "updated_at": "2026-10-29T19:20:43.573886+00:00",
       "url": "https://www.tribuneindia.com/news/alleged-election-fraud/israeli-opposition-leader-eisenkot-accuses-netanyahu-of-delegitimising-election-results-amid-shin-bet-probe"
     },
     "1f684e393d33d71a17409d72": {
@@ -14233,9 +14236,10 @@
     "8db046a20064a0048ee7e45c": {
       "published_at": "2026-10-29T19:02:33+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12976,
       "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
-      "updated_at": "2026-10-29T19:20:37.041413+00:00",
+      "updated_at": "2026-10-29T19:20:51.191737+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss"
     },
     "8dcf60e5e29f9e5dd6ff9da3": {
@@ -26439,6 +26443,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:20:37.044471+00:00",
+  "last_cycle_at": "2026-10-29T19:20:54.395466+00:00",
   "schema_version": 1
 }
