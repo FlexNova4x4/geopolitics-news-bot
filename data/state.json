@@ -6254,9 +6254,10 @@
     "42b4ece9731dcdba134236ea": {
       "published_at": "2026-10-29T14:58:28+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12842,
       "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "updated_at": "2026-10-29T15:51:39.424326+00:00",
+      "updated_at": "2026-10-29T15:51:50.657872+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
     },
     "42bb32ca8e2f426ac71d761a": {
@@ -9254,9 +9255,10 @@
     "6222741b0aebb1b96e09a14a": {
       "published_at": "2026-10-29T03:27:20+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12840,
       "title": "करवा चौथ: शिमला के रिज पर चांद के दीदार के लिए उमड़ीं सुहागिनें, पति के हाथों से जल पीकर खोला व्रत",
-      "updated_at": "2026-10-29T15:51:39.424307+00:00",
+      "updated_at": "2026-10-29T15:51:42.417474+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-married-women-gathered-on-the-ridge-in-shimla-to-catch-a-glimpse-of-the-moon-they-broke-their-fast-by-drinking-water-offered-by-their-husbands-2026-10-29"
     },
     "624db8d33cbd1c4d89fca2bf": {
@@ -9729,9 +9731,10 @@
     "672d3951b77f2d6cfcd7f5cc": {
       "published_at": "2026-10-29T03:30:10+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12841,
       "title": "करवा चौथ: शिमला के रिज पर चांद का दीदार करने के लिए उमड़ीं सुहागिनें, पति के हाथों से जल पीकर खोला व्रत",
-      "updated_at": "2026-10-29T15:51:39.424323+00:00",
+      "updated_at": "2026-10-29T15:51:46.708603+00:00",
       "url": "https://www.amarujala.com/shimla/karwa-chauth-married-women-gather-at-shimla-s-the-ridge-to-catch-a-glimpse-of-the-moon-2026-10-29"
     },
     "672e5b7d54da476a223c90cd": {
@@ -11759,9 +11762,10 @@
     "7a89e1844db29b44492fcc0d": {
       "published_at": "2026-10-29T15:12:36+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12843,
       "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
-      "updated_at": "2026-10-29T15:51:39.424329+00:00",
+      "updated_at": "2026-10-29T15:51:54.430021+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss"
     },
     "7a8e0d6d22de8c0127f876e9": {
@@ -25260,6 +25264,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:51:39.435475+00:00",
+  "last_cycle_at": "2026-10-29T15:51:57.633471+00:00",
   "schema_version": 1
 }
