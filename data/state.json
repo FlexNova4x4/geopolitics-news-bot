@@ -963,6 +963,14 @@
       "updated_at": "2026-10-27T03:12:12.291639+00:00",
       "url": "https://www.thehindu.com/news/cities/Madurai/theni-jailbreak-kerala-police-alerted-combing-operations-going-on-in-forest-areas-too-says-officer/article71629619.ece"
     },
+    "0a260e1cb3587298587be600": {
+      "published_at": "2026-10-29T07:46:05+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Pillion riding banned in KP's Bajaur for 10 days owing to security situation",
+      "updated_at": "2026-10-29T08:42:38.011615+00:00",
+      "url": "https://www.dawn.com/news/2040678/pillion-riding-banned-in-kps-bajaur-for-10-days-owing-to-security-situation"
+    },
     "0a490d39d475a6ab42a5e12d": {
       "published_at": "2026-10-26T03:59:18+00:00",
       "source": "dawn.com",
@@ -4361,6 +4369,14 @@
       "updated_at": "2026-10-29T05:42:28.062888+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjp-kedarnath-singh-concedes-defeat-in-varanasi-graduate-polls-101793251352168.html"
     },
+    "35ad012aacf159e0701fa41a": {
+      "published_at": "2026-10-29T07:44:39+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "With fresh paddy arrivals at Red Hills, rice prices to stabilise soon: Tamil Nadu Food Minister",
+      "updated_at": "2026-10-29T08:42:38.011612+00:00",
+      "url": "https://www.thehindu.com/news/cities/chennai/with-fresh-paddy-arrivals-at-red-hills-rice-prices-to-stabilise-soon-tamil-nadu-food-minister/article71637590.ece"
+    },
     "35c67fdb10b3910ba1b39a56": {
       "published_at": "2026-10-25T03:20:16+00:00",
       "source": "feeds.bbci.co.uk",
@@ -5953,6 +5969,14 @@
       "title": "‘Diwali gift’: Centre approves 3% DA hike for 4.8 million government employees",
       "updated_at": "2026-10-29T05:15:03.902000+00:00",
       "url": "https://www.hindustantimes.com/india-news/diwali-gift-centre-approves-3-per-cent-da-hike-for-central-government-employees-101793235149209.html"
+    },
+    "49696296f41e252124ea20d9": {
+      "published_at": "2026-10-29T07:42:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Israel’s Elections Committee asks Shin Bet to investigate allegations of foreign interference in Tuesday’s poll",
+      "updated_at": "2026-10-29T08:42:38.011596+00:00",
+      "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/israels-elections-committee-asks-shin-bet-to-investigate-allegations-of-foreign-interference-in-tuesdays-poll"
     },
     "4985e0edffa0db0e4d2af048": {
       "published_at": "2026-10-26T19:08:48+00:00",
@@ -11739,6 +11763,14 @@
       "title": "Police probe alleged supply of cemetery remains to medical college in Karnataka's Raichur, 3 arrested",
       "updated_at": "2026-10-26T07:45:48.488489+00:00",
       "url": "https://www.hindustantimes.com/india-news/police-probe-alleged-supply-of-cemetery-remains-to-medical-college-in-karnatakas-raichur-3-arrested-101792997656676.html"
+    },
+    "8a7f1cd606cd41a4f8f49100": {
+      "published_at": "2026-10-29T07:47:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
+      "updated_at": "2026-10-29T08:42:38.011619+00:00",
+      "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece"
     },
     "8a9577fd2bab4245f01d1352": {
       "published_at": "2026-10-27T08:47:22+00:00",
@@ -22024,6 +22056,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:42:01.608035+00:00",
+  "last_cycle_at": "2026-10-29T08:42:38.013982+00:00",
   "schema_version": 1
 }
