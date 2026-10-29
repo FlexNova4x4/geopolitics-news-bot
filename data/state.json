@@ -3359,9 +3359,10 @@
     "216eedb3fa69f11257621329": {
       "published_at": "2026-10-29T18:40:01+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12972,
       "title": "Texas Republican group seeks to block certification of state’s election",
-      "updated_at": "2026-10-29T18:50:32.517797+00:00",
+      "updated_at": "2026-10-29T18:50:35.312444+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss"
     },
     "21ab0ac81916b29cdb5a7452": {
@@ -26406,6 +26407,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:50:32.521021+00:00",
+  "last_cycle_at": "2026-10-29T18:50:38.516019+00:00",
   "schema_version": 1
 }
