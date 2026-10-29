@@ -4625,9 +4625,10 @@
     "415cd077138958ebedbb5a9f": {
       "published_at": "2026-10-28T20:13:01+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12154,
       "title": "Ice skating rink to boost adventure tourism in Kinnaur: Himachal Revenue Minister Jagat Singh Negi",
-      "updated_at": "2026-10-29T04:16:28.221322+00:00",
+      "updated_at": "2026-10-29T04:16:36.801336+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/ice-skating-rink-to-boost-adventure-tourism-in-kinnaur-himachal-revenue-minister-jagat-singh-negi"
     },
     "417384d39814286641e51c01": {
@@ -7076,9 +7077,10 @@
     "62cddc11069dc2a485de538d": {
       "published_at": "2026-10-28T20:14:13+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12155,
       "title": "Rwanda’s milk bars",
-      "updated_at": "2026-10-29T04:16:28.221326+00:00",
+      "updated_at": "2026-10-29T04:16:40.885188+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss"
     },
     "62cded6588590a0fdaa9e7b5": {
@@ -11371,9 +11373,10 @@
     "9b2581080a05e3296ba5e245": {
       "published_at": "2026-10-28T20:12:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12153,
       "title": "Israel polls: Democrats’ Yair Golan to hold coalition talks with Eisenkot, Lapid",
-      "updated_at": "2026-10-29T04:16:28.221307+00:00",
+      "updated_at": "2026-10-29T04:16:32.771584+00:00",
       "url": "https://www.tribuneindia.com/news/arab-parties-knesset/israel-polls-democrats-yair-golan-to-hold-coalition-talks-with-eisenkot-lapid"
     },
     "9b4a0dc8fb83ea75681c64d8": {
@@ -13184,9 +13187,10 @@
     "b40e88a2bec5e90a62a335d9": {
       "published_at": "2026-10-28T20:14:47+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12156,
       "title": "Rain, snowfall likely in Himachal Pradesh from October 29",
-      "updated_at": "2026-10-29T04:16:28.221330+00:00",
+      "updated_at": "2026-10-29T04:16:44.811883+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/rain-snowfall-likely-in-himachal-pradesh-from-october-29"
     },
     "b45df668dd07dd1e27693197": {
@@ -19095,6 +19099,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:16:28.223356+00:00",
+  "last_cycle_at": "2026-10-29T04:16:48.014434+00:00",
   "schema_version": 1
 }
