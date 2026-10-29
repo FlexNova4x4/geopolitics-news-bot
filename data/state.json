@@ -3696,6 +3696,14 @@
       "updated_at": "2026-10-27T07:35:56.125807+00:00",
       "url": "https://www.tribuneindia.com/news/india/supreme-court-notice-to-centre-on-news-publishers-plea-challenging-data-protection-law"
     },
+    "2d1d40968cf10820e65f54e1": {
+      "published_at": "2026-10-29T08:08:27+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab: Odisha prepares to airlift people stranded by floodwater",
+      "updated_at": "2026-10-29T08:45:22.745962+00:00",
+      "url": "https://www.thehindu.com/news/national/odisha/post-arnab-odisha-preparing-to-airlift-people-stranded-by-floodwater/article71639465.ece"
+    },
     "2d2824d82af7bb7e341611e4": {
       "published_at": "2026-10-26T19:52:33+00:00",
       "source": "publish.tribuneindia.com",
@@ -3982,6 +3990,14 @@
       "title": "हिमाचल: जहरीले पदार्थ के सेवन से मां की मौत, बेटी अस्पताल में भर्ती, पुलिस ने शुरू की जांच",
       "updated_at": "2026-10-27T17:10:39.830055+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mother-died-after-consuming-a-toxic-substance-daughter-hospitalized-2026-10-27"
+    },
+    "3078997d101e7a7e70b42510": {
+      "published_at": "2026-10-29T08:14:34+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
+      "updated_at": "2026-10-29T08:45:22.745986+00:00",
+      "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss"
     },
     "307a22abbc104467d01804ca": {
       "published_at": "2026-10-28T19:20:30+00:00",
@@ -14004,6 +14020,14 @@
       "updated_at": "2026-10-27T16:11:40.991150+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/hc-orders-status-quo-over-notice-to-ktr-over-move-to-impound-passport/article71632715.ece"
     },
+    "a4fd1a443aa9aa9cab3e9c9f": {
+      "published_at": "2026-10-29T08:09:01+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Kerala murder convict found dead in jail cell, was recently diagnosed with cancer",
+      "updated_at": "2026-10-29T08:45:22.745978+00:00",
+      "url": "https://www.hindustantimes.com/india-news/thiruvananthapuram-central-jail-prisoner-hanging-suicide-cancer-101793260384499.html"
+    },
     "a500524a0860c7cfec168386": {
       "published_at": "2026-10-27T11:24:06+00:00",
       "source": "thehindu.com",
@@ -15730,6 +15754,14 @@
       "title": "ऊना: नूर गाड़ी का संपर्क मार्ग कच्चा, ग्रामीण परेशान; बरसात में बढ़ जाती है मुश्किल",
       "updated_at": "2026-10-29T06:12:50.587594+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-noor-gadi-village-kachha-link-road-rainy-season-problem-2026-10-29"
+    },
+    "b83f6bd1d3a752b200cdcce4": {
+      "published_at": "2026-10-29T08:12:43+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "PM questions Congress over party’s MLC election results",
+      "updated_at": "2026-10-29T08:45:22.745982+00:00",
+      "url": "https://www.thehindu.com/news/national/pm-modi-taunts-congress-for-dismal-show-in-mlc-polls-despite-use-of-paper-ballots/article71635894.ece"
     },
     "b8518bfd825918e70dbd541b": {
       "published_at": "2026-10-27T15:31:01+00:00",
@@ -22240,6 +22272,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:45:13.678859+00:00",
+  "last_cycle_at": "2026-10-29T08:45:22.748246+00:00",
   "schema_version": 1
 }
