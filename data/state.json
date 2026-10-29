@@ -450,6 +450,14 @@
       "updated_at": "2026-10-27T09:35:45.808938+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss"
     },
+    "0429e0fa053cab362ba1a1c7": {
+      "published_at": "2026-10-29T20:21:54+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "updated_at": "2026-10-29T22:44:44.060555+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+    },
     "04372c1ba0c94e4a99ba4fc7": {
       "published_at": "2026-10-26T03:07:17+00:00",
       "source": "dawn.com",
@@ -3625,6 +3633,14 @@
       "title": "SC defers to Nov 2 hearing on Kerala journalist Siddique Kappan's plea for release of passport",
       "updated_at": "2026-10-27T08:04:37.796786+00:00",
       "url": "https://www.hindustantimes.com/india-news/sc-defers-to-nov-2-hearing-on-kerala-journalist-siddique-kappan-s-plea-for-release-of-passport-101793085932061.html"
+    },
+    "23188c8b3e27424e4415c453": {
+      "published_at": "2026-10-29T20:13:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
+      "updated_at": "2026-10-29T22:44:44.060534+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-warns-of-strict-action-against-c-on-diwali-chhath/article71641136.ece"
     },
     "2328374c66e901f8ace77ac3": {
       "published_at": "2026-10-26T12:38:33+00:00",
@@ -15601,6 +15617,14 @@
       "updated_at": "2026-10-25T05:39:20.188935+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-man-arrested-for-posting-sting-op-clip-targeting-siddaramaiah-101792869975968.html"
     },
+    "966e1f2e52b8fce41835fdd1": {
+      "published_at": "2026-10-29T20:40:03+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+      "updated_at": "2026-10-29T22:44:44.060562+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss"
+    },
     "966ead07d4b91af5e081696d": {
       "published_at": "2026-10-26T20:16:18+00:00",
       "source": "amarujala.com",
@@ -17818,6 +17842,14 @@
       "title": "HYDRAA removes seven borewells near Fox Sagar",
       "updated_at": "2026-10-27T16:42:40.928271+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/hydraa-removes-seven-borewells-near-fox-sagar/article71632764.ece"
+    },
+    "abf7431cbd2ce74b30395a5a": {
+      "published_at": "2026-10-29T20:34:28+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Does Russia offer African countries an equal partnership?",
+      "updated_at": "2026-10-29T22:44:44.060559+00:00",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss"
     },
     "abfaf115765aed32da4d2772": {
       "published_at": "2026-10-29T10:27:14+00:00",
@@ -27055,6 +27087,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:52:42.121027+00:00",
+  "last_cycle_at": "2026-10-29T22:44:44.062118+00:00",
   "schema_version": 1
 }
