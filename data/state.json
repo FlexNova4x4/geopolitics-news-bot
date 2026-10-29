@@ -6290,9 +6290,10 @@
     "423d61fd63662db9937e70c2": {
       "published_at": "2026-10-29T15:52:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12877,
       "title": "Government to evaluate impact of guarantee and other schemes",
-      "updated_at": "2026-10-29T16:51:50.625098+00:00",
+      "updated_at": "2026-10-29T16:51:57.137913+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/government-to-evaluate-impact-of-guarantee-and-other-schemes/article71641626.ece"
     },
     "4248b3f7df137f42c32f604a": {
@@ -12166,9 +12167,10 @@
     "7eb9a68ea937352cc4dd4c11": {
       "published_at": "2026-10-29T15:52:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12878,
       "title": "24th instalment of PM-Kisan to be released today",
-      "updated_at": "2026-10-29T16:51:50.625102+00:00",
+      "updated_at": "2026-10-29T16:52:00.963773+00:00",
       "url": "https://www.thehindu.com/news/national/24th-instalment-of-pm-kisan-to-be-released-today/article71641314.ece"
     },
     "7ece01532c3fa5d6f81bb9b9": {
@@ -16516,9 +16518,10 @@
     "aa3eda5f6fbea3e9292b4557": {
       "published_at": "2026-10-29T15:55:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12879,
       "title": "After 23-year legal battle, Telangana government secures protection for land worth thousands of crores",
-      "updated_at": "2026-10-29T16:51:50.625105+00:00",
+      "updated_at": "2026-10-29T16:52:04.763496+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/after-23-year-legal-battle-telangana-government-secures-protection-for-land-worth-thousands-of-crores/article71641650.ece"
     },
     "aa47eade2126e1bfd3596dde": {
@@ -25264,9 +25267,10 @@
     "fd01c9e95c4716c6a10a5910": {
       "published_at": "2026-10-29T15:52:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12876,
       "title": "KSEB receives nod for short-term power purchases for November 2026-March 2027 period",
-      "updated_at": "2026-10-29T16:51:50.625084+00:00",
+      "updated_at": "2026-10-29T16:51:53.364359+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kseb-receives-nod-for-short-term-power-purchases-for-november-2026-march-2027-period/article71641381.ece"
     },
     "fd1ef773989d687fe3c9f4a7": {
@@ -25584,6 +25588,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:51:50.627962+00:00",
+  "last_cycle_at": "2026-10-29T16:52:07.967228+00:00",
   "schema_version": 1
 }
