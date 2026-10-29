@@ -12486,9 +12486,10 @@
     "a3693251a05c5f9179cee4ae": {
       "published_at": "2026-10-29T02:30:35+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12255,
       "title": "Top official flagged ‘grave risks’ before Rajya Sabha digital shift",
-      "updated_at": "2026-10-29T05:11:55.091751+00:00",
+      "updated_at": "2026-10-29T05:12:06.542721+00:00",
       "url": "https://www.tribuneindia.com/news/india/top-official-flagged-grave-risks-before-rajya-sabha-digital-shift"
     },
     "a3df215727480bf342cc847b": {
@@ -18411,9 +18412,10 @@
     "ef20744d409a636fdacd8cb0": {
       "published_at": "2026-10-29T02:28:10+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12254,
       "title": "Trans rights safeguards pose practical issues, govt tells Supreme Court",
-      "updated_at": "2026-10-29T05:11:55.091746+00:00",
+      "updated_at": "2026-10-29T05:12:02.566182+00:00",
       "url": "https://www.hindustantimes.com/india-news/trans-rights-safeguards-pose-practical-issues-govt-tells-supreme-court-101793215475879.html"
     },
     "ef20f995c78b337fd1bc6c63": {
@@ -18752,9 +18754,10 @@
     "f206f15d87430e5156984e95": {
       "published_at": "2026-10-29T02:27:30+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12253,
       "title": "Treat our requests as binding orders: SC",
-      "updated_at": "2026-10-29T05:11:55.091727+00:00",
+      "updated_at": "2026-10-29T05:11:58.630237+00:00",
       "url": "https://www.hindustantimes.com/india-news/treat-our-requests-as-binding-orders-sc-101793215417433.html"
     },
     "f23ade255af0dfa654cda756": {
@@ -19379,9 +19382,10 @@
     "f908df941637870d5323f014": {
       "published_at": "2026-10-29T02:31:26+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12256,
       "title": "'Secretly happy about PDA's victory': Akhilesh Yadav's dig at UP deputy CM Keshav Maurya after MLC polls",
-      "updated_at": "2026-10-29T05:11:55.091757+00:00",
+      "updated_at": "2026-10-29T05:12:10.657971+00:00",
       "url": "https://www.hindustantimes.com/india-news/akhilesh-yadav-dig-up-deputy-cm-up-mlc-election-results-keshav-prasad-maurya-secretly-happy-about-pda-victory-101793237096963.html"
     },
     "f9314b9d59a2dfd1f5d212b3": {
@@ -19995,6 +19999,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:11:55.093760+00:00",
+  "last_cycle_at": "2026-10-29T05:12:13.860747+00:00",
   "schema_version": 1
 }
