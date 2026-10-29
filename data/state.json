@@ -6317,9 +6317,10 @@
     "48a01ef21154998c65ad2cfa": {
       "published_at": "2026-10-29T11:28:03+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12646,
       "title": "IMD issues thunderstorm, hail alert for parts of Delhi as dark clouds obscure capital sky",
-      "updated_at": "2026-10-29T12:04:40.010513+00:00",
+      "updated_at": "2026-10-29T12:04:47.989613+00:00",
       "url": "https://www.tribuneindia.com/news/weather-report/imd-issues-thunderstorm-hail-alert-for-parts-of-delhi-as-dark-clouds-obscure-capital-sky"
     },
     "48acc4d59e98dcd9e457b0cf": {
@@ -6721,9 +6722,10 @@
     "4cf5084f6823eae02777072c": {
       "published_at": "2026-10-29T11:29:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12647,
       "title": "Days after Theni jailbreak, Tamil Nadu Prisons DGP Sandeep Rai Rathore transferred",
-      "updated_at": "2026-10-29T12:04:40.010517+00:00",
+      "updated_at": "2026-10-29T12:04:51.895066+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/days-after-theni-jailbreak-tamil-nadu-prisons-dgp-sandeep-rai-rathore-transferred/article71640084.ece"
     },
     "4d0401ee1cc88833e528a296": {
@@ -10204,9 +10206,10 @@
     "7301eab94f0e2537da9103b4": {
       "published_at": "2026-10-29T11:27:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12645,
       "title": "Israel’s election rhetoric: What candidates said, and how they performed",
-      "updated_at": "2026-10-29T12:04:40.010498+00:00",
+      "updated_at": "2026-10-29T12:04:44.056352+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss"
     },
     "734b2f5c763f1f27e5ef7894": {
@@ -15632,9 +15635,10 @@
     "aeff9433a903adc160087cd5": {
       "published_at": "2026-10-29T11:31:40+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12648,
       "title": "State cabinet hikes milk prices by ₹8: Karnataka minister",
-      "updated_at": "2026-10-29T12:04:40.010520+00:00",
+      "updated_at": "2026-10-29T12:04:56.217682+00:00",
       "url": "https://www.hindustantimes.com/india-news/karnataka-cabinet-hikes-milk-prices-by-rs-8-state-minister-nandini-milk-price-101793273245820.html"
     },
     "af0a4854f156780b84cfe37f": {
@@ -23505,6 +23509,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:04:40.013126+00:00",
+  "last_cycle_at": "2026-10-29T12:04:59.420658+00:00",
   "schema_version": 1
 }
