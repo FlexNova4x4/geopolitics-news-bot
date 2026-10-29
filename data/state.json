@@ -5333,6 +5333,14 @@
       "updated_at": "2026-10-29T18:22:03.211735+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
     },
+    "35726a72b31adade91360065": {
+      "published_at": "2026-10-29T20:14:45+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Kullu left struggling as daily Delhi flights remain off radar",
+      "updated_at": "2026-10-29T20:23:34.224298+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/kullu-left-struggling-as-daily-delhi-flights-remain-off-radar"
+    },
     "357e83d5d39c87578101f7ab": {
       "published_at": "2026-10-29T08:24:19+00:00",
       "source": "thehindu.com",
@@ -11992,6 +12000,14 @@
       "title": "चंबा: परछोड़ में विद्यार्थियों को अग्निशमन और आपदा प्रबंधन पर दिया प्रशिक्षण",
       "updated_at": "2026-10-27T12:13:05.276377+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-students-in-parchhod-received-training-on-firefighting-and-disaster-management-2026-10-27"
+    },
+    "75f1209dcbf0340baa890ec1": {
+      "published_at": "2026-10-29T20:13:52+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Water crisis in Solan after snag at Giri pumping station; tanker supply on rise",
+      "updated_at": "2026-10-29T20:23:34.224284+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/water-crisis-in-solan-after-snag-at-giri-pumping-station-tanker-supply-on-rise"
     },
     "75feb9d3478ee9dd3e9e15d9": {
       "published_at": "2026-10-29T16:37:27+00:00",
@@ -21238,6 +21254,14 @@
       "updated_at": "2026-10-26T01:52:37.029392+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/mvd-mulls-app-for-dynamic-bus-scheduling-to-prevent-reckless-driving-in-greater-kochi/article71593219.ece"
     },
+    "ce0467845a0ba26aae09196b": {
+      "published_at": "2026-10-29T20:15:20+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal Road Transport Corporation to run 226 special buses ahead of Diwali",
+      "updated_at": "2026-10-29T20:23:34.224302+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-road-transport-corporation-to-run-226-special-buses-ahead-of-diwali"
+    },
     "ce05360d5d90600be59775c7": {
       "published_at": "2026-10-27T02:43:25+00:00",
       "source": "feeds.bbci.co.uk",
@@ -26875,6 +26899,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:23:27.405197+00:00",
+  "last_cycle_at": "2026-10-29T20:23:34.227433+00:00",
   "schema_version": 1
 }
