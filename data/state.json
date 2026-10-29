@@ -1317,9 +1317,10 @@
     "0e754f713a5963dfe6603523": {
       "published_at": "2026-10-29T13:02:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12710,
       "title": "Israel Elections panel chief rejects fraud claims as baseless, says polls “conducted lawfully”",
-      "updated_at": "2026-10-29T13:34:03.289839+00:00",
+      "updated_at": "2026-10-29T13:34:15.078268+00:00",
       "url": "https://www.tribuneindia.com/news/arab-parties/israel-elections-panel-chief-rejects-fraud-claims-as-baseless-says-polls-conducted-lawfully"
     },
     "0e7e13803e39b33797aec2d0": {
@@ -12057,9 +12058,10 @@
     "84166a1d352da261acd3e4e4": {
       "published_at": "2026-10-29T13:03:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12711,
       "title": "Eight special teams deployed to apprehend Whitefield advocate murder suspects",
-      "updated_at": "2026-10-29T13:34:03.289843+00:00",
+      "updated_at": "2026-10-29T13:34:18.982509+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/eight-special-teams-deployed-to-apprehend-whitefield-advocate-murder-suspects/article71640427.ece"
     },
     "841bf32215bb37a6d31dd069": {
@@ -14824,9 +14826,10 @@
     "a1ae47889a7219a48fb59b72": {
       "published_at": "2026-10-29T12:57:21+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12708,
       "title": "Amidst poll interference probe, Former Israeli PM Bennett dares Netanyahu to “declare Qatar an enemy”",
-      "updated_at": "2026-10-29T13:34:03.289821+00:00",
+      "updated_at": "2026-10-29T13:34:07.027127+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/amidst-poll-interference-probe-former-israeli-pm-bennett-dares-netanyahu-to-declare-qatar-an-enemy"
     },
     "a1bc666fee8c90260ebe2dc3": {
@@ -19429,9 +19432,10 @@
     "d36a8940dedd0051b407da10": {
       "published_at": "2026-10-29T13:00:52+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12709,
       "title": "Woman, gym trainer arrested for murder bid on sleeping husband",
-      "updated_at": "2026-10-29T13:34:03.289835+00:00",
+      "updated_at": "2026-10-29T13:34:10.926729+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/woman-gym-trainer-arrested-for-murder-bid-on-sleeping-husband/article71640691.ece"
     },
     "d3805b47e18355e1e8d97bd8": {
@@ -24072,6 +24076,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:34:03.292525+00:00",
+  "last_cycle_at": "2026-10-29T13:34:22.185658+00:00",
   "schema_version": 1
 }
