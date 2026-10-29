@@ -684,6 +684,14 @@
       "updated_at": "2026-10-27T14:44:53.690912+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss"
     },
+    "08c9328970d57d689da91a98": {
+      "published_at": "2026-10-29T02:43:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month",
+      "updated_at": "2026-10-29T05:12:59.357227+00:00",
+      "url": "https://www.thehindu.com/sci-tech/health/40-of-patients-at-nimhans-neurology-casualty-have-stroke-kmcri-in-hubbali-treats-120-cases-a-month/article71636352.ece"
+    },
     "08d15d0a4ec86561e07bee5e": {
       "published_at": "2026-10-25T04:06:28+00:00",
       "source": "aljazeera.com",
@@ -8277,6 +8285,14 @@
       "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
       "updated_at": "2026-10-27T02:40:24.824897+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss"
+    },
+    "6e994b4c804d00f201315482": {
+      "published_at": "2026-10-29T02:43:29+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israeli settlers savagely attack journalists in occupied West Bank",
+      "updated_at": "2026-10-29T05:12:59.357230+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss"
     },
     "6e9cf2331b193e7ad012378f": {
       "published_at": "2026-10-25T14:40:19+00:00",
@@ -16198,6 +16214,14 @@
       "updated_at": "2026-10-24T22:47:14.918839+00:00",
       "url": "https://thediplomat.com/2026/10/with-strict-agendas-and-silent-corridors-kazakhstans-kurultai-is-muzzling-the-press"
     },
+    "d2c719fadd1a83835da69e09": {
+      "published_at": "2026-10-29T02:42:22+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
+      "updated_at": "2026-10-29T05:12:59.357224+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss"
+    },
     "d2dd9f9c51abf0cbee5e1257": {
       "published_at": "2026-10-26T20:18:23+00:00",
       "source": "publish.tribuneindia.com",
@@ -18111,6 +18135,14 @@
       "title": "Crime Branch registers two more cases in PSC exam irregularities",
       "updated_at": "2026-10-27T14:45:26.208893+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/crime-branch-registers-two-more-cases-in-psc-exam-irregularities/article71631964.ece"
+    },
+    "eb90c6e8554a97e780e57dc5": {
+      "published_at": "2026-10-29T02:37:04+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Consumer protection regulator imposes ₹1 lakh fine on Sunrise Foods over ‘100% whole wheat bread’ claim",
+      "updated_at": "2026-10-29T05:12:59.357208+00:00",
+      "url": "https://www.hindustantimes.com/india-news/consumer-protection-regulator-imposes-1-lakh-fine-on-sunrise-foods-over-100-whole-wheat-bread-claim-101793238842718.html"
     },
     "ebabd24cd98299557972ea38": {
       "published_at": "2026-10-25T09:14:07+00:00",
@@ -20035,6 +20067,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:12:52.929538+00:00",
+  "last_cycle_at": "2026-10-29T05:12:59.359268+00:00",
   "schema_version": 1
 }
