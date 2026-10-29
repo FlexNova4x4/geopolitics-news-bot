@@ -6533,9 +6533,10 @@
     "4535cc7edbd0f4b9b04d6759": {
       "published_at": "2026-10-29T15:09:58+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12836,
       "title": "KRIMS to fill today 100 B.Sc Nursing seats through walk-in admission",
-      "updated_at": "2026-10-29T15:31:54.687396+00:00",
+      "updated_at": "2026-10-29T15:31:57.421610+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/krims-to-fill-today-100-bsc-nursing-seats-through-walk-in-admission/article71640545.ece"
     },
     "45377bd77ba5073d03dc3005": {
@@ -10791,9 +10792,10 @@
     "71742bdec28d71f8f5e87641": {
       "published_at": "2026-10-29T15:10:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12837,
       "title": "‘Robust monitoring needed to ensure SC/ST sub-plan funds reach intended beneficiaries’",
-      "updated_at": "2026-10-29T15:31:54.687416+00:00",
+      "updated_at": "2026-10-29T15:32:01.153664+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/robust-monitoring-needed-to-ensure-scst-sub-plan-funds-reach-intended-beneficiaries/article71640978.ece"
     },
     "71abc9fc8157c791396ae26f": {
@@ -12974,9 +12976,10 @@
     "872ba86ad4cb834dddb61e55": {
       "published_at": "2026-10-29T15:11:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12839,
       "title": "Woman booked for murder of teenage daughter and trying to pass it off as suicide",
-      "updated_at": "2026-10-29T15:31:54.687424+00:00",
+      "updated_at": "2026-10-29T15:32:08.680065+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/woman-booked-for-murder-of-teenage-daughter-and-trying-to-pass-it-off-as-suicide/article71641425.ece"
     },
     "874362239d32e2554fbe9426": {
@@ -18539,9 +18542,10 @@
     "bf5b8249b39e40b4ea02d271": {
       "published_at": "2026-10-29T15:11:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12838,
       "title": "Court directive to add to Kochi Corporation’s Brahmapuram biomining costs",
-      "updated_at": "2026-10-29T15:31:54.687420+00:00",
+      "updated_at": "2026-10-29T15:32:04.914199+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/court-directive-to-add-to-kochi-corporations-brahmapuram-biomining-costs/article71639435.ece"
     },
     "bf64b6bdb3e86293dda3aa1b": {
@@ -25224,6 +25228,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:31:54.690289+00:00",
+  "last_cycle_at": "2026-10-29T15:32:11.883428+00:00",
   "schema_version": 1
 }
