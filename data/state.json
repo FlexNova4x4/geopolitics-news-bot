@@ -2567,9 +2567,10 @@
     "18600d8f02f81c8e1860d6bb": {
       "published_at": "2026-10-29T17:59:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12962,
       "title": "Coastal Andhra Pradesh may receive heavy rain from November 1 as low-pressure area brewing over Bay of Bengal",
-      "updated_at": "2026-10-29T18:21:48.405828+00:00",
+      "updated_at": "2026-10-29T18:21:55.340659+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/coastal-andhra-pradesh-may-receive-heavy-rain-from-november-1-as-low-pressure-area-brewing-over-bay-of-bengal-revised-copy-for-print/article71640142.ece"
     },
     "18669341c5e0c4005209cda3": {
@@ -5191,9 +5192,10 @@
     "356861b34c4ab40fa46ce631": {
       "published_at": "2026-10-29T18:03:21+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12964,
       "title": "At least 14 people killed in attack on Ukraine train station",
-      "updated_at": "2026-10-29T18:21:48.405834+00:00",
+      "updated_at": "2026-10-29T18:22:03.211735+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
     },
     "357e83d5d39c87578101f7ab": {
@@ -10862,9 +10864,10 @@
     "6e490f624360474a0862b212": {
       "published_at": "2026-10-29T18:01:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12963,
       "title": "Local body polls: Andhra Pradesh CM Naidu insists on alliance dharma, warns rebels of suspension",
-      "updated_at": "2026-10-29T18:21:48.405831+00:00",
+      "updated_at": "2026-10-29T18:21:59.235184+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-andhra-pradesh-cm-naidu-insists-on-alliance-dharma-warns-rebels-of-suspension/article71641233.ece"
     },
     "6e4d517edd5a8941aaa88838": {
@@ -14467,9 +14470,10 @@
     "915e447cb7555f7e2bdd16c6": {
       "published_at": "2026-10-29T17:58:03+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12961,
       "title": "36 trains cancelled, 30 diverted as Cyclone Arnab disrupts services on Howrah-Chennai route",
-      "updated_at": "2026-10-29T18:21:48.405813+00:00",
+      "updated_at": "2026-10-29T18:21:51.365183+00:00",
       "url": "https://www.tribuneindia.com/news/india/36-trains-cancelled-30-diverted-as-cyclone-arnab-disrupts-services-on-howrah-chennai-route"
     },
     "916bbc5d420590d132b56582": {
@@ -26331,6 +26335,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:21:48.408673+00:00",
+  "last_cycle_at": "2026-10-29T18:22:06.415158+00:00",
   "schema_version": 1
 }
