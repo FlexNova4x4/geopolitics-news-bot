@@ -2285,6 +2285,14 @@
       "updated_at": "2026-10-29T04:12:10.833529+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kochi-residents-flag-worsening-air-quality-especially-at-night/article71637668.ece"
     },
+    "1c4fdbb58cdee173e3171a5f": {
+      "published_at": "2026-10-29T06:18:27+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India votes in favour of UN resolution calling for end to US embargo on Cuba",
+      "updated_at": "2026-10-29T06:41:32.824694+00:00",
+      "url": "https://www.tribuneindia.com/news/india/india-votes-in-favour-of-un-resolution-calling-for-end-to-us-embargo-on-cuba"
+    },
     "1c5766102e7746f0b807db5f": {
       "published_at": "2026-10-26T13:05:17+00:00",
       "source": "thehindu.com",
@@ -7103,6 +7111,14 @@
       "updated_at": "2026-10-27T18:04:31.016256+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-flights-trains-cancelled-as-rain-batters-ap-30000-boats-brought-ashore-southern-odisha-on-edge/article71632559.ece"
     },
+    "5a36a495ce75222b773fc146": {
+      "published_at": "2026-10-29T06:16:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Pink Line elevated corridor likely to be inaugurated on November 15: CM",
+      "updated_at": "2026-10-29T06:41:32.824673+00:00",
+      "url": "https://www.thehindu.com/news/cities/bangalore/pink-line-elevated-corridor-likely-to-be-inaugurated-on-november-15-cm-page-one/article71637448.ece"
+    },
     "5a498be6490d6c4e6f6f7356": {
       "published_at": "2026-10-28T19:58:00+00:00",
       "source": "The Diplomat",
@@ -10768,6 +10784,14 @@
       "updated_at": "2026-10-27T15:41:21.276415+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss"
     },
+    "852b030c5bbfb220c5aeb5fe": {
+      "published_at": "2026-10-29T06:20:07+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Restore previous elected govt in West Bengal, says TMC’s Abhishek Banerjee after SC’s SIR observations",
+      "updated_at": "2026-10-29T06:41:32.824700+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/restore-previous-elected-govt-in-west-bengal-says-tmcs-abhishek-banerjee-after-scs-sir-observations/article71639197.ece"
+    },
     "85616f4dbf5ab1cf6473a90e": {
       "published_at": "2026-10-25T22:17:09+00:00",
       "source": "publish.tribuneindia.com",
@@ -11208,6 +11232,14 @@
       "title": "JD Vance sends letter to Iran hard-liner in bid to revive peace talks as Trump threatens strikes: Report",
       "updated_at": "2026-10-29T04:21:01.632543+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump-iran-threats/jd-vance-sends-letter-to-iran-hard-liner-in-bid-to-revive-peace-talks-as-trump-threatens-strikes-report"
+    },
+    "89c77696be44e629c728e4bd": {
+      "published_at": "2026-10-29T06:21:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Stalin demands apology from Tamil Nadu CM Vijay for detention of MIDS professor",
+      "updated_at": "2026-10-29T06:41:32.824703+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-demands-apology-from-tamil-nadu-cm-vijay-for-detention-of-mids-professor/article71639187.ece"
     },
     "89de48812124da7bfda95841": {
       "published_at": "2026-10-27T03:20:10+00:00",
@@ -21178,6 +21210,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:41:25.984711+00:00",
+  "last_cycle_at": "2026-10-29T06:41:32.826832+00:00",
   "schema_version": 1
 }
