@@ -3464,9 +3464,10 @@
     "30bdb4c118690ef680d01483": {
       "published_at": "2026-10-28T20:41:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12172,
       "title": "Railways to turn off charging points in trains during night",
-      "updated_at": "2026-10-29T04:18:21.010706+00:00",
+      "updated_at": "2026-10-29T04:18:36.846815+00:00",
       "url": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece"
     },
     "30cd2c544b5af6b3a27389f8": {
@@ -10554,9 +10555,10 @@
     "901a84d4e586400cffbe667a": {
       "published_at": "2026-10-28T20:33:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12169,
       "title": "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone",
-      "updated_at": "2026-10-29T04:18:21.010624+00:00",
+      "updated_at": "2026-10-29T04:18:25.076885+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/all-17-escapees-from-theni-district-jail-apprehended-in-less-than-40-hours-igp-south-zone/article71636064.ece"
     },
     "9040f2bb7e72bd2ce79b80e9": {
@@ -14696,9 +14698,10 @@
     "c5239f39a393510fb972e02d": {
       "published_at": "2026-10-28T20:38:01+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12171,
       "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-      "updated_at": "2026-10-29T04:18:21.010703+00:00",
+      "updated_at": "2026-10-29T04:18:32.939277+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss"
     },
     "c57933eeae4e71d3ef3462c0": {
@@ -16646,9 +16649,10 @@
     "e15ee257d439df12cc8110a2": {
       "published_at": "2026-10-28T20:36:03+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12170,
       "title": "Bihar MLC polls: NDA close to win 4 out of 8 seats",
-      "updated_at": "2026-10-29T04:18:21.010698+00:00",
+      "updated_at": "2026-10-29T04:18:28.981009+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-results-counting-updates/article71632702.ece"
     },
     "e174b850cc0ce3d40b7e8e7f": {
@@ -19239,6 +19243,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:18:21.012647+00:00",
+  "last_cycle_at": "2026-10-29T04:18:40.049422+00:00",
   "schema_version": 1
 }
