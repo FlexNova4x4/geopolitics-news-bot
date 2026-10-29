@@ -2244,9 +2244,10 @@
     "1798f62a5e0f6128d0c7fe6a": {
       "published_at": "2026-10-29T11:53:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12657,
       "title": "Milk price hiked in Karnataka",
-      "updated_at": "2026-10-29T12:07:40.654925+00:00",
+      "updated_at": "2026-10-29T12:07:44.293106+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/milk-price-hiked-in-karnataka/article71640242.ece"
     },
     "179ab4507cc1739399aa9ac3": {
@@ -23589,6 +23590,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:07:40.657538+00:00",
+  "last_cycle_at": "2026-10-29T12:07:47.496118+00:00",
   "schema_version": 1
 }
