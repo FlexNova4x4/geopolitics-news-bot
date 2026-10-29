@@ -1964,9 +1964,10 @@
     "18f69200d08648a174a10d9d": {
       "published_at": "2026-10-29T00:34:24+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12204,
       "title": "Israelis rally for Jewish-Arab government after election gains",
-      "updated_at": "2026-10-29T04:21:53.793379+00:00",
+      "updated_at": "2026-10-29T04:22:09.898423+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss"
     },
     "19c4bf960a1a2545ca66ab55": {
@@ -7076,9 +7077,10 @@
     "61804472507096f7b919b01b": {
       "published_at": "2026-10-29T00:30:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12203,
       "title": "बजट पर पेंशन भारी: 10 वर्षों में 21.36 फीसदी पहुंचा राजस्व खर्च, शोधपत्र में सामने आए तथ्य",
-      "updated_at": "2026-10-29T04:21:53.793376+00:00",
+      "updated_at": "2026-10-29T04:22:05.802928+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/pensions-weigh-heavily-on-the-budget-revenue-expenditure-reaches-21-36-over-10-years-research-paper-reveals-2026-10-28"
     },
     "61b023b54352ba94a7e64f4f": {
@@ -7389,9 +7391,10 @@
     "65b836b09e2218597bf05b94": {
       "published_at": "2026-10-29T00:15:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12202,
       "title": "अमर उजाला असर: एक कमरे में नहीं चलेंगी अब पांच-पांच कक्षाएं, सरकारी स्कूलों के बनेंगे नए भवन",
-      "updated_at": "2026-10-29T04:21:53.793371+00:00",
+      "updated_at": "2026-10-29T04:22:01.616222+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/students-will-be-freed-from-the-confinement-of-single-room-classrooms-new-school-buildings-will-be-constructe-2026-10-28"
     },
     "65c6089616c004c7505e6ff4": {
@@ -11962,9 +11965,10 @@
     "9f639427c52ed2f14e822f74": {
       "published_at": "2026-10-29T00:12:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12201,
       "title": "Trump takes credit for Netanyahu’s poll performance, says he’ll “take a look” at coalition talks",
-      "updated_at": "2026-10-29T04:21:53.793357+00:00",
+      "updated_at": "2026-10-29T04:21:57.686410+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu-election/trump-takes-credit-for-netanyahus-poll-performance-says-hell-take-a-look-at-coalition-talks"
     },
     "9f66922786259622a4387148": {
@@ -19527,6 +19531,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:21:53.795436+00:00",
+  "last_cycle_at": "2026-10-29T04:22:13.101168+00:00",
   "schema_version": 1
 }
