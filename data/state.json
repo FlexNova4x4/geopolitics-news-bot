@@ -2873,9 +2873,10 @@
     "21e0db5a507b27324fabeaab": {
       "published_at": "2026-10-29T07:47:42+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12487,
       "title": "Amit Shah to attend BJP meeting as party faces questions over Varanasi MLC results",
-      "updated_at": "2026-10-29T08:43:07.509711+00:00",
+      "updated_at": "2026-10-29T08:43:11.792676+00:00",
       "url": "https://www.tribuneindia.com/news/uttar-pradesh/amit-shah-to-attend-bjp-meeting-as-party-faces-questions-over-varanasi-mlc-results"
     },
     "21f1b9f3423a9aec2fd9e68c": {
@@ -18314,9 +18315,10 @@
     "d6ee2d9107e5f876d669863b": {
       "published_at": "2026-10-29T07:51:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12488,
       "title": "NEET paper leak case: Court reserves order on framing charges’",
-      "updated_at": "2026-10-29T08:43:07.509726+00:00",
+      "updated_at": "2026-10-29T08:43:16.031936+00:00",
       "url": "https://www.tribuneindia.com/news/india/neet-paper-leak-case-court-reserves-order-on-framing-charges"
     },
     "d7057574cb51468b0a686af0": {
@@ -18358,9 +18360,10 @@
     "d75f3ffe5160208fc42d7dc7": {
       "published_at": "2026-10-29T07:52:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12490,
       "title": "BNM holds awareness campaign in Germany over alleged rights violations in Balochistan",
-      "updated_at": "2026-10-29T08:43:07.509733+00:00",
+      "updated_at": "2026-10-29T08:43:24.318582+00:00",
       "url": "https://www.tribuneindia.com/news/asif-baluch/bnm-holds-awareness-campaign-in-germany-over-alleged-rights-violations-in-balochistan"
     },
     "d77ba046a15a0ea1a9a456c4": {
@@ -19175,9 +19178,10 @@
     "e220953229e62c953299f7d9": {
       "published_at": "2026-10-29T07:52:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12489,
       "title": "Why India rejected a patent application for shorter drug-resistant TB treatment | Explained",
-      "updated_at": "2026-10-29T08:43:07.509729+00:00",
+      "updated_at": "2026-10-29T08:43:19.974466+00:00",
       "url": "https://www.thehindu.com/sci-tech/health/why-india-rejected-a-patent-application-for-shorter-drug-resistant-tb-treatment-explained/article71639506.ece"
     },
     "e22a862beefa00ef9e27450e": {
@@ -22092,6 +22096,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:43:07.512202+00:00",
+  "last_cycle_at": "2026-10-29T08:43:27.521646+00:00",
   "schema_version": 1
 }
