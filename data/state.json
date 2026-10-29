@@ -12912,9 +12912,10 @@
     "9bde68439a4b30a086193ad9": {
       "published_at": "2026-10-29T07:23:34+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12433,
       "title": "Hamirpur (Himachal) News: नादौन में 30 किलो रसगुल्ला और चमचम किए नष्ट",
-      "updated_at": "2026-10-29T07:11:17.960119+00:00",
+      "updated_at": "2026-10-29T07:11:21.445684+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/30-kg-of-rasgullas-and-chamchams-destroyed-in-nadaun-hamirpur-hp-news-c-94-1-ssml1011-213698-2026-10-29"
     },
     "9bf104e96a566f27ecffe9db": {
@@ -21591,6 +21592,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T07:11:17.962687+00:00",
+  "last_cycle_at": "2026-10-29T07:11:24.648514+00:00",
   "schema_version": 1
 }
