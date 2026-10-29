@@ -6574,9 +6574,10 @@
     "5b3bdff12e57bf3a545a67f2": {
       "published_at": "2026-10-28T20:44:10+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12173,
       "title": "Watch: King dances in the streets of the Bahamas capital",
-      "updated_at": "2026-10-29T04:18:46.688404+00:00",
+      "updated_at": "2026-10-29T04:18:50.431776+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss"
     },
     "5b850988cff3ad097502ce95": {
@@ -7031,9 +7032,10 @@
     "61b6adbea1d9af6edf159c17": {
       "published_at": "2026-10-28T20:49:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12174,
       "title": "Bihar MLC polls: Upper caste candidates dominate election results",
-      "updated_at": "2026-10-29T04:18:46.688419+00:00",
+      "updated_at": "2026-10-29T04:18:54.333444+00:00",
       "url": "https://www.thehindu.com/news/bihar-mlc-polls-upper-caste-candidates-dominate-election-results/article71636195.ece"
     },
     "61b95814bd7b1e80b16ea8b4": {
@@ -10139,9 +10141,10 @@
     "887c6092f567763abef7d126": {
       "published_at": "2026-10-28T20:57:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12176,
       "title": "Pakistan minister invites Punjab CM Mann",
-      "updated_at": "2026-10-29T04:18:46.688426+00:00",
+      "updated_at": "2026-10-29T04:19:02.249885+00:00",
       "url": "https://www.thehindu.com/news/national/punjab/pakistan-minister-invites-punjab-cm-mann/article71636711.ece"
     },
     "8898f38ced55ebd398dbe9ef": {
@@ -19233,9 +19236,10 @@
     "ff9d0f685de616595da2bf82": {
       "published_at": "2026-10-28T20:53:02+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12175,
       "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "updated_at": "2026-10-29T04:18:46.688422+00:00",
+      "updated_at": "2026-10-29T04:18:58.316573+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
     },
     "ffc9efced9b8eb9b075c16bb": {
@@ -19275,6 +19279,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:18:46.690407+00:00",
+  "last_cycle_at": "2026-10-29T04:19:05.452480+00:00",
   "schema_version": 1
 }
