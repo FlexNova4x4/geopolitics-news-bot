@@ -2873,9 +2873,10 @@
     "201aa28fa01a0c15c8d7a0a8": {
       "published_at": "2026-10-29T11:32:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12649,
       "title": "Indiana Treasurer rejects China’s criticism over attendance at Taiwan National Day reception",
-      "updated_at": "2026-10-29T12:05:20.746530+00:00",
+      "updated_at": "2026-10-29T12:05:24.451596+00:00",
       "url": "https://www.tribuneindia.com/news/beijing/indiana-treasurer-rejects-chinas-criticism-over-attendance-at-taiwan-national-day-reception"
     },
     "202339816a736f9ad957d82b": {
@@ -12057,9 +12058,10 @@
     "8693d2d17d5e7075b7fbef9d": {
       "published_at": "2026-10-29T11:37:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12652,
       "title": "Russia’s state-owned nuclear corporation Rosatom rejects report alleging Chinese firm supplied materials for Russian drone production",
-      "updated_at": "2026-10-29T12:05:20.746553+00:00",
+      "updated_at": "2026-10-29T12:05:36.357502+00:00",
       "url": "https://www.tribuneindia.com/news/alabuga-volokno/russias-state-owned-nuclear-corporation-rosatom-rejects-report-alleging-chinese-firm-supplied-materials-for-russian-drone-production"
     },
     "86969948df6c406c4d83c421": {
@@ -18593,9 +18595,10 @@
     "cf0e6e25ba2ef413f2caa757": {
       "published_at": "2026-10-29T11:33:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12650,
       "title": "Gangakatwa canal in Sangareddy to be restored with ₹37 crore: Jagga Reddy",
-      "updated_at": "2026-10-29T12:05:20.746546+00:00",
+      "updated_at": "2026-10-29T12:05:28.364290+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/gangakatwa-canal-in-sangareddy-to-be-restored-with-37-crore-jagga-reddy/article71640237.ece"
     },
     "cf2eeae66cc6d0fbb510913d": {
@@ -19240,9 +19243,10 @@
     "d4fb7d19c702c3422dfaf9c0": {
       "published_at": "2026-10-29T11:34:03+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12651,
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "updated_at": "2026-10-29T12:05:20.746550+00:00",
+      "updated_at": "2026-10-29T12:05:32.448550+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
     },
     "d508b60b9b67578eb6c4f1ea": {
@@ -23541,6 +23545,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:05:20.748994+00:00",
+  "last_cycle_at": "2026-10-29T12:05:39.560549+00:00",
   "schema_version": 1
 }
