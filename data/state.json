@@ -1946,9 +1946,10 @@
     "180a7ee7acd91f817526448f": {
       "published_at": "2026-10-29T02:12:20+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12229,
       "title": "Charging points in trains to remain off 11 pm-5 am",
-      "updated_at": "2026-10-29T04:25:26.347835+00:00",
+      "updated_at": "2026-10-29T04:25:29.937710+00:00",
       "url": "https://www.hindustantimes.com/india-news/charging-points-in-trains-to-remain-off-11-pm-5-am-101793212943446.html"
     },
     "1811745102e901e3497b957d": {
@@ -1981,9 +1982,10 @@
     "18b87447e1cb0e9c11d796f2": {
       "published_at": "2026-10-29T02:18:28+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12231,
       "title": "Quad nations renew push for Indo-Pacific security on ASEAN sidelines",
-      "updated_at": "2026-10-29T04:25:26.347853+00:00",
+      "updated_at": "2026-10-29T04:25:37.806708+00:00",
       "url": "https://www.hindustantimes.com/india-news/quad-nations-renew-push-for-indo-pacific-security-on-asean-sidelines-101793240309174.html"
     },
     "18c25fe65809516485d3f623": {
@@ -3696,9 +3698,10 @@
     "331d7413870c337eb3ffb0dc": {
       "published_at": "2026-10-29T02:14:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12230,
       "title": "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
-      "updated_at": "2026-10-29T04:25:26.347850+00:00",
+      "updated_at": "2026-10-29T04:25:33.856254+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
     },
     "332ed1b6b3d7262c562358e4": {
@@ -6078,9 +6081,10 @@
     "52f8ea4781178d074be0df30": {
       "published_at": "2026-10-29T02:23:30+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12232,
       "title": "Apex court asks Law Commission to review award execution rules",
-      "updated_at": "2026-10-29T04:25:26.347856+00:00",
+      "updated_at": "2026-10-29T04:25:41.930912+00:00",
       "url": "https://www.hindustantimes.com/india-news/apex-court-asks-law-commission-to-review-award-execution-rules-101793214923659.html"
     },
     "5301b48ae039cf956525cffa": {
@@ -19779,6 +19783,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:25:26.349906+00:00",
+  "last_cycle_at": "2026-10-29T04:25:45.133506+00:00",
   "schema_version": 1
 }
