@@ -14753,9 +14753,10 @@
     "adb3f3fffa0eb19c6a946233": {
       "published_at": "2026-10-29T08:17:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12513,
       "title": "Israel elections 2026: Benjamin Netanyahu is down but not out",
-      "updated_at": "2026-10-29T08:45:53.003955+00:00",
+      "updated_at": "2026-10-29T08:46:04.827570+00:00",
       "url": "https://www.thehindu.com/news/international/israel-election-2026-benjamin-netanyahu-is-down-but-not-out/article71639548.ece"
     },
     "adc596c2dbae0efbd0575394": {
@@ -17811,9 +17812,10 @@
     "cfd064110e5fa25ea5143ceb": {
       "published_at": "2026-10-29T08:16:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12512,
       "title": "Low pressure forms in Andaman Sea after Cyclone Arnab, may affect Andhra Pradesh",
-      "updated_at": "2026-10-29T08:45:53.003950+00:00",
+      "updated_at": "2026-10-29T08:46:00.843297+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-forms-in-andaman-sea-after-cyclone-arnab-may-affect-andhra-pradesh/article71639097.ece"
     },
     "cfd17c90a162ff72eecb06ca": {
@@ -18332,9 +18334,10 @@
     "d54e1a6e0263c1d552b08715": {
       "published_at": "2026-10-29T08:16:36+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12511,
       "title": "Congress’ tally in MLC polls triggers meme fest by BJP: ‘Zero check karlo bhai’",
-      "updated_at": "2026-10-29T08:45:53.003934+00:00",
+      "updated_at": "2026-10-29T08:45:56.695870+00:00",
       "url": "https://www.hindustantimes.com/india-news/congress-mlc-legislative-council-polls-elections-bjp-bharatiya-janata-party-101793260879533.html"
     },
     "d55a0ecb3239c40e36d8b81a": {
@@ -19005,9 +19008,10 @@
     "dc2fa1dd97a175358254fcb1": {
       "published_at": "2026-10-29T08:18:52+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12514,
       "title": "Went to Russia for $1,200 job, Indian man's family alleges he was tortured to join Ukraine war",
-      "updated_at": "2026-10-29T08:45:53.003958+00:00",
+      "updated_at": "2026-10-29T08:46:08.821277+00:00",
       "url": "https://www.hindustantimes.com/india-news/vinit-kumar-dubey-indian-man-went-to-russia-for-us-dollar-1200-job-family-alleges-he-was-tortured-to-join-ukraine-war-101793257543023.html"
     },
     "dc30a941cd2b90b52916b339": {
@@ -22308,6 +22312,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:45:53.006242+00:00",
+  "last_cycle_at": "2026-10-29T08:46:12.024264+00:00",
   "schema_version": 1
 }
