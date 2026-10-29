@@ -6164,9 +6164,10 @@
     "3f33a3030b1daf10f8c18c9b": {
       "published_at": "2026-10-29T17:54:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12958,
       "title": "Left parties, AAP release joint manifesto for GVMC polls",
-      "updated_at": "2026-10-29T18:21:21.312953+00:00",
+      "updated_at": "2026-10-29T18:21:28.315435+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/left-parties-aap-release-joint-manifesto-for-gvmc-polls/article71640964.ece"
     },
     "3f489280f144a31b21c21fa2": {
@@ -15090,9 +15091,10 @@
     "96fabef8f9577b0e3876110e": {
       "published_at": "2026-10-29T17:56:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12959,
       "title": "Cyclone Arnab: Andhra Pradesh puts estimated loss at ₹4,600 crore",
-      "updated_at": "2026-10-29T18:21:21.312958+00:00",
+      "updated_at": "2026-10-29T18:21:32.471309+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-andhra-pradesh-puts-estimated-loss-at-4600-crore/article71640441.ece"
     },
     "96fd5266fabf22141e93546e": {
@@ -18720,9 +18722,10 @@
     "b97496a1bb8b4126baf8562f": {
       "published_at": "2026-10-29T17:58:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12960,
       "title": "ICG rescues 20 crew members of stranded ship Sigma Pearl",
-      "updated_at": "2026-10-29T18:21:21.312960+00:00",
+      "updated_at": "2026-10-29T18:21:36.205502+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/icg-rescues-20-crew-members-of-stranded-ship-sigma-pearl/article71640658.ece"
     },
     "b978163c06320851f3fa1e3f": {
@@ -23053,9 +23056,10 @@
     "e4bef1862aeaf8bf9ccba446": {
       "published_at": "2026-10-29T17:53:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12957,
       "title": "Analogue paneer banned in Andhra Pradesh for a year",
-      "updated_at": "2026-10-29T18:21:21.312938+00:00",
+      "updated_at": "2026-10-29T18:21:24.510262+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/analogue-paneer-banned-in-andhra-pradesh-for-a-year/article71639712.ece"
     },
     "e4d8ac34472014ddfa30814b": {
@@ -26295,6 +26299,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:21:21.316040+00:00",
+  "last_cycle_at": "2026-10-29T18:21:39.409136+00:00",
   "schema_version": 1
 }
