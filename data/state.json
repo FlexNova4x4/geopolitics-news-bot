@@ -2330,6 +2330,14 @@
       "updated_at": "2026-10-26T00:54:17.446862+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/time-spent-in-the-army-is-significant-for-every-soldier-atri-hamirpur-hp-news-c-94-1-hmp1005-213301-2026-10-26"
     },
+    "1acfb4d4660a81a30df61fb9": {
+      "published_at": "2026-10-29T09:17:05+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "updated_at": "2026-10-29T10:30:59.927430+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss"
+    },
     "1b09205a382a09834abe190e": {
       "published_at": "2026-10-25T14:47:55+00:00",
       "source": "aljazeera.com",
@@ -10778,6 +10786,14 @@
       "updated_at": "2026-10-26T13:44:33.952701+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/bjp-workers-scuffle-with-police-try-to-burn-kharges-effigy-in-shimla"
     },
+    "7c5e1a83b06584d7924bde15": {
+      "published_at": "2026-10-29T09:17:10+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Argentina farmers evacuate cattle by boat as El Nino escalates",
+      "updated_at": "2026-10-29T10:30:59.927449+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss"
+    },
     "7c77b1d428298b4dd4cb44aa": {
       "published_at": "2026-10-25T20:44:23+00:00",
       "source": "amarujala.com",
@@ -14760,6 +14776,14 @@
       "updated_at": "2026-10-26T05:53:38.412346+00:00",
       "url": "https://www.tribuneindia.com/news/cbs-news-poll/democrats-projected-to-win-229-house-seats-as-economic-concerns-weigh-on-voters-cbs-news-polls"
     },
+    "aaacf9ffd4c770052bf2194e": {
+      "published_at": "2026-10-29T09:30:35+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Kerala judge says he was asleep when son took Mercedes involved in fatal Kochi crash",
+      "updated_at": "2026-10-29T10:30:59.927461+00:00",
+      "url": "https://www.hindustantimes.com/india-news/kerala-judge-tells-high-court-he-was-asleep-when-son-took-mercedes-benz-involved-in-fatal-kochi-crash-101793262924735.html"
+    },
     "aab31edad40ec73606e83bc4": {
       "published_at": "2026-10-27T03:55:22+00:00",
       "source": "thehindu.com",
@@ -16792,6 +16816,14 @@
       "title": "Cyclone Arnab: Andhra CM orders fast-track relief, power restoration, early compensation",
       "updated_at": "2026-10-29T07:40:35.267143+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-andhra-cm-orders-fast-track-relief-power-restoration-early-compensation-101793257366106.html"
+    },
+    "c0728a590f590822868c8395": {
+      "published_at": "2026-10-29T09:28:41+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’",
+      "updated_at": "2026-10-29T10:30:59.927455+00:00",
+      "url": "https://www.tribuneindia.com/news/delhi/delhi-hc-asks-sourav-ganguly-to-specify-infringing-content-in-film-doosra"
     },
     "c084134207c7001eb52917b7": {
       "published_at": "2026-10-26T10:56:39+00:00",
@@ -22726,6 +22758,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T10:30:51.833548+00:00",
+  "last_cycle_at": "2026-10-29T10:30:59.929670+00:00",
   "schema_version": 1
 }
