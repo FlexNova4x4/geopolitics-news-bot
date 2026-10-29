@@ -2432,9 +2432,10 @@
     "1fa5a9da091575ad5420641c": {
       "published_at": "2026-10-29T04:37:46+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12309,
       "title": "Cyclone Arnab to weaken by today evening after killing 5; Andhra, Odisha, Chhattisgarh under rain alerts",
-      "updated_at": "2026-10-29T05:18:32.140038+00:00",
+      "updated_at": "2026-10-29T05:18:35.900367+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-weakens-into-deep-depression-andhra-pradesh-odisha-remain-under-yellow-orange-rain-alerts-imd-weather-update-101793242842978.html"
     },
     "1fa8ed7a72fbfd029c3316cc": {
@@ -3176,9 +3177,10 @@
     "2a2b013c22b262a5d26e0fbf": {
       "published_at": "2026-10-29T04:37:51+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12310,
       "title": "‘Yahan Baleno nahi hai, tum Mustang se bhi dukhi’: Indian Chef in US shares Diwali loneliness, sparks debate",
-      "updated_at": "2026-10-29T05:18:32.140053+00:00",
+      "updated_at": "2026-10-29T05:18:39.831752+00:00",
       "url": "https://www.tribuneindia.com/news/trending/yahan-baleno-nahi-hai-tum-mustang-se-bhi-dukhi-indian-chef-in-us-shares-diwali-loneliness-sparks-debate"
     },
     "2a43edeef3372c2b8586e34c": {
@@ -6564,9 +6566,10 @@
     "574c59fd4de9205202058de0": {
       "published_at": "2026-10-29T04:39:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12311,
       "title": "Stop sermonising others; introspect why BJP lost Varanasi seats in MLC polls: Cong slams PM",
-      "updated_at": "2026-10-29T05:18:32.140057+00:00",
+      "updated_at": "2026-10-29T05:18:43.926237+00:00",
       "url": "https://www.tribuneindia.com/news/india/stop-sermonising-others-introspect-why-bjp-lost-varanasi-seats-in-mlc-polls-cong-slams-pm"
     },
     "57788e56a06dcdd4a4eb61a9": {
@@ -14138,9 +14141,10 @@
     "b474478299ba6ad70d96719e": {
       "published_at": "2026-10-29T04:39:41+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12312,
       "title": "Karachi man allegedly guns down two sisters for ‘using TikTok’",
-      "updated_at": "2026-10-29T05:18:32.140060+00:00",
+      "updated_at": "2026-10-29T05:18:48.021809+00:00",
       "url": "https://www.dawn.com/news/2040658/karachi-man-allegedly-guns-down-two-sisters-for-using-tiktok"
     },
     "b4774672ee95ee2d43c99655": {
@@ -20499,6 +20503,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:18:32.142447+00:00",
+  "last_cycle_at": "2026-10-29T05:18:51.224625+00:00",
   "schema_version": 1
 }
