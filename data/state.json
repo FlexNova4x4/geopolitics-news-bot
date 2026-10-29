@@ -1398,9 +1398,10 @@
     "125410f266289910da14102e": {
       "published_at": "2026-10-29T02:48:10+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12265,
       "title": "Health ministry halts vaccination process for pilgrims, overseas job seekers as ‘flawed’ tender scrapped",
-      "updated_at": "2026-10-29T05:13:25.580177+00:00",
+      "updated_at": "2026-10-29T05:13:28.748628+00:00",
       "url": "https://www.dawn.com/news/2040649/health-ministry-halts-vaccination-process-for-pilgrims-overseas-job-seekers-as-flawed-tender-scrapped"
     },
     "126308cd8ccec22bb30dfb9e": {
@@ -10815,9 +10816,10 @@
     "8d6ce0652050a474ffba585d": {
       "published_at": "2026-10-29T03:07:29+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12268,
       "title": "Arrest warrants for Sohail Afridi, others out in Radio Pakistan attack case",
-      "updated_at": "2026-10-29T05:13:25.580202+00:00",
+      "updated_at": "2026-10-29T05:13:40.711090+00:00",
       "url": "https://www.dawn.com/news/2040577/arrest-warrants-for-sohail-afridi-others-out-in-radio-pakistan-attack-case"
     },
     "8d7a7110d11e20b2dcdd224d": {
@@ -13545,9 +13547,10 @@
     "b05edcfc262a02f56e0f25fb": {
       "published_at": "2026-10-29T02:48:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12266,
       "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-      "updated_at": "2026-10-29T05:13:25.580194+00:00",
+      "updated_at": "2026-10-29T05:13:32.885318+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
     },
     "b0739e1ca9283319edca8de9": {
@@ -18859,9 +18862,10 @@
     "f224a9e296ec03494fb0550d": {
       "published_at": "2026-10-29T03:00:57+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12267,
       "title": "30-year sentence in Minnesota fraud that drew Trump backlash",
-      "updated_at": "2026-10-29T05:13:25.580198+00:00",
+      "updated_at": "2026-10-29T05:13:36.811005+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss"
     },
     "f23ade255af0dfa654cda756": {
@@ -20103,6 +20107,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:13:25.582311+00:00",
+  "last_cycle_at": "2026-10-29T05:13:43.914033+00:00",
   "schema_version": 1
 }
