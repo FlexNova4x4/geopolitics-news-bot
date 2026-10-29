@@ -1659,9 +1659,10 @@
     "138eadea2c214ae7edb56fc4": {
       "published_at": "2026-10-29T08:00:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12500,
       "title": "Cheranalloor luxury car crash: Kerala HC directs police not to arrest accused judge until further orders",
-      "updated_at": "2026-10-29T08:44:28.743942+00:00",
+      "updated_at": "2026-10-29T08:44:36.120089+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cheranalloor-luxury-car-crash-kerala-hc-directs-police-not-to-arrest-accused-judge-until-further-orders/article71639225.ece"
     },
     "139c0bf86fead18984a40473": {
@@ -9396,9 +9397,10 @@
     "6fd0979c138154f50af46297": {
       "published_at": "2026-10-29T08:02:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12501,
       "title": "U.S. bans imports from Chinese genomics companies over forced labour concerns",
-      "updated_at": "2026-10-29T08:44:28.743946+00:00",
+      "updated_at": "2026-10-29T08:44:40.073517+00:00",
       "url": "https://www.thehindu.com/news/international/us-bans-chinese-genomics-imports-from-companies-forced-labour-concerns-alleged-detention-of-uyghurs-muslims-minorities/article71639437.ece"
     },
     "6fe185b26c7b94045b10f1f1": {
@@ -13118,9 +13120,10 @@
     "9a64319e1a4f186633813db2": {
       "published_at": "2026-10-29T08:00:55+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12499,
       "title": "Neymar handed two-game Santos suspension for covering mouth in argument",
-      "updated_at": "2026-10-29T08:44:28.743927+00:00",
+      "updated_at": "2026-10-29T08:44:32.081680+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/neymar-handed-two-game-santos-suspension-for-covering-mouth-in-argument?traffic_source=rss"
     },
     "9a68a9401ca29677ae843954": {
@@ -19948,9 +19951,10 @@
     "e9f855a3a7384264846747e8": {
       "published_at": "2026-10-29T08:04:47+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12502,
       "title": "ISRO to launch NVS-03 satellite on October 30 to boost navigation for trains, vehicles and ships",
-      "updated_at": "2026-10-29T08:44:28.743949+00:00",
+      "updated_at": "2026-10-29T08:44:44.107990+00:00",
       "url": "https://www.hindustantimes.com/india-news/isro-to-launch-nvs-03-satellite-on-october-30-to-boost-navigation-for-trains-vehicles-and-ships-101793257644350.html"
     },
     "ea1dfcc29f4555c096186b81": {
@@ -22200,6 +22204,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:44:28.746415+00:00",
+  "last_cycle_at": "2026-10-29T08:44:47.310924+00:00",
   "schema_version": 1
 }
