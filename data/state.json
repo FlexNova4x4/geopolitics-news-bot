@@ -6188,6 +6188,14 @@
       "updated_at": "2026-10-27T12:42:56.316701+00:00",
       "url": "https://www.dawn.com/news/2040215/at-least-1-killed-6-injured-as-roof-of-under-construction-building-collapses-in-multan"
     },
+    "50acfc761dd70f566bd842ea": {
+      "published_at": "2026-10-29T05:39:58+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सोलन: त्योहारों में खाद्य पदार्थों से लापरवाही पर फटकार, खुले में मिठाई बेचने पर दुकान बंद करने की चेतावनी",
+      "updated_at": "2026-10-29T06:11:23.905824+00:00",
+      "url": "https://www.amarujala.com/video-shots/himachal-pradesh/solan/video-solan-food-safety-inspection-festival-sweets-warning-2026-10-29"
+    },
     "50c03be605f659669387e11d": {
       "published_at": "2026-10-26T21:42:18+00:00",
       "source": "aljazeera.com",
@@ -13680,6 +13688,14 @@
       "updated_at": "2026-10-27T04:13:07.228883+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/arnab-becomes-very-severe-cyclonic-storm-light-showers-begin-in-north-andhra/article71629655.ece"
     },
+    "aac495bda801d77a6a40b2cf": {
+      "published_at": "2026-10-29T05:42:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Jharkhand youth jailed in UAE, family seeks Government help for his return",
+      "updated_at": "2026-10-29T06:11:23.905854+00:00",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-youth-jailed-in-dubai-for-four-months-family-seeks-indian-government-help-to-secure-his-return/article71639118.ece"
+    },
     "aad5a01d7fc6de7b00e1bb87": {
       "published_at": "2026-10-25T15:44:17+00:00",
       "source": "thehindu.com",
@@ -14551,6 +14567,14 @@
       "title": "Brazilian media projects Lula to win presidential runoff against Flávio Bolsonaro",
       "updated_at": "2026-10-26T00:58:46.476160+00:00",
       "url": "https://www.tribuneindia.com/news/bolsonaro/brazilian-media-projects-lula-to-win-presidential-runoff-against-flavio-bolsonaro"
+    },
+    "b58f686d94afdd2e281bf477": {
+      "published_at": "2026-10-29T05:41:47+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सिरमौर: करवाचौथ पर बदला मौसम, नाहन में छाए काले बादल; पुलिस भर्ती और बाजार पर बारिश का साया",
+      "updated_at": "2026-10-29T06:11:23.905847+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-karwa-chauth-weather-change-nahan-clouds-rain-police-recruitment-2026-10-29"
     },
     "b59aa0b1fa0f89b1d6ce9484": {
       "published_at": "2026-10-26T22:17:08+00:00",
@@ -15738,6 +15762,14 @@
       "title": "Iranian and Qatari leaders meet at Russian energy forum",
       "updated_at": "2026-10-27T16:11:48.920431+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss"
+    },
+    "c16bd70b4c499de25aacb22c": {
+      "published_at": "2026-10-29T05:45:05+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
+      "updated_at": "2026-10-29T06:11:23.905860+00:00",
+      "url": "https://www.hindustantimes.com/india-news/india-ready-to-share-battle-tested-anti-terror-expertise-with-asean-its-dialogue-partners-rajnath-singh-101793252705574.html"
     },
     "c17d30ee67dca8e3d97b6bef": {
       "published_at": "2026-10-27T08:46:02+00:00",
@@ -20944,6 +20976,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:11:17.797009+00:00",
+  "last_cycle_at": "2026-10-29T06:11:23.908385+00:00",
   "schema_version": 1
 }
