@@ -966,9 +966,10 @@
     "0a260e1cb3587298587be600": {
       "published_at": "2026-10-29T07:46:05+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12485,
       "title": "Pillion riding banned in KP's Bajaur for 10 days owing to security situation",
-      "updated_at": "2026-10-29T08:42:38.011615+00:00",
+      "updated_at": "2026-10-29T08:42:50.341480+00:00",
       "url": "https://www.dawn.com/news/2040678/pillion-riding-banned-in-kps-bajaur-for-10-days-owing-to-security-situation"
     },
     "0a490d39d475a6ab42a5e12d": {
@@ -4372,9 +4373,10 @@
     "35ad012aacf159e0701fa41a": {
       "published_at": "2026-10-29T07:44:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12484,
       "title": "With fresh paddy arrivals at Red Hills, rice prices to stabilise soon: Tamil Nadu Food Minister",
-      "updated_at": "2026-10-29T08:42:38.011612+00:00",
+      "updated_at": "2026-10-29T08:42:46.045818+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/with-fresh-paddy-arrivals-at-red-hills-rice-prices-to-stabilise-soon-tamil-nadu-food-minister/article71637590.ece"
     },
     "35c67fdb10b3910ba1b39a56": {
@@ -5973,9 +5975,10 @@
     "49696296f41e252124ea20d9": {
       "published_at": "2026-10-29T07:42:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12483,
       "title": "Israel’s Elections Committee asks Shin Bet to investigate allegations of foreign interference in Tuesday’s poll",
-      "updated_at": "2026-10-29T08:42:38.011596+00:00",
+      "updated_at": "2026-10-29T08:42:41.311434+00:00",
       "url": "https://www.tribuneindia.com/news/benjamin-netanyahu/israels-elections-committee-asks-shin-bet-to-investigate-allegations-of-foreign-interference-in-tuesdays-poll"
     },
     "4985e0edffa0db0e4d2af048": {
@@ -11767,9 +11770,10 @@
     "8a7f1cd606cd41a4f8f49100": {
       "published_at": "2026-10-29T07:47:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12486,
       "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
-      "updated_at": "2026-10-29T08:42:38.011619+00:00",
+      "updated_at": "2026-10-29T08:42:54.340273+00:00",
       "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece"
     },
     "8a9577fd2bab4245f01d1352": {
@@ -22056,6 +22060,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:42:38.013982+00:00",
+  "last_cycle_at": "2026-10-29T08:42:57.543299+00:00",
   "schema_version": 1
 }
