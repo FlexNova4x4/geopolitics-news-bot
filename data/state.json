@@ -3551,6 +3551,14 @@
       "updated_at": "2026-10-27T19:03:06.575169+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/highways-dept-calls-for-consultants-to-prepare-dpr-on-linking-omr-ecr/article71632390.ece"
     },
+    "327aca0e6f96429810e1f79d": {
+      "published_at": "2026-10-28T19:52:56+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Clinging on: On Netanyahu and the Israel elections",
+      "updated_at": "2026-10-29T04:13:45.923696+00:00",
+      "url": "https://www.thehindu.com/opinion/editorial/clinging-on-on-netanyahu-and-the-israel-elections/article71636497.ece"
+    },
     "32bd2b6300f9cd74f3011f57": {
       "published_at": "2026-10-25T10:55:33+00:00",
       "source": "feeds.bbci.co.uk",
@@ -10795,6 +10803,14 @@
       "updated_at": "2026-10-25T09:04:50.508724+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
     },
+    "94fa238d56915c5d2ca491a4": {
+      "published_at": "2026-10-28T19:55:13+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "25 Chamba panchayats, MC areas designated drug red zones",
+      "updated_at": "2026-10-29T04:13:45.923716+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/25-chamba-panchayats-mc-areas-designated-drug-red-zones"
+    },
     "9500611802f1b4613a732330": {
       "published_at": "2026-10-26T09:00:11+00:00",
       "source": "thehindu.com",
@@ -15523,6 +15539,14 @@
       "updated_at": "2026-10-25T17:12:36.981643+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
     },
+    "d4f815efba612428fb66a91d": {
+      "published_at": "2026-10-28T19:54:17+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Shortage of medicines at Solan’s Regional Hospital, oxygen plant non-functional for four months",
+      "updated_at": "2026-10-29T04:13:45.923712+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/shortage-of-medicines-at-solans-regional-hospital-oxygen-plant-non-functional-for-four-months"
+    },
     "d508b60b9b67578eb6c4f1ea": {
       "published_at": "2026-10-26T21:19:16+00:00",
       "source": "amarujala.com",
@@ -15818,6 +15842,14 @@
       "title": "Mandi News: अंडर-14 राज्य स्तरीय बैडमिंटन प्रतियोगिता के लिए दिवांशु का चयन",
       "updated_at": "2026-10-27T12:13:01.244574+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/divanshu-selected-for-the-under-14-state-level-badminton-tournament-mandi-news-c-90-1-ssml1024-219432-2026-10-27"
+    },
+    "d87817f0379981eec4b95991": {
+      "published_at": "2026-10-28T19:55:45+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Make AI security priority, not productivity: Altman",
+      "updated_at": "2026-10-29T04:13:45.923718+00:00",
+      "url": "https://www.tribuneindia.com/news/world/make-ai-security-priority-not-productivity-altman"
     },
     "d8d9cbac081d765d2027748b": {
       "published_at": "2026-10-26T08:23:03+00:00",
@@ -18919,6 +18951,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:13:34.698566+00:00",
+  "last_cycle_at": "2026-10-29T04:13:45.925778+00:00",
   "schema_version": 1
 }
