@@ -1182,9 +1182,10 @@
     "0abefd8afda833092a2bd834": {
       "published_at": "2026-10-29T20:14:51+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13033,
       "title": "Students of Jawali schools apprised of opportunities in farming, allied sectors",
-      "updated_at": "2026-10-29T20:50:48.595412+00:00",
+      "updated_at": "2026-10-29T20:50:55.656533+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/students-of-jawali-schools-apprised-of-opportunities-in-farming-allied-sectors"
     },
     "0ad86da679ca75352a3bf1e0": {
@@ -14334,9 +14335,10 @@
     "8ac508c441b883cee54ee36d": {
       "published_at": "2026-10-29T20:19:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13035,
       "title": "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on",
-      "updated_at": "2026-10-29T20:50:48.595418+00:00",
+      "updated_at": "2026-10-29T20:51:03.360124+00:00",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece"
     },
     "8adf2297340f20cdecf836ff": {
@@ -14459,9 +14461,10 @@
     "8c12466746136c8dff4eadd2": {
       "published_at": "2026-10-29T20:10:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13032,
       "title": "173 community forest rights titles approved in Banjar",
-      "updated_at": "2026-10-29T20:50:48.595397+00:00",
+      "updated_at": "2026-10-29T20:50:51.733545+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/173-community-forest-rights-titles-approved-in-banjar"
     },
     "8c3378006d9edc71c4203658": {
@@ -14944,9 +14947,10 @@
     "912e7798d1cf916e5bd49c75": {
       "published_at": "2026-10-29T20:19:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13034,
       "title": "China bulldozing homes of monks at Tibetan monastery, alleges Central Tibetan Administration",
-      "updated_at": "2026-10-29T20:50:48.595415+00:00",
+      "updated_at": "2026-10-29T20:50:59.602357+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/china-bulldozing-homes-of-monks-at-tibetan-monastery-alleges-central-tibetan-administration"
     },
     "915e447cb7555f7e2bdd16c6": {
@@ -26970,6 +26974,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:50:48.598647+00:00",
+  "last_cycle_at": "2026-10-29T20:51:06.563930+00:00",
   "schema_version": 1
 }
