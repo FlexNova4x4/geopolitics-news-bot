@@ -4055,6 +4055,14 @@
       "updated_at": "2026-10-27T12:13:35.044518+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
     },
+    "3300bed33d4bba15e13e1613": {
+      "published_at": "2026-10-29T07:12:40+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Man City beat Brighton on penalties after dramatic League Cup comeback",
+      "updated_at": "2026-10-29T08:11:08.993133+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/man-city-beat-bournemouth-on-penalties-after-dramatic-league-cup-comeback?traffic_source=rss"
+    },
     "330e22e4234a676df137862d": {
       "published_at": "2026-10-26T02:47:28+00:00",
       "source": "thehindu.com",
@@ -11029,6 +11037,14 @@
       "updated_at": "2026-10-27T15:41:21.276415+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss"
     },
+    "851084975c288964edd70f69": {
+      "published_at": "2026-10-29T07:21:48+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Two Indian nationals among 28 charged with election fraud in California",
+      "updated_at": "2026-10-29T08:11:08.993140+00:00",
+      "url": "https://www.thehindu.com/news/international/two-indian-nationals-among-28-charged-with-election-fraud-in-california/article71603104.ece"
+    },
     "852b030c5bbfb220c5aeb5fe": {
       "published_at": "2026-10-29T06:20:07+00:00",
       "source": "thehindu.com",
@@ -17997,6 +18013,14 @@
       "updated_at": "2026-10-27T09:03:41.643428+00:00",
       "url": "https://www.hindustantimes.com/india-news/traders-body-raise-concerns-over-rahul-gandhis-ramlila-maidan-rally-on-nov-1-cite-traffic-parking-issues-20000-vehicles-sadar-bazaar-chandni-chowk-101793086450268.html"
     },
+    "d6cb6e9d81448a9758ef2441": {
+      "published_at": "2026-10-29T07:12:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "“No such thing as holy war, only peace is holy”: Pope Leo XIV as threat of renewed conflict looms over West Asia, Europe",
+      "updated_at": "2026-10-29T08:11:08.993117+00:00",
+      "url": "https://www.tribuneindia.com/news/assisi-peace-quest/no-such-thing-as-holy-war-only-peace-is-holy-pope-leo-xiv-as-threat-of-renewed-conflict-looms-over-west-asia-europe"
+    },
     "d6cfd4f710ea8c69c5d628b0": {
       "published_at": "2026-10-25T03:54:02+00:00",
       "source": "thehindu.com",
@@ -19497,6 +19521,14 @@
       "title": "Pakistan’s food supply fails own dietary guidelines: FAO",
       "updated_at": "2026-10-26T03:22:27.751788+00:00",
       "url": "https://www.dawn.com/news/2039816/pakistans-food-supply-fails-own-dietary-guidelines-fao"
+    },
+    "e9971283e6bd6cbf690f6acb": {
+      "published_at": "2026-10-29T07:16:05+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Change is in air; last best chance to rein in non-serious Trump: Obama",
+      "updated_at": "2026-10-29T08:11:08.993137+00:00",
+      "url": "https://www.tribuneindia.com/news/world/change-is-in-air-last-best-chance-to-rein-in-non-serious-trump-obama"
     },
     "ea1dfcc29f4555c096186b81": {
       "published_at": "2026-10-27T09:27:47+00:00",
@@ -21736,6 +21768,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:11:00.791417+00:00",
+  "last_cycle_at": "2026-10-29T08:11:08.995365+00:00",
   "schema_version": 1
 }
