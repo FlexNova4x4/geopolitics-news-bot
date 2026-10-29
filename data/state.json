@@ -603,6 +603,14 @@
       "updated_at": "2026-10-26T13:41:14.520047+00:00",
       "url": "https://www.tribuneindia.com/news/india/ex-dmk-minister-anbil-mahesh-arrested-in-rs-100-crore-private-schools-scam"
     },
+    "06cd6bf18b4baa6af8436f42": {
+      "published_at": "2026-10-29T05:47:24+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+      "updated_at": "2026-10-29T06:11:51.834532+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-police-encounters-explained/article71639046.ece"
+    },
     "0726b45718d40494e2b3bc8b": {
       "published_at": "2026-10-25T21:52:06+00:00",
       "source": "amarujala.com",
@@ -900,6 +908,14 @@
       "updated_at": "2026-10-29T03:46:26.894903+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/ensure-ring-road-for-palampur-under-20-year-master-plan-hoteliers"
     },
+    "09c09f3982a31d1faaa4ff5e": {
+      "published_at": "2026-10-29T05:54:37+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India, Austria look to deepen defence, security and technology ties",
+      "updated_at": "2026-10-29T06:11:51.834553+00:00",
+      "url": "https://www.tribuneindia.com/news/india/india-austria-look-to-deepen-defence-security-and-technology-ties"
+    },
     "0a0d9d55ddba5ec3db5235a9": {
       "published_at": "2026-10-29T01:49:39+00:00",
       "source": "thehindu.com",
@@ -944,6 +960,14 @@
       "title": "Supreme Court defers Kerala journalist Siddique Kappan's plea for release of passport to November 2",
       "updated_at": "2026-10-27T12:17:21.766107+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-defers-siddique-kappans-passport-release-plea-to-november-2/article71630729.ece"
+    },
+    "0ab4ba1a503d1c7f3cb4dfe3": {
+      "published_at": "2026-10-29T05:53:25+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Fraudsters posed as company director to siphon off are 22.56 lakh; gold, items worth Rs 2.5 crore seized",
+      "updated_at": "2026-10-29T06:11:51.834548+00:00",
+      "url": "https://www.tribuneindia.com/news/delhi/fraudsters-posed-as-company-director-to-siphon-off-are-22-56-lakh-gold-items-worth-rs-2-5-crore-seized"
     },
     "0ad86da679ca75352a3bf1e0": {
       "published_at": "2026-10-25T06:52:23+00:00",
@@ -18104,6 +18128,14 @@
       "updated_at": "2026-10-27T15:42:47.483661+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/traditional-mysore-painting-workshop-begins-at-igrms/article71632468.ece"
     },
+    "e06591ed22be942aba70cb06": {
+      "published_at": "2026-10-29T05:55:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Congress rally on November 1: What are the conditions imposed by Delhi Police",
+      "updated_at": "2026-10-29T06:11:51.834556+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/congress-rally-november-1-ramlila-maidan-restrictions-by-delhi-police/article71635407.ece"
+    },
     "e0662c36b9b20f30a85c2460": {
       "published_at": "2026-10-25T07:29:06+00:00",
       "source": "hindustantimes.com",
@@ -20980,6 +21012,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:11:42.818567+00:00",
+  "last_cycle_at": "2026-10-29T06:11:51.836708+00:00",
   "schema_version": 1
 }
