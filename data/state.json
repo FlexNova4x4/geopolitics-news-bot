@@ -9683,9 +9683,10 @@
     "77afabf8cbd2b1670aa684dd": {
       "published_at": "2026-10-29T06:30:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12400,
       "title": "Flavio Bolsonaro claims he is Brazil’s true leader after fleeing to U.S.",
-      "updated_at": "2026-10-29T06:42:57.601579+00:00",
+      "updated_at": "2026-10-29T06:43:01.450001+00:00",
       "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece"
     },
     "77bd5876ab21d0d78fabe22d": {
@@ -10312,9 +10313,10 @@
     "7f73fd366d809152444db128": {
       "published_at": "2026-10-29T06:31:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12402,
       "title": "Una News: दो महीने पहले टेंडर अवार्ड, अब भूमि विवाद में फंसा नाली का निर्माण",
-      "updated_at": "2026-10-29T06:42:57.601603+00:00",
+      "updated_at": "2026-10-29T06:43:09.310307+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/tender-awarded-two-months-ago-construction-of-drain-now-stuck-in-a-land-dispute-una-news-c-93-1-una1025-211658-2026-10-29"
     },
     "7f79e264470c51edc22fc19b": {
@@ -11273,9 +11275,10 @@
     "898ec1b3b5952ddfde3e1fa0": {
       "published_at": "2026-10-29T06:30:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12401,
       "title": "Maoists are defeated, but arms cache and crores of money unaccounted for: LWE researcher",
-      "updated_at": "2026-10-29T06:42:57.601597+00:00",
+      "updated_at": "2026-10-29T06:43:05.376249+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/maoists-are-defeated-but-arms-cache-and-crores-of-money-unaccounted-for-lwe-researcher/article71637667.ece"
     },
     "89c77696be44e629c728e4bd": {
@@ -17278,9 +17281,10 @@
     "d32d7752f4fde471a11d7734": {
       "published_at": "2026-10-29T06:32:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12403,
       "title": "Sirmour News: करवा चौथ की खरीदारी से गुलजार हुआ नाहन बाजार, महिलाओं की उमड़ी भीड़",
-      "updated_at": "2026-10-29T06:42:57.601607+00:00",
+      "updated_at": "2026-10-29T06:43:13.426359+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/karva-chauth-bazaar-business-in-nahan-nahan-news-c-177-1-ssml1028-192731-2026-10-28"
     },
     "d3464e8b48bb3c0e133ce982": {
@@ -21318,6 +21322,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:42:57.603860+00:00",
+  "last_cycle_at": "2026-10-29T06:43:16.629339+00:00",
   "schema_version": 1
 }
