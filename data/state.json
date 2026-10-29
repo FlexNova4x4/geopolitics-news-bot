@@ -2474,6 +2474,14 @@
       "updated_at": "2026-10-29T04:12:32.650299+00:00",
       "url": "https://www.tribuneindia.com/news/world/burnham-vows-strongest-india-uk-ties"
     },
+    "183873e0d90b040f1c6b361c": {
+      "published_at": "2026-10-29T16:35:02+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Temperatures dip across northern India, Delhi records coldest October in four years",
+      "updated_at": "2026-10-29T16:56:33.435860+00:00",
+      "url": "https://www.tribuneindia.com/news/weather-report/temperatures-dip-across-northern-india-delhi-records-coldest-october-in-four-years"
+    },
     "1856332a138aee5184c65413": {
       "published_at": "2026-10-27T06:46:16+00:00",
       "source": "amarujala.com",
@@ -9611,6 +9619,14 @@
       "title": "Mandi college sweeps overall hockey titles",
       "updated_at": "2026-10-27T05:35:11.037246+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandi-college-sweeps-overall-hockey-titles"
+    },
+    "6484f00632091419199b94ba": {
+      "published_at": "2026-10-29T16:35:14+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Delhi traders urge Rahul Gandhi to postpone INDIA bloc's Ramlila Maidan rally over Diwali business loss fears",
+      "updated_at": "2026-10-29T16:56:33.435863+00:00",
+      "url": "https://www.hindustantimes.com/india-news/delhi-traders-urge-rahul-gandhi-to-postpone-india-bloc-rally-november-1-over-fears-of-traffic-curbs-business-losses-during-diwali-101793287737490.html"
     },
     "64a97563cb28ef1849dd8b62": {
       "published_at": "2026-10-27T10:59:57+00:00",
@@ -16793,6 +16809,14 @@
       "title": "Trump says he will respect midterm election results “if polls are honest”, warns of possible veto",
       "updated_at": "2026-10-27T20:02:57.332319+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump/trump-says-he-will-respect-midterm-election-results-if-polls-are-honest-warns-of-possible-veto"
+    },
+    "ab08cd85455ab0f63bb8c40f": {
+      "published_at": "2026-10-29T16:32:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Iran says four tankers on fire after hitting mines in Hormuz",
+      "updated_at": "2026-10-29T16:56:33.435845+00:00",
+      "url": "https://www.thehindu.com/news/international/iran-says-four-tankers-on-fire-after-hitting-mines-in-hormuz/article71642019.ece"
     },
     "ab08da050a21e3dc83d7732e": {
       "published_at": "2026-10-26T22:02:47+00:00",
@@ -24565,6 +24589,14 @@
       "updated_at": "2026-10-27T13:41:36.989032+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/international-kullu-dussehra-concludes-with-lanka-dahan-chariot-procession-held-in-the-presence-of-60-deiti-2026-10-27"
     },
+    "f5fec660cfae83d5c9760347": {
+      "published_at": "2026-10-29T16:35:50+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "GBA explores new technique to fast-track Jalahalli underpass construction",
+      "updated_at": "2026-10-29T16:56:33.435866+00:00",
+      "url": "https://www.thehindu.com/news/cities/bangalore/gba-explores-new-technique-to-fast-track-jalahalli-underpass-construction/article71641239.ece"
+    },
     "f6011bc65e16b1a700ac677d": {
       "published_at": "2026-10-26T08:14:46+00:00",
       "source": "thehindu.com",
@@ -25768,6 +25800,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:55:27.064036+00:00",
+  "last_cycle_at": "2026-10-29T16:56:33.438616+00:00",
   "schema_version": 1
 }
