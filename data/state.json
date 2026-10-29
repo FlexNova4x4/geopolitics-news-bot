@@ -8509,9 +8509,10 @@
     "5cd8126047357f4cfa46ef4f": {
       "published_at": "2026-10-29T13:41:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12757,
       "title": "Grama Palana Officer caught taking ₹22,000 bribe in Mancherial district",
-      "updated_at": "2026-10-29T14:33:07.559666+00:00",
+      "updated_at": "2026-10-29T14:33:15.111236+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/grama-palana-officer-caught-taking-22000-bribe-in-mancherial-district/article71640592.ece"
     },
     "5ce2c706cefcfc257c2c53c0": {
@@ -8939,9 +8940,10 @@
     "61c6bc6d4534c2b3cf69645c": {
       "published_at": "2026-10-29T13:42:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12758,
       "title": "Palakkad to launch Jantar Mantar Protest Corner today",
-      "updated_at": "2026-10-29T14:33:07.559670+00:00",
+      "updated_at": "2026-10-29T14:33:19.072176+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/palakkad-to-launch-jantar-mantar-protest-corner-today/article71640680.ece"
     },
     "61e856287d5b059c20bc8504": {
@@ -19160,9 +19162,10 @@
     "cc4c4cf4bfa586a3ddb81458": {
       "published_at": "2026-10-29T13:40:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12756,
       "title": "College student killed after motorcycle hits pedestrian, crashes into TDB president’s car in Pathanamthitta",
-      "updated_at": "2026-10-29T14:33:07.559651+00:00",
+      "updated_at": "2026-10-29T14:33:11.121278+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/college-student-killed-after-motorcycle-hits-pedestrian-crashes-into-tdb-presidents-car-in-pathanamthitta/article71640401.ece"
     },
     "cc56337f6d578f5c21887cc8": {
@@ -22459,9 +22462,10 @@
     "ee1aed240794ac606d21fbe7": {
       "published_at": "2026-10-29T13:43:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12759,
       "title": "EAGLE SP calls for constant vigil on drug peddlers to dismantle supply networks",
-      "updated_at": "2026-10-29T14:33:07.559674+00:00",
+      "updated_at": "2026-10-29T14:33:22.964195+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/eagle-sp-calls-for-constant-vigil-on-drug-peddlers-to-dismantle-supply-networks/article71637531.ece"
     },
     "ee273e8d6d2effa2e3171640": {
@@ -24504,6 +24508,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:33:07.563366+00:00",
+  "last_cycle_at": "2026-10-29T14:33:26.167396+00:00",
   "schema_version": 1
 }
