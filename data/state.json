@@ -4967,9 +4967,10 @@
     "38213d9ebfee383baee7daa4": {
       "published_at": "2026-10-29T04:21:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12721,
       "title": "Evolving Scope of the China-Pakistan Economic Corridor",
-      "updated_at": "2026-10-29T14:01:17.655116+00:00",
+      "updated_at": "2026-10-29T14:01:25.843011+00:00",
       "url": "https://thediplomat.com/2026/10/evolving-scope-of-the-china-pakistan-economic-corridor"
     },
     "383e7108c53074569221bc1b": {
@@ -16912,9 +16913,10 @@
     "b788a877d1d1dff69429b29b": {
       "published_at": "2026-10-29T08:52:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12722,
       "title": "Delhi’s De-Hyphenation Policy is Taking Shape in the South Caucasus",
-      "updated_at": "2026-10-29T14:01:17.655120+00:00",
+      "updated_at": "2026-10-29T14:01:29.807943+00:00",
       "url": "https://thediplomat.com/2026/10/delhis-de-hyphenation-policy-is-taking-shape-in-the-south-caucasus"
     },
     "b794abd56a7ec775e14aca98": {
@@ -17685,9 +17687,10 @@
     "bf3784224eee9e96a85ad341": {
       "published_at": "2026-10-29T09:11:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12723,
       "title": "Promises and Perils of Nepal’s India Pivot",
-      "updated_at": "2026-10-29T14:01:17.655124+00:00",
+      "updated_at": "2026-10-29T14:01:33.711994+00:00",
       "url": "https://thediplomat.com/2026/10/promises-and-perils-of-nepals-india-pivot"
     },
     "bf45bde197193fa243b7d8cc": {
@@ -22972,9 +22975,10 @@
     "f4e08559779f1ac43125ca11": {
       "published_at": "2026-10-29T01:47:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12720,
       "title": "हिमाचल प्रदेश: पीएचसी में डॉक्टर समेत चार कर्मियो का स्टाफ होगा तैनात, सरकार ने जारी किए निर्देश",
-      "updated_at": "2026-10-29T14:01:17.655102+00:00",
+      "updated_at": "2026-10-29T14:01:21.758849+00:00",
       "url": "https://www.amarujala.com/shimla/himachal-a-staff-of-four-including-a-doctor-will-be-deployed-at-phcs-govt-issues-directives-2026-10-29"
     },
     "f4e0ee9f435024f29c3b0d3f": {
@@ -24180,6 +24184,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:01:17.657944+00:00",
+  "last_cycle_at": "2026-10-29T14:01:36.915284+00:00",
   "schema_version": 1
 }
