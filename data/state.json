@@ -14548,6 +14548,14 @@
       "updated_at": "2026-10-29T15:21:44.697581+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/search-on-for-missing-tipper-lorry-driver/article71640247.ece"
     },
+    "8f146e78e8f8804de166c380": {
+      "published_at": "2026-10-29T19:01:50+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "West Bengal minister asks to organise Kali puja at every police station",
+      "updated_at": "2026-10-29T20:20:32.647435+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-minister-asks-to-organise-kali-puja-at-every-police-station/article71641512.ece"
+    },
     "8f7c3846e72584e86f614108": {
       "published_at": "2026-10-27T00:41:22+00:00",
       "source": "amarujala.com",
@@ -15726,6 +15734,14 @@
       "title": "‘There’s bound to be some tamasha’: Sonia Gandhi on her upcoming memoir ‘Belonging’",
       "updated_at": "2026-10-27T12:18:38.722642+00:00",
       "url": "https://www.hindustantimes.com/india-news/theres-bound-to-be-some-tamasha-sonia-gandhi-on-her-new-book-belonging-101793101117580.html"
+    },
+    "9a750bd1e9a5f50706d8aa00": {
+      "published_at": "2026-10-29T19:31:20+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Inaugural Prof Vepa Rao Memorial Lecture at Gaiety Theatre on October 31",
+      "updated_at": "2026-10-29T20:20:32.647460+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/inaugural-prof-vepa-rao-memorial-lecture-at-gaiety-theatre-on-october-31"
     },
     "9a8f5ee0da3782f2f58990c4": {
       "published_at": "2026-10-25T07:44:20+00:00",
@@ -21571,6 +21587,14 @@
       "updated_at": "2026-10-26T08:43:45.740481+00:00",
       "url": "https://www.tribuneindia.com/news/brics/pmo-highlights-lok-sabha-speaker-om-birlas-article-on-role-of-12th-brics-parliamentary-forum"
     },
+    "d392415398c97b45a3572b5b": {
+      "published_at": "2026-10-29T19:43:30+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Situation normal, but transgressions do happen, says Arunachal CM",
+      "updated_at": "2026-10-29T20:20:32.647466+00:00",
+      "url": "https://www.tribuneindia.com/news/india/situation-normal-but-transgressions-do-happen-says-arunachal-cm"
+    },
     "d393a3d57a0f4b3af6d2e577": {
       "published_at": "2026-10-25T09:27:03+00:00",
       "source": "aljazeera.com",
@@ -23250,6 +23274,14 @@
       "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
       "updated_at": "2026-10-27T14:44:09.651983+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss"
+    },
+    "e3d5295b05923d1a7382f5ce": {
+      "published_at": "2026-10-29T19:23:33+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+      "updated_at": "2026-10-29T20:20:32.647454+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss"
     },
     "e3e2d3e1fce9a6003cdcf348": {
       "published_at": "2026-10-25T19:55:46+00:00",
@@ -26623,6 +26655,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:51:38.581777+00:00",
+  "last_cycle_at": "2026-10-29T20:20:32.650729+00:00",
   "schema_version": 1
 }
