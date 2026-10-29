@@ -6314,6 +6314,14 @@
       "updated_at": "2026-10-25T05:41:25.001668+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-foot-marches-in-sensitive-areas-in-andhra-pradesh/article71622525.ece"
     },
+    "48a01ef21154998c65ad2cfa": {
+      "published_at": "2026-10-29T11:28:03+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "IMD issues thunderstorm, hail alert for parts of Delhi as dark clouds obscure capital sky",
+      "updated_at": "2026-10-29T12:04:40.010513+00:00",
+      "url": "https://www.tribuneindia.com/news/weather-report/imd-issues-thunderstorm-hail-alert-for-parts-of-delhi-as-dark-clouds-obscure-capital-sky"
+    },
     "48acc4d59e98dcd9e457b0cf": {
       "published_at": "2026-10-25T17:44:41+00:00",
       "source": "hindustantimes.com",
@@ -6709,6 +6717,14 @@
       "title": "16 liquor vends sealed over suspected repackaging racket",
       "updated_at": "2026-10-29T04:14:20.560053+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/16-liquor-vends-sealed-over-suspected-repackaging-racket"
+    },
+    "4cf5084f6823eae02777072c": {
+      "published_at": "2026-10-29T11:29:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Days after Theni jailbreak, Tamil Nadu Prisons DGP Sandeep Rai Rathore transferred",
+      "updated_at": "2026-10-29T12:04:40.010517+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/days-after-theni-jailbreak-tamil-nadu-prisons-dgp-sandeep-rai-rathore-transferred/article71640084.ece"
     },
     "4d0401ee1cc88833e528a296": {
       "published_at": "2026-10-26T04:03:28+00:00",
@@ -10184,6 +10200,14 @@
       "title": "Israel holds polls amid uncertainty over Netanyahu’s future, coalition numbers",
       "updated_at": "2026-10-27T05:40:11.648717+00:00",
       "url": "https://www.thehindu.com/news/international/israel-holds-polls-amid-uncertainty-over-netanyahus-future-coalition-numbers/article71629859.ece"
+    },
+    "7301eab94f0e2537da9103b4": {
+      "published_at": "2026-10-29T11:27:22+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israel’s election rhetoric: What candidates said, and how they performed",
+      "updated_at": "2026-10-29T12:04:40.010498+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss"
     },
     "734b2f5c763f1f27e5ef7894": {
       "published_at": "2026-10-25T21:50:56+00:00",
@@ -15604,6 +15628,14 @@
       "title": "‘Was using common expression, not insulting anybody’s father’: Tharoor on Kharge’s remarks row",
       "updated_at": "2026-10-26T11:14:10.267661+00:00",
       "url": "https://www.tribuneindia.com/news/india/was-using-common-expression-not-insulting-anybodys-father-tharoor-on-kharges-remarks-row"
+    },
+    "aeff9433a903adc160087cd5": {
+      "published_at": "2026-10-29T11:31:40+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "State cabinet hikes milk prices by ₹8: Karnataka minister",
+      "updated_at": "2026-10-29T12:04:40.010520+00:00",
+      "url": "https://www.hindustantimes.com/india-news/karnataka-cabinet-hikes-milk-prices-by-rs-8-state-minister-nandini-milk-price-101793273245820.html"
     },
     "af0a4854f156780b84cfe37f": {
       "published_at": "2026-10-27T10:23:15+00:00",
@@ -23473,6 +23505,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:04:28.327003+00:00",
+  "last_cycle_at": "2026-10-29T12:04:40.013126+00:00",
   "schema_version": 1
 }
