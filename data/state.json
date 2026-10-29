@@ -22119,6 +22119,14 @@
       "updated_at": "2026-10-25T16:42:30.712455+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
     },
+    "ddccddef0a2c1e103a252ca2": {
+      "published_at": "2026-10-29T16:41:22+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Congress questions delay in framing charges in Ram Temple donation theft case",
+      "updated_at": "2026-10-29T16:59:07.634235+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-questions-delay-in-framing-charges-in-ram-temple-donation-theft-case/article71640902.ece"
+    },
     "ddd01147c8fc3abb138c2314": {
       "published_at": "2026-10-26T04:02:33+00:00",
       "source": "hindustantimes.com",
@@ -25876,6 +25884,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:58:47.995962+00:00",
+  "last_cycle_at": "2026-10-29T16:59:07.637165+00:00",
   "schema_version": 1
 }
