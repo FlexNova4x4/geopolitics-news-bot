@@ -1901,9 +1901,10 @@
     "1811745102e901e3497b957d": {
       "published_at": "2026-10-28T19:48:46+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12127,
       "title": "Burnham vows ‘strongest’ India-UK ties",
-      "updated_at": "2026-10-29T04:12:21.465292+00:00",
+      "updated_at": "2026-10-29T04:12:32.650299+00:00",
       "url": "https://www.tribuneindia.com/news/world/burnham-vows-strongest-india-uk-ties"
     },
     "1856332a138aee5184c65413": {
@@ -10365,9 +10366,10 @@
     "9040f2bb7e72bd2ce79b80e9": {
       "published_at": "2026-10-28T19:49:02+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12128,
       "title": "CJP backs INDIA bloc Nov 1 rally",
-      "updated_at": "2026-10-29T04:12:21.465295+00:00",
+      "updated_at": "2026-10-29T04:12:36.751586+00:00",
       "url": "https://www.tribuneindia.com/news/india/cjp-backs-india-bloc-nov-1-rally"
     },
     "907f8151643dadcdd2ee8d74": {
@@ -15676,9 +15678,10 @@
     "d7964cc196ccfe827388005d": {
       "published_at": "2026-10-28T19:47:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12126,
       "title": "SAD-AAP trade barbs on drug menace issue in Punjab",
-      "updated_at": "2026-10-29T04:12:21.465289+00:00",
+      "updated_at": "2026-10-29T04:12:28.742193+00:00",
       "url": "https://www.thehindu.com/news/national/punjab/sad-aap-trade-barbs-on-drug-menace-issue-in-punjab/article71636923.ece"
     },
     "d7c3dae6a1af2db3e4ac119d": {
@@ -16384,9 +16387,10 @@
     "e2ed30f000f1355f247585dc": {
       "published_at": "2026-10-28T19:47:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12125,
       "title": "Solan News: शिव कथा में बताया भस्म और मां गंगा के आध्यात्मिक स्वरूप का महत्व",
-      "updated_at": "2026-10-29T04:12:21.465273+00:00",
+      "updated_at": "2026-10-29T04:12:24.654009+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/the-importance-of-ashes-and-the-spiritual-form-of-mother-ganga-is-explained-in-the-shiva-katha-solan-news-c-176-1-sln1007-183056-2026-10-28"
     },
     "e32c7e5285b1a69ed2f09060": {
@@ -18843,6 +18847,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:12:21.467158+00:00",
+  "last_cycle_at": "2026-10-29T04:12:39.954183+00:00",
   "schema_version": 1
 }
