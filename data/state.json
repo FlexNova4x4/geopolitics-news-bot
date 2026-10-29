@@ -45,6 +45,14 @@
       "updated_at": "2026-10-27T13:44:35.668594+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-wins-national-awards-for-tourism-initiatives/article71630154.ece"
     },
+    "0063f394470c0b3ce470f3ca": {
+      "published_at": "2026-10-29T04:30:08+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Court rejects plea to add murder, terrorism charges in Karachi's Gul Plaza fire case",
+      "updated_at": "2026-10-29T05:18:01.338792+00:00",
+      "url": "https://www.dawn.com/news/2040546/court-rejects-plea-to-add-murder-terrorism-charges-in-karachis-gul-plaza-fire-case"
+    },
     "0067564a24ee603ac38e8ad9": {
       "published_at": "2026-10-26T09:32:28+00:00",
       "source": "thehindu.com",
@@ -7021,6 +7029,14 @@
       "updated_at": "2026-10-29T03:43:22.185836+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/three-schoolgirls-from-tiruvannamalai-rescued-at-kilambakkam-bus-terminus/article71634937.ece"
     },
+    "5ce3dbb55b5162cf100ad195": {
+      "published_at": "2026-10-29T04:30:59+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "BLM Credit Society chairman detained in fund diversion case",
+      "updated_at": "2026-10-29T05:18:01.338795+00:00",
+      "url": "https://www.hindustantimes.com/india-news/blm-credit-society-chairman-detained-in-fund-diversion-case-101793248259874.html"
+    },
     "5cfa53eb5862a5b22d5018e6": {
       "published_at": "2026-10-26T20:38:40+00:00",
       "source": "aljazeera.com",
@@ -10903,6 +10919,14 @@
       "updated_at": "2026-10-27T02:40:55.777397+00:00",
       "url": "https://www.hindustantimes.com/india-news/section-18-of-2023-cec-act-in-focus-as-poll-panel-defends-decision-making-before-supreme-court-gyanesh-kumar-101793065577727.html"
     },
+    "8bedf5009e721d8f9ccafdec": {
+      "published_at": "2026-10-29T04:24:55+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Islamabad's Capital Development Authority to start Shahdara Dam project soon",
+      "updated_at": "2026-10-29T05:18:01.338773+00:00",
+      "url": "https://www.dawn.com/news/2040533/islamabads-capital-development-authority-to-start-shahdara-dam-project-soon"
+    },
     "8c3378006d9edc71c4203658": {
       "published_at": "2026-10-27T05:20:23+00:00",
       "source": "amarujala.com",
@@ -11667,6 +11691,14 @@
       "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
       "updated_at": "2026-10-27T07:34:32.559799+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
+    },
+    "9578034954316b2b907d7bb1": {
+      "published_at": "2026-10-29T04:30:04+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Obama mocks Trump team’s Cheesecake Factory response",
+      "updated_at": "2026-10-29T05:18:01.338788+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/obama-mocks-trump-teams-cheesecake-factory-response?traffic_source=rss"
     },
     "95f143944ae592eec44b7020": {
       "published_at": "2026-10-26T08:23:02+00:00",
@@ -20431,6 +20463,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:17:55.115906+00:00",
+  "last_cycle_at": "2026-10-29T05:18:01.341246+00:00",
   "schema_version": 1
 }
