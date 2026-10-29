@@ -5300,9 +5300,10 @@
     "3cbfb4ef22e3c8290eb1327f": {
       "published_at": "2026-10-29T12:18:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12670,
       "title": "Former West Bengal minister Indranil Sen arrested in Durga Puja ticket scam",
-      "updated_at": "2026-10-29T12:33:20.490072+00:00",
+      "updated_at": "2026-10-29T12:33:23.898826+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/former-west-bengal-minister-indranil-sen-arrested-in-durga-puja-ticket-scam/article71636665.ece"
     },
     "3cbff8c1c88ba896041b7ae0": {
@@ -9019,9 +9020,10 @@
     "6645c89f0c6c03a37f1a649d": {
       "published_at": "2026-10-29T12:24:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12672,
       "title": "Lessons for the BJP from Uttar Pradesh MLC election",
-      "updated_at": "2026-10-29T12:33:20.490091+00:00",
+      "updated_at": "2026-10-29T12:33:31.845151+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/lessons-for-the-bjp-from-uttar-pradesh-mlc-election/article71640197.ece"
     },
     "664793c1df6edf847441554c": {
@@ -18503,9 +18505,10 @@
     "cbe337d1d872d99ef5c2b30d": {
       "published_at": "2026-10-29T12:22:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12671,
       "title": "Repayment of principal, interest of old debts weighs heavily on Telangana",
-      "updated_at": "2026-10-29T12:33:20.490087+00:00",
+      "updated_at": "2026-10-29T12:33:27.849181+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/repayment-of-principal-interest-of-old-debts-weighs-heavily-on-telangana/article71640355.ece"
     },
     "cc251f6b28448253d66ba62e": {
@@ -23722,6 +23725,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:33:20.492521+00:00",
+  "last_cycle_at": "2026-10-29T12:33:35.048116+00:00",
   "schema_version": 1
 }
