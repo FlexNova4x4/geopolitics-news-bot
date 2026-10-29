@@ -2513,9 +2513,10 @@
     "1e11187d7bc16c10f5694e28": {
       "published_at": "2026-10-29T07:52:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12492,
       "title": "Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram",
-      "updated_at": "2026-10-29T08:43:35.726483+00:00",
+      "updated_at": "2026-10-29T08:43:43.521736+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/rivers-in-spate-in-north-andhra-after-cyclone-arnab-flood-water-enters-ichchapuram/article71638931.ece"
     },
     "1e1bb607cdccd91b1b23b789": {
@@ -9234,9 +9235,10 @@
     "6e97311fe0ae679fefffb30b": {
       "published_at": "2026-10-29T07:54:22+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12494,
       "title": "Theni jailbreak: 17 recaptured inmates to be moved to high-security central prisons",
-      "updated_at": "2026-10-29T08:43:35.726489+00:00",
+      "updated_at": "2026-10-29T08:43:51.739760+00:00",
       "url": "https://www.tribuneindia.com/news/india/theni-jailbreak-17-recaptured-inmates-to-be-moved-to-high-security-central-prisons"
     },
     "6e98e7f73b9e48567a7c6be3": {
@@ -14077,9 +14079,10 @@
     "a6c72958e75705ee1edb735c": {
       "published_at": "2026-10-29T07:52:24+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12491,
       "title": "JKJAAC calls for transfer of governance, ownership rights to people of PoJK",
-      "updated_at": "2026-10-29T08:43:35.726468+00:00",
+      "updated_at": "2026-10-29T08:43:39.497145+00:00",
       "url": "https://www.tribuneindia.com/news/authority-transfer/jkjaac-calls-for-transfer-of-governance-ownership-rights-to-people-of-pojk"
     },
     "a6ce42efe5237e1844a143e9": {
@@ -17800,9 +17803,10 @@
     "d1bc77aafedf92be83acd402": {
       "published_at": "2026-10-29T07:52:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12493,
       "title": "Cyclone Arnab claims five lives in Andhra Pradesh; Naidu announces relief package",
-      "updated_at": "2026-10-29T08:43:35.726486+00:00",
+      "updated_at": "2026-10-29T08:43:47.732668+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-claims-five-lives-in-andhra-pradesh-naidu-announces-relief-package/article71636008.ece"
     },
     "d1f92f29ac2ee13c2aefbe27": {
@@ -22128,6 +22132,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:43:35.728840+00:00",
+  "last_cycle_at": "2026-10-29T08:43:54.942666+00:00",
   "schema_version": 1
 }
