@@ -4298,6 +4298,14 @@
       "updated_at": "2026-10-29T06:44:46.414326+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/womans-rs-150-lakh-saved-thanks-to-bank-employees-alertness-una-news-c-93-1-ssml1048-211699-2026-10-29"
     },
+    "3652ed1b02e006e6d73f20b7": {
+      "published_at": "2026-10-29T06:24:56+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "updated_at": "2026-10-29T08:10:42.359797+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss"
+    },
     "36723c49cf4299245b1f71ea": {
       "published_at": "2026-10-26T08:11:49+00:00",
       "source": "thehindu.com",
@@ -17206,6 +17214,14 @@
       "updated_at": "2026-10-25T16:16:56.604738+00:00",
       "url": "https://www.hindustantimes.com/india-news/arunachal-pradesh-violence-centre-dispatches-250-raf-personnel-amid-siang-hydropower-project-protest-101792941341346.html"
     },
+    "ce77f42aa1aee3617964e85c": {
+      "published_at": "2026-10-29T00:33:11+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+      "updated_at": "2026-10-29T08:10:42.359769+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss"
+    },
     "ce9463cd26d41fdcca6f23bb": {
       "published_at": "2026-10-27T08:02:37+00:00",
       "source": "aljazeera.com",
@@ -18797,6 +18813,14 @@
       "updated_at": "2026-10-27T01:10:23.063813+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/crime/suspected-irregularities-worth-lakhs-involving-stents-under-the-himcare-scheme-vigilance-bureau-seeks-records-2026-10-26"
     },
+    "e19bd8c686545cca7af9f3df": {
+      "published_at": "2026-10-29T01:30:43+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "updated_at": "2026-10-29T08:10:42.359791+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
+    },
     "e1be094a719375d43c682565": {
       "published_at": "2026-10-26T03:33:31+00:00",
       "source": "thehindu.com",
@@ -20371,6 +20395,14 @@
       "updated_at": "2026-10-27T17:13:20.222637+00:00",
       "url": "https://www.thehindu.com/videos/watch-cyclone-arnab-what-andhra-pradesh-needs-to-know/article71633014.ece"
     },
+    "f27ea5ce5945a716cd0ced85": {
+      "published_at": "2026-10-29T07:10:35+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Singapore foreign minister to undertake official visit to Pakistan on Oct 30",
+      "updated_at": "2026-10-29T08:10:42.359802+00:00",
+      "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30"
+    },
     "f282bbbba1f8b0b2d581b1ab": {
       "published_at": "2026-10-27T13:26:32+00:00",
       "source": "aljazeera.com",
@@ -21700,6 +21732,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:10:37.076335+00:00",
+  "last_cycle_at": "2026-10-29T08:10:42.362162+00:00",
   "schema_version": 1
 }
