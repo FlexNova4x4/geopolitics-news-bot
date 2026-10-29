@@ -7442,9 +7442,10 @@
     "4d134920a96608081383ff3f": {
       "published_at": "2026-10-29T16:40:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12911,
       "title": "Invest in Telangana and thrive, CM tells business heads",
-      "updated_at": "2026-10-29T16:58:29.738579+00:00",
+      "updated_at": "2026-10-29T16:58:44.792473+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/invest-in-telangana-and-thrive-cm-tells-business-heads/article71642007.ece"
     },
     "4d2975f6cdd4e7427d57573d": {
@@ -11043,9 +11044,10 @@
     "717a527f0806b494a9394aed": {
       "published_at": "2026-10-29T16:38:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12909,
       "title": "Experts at CII meet flag roadblocks in Kashmir apple cart’s global ambition",
-      "updated_at": "2026-10-29T16:58:29.738573+00:00",
+      "updated_at": "2026-10-29T16:58:37.028761+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/experts-at-cii-meet-flag-roadblocks-in-kashmir-apple-carts-global-ambition/article71640047.ece"
     },
     "71abc9fc8157c791396ae26f": {
@@ -15913,9 +15915,10 @@
     "a1c4b6e3ae812bd89d06177c": {
       "published_at": "2026-10-29T16:38:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12908,
       "title": "Rajnath Singh meets Indian diaspora during Gurudwara, Hindu temple visit in Philippines",
-      "updated_at": "2026-10-29T16:58:29.738559+00:00",
+      "updated_at": "2026-10-29T16:58:33.002153+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus/rajnath-singh-meets-indian-diaspora-during-gurudwara-hindu-temple-visit-in-philippines"
     },
     "a1c8c1e947d667f0f7bc9ad7": {
@@ -18431,9 +18434,10 @@
     "b93cbb2178a9bcb392f7b020": {
       "published_at": "2026-10-29T16:40:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12910,
       "title": "Shutdown begins in Manipur district over two missing Kuki youths",
-      "updated_at": "2026-10-29T16:58:29.738576+00:00",
+      "updated_at": "2026-10-29T16:58:40.800970+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/shutdown-begins-in-manipur-district-over-two-missing-kuki-youths/article71641229.ece"
     },
     "b969e9a67a8a6280d8a51592": {
@@ -25872,6 +25876,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:58:29.741431+00:00",
+  "last_cycle_at": "2026-10-29T16:58:47.995962+00:00",
   "schema_version": 1
 }
