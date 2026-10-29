@@ -3826,9 +3826,10 @@
     "288df71fcedb9369ad17e8f0": {
       "published_at": "2026-10-29T16:00:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12882,
       "title": "Keralam Assembly passes Bills hiking salaries and allowances of Ministers, MLAs",
-      "updated_at": "2026-10-29T16:52:28.103364+00:00",
+      "updated_at": "2026-10-29T16:52:38.093055+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-passes-bills-hiking-salaries-and-allowances-of-ministers-mlas/article71641091.ece"
     },
     "28c07379df843b285030f887": {
@@ -12543,9 +12544,10 @@
     "823bf0d064b01d2f99369477": {
       "published_at": "2026-10-29T15:56:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12880,
       "title": "HYDRAA clears encroachments on 12 acres of RK Puram lake",
-      "updated_at": "2026-10-29T16:52:28.103346+00:00",
+      "updated_at": "2026-10-29T16:52:30.647014+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/hydraa-clears-encroachments-on-12-acres-of-rk-puram-lake/article71641137.ece"
     },
     "82429dcf004153257eec49ba": {
@@ -16489,9 +16491,10 @@
     "a9d26f55f205e4ebb7d190f5": {
       "published_at": "2026-10-29T16:03:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12883,
       "title": "Pulivendula elections: TDP aims to break YSRCP’s long-standing family-led dominance",
-      "updated_at": "2026-10-29T16:52:28.103368+00:00",
+      "updated_at": "2026-10-29T16:52:41.811718+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/pulivendula-elections-tdp-aims-to-break-ysrcps-long-standing-family-led-dominance/article71639738.ece"
     },
     "a9dcab3e419eff99808bfba0": {
@@ -20131,9 +20134,10 @@
     "ccf53a7d66d0390c7b940242": {
       "published_at": "2026-10-29T15:57:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12881,
       "title": "Milk price hike brings relief to dairy farmers",
-      "updated_at": "2026-10-29T16:52:28.103361+00:00",
+      "updated_at": "2026-10-29T16:52:34.363642+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/milk-price-hike-brings-relief-to-dairy-farmers/article71641564.ece"
     },
     "cd0fdecfaf7f0ed4a7c575d9": {
@@ -25620,6 +25624,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:52:28.106361+00:00",
+  "last_cycle_at": "2026-10-29T16:52:45.015136+00:00",
   "schema_version": 1
 }
