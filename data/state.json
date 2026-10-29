@@ -9982,9 +9982,10 @@
     "6c341cbc584f98de4705efb6": {
       "published_at": "2026-10-29T14:13:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12787,
       "title": "Landless workers in Hingoli paste ‘house sale’ notices on doors amid loan repayment pressure",
-      "updated_at": "2026-10-29T15:21:33.831846+00:00",
+      "updated_at": "2026-10-29T15:21:48.521508+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/landless-workers-in-hingoli-paste-house-sale-notices-on-doors-amid-loan-repayment-pressure/article71641179.ece"
     },
     "6c3b09553835ab9a88c857d3": {
@@ -13470,9 +13471,10 @@
     "8f03cadafcec24877e10ecb2": {
       "published_at": "2026-10-29T14:11:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12786,
       "title": "Search on for missing tipper lorry driver",
-      "updated_at": "2026-10-29T15:21:33.831843+00:00",
+      "updated_at": "2026-10-29T15:21:44.697581+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/search-on-for-missing-tipper-lorry-driver/article71640247.ece"
     },
     "8f7c3846e72584e86f614108": {
@@ -15481,9 +15483,10 @@
     "a4e06e2e20343cc36dc9216f": {
       "published_at": "2026-10-29T14:03:25+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12784,
       "title": "Tamil Nadu transfers DGP-prisons after two jailbreaks in a week",
-      "updated_at": "2026-10-29T15:21:33.831825+00:00",
+      "updated_at": "2026-10-29T15:21:37.123466+00:00",
       "url": "https://www.hindustantimes.com/india-news/tamil-nadu-transfers-dgp-prisons-after-two-jailbreaks-in-a-week-101793281834370.html"
     },
     "a4f2d62d1dee2e1340d2009e": {
@@ -24365,9 +24368,10 @@
     "fc99f6fd646bc1d82285de1e": {
       "published_at": "2026-10-29T14:08:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12785,
       "title": "Hasanamba ’miracle’ claims resurface as temple opens",
-      "updated_at": "2026-10-29T15:21:33.831839+00:00",
+      "updated_at": "2026-10-29T15:21:40.942557+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/hasanamba-miracle-claims-resurface-as-temple-opens/article71639881.ece"
     },
     "fca160d88c8f21698cafcacf": {
@@ -24756,6 +24760,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:21:33.834535+00:00",
+  "last_cycle_at": "2026-10-29T15:21:51.724723+00:00",
   "schema_version": 1
 }
