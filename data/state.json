@@ -22122,9 +22122,10 @@
     "ddccddef0a2c1e103a252ca2": {
       "published_at": "2026-10-29T16:41:22+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12912,
       "title": "Congress questions delay in framing charges in Ram Temple donation theft case",
-      "updated_at": "2026-10-29T16:59:07.634235+00:00",
+      "updated_at": "2026-10-29T16:59:10.491032+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-questions-delay-in-framing-charges-in-ram-temple-donation-theft-case/article71640902.ece"
     },
     "ddd01147c8fc3abb138c2314": {
@@ -25884,6 +25885,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:59:07.637165+00:00",
+  "last_cycle_at": "2026-10-29T16:59:13.694523+00:00",
   "schema_version": 1
 }
