@@ -8828,6 +8828,14 @@
       "updated_at": "2026-10-27T20:04:36.458271+00:00",
       "url": "https://www.tribuneindia.com/news/india/need-sustained-vigilance-army-chief-reviews-lac-op-readiness"
     },
+    "67c27340fc7e64fa8b4a3aff": {
+      "published_at": "2026-10-29T09:46:16+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Why Michigan could decide the future of Trump’s presidency",
+      "updated_at": "2026-10-29T10:32:51.529275+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss"
+    },
     "67d1399f3ae7ffec1ecbb2ae": {
       "published_at": "2026-10-23T12:41:00+00:00",
       "source": "Website",
@@ -15362,6 +15370,14 @@
       "updated_at": "2026-10-25T16:16:04.984630+00:00",
       "url": "https://www.hindustantimes.com/india-news/mafia-gang-bjp-attacks-congress-after-kharge-s-baap-remark-targeting-pm-modi-bihar-patna-101792941758920.html"
     },
+    "b0cde43478705c5f509653ab": {
+      "published_at": "2026-10-29T09:46:25+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Hong Kong's leader apologises for deadly high-rise fire",
+      "updated_at": "2026-10-29T10:32:51.529289+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn9770pgvo?at_medium=RSS&at_campaign=rss"
+    },
     "b0d15dda01181ae38b43e3a1": {
       "published_at": "2026-10-26T03:07:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -21883,6 +21899,14 @@
       "updated_at": "2026-10-27T08:34:03.188176+00:00",
       "url": "https://www.tribuneindia.com/news/india/suspect-in-7-year-old-tn-girls-mysterious-disappearance-detained"
     },
+    "f701c134aaa74d5b3681d0cc": {
+      "published_at": "2026-10-29T09:47:56+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Magnitude 5.1 earthquake strikes near Andaman and Nicobar Islands",
+      "updated_at": "2026-10-29T10:32:51.529293+00:00",
+      "url": "https://www.hindustantimes.com/india-news/magnitude-5-1-earthquake-strikes-near-andaman-and-nicobar-islands-bamboo-flat-tsunami-alert-101793266606598.html"
+    },
     "f719c2e59baa960efe4b3af5": {
       "published_at": "2026-10-24T07:53:40+00:00",
       "source": "YouTube",
@@ -22788,6 +22812,14 @@
       "updated_at": "2026-10-29T04:18:58.316573+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
     },
+    "ffb226eb48d231980f0cf6ab": {
+      "published_at": "2026-10-29T09:48:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court directs NCLAT, NCLT presidents to submit proposals on infrastructure, staff requirements",
+      "updated_at": "2026-10-29T10:32:51.529297+00:00",
+      "url": "https://www.thehindu.com/news/national/sc-nclat-nclt-presidents-proposals-on-infrastructure-staff-requirements/article71639787.ece"
+    },
     "ffc9efced9b8eb9b075c16bb": {
       "published_at": "2026-10-27T13:33:27+00:00",
       "source": "hindustantimes.com",
@@ -22834,6 +22866,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T10:32:30.675768+00:00",
+  "last_cycle_at": "2026-10-29T10:32:51.531772+00:00",
   "schema_version": 1
 }
