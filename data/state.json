@@ -66,9 +66,10 @@
     "010a2c201da305dbccb7620a": {
       "published_at": "2026-10-28T20:03:33+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12147,
       "title": "Manipur Dy CM blames other Dy CM’s spouse for Naga killings",
-      "updated_at": "2026-10-29T04:15:06.987492+00:00",
+      "updated_at": "2026-10-29T04:15:18.294145+00:00",
       "url": "https://www.tribuneindia.com/news/india/manipur-dy-cm-blames-other-dy-cms-spouse-for-naga-killings"
     },
     "011eece4d04a6ac3a5dff12e": {
@@ -7076,9 +7077,10 @@
     "62e64f5653374fe97913c140": {
       "published_at": "2026-10-28T20:02:42+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12145,
       "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
-      "updated_at": "2026-10-29T04:15:06.987468+00:00",
+      "updated_at": "2026-10-29T04:15:10.217971+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss"
     },
     "62e65bd2a0e45c55b28473fd": {
@@ -10247,9 +10249,10 @@
     "8ce1aa2e57269f1f2788846b": {
       "published_at": "2026-10-28T20:04:32+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12148,
       "title": "Focus on next-gen fiscal reforms, Shah chairs ministerial group meet",
-      "updated_at": "2026-10-29T04:15:06.987496+00:00",
+      "updated_at": "2026-10-29T04:15:22.382412+00:00",
       "url": "https://www.tribuneindia.com/news/india/focus-on-next-gen-fiscal-reforms-shah-chairs-ministerial-group-meet"
     },
     "8cf4ac69fb219d9ffae65988": {
@@ -14632,9 +14635,10 @@
     "c6879ea78b088f7b561e095a": {
       "published_at": "2026-10-28T20:03:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12146,
       "title": "Diwali bonanza for Central staff as DA increased by 3%",
-      "updated_at": "2026-10-29T04:15:06.987487+00:00",
+      "updated_at": "2026-10-29T04:15:14.213097+00:00",
       "url": "https://www.tribuneindia.com/news/india/diwali-bonanza-for-central-staff-as-da-increased-by-3"
     },
     "c68dd6dad387df8a5c2043e1": {
@@ -19023,6 +19027,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:15:06.989655+00:00",
+  "last_cycle_at": "2026-10-29T04:15:25.584896+00:00",
   "schema_version": 1
 }
