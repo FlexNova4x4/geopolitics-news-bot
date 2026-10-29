@@ -4661,9 +4661,10 @@
     "30bab1d8a7a1ac9376536dcb": {
       "published_at": "2026-10-29T16:59:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12928,
       "title": "₹8 milk price hike to push tea, coffee prices up by ₹5",
-      "updated_at": "2026-10-29T17:22:17.899029+00:00",
+      "updated_at": "2026-10-29T17:22:33.106980+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/8-milk-price-hike-to-push-tea-coffee-prices-up-by-5/article71641183.ece"
     },
     "30bdb4c118690ef680d01483": {
@@ -7765,9 +7766,10 @@
     "50756faa506e7b10e8a14633": {
       "published_at": "2026-10-29T16:56:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12926,
       "title": "Bengaluru to get 4,900 new garbage collection vehicles with higher capacity",
-      "updated_at": "2026-10-29T17:22:17.899019+00:00",
+      "updated_at": "2026-10-29T17:22:25.637978+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-get-4900-new-garbage-collection-vehicles-with-higher-capacity/article71641961.ece"
     },
     "50a4cdb6e1ae84b61fbca6d1": {
@@ -18603,9 +18605,10 @@
     "b9b798d590abe0e0dbad8654": {
       "published_at": "2026-10-29T16:57:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12927,
       "title": "Bengaluru to get two reservoirs",
-      "updated_at": "2026-10-29T17:22:17.899024+00:00",
+      "updated_at": "2026-10-29T17:22:29.360445+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-get-two-reservoirs/article71641942.ece"
     },
     "b9f51bfed272818e408aa895": {
@@ -21741,9 +21744,10 @@
     "d924188b1f6bcef8f8a308e3": {
       "published_at": "2026-10-29T16:53:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12925,
       "title": "Post-Arnab cyclone, heavy rain wreaks havoc in Odisha’s Ganjam, Gajapati districts",
-      "updated_at": "2026-10-29T17:22:17.899000+00:00",
+      "updated_at": "2026-10-29T17:22:21.916054+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/post-arnab-cyclone-heavy-rain-wreaks-havoc-in-odishas-ganjam-gajapati-districts/article71641226.ece"
     },
     "d935c05371abf257fed0477b": {
@@ -26025,6 +26029,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:22:17.901941+00:00",
+  "last_cycle_at": "2026-10-29T17:22:36.310572+00:00",
   "schema_version": 1
 }
