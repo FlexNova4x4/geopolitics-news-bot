@@ -669,9 +669,10 @@
     "078fe5fba6abea72afd59086": {
       "published_at": "2026-10-29T07:31:22+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12466,
       "title": "Indian worker jailed in Dubai for 4 months, family says he was held for leaving job without notice",
-      "updated_at": "2026-10-29T08:13:02.932205+00:00",
+      "updated_at": "2026-10-29T08:13:06.325135+00:00",
       "url": "https://www.hindustantimes.com/india-news/indian-worker-jailed-in-dubai-for-4-months-family-says-he-was-held-for-leaving-job-without-notice-101793255647590.html"
     },
     "07985be7c5310d05b37e0964": {
@@ -4255,9 +4256,10 @@
     "3520fb33ad1a08c2cdb8911c": {
       "published_at": "2026-10-29T07:32:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12469,
       "title": "Maharashtra MLC polls: Blame game begins in Mahayuti as BJP accuses Shiv Sena for defeat",
-      "updated_at": "2026-10-29T08:13:02.932227+00:00",
+      "updated_at": "2026-10-29T08:13:18.510773+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls-blame-game-begins-in-mahayuti-as-bjp-accuses-shiv-sena-for-defeat/article71639270.ece"
     },
     "3539988275121536d2cd5332": {
@@ -4578,9 +4580,10 @@
     "39c8571d4e46df659cf6a8b0": {
       "published_at": "2026-10-29T07:32:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12467,
       "title": "UKMTO says ship seen ablaze in Strait of Hormuz off Oman coast",
-      "updated_at": "2026-10-29T08:13:02.932220+00:00",
+      "updated_at": "2026-10-29T08:13:10.424454+00:00",
       "url": "https://www.tribuneindia.com/news/crew-status/ukmto-says-ship-seen-ablaze-in-strait-of-hormuz-off-oman-coast"
     },
     "39dd671e04ea24cc60845a9d": {
@@ -7265,9 +7268,10 @@
     "5980df8ab04c8d15ef8e5ceb": {
       "published_at": "2026-10-29T07:32:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12468,
       "title": "SCR rolls out GPS tracking devices for 1,800 patrolmen across three divisions",
-      "updated_at": "2026-10-29T08:13:02.932224+00:00",
+      "updated_at": "2026-10-29T08:13:14.385761+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/scr-rolls-out-gps-tracking-devices-for-1800-patrolmen-across-three-divisions/article71634751.ece"
     },
     "59848306fe0335b819e148d8": {
@@ -21912,6 +21916,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:13:02.934511+00:00",
+  "last_cycle_at": "2026-10-29T08:13:21.713771+00:00",
   "schema_version": 1
 }
