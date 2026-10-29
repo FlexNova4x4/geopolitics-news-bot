@@ -7436,9 +7436,10 @@
     "66d5a2b414a2f864023bb973": {
       "published_at": "2026-10-28T22:02:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12187,
       "title": "Eisenkot says voters expressed no confidence in Netanyahu government, vows to bring change",
-      "updated_at": "2026-10-29T04:20:03.899543+00:00",
+      "updated_at": "2026-10-29T04:20:15.899858+00:00",
       "url": "https://www.tribuneindia.com/news/arab-party-coalition/eisenkot-says-voters-expressed-no-confidence-in-netanyahu-government-vows-to-bring-change"
     },
     "66e4a3b18137eacff7929089": {
@@ -10131,9 +10132,10 @@
     "881b52d1edde21e376b8c82e": {
       "published_at": "2026-10-28T22:08:52+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12188,
       "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "updated_at": "2026-10-29T04:20:03.899546+00:00",
+      "updated_at": "2026-10-29T04:20:19.980014+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
     },
     "88511649eed7544cb44ff0ac": {
@@ -11318,9 +11320,10 @@
     "99093cee53b4403ad70f90fa": {
       "published_at": "2026-10-28T21:38:54+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12186,
       "title": "High-speed train crash kills at least 68 people in Spain",
-      "updated_at": "2026-10-29T04:20:03.899539+00:00",
+      "updated_at": "2026-10-29T04:20:11.976085+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
     },
     "992188af48f1d02428f2aa72": {
@@ -11577,9 +11580,10 @@
     "9bd859650132ec4736832b56": {
       "published_at": "2026-10-28T21:36:16+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12185,
       "title": "Costa Rica’s mega-prison receives first inmates",
-      "updated_at": "2026-10-29T04:20:03.899523+00:00",
+      "updated_at": "2026-10-29T04:20:08.041373+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss"
     },
     "9bf104e96a566f27ecffe9db": {
@@ -19383,6 +19387,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:20:03.901473+00:00",
+  "last_cycle_at": "2026-10-29T04:20:23.182770+00:00",
   "schema_version": 1
 }
