@@ -3347,6 +3347,14 @@
       "updated_at": "2026-10-26T23:10:23.322565+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwj3425g5381o?at_medium=RSS&at_campaign=rss"
     },
+    "240852db51392a025bfef118": {
+      "published_at": "2026-10-29T13:44:39+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "updated_at": "2026-10-29T14:33:52.000605+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
+    },
     "240afeaffa9e14b8021e2505": {
       "published_at": "2026-10-28T20:01:55+00:00",
       "source": "publish.tribuneindia.com",
@@ -3579,6 +3587,14 @@
       "title": "Peshawar policemen accused of shielding suspects in Rs10m robbery case",
       "updated_at": "2026-10-27T06:06:53.703776+00:00",
       "url": "https://www.dawn.com/news/2040173/peshawar-policemen-accused-of-shielding-suspects-in-rs10m-robbery-case"
+    },
+    "271df858ec1ceb98f568289f": {
+      "published_at": "2026-10-29T13:45:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Sachivayalam staff fear rockslides as office relocation requests remain unaddressed",
+      "updated_at": "2026-10-29T14:33:52.000612+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sachivayalam-staff-fear-rockslides-as-office-relocation-requests-remain-unaddressed/article71640461.ece"
     },
     "27360f96f4c2c843f2bac350": {
       "published_at": "2026-10-26T08:02:44+00:00",
@@ -5017,6 +5033,14 @@
       "title": "If Netanyahu loses, what changes for Palestinians?",
       "updated_at": "2026-10-26T10:45:48.624187+00:00",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss"
+    },
+    "380bc9b40584572e95f816f0": {
+      "published_at": "2026-10-29T13:44:42+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Damascus, Amman contradict each other on attack that killed civilians",
+      "updated_at": "2026-10-29T14:33:52.000609+00:00",
+      "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss"
     },
     "38213d9ebfee383baee7daa4": {
       "published_at": "2026-10-29T04:21:00+00:00",
@@ -8370,6 +8394,14 @@
       "title": "Watch: King dances in the streets of the Bahamas capital",
       "updated_at": "2026-10-29T04:18:50.431776+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss"
+    },
+    "5b7a59c94ec12a9ef44ebd3f": {
+      "published_at": "2026-10-29T13:43:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Congress joined hands with anti-nationals to launch protests against BJP at Centre, alleges Chalavadi Narayanaswamy",
+      "updated_at": "2026-10-29T14:33:52.000590+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-joined-hands-with-anti-nationals-to-launch-protests-against-bjp-at-centre-alleges-chalavadi-narayanaswamy/article71640324.ece"
     },
     "5b850988cff3ad097502ce95": {
       "published_at": "2026-10-25T14:15:56+00:00",
@@ -24508,6 +24540,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:33:26.167396+00:00",
+  "last_cycle_at": "2026-10-29T14:33:52.003318+00:00",
   "schema_version": 1
 }
