@@ -453,9 +453,10 @@
     "0429e0fa053cab362ba1a1c7": {
       "published_at": "2026-10-29T20:21:54+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13047,
       "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "updated_at": "2026-10-29T22:44:44.060555+00:00",
+      "updated_at": "2026-10-29T22:44:50.869828+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
     },
     "04372c1ba0c94e4a99ba4fc7": {
@@ -3637,9 +3638,10 @@
     "23188c8b3e27424e4415c453": {
       "published_at": "2026-10-29T20:13:08+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13046,
       "title": "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
-      "updated_at": "2026-10-29T22:44:44.060534+00:00",
+      "updated_at": "2026-10-29T22:44:47.076129+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-warns-of-strict-action-against-c-on-diwali-chhath/article71641136.ece"
     },
     "2328374c66e901f8ace77ac3": {
@@ -15620,9 +15622,10 @@
     "966e1f2e52b8fce41835fdd1": {
       "published_at": "2026-10-29T20:40:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13049,
       "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-      "updated_at": "2026-10-29T22:44:44.060562+00:00",
+      "updated_at": "2026-10-29T22:44:58.437263+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss"
     },
     "966ead07d4b91af5e081696d": {
@@ -17846,9 +17849,10 @@
     "abf7431cbd2ce74b30395a5a": {
       "published_at": "2026-10-29T20:34:28+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13048,
       "title": "Does Russia offer African countries an equal partnership?",
-      "updated_at": "2026-10-29T22:44:44.060559+00:00",
+      "updated_at": "2026-10-29T22:44:54.680629+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss"
     },
     "abfaf115765aed32da4d2772": {
@@ -27087,6 +27091,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T22:44:44.062118+00:00",
+  "last_cycle_at": "2026-10-29T22:45:01.640037+00:00",
   "schema_version": 1
 }
