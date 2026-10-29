@@ -1584,6 +1584,14 @@
       "updated_at": "2026-10-29T04:22:58.194017+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
     },
+    "0fbb1ec6c5505e07426b0655": {
+      "published_at": "2026-10-29T20:12:36+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kangra News: दिवाली पर महंगाई का धमाका, पटाखों के दाम 30 फीसदी तक उछले",
+      "updated_at": "2026-10-29T20:23:09.459782+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/price-surge-this-diwali-firecracker-costs-jump-by-up-to-30-percent-kangra-news-c-95-1-kng1060-264030-2026-10-30"
+    },
     "0fe5303fb47015eaf9030dec": {
       "published_at": "2026-10-26T05:40:03+00:00",
       "source": "thehindu.com",
@@ -6305,6 +6313,14 @@
       "updated_at": "2026-10-27T15:43:16.729943+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/arnab-fails-to-dampen-spirits-of-devotees-in-vizianagaram-sirimanotsavam-held-peacefully/article71629781.ece"
     },
+    "3ed6fb581bb854eaa847f073": {
+      "published_at": "2026-10-29T20:08:09+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Eight-day animal birth control drive concludes at Paonta Sahib",
+      "updated_at": "2026-10-29T20:23:09.459760+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/eight-day-animal-birth-control-drive-concludes-at-paonta-sahib"
+    },
     "3f178139db390d36f541395c": {
       "published_at": "2026-10-26T00:22:08+00:00",
       "source": "publish.tribuneindia.com",
@@ -7978,6 +7994,14 @@
       "title": "Woman attacks brother-in-law's private parts in Kanpur, police register case",
       "updated_at": "2026-10-25T15:16:42.638539+00:00",
       "url": "https://www.hindustantimes.com/india-news/woman-attacks-brother-in-laws-private-parts-in-kanpur-uttar-pradesh-police-register-case-101792935647904.html"
+    },
+    "4f4c99fe928f04c2e04c0c9b": {
+      "published_at": "2026-10-29T20:12:12+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kangra News: कल शिमला में सम्मानित होंगे जिले के 28 खिलाड़ी",
+      "updated_at": "2026-10-29T20:23:09.459776+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/28-athletes-from-the-district-will-be-felicitated-in-shimla-tomorrow-kangra-news-c-95-1-kng1044-264052-2026-10-30"
     },
     "4f6682847c1556f72140487f": {
       "published_at": "2026-10-27T17:37:21+00:00",
@@ -24511,6 +24535,14 @@
       "updated_at": "2026-10-29T09:10:41.811713+00:00",
       "url": "https://www.tribuneindia.com/news/arab-parties/raamgate-an-earthquake-netanyahu-calls-on-zionist-parties-to-shun-arab-parties-after-allegations-of-foreign-funding-of-polls"
     },
+    "ed82a66fd26d2aef8dc4703b": {
+      "published_at": "2026-10-29T20:12:53+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kangra News: एंजियोग्राफी मशीन 22 दिन के बाद भी नहीं हुई ठीक",
+      "updated_at": "2026-10-29T20:23:09.459787+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/angiography-machine-remains-unrepaired-even-after-22-days-kangra-news-c-95-1-kng1045-263915-2026-10-30"
+    },
     "edc148b7049142f2dbe949b1": {
       "published_at": "2026-10-27T01:14:28+00:00",
       "source": "hindustantimes.com",
@@ -26839,6 +26871,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:23:03.937610+00:00",
+  "last_cycle_at": "2026-10-29T20:23:09.462813+00:00",
   "schema_version": 1
 }
