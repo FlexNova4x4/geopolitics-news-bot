@@ -3632,6 +3632,14 @@
       "updated_at": "2026-10-27T19:32:41.275970+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss"
     },
+    "3539988275121536d2cd5332": {
+      "published_at": "2026-10-28T19:05:44+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Fed leaves interest rates unchanged despite inflation in the US",
+      "updated_at": "2026-10-29T03:41:32.917960+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss"
+    },
     "3549e8af29da89f78b3a9dc5": {
       "published_at": "2026-10-26T19:47:56+00:00",
       "source": "publish.tribuneindia.com",
@@ -4477,6 +4485,14 @@
       "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
       "updated_at": "2026-10-26T13:48:16.354513+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss"
+    },
+    "4181ac0fa80bb13df434b955": {
+      "published_at": "2026-10-28T19:07:18+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "BJP’s new UP headquarters in Lucknow may bloom with lotus-shaped facade",
+      "updated_at": "2026-10-29T03:41:32.917967+00:00",
+      "url": "https://www.hindustantimes.com/india-news/bjp-new-uttar-pradesh-up-headquarters-in-lucknow-may-bloom-with-lotus-shaped-facade-101793214439009.html"
     },
     "419d9f2013ec3a322daa40d7": {
       "published_at": "2026-10-25T20:15:04+00:00",
@@ -10155,6 +10171,14 @@
       "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
       "updated_at": "2026-10-27T07:04:01.738127+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss"
+    },
+    "90befcc13b0796426d2c064b": {
+      "published_at": "2026-10-28T19:05:48+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "New RSS group registers with justice dept to lobby in America",
+      "updated_at": "2026-10-29T03:41:32.917964+00:00",
+      "url": "https://www.hindustantimes.com/india-news/new-rss-group-registers-with-justice-dept-to-lobby-in-america-101793214349259.html"
     },
     "90fd25d5e400c10fb50f1c26": {
       "published_at": "2026-10-25T15:40:25+00:00",
@@ -17203,6 +17227,14 @@
       "updated_at": "2026-10-26T04:53:04.307816+00:00",
       "url": "https://www.hindustantimes.com/india-news/rajasthan-80-tehsils-across-14-districts-declared-droughthit-101792988140869.html"
     },
+    "f111b0b1b8a124f2a1f59459": {
+      "published_at": "2026-10-28T19:04:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kavitha threatens to block census operations over OBC column demand",
+      "updated_at": "2026-10-29T03:41:32.917945+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/kavitha-threatens-to-block-census-operations-over-obc-column-demand/article71635925.ece"
+    },
     "f12a1ad96fc63a024b4f839c": {
       "published_at": "2026-10-27T02:17:06+00:00",
       "source": "aljazeera.com",
@@ -18451,6 +18483,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:41:07.871699+00:00",
+  "last_cycle_at": "2026-10-29T03:41:32.919757+00:00",
   "schema_version": 1
 }
