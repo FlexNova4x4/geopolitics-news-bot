@@ -3278,9 +3278,10 @@
     "23613d04c6bafe80f4e701aa": {
       "published_at": "2026-10-29T13:49:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12768,
       "title": "37% of pre-SIR Form-6 applications rejected due to absence of declaration form",
-      "updated_at": "2026-10-29T14:35:25.232728+00:00",
+      "updated_at": "2026-10-29T14:35:28.849785+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/37-of-pre-sir-form-6-applications-rejected-due-to-absence-of-declaration-form/article71640758.ece"
     },
     "23827c27378057676a41af34": {
@@ -11833,9 +11834,10 @@
     "7f5581afbc747bfc4e1eafe4": {
       "published_at": "2026-10-29T13:52:54+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12770,
       "title": "HC moved seeking APPs at Attappady, Mannarkkad courts",
-      "updated_at": "2026-10-29T14:35:25.232745+00:00",
+      "updated_at": "2026-10-29T14:35:37.009571+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/hc-moved-seeking-apps-at-attappady-mannarkkad-courts/article71640292.ece"
     },
     "7f5757504adab586ec21c63b": {
@@ -13982,9 +13984,10 @@
     "9510a3faab79c1cbad2e80db": {
       "published_at": "2026-10-29T13:52:23+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12769,
       "title": "How India developed Pioxaniliprole, its first home-grown insecticide molecule",
-      "updated_at": "2026-10-29T14:35:25.232742+00:00",
+      "updated_at": "2026-10-29T14:35:32.970485+00:00",
       "url": "https://www.tribuneindia.com/news/india/how-india-developed-pioxaniliprole-its-first-home-grown-insecticide-molecule"
     },
     "9515eecf0b2a570c9accd517": {
@@ -23422,9 +23425,10 @@
     "f53e80b645a6719e9347ef7c": {
       "published_at": "2026-10-29T13:53:49+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12771,
       "title": "Neville says managers need sacking ‘for own good’ as Man Utd retain Carrick",
-      "updated_at": "2026-10-29T14:35:25.232749+00:00",
+      "updated_at": "2026-10-29T14:35:41.135014+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss"
     },
     "f543c189b7a72ec7972ef0ec": {
@@ -24612,6 +24616,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:35:25.235589+00:00",
+  "last_cycle_at": "2026-10-29T14:35:44.338354+00:00",
   "schema_version": 1
 }
