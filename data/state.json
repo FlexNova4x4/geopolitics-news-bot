@@ -2477,9 +2477,10 @@
     "183873e0d90b040f1c6b361c": {
       "published_at": "2026-10-29T16:35:02+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12901,
       "title": "Temperatures dip across northern India, Delhi records coldest October in four years",
-      "updated_at": "2026-10-29T16:56:33.435860+00:00",
+      "updated_at": "2026-10-29T16:56:40.578188+00:00",
       "url": "https://www.tribuneindia.com/news/weather-report/temperatures-dip-across-northern-india-delhi-records-coldest-october-in-four-years"
     },
     "1856332a138aee5184c65413": {
@@ -9623,9 +9624,10 @@
     "6484f00632091419199b94ba": {
       "published_at": "2026-10-29T16:35:14+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12902,
       "title": "Delhi traders urge Rahul Gandhi to postpone INDIA bloc's Ramlila Maidan rally over Diwali business loss fears",
-      "updated_at": "2026-10-29T16:56:33.435863+00:00",
+      "updated_at": "2026-10-29T16:56:44.526606+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-traders-urge-rahul-gandhi-to-postpone-india-bloc-rally-november-1-over-fears-of-traffic-curbs-business-losses-during-diwali-101793287737490.html"
     },
     "64a97563cb28ef1849dd8b62": {
@@ -16813,9 +16815,10 @@
     "ab08cd85455ab0f63bb8c40f": {
       "published_at": "2026-10-29T16:32:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12900,
       "title": "Iran says four tankers on fire after hitting mines in Hormuz",
-      "updated_at": "2026-10-29T16:56:33.435845+00:00",
+      "updated_at": "2026-10-29T16:56:36.329777+00:00",
       "url": "https://www.thehindu.com/news/international/iran-says-four-tankers-on-fire-after-hitting-mines-in-hormuz/article71642019.ece"
     },
     "ab08da050a21e3dc83d7732e": {
@@ -24592,9 +24595,10 @@
     "f5fec660cfae83d5c9760347": {
       "published_at": "2026-10-29T16:35:50+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12903,
       "title": "GBA explores new technique to fast-track Jalahalli underpass construction",
-      "updated_at": "2026-10-29T16:56:33.435866+00:00",
+      "updated_at": "2026-10-29T16:56:48.861594+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/gba-explores-new-technique-to-fast-track-jalahalli-underpass-construction/article71641239.ece"
     },
     "f6011bc65e16b1a700ac677d": {
@@ -25800,6 +25804,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:56:33.438616+00:00",
+  "last_cycle_at": "2026-10-29T16:56:52.065202+00:00",
   "schema_version": 1
 }
