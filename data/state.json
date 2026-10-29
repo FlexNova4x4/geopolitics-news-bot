@@ -6271,9 +6271,10 @@
     "50f9d7d78e094a875a1af793": {
       "published_at": "2026-10-29T06:07:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12374,
       "title": "Extremely harmful to Indian democracy: Rijiju slams Naseeruddin Shah's 'dimagi naxal' video",
-      "updated_at": "2026-10-29T06:12:43.063595+00:00",
+      "updated_at": "2026-10-29T06:12:46.475875+00:00",
       "url": "https://www.thehindu.com/news/national/rijiju-slams-naseeruddin-shah-dimagi-naxal-video/article71639205.ece"
     },
     "51102a388642958c66c8ca2c": {
@@ -14932,9 +14933,10 @@
     "b82c0d5519174518b0321140": {
       "published_at": "2026-10-29T06:08:54+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12375,
       "title": "ऊना: नूर गाड़ी का संपर्क मार्ग कच्चा, ग्रामीण परेशान; बरसात में बढ़ जाती है मुश्किल",
-      "updated_at": "2026-10-29T06:12:43.063611+00:00",
+      "updated_at": "2026-10-29T06:12:50.587594+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-noor-gadi-village-kachha-link-road-rainy-season-problem-2026-10-29"
     },
     "b8518bfd825918e70dbd541b": {
@@ -21068,6 +21070,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:12:43.066085+00:00",
+  "last_cycle_at": "2026-10-29T06:12:53.790256+00:00",
   "schema_version": 1
 }
