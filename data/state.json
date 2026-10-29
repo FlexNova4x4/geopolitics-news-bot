@@ -795,9 +795,10 @@
     "07ab15a14294f045a97a1c52": {
       "published_at": "2026-10-29T17:06:26+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12931,
       "title": "TVK functionary arrested for allegedly sexually harassing college student in Tamil Nadu",
-      "updated_at": "2026-10-29T17:23:02.935777+00:00",
+      "updated_at": "2026-10-29T17:23:13.770123+00:00",
       "url": "https://www.hindustantimes.com/india-news/tvk-functionary-arrested-for-allegedly-sexually-harassing-college-student-in-tamil-nadu-101793292668523.html"
     },
     "07b4ec702e362be393d3fa2e": {
@@ -18649,9 +18650,10 @@
     "ba0fde44cd1804f0991a65f1": {
       "published_at": "2026-10-29T17:07:04+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12932,
       "title": "Delhi's Jamia University agrees to students’ demands, sets timeline for union polls",
-      "updated_at": "2026-10-29T17:23:02.935781+00:00",
+      "updated_at": "2026-10-29T17:23:17.756361+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhis-jamia-university-agrees-to-students-demands-sets-timeline-for-jmi-student-union-polls-101793293361136.html"
     },
     "ba197f922032f8cdf091127e": {
@@ -19934,9 +19936,10 @@
     "c6861b86af740133e0cdf7ae": {
       "published_at": "2026-10-29T17:03:56+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12930,
       "title": "29 unrecognised parties from Gujarat recorded ₹510 crore income, highest in FY 2024-25: ADR",
-      "updated_at": "2026-10-29T17:23:02.935772+00:00",
+      "updated_at": "2026-10-29T17:23:09.971581+00:00",
       "url": "https://www.thehindu.com/news/national/gujarat/29-unrecognised-parties-from-gujarat-recorded-510-crore-income-highest-in-fy-2024-25-adr/article71640894.ece"
     },
     "c6879ea78b088f7b561e095a": {
@@ -25517,9 +25520,10 @@
     "fb928bd4a4406f0cddafff2b": {
       "published_at": "2026-10-29T17:01:01+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12929,
       "title": "NIA takes over probe into alleged arson attack at Kadavumbhagam synagogue",
-      "updated_at": "2026-10-29T17:23:02.935753+00:00",
+      "updated_at": "2026-10-29T17:23:06.174462+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/nia-takes-over-probe-into-alleged-arson-attack-at-kadavumbhagam-synagogue/article71641712.ece"
     },
     "fb9ddaac8c9ec5da26867373": {
@@ -26061,6 +26065,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:23:02.939019+00:00",
+  "last_cycle_at": "2026-10-29T17:23:20.959982+00:00",
   "schema_version": 1
 }
