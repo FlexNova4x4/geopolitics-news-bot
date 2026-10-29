@@ -4217,6 +4217,14 @@
       "updated_at": "2026-10-27T16:40:55.892454+00:00",
       "url": "https://www.tribuneindia.com/news/central-elections-committee/historic-election-surge-israel-voter-turnout-hits-unprecedented-55-7-by-4-pm-local-time"
     },
+    "3bd58db3896512fa5b7e47eb": {
+      "published_at": "2026-10-28T20:22:16+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+      "updated_at": "2026-10-29T04:16:56.841034+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss"
+    },
     "3bfae3c07cde8e41f296c547": {
       "published_at": "2026-10-27T07:55:01+00:00",
       "source": "aljazeera.com",
@@ -8286,6 +8294,14 @@
       "updated_at": "2026-10-26T00:53:12.801250+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangra-students-display-artistic-talent-at-rangotsav"
     },
+    "7298bf8c5097d2330a30cf8d": {
+      "published_at": "2026-10-28T20:17:24+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal Minister Vikramaditya calls for waste segregation at source",
+      "updated_at": "2026-10-29T04:16:56.841018+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-minister-vikramaditya-calls-for-waste-segregation-at-source"
+    },
     "72a2d33b808a214be974bc22": {
       "published_at": "2026-10-27T13:12:24+00:00",
       "source": "feeds.bbci.co.uk",
@@ -8923,6 +8939,14 @@
       "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
       "updated_at": "2026-10-25T05:38:54.624033+00:00",
       "url": "https://www.thehindu.com/news/international/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/article71622458.ece"
+    },
+    "7a0afa3bcbecf0d501ae436c": {
+      "published_at": "2026-10-28T20:22:25+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Two dug peddlers arrested with 1.028 kg charas in Hamirpur",
+      "updated_at": "2026-10-29T04:16:56.841038+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/two-dug-peddlers-arrested-with-1-028-kg-charas-in-hamirpur"
     },
     "7a1d120985829e41204a3378": {
       "published_at": "2026-10-25T03:34:02+00:00",
@@ -18981,6 +19005,14 @@
       "updated_at": "2026-10-25T05:37:24.102780+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece"
     },
+    "fe9a5e93f24287b7a4630153": {
+      "published_at": "2026-10-28T20:24:29+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "MC to develop seven new playgrounds in Shimla",
+      "updated_at": "2026-10-29T04:16:56.841041+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/mc-to-develop-seven-new-playgrounds-in-shimla"
+    },
     "fea88e332656e9d9d93c9a21": {
       "published_at": "2026-10-25T10:27:36+00:00",
       "source": "aljazeera.com",
@@ -19099,6 +19131,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:16:48.014434+00:00",
+  "last_cycle_at": "2026-10-29T04:16:56.843087+00:00",
   "schema_version": 1
 }
