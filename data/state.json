@@ -4058,9 +4058,10 @@
     "39f628a3996a16421746c618": {
       "published_at": "2026-10-28T20:27:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12164,
       "title": "India rejects laws affecting national sovereignty; votes at UN against US embargo on Cuba",
-      "updated_at": "2026-10-29T04:17:25.826089+00:00",
+      "updated_at": "2026-10-29T04:17:42.478447+00:00",
       "url": "https://www.tribuneindia.com/news/cuba-fuel-restrictions/india-rejects-laws-affecting-national-sovereignty-votes-at-un-against-us-embargo-on-cuba"
     },
     "3a1848b68d0a30ff13abf2c0": {
@@ -11783,9 +11784,10 @@
     "a08cc9d5487b5aeb4a1fac50": {
       "published_at": "2026-10-28T20:26:21+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12163,
       "title": "Kangra News: कांगड़ा के बाजारों में उमड़ी रौनक, मेहंदी लगवाने का दिखा क्रेज",
-      "updated_at": "2026-10-29T04:17:25.826086+00:00",
+      "updated_at": "2026-10-29T04:17:38.404053+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/markets-in-kangra-come-alive-a-craze-for-getting-henna-applied-is-seen-kangra-news-c-95-1-kng1047-263858-2026-10-29"
     },
     "a0f98c42e671b2d28e2a751a": {
@@ -15434,9 +15436,10 @@
     "d1f92f29ac2ee13c2aefbe27": {
       "published_at": "2026-10-28T20:24:39+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12162,
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "updated_at": "2026-10-29T04:17:25.826083+00:00",
+      "updated_at": "2026-10-29T04:17:34.426432+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
     },
     "d221c60a987b5eff7abec0ac": {
@@ -15658,9 +15661,10 @@
     "d45d10e5f3a64b8d319804c3": {
       "published_at": "2026-10-28T20:24:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12161,
       "title": "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat",
-      "updated_at": "2026-10-29T04:17:25.826066+00:00",
+      "updated_at": "2026-10-29T04:17:30.387876+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-jan-suraaj-party-opens-account-jdus-neeraj-kumar-wins-patna-graduates-seat/article71635866.ece"
     },
     "d46d52dd596a532e45392334": {
@@ -19167,6 +19171,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:17:25.828135+00:00",
+  "last_cycle_at": "2026-10-29T04:17:45.681158+00:00",
   "schema_version": 1
 }
