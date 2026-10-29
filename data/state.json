@@ -2600,6 +2600,14 @@
       "updated_at": "2026-10-26T23:10:23.322565+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwj3425g5381o?at_medium=RSS&at_campaign=rss"
     },
+    "240afeaffa9e14b8021e2505": {
+      "published_at": "2026-10-28T20:01:55+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal: Nearly 29% of drug samples fail quality tests in September alert",
+      "updated_at": "2026-10-29T04:14:13.559706+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-nearly-29-of-drug-samples-fail-quality-tests-in-september-alert"
+    },
     "24328b809fdeacc2006cd43f": {
       "published_at": "2026-10-26T05:12:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -5458,6 +5466,14 @@
       "title": "शिमला: वाल्मीकि मंदिर को 25 लाख, पात्र सफाई कर्मचारियों को मकान के लिए 3 लाख",
       "updated_at": "2026-10-26T09:15:05.940820+00:00",
       "url": "https://www.amarujala.com/video/shimla/video-cm-sukhu-valmiki-jayanti-krishna-nagar-temple-25-lakh-housing-scheme-2026-10-26"
+    },
+    "4cc9cf7d90ebe0343fd265cf": {
+      "published_at": "2026-10-28T20:01:26+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "16 liquor vends sealed over suspected repackaging racket",
+      "updated_at": "2026-10-29T04:14:13.559701+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/16-liquor-vends-sealed-over-suspected-repackaging-racket"
     },
     "4d0401ee1cc88833e528a296": {
       "published_at": "2026-10-26T04:03:28+00:00",
@@ -13895,6 +13911,14 @@
       "updated_at": "2026-10-27T03:11:02.779367+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
     },
+    "bd5380a91e30b1c02d7bfbf4": {
+      "published_at": "2026-10-28T20:02:19+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Triund trek to get toilets, water supply, rain shelters",
+      "updated_at": "2026-10-29T04:14:13.559711+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/triund-trek-to-get-toilets-water-supply-rain-shelters"
+    },
     "bd76ebba7716518ebf4f495b": {
       "published_at": "2026-10-27T05:17:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -17437,6 +17461,14 @@
       "updated_at": "2026-10-27T14:45:55.131402+00:00",
       "url": "https://www.thehindu.com/news/international/egypt-detains-prominent-journalist-lina-attalah-after-trial/article71632130.ece"
     },
+    "eef30d7f062c47ffc45c6f2d": {
+      "published_at": "2026-10-28T20:00:33+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal to engage 3,100 teachers for CBSE schools",
+      "updated_at": "2026-10-29T04:14:13.559682+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-to-engage-3100-teachers-for-cbse-schools"
+    },
     "ef08eadbad65b1df6aff2271": {
       "published_at": "2026-10-27T08:33:09+00:00",
       "source": "thehindu.com",
@@ -18955,6 +18987,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:14:04.318393+00:00",
+  "last_cycle_at": "2026-10-29T04:14:13.561762+00:00",
   "schema_version": 1
 }
