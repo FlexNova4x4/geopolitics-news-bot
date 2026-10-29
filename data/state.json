@@ -1191,9 +1191,10 @@
     "0f7dd16fe6cc0d9f990389da": {
       "published_at": "2026-10-29T04:22:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12301,
       "title": "हिमाचल प्रदेश में मौसम ने ली करवट: वीरवार सुबह शिमला में हुई बारिश; अगले दिनों में बारिश-बर्फबारी के आसार",
-      "updated_at": "2026-10-29T05:17:36.644909+00:00",
+      "updated_at": "2026-10-29T05:17:39.922296+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-rain-today-29-october-2026-himachal-pradesh-weather-forecast-2026-10-29"
     },
     "0fb97cbc377bdc7efb9851e9": {
@@ -1990,9 +1991,10 @@
     "17fd2fd2726ffe5880689d42": {
       "published_at": "2026-10-29T04:22:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12302,
       "title": "Traders seek action against street vendors, encroachments in Dharwad",
-      "updated_at": "2026-10-29T05:17:36.644926+00:00",
+      "updated_at": "2026-10-29T05:17:44.054530+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/traders-seek-action-against-street-vendors-encroachments-in-dharwad/article71636398.ece"
     },
     "180a7ee7acd91f817526448f": {
@@ -15740,9 +15742,10 @@
     "c70ffc8d557943b6cc21ccc8": {
       "published_at": "2026-10-29T04:22:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12303,
       "title": "‘India-ASEAN Youth Bridge’ will foster people-to-people connection, digital innovation, capacity building: Rajnath Singh at ADMM-Plus meet",
-      "updated_at": "2026-10-29T05:17:36.644931+00:00",
+      "updated_at": "2026-10-29T05:17:47.996441+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus/india-asean-youth-bridge-will-foster-people-to-people-connection-digital-innovation-capacity-building-rajnath-singh-at-admm-plus-meet"
     },
     "c72fd80e641756d52d21a881": {
@@ -16720,9 +16723,10 @@
     "d48899abd4ccbc7ce936faba": {
       "published_at": "2026-10-29T04:23:30+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12304,
       "title": "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State",
-      "updated_at": "2026-10-29T05:17:36.644934+00:00",
+      "updated_at": "2026-10-29T05:17:51.913104+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-election-congress-bjp-nagpur/article71638769.ece"
     },
     "d48aecf50fb94cdb89b5d847": {
@@ -20427,6 +20431,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:17:36.647210+00:00",
+  "last_cycle_at": "2026-10-29T05:17:55.115906+00:00",
   "schema_version": 1
 }
