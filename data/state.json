@@ -57,9 +57,10 @@
     "0062e747791d444561037856": {
       "published_at": "2026-10-29T11:03:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12622,
       "title": "Kodungaiyur incinerator plan faces renewed scrutiny over climate costs",
-      "updated_at": "2026-10-29T12:01:23.570234+00:00",
+      "updated_at": "2026-10-29T12:01:30.615777+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/kodungaiyur-incinerator-plan-faces-renewed-scrutiny-over-climate-costs/article71639895.ece"
     },
     "0063f394470c0b3ce470f3ca": {
@@ -362,9 +363,10 @@
     "0360aa497854ba4d4205a7c3": {
       "published_at": "2026-10-29T10:59:44+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12621,
       "title": "Nobody should attend funerals of farmers who take their own lives: MLA Sanjay Gaikwad",
-      "updated_at": "2026-10-29T12:01:23.570218+00:00",
+      "updated_at": "2026-10-29T12:01:26.721014+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-mla-sanjay-gaikwad-urges-not-attending-farmer-suicides/article71639982.ece"
     },
     "0370e28db70ab174851a1d39": {
@@ -5118,9 +5120,10 @@
     "3b76747608aeed973fb88034": {
       "published_at": "2026-10-29T11:04:05+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12623,
       "title": "Can the UK afford more help with the cost of living?",
-      "updated_at": "2026-10-29T12:01:23.570238+00:00",
+      "updated_at": "2026-10-29T12:01:34.607396+00:00",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/29/can-the-uk-afford-more-help-with-the-cost-of-living?traffic_source=rss"
     },
     "3b85cdd2a0c40cd18603de7d": {
@@ -18583,9 +18586,10 @@
     "d07bd8d24db045c21f0c2ac5": {
       "published_at": "2026-10-29T11:05:18+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12624,
       "title": "Protest at India university where no students’ union vote held for 20 years",
-      "updated_at": "2026-10-29T12:01:23.570241+00:00",
+      "updated_at": "2026-10-29T12:01:38.513347+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss"
     },
     "d0b2f32fda4086864b28b74f": {
@@ -23289,6 +23293,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:01:23.572824+00:00",
+  "last_cycle_at": "2026-10-29T12:01:41.716500+00:00",
   "schema_version": 1
 }
