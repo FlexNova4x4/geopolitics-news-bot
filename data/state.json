@@ -2639,9 +2639,10 @@
     "1c7efc159eac60937408f701": {
       "published_at": "2026-10-29T14:32:49+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12801,
       "title": "MPSC examination: Maharashtra government appoints Commission to inquire into malpractices, paper leaks",
-      "updated_at": "2026-10-29T15:24:18.979002+00:00",
+      "updated_at": "2026-10-29T15:24:25.699533+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/mpsc-examination-maharashtra-government-appoints-commission-to-inquire-into-malpractices-paper-leaks/article71641272.ece"
     },
     "1c8b6c85e08f31432c7b90e0": {
@@ -14181,9 +14182,10 @@
     "95c6b6a19cca9a64fc6e8c6a": {
       "published_at": "2026-10-29T14:32:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12800,
       "title": "Rare photographs of Gandhi’s life displayed at exhibition",
-      "updated_at": "2026-10-29T15:24:18.978989+00:00",
+      "updated_at": "2026-10-29T15:24:21.784612+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/rare-photographs-of-gandhi-displayed-at-exhibition/article71640572.ece"
     },
     "95f143944ae592eec44b7020": {
@@ -15958,9 +15960,10 @@
     "a8b71cbbe6a447431364b640": {
       "published_at": "2026-10-29T14:36:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12803,
       "title": "Israel piles pressure on Arab parties as Netanyahu seeks government",
-      "updated_at": "2026-10-29T15:24:18.979010+00:00",
+      "updated_at": "2026-10-29T15:24:33.218412+00:00",
       "url": "https://www.thehindu.com/news/international/israel-piles-pressure-on-arab-parties-as-netanyahu-seeks-government/article71641215.ece"
     },
     "a8c2acd357780544054ea091": {
@@ -22009,9 +22012,10 @@
     "e67929942ecd8dcb93256170": {
       "published_at": "2026-10-29T14:33:15+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12802,
       "title": "Cancellation of trains between Palakkad Town, Junction",
-      "updated_at": "2026-10-29T15:24:18.979007+00:00",
+      "updated_at": "2026-10-29T15:24:29.435985+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cancellation-of-trains-between-palakkad-town-junction/article71640280.ece"
     },
     "e696808a37134cd98617d6eb": {
@@ -24900,6 +24904,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:24:18.981586+00:00",
+  "last_cycle_at": "2026-10-29T15:24:36.421765+00:00",
   "schema_version": 1
 }
