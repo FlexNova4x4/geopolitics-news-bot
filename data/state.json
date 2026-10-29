@@ -12328,9 +12328,10 @@
     "8b3b3c973784f490ddd78776": {
       "published_at": "2026-10-29T10:35:42+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12606,
       "title": "IRCTC hotel ‘scam’: HC seeks ED stand on Lalu Yadav’s plea against money laundering charges",
-      "updated_at": "2026-10-29T11:31:45.467596+00:00",
+      "updated_at": "2026-10-29T11:31:56.957643+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/irctc-hotel-scam-hc-seeks-ed-stand-on-lalu-yadavs-plea-against-money-laundering-charges"
     },
     "8b4bc0bf7042673543810963": {
@@ -13865,9 +13866,10 @@
     "9ca491792ec5361252b2cedc": {
       "published_at": "2026-10-29T10:34:09+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12605,
       "title": "Imran Khan seeks evidence behind notice proposing cancellation of his OCI card",
-      "updated_at": "2026-10-29T11:31:45.467593+00:00",
+      "updated_at": "2026-10-29T11:31:52.984335+00:00",
       "url": "https://www.hindustantimes.com/india-news/imran-khan-seeks-evidence-behind-notice-proposing-cancellation-of-his-oci-card-cjp-cockroach-janta-party-protest-mumbai-police-bollywood-gyanesh-kumar-101793268651497.html"
     },
     "9ca5c7e8d209f31fc1902c6b": {
@@ -14114,9 +14116,10 @@
     "9f8b5861ff2619085aaf9df3": {
       "published_at": "2026-10-29T10:30:25+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12604,
       "title": "Kylian Mbappe, Real Madrid and La Liga face long redemption road in China",
-      "updated_at": "2026-10-29T11:31:45.467577+00:00",
+      "updated_at": "2026-10-29T11:31:49.070349+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/kylian-mbappe-real-madrid-and-la-liga-face-long-redemption-road-in-china?traffic_source=rss"
     },
     "9fabf67d7b3b54c04b53a9db": {
@@ -18340,9 +18343,10 @@
     "cf659bc34df86749ffc236c7": {
       "published_at": "2026-10-29T10:39:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12607,
       "title": "Rescue teams search wreckage for survivors after train crash in Spain",
-      "updated_at": "2026-10-29T11:31:45.467599+00:00",
+      "updated_at": "2026-10-29T11:32:00.859181+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/rescue-teams-search-wreckage-for-survivors-after-train-crash-in-spain?traffic_source=rss"
     },
     "cf66082ef04048fba14b8255": {
@@ -23145,6 +23149,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:31:45.469903+00:00",
+  "last_cycle_at": "2026-10-29T11:32:04.062101+00:00",
   "schema_version": 1
 }
