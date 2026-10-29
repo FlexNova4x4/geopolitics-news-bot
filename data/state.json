@@ -4199,6 +4199,14 @@
       "updated_at": "2026-10-24T23:59:19.369182+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss"
     },
+    "2f880c73a2800c5330edb781": {
+      "published_at": "2026-10-29T11:57:07+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
+      "updated_at": "2026-10-29T12:31:51.571487+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss"
+    },
     "2fc9182cfe3c596ec571b8b6": {
       "published_at": "2026-10-25T15:23:02+00:00",
       "source": "thehindu.com",
@@ -8676,6 +8684,14 @@
       "updated_at": "2026-10-27T01:42:01.593168+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
     },
+    "629cf6da67b6d075bfcced3a": {
+      "published_at": "2026-10-29T11:46:07+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Kerala teacher arrested over alleged false claim of worms in food at state sports meet",
+      "updated_at": "2026-10-29T12:31:51.571469+00:00",
+      "url": "https://www.hindustantimes.com/india-news/kerala-teacher-arrested-over-alleged-false-claim-of-worms-in-food-at-state-sports-meet-101793270122241.html"
+    },
     "62a06f1172d4fb8995b1a279": {
       "published_at": "2026-10-29T08:26:12+00:00",
       "source": "publish.tribuneindia.com",
@@ -13107,6 +13123,14 @@
       "title": "PMK welcomes Tamil Nadu Cabinet nod for Social Justice Survey, urges early start",
       "updated_at": "2026-10-29T12:01:05.379683+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/pmk-welcomes-cabinet-nod-for-social-justice-survey-urges-early-start/article71639909.ece"
+    },
+    "9211a5dd851c98114510154a": {
+      "published_at": "2026-10-29T11:59:21+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Silence is not an option’: Mamata extends support to INDIA bloc's Nov-1 ‘Chalo Dilli Ramlila March’",
+      "updated_at": "2026-10-29T12:31:51.571497+00:00",
+      "url": "https://www.hindustantimes.com/india-news/silence-is-not-an-option-mamata-banerjee-extends-support-to-india-bloc-chalo-dilli-ramlila-march-november-1-101793271245191.html"
     },
     "92175d9ffb9f7fede747268c": {
       "published_at": "2026-10-27T05:28:04+00:00",
@@ -17844,6 +17868,14 @@
       "title": "Micro plastics in Uhal an environmental threat",
       "updated_at": "2026-10-26T22:42:59.432284+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/micro-plastics-in-uhal-an-environmental-threat"
+    },
+    "c40902b722725b720f64a771": {
+      "published_at": "2026-10-29T11:58:50+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cases against ex-DMK Ministers based on complaints and evidence, not political vendetta: Law Minister",
+      "updated_at": "2026-10-29T12:31:51.571492+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cases-against-ex-dmk-ministers-based-on-complaints-and-evidence-not-political-vendetta-law-minister/article71640246.ece"
     },
     "c41711f2dc6e408bd3df0c8d": {
       "published_at": "2026-10-29T09:03:55+00:00",
@@ -23626,6 +23658,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:31:41.184249+00:00",
+  "last_cycle_at": "2026-10-29T12:31:51.573845+00:00",
   "schema_version": 1
 }
