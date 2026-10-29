@@ -4058,9 +4058,10 @@
     "3300bed33d4bba15e13e1613": {
       "published_at": "2026-10-29T07:12:40+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12451,
       "title": "Man City beat Brighton on penalties after dramatic League Cup comeback",
-      "updated_at": "2026-10-29T08:11:08.993133+00:00",
+      "updated_at": "2026-10-29T08:11:16.508687+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/man-city-beat-bournemouth-on-penalties-after-dramatic-league-cup-comeback?traffic_source=rss"
     },
     "330e22e4234a676df137862d": {
@@ -11040,9 +11041,10 @@
     "851084975c288964edd70f69": {
       "published_at": "2026-10-29T07:21:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12453,
       "title": "Two Indian nationals among 28 charged with election fraud in California",
-      "updated_at": "2026-10-29T08:11:08.993140+00:00",
+      "updated_at": "2026-10-29T08:11:24.584343+00:00",
       "url": "https://www.thehindu.com/news/international/two-indian-nationals-among-28-charged-with-election-fraud-in-california/article71603104.ece"
     },
     "852b030c5bbfb220c5aeb5fe": {
@@ -18016,9 +18018,10 @@
     "d6cb6e9d81448a9758ef2441": {
       "published_at": "2026-10-29T07:12:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12450,
       "title": "“No such thing as holy war, only peace is holy”: Pope Leo XIV as threat of renewed conflict looms over West Asia, Europe",
-      "updated_at": "2026-10-29T08:11:08.993117+00:00",
+      "updated_at": "2026-10-29T08:11:12.399411+00:00",
       "url": "https://www.tribuneindia.com/news/assisi-peace-quest/no-such-thing-as-holy-war-only-peace-is-holy-pope-leo-xiv-as-threat-of-renewed-conflict-looms-over-west-asia-europe"
     },
     "d6cfd4f710ea8c69c5d628b0": {
@@ -19525,9 +19528,10 @@
     "e9971283e6bd6cbf690f6acb": {
       "published_at": "2026-10-29T07:16:05+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12452,
       "title": "Change is in air; last best chance to rein in non-serious Trump: Obama",
-      "updated_at": "2026-10-29T08:11:08.993137+00:00",
+      "updated_at": "2026-10-29T08:11:20.441316+00:00",
       "url": "https://www.tribuneindia.com/news/world/change-is-in-air-last-best-chance-to-rein-in-non-serious-trump-obama"
     },
     "ea1dfcc29f4555c096186b81": {
@@ -21768,6 +21772,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:11:08.995365+00:00",
+  "last_cycle_at": "2026-10-29T08:11:27.787319+00:00",
   "schema_version": 1
 }
