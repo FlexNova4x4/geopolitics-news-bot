@@ -3024,9 +3024,10 @@
     "29ffb4371bb454486a8de9af": {
       "published_at": "2026-10-29T00:00:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12198,
       "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
-      "updated_at": "2026-10-29T04:21:26.431182+00:00",
+      "updated_at": "2026-10-29T04:21:34.855398+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss"
     },
     "2a1e489a29e609e65ea0e53a": {
@@ -5632,9 +5633,10 @@
     "4e8f661c347b24c82e278b3b": {
       "published_at": "2026-10-28T23:55:10+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12197,
       "title": "Now, book your liquor and pay online in Delhi, then collect it from vend later",
-      "updated_at": "2026-10-29T04:21:26.431162+00:00",
+      "updated_at": "2026-10-29T04:21:30.802859+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/now-book-your-liquor-and-pay-online-in-delhi-then-collect-it-from-vend-later"
     },
     "4e9c39126c0ef07f24503391": {
@@ -9168,9 +9170,10 @@
     "7ad467c2c9b3f16bc525a8c5": {
       "published_at": "2026-10-29T00:00:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12199,
       "title": "हिमाचल: बागवानी और कृषि विवि में कुलपतियों के चयन के लिए समितियां गठित, अधिसूचना जारी",
-      "updated_at": "2026-10-29T04:21:26.431187+00:00",
+      "updated_at": "2026-10-29T04:21:38.769123+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/committees-constituted-for-the-selection-of-vicechancellors-at-the-horticulture-and-agriculture-universities-2026-10-28"
     },
     "7b0b19b84fa04860f7e64f07": {
@@ -15055,9 +15058,10 @@
     "c742e73967eef2b7a1ac818f": {
       "published_at": "2026-10-29T00:01:07+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12200,
       "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
-      "updated_at": "2026-10-29T04:21:26.431192+00:00",
+      "updated_at": "2026-10-29T04:21:42.869625+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss"
     },
     "c788b34d1e8c41c01a9ba36f": {
@@ -19491,6 +19495,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:21:26.433149+00:00",
+  "last_cycle_at": "2026-10-29T04:21:46.072344+00:00",
   "schema_version": 1
 }
