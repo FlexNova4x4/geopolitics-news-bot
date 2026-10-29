@@ -6002,9 +6002,10 @@
     "4b09d7c34154d7c3a512a6f6": {
       "published_at": "2026-10-29T07:26:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12459,
       "title": "Sirmour News: योजनाओं में अनियमितताओं की शिकायतों पर सरकार सख्त, उद्योग मंत्री ने 15 दिन में मांगी रिपोर्ट",
-      "updated_at": "2026-10-29T08:12:03.288373+00:00",
+      "updated_at": "2026-10-29T08:12:11.100287+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/industry-minister-meeting-nahan-news-c-177-1-nhn1001-192784-2026-10-28"
     },
     "4b492a77223e31223293d106": {
@@ -6997,9 +6998,10 @@
     "574af398a8d26d4f0e169f4d": {
       "published_at": "2026-10-29T07:27:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12460,
       "title": "Solan News: रोपड़ चौक से मुख्य बाजार गेट तक 11 नवंबर तक दिन में नौ पार्किंग जोन",
-      "updated_at": "2026-10-29T08:12:03.288378+00:00",
+      "updated_at": "2026-10-29T08:12:15.221269+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/nine-daytime-parking-zones-from-ropar-chowk-to-the-main-market-gate-until-november-11-solan-news-c-176-1-ssml1044-183068-2026-10-28"
     },
     "574c59fd4de9205202058de0": {
@@ -16658,9 +16660,10 @@
     "c5805b03d0752fba4fb28cb1": {
       "published_at": "2026-10-29T07:25:14+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12458,
       "title": "Rajnath Singh stresses need for long-term vision, flexible strategies for the Army",
-      "updated_at": "2026-10-29T08:12:03.288353+00:00",
+      "updated_at": "2026-10-29T08:12:07.154185+00:00",
       "url": "https://www.thehindu.com/news/national/rajnath-singh-stresses-need-for-long-term-vision-flexible-strategies-for-the-army/article71616903.ece"
     },
     "c58a58970b3ea37fac7ddb9e": {
@@ -21134,9 +21137,10 @@
     "f8d20445a306e164204c420b": {
       "published_at": "2026-10-29T07:27:23+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12461,
       "title": "जनता को गुमराह करना बंद करें सुक्खू : राकेश",
-      "updated_at": "2026-10-29T08:12:03.288383+00:00",
+      "updated_at": "2026-10-29T08:12:19.510508+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/stop-misleading-the-public-sukhu-rakesh-hamirpur-hp-news-c-94-1-hmp1004-213657-2026-10-29"
     },
     "f8da80698d09d6a73cdf962a": {
@@ -21840,6 +21844,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:12:03.290891+00:00",
+  "last_cycle_at": "2026-10-29T08:12:22.713418+00:00",
   "schema_version": 1
 }
