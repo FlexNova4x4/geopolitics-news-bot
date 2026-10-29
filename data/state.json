@@ -6222,6 +6222,14 @@
       "updated_at": "2026-10-27T01:41:04.883454+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss"
     },
+    "5447372ee9e21e4c0076c350": {
+      "published_at": "2026-10-29T03:16:19+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "updated_at": "2026-10-29T05:14:24.228195+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss"
+    },
     "547814c06e9294bda6dd2372": {
       "published_at": "2026-10-26T08:41:23+00:00",
       "source": "aljazeera.com",
@@ -8241,6 +8249,14 @@
       "title": "Remand of suspect in US postal tickets scam extended",
       "updated_at": "2026-10-27T06:04:35.652799+00:00",
       "url": "https://www.dawn.com/news/2040077/remand-of-suspect-in-us-postal-tickets-scam-extended"
+    },
+    "6e3e6fe9af0a73dc705154d2": {
+      "published_at": "2026-10-29T03:15:35+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+      "updated_at": "2026-10-29T05:14:24.228176+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss"
     },
     "6e4439a42a30610f7a172242": {
       "published_at": "2026-10-26T03:57:19+00:00",
@@ -13571,6 +13587,14 @@
       "updated_at": "2026-10-29T05:13:32.885318+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
     },
+    "b06784ea58848048c9ffcffe": {
+      "published_at": "2026-10-29T03:15:57+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "IIT Bombay forms panel to strengthen SC-ST cell following student's death",
+      "updated_at": "2026-10-29T05:14:24.228192+00:00",
+      "url": "https://www.hindustantimes.com/india-news/iit-bombay-forms-panel-to-strengthen-sc-st-cell-following-students-death-stir-101793243217487.html"
+    },
     "b0739e1ca9283319edca8de9": {
       "published_at": "2026-10-26T05:07:28+00:00",
       "source": "publish.tribuneindia.com",
@@ -15360,6 +15384,14 @@
       "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
       "updated_at": "2026-10-29T04:18:32.939277+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss"
+    },
+    "c56c40f06de7f81a7c676912": {
+      "published_at": "2026-10-29T03:18:25+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Ulema back decree against terrorism in religion’s name",
+      "updated_at": "2026-10-29T05:14:24.228198+00:00",
+      "url": "https://www.dawn.com/news/2040582/ulema-back-decree-against-terrorism-in-religions-name"
     },
     "c57933eeae4e71d3ef3462c0": {
       "published_at": "2026-10-27T19:16:46+00:00",
@@ -20143,6 +20175,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:14:11.805570+00:00",
+  "last_cycle_at": "2026-10-29T05:14:24.230270+00:00",
   "schema_version": 1
 }
