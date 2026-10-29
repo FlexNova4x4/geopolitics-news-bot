@@ -4091,6 +4091,14 @@
       "updated_at": "2026-10-29T05:11:31.981191+00:00",
       "url": "https://www.dawn.com/news/2040520/peshawar-court-sentences-man-to-death-for-blasphemy"
     },
+    "35a3e9bdcf10d79dcf185d05": {
+      "published_at": "2026-10-29T05:24:00+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "BJP's Kedarnath Singh concedes defeat in Varanasi Graduate polls",
+      "updated_at": "2026-10-29T05:42:20.862397+00:00",
+      "url": "https://www.hindustantimes.com/india-news/bjp-kedarnath-singh-concedes-defeat-in-varanasi-graduate-polls-101793251352168.html"
+    },
     "35c67fdb10b3910ba1b39a56": {
       "published_at": "2026-10-25T03:20:16+00:00",
       "source": "feeds.bbci.co.uk",
@@ -9087,6 +9095,14 @@
       "updated_at": "2026-10-26T00:57:40.299190+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/a-blood-storage-unit-will-soon-be-operational-at-amb-hospital-una-news-c-93-1-ssml1047-211213-2026-10-25"
     },
+    "742ea8b45a3edcf31c8a31c5": {
+      "published_at": "2026-10-29T05:27:49+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
+      "updated_at": "2026-10-29T05:42:20.862403+00:00",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/dvac-launches-search-at-ex-minister-kn-nehrus-residence-in-tiruchi/article71638830.ece"
+    },
     "746609e7b8598597eb07af5f": {
       "published_at": "2026-10-25T19:53:12+00:00",
       "source": "publish.tribuneindia.com",
@@ -9211,6 +9227,14 @@
       "title": "Philippines: Rajnath Singh receives Guard of Honour at Mactan Expo, to participate in 13th ADMM-Plus meeting",
       "updated_at": "2026-10-29T04:25:11.533456+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus-meeting/philippines-rajnath-singh-receives-guard-of-honour-at-mactan-expo-to-participate-in-13th-admm-plus-meeting"
+    },
+    "75c5931f274f269fedc8d916": {
+      "published_at": "2026-10-29T05:24:10+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Punjab govt has 1m tonnes of wheat for five months, provincial assembly told",
+      "updated_at": "2026-10-29T05:42:20.862400+00:00",
+      "url": "https://www.dawn.com/news/2040609/punjab-govt-has-1m-tonnes-of-wheat-for-five-months-provincial-assembly-told"
     },
     "75de75b3b50ea354e59f708f": {
       "published_at": "2026-10-27T00:05:45+00:00",
@@ -16522,6 +16546,14 @@
       "updated_at": "2026-10-27T08:33:47.579824+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss"
     },
+    "ceb91e584b7d00ccf6fbccdf": {
+      "published_at": "2026-10-29T05:22:33+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
+      "updated_at": "2026-10-29T05:42:20.862380+00:00",
+      "url": "https://www.thehindu.com/business/markets/rupee-rises-11-paise-against-us-dollar-in-early-trade-on-thursday/article71639047.ece"
+    },
     "cedd260205b2fcff89fd7c3e": {
       "published_at": "2026-10-26T08:48:07+00:00",
       "source": "thehindu.com",
@@ -20782,6 +20814,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:42:15.103716+00:00",
+  "last_cycle_at": "2026-10-29T05:42:20.864671+00:00",
   "schema_version": 1
 }
