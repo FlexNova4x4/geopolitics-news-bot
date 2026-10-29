@@ -8263,9 +8263,10 @@
     "70ed570426bde229023163a9": {
       "published_at": "2026-10-28T21:23:17+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12181,
       "title": "Indonesian students demand action on wildfires and rising costs",
-      "updated_at": "2026-10-29T04:19:37.511527+00:00",
+      "updated_at": "2026-10-29T04:19:41.624932+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss"
     },
     "70f5656f878d13ff3dcbe081": {
@@ -12790,9 +12791,10 @@
     "acb566103b1edafc0ab16679": {
       "published_at": "2026-10-28T21:24:41+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12183,
       "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "updated_at": "2026-10-29T04:19:37.511546+00:00",
+      "updated_at": "2026-10-29T04:19:49.454887+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
     },
     "ad4cf4e90865236df6372fd3": {
@@ -12906,9 +12908,10 @@
     "aeabdc03fb28d91968bc1938": {
       "published_at": "2026-10-28T21:35:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12184,
       "title": "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
-      "updated_at": "2026-10-29T04:19:37.511549+00:00",
+      "updated_at": "2026-10-29T04:19:53.405112+00:00",
       "url": "https://www.thehindu.com/news/national/uttarakhand/forest-panel-rejects-uttarakhand-hc-relocation-plan-again-over-forest-land-concerns/article71636307.ece"
     },
     "aeb06829dc3492ed2ed49351": {
@@ -16494,9 +16497,10 @@
     "dc8b7bdc87ae7809504e6702": {
       "published_at": "2026-10-28T21:23:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12182,
       "title": "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
-      "updated_at": "2026-10-29T04:19:37.511542+00:00",
+      "updated_at": "2026-10-29T04:19:45.529693+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/ncp-leader-challenges-sunetra-pawars-decision-to-appoint-a-new-national-chief-spokesperson/article71637703.ece"
     },
     "dcc2dfd57611288a2d36b1cc": {
@@ -19347,6 +19351,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:19:37.513451+00:00",
+  "last_cycle_at": "2026-10-29T04:19:56.607836+00:00",
   "schema_version": 1
 }
