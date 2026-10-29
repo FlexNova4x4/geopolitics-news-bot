@@ -5558,6 +5558,14 @@
       "updated_at": "2026-10-26T00:54:54.303505+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/refresher-courses-for-field-vets-conclude-at-palampur-agri-varsity"
     },
+    "419f055918a1e5abb8ae6038": {
+      "published_at": "2026-10-29T09:49:41+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Upa Lokayukta finds irregularities in APMC market yard in Belagavi",
+      "updated_at": "2026-10-29T11:01:33.203663+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/upa-lokayukta-finds-irregularities-in-apmc-market-yard-in-belagavi/article71639858.ece"
+    },
     "41b0ba96882d4627c372ef66": {
       "published_at": "2026-10-25T19:30:26+00:00",
       "source": "publish.tribuneindia.com",
@@ -8953,6 +8961,14 @@
       "title": "Hameed Latif Hospital doctor’s penalty in death case set aside",
       "updated_at": "2026-10-26T03:53:19.127599+00:00",
       "url": "https://www.dawn.com/news/2039817/hameed-latif-hospital-doctors-penalty-in-death-case-set-aside"
+    },
+    "68bf4261f86e3176dd63bfb6": {
+      "published_at": "2026-10-28T22:55:13+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "धर्मशाला : शाम के समय कचहरी बाजार में उमड़ी भीड़ खरीदारी और जाम के बीच दिखा त्योहारी उल्लास",
+      "updated_at": "2026-10-29T11:01:33.203647+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/dharamshala/video-in-the-evening-in-dharamshala-the-kachhari-bazaar-was-thronged-with-crowds-amidst-the-shopping-and-traffic-congestion-a-festive-spirit-was-clearly-visible-2026-10-28"
     },
     "68ff44b81e3eead272369b09": {
       "published_at": "2026-10-25T19:32:09+00:00",
@@ -19374,6 +19390,14 @@
       "updated_at": "2026-10-25T17:12:13.103401+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/well-planned-dasara-boosts-mysuru-tourism-lakshman/article71624014.ece"
     },
+    "db9316751e4e601cf165fa2d": {
+      "published_at": "2026-10-29T09:54:43+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Tamil Nadu Cabinet decides to form commission headed by retd. HC judge to conduct Social Justice Survey",
+      "updated_at": "2026-10-29T11:01:33.203667+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cabinet-decides-to-form-commission-headed-by-retd-hc-judge-to-conduct-social-justice-survey/article71639709.ece"
+    },
     "db9673288de97ba705ae50ff": {
       "published_at": "2026-10-25T18:02:35+00:00",
       "source": "thehindu.com",
@@ -22906,6 +22930,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:01:23.416916+00:00",
+  "last_cycle_at": "2026-10-29T11:01:33.205973+00:00",
   "schema_version": 1
 }
