@@ -1353,9 +1353,10 @@
     "0e4c06a6a3c6babd99ad73d4": {
       "published_at": "2026-10-29T15:05:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12829,
       "title": "KTR’s claim on power holiday absurd: Govt. Whip Aadi Srinivas",
-      "updated_at": "2026-10-29T15:29:56.086823+00:00",
+      "updated_at": "2026-10-29T15:30:04.219628+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/ktrs-claim-on-power-holiday-absurd-govt-whip-aadi-srinivas/article71640826.ece"
     },
     "0e5c339e7c0b6b0870699919": {
@@ -11266,9 +11267,10 @@
     "76e0dbe6dbbcdc274d152774": {
       "published_at": "2026-10-29T15:06:41+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12831,
       "title": "Strict compliance with captive elephant rules sought ahead of festival season",
-      "updated_at": "2026-10-29T15:29:56.086830+00:00",
+      "updated_at": "2026-10-29T15:30:12.098569+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/strict-compliance-with-captive-elephant-rules-sought-ahead-of-festival-season/article71641173.ece"
     },
     "76fb1493beec6f9cec6bed7d": {
@@ -13883,9 +13885,10 @@
     "91a579bbc09c74883e284d97": {
       "published_at": "2026-10-29T15:06:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12830,
       "title": "Hospital to celebrate 16th anniversary tomorrow",
-      "updated_at": "2026-10-29T15:29:56.086827+00:00",
+      "updated_at": "2026-10-29T15:30:07.966381+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/hospital-to-celebrate-16th-anniversary-tomorrow/article71640531.ece"
     },
     "91dd2c3062951b78af1f25a6": {
@@ -17837,9 +17840,10 @@
     "b8be5206965c132a802092c3": {
       "published_at": "2026-10-29T15:04:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12828,
       "title": "No transaction, no victim, no offence, says Karnataka HC quashing BDA’s allotment letter fraud case against five",
-      "updated_at": "2026-10-29T15:29:56.086807+00:00",
+      "updated_at": "2026-10-29T15:29:59.244514+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/no-transaction-no-victim-no-offence-says-karnataka-hc-quashing-bdas-allotment-letter-fraud-case-against-five/article71641206.ece"
     },
     "b8c62016bedda8a0011df725": {
@@ -25152,6 +25156,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:29:56.089758+00:00",
+  "last_cycle_at": "2026-10-29T15:30:15.302052+00:00",
   "schema_version": 1
 }
