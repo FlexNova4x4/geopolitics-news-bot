@@ -22939,9 +22939,10 @@
     "e56330af9098a49d14255397": {
       "published_at": "2026-10-29T17:14:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12933,
       "title": "West Bengal bars new teachers from contesting elections",
-      "updated_at": "2026-10-29T17:23:39.688234+00:00",
+      "updated_at": "2026-10-29T17:23:42.445864+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bars-new-teachers-from-contesting-elections/article71641671.ece"
     },
     "e58909561067843becf960cf": {
@@ -26073,6 +26074,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:23:39.691511+00:00",
+  "last_cycle_at": "2026-10-29T17:23:45.649265+00:00",
   "schema_version": 1
 }
