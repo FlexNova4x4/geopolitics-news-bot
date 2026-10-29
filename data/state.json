@@ -54,6 +54,14 @@
       "updated_at": "2026-10-27T13:44:35.668594+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-wins-national-awards-for-tourism-initiatives/article71630154.ece"
     },
+    "0062e747791d444561037856": {
+      "published_at": "2026-10-29T11:03:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Kodungaiyur incinerator plan faces renewed scrutiny over climate costs",
+      "updated_at": "2026-10-29T12:01:23.570234+00:00",
+      "url": "https://www.thehindu.com/news/cities/chennai/kodungaiyur-incinerator-plan-faces-renewed-scrutiny-over-climate-costs/article71639895.ece"
+    },
     "0063f394470c0b3ce470f3ca": {
       "published_at": "2026-10-29T04:30:08+00:00",
       "source": "dawn.com",
@@ -350,6 +358,14 @@
       "title": "Another worker succumbs to injuries in Vellore; cracker unit owner arrested",
       "updated_at": "2026-10-25T07:35:35.893613+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece"
+    },
+    "0360aa497854ba4d4205a7c3": {
+      "published_at": "2026-10-29T10:59:44+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Nobody should attend funerals of farmers who take their own lives: MLA Sanjay Gaikwad",
+      "updated_at": "2026-10-29T12:01:23.570218+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-mla-sanjay-gaikwad-urges-not-attending-farmer-suicides/article71639982.ece"
     },
     "0370e28db70ab174851a1d39": {
       "published_at": "2026-10-27T04:49:49+00:00",
@@ -5098,6 +5114,14 @@
       "title": "Stalin calls on DMK cadres to prepare to oust TVK-led government soon in Tamil Nadu",
       "updated_at": "2026-10-25T08:34:53.763027+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-calls-on-dmk-cadres-to-prepare-to-oust-tvk-led-government-soon-in-tamil-nadu/article71622737.ece"
+    },
+    "3b76747608aeed973fb88034": {
+      "published_at": "2026-10-29T11:04:05+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Can the UK afford more help with the cost of living?",
+      "updated_at": "2026-10-29T12:01:23.570238+00:00",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/29/can-the-uk-afford-more-help-with-the-cost-of-living?traffic_source=rss"
     },
     "3b85cdd2a0c40cd18603de7d": {
       "published_at": "2026-10-26T10:24:09+00:00",
@@ -18556,6 +18580,14 @@
       "updated_at": "2026-10-26T02:22:31.280759+00:00",
       "url": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece"
     },
+    "d07bd8d24db045c21f0c2ac5": {
+      "published_at": "2026-10-29T11:05:18+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Protest at India university where no students’ union vote held for 20 years",
+      "updated_at": "2026-10-29T12:01:23.570241+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss"
+    },
     "d0b2f32fda4086864b28b74f": {
       "published_at": "2026-10-26T10:47:17+00:00",
       "source": "publish.tribuneindia.com",
@@ -23257,6 +23289,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:01:12.532312+00:00",
+  "last_cycle_at": "2026-10-29T12:01:23.572824+00:00",
   "schema_version": 1
 }
