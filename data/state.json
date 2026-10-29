@@ -687,9 +687,10 @@
     "08c9328970d57d689da91a98": {
       "published_at": "2026-10-29T02:43:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12263,
       "title": "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month",
-      "updated_at": "2026-10-29T05:12:59.357227+00:00",
+      "updated_at": "2026-10-29T05:13:10.772933+00:00",
       "url": "https://www.thehindu.com/sci-tech/health/40-of-patients-at-nimhans-neurology-casualty-have-stroke-kmcri-in-hubbali-treats-120-cases-a-month/article71636352.ece"
     },
     "08d15d0a4ec86561e07bee5e": {
@@ -8289,9 +8290,10 @@
     "6e994b4c804d00f201315482": {
       "published_at": "2026-10-29T02:43:29+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12264,
       "title": "Israeli settlers savagely attack journalists in occupied West Bank",
-      "updated_at": "2026-10-29T05:12:59.357230+00:00",
+      "updated_at": "2026-10-29T05:13:14.675862+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss"
     },
     "6e9cf2331b193e7ad012378f": {
@@ -16217,9 +16219,10 @@
     "d2c719fadd1a83835da69e09": {
       "published_at": "2026-10-29T02:42:22+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12262,
       "title": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
-      "updated_at": "2026-10-29T05:12:59.357224+00:00",
+      "updated_at": "2026-10-29T05:13:06.851344+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss"
     },
     "d2dd9f9c51abf0cbee5e1257": {
@@ -18139,9 +18142,10 @@
     "eb90c6e8554a97e780e57dc5": {
       "published_at": "2026-10-29T02:37:04+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12261,
       "title": "Consumer protection regulator imposes ₹1 lakh fine on Sunrise Foods over ‘100% whole wheat bread’ claim",
-      "updated_at": "2026-10-29T05:12:59.357208+00:00",
+      "updated_at": "2026-10-29T05:13:02.750029+00:00",
       "url": "https://www.hindustantimes.com/india-news/consumer-protection-regulator-imposes-1-lakh-fine-on-sunrise-foods-over-100-whole-wheat-bread-claim-101793238842718.html"
     },
     "ebabd24cd98299557972ea38": {
@@ -20067,6 +20071,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:12:59.359268+00:00",
+  "last_cycle_at": "2026-10-29T05:13:17.878662+00:00",
   "schema_version": 1
 }
