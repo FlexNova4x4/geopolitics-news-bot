@@ -9835,9 +9835,10 @@
     "81f5b80b78bd50c0a840e1a4": {
       "published_at": "2026-10-29T02:27:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12244,
       "title": "Grant war injury pension to Kargil veteran: Top court",
-      "updated_at": "2026-10-29T04:40:33.989044+00:00",
+      "updated_at": "2026-10-29T04:40:49.825211+00:00",
       "url": "https://www.hindustantimes.com/india-news/grant-war-injury-pension-to-kargil-veteran-top-court-101793215343767.html"
     },
     "824da3df88156412c167f0e0": {
@@ -10212,9 +10213,10 @@
     "8640c2f0865fc80a1ea4fb0c": {
       "published_at": "2026-10-29T02:26:00+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12241,
       "title": "Foreign policy had to evolve after 1991 reforms: Jaishankar at NK Singh’s book launch",
-      "updated_at": "2026-10-29T04:40:33.989021+00:00",
+      "updated_at": "2026-10-29T04:40:37.694360+00:00",
       "url": "https://www.hindustantimes.com/india-news/foreign-policy-had-to-evolve-after-1991-reforms-jaishankar-at-nk-singh-s-book-launch-101793215223309.html"
     },
     "8668b0dd5cb4ceaa8001a83d": {
@@ -15785,9 +15787,10 @@
     "ce07e73f90e28b2798de19c1": {
       "published_at": "2026-10-29T02:26:30+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12242,
       "title": "Review permanent commission denial to woman Navy officer: SC",
-      "updated_at": "2026-10-29T04:40:33.989037+00:00",
+      "updated_at": "2026-10-29T04:40:41.811072+00:00",
       "url": "https://www.hindustantimes.com/india-news/review-permanent-commission-denial-to-woman-navy-officer-sc-101793215298979.html"
     },
     "ce6e9e29c1f44014c788c4b6": {
@@ -18490,9 +18493,10 @@
     "f0e6fffe89fddc3c89e23216": {
       "published_at": "2026-10-29T02:26:50+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12243,
       "title": "Data Protection Act will not affect Press freedom: Vaishnaw",
-      "updated_at": "2026-10-29T04:40:33.989041+00:00",
+      "updated_at": "2026-10-29T04:40:45.729432+00:00",
       "url": "https://www.tribuneindia.com/news/india/data-protection-act-will-not-affect-press-freedom-vaishnaw"
     },
     "f0f2bdaedd23cbff6ac859d3": {
@@ -19887,6 +19891,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:40:33.991173+00:00",
+  "last_cycle_at": "2026-10-29T04:40:53.028025+00:00",
   "schema_version": 1
 }
