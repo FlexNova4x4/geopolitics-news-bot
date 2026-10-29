@@ -3500,6 +3500,14 @@
       "updated_at": "2026-10-29T05:19:46.423001+00:00",
       "url": "https://www.dawn.com/news/2040660/5-killed-over-two-dozen-injured-in-bus-accident-in-punjabs-hafizabad"
     },
+    "21f9dea0beceea30de7fea06": {
+      "published_at": "2026-10-29T20:01:43+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Russian paraglider pilot hurt in Mandi crash",
+      "updated_at": "2026-10-29T20:22:46.600095+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/russian-paraglider-pilot-hurt-in-mandi-crash"
+    },
     "22544eff4b4072d64e64892a": {
       "published_at": "2026-10-29T14:57:14+00:00",
       "source": "publish.tribuneindia.com",
@@ -7682,6 +7690,14 @@
       "updated_at": "2026-10-25T16:17:00.717941+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/trained-108-ambulance-emts-to-provide-first-aid-for-eye-trauma/article71624067.ece"
     },
+    "4c48b2cc4cdfd7e381d5c0c3": {
+      "published_at": "2026-10-29T20:04:47+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal Pradesh Vidhan Sabha Speaker Kuldeep Singh Pathania seeks fair revenue share for state from Centre",
+      "updated_at": "2026-10-29T20:22:46.600118+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-pradesh-vidhan-sabha-speaker-kuldeep-singh-pathania-seeks-fair-revenue-share-for-state-from-centre"
+    },
     "4c4e5a526afeaab35fff8241": {
       "published_at": "2026-10-25T20:34:01+00:00",
       "source": "thehindu.com",
@@ -10698,6 +10714,14 @@
       "title": "6 years jail, ₹6 lakh aid: Supreme Court tells Uttar Pradesh to pay for ‘poor probe’ after man acquitted in murder case",
       "updated_at": "2026-10-27T01:41:23.079296+00:00",
       "url": "https://www.hindustantimes.com/india-news/6-years-jail-6-lakh-aid-supreme-court-tells-uttar-pradesh-to-pay-for-poor-probe-after-man-acquitted-in-murder-case-101793059137466.html"
+    },
+    "6a9e1f4905d4ca7175c14ac5": {
+      "published_at": "2026-10-29T20:05:57+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "updated_at": "2026-10-29T20:22:46.600123+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss"
     },
     "6abc77e0d1cf19bd88088b18": {
       "published_at": "2026-10-27T10:29:45+00:00",
@@ -19223,6 +19247,14 @@
       "updated_at": "2026-10-29T17:22:29.360445+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-get-two-reservoirs/article71641942.ece"
     },
+    "b9d884ed7512160d8e60c0f9": {
+      "published_at": "2026-10-29T20:04:18+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Tunnels nightmare for Shimla residents, enhance precarity",
+      "updated_at": "2026-10-29T20:22:46.600113+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/tunnels-nightmare-for-shimla-residents-enhance-precarity"
+    },
     "b9f51bfed272818e408aa895": {
       "published_at": "2026-10-27T01:16:08+00:00",
       "source": "thehindu.com",
@@ -26803,6 +26835,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:22:38.683912+00:00",
+  "last_cycle_at": "2026-10-29T20:22:46.602975+00:00",
   "schema_version": 1
 }
