@@ -1470,9 +1470,10 @@
     "0e6015c685f6c0e12d0ef95a": {
       "published_at": "2026-10-29T20:08:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13031,
       "title": "No govt job for those involved in regime-change violence: UP",
-      "updated_at": "2026-10-29T20:50:21.055362+00:00",
+      "updated_at": "2026-10-29T20:50:35.217016+00:00",
       "url": "https://www.tribuneindia.com/news/india/no-govt-job-for-those-involved-in-regime-change-violence-up"
     },
     "0e754f713a5963dfe6603523": {
@@ -2000,9 +2001,10 @@
     "1356be3bf8aaaa5e42215600": {
       "published_at": "2026-10-29T19:57:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13029,
       "title": "NHRC flags human rights concerns over parading of three persons in south Kolkata",
-      "updated_at": "2026-10-29T20:50:21.055356+00:00",
+      "updated_at": "2026-10-29T20:50:27.514897+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/nhrc-flags-human-rights-concerns-over-parading-of-three-persons-in-south-kolkata/article71641080.ece"
     },
     "135bf913908718e670af8c71": {
@@ -14225,9 +14227,10 @@
     "89e4f3c16a1b3d983b7c458f": {
       "published_at": "2026-10-29T19:31:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13028,
       "title": "‘Show me one Muslim minister at Centre, BJP-ruled States’: J&K Deputy CM",
-      "updated_at": "2026-10-29T20:50:21.055339+00:00",
+      "updated_at": "2026-10-29T20:50:23.808612+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/show-me-one-muslim-minister-at-centre-bjp-ruled-states-jk-deputy-cm/article71641468.ece"
     },
     "8a1c347515a5e0a409164165": {
@@ -20095,9 +20098,10 @@
     "c0cd082817a6c75ff44b6bee": {
       "published_at": "2026-10-29T20:04:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13030,
       "title": "Ready to share counter-terror expertise with ASEAN: Rajnath",
-      "updated_at": "2026-10-29T20:50:21.055360+00:00",
+      "updated_at": "2026-10-29T20:50:31.262119+00:00",
       "url": "https://www.tribuneindia.com/news/india/ready-to-share-counter-terror-expertise-with-asean-rajnath"
     },
     "c0e61b4eb4d33dd9b0bb080d": {
@@ -26934,6 +26938,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:50:21.058925+00:00",
+  "last_cycle_at": "2026-10-29T20:50:38.420547+00:00",
   "schema_version": 1
 }
