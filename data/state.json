@@ -3467,9 +3467,10 @@
     "214b5d3ac15d3503587a340d": {
       "published_at": "2026-10-29T21:32:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13058,
       "title": "Lahore world’s most polluted city as air pollution blamed for cutting life expectancy in Pakistan",
-      "updated_at": "2026-10-29T22:45:55.548467+00:00",
+      "updated_at": "2026-10-29T22:45:59.255945+00:00",
       "url": "https://www.tribuneindia.com/news/air-quality-index/lahore-worlds-most-polluted-city-as-air-pollution-blamed-for-cutting-life-expectancy-in-pakistan"
     },
     "2152eccc5f3a8c853d1f132e": {
@@ -5533,9 +5534,10 @@
     "3698ecb526be5c4630e30626": {
       "published_at": "2026-10-29T22:16:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13060,
       "title": "Trump administration attempts to take down leak of ICE personnel data",
-      "updated_at": "2026-10-29T22:45:55.548486+00:00",
+      "updated_at": "2026-10-29T22:46:06.965305+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss"
     },
     "36b5f46ed3bdc74083f77377": {
@@ -19296,9 +19298,10 @@
     "b884c124cf382ac2944f6de4": {
       "published_at": "2026-10-29T21:33:35+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13059,
       "title": "Young athlete and former minister among victims of Spain train crash",
-      "updated_at": "2026-10-29T22:45:55.548484+00:00",
+      "updated_at": "2026-10-29T22:46:03.021864+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
@@ -27187,6 +27190,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T22:45:55.550861+00:00",
+  "last_cycle_at": "2026-10-29T22:46:10.168169+00:00",
   "schema_version": 1
 }
