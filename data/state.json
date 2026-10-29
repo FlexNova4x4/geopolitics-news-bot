@@ -2010,9 +2010,10 @@
     "169c99515ee6b1e662c94d34": {
       "published_at": "2026-10-29T09:12:40+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12544,
       "title": "Brazilians split over Flavio Bolsonaro’s exit to US",
-      "updated_at": "2026-10-29T09:30:10.583305+00:00",
+      "updated_at": "2026-10-29T09:30:18.427100+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss"
     },
     "16abaaedfb08445d958b73d0": {
@@ -3070,9 +3071,10 @@
     "23ba9e605eb6bea2f20a6dcd": {
       "published_at": "2026-10-29T09:13:10+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12546,
       "title": "Second system intensifying over Bay of Bengal as cyclone ‘Arnab’ loses steam",
-      "updated_at": "2026-10-29T09:30:10.583312+00:00",
+      "updated_at": "2026-10-29T09:30:26.292063+00:00",
       "url": "https://www.hindustantimes.com/india-news/second-system-intensifying-over-bay-of-bengal-as-cyclone-arnab-loses-steam-101793263648150.html"
     },
     "23cbe0f671033e739a3fb962": {
@@ -11453,9 +11455,10 @@
     "8519e9b730b628d0bfec3cb0": {
       "published_at": "2026-10-29T09:12:53+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12545,
       "title": "Infantino criticism lands Jordan FA chief judicial review with AFC",
-      "updated_at": "2026-10-29T09:30:10.583309+00:00",
+      "updated_at": "2026-10-29T09:30:22.372129+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss"
     },
     "852b030c5bbfb220c5aeb5fe": {
@@ -11821,9 +11824,10 @@
     "8820f24ec9afb12498895f2c": {
       "published_at": "2026-10-29T09:12:27+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12543,
       "title": "Messi and Inter Miami fail to fire as late goal earns Cincinnati a draw",
-      "updated_at": "2026-10-29T09:30:10.583290+00:00",
+      "updated_at": "2026-10-29T09:30:14.470812+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/messi-and-inter-miami-fail-to-fire-as-late-goal-netted-in-cincinnati-draw?traffic_source=rss"
     },
     "88511649eed7544cb44ff0ac": {
@@ -22596,6 +22600,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:30:10.585656+00:00",
+  "last_cycle_at": "2026-10-29T09:30:29.494757+00:00",
   "schema_version": 1
 }
