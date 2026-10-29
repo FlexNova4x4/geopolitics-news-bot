@@ -4379,6 +4379,14 @@
       "updated_at": "2026-10-25T15:14:54.395793+00:00",
       "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/researchers-secure-patent-for-automated-homeopathy-medicine-dispenser/article71623451.ece"
     },
+    "301fd8a98aa035d8080f0fe9": {
+      "published_at": "2026-10-29T14:28:25+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "World Stroke Day observed in Mysuru",
+      "updated_at": "2026-10-29T15:22:49.574636+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/world-stroke-day-observed-in-mysuru/article71641090.ece"
+    },
     "3035281a270c7c6841d4f764": {
       "published_at": "2026-10-27T05:04:49+00:00",
       "source": "amarujala.com",
@@ -4765,6 +4773,14 @@
       "title": "वीडियो: करवाचौथ पर बाजार में खराब माैसम के कारण कम रही आवाजाही",
       "updated_at": "2026-10-29T11:01:07.822454+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-low-footfall-in-markets-on-karwa-chauth-due-to-bad-weather-2026-10-29"
+    },
+    "3495d6de527e056e2810bb33": {
+      "published_at": "2026-10-29T14:25:16+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "As US midterms approach, farmers decide what to plant and how to vote",
+      "updated_at": "2026-10-29T15:22:49.574633+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote?traffic_source=rss"
     },
     "3499ac59864dbf3cd0ccf248": {
       "published_at": "2026-10-25T07:04:24+00:00",
@@ -5278,6 +5294,14 @@
       "title": "India rejects laws affecting national sovereignty; votes at UN against US embargo on Cuba",
       "updated_at": "2026-10-29T04:17:42.478447+00:00",
       "url": "https://www.tribuneindia.com/news/cuba-fuel-restrictions/india-rejects-laws-affecting-national-sovereignty-votes-at-un-against-us-embargo-on-cuba"
+    },
+    "39fd3dda52dab0eeabf579e0": {
+      "published_at": "2026-10-29T14:21:04+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "DRM inspects Shivamogga-Talaguppa railway section",
+      "updated_at": "2026-10-29T15:22:49.574630+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/drm-inspects-shivamogga-talaguppa-railway-section/article71640893.ece"
     },
     "3a1848b68d0a30ff13abf2c0": {
       "published_at": "2026-10-25T03:40:52+00:00",
@@ -16002,6 +16026,14 @@
       "updated_at": "2026-10-27T10:34:49.308380+00:00",
       "url": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece"
     },
+    "aa2db4cc566489ca035772b5": {
+      "published_at": "2026-10-29T14:19:55+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "People shunned Jagan’s intimidation tactics: Minister",
+      "updated_at": "2026-10-29T15:22:49.574615+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/people-shunned-jagans-intimidation-tactics-minister/article71640381.ece"
+    },
     "aa47eade2126e1bfd3596dde": {
       "published_at": "2026-10-26T05:15:53+00:00",
       "source": "dawn.com",
@@ -24796,6 +24828,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:22:37.130075+00:00",
+  "last_cycle_at": "2026-10-29T15:22:49.577291+00:00",
   "schema_version": 1
 }
