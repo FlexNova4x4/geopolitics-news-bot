@@ -729,6 +729,14 @@
       "updated_at": "2026-10-25T16:14:41.559825+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/no-need-to-fear-losing-power-by-visiting-chamarajanagar-shivakumar/article71623094.ece"
     },
+    "078a75e14aa26beffc7f0fc0": {
+      "published_at": "2026-10-29T13:06:46+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Himachal HC directs NHAI to stop work on Sanjauli twin tunnel, questions Rs 600-crore loss",
+      "updated_at": "2026-10-29T14:02:43.840274+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-hc-directs-nhai-to-stop-work-on-sanjauli-twin-tunnel-questions-rs-600-crore-loss"
+    },
     "078fe5fba6abea72afd59086": {
       "published_at": "2026-10-29T07:31:22+00:00",
       "source": "hindustantimes.com",
@@ -17099,6 +17107,14 @@
       "updated_at": "2026-10-27T17:11:31.764281+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss"
     },
+    "b8775f7c1558df8e1b7df217": {
+      "published_at": "2026-10-29T13:15:14+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Men pulled from vehicle stranded by floods in Syria",
+      "updated_at": "2026-10-29T14:02:43.840293+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss"
+    },
     "b88ec3378b5dd2cdf5f34ac6": {
       "published_at": "2026-10-25T11:17:24+00:00",
       "source": "thehindu.com",
@@ -17665,6 +17681,14 @@
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
       "updated_at": "2026-10-26T22:41:01.323069+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+    },
+    "be3910f3dfb213d3a79bd239": {
+      "published_at": "2026-10-29T13:12:20+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Delhi's Jantar Mantar added as venue for Indian Biennale 2026",
+      "updated_at": "2026-10-29T14:02:43.840289+00:00",
+      "url": "https://www.hindustantimes.com/india-news/delhi-jantar-mantar-added-as-venue-for-indian-biennale-2026-101793278787855.html"
     },
     "be3b35495768a628df6e3a26": {
       "published_at": "2026-10-25T14:05:22+00:00",
@@ -22981,6 +23005,14 @@
       "updated_at": "2026-10-26T06:23:03.180210+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhis-min-temp-drops-to-season-s-lowest-16-2-c-air-quality-slips-to-178-101792994202120.html"
     },
+    "f4773f852c60ce284ece1083": {
+      "published_at": "2026-10-29T13:15:16+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India’s first home-grown insecticide molecule Pioxaniliprole to hit market this Rabi season",
+      "updated_at": "2026-10-29T14:02:43.840297+00:00",
+      "url": "https://www.tribuneindia.com/news/india/indias-first-home-grown-insecticide-molecule-pioxaniliprole-to-hit-market-this-rabi-season"
+    },
     "f47f8fa2fb575697d446d383": {
       "published_at": "2026-10-29T06:19:37+00:00",
       "source": "hindustantimes.com",
@@ -24220,6 +24252,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:02:15.607671+00:00",
+  "last_cycle_at": "2026-10-29T14:02:43.843153+00:00",
   "schema_version": 1
 }
