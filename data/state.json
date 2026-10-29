@@ -8846,9 +8846,10 @@
     "77af6df052da83c229a112b9": {
       "published_at": "2026-10-28T22:32:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12189,
       "title": "Pro-Netanyahu bloc leading Israel election with 53 seats as 90% of votes counted",
-      "updated_at": "2026-10-29T04:20:31.442212+00:00",
+      "updated_at": "2026-10-29T04:20:35.116691+00:00",
       "url": "https://www.tribuneindia.com/news/world/pro-netanyahu-bloc-leading-israel-election-with-53-seats-as-90-of-votes-counted"
     },
     "77bd5876ab21d0d78fabe22d": {
@@ -11094,9 +11095,10 @@
     "95449db266d3ea50ef521ae6": {
       "published_at": "2026-10-28T23:07:13+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12191,
       "title": "Flavio Bolsonaro claims he’s Brazil’s “elected president” after fleeing to US; Trump says he “won’t get involved”",
-      "updated_at": "2026-10-29T04:20:31.442231+00:00",
+      "updated_at": "2026-10-29T04:20:43.098517+00:00",
       "url": "https://www.tribuneindia.com/news/bolsonaro-claims-presidency/flavio-bolsonaro-claims-hes-brazils-elected-president-after-fleeing-to-us-trump-says-he-wont-get-involved"
     },
     "95695fd4f9f797a4252cb692": {
@@ -15164,9 +15166,10 @@
     "cb5286c761ef1de3c4045568": {
       "published_at": "2026-10-28T22:34:51+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12190,
       "title": "UN experts sound alarm at excessive use of force in French student protests",
-      "updated_at": "2026-10-29T04:20:31.442228+00:00",
+      "updated_at": "2026-10-29T04:20:39.181068+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss"
     },
     "cb69f01837fe6e170f43fe8b": {
@@ -17689,9 +17692,10 @@
     "ecf08b317d648a9b10b2ae78": {
       "published_at": "2026-10-28T23:30:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12192,
       "title": "हिमाचल हाईकोर्ट: विद्युत नियामक आयोग के चेयरमैन की चयन प्रक्रिया रद्द करना असांविधानिक",
-      "updated_at": "2026-10-29T04:20:31.442235+00:00",
+      "updated_at": "2026-10-29T04:20:47.024661+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/high-court-cancelling-the-selection-process-for-the-electricity-regulatory-commission-chairman-is-unconstitu-2026-10-28"
     },
     "ecfa72bd109e809fa70c5c3e": {
@@ -19419,6 +19423,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:20:31.444265+00:00",
+  "last_cycle_at": "2026-10-29T04:20:50.227419+00:00",
   "schema_version": 1
 }
