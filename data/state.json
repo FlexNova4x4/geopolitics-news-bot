@@ -5516,9 +5516,10 @@
     "4c0f284559bd9c4462fa44e7": {
       "published_at": "2026-10-29T01:49:28+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12220,
       "title": "DJB likely to tap contaminated groundwater to bridge Delhi’s supply gap",
-      "updated_at": "2026-10-29T04:24:10.469377+00:00",
+      "updated_at": "2026-10-29T04:24:25.805612+00:00",
       "url": "https://www.hindustantimes.com/india-news/djb-likely-to-tap-contaminated-groundwater-to-bridge-delhi-s-supply-gap-101793238569368.html"
     },
     "4c4507b441e36f8a51901405": {
@@ -8064,9 +8065,10 @@
     "6d962f00d1a089eff2ca89d8": {
       "published_at": "2026-10-29T01:48:45+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12219,
       "title": "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
-      "updated_at": "2026-10-29T04:24:10.469372+00:00",
+      "updated_at": "2026-10-29T04:24:21.884755+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/unmarried-rural-youth-in-maharashtra-plan-statewide-stir-for-govt-help-in-getting-brides/article71637249.ece"
     },
     "6ddf9eb8fc22e7e632a37c51": {
@@ -13833,9 +13835,10 @@
     "b75cd498db133f58e8662f36": {
       "published_at": "2026-10-29T01:31:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12218,
       "title": "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young",
-      "updated_at": "2026-10-29T04:24:10.469365+00:00",
+      "updated_at": "2026-10-29T04:24:17.979549+00:00",
       "url": "https://www.thehindu.com/data/karnataka-sir-645-lakh-voters-potentially-missing-in-rolls-majority-of-them-young/article71638758.ece"
     },
     "b766d65102273425cad06721": {
@@ -14597,9 +14600,10 @@
     "c006691cd9aea36378eb2331": {
       "published_at": "2026-10-29T01:29:44+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12217,
       "title": "Supreme Court questions Election Commission on use of Form 6, ‘logical discrepancy’ notices to voters amid SIR",
-      "updated_at": "2026-10-29T04:24:10.469346+00:00",
+      "updated_at": "2026-10-29T04:24:14.012034+00:00",
       "url": "https://www.hindustantimes.com/india-news/supreme-court-election-commission-form-6-sir-special-intensive-revision-of-electoral-rolls-logical-discrepancy-notices-101793233435159.html"
     },
     "c00a918554fe1ba0d5d68e94": {
@@ -19671,6 +19675,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:24:10.471346+00:00",
+  "last_cycle_at": "2026-10-29T04:24:29.008184+00:00",
   "schema_version": 1
 }
