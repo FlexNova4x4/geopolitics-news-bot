@@ -1017,6 +1017,14 @@
       "updated_at": "2026-10-27T09:34:28.280381+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-shoghi-police-seize-heroin-worth-six-crore-2026-10-27"
     },
+    "09afdb3dc72a198aa0760a09": {
+      "published_at": "2026-10-29T16:38:10+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India, Armenia review bilateral ties during Foreign Office Consultations: MEA",
+      "updated_at": "2026-10-29T16:57:30.494669+00:00",
+      "url": "https://www.tribuneindia.com/news/bilateral-trade/india-armenia-review-bilateral-ties-during-foreign-office-consultations-mea"
+    },
     "09bc2b129d603bed1e3794ac": {
       "published_at": "2026-10-28T19:37:17+00:00",
       "source": "publish.tribuneindia.com",
@@ -2123,6 +2131,14 @@
       "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
       "updated_at": "2026-10-25T22:00:35.419759+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
+    },
+    "15e5d16c9bb68c99b214d3d6": {
+      "published_at": "2026-10-29T16:37:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court strikes down Karnataka law validating ‘corrupt’ 2011 recruitment",
+      "updated_at": "2026-10-29T16:57:30.494663+00:00",
+      "url": "https://www.thehindu.com/news/national/supreme-court-strikes-down-karnataka-law-validating-corrupt-2011-recruitment/article71641638.ece"
     },
     "16096f0dc25490e677420adf": {
       "published_at": "2026-10-25T07:34:24+00:00",
@@ -11426,6 +11442,14 @@
       "updated_at": "2026-10-27T12:13:05.276377+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-students-in-parchhod-received-training-on-firefighting-and-disaster-management-2026-10-27"
     },
+    "75feb9d3478ee9dd3e9e15d9": {
+      "published_at": "2026-10-29T16:37:27+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Telangana sends 2K staff, material to A.P. for power supply restoration work",
+      "updated_at": "2026-10-29T16:57:30.494649+00:00",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece"
+    },
     "7600d68bb96e0b6262de678e": {
       "published_at": "2026-10-27T02:12:13+00:00",
       "source": "amarujala.com",
@@ -19627,6 +19651,14 @@
       "updated_at": "2026-10-29T05:14:39.767706+00:00",
       "url": "https://www.dawn.com/news/2040582/ulema-back-decree-against-terrorism-in-religions-name"
     },
+    "c572a1657c140bf3dd963dfe": {
+      "published_at": "2026-10-29T16:38:03+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Iran declares Strait of Hormuz closed as army reports tanker fire following naval mine strike",
+      "updated_at": "2026-10-29T16:57:30.494666+00:00",
+      "url": "https://www.tribuneindia.com/news/centcom/iran-declares-strait-of-hormuz-closed-as-army-reports-tanker-fire-following-naval-mine-strike"
+    },
     "c57933eeae4e71d3ef3462c0": {
       "published_at": "2026-10-27T19:16:46+00:00",
       "source": "thehindu.com",
@@ -25804,6 +25836,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:56:52.065202+00:00",
+  "last_cycle_at": "2026-10-29T16:57:30.497615+00:00",
   "schema_version": 1
 }
