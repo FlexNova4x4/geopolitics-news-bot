@@ -5219,9 +5219,10 @@
     "401186e0123678f277afecad": {
       "published_at": "2026-10-29T08:06:25+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12504,
       "title": "Legal opinion just advisory, not binding; can’t prosecute lawyers for it: Patna high court",
-      "updated_at": "2026-10-29T08:44:54.744502+00:00",
+      "updated_at": "2026-10-29T08:45:02.360073+00:00",
       "url": "https://www.hindustantimes.com/india-news/legal-opinion-just-advisory-not-binding-can-t-prosecute-lawyers-for-it-patna-high-court-101793259718322.html"
     },
     "40439d5cdc53f9fc9dea8b4c": {
@@ -12147,9 +12148,10 @@
     "8e7af45add35f5a756a2bca0": {
       "published_at": "2026-10-29T08:07:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12505,
       "title": "BNM’s Human Rights Department condemns reported eviction order affecting 30,000 people in Balochistan",
-      "updated_at": "2026-10-29T08:44:54.744506+00:00",
+      "updated_at": "2026-10-29T08:45:06.515830+00:00",
       "url": "https://www.tribuneindia.com/news/ancestral-lands/bnms-human-rights-department-condemns-reported-eviction-order-affecting-30000-people-in-balochistan"
     },
     "8e8a2e3db301ba421eae0b63": {
@@ -19131,9 +19133,10 @@
     "dfadf9399645d33a2ad434fe": {
       "published_at": "2026-10-29T08:04:48+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12503,
       "title": "Death toll from Thar ambulance fire rises to nine: district official",
-      "updated_at": "2026-10-29T08:44:54.744486+00:00",
+      "updated_at": "2026-10-29T08:44:58.402034+00:00",
       "url": "https://www.dawn.com/news/2040672/death-toll-from-thar-ambulance-fire-rises-to-nine-district-official"
     },
     "e02764594c758da8f812bc5f": {
@@ -21467,9 +21470,10 @@
     "f8230aac7498fa8cb085293c": {
       "published_at": "2026-10-29T08:07:23+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12506,
       "title": "World Ughyr Congress urges German President to raise community’s rights concerns during China visit",
-      "updated_at": "2026-10-29T08:44:54.744509+00:00",
+      "updated_at": "2026-10-29T08:45:10.475719+00:00",
       "url": "https://www.tribuneindia.com/news/china-visit/world-ughyr-congress-urges-german-president-to-raise-communitys-rights-concerns-during-china-visit"
     },
     "f844d6e4d9c58ea3d5d8d3a9": {
@@ -22236,6 +22240,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:44:54.746811+00:00",
+  "last_cycle_at": "2026-10-29T08:45:13.678859+00:00",
   "schema_version": 1
 }
