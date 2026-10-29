@@ -1467,6 +1467,14 @@
       "updated_at": "2026-10-26T07:13:53.523368+00:00",
       "url": "https://www.tribuneindia.com/news/brics-countries/pm-modi-arrives-at-inauguration-of-12th-brics-parliamentary-forum-welcomes-foreign-delegations"
     },
+    "0e6015c685f6c0e12d0ef95a": {
+      "published_at": "2026-10-29T20:08:07+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "No govt job for those involved in regime-change violence: UP",
+      "updated_at": "2026-10-29T20:50:21.055362+00:00",
+      "url": "https://www.tribuneindia.com/news/india/no-govt-job-for-those-involved-in-regime-change-violence-up"
+    },
     "0e754f713a5963dfe6603523": {
       "published_at": "2026-10-29T13:02:16+00:00",
       "source": "publish.tribuneindia.com",
@@ -1988,6 +1996,14 @@
       "title": "Delays in resolving land-related issues will not be tolerated: Ponguleti",
       "updated_at": "2026-10-27T13:44:43.453328+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/delays-in-resolving-land-related-issues-will-not-be-tolerated-ponguleti/article71631654.ece"
+    },
+    "1356be3bf8aaaa5e42215600": {
+      "published_at": "2026-10-29T19:57:12+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+      "updated_at": "2026-10-29T20:50:21.055356+00:00",
+      "url": "https://www.thehindu.com/news/national/west-bengal/nhrc-flags-human-rights-concerns-over-parading-of-three-persons-in-south-kolkata/article71641080.ece"
     },
     "135bf913908718e670af8c71": {
       "published_at": "2026-10-24T21:17:02+00:00",
@@ -14206,6 +14222,14 @@
       "updated_at": "2026-10-27T03:42:35.572881+00:00",
       "url": "https://www.dawn.com/news/2040071/national-assembly-passes-seven-bills-amid-sparse-attendance"
     },
+    "89e4f3c16a1b3d983b7c458f": {
+      "published_at": "2026-10-29T19:31:11+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "‘Show me one Muslim minister at Centre, BJP-ruled States’: J&K Deputy CM",
+      "updated_at": "2026-10-29T20:50:21.055339+00:00",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/show-me-one-muslim-minister-at-centre-bjp-ruled-states-jk-deputy-cm/article71641468.ece"
+    },
     "8a1c347515a5e0a409164165": {
       "published_at": "2026-10-27T13:02:07+00:00",
       "source": "publish.tribuneindia.com",
@@ -20067,6 +20091,14 @@
       "title": "Himachal’s power policy may add Rs 550 crore to electricity board bill",
       "updated_at": "2026-10-26T22:41:48.620731+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachals-power-policy-may-add-550-crore-to-electricity-board-bill"
+    },
+    "c0cd082817a6c75ff44b6bee": {
+      "published_at": "2026-10-29T20:04:30+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Ready to share counter-terror expertise with ASEAN: Rajnath",
+      "updated_at": "2026-10-29T20:50:21.055360+00:00",
+      "url": "https://www.tribuneindia.com/news/india/ready-to-share-counter-terror-expertise-with-asean-rajnath"
     },
     "c0e61b4eb4d33dd9b0bb080d": {
       "published_at": "2026-10-27T10:52:15+00:00",
@@ -26902,6 +26934,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:23:48.121010+00:00",
+  "last_cycle_at": "2026-10-29T20:50:21.058925+00:00",
   "schema_version": 1
 }
