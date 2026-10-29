@@ -3960,9 +3960,10 @@
     "2f45ec71fb3078c2a2ec9639": {
       "published_at": "2026-10-29T08:56:56+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12540,
       "title": "Spanish rescuers search trains in hope of finding survivors of deadly crash that killed 68",
-      "updated_at": "2026-10-29T09:29:39.282508+00:00",
+      "updated_at": "2026-10-29T09:29:47.085075+00:00",
       "url": "https://www.tribuneindia.com/news/world/spanish-rescuers-search-trains-in-hope-of-finding-survivors-of-deadly-crash-that-killed-68"
     },
     "2f70aa3bb68fef0a7c7da092": {
@@ -12588,9 +12589,10 @@
     "927aa9df16c839344f3ccc6e": {
       "published_at": "2026-10-29T08:38:54+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12539,
       "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "updated_at": "2026-10-29T09:29:39.282489+00:00",
+      "updated_at": "2026-10-29T09:29:43.131444+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
     },
     "928f636cc301831be6854c23": {
@@ -13190,9 +13192,10 @@
     "994d4115cdfa44c1933c70c7": {
       "published_at": "2026-10-29T09:06:38+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12542,
       "title": "Photos: Aftermath of deadly Cyclone Arnab in southern India",
-      "updated_at": "2026-10-29T09:29:39.282520+00:00",
+      "updated_at": "2026-10-29T09:29:55.145493+00:00",
       "url": "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss"
     },
     "9954f94ee7db8817c8546444": {
@@ -19382,9 +19385,10 @@
     "dfc40f7163d06368a9b75e0b": {
       "published_at": "2026-10-29T08:58:02+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12541,
       "title": "Israel: Eisenkot says “forbidden to allow political actors to exploit situation” as Shin Bet probes alleged electoral fraud",
-      "updated_at": "2026-10-29T09:29:39.282515+00:00",
+      "updated_at": "2026-10-29T09:29:51.050090+00:00",
       "url": "https://www.tribuneindia.com/news/bezalel-smotrich/israel-eisenkot-says-forbidden-to-allow-political-actors-to-exploit-situation-as-shin-bet-probes-alleged-electoral-fraud"
     },
     "e02764594c758da8f812bc5f": {
@@ -22560,6 +22564,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:29:39.285027+00:00",
+  "last_cycle_at": "2026-10-29T09:29:58.348188+00:00",
   "schema_version": 1
 }
