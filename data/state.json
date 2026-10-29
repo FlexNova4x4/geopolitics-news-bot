@@ -2558,9 +2558,10 @@
     "1fde87a12af5a1c51dbe9ba7": {
       "published_at": "2026-10-29T06:30:20+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12399,
       "title": "Chennai Metro Rail misses deadline yet again, 6 stations on Arcot Road to open in March 2027",
-      "updated_at": "2026-10-29T06:42:29.928425+00:00",
+      "updated_at": "2026-10-29T06:42:45.702788+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-rail-misses-deadline-yet-again-6-stations-on-arcot-road-to-open-in-march-2027/article71636262.ece"
     },
     "1fdfc2574c88fdd8d0262764": {
@@ -7347,9 +7348,10 @@
     "5c8932607b4c014b55d9e1e0": {
       "published_at": "2026-10-29T06:29:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12398,
       "title": "Opposition leaders, activists urge SEC to delay Bengal civic polls till SSR to enrol voters is complete",
-      "updated_at": "2026-10-29T06:42:29.928422+00:00",
+      "updated_at": "2026-10-29T06:42:41.554845+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/opposition-leaders-activists-urge-sec-to-delay-bengal-civic-polls-till-ssr-to-enrol-voters-is-complete/article71636241.ece"
     },
     "5ca4797808088b5185fc2e14": {
@@ -16073,9 +16075,10 @@
     "c2723e3128ccf07a0ab837f3": {
       "published_at": "2026-10-29T06:27:06+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12396,
       "title": "Pete Hegseth removes top Pentagon planning officer as US mulls fresh strike on Iran",
-      "updated_at": "2026-10-29T06:42:29.928403+00:00",
+      "updated_at": "2026-10-29T06:42:33.554292+00:00",
       "url": "https://www.tribuneindia.com/news/brett-sylvia/pete-hegseth-removes-top-pentagon-planning-officer-as-us-mulls-fresh-strike-on-iran"
     },
     "c29a39126f667d71275d0ab1": {
@@ -19597,9 +19600,10 @@
     "eefc66752d71671e2ad57287": {
       "published_at": "2026-10-29T06:27:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12397,
       "title": "Old rice stocks dominate inventories, prices cannot be increased abnormally: Telangana officials to millers",
-      "updated_at": "2026-10-29T06:42:29.928418+00:00",
+      "updated_at": "2026-10-29T06:42:37.463178+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/old-rice-stocks-dominate-inventories-prices-cannot-be-increased-abnormally-telangana-officials-to-millers/article71637415.ece"
     },
     "ef08eadbad65b1df6aff2271": {
@@ -21282,6 +21286,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:42:29.930767+00:00",
+  "last_cycle_at": "2026-10-29T06:42:48.905835+00:00",
   "schema_version": 1
 }
