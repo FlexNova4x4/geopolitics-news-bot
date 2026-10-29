@@ -1227,9 +1227,10 @@
     "0c8d4d1242c93e6eaa74bcfe": {
       "published_at": "2026-10-29T13:37:11+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12751,
       "title": "BJP losing ground in its top leaders’ strongholds, says TPCC chief",
-      "updated_at": "2026-10-29T14:30:50.884045+00:00",
+      "updated_at": "2026-10-29T14:31:06.918990+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/bjp-losing-ground-in-its-top-leaders-strongholds-says-tpcc-chief/article71640450.ece"
     },
     "0c9bfa84560fa0a2ff1aa487": {
@@ -2638,9 +2639,10 @@
     "1c8b6c85e08f31432c7b90e0": {
       "published_at": "2026-10-29T13:37:09+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12750,
       "title": "Sevadhi Museum, Tamil Nadu varsity join hands to preserve manuscript heritage",
-      "updated_at": "2026-10-29T14:30:50.884041+00:00",
+      "updated_at": "2026-10-29T14:31:02.967681+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/sevadhi-museum-tamil-nadu-varsity-join-hands-to-preserve-manuscript-heritage/article71640466.ece"
     },
     "1cbc5f3c242bd3a279684cdd": {
@@ -5532,9 +5534,10 @@
     "3d5f896a36254f163a58a715": {
       "published_at": "2026-10-29T02:22:22+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12749,
       "title": "हादसा: मंडी के झटिंगरी में पैराग्लाइडर क्रैश, रूसी महिला पायलट घायल, रेस्क्यू कर पहुंचाई अस्पताल",
-      "updated_at": "2026-10-29T14:30:50.884038+00:00",
+      "updated_at": "2026-10-29T14:30:58.794422+00:00",
       "url": "https://www.amarujala.com/shimla/paraglider-crashes-in-jhatingri-mandi-russian-woman-injured-2026-10-29"
     },
     "3d6005f96d36da2590fd926b": {
@@ -15471,9 +15474,10 @@
     "a6be17e243c84004c1562ccf": {
       "published_at": "2026-10-29T02:15:43+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12748,
       "title": "राजनीति: जयराम ठाकुर बोले- घुसपैठियों के समर्थन में एसआईआर का विरोध कर रही कांग्रेस",
-      "updated_at": "2026-10-29T14:30:50.884022+00:00",
+      "updated_at": "2026-10-29T14:30:54.700809+00:00",
       "url": "https://www.amarujala.com/shimla/politics-jairam-thakur-says-congress-is-opposing-the-sir-in-support-of-infiltrators-2026-10-29"
     },
     "a6c72958e75705ee1edb735c": {
@@ -24432,6 +24436,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:30:50.887099+00:00",
+  "last_cycle_at": "2026-10-29T14:31:10.122308+00:00",
   "schema_version": 1
 }
