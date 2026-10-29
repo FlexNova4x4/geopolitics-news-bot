@@ -7428,6 +7428,14 @@
       "updated_at": "2026-10-26T13:35:18.419078+00:00",
       "url": "https://www.thehindu.com/news/national/congress-leader-seeks-action-against-chief-secretaries-of-six-states-for-skipping-pac-hearing/article71620836.ece"
     },
+    "54010e89ed3e735dab04e829": {
+      "published_at": "2026-10-29T12:56:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SC calls for mandatory compensation to digital fraud victims in case of banks' due diligence",
+      "updated_at": "2026-10-29T13:03:45.666678+00:00",
+      "url": "https://www.thehindu.com/news/national/sc-calls-for-mandatory-compensation-to-digital-fraud-victims-in-case-of-banks-due-diligence/article71640230.ece"
+    },
     "541dfa9668483852d398f92c": {
       "published_at": "2026-10-26T01:02:57+00:00",
       "source": "aljazeera.com",
@@ -9188,6 +9196,14 @@
       "updated_at": "2026-10-27T09:34:32.222553+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-hrtc-retired-employees-indefinite-protest-from-november-3-pending-dues-2026-10-27"
     },
+    "672e5b7d54da476a223c90cd": {
+      "published_at": "2026-10-29T12:37:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Supreme Court refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’",
+      "updated_at": "2026-10-29T13:03:45.666658+00:00",
+      "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-order-full-public-disclosure-of-ultimate-beneficiaries-of-aifs-fpis-without-legal-framework/article71639833.ece"
+    },
     "678653f20fa6e9d1577ed4a2": {
       "published_at": "2026-10-25T05:52:31+00:00",
       "source": "thehindu.com",
@@ -9645,6 +9661,14 @@
       "title": "Punjab CM announces establishment of Apna Kisan Bank",
       "updated_at": "2026-10-29T05:41:08.932288+00:00",
       "url": "https://www.dawn.com/news/2040610/punjab-cm-announces-establishment-of-apna-kisan-bank"
+    },
+    "6c2242e4c7771a065afcc3ff": {
+      "published_at": "2026-10-29T12:42:11+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Afghan farmers pushed to opium farming to make a living",
+      "updated_at": "2026-10-29T13:03:45.666674+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/title-afghan-farmers-pushed-to-opium-farming-to-make-a-living?traffic_source=rss"
     },
     "6c3b09553835ab9a88c857d3": {
       "published_at": "2026-10-28T23:42:45+00:00",
@@ -23869,6 +23893,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:03:32.204424+00:00",
+  "last_cycle_at": "2026-10-29T13:03:45.669267+00:00",
   "schema_version": 1
 }
