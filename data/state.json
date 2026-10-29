@@ -1380,9 +1380,10 @@
     "0d4db873c01e1b8b1c72e5e8": {
       "published_at": "2026-10-29T19:55:58+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13011,
       "title": "Mandi college students raise mental health awareness through street play",
-      "updated_at": "2026-10-29T20:21:55.979070+00:00",
+      "updated_at": "2026-10-29T20:22:06.605937+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandi-college-students-raise-mental-health-awareness-through-street-play"
     },
     "0d6e7115fcf52b6ae3305b50": {
@@ -11151,9 +11152,10 @@
     "6e874ea0ac3696b43ccd3eae": {
       "published_at": "2026-10-29T19:53:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13009,
       "title": "Norah Richards’ 150th birth anniv celebrated at Andretta",
-      "updated_at": "2026-10-29T20:21:55.979046+00:00",
+      "updated_at": "2026-10-29T20:21:58.896051+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/norah-richards-150th-birth-anniv-celebrated-at-andretta"
     },
     "6e97311fe0ae679fefffb30b": {
@@ -12237,9 +12239,10 @@
     "784c5f84e7f6c7b00239e76d": {
       "published_at": "2026-10-29T19:56:39+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13012,
       "title": "Mamata calls for united Opposition front ahead of Nov 1 rally",
-      "updated_at": "2026-10-29T20:21:55.979075+00:00",
+      "updated_at": "2026-10-29T20:22:10.544710+00:00",
       "url": "https://www.tribuneindia.com/news/india/mamata-calls-for-united-opposition-front-ahead-of-nov-1-rally"
     },
     "78846d46efd7e027311eead4": {
@@ -19745,9 +19748,10 @@
     "bfa7ccef28468e2e1a94f16f": {
       "published_at": "2026-10-29T19:55:47+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13010,
       "title": "BJP dominates MLC elections but loses Modi, RSS turfs to SP, Cong",
-      "updated_at": "2026-10-29T20:21:55.979064+00:00",
+      "updated_at": "2026-10-29T20:22:02.653573+00:00",
       "url": "https://www.tribuneindia.com/news/india/bjp-dominates-mlc-elections-but-loses-modi-rss-turfs-to-sp-cong"
     },
     "bfce183922a915727815ec34": {
@@ -26763,6 +26767,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:21:55.981835+00:00",
+  "last_cycle_at": "2026-10-29T20:22:13.748232+00:00",
   "schema_version": 1
 }
