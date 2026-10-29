@@ -6191,9 +6191,10 @@
     "50acfc761dd70f566bd842ea": {
       "published_at": "2026-10-29T05:39:58+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12362,
       "title": "सोलन: त्योहारों में खाद्य पदार्थों से लापरवाही पर फटकार, खुले में मिठाई बेचने पर दुकान बंद करने की चेतावनी",
-      "updated_at": "2026-10-29T06:11:23.905824+00:00",
+      "updated_at": "2026-10-29T06:11:27.415895+00:00",
       "url": "https://www.amarujala.com/video-shots/himachal-pradesh/solan/video-solan-food-safety-inspection-festival-sweets-warning-2026-10-29"
     },
     "50c03be605f659669387e11d": {
@@ -13691,9 +13692,10 @@
     "aac495bda801d77a6a40b2cf": {
       "published_at": "2026-10-29T05:42:23+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12364,
       "title": "Jharkhand youth jailed in UAE, family seeks Government help for his return",
-      "updated_at": "2026-10-29T06:11:23.905854+00:00",
+      "updated_at": "2026-10-29T06:11:35.672067+00:00",
       "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-youth-jailed-in-dubai-for-four-months-family-seeks-indian-government-help-to-secure-his-return/article71639118.ece"
     },
     "aad5a01d7fc6de7b00e1bb87": {
@@ -14571,9 +14573,10 @@
     "b58f686d94afdd2e281bf477": {
       "published_at": "2026-10-29T05:41:47+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12363,
       "title": "सिरमौर: करवाचौथ पर बदला मौसम, नाहन में छाए काले बादल; पुलिस भर्ती और बाजार पर बारिश का साया",
-      "updated_at": "2026-10-29T06:11:23.905847+00:00",
+      "updated_at": "2026-10-29T06:11:31.532575+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-karwa-chauth-weather-change-nahan-clouds-rain-police-recruitment-2026-10-29"
     },
     "b59aa0b1fa0f89b1d6ce9484": {
@@ -15766,9 +15769,10 @@
     "c16bd70b4c499de25aacb22c": {
       "published_at": "2026-10-29T05:45:05+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12365,
       "title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
-      "updated_at": "2026-10-29T06:11:23.905860+00:00",
+      "updated_at": "2026-10-29T06:11:39.615546+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-ready-to-share-battle-tested-anti-terror-expertise-with-asean-its-dialogue-partners-rajnath-singh-101793252705574.html"
     },
     "c17d30ee67dca8e3d97b6bef": {
@@ -20976,6 +20980,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:11:23.908385+00:00",
+  "last_cycle_at": "2026-10-29T06:11:42.818567+00:00",
   "schema_version": 1
 }
