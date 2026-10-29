@@ -120,9 +120,10 @@
     "013801c712695b4ce8fcb699": {
       "published_at": "2026-10-29T05:27:31+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12355,
       "title": "BMC allocates ₹30 lakh per ward to revive wells amid concerns over water stock",
-      "updated_at": "2026-10-29T06:10:32.663349+00:00",
+      "updated_at": "2026-10-29T06:10:40.188005+00:00",
       "url": "https://www.hindustantimes.com/india-news/bmc-allocates-30-lakh-per-ward-to-revive-wells-amid-concerns-over-water-stock-101793251652319.html"
     },
     "014f5be9fc4a7789c2c85aef": {
@@ -7428,9 +7429,10 @@
     "6002835f0ba637e23fffde55": {
       "published_at": "2026-10-29T05:32:19+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12357,
       "title": "‘Thanda paani mat peena’: Vaibhav Suryavanshi gets ‘motherly advice’ after India’s NZ win, video goes viral",
-      "updated_at": "2026-10-29T06:10:32.663357+00:00",
+      "updated_at": "2026-10-29T06:10:47.997335+00:00",
       "url": "https://www.tribuneindia.com/news/trending/thanda-paani-mat-peena-vaibhav-suryavanshi-gets-motherly-advice-after-indias-nz-win-video-goes-viral"
     },
     "60240dd4bab5e3655955e250": {
@@ -17575,9 +17577,10 @@
     "d9563dde0a9f5088afe7ac8c": {
       "published_at": "2026-10-29T05:29:20+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12356,
       "title": "Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?",
-      "updated_at": "2026-10-29T06:10:32.663354+00:00",
+      "updated_at": "2026-10-29T06:10:44.075666+00:00",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss"
     },
     "d965eb7c72ff80c2aa391ac9": {
@@ -18742,9 +18745,10 @@
     "e8ed956b8a66002e1467d958": {
       "published_at": "2026-10-29T05:22:21+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12354,
       "title": "Russia says more than 600 drones launched towards Moscow overnight",
-      "updated_at": "2026-10-29T06:10:32.663333+00:00",
+      "updated_at": "2026-10-29T06:10:36.176903+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss"
     },
     "e8f80441ab3e76aaafa1e2c3": {
@@ -20904,6 +20908,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:10:32.665581+00:00",
+  "last_cycle_at": "2026-10-29T06:10:51.200416+00:00",
   "schema_version": 1
 }
