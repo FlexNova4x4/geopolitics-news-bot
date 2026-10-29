@@ -3158,6 +3158,14 @@
       "updated_at": "2026-10-25T11:34:50.447400+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/mcc-renews-push-for-flex-free-city-beyond-dasara/article71623051.ece"
     },
+    "20f3a5acf3037f963059638a": {
+      "published_at": "2026-10-29T15:20:58+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Syria says French jihadist killed in shootout with government forces",
+      "updated_at": "2026-10-29T15:52:59.672254+00:00",
+      "url": "https://www.thehindu.com/news/national/syria-says-french-jihadist-killed-in-shootout-with-government-forces/article71637049.ece"
+    },
     "210fc81eed41c61449eb5724": {
       "published_at": "2026-10-27T01:15:30+00:00",
       "source": "hindustantimes.com",
@@ -4873,6 +4881,14 @@
       "title": "Tamil Nadu to conduct social justice survey next year, panel to frame guidelines",
       "updated_at": "2026-10-29T13:01:53.024799+00:00",
       "url": "https://www.tribuneindia.com/news/india/tamil-nadu-to-conduct-social-justice-survey-next-year-set-up-panel-by-march"
+    },
+    "348d8bd8b2781af33c950887": {
+      "published_at": "2026-10-29T15:23:17+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Food Safety officials conduct State-wide inspection at 45 packaged drinking water units; notices issued to 24",
+      "updated_at": "2026-10-29T15:52:59.672272+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/food-safety-officials-conduct-state-wide-inspection-at-45-packaged-drinking-water-units-notices-issued-to-24/article71641340.ece"
     },
     "34903c75a098e9b5e3793910": {
       "published_at": "2026-10-28T22:35:05+00:00",
@@ -10303,6 +10319,14 @@
       "updated_at": "2026-10-27T18:03:25.174840+00:00",
       "url": "https://www.tribuneindia.com/news/ai/trump-says-us-to-ban-artificial-intelligence-term-pushes-super-intelligence"
     },
+    "6c96d2fd07bab4d657e4b433": {
+      "published_at": "2026-10-29T15:23:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Three missing fishermen rescued",
+      "updated_at": "2026-10-29T15:52:59.672268+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-missing-fishermen-rescued/article71641011.ece"
+    },
     "6ca3d9721d7ca6c6b15ba7b0": {
       "published_at": "2026-10-27T02:20:41+00:00",
       "source": "amarujala.com",
@@ -14592,6 +14616,14 @@
       "title": "Hike in night parking charges, monthly passes: NDMC’s proposed parking mgmt system",
       "updated_at": "2026-10-26T02:22:27.158199+00:00",
       "url": "https://www.hindustantimes.com/india-news/hike-in-night-parking-charges-monthly-passes-ndmc-s-proposed-parking-mgmt-system-101792978779196.html"
+    },
+    "9728e00420e7803ad3c81774": {
+      "published_at": "2026-10-29T15:26:41+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "IndiGo Q2 loss narrows to ₹1,879.1 crore as fare gains partly offset fuel-cost surge",
+      "updated_at": "2026-10-29T15:52:59.672276+00:00",
+      "url": "https://www.thehindu.com/news/national/indigo-q2-loss-narrows-to-18791-crore-as-fare-gains-partly-offset-fuel-cost-surge/article71641417.ece"
     },
     "9749e394fa91acfe6a1c4b7a": {
       "published_at": "2026-10-26T13:02:22+00:00",
@@ -25300,6 +25332,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:52:49.381929+00:00",
+  "last_cycle_at": "2026-10-29T15:52:59.675374+00:00",
   "schema_version": 1
 }
