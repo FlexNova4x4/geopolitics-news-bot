@@ -1848,9 +1848,10 @@
     "161024d8bd5d00ed3dccfe36": {
       "published_at": "2026-10-29T06:56:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12428,
       "title": "Chennai Corporation council meeting: streetlight maintenance across 12 zones proposed",
-      "updated_at": "2026-10-29T07:10:26.083629+00:00",
+      "updated_at": "2026-10-29T07:10:42.571491+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-council-meeting-streetlight-maintenance-across-12-zones-proposed/article71639177.ece"
     },
     "162a2c73e1fb6dfbcc519991": {
@@ -8048,9 +8049,10 @@
     "641b37d6d8ade16b977693b2": {
       "published_at": "2026-10-29T06:43:33+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12426,
       "title": "U.S. judge rejects Trump administration’s interference in California midterm vote",
-      "updated_at": "2026-10-29T07:10:26.083620+00:00",
+      "updated_at": "2026-10-29T07:10:34.668255+00:00",
       "url": "https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece"
     },
     "644a54ec241f14fd34719154": {
@@ -19067,9 +19069,10 @@
     "e6d5981f4cd228cd9ffa5c06": {
       "published_at": "2026-10-29T06:40:36+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12425,
       "title": "Tamil YouTube cooking channel’s subscribers cross 1 crore",
-      "updated_at": "2026-10-29T07:10:26.083605+00:00",
+      "updated_at": "2026-10-29T07:10:29.663532+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/cooking-channels-subscribers-cross-1-crore/article61445799.ece"
     },
     "e6f0fecb075731b9af897594": {
@@ -20461,9 +20464,10 @@
     "f4f2a2cffbe3dd213339bc23": {
       "published_at": "2026-10-29T06:51:37+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12427,
       "title": "SCR digital life certificate drive from November 1 to 30",
-      "updated_at": "2026-10-29T07:10:26.083624+00:00",
+      "updated_at": "2026-10-29T07:10:38.614515+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/scr-digital-life-certificate-drive-from-november-1-to-30/article71637392.ece"
     },
     "f51c704a4e0662c7e1c0acea": {
@@ -21543,6 +21547,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T07:10:26.086094+00:00",
+  "last_cycle_at": "2026-10-29T07:10:45.774413+00:00",
   "schema_version": 1
 }
