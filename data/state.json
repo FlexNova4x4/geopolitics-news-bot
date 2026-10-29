@@ -8042,9 +8042,10 @@
     "563f0f5692d1e1cb1a496a98": {
       "published_at": "2026-10-29T15:08:39+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12834,
       "title": "Andhra University scholar receives ‘Ustad Bismillah Khan Yuva Puraskar’",
-      "updated_at": "2026-10-29T15:30:51.182530+00:00",
+      "updated_at": "2026-10-29T15:31:02.203666+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-university-scholar-receives-ustad-bismillah-khan-yuva-puraskar/article71640696.ece"
     },
     "5653a520a2ebae29688a3815": {
@@ -14253,9 +14254,10 @@
     "949f79ef2c12c174a35b01dd": {
       "published_at": "2026-10-29T15:07:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12832,
       "title": "Alliance confident of winning all 86 Vijayawada divisions, says MP",
-      "updated_at": "2026-10-29T15:30:51.182510+00:00",
+      "updated_at": "2026-10-29T15:30:54.407891+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/alliance-confident-of-winning-all-86-vijayawada-divisions-says-mp/article71641309.ece"
     },
     "94a9e8292e9ff0a5cc1fb7df": {
@@ -17154,9 +17156,10 @@
     "b2acb1551bb2cc017b4b772b": {
       "published_at": "2026-10-29T15:08:41+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12835,
       "title": "Rana Sanaullah says Imran's jailed sister Noreen 'fine' after being provided medical treatment",
-      "updated_at": "2026-10-29T15:30:51.182533+00:00",
+      "updated_at": "2026-10-29T15:31:05.984340+00:00",
       "url": "https://www.dawn.com/news/2040731/rana-sanaullah-says-imrans-jailed-sister-noreen-fine-after-being-provided-medical-treatment"
     },
     "b2bcd6c347e29a940ea49861": {
@@ -21021,9 +21024,10 @@
     "d86e49d910c3f4cb08f5af7a": {
       "published_at": "2026-10-29T15:07:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12833,
       "title": "Guntur Collector inspects cyclone-hit paddy fields, assures farmers of support",
-      "updated_at": "2026-10-29T15:30:51.182527+00:00",
+      "updated_at": "2026-10-29T15:30:58.395366+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/collector-inspects-cyclone-hit-paddy-fields-assures-farmers-of-support/article71639942.ece"
     },
     "d87817f0379981eec4b95991": {
@@ -25188,6 +25192,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:30:51.185381+00:00",
+  "last_cycle_at": "2026-10-29T15:31:09.187640+00:00",
   "schema_version": 1
 }
