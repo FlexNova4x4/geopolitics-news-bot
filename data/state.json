@@ -1827,6 +1827,14 @@
       "updated_at": "2026-10-25T05:38:11.681869+00:00",
       "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
+    "172511e4d8212d97b3406819": {
+      "published_at": "2026-10-28T21:16:30+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "updated_at": "2026-10-29T04:19:13.071135+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
+    },
     "177467fc1699cf1469a93cd1": {
       "published_at": "2026-10-27T13:23:43+00:00",
       "source": "dawn.com",
@@ -6185,6 +6193,14 @@
       "updated_at": "2026-10-26T09:16:45.215128+00:00",
       "url": "https://www.thehindu.com/videos/bjp-launches-nationwide-protest-against-mallikarjun-kharge-over-remarks-on-pm-modi/article71626191.ece"
     },
+    "5679ef103feac869a3edf4de": {
+      "published_at": "2026-10-28T21:22:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Iranian foreign minister says Tehran in talks with mediators to implement 7-day plan with US",
+      "updated_at": "2026-10-29T04:19:13.071143+00:00",
+      "url": "https://www.tribuneindia.com/news/abbas-araghchi-diplomacy/iranian-foreign-minister-says-tehran-in-talks-with-mediators-to-implement-7-day-plan-with-us"
+    },
     "568eed9a47f700369ee3226c": {
       "published_at": "2026-10-26T12:42:44+00:00",
       "source": "thehindu.com",
@@ -7172,6 +7188,14 @@
       "title": "Shahpur students win national moot court contest at HPU",
       "updated_at": "2026-10-26T00:52:47.130038+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/shahpur-students-win-national-moot-court-contest-at-hpu"
+    },
+    "6300410c09aa6ddc7af57bd2": {
+      "published_at": "2026-10-28T21:17:13+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India reaffirms commitment to strengthen ties with Israel",
+      "updated_at": "2026-10-29T04:19:13.071139+00:00",
+      "url": "https://www.tribuneindia.com/news/arab-parties-knesset/india-reaffirms-commitment-to-strengthen-ties-with-israel"
     },
     "6358ab024cb87793fced9b26": {
       "published_at": "2026-10-26T23:27:44+00:00",
@@ -16789,6 +16813,14 @@
       "updated_at": "2026-10-29T04:12:24.654009+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/the-importance-of-ashes-and-the-spiritual-form-of-mother-ganga-is-explained-in-the-shiva-katha-solan-news-c-176-1-sln1007-183056-2026-10-28"
     },
+    "e313904451ec99e72766c6f0": {
+      "published_at": "2026-10-28T21:02:02+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court",
+      "updated_at": "2026-10-29T04:19:13.071119+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/corporation-councillor-willing-to-express-regret-for-abusing-and-body-shaming-chief-minister-c-joseph-vijay-her-counsel-tells-madras-high-court/article71637016.ece"
+    },
     "e32c7e5285b1a69ed2f09060": {
       "published_at": "2026-10-27T13:27:27+00:00",
       "source": "thehindu.com",
@@ -19279,6 +19311,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:19:05.452480+00:00",
+  "last_cycle_at": "2026-10-29T04:19:13.073105+00:00",
   "schema_version": 1
 }
