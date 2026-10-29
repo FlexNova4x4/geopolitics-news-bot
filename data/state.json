@@ -4301,9 +4301,10 @@
     "3652ed1b02e006e6d73f20b7": {
       "published_at": "2026-10-29T06:24:56+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12448,
       "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "updated_at": "2026-10-29T08:10:42.359797+00:00",
+      "updated_at": "2026-10-29T08:10:53.621901+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss"
     },
     "36723c49cf4299245b1f71ea": {
@@ -17217,9 +17218,10 @@
     "ce77f42aa1aee3617964e85c": {
       "published_at": "2026-10-29T00:33:11+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12446,
       "title": "Europe's youth take to the streets - they feel locked out of a promising future",
-      "updated_at": "2026-10-29T08:10:42.359769+00:00",
+      "updated_at": "2026-10-29T08:10:45.756510+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss"
     },
     "ce9463cd26d41fdcca6f23bb": {
@@ -18816,9 +18818,10 @@
     "e19bd8c686545cca7af9f3df": {
       "published_at": "2026-10-29T01:30:43+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12447,
       "title": "Details of thousands of US immigration agents leaked in major hack",
-      "updated_at": "2026-10-29T08:10:42.359791+00:00",
+      "updated_at": "2026-10-29T08:10:49.715790+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
     },
     "e1be094a719375d43c682565": {
@@ -20398,9 +20401,10 @@
     "f27ea5ce5945a716cd0ced85": {
       "published_at": "2026-10-29T07:10:35+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12449,
       "title": "Singapore foreign minister to undertake official visit to Pakistan on Oct 30",
-      "updated_at": "2026-10-29T08:10:42.359802+00:00",
+      "updated_at": "2026-10-29T08:10:57.588434+00:00",
       "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30"
     },
     "f282bbbba1f8b0b2d581b1ab": {
@@ -21732,6 +21736,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:10:42.362162+00:00",
+  "last_cycle_at": "2026-10-29T08:11:00.791417+00:00",
   "schema_version": 1
 }
