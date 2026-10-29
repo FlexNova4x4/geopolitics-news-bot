@@ -8488,9 +8488,10 @@
     "6d2822f615027e390e7d22bf": {
       "published_at": "2026-10-29T05:34:29+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12349,
       "title": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
-      "updated_at": "2026-10-29T05:42:44.245056+00:00",
+      "updated_at": "2026-10-29T05:42:51.474306+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-cheating-case-against-nivin-pauly-director-abrid-shine-after-out-of-court-settlement-in-dispute-over-film-rights/article71636612.ece"
     },
     "6d5b9eda272f97f2c66e71b3": {
@@ -17279,9 +17280,10 @@
     "d6b2bbd0e5ef003addee852b": {
       "published_at": "2026-10-29T05:32:59+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12348,
       "title": "At least 5 killed, over two dozen injured as bus plunges into drain in Punjab's Hafizabad",
-      "updated_at": "2026-10-29T05:42:44.245036+00:00",
+      "updated_at": "2026-10-29T05:42:47.551410+00:00",
       "url": "https://www.dawn.com/news/2040660/at-least-5-killed-over-two-dozen-injured-as-bus-plunges-into-drain-in-punjabs-hafizabad"
     },
     "d6b6464e83c45dcd23827667": {
@@ -20834,6 +20836,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:42:44.247384+00:00",
+  "last_cycle_at": "2026-10-29T05:42:54.677140+00:00",
   "schema_version": 1
 }
