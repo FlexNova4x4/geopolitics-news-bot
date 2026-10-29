@@ -2807,6 +2807,14 @@
       "updated_at": "2026-10-26T13:35:14.641745+00:00",
       "url": "https://www.thehindu.com/news/national/kharges-remark-against-pm-modi-ideological-attack-not-personal-says-congress-general-secretary-kc-venugopal/article71626502.ece"
     },
+    "20d14cc7b239168121f18348": {
+      "published_at": "2026-10-29T08:28:23+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "ATC sentences Imaan, Hadi to 10 years in security breach case",
+      "updated_at": "2026-10-29T08:46:48.449569+00:00",
+      "url": "https://www.dawn.com/news/2040694/atc-sentences-imaan-hadi-to-10-years-in-security-breach-case"
+    },
     "20da4af74ca59b81bc2bd93f": {
       "published_at": "2026-10-25T11:09:11+00:00",
       "source": "thehindu.com",
@@ -8244,6 +8252,14 @@
       "updated_at": "2026-10-27T01:42:01.593168+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
     },
+    "62a06f1172d4fb8995b1a279": {
+      "published_at": "2026-10-29T08:26:12+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Russian Embassy files FIR over fake recruitment website duping Indian citizens",
+      "updated_at": "2026-10-29T08:46:48.449552+00:00",
+      "url": "https://www.tribuneindia.com/news/delhi/russian-embassy-files-fir-over-fake-recruitment-website-duping-indian-citizens"
+    },
     "62ac872982ab0d91921c6e13": {
       "published_at": "2026-10-24T21:08:51+00:00",
       "source": "aljazeera.com",
@@ -11821,6 +11837,14 @@
       "updated_at": "2026-10-29T04:21:01.632543+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump-iran-threats/jd-vance-sends-letter-to-iran-hard-liner-in-bid-to-revive-peace-talks-as-trump-threatens-strikes-report"
     },
+    "8964912df921f6fcda7c2f87": {
+      "published_at": "2026-10-29T08:32:00+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Lahore ranks world’s most polluted city as Punjab battles poor air quality",
+      "updated_at": "2026-10-29T08:46:48.449573+00:00",
+      "url": "https://www.dawn.com/news/2040684/lahore-ranks-worlds-most-polluted-city-as-punjab-battles-poor-air-quality"
+    },
     "898ec1b3b5952ddfde3e1fa0": {
       "published_at": "2026-10-29T06:30:45+00:00",
       "source": "thehindu.com",
@@ -13850,6 +13874,14 @@
       "title": "Uganda Parliament speaker Oboth hails PM Modi’s cooperation, says Indian community may gain Indigenous recognition",
       "updated_at": "2026-10-27T12:17:03.378518+00:00",
       "url": "https://www.tribuneindia.com/news/brics/uganda-parliament-speaker-oboth-hails-pm-modis-cooperation-says-indian-community-may-gain-indigenous-recognition"
+    },
+    "a249075d94ff16fb91235dc6": {
+      "published_at": "2026-10-29T08:33:21+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Terror suspect wanted in Punjab grenade attack case arrested from Haryana's Faridabad",
+      "updated_at": "2026-10-29T08:46:48.449576+00:00",
+      "url": "https://www.hindustantimes.com/india-news/terror-suspect-wanted-in-punjab-grenade-attack-case-arrested-from-haryanas-faridabad-101793261897039.html"
     },
     "a26d6b1f7774d055bf37b9d3": {
       "published_at": "2026-10-27T12:52:59+00:00",
@@ -22348,6 +22380,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:46:40.626787+00:00",
+  "last_cycle_at": "2026-10-29T08:46:48.451925+00:00",
   "schema_version": 1
 }
