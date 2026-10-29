@@ -675,6 +675,14 @@
       "updated_at": "2026-10-29T03:40:52.578266+00:00",
       "url": "https://www.tribuneindia.com/news/european-leaders-condolences/spain-indian-embassy-opens-emergency-helpline-as-death-toll-from-high-speed-train-collision-rises-to-68"
     },
+    "075b70db57b1a2fdb0127b78": {
+      "published_at": "2026-10-29T09:59:44+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Parts of Delhi under IMD red alert for rain, cloudy skies may delay moon sighting on Karwa Chauth",
+      "updated_at": "2026-10-29T11:01:58.312309+00:00",
+      "url": "https://www.hindustantimes.com/india-news/karwa-chauth-moon-sighting-likely-to-be-impacted-as-delhi-ncr-braces-for-rainy-evening-imd-issues-alerts-101793266008427.html"
+    },
     "076a2d76cbfcc3bedd4f0996": {
       "published_at": "2026-10-27T19:52:20+00:00",
       "source": "publish.tribuneindia.com",
@@ -5152,6 +5160,14 @@
       "title": "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic",
       "updated_at": "2026-10-29T03:45:16.119737+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/furniture-thrown-proceedings-disrupted-as-lawyers-protest-against-hc-judge-turns-chaotic/article71636515.ece"
+    },
+    "3d357982f2bcdfc7ca28fce1": {
+      "published_at": "2026-10-29T09:58:08+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Document change regime developed following NALSA ‘grossly discriminatory’ against ‘biological females’: PIL",
+      "updated_at": "2026-10-29T11:01:58.312298+00:00",
+      "url": "https://www.thehindu.com/news/national/pil-challenges-indias-gender-identity-regime-post-nalsa-says-regime-discriminatory-to-biological-females/article71639485.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
       "published_at": "2026-10-25T01:05:16+00:00",
@@ -20605,6 +20621,14 @@
       "updated_at": "2026-10-29T06:43:30.809420+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/52-children-vaccination-nahan-news-c-177-1-nhn1002-192747-2026-10-28"
     },
+    "ea7fa35046a9829208a9c991": {
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "If permission given for 100% ethanol-run vehicles, how will supply be made: SC asks Govt",
+      "updated_at": "2026-10-29T11:01:58.312314+00:00",
+      "url": "https://www.tribuneindia.com/news/india/if-permission-given-for-100-ethanol-run-vehicles-how-will-supply-be-made-sc-asks-govt"
+    },
     "eaa4aa3a4157a93450eabdae": {
       "published_at": "2026-10-26T04:11:33+00:00",
       "source": "hindustantimes.com",
@@ -22448,6 +22472,14 @@
       "updated_at": "2026-10-27T14:12:06.154430+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/major-police-action-bulldozers-raze-five-shops-belonging-to-an-accused-in-chitta-synthetic-drug-trafficki-2026-10-27"
     },
+    "fb4760b1539300f9bfbaf401": {
+      "published_at": "2026-10-29T09:56:47+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "UK PM Burnham’s trip to India could take place soon: British envoy",
+      "updated_at": "2026-10-29T11:01:58.312277+00:00",
+      "url": "https://www.tribuneindia.com/news/india/uk-pm-burnhams-trip-to-india-could-take-place-soon-british-envoy"
+    },
     "fb840ea27a6a1e79ded57a7d": {
       "published_at": "2026-10-27T15:04:44+00:00",
       "source": "thehindu.com",
@@ -22933,6 +22965,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:01:47.769298+00:00",
+  "last_cycle_at": "2026-10-29T11:01:58.314585+00:00",
   "schema_version": 1
 }
