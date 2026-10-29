@@ -10448,9 +10448,10 @@
     "7749c7f706426f66ea478eac": {
       "published_at": "2026-10-28T23:34:13+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12614,
       "title": "पूर्व विधायक देविंद्र कुमार भुट्टो बोले- 31 अक्तूबर को पंचायतीराज संस्थाओं के जनप्रतिनिधि होंगे सम्मानित",
-      "updated_at": "2026-10-29T12:00:17.846662+00:00",
+      "updated_at": "2026-10-29T12:00:26.550134+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/una/video-former-mla-devinder-kumar-bhutto-stated-that-representatives-of-panchayati-raj-institutions-will-be-felicitated-on-october-31-2026-10-29"
     },
     "774e9fc1f4419ee269fc435f": {
@@ -13999,9 +14000,10 @@
     "9d91e871691a3df2327bcac1": {
       "published_at": "2026-10-28T23:33:31+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12613,
       "title": "चंबा के ऐतिहासिक चौगान में विंटर कप फुटबॉल प्रतियोगिता शुरू, 10 टीमें दिखाएंगी दमखम",
-      "updated_at": "2026-10-29T12:00:17.846645+00:00",
+      "updated_at": "2026-10-29T12:00:22.451689+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/chamba/video-chamba-winter-cup-football-tournament-10-teams-2026-10-29"
     },
     "9da77877aa145452ea714a42": {
@@ -19150,9 +19152,10 @@
     "d7020073c0d8b7c3740bb09a": {
       "published_at": "2026-10-29T10:48:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12616,
       "title": "Jamia issues show-cause notice to protesting hostel resident amid online classes order",
-      "updated_at": "2026-10-29T12:00:17.846671+00:00",
+      "updated_at": "2026-10-29T12:00:34.908206+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/jamia-issues-show-cause-notice-to-protesting-hostel-resident-amid-online-classes-order"
     },
     "d7057574cb51468b0a686af0": {
@@ -22260,9 +22263,10 @@
     "f73b6d2ef647eca296d06b64": {
       "published_at": "2026-10-28T23:50:38+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12615,
       "title": "वीडियो: रामपुर में शुरू हुआ अखिल भारतीय वॉलीबॉल प्रतियोगिता का रोमांच",
-      "updated_at": "2026-10-29T12:00:17.846667+00:00",
+      "updated_at": "2026-10-29T12:00:30.841912+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-the-excitement-of-the-all-india-volleyball-tournament-begins-in-rampur-2026-10-29"
     },
     "f73dff1900b32994b7f83d55": {
@@ -23217,6 +23221,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:00:17.848998+00:00",
+  "last_cycle_at": "2026-10-29T12:00:38.111237+00:00",
   "schema_version": 1
 }
