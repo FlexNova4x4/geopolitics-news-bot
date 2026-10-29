@@ -1371,9 +1371,10 @@
     "101bd51f27cb2cc32ac25830": {
       "published_at": "2026-10-29T09:31:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12565,
       "title": "Israeli settler take-over",
-      "updated_at": "2026-10-29T10:31:28.709800+00:00",
+      "updated_at": "2026-10-29T10:31:32.936327+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss"
     },
     "102822b22f133e4c9a1acdcb": {
@@ -2548,9 +2549,10 @@
     "1d4bc594c47021b634a45776": {
       "published_at": "2026-10-29T09:33:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12567,
       "title": "17.78 lakh kg of PDS grains seized in three months, 215 arrested amidst drought in Karnataka",
-      "updated_at": "2026-10-29T10:31:28.709823+00:00",
+      "updated_at": "2026-10-29T10:31:40.784468+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/1778-lakh-kg-of-pds-grains-seized-in-three-months-215-arrested-amidst-drought-in-karnataka/article71639474.ece"
     },
     "1d8b4809ebf533abe57d2683": {
@@ -4380,9 +4382,10 @@
     "33c34f3565a9aa9508494bb8": {
       "published_at": "2026-10-29T09:34:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12568,
       "title": "Keralam Assembly: Orders issued to procure 2,159 bottles of SMA drug, says Health Minister",
-      "updated_at": "2026-10-29T10:31:28.709826+00:00",
+      "updated_at": "2026-10-29T10:31:44.857441+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-orders-issued-to-procure-2159-bottles-of-sma-drug-says-health-minister/article71639823.ece"
     },
     "33ef30747933f683959b65a6": {
@@ -22599,9 +22602,10 @@
     "fe2901e5662f30d4d9262e66": {
       "published_at": "2026-10-29T09:32:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12566,
       "title": "Netanyahu trying to undermine elections through an ugly delegitimisation campaign against Arab Israelis: Yair Golan",
-      "updated_at": "2026-10-29T10:31:28.709818+00:00",
+      "updated_at": "2026-10-29T10:31:36.842042+00:00",
       "url": "https://www.tribuneindia.com/news/arab-public/netanyahu-trying-to-undermine-elections-through-an-ugly-delegitimisation-campaign-against-arab-israelis-yair-golan"
     },
     "fe2cbd9325d39f55a5f8c7af": {
@@ -22794,6 +22798,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T10:31:28.712296+00:00",
+  "last_cycle_at": "2026-10-29T10:31:48.060318+00:00",
   "schema_version": 1
 }
