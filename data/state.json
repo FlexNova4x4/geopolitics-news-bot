@@ -15339,9 +15339,10 @@
     "a33c6cedf51da838b63f46c5": {
       "published_at": "2026-10-29T13:57:50+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12782,
       "title": "India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath",
-      "updated_at": "2026-10-29T15:20:39.639818+00:00",
+      "updated_at": "2026-10-29T15:20:50.255975+00:00",
       "url": "https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece"
     },
     "a345be94699c28edb612710d": {
@@ -16867,9 +16868,10 @@
     "b3554ec121e01fd16710f3de": {
       "published_at": "2026-10-29T03:04:40+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12780,
       "title": "शिमला: डीजीपी अशोक तिवारी बोले- भ्रष्टाचार पर अपनाएं जीरो टॉलरेंस की नीति",
-      "updated_at": "2026-10-29T15:20:39.639793+00:00",
+      "updated_at": "2026-10-29T15:20:42.447643+00:00",
       "url": "https://www.amarujala.com/shimla/shimla-dgp-ashok-tiwari-says-adopt-a-zero-tolerance-policy-towards-corruption-2026-10-29"
     },
     "b39c462200e0c2e80897c3bf": {
@@ -19016,9 +19018,10 @@
     "c87606037fc3c7bdc57e5048": {
       "published_at": "2026-10-29T13:59:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12783,
       "title": "Ex-speaker Meira Kumar to chair CEC’s ‘public impeachment’; Kharge to move motion, Rahul to conclude",
-      "updated_at": "2026-10-29T15:20:39.639822+00:00",
+      "updated_at": "2026-10-29T15:20:53.972323+00:00",
       "url": "https://www.tribuneindia.com/news/india/ex-speaker-meira-kumar-to-chair-cecs-public-impeachment-kharge-to-move-motion-rahul-to-conclude"
     },
     "c8adf34e373c2d83b0f300d5": {
@@ -24320,9 +24323,10 @@
     "fc7368afc2ad74520de6cd45": {
       "published_at": "2026-10-29T13:57:48+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12781,
       "title": "Bangladesh's tribunal sentences Awami League leader to death",
-      "updated_at": "2026-10-29T15:20:39.639812+00:00",
+      "updated_at": "2026-10-29T15:20:46.507468+00:00",
       "url": "https://www.thehindu.com/news/international/bangladeshs-tribunal-sentences-awami-league-leader-to-death/article71640968.ece"
     },
     "fc7be3ad58cf11b4dccb5d79": {
@@ -24720,6 +24724,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:20:39.642044+00:00",
+  "last_cycle_at": "2026-10-29T15:20:57.175400+00:00",
   "schema_version": 1
 }
