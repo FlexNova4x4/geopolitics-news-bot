@@ -5777,9 +5777,10 @@
     "4fa021c3deff66f40dea46a9": {
       "published_at": "2026-10-29T02:02:02+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12226,
       "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
-      "updated_at": "2026-10-29T04:25:00.188609+00:00",
+      "updated_at": "2026-10-29T04:25:07.423353+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss"
     },
     "4fb0b6aa4688db957ab7fb59": {
@@ -8764,9 +8765,10 @@
     "75bed4d167ac991ab62d79a6": {
       "published_at": "2026-10-29T02:02:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12227,
       "title": "Philippines: Rajnath Singh receives Guard of Honour at Mactan Expo, to participate in 13th ADMM-Plus meeting",
-      "updated_at": "2026-10-29T04:25:00.188614+00:00",
+      "updated_at": "2026-10-29T04:25:11.533456+00:00",
       "url": "https://www.tribuneindia.com/news/admm-plus-meeting/philippines-rajnath-singh-receives-guard-of-honour-at-mactan-expo-to-participate-in-13th-admm-plus-meeting"
     },
     "75de75b3b50ea354e59f708f": {
@@ -9456,9 +9458,10 @@
     "7df9a848c8e7a027df5d2246": {
       "published_at": "2026-10-29T02:07:27+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12228,
       "title": "Over 4.5 lakh PUC challans issued in Delhi till Oct 27: Traffic police data",
-      "updated_at": "2026-10-29T04:25:00.188617+00:00",
+      "updated_at": "2026-10-29T04:25:15.606441+00:00",
       "url": "https://www.hindustantimes.com/india-news/over-4-5-lakh-puc-challans-issued-in-delhi-till-oct-27-traffic-police-data-101793239648260.html"
     },
     "7e180985ea4ffbf8cca02f61": {
@@ -9697,9 +9700,10 @@
     "8144c2c691fe96d0306432aa": {
       "published_at": "2026-10-29T02:01:09+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12225,
       "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
-      "updated_at": "2026-10-29T04:25:00.188594+00:00",
+      "updated_at": "2026-10-29T04:25:03.487081+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss"
     },
     "8156fc1e4b308fb02f8cdaa3": {
@@ -19743,6 +19747,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:25:00.190914+00:00",
+  "last_cycle_at": "2026-10-29T04:25:18.809178+00:00",
   "schema_version": 1
 }
