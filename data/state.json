@@ -3707,9 +3707,10 @@
     "34eeaf405516b45060d91b61": {
       "published_at": "2026-10-28T19:49:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12129,
       "title": "Protruding posts, ad boards choke Kochi junctions, endanger commuters",
-      "updated_at": "2026-10-29T04:12:49.820620+00:00",
+      "updated_at": "2026-10-29T04:12:53.308203+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/protruding-posts-ad-boards-choke-kochi-junctions-endanger-commuters/article70963172.ece"
     },
     "35164c58d2a823ed95f02152": {
@@ -5623,9 +5624,10 @@
     "4fe0f0d756fda9cbcaedae2e": {
       "published_at": "2026-10-28T19:50:04+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12131,
       "title": "Bolsonaro, family land in US after Brazil poll defeat",
-      "updated_at": "2026-10-29T04:12:49.820662+00:00",
+      "updated_at": "2026-10-29T04:13:01.380358+00:00",
       "url": "https://www.tribuneindia.com/news/world/bolsonaro-family-land-in-us-after-brazil-poll-defeat"
     },
     "4fe2e450c023050631d77d44": {
@@ -11549,9 +11551,10 @@
     "9fabf67d7b3b54c04b53a9db": {
       "published_at": "2026-10-28T19:50:44+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12132,
       "title": "Congress rout in Karnataka MLC poll, BJP loses Varanasi",
-      "updated_at": "2026-10-29T04:12:49.820665+00:00",
+      "updated_at": "2026-10-29T04:13:05.474948+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-rout-in-karnataka-mlc-poll-bjp-loses-varanasi"
     },
     "9fb33e132a78349a3130fc80": {
@@ -17743,9 +17746,10 @@
     "f3288c7bc28bf7125d68cb49": {
       "published_at": "2026-10-28T19:49:59+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12130,
       "title": "UAE honours Indian pilot for averting mid-air disaster",
-      "updated_at": "2026-10-29T04:12:49.820658+00:00",
+      "updated_at": "2026-10-29T04:12:57.304819+00:00",
       "url": "https://www.tribuneindia.com/news/india/uae-honours-indian-pilot-for-averting-mid-air-disaster"
     },
     "f32c61db06e6f953d3a969c4": {
@@ -18879,6 +18883,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:12:49.822823+00:00",
+  "last_cycle_at": "2026-10-29T04:13:08.677448+00:00",
   "schema_version": 1
 }
