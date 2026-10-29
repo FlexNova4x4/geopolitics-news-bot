@@ -4436,9 +4436,10 @@
     "31ee80ccf072842b782add3f": {
       "published_at": "2026-10-29T12:30:00+00:00",
       "source": "The Diplomat",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12724,
       "title": "Asian Cybersecurity in the Age of AI and Quantum Computing",
-      "updated_at": "2026-10-29T14:01:56.504102+00:00",
+      "updated_at": "2026-10-29T14:02:00.460584+00:00",
       "url": "https://thediplomat.com/2026/10/asian-cybersecurity-in-the-age-of-ai-and-quantum-computing"
     },
     "31fb567f7c421891b63b619c": {
@@ -9370,9 +9371,10 @@
     "68009305688bcdb5bae12bba": {
       "published_at": "2026-10-29T12:55:57+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12726,
       "title": "End of plastic pollution? Scientists develop plant-based bottles that biodegrade in 6 months",
-      "updated_at": "2026-10-29T14:01:56.504121+00:00",
+      "updated_at": "2026-10-29T14:02:08.287289+00:00",
       "url": "https://www.tribuneindia.com/news/india/end-of-plastic-pollution-scientists-develop-plant-based-bottles-that-biodegrade-in-6-months"
     },
     "6800a0857add839415123341": {
@@ -10995,9 +10997,10 @@
     "77b0f6b92f48b6233d4ca872": {
       "published_at": "2026-10-29T13:01:34+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12727,
       "title": "Park Hospitals strengthens north India footprint with Rs200 crore investment, targets 6,600 beds",
-      "updated_at": "2026-10-29T14:01:56.504124+00:00",
+      "updated_at": "2026-10-29T14:02:12.404415+00:00",
       "url": "https://www.hindustantimes.com/india-news/park-hospitals-invest-rs-200-crore-in-550-bed-prayagraj-hospital-in-uttar-pradesh-park-medi-world-limited-101793278145173.html"
     },
     "77bd5876ab21d0d78fabe22d": {
@@ -23600,9 +23603,10 @@
     "fab0cbed0e945e175c681739": {
       "published_at": "2026-10-29T12:38:40+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12725,
       "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
-      "updated_at": "2026-10-29T14:01:56.504117+00:00",
+      "updated_at": "2026-10-29T14:02:04.388755+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
     },
     "fab92f3d966c5951063eb83b": {
@@ -24216,6 +24220,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:01:56.506680+00:00",
+  "last_cycle_at": "2026-10-29T14:02:15.607671+00:00",
   "schema_version": 1
 }
