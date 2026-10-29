@@ -732,9 +732,10 @@
     "078a75e14aa26beffc7f0fc0": {
       "published_at": "2026-10-29T13:06:46+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12728,
       "title": "Himachal HC directs NHAI to stop work on Sanjauli twin tunnel, questions Rs 600-crore loss",
-      "updated_at": "2026-10-29T14:02:43.840274+00:00",
+      "updated_at": "2026-10-29T14:02:47.671182+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-hc-directs-nhai-to-stop-work-on-sanjauli-twin-tunnel-questions-rs-600-crore-loss"
     },
     "078fe5fba6abea72afd59086": {
@@ -17110,9 +17111,10 @@
     "b8775f7c1558df8e1b7df217": {
       "published_at": "2026-10-29T13:15:14+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12730,
       "title": "Men pulled from vehicle stranded by floods in Syria",
-      "updated_at": "2026-10-29T14:02:43.840293+00:00",
+      "updated_at": "2026-10-29T14:02:56.475399+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss"
     },
     "b88ec3378b5dd2cdf5f34ac6": {
@@ -17685,9 +17687,10 @@
     "be3910f3dfb213d3a79bd239": {
       "published_at": "2026-10-29T13:12:20+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12729,
       "title": "Delhi's Jantar Mantar added as venue for Indian Biennale 2026",
-      "updated_at": "2026-10-29T14:02:43.840289+00:00",
+      "updated_at": "2026-10-29T14:02:51.798712+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-jantar-mantar-added-as-venue-for-indian-biennale-2026-101793278787855.html"
     },
     "be3b35495768a628df6e3a26": {
@@ -23008,9 +23011,10 @@
     "f4773f852c60ce284ece1083": {
       "published_at": "2026-10-29T13:15:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12731,
       "title": "India’s first home-grown insecticide molecule Pioxaniliprole to hit market this Rabi season",
-      "updated_at": "2026-10-29T14:02:43.840297+00:00",
+      "updated_at": "2026-10-29T14:03:00.816452+00:00",
       "url": "https://www.tribuneindia.com/news/india/indias-first-home-grown-insecticide-molecule-pioxaniliprole-to-hit-market-this-rabi-season"
     },
     "f47f8fa2fb575697d446d383": {
@@ -24252,6 +24256,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:02:43.843153+00:00",
+  "last_cycle_at": "2026-10-29T14:03:04.019775+00:00",
   "schema_version": 1
 }
