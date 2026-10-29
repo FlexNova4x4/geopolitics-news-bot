@@ -2342,9 +2342,10 @@
     "19b79f9985cb44ee6531e0b0": {
       "published_at": "2026-10-29T11:07:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12625,
       "title": "India, Indonesia special forces conduct joint live-firing drills during exercise Garuda Shakti",
-      "updated_at": "2026-10-29T12:01:55.830630+00:00",
+      "updated_at": "2026-10-29T12:01:59.311655+00:00",
       "url": "https://www.tribuneindia.com/news/banyuwangi/india-indonesia-special-forces-conduct-joint-live-firing-drills-during-exercise-garuda-shakti"
     },
     "19bbd4e05889d2c8a8fc9b2f": {
@@ -15670,9 +15671,10 @@
     "b1058c59331d76f758285292": {
       "published_at": "2026-10-29T11:12:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12628,
       "title": "Bengal govt now free to transfer I-PAC raid obstruction case to CBI: Mamata",
-      "updated_at": "2026-10-29T12:01:55.830653+00:00",
+      "updated_at": "2026-10-29T12:02:11.273120+00:00",
       "url": "https://www.tribuneindia.com/news/india/bengal-govt-now-free-to-transfer-i-pac-raid-obstruction-case-to-cbi-mamata"
     },
     "b12fd39c40a774e040902837": {
@@ -20903,9 +20905,10 @@
     "e9c6b5d0a134a1c689f8f293": {
       "published_at": "2026-10-29T11:12:07+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12627,
       "title": "Chennai Corporation Council: Mayor says she was not informed of timing of CM Vijay’s Northeast monsoon inspection",
-      "updated_at": "2026-10-29T12:01:55.830650+00:00",
+      "updated_at": "2026-10-29T12:02:07.345128+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-council-mayor-says-she-was-not-informed-of-timing-of-cm-vijays-northeast-monsoon-inspection/article71639545.ece"
     },
     "e9f855a3a7384264846747e8": {
@@ -22045,9 +22048,10 @@
     "f4080d2a231c8a836ce0cd6b": {
       "published_at": "2026-10-29T11:10:57+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12626,
       "title": "Government extends new ESIC amnesty scheme by three months till Dec 31",
-      "updated_at": "2026-10-29T12:01:55.830645+00:00",
+      "updated_at": "2026-10-29T12:02:03.205807+00:00",
       "url": "https://www.thehindu.com/news/national/esic-extends-the-new-amnesty-scheme-2025-by-three-months-easing-out-of-court-settlements-for-arrears-and-damages/article71640076.ece"
     },
     "f40a1e6df005dacf8ebc7bd3": {
@@ -23325,6 +23329,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:01:55.833042+00:00",
+  "last_cycle_at": "2026-10-29T12:02:14.476123+00:00",
   "schema_version": 1
 }
