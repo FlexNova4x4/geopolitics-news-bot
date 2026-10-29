@@ -1245,9 +1245,10 @@
     "0d95c6932434bfab16f31d40": {
       "published_at": "2026-10-29T11:50:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12655,
       "title": "Telangana introduces special fire safety norms for data centres, mandates suppression systems",
-      "updated_at": "2026-10-29T12:07:09.552237+00:00",
+      "updated_at": "2026-10-29T12:07:22.251735+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-introduces-special-fire-safety-norms-for-data-centres-mandates-suppression-systems/article71640123.ece"
     },
     "0dd736df51ea9188a674d863": {
@@ -10888,9 +10889,10 @@
     "79e643e06f25ee66837a0e30": {
       "published_at": "2026-10-29T11:47:40+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12654,
       "title": "Bilawal urges Achakzai to use ‘authority’ delegated by Imran, asks opposition to play role in Parliament",
-      "updated_at": "2026-10-29T12:07:09.552234+00:00",
+      "updated_at": "2026-10-29T12:07:17.749526+00:00",
       "url": "https://www.dawn.com/news/2040707/bilawal-urges-achakzai-to-use-authority-delegated-by-imran-asks-opposition-to-play-role-in-parliament"
     },
     "79ec3c13c3d4e4aff0b7615f": {
@@ -14914,9 +14916,10 @@
     "a66ec8e12da34f83ce75f7df": {
       "published_at": "2026-10-29T11:41:44+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12653,
       "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
-      "updated_at": "2026-10-29T12:07:09.552218+00:00",
+      "updated_at": "2026-10-29T12:07:13.847841+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss"
     },
     "a67e22e7babf02eb21f3ca5e": {
@@ -20965,9 +20968,10 @@
     "e7a8b33af490b5c299fc1f90": {
       "published_at": "2026-10-29T11:52:10+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12656,
       "title": "Expired drugs possibly given to Nipah patients, says Keralam Health Minister",
-      "updated_at": "2026-10-29T12:07:09.552240+00:00",
+      "updated_at": "2026-10-29T12:07:26.200660+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/expired-drugs-possibly-given-to-nipah-patients-says-keralam-health-minister/article71640126.ece"
     },
     "e7a8b5eb6b5718fafbf51439": {
@@ -23577,6 +23581,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:07:09.556392+00:00",
+  "last_cycle_at": "2026-10-29T12:07:29.403759+00:00",
   "schema_version": 1
 }
