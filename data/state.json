@@ -5210,9 +5210,10 @@
     "3dd26bfe85b438b8cbbb7102": {
       "published_at": "2026-10-29T10:15:13+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12592,
       "title": "3 siblings, including a cancer patient, found dead in a flat in Mumbai's Virar",
-      "updated_at": "2026-10-29T11:02:49.557698+00:00",
+      "updated_at": "2026-10-29T11:02:52.914319+00:00",
       "url": "https://www.hindustantimes.com/india-news/3-siblings-including-a-cancer-patient-found-dead-in-a-flat-in-mumbais-virar-101793268375830.html"
     },
     "3dda5a32736af777c20aea7f": {
@@ -8103,9 +8104,10 @@
     "5dbe267e2f70d5376a2d8caf": {
       "published_at": "2026-10-29T10:18:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12595,
       "title": "Spain train crash puts its high-speed rail safety record under scrutiny | Explained",
-      "updated_at": "2026-10-29T11:02:49.557719+00:00",
+      "updated_at": "2026-10-29T11:03:04.718665+00:00",
       "url": "https://www.thehindu.com/news/international/spain-train-crash-high-speed-rail-safety-record-under-scrutiny-explained/article71639891.ece"
     },
     "5dc4592b023e446dda613131": {
@@ -22458,9 +22460,10 @@
     "fac0371657bdd63aa43c9e4e": {
       "published_at": "2026-10-29T10:17:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12594,
       "title": "Day after Spain train accident, rescuers search crash site for survivors",
-      "updated_at": "2026-10-29T11:02:49.557716+00:00",
+      "updated_at": "2026-10-29T11:03:00.797281+00:00",
       "url": "https://www.thehindu.com/news/international/spain-train-crash-toledo-rescue-survivors-deaths-accident-octobe-29-2026/article71639865.ece"
     },
     "facec78c95f2252d79889dda": {
@@ -22815,9 +22818,10 @@
     "fe22128f1ea3175f67c29b2e": {
       "published_at": "2026-10-29T10:17:15+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12593,
       "title": "Osaka says she’ll return stronger after latest low, Tokyo exit to Pohankova",
-      "updated_at": "2026-10-29T11:02:49.557712+00:00",
+      "updated_at": "2026-10-29T11:02:56.830650+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/osaka-vows-to-return-stronger-after-latest-low-in-tokyo-exit-to-pohankova?traffic_source=rss"
     },
     "fe260bae566af19f29f35316": {
@@ -23037,6 +23041,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:02:49.560087+00:00",
+  "last_cycle_at": "2026-10-29T11:03:07.921597+00:00",
   "schema_version": 1
 }
