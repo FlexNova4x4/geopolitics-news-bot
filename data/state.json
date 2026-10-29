@@ -7967,6 +7967,14 @@
       "updated_at": "2026-10-25T15:15:41.094139+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-lashes-bengaluru-imd-forecasts-moderate-showers-for-coming-days/article71622639.ece"
     },
+    "5af4251633ca50b507341bec": {
+      "published_at": "2026-10-29T11:22:22+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Banks must compensate digital arrest victims if due diligence fails: Supreme Court",
+      "updated_at": "2026-10-29T12:03:34.806252+00:00",
+      "url": "https://www.hindustantimes.com/india-news/banks-must-compensate-digital-arrest-victims-if-due-diligence-fails-supreme-court-101793272191660.html"
+    },
     "5b291389965e6d3b09b9fd79": {
       "published_at": "2026-10-23T14:15:00+00:00",
       "source": "Website",
@@ -11128,6 +11136,14 @@
       "title": "Trump says he’ll respect US midterm results if elections are ‘honest’",
       "updated_at": "2026-10-27T20:02:53.577752+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss"
+    },
+    "7d1b90f10024f8f88eb48eb1": {
+      "published_at": "2026-10-29T11:25:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "What the MLC elections do and do not tell us",
+      "updated_at": "2026-10-29T12:03:34.806275+00:00",
+      "url": "https://www.thehindu.com/news/national/what-the-mlc-elections-do-and-do-not-tell-us/article71639966.ece"
     },
     "7de54dece08c3b44658a496b": {
       "published_at": "2026-10-27T05:32:02+00:00",
@@ -14508,6 +14524,14 @@
       "updated_at": "2026-10-24T23:59:40.444527+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
     },
+    "a2d4de0387b34015c0ec2328": {
+      "published_at": "2026-10-29T11:25:16+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "‘Survival of the fittest’: The struggle to get to university in The Gambia",
+      "updated_at": "2026-10-29T12:03:34.806271+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/survival-of-the-fittest-the-struggle-to-get-to-university-in-the-gambia?traffic_source=rss"
+    },
     "a2dfd95d0b7e14d405ede880": {
       "published_at": "2026-10-27T15:55:57+00:00",
       "source": "publish.tribuneindia.com",
@@ -14543,6 +14567,14 @@
       "title": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
       "updated_at": "2026-10-27T03:12:16.048403+00:00",
       "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece"
+    },
+    "a345be94699c28edb612710d": {
+      "published_at": "2026-10-29T11:22:23+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Jamia student protest: Why is the Lyngdoh Committee report significant? | Explained",
+      "updated_at": "2026-10-29T12:03:34.806268+00:00",
+      "url": "https://www.thehindu.com/news/national/jamia-student-protest-why-is-the-lyngdoh-committee-report-significant-explained/article71640045.ece"
     },
     "a3693251a05c5f9179cee4ae": {
       "published_at": "2026-10-29T02:30:35+00:00",
@@ -23401,6 +23433,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T12:03:20.885276+00:00",
+  "last_cycle_at": "2026-10-29T12:03:34.808643+00:00",
   "schema_version": 1
 }
