@@ -12274,9 +12274,10 @@
     "8a6a7a5cfabb06cf7b2a41f7": {
       "published_at": "2026-10-29T10:44:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12610,
       "title": "CPI(M) leader P. Jayarajan condemns online attacks against Mammootty, says Wayanad visit issue was ‘resolved long ago’",
-      "updated_at": "2026-10-29T11:32:12.495835+00:00",
+      "updated_at": "2026-10-29T11:32:24.039787+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cpim-leader-p-jayarajan-condemns-online-attacks-against-mammootty-says-wayanad-visit-issue-was-resolved-long-ago/article71640000.ece"
     },
     "8a6b0a414b60fb544cf67551": {
@@ -18216,9 +18217,10 @@
     "cdce2bf0055edf8478c6bd51": {
       "published_at": "2026-10-29T10:47:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12611,
       "title": "“Will not sit with Bibi or Tibi”: Liberman rules out coalitions with Likud, Arab parties",
-      "updated_at": "2026-10-29T11:32:12.495839+00:00",
+      "updated_at": "2026-10-29T11:32:27.995562+00:00",
       "url": "https://www.tribuneindia.com/news/ahmad-tibi/will-not-sit-with-bibi-or-tibi-liberman-rules-out-coalitions-with-likud-arab-parties"
     },
     "ce0241c076847a73f676e590": {
@@ -19438,9 +19440,10 @@
     "da43517b49dd183d75a04f45": {
       "published_at": "2026-10-29T10:43:56+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12609,
       "title": "‘People have right to protest, but must be peaceful’: Naidu urges to follow Constitution",
-      "updated_at": "2026-10-29T11:32:12.495830+00:00",
+      "updated_at": "2026-10-29T11:32:19.899922+00:00",
       "url": "https://www.tribuneindia.com/news/india/people-have-right-to-protest-but-must-be-peaceful-naidu-urges-to-follow-constitution"
     },
     "da6803af0725d64265005359": {
@@ -20236,9 +20239,10 @@
     "e3e67d7373a30dd62057ace9": {
       "published_at": "2026-10-29T10:41:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12608,
       "title": "Telangana artists to raise awareness on El Nino impact, precautionary measures",
-      "updated_at": "2026-10-29T11:32:12.495811+00:00",
+      "updated_at": "2026-10-29T11:32:15.998266+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-artists-to-raise-awareness-on-el-nino-impact-precautionary-measures/article71639949.ece"
     },
     "e3f527088fc673646b7091ec": {
@@ -23181,6 +23185,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:32:12.498159+00:00",
+  "last_cycle_at": "2026-10-29T11:32:31.198604+00:00",
   "schema_version": 1
 }
