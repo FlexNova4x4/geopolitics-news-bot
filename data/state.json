@@ -1701,6 +1701,14 @@
       "updated_at": "2026-10-25T02:35:47.273504+00:00",
       "url": "https://www.dawn.com/news/2039678/pakistan-railways-declares-emergency-until-dec-31-after-repeated-accidents"
     },
+    "1698c30342915895b8b905c5": {
+      "published_at": "2026-10-28T19:26:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Stalin urges Murmu to initiate action against Gyanesh Kumar",
+      "updated_at": "2026-10-29T03:45:04.361221+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-urges-murmu-to-initiate-action-against-gyanesh-kumar/article71637691.ece"
+    },
     "16abaaedfb08445d958b73d0": {
       "published_at": "2026-10-27T02:05:40+00:00",
       "source": "hindustantimes.com",
@@ -4189,6 +4197,14 @@
       "title": "एनसीसी कैडेट्स को मिली सौगात, अब कुल्लू में ही उड़ान भरेंगे प्रदेश के कैडेट",
       "updated_at": "2026-10-26T10:14:40.727709+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-himachal-ncc-air-wing-hangar-inaugurated-kullu-bhuntar-airport-2026-10-26"
+    },
+    "3d2ab5c6a7382d36a96c1238": {
+      "published_at": "2026-10-28T19:30:21+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic",
+      "updated_at": "2026-10-29T03:45:04.361239+00:00",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/furniture-thrown-proceedings-disrupted-as-lawyers-protest-against-hc-judge-turns-chaotic/article71636515.ece"
     },
     "3d40bf7c5ccd76e0d34b0491": {
       "published_at": "2026-10-25T01:05:16+00:00",
@@ -13472,6 +13488,14 @@
       "updated_at": "2026-10-25T07:04:32.341033+00:00",
       "url": "https://www.hindustantimes.com/india-news/manipur-to-form-committee-of-36-communities-to-promote-peace-and-harmony-says-cm-101792910065093.html"
     },
+    "bb1368790e2e8b136025c26b": {
+      "published_at": "2026-10-28T19:27:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Terror financing, cross-border terrorism need to be held accountable: MEA on FATF meeting",
+      "updated_at": "2026-10-29T03:45:04.361235+00:00",
+      "url": "https://www.tribuneindia.com/news/cross-border-terrorism/terror-financing-cross-border-terrorism-need-to-be-held-accountable-mea-on-fatf-meeting"
+    },
     "bb4d4d8a67dda909f62d6bf2": {
       "published_at": "2026-10-27T01:19:57+00:00",
       "source": "amarujala.com",
@@ -15368,6 +15392,14 @@
       "title": "जब तक ज्ञानेश कुमार इस्तीफा नहीं देंगे तब तक चुप नहीं बैठेंगे : मीणा",
       "updated_at": "2026-10-27T06:36:28.104516+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/we-will-not-remain-silent-until-gyanesh-kumar-resigns-meena-kangra-news-r-399-1-sml1005-544561-2026-10-27"
+    },
+    "d5f5622943cb63d3a802d1dd": {
+      "published_at": "2026-10-28T19:30:39+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "T.N. govt. declares holiday on November 9 in view of Deepavali",
+      "updated_at": "2026-10-29T03:45:04.361243+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-declares-holiday-on-november-9-in-view-of-deepavali/article71635636.ece"
     },
     "d60f937a8e7747578ea5234e": {
       "published_at": "2026-10-26T07:17:16+00:00",
@@ -18631,6 +18663,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:44:52.804808+00:00",
+  "last_cycle_at": "2026-10-29T03:45:04.363205+00:00",
   "schema_version": 1
 }
