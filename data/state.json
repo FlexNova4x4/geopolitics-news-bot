@@ -3896,9 +3896,10 @@
     "359d03e2fb583f6e9a0ccaa3": {
       "published_at": "2026-10-29T02:04:10+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12249,
       "title": "Peshawar court sentences man to death for blasphemy",
-      "updated_at": "2026-10-29T05:11:28.121859+00:00",
+      "updated_at": "2026-10-29T05:11:31.981191+00:00",
       "url": "https://www.dawn.com/news/2040520/peshawar-court-sentences-man-to-death-for-blasphemy"
     },
     "35c67fdb10b3910ba1b39a56": {
@@ -11022,9 +11023,10 @@
     "910f5557ed71731530fd0462": {
       "published_at": "2026-10-29T02:27:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12252,
       "title": "ASEAN centrality cornerstone of India’s Act East Policy, Indo-Pacific vision: Rajnath Singh",
-      "updated_at": "2026-10-29T05:11:28.121881+00:00",
+      "updated_at": "2026-10-29T05:11:44.316380+00:00",
       "url": "https://www.tribuneindia.com/news/act-east-policy/asean-centrality-cornerstone-of-indias-act-east-policy-indo-pacific-vision-rajnath-singh"
     },
     "9111f8ea41073d6f725b4831": {
@@ -16010,9 +16012,10 @@
     "d0239ae6b4d32b097d5df3ac": {
       "published_at": "2026-10-29T02:04:11+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12250,
       "title": "Safety net foils drone attack on Hassankhel police station",
-      "updated_at": "2026-10-29T05:11:28.121874+00:00",
+      "updated_at": "2026-10-29T05:11:36.080499+00:00",
       "url": "https://www.dawn.com/news/2040508/safety-net-foils-drone-attack-on-hassankhel-police-station"
     },
     "d0318af29a39d92f30213ae8": {
@@ -19388,9 +19391,10 @@
     "f9c67bb1f4f86faf40eeabee": {
       "published_at": "2026-10-29T02:04:11+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12251,
       "title": "Dir traders stage protest as anti-encroachment drive continues",
-      "updated_at": "2026-10-29T05:11:28.121878+00:00",
+      "updated_at": "2026-10-29T05:11:40.177509+00:00",
       "url": "https://www.dawn.com/news/2040504/dir-traders-stage-protest-as-anti-encroachment-drive-continues"
     },
     "f9cd7495de354eadfaeb8178": {
@@ -19959,6 +19963,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:11:28.124031+00:00",
+  "last_cycle_at": "2026-10-29T05:11:47.519083+00:00",
   "schema_version": 1
 }
