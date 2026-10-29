@@ -1377,6 +1377,14 @@
       "updated_at": "2026-10-26T22:40:20.261123+00:00",
       "url": "https://www.dawn.com/news/2040010/govt-orders-review-of-existing-drug-pricing-formula-to-ensure-medicines-are-priced-fairly"
     },
+    "0d4db873c01e1b8b1c72e5e8": {
+      "published_at": "2026-10-29T19:55:58+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Mandi college students raise mental health awareness through street play",
+      "updated_at": "2026-10-29T20:21:55.979070+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/mandi-college-students-raise-mental-health-awareness-through-street-play"
+    },
     "0d6e7115fcf52b6ae3305b50": {
       "published_at": "2026-10-29T00:28:36+00:00",
       "source": "amarujala.com",
@@ -11140,6 +11148,14 @@
       "updated_at": "2026-10-27T05:36:40.222585+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/sugarcane-price-deadlock-nears-resolution-after-10-hour-discussion-with-karnataka-cm-dk-shivakumar/article71629759.ece"
     },
+    "6e874ea0ac3696b43ccd3eae": {
+      "published_at": "2026-10-29T19:53:30+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Norah Richards’ 150th birth anniv celebrated at Andretta",
+      "updated_at": "2026-10-29T20:21:55.979046+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/norah-richards-150th-birth-anniv-celebrated-at-andretta"
+    },
     "6e97311fe0ae679fefffb30b": {
       "published_at": "2026-10-29T07:54:22+00:00",
       "source": "publish.tribuneindia.com",
@@ -12217,6 +12233,14 @@
       "title": "Deadly tornado strikes construction site in Turkiye",
       "updated_at": "2026-10-27T19:33:15.378365+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss"
+    },
+    "784c5f84e7f6c7b00239e76d": {
+      "published_at": "2026-10-29T19:56:39+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Mamata calls for united Opposition front ahead of Nov 1 rally",
+      "updated_at": "2026-10-29T20:21:55.979075+00:00",
+      "url": "https://www.tribuneindia.com/news/india/mamata-calls-for-united-opposition-front-ahead-of-nov-1-rally"
     },
     "78846d46efd7e027311eead4": {
       "published_at": "2026-10-25T16:23:48+00:00",
@@ -19718,6 +19742,14 @@
       "updated_at": "2026-10-27T12:16:06.548370+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-announces-bonus-ex-gratia-for-c-and-d-category-employees-in-public-sector-undertakings/article71630770.ece"
     },
+    "bfa7ccef28468e2e1a94f16f": {
+      "published_at": "2026-10-29T19:55:47+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "BJP dominates MLC elections but loses Modi, RSS turfs to SP, Cong",
+      "updated_at": "2026-10-29T20:21:55.979064+00:00",
+      "url": "https://www.tribuneindia.com/news/india/bjp-dominates-mlc-elections-but-loses-modi-rss-turfs-to-sp-cong"
+    },
     "bfce183922a915727815ec34": {
       "published_at": "2026-10-29T16:20:15+00:00",
       "source": "aljazeera.com",
@@ -26731,6 +26763,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:21:46.548377+00:00",
+  "last_cycle_at": "2026-10-29T20:21:55.981835+00:00",
   "schema_version": 1
 }
