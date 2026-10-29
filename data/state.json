@@ -6083,9 +6083,10 @@
     "3bebccc71cc4e15cc79068bd": {
       "published_at": "2026-10-29T21:53:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13061,
       "title": "Congress demands dedicated development board for Kotia",
-      "updated_at": "2026-10-29T23:14:57.289997+00:00",
+      "updated_at": "2026-10-29T23:15:00.736514+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/congress-demands-dedicated-development-board-for-kotia/article71641415.ece"
     },
     "3bfae3c07cde8e41f296c547": {
@@ -13920,9 +13921,10 @@
     "8616acc7a3d96d39bf3ae852": {
       "published_at": "2026-10-29T22:37:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13063,
       "title": "Iran says US “carrot-and-stick” approach will not work as Tehran receives Vance’s letter amid push for talks",
-      "updated_at": "2026-10-29T23:14:57.290017+00:00",
+      "updated_at": "2026-10-29T23:15:08.521513+00:00",
       "url": "https://www.tribuneindia.com/news/ghalibaf-seven-conditions/iran-says-us-carrot-and-stick-approach-will-not-work-as-tehran-receives-vances-letter-amid-push-for-talks"
     },
     "863522b208dac4e855863d32": {
@@ -15161,9 +15163,10 @@
     "91b92ab6ffee9efb0baddb65": {
       "published_at": "2026-10-29T22:36:06+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13062,
       "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-      "updated_at": "2026-10-29T23:14:57.290015+00:00",
+      "updated_at": "2026-10-29T23:15:04.596335+00:00",
       "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss"
     },
     "91dd2c3062951b78af1f25a6": {
@@ -24106,9 +24109,10 @@
     "e6ac60336cff2cda8b42c1e3": {
       "published_at": "2026-10-29T22:52:06+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13064,
       "title": "CENTCOM chief briefs Trump on options for renewed attacks on Iran: Report",
-      "updated_at": "2026-10-29T23:14:57.290019+00:00",
+      "updated_at": "2026-10-29T23:15:12.499373+00:00",
       "url": "https://www.tribuneindia.com/news/ghalibaf-seven-conditions/centcom-chief-briefs-trump-on-options-for-renewed-attacks-on-iran-report"
     },
     "e6bdd7fb638e10f70213a79e": {
@@ -27222,6 +27226,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T23:14:57.292532+00:00",
+  "last_cycle_at": "2026-10-29T23:15:15.702183+00:00",
   "schema_version": 1
 }
