@@ -2225,9 +2225,10 @@
     "1cbc5f3c242bd3a279684cdd": {
       "published_at": "2026-10-29T04:48:45+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12316,
       "title": "हिमाचल प्रदेश: तिथी भोजन में हिमाचल देश में फिसड्डी, हर महीने देनी होगी रिपोर्ट; आयोजन और रिकॉर्ड रखना जरूरी",
-      "updated_at": "2026-10-29T05:19:00.202804+00:00",
+      "updated_at": "2026-10-29T05:19:16.015329+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/himachal-pradesh-tithi-bhojan-scheme-8-percent-performance-2026-2026-10-29"
     },
     "1cbe8385fcf86f4f84e3dac2": {
@@ -13277,9 +13278,10 @@
     "a97b78fea3dbeffd3900a900": {
       "published_at": "2026-10-29T04:41:30+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12313,
       "title": "Cyclone Arnab weakens to deep depression; triggers rains in south Odisha districts",
-      "updated_at": "2026-10-29T05:19:00.202782+00:00",
+      "updated_at": "2026-10-29T05:19:03.563909+00:00",
       "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-weakens-to-deep-depression-triggers-rains-in-south-odisha-districts-101793248891090.html"
     },
     "a9dcab3e419eff99808bfba0": {
@@ -14067,9 +14069,10 @@
     "b2db4ebc26b9c11d55f8aaa8": {
       "published_at": "2026-10-29T04:43:06+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12314,
       "title": "Demolition of pre-partition building in Hyderabad stopped",
-      "updated_at": "2026-10-29T05:19:00.202797+00:00",
+      "updated_at": "2026-10-29T05:19:07.657722+00:00",
       "url": "https://www.dawn.com/news/2040539/demolition-of-pre-partition-building-in-hyderabad-stopped"
     },
     "b34dd726c6ec28968d95d7ef": {
@@ -20296,9 +20299,10 @@
     "fd3f954b6cb82ea14121df3a": {
       "published_at": "2026-10-29T04:46:45+00:00",
       "source": "dawn.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12315,
       "title": "KP Dengue cases likely to drop next month: experts",
-      "updated_at": "2026-10-29T05:19:00.202801+00:00",
+      "updated_at": "2026-10-29T05:19:11.734985+00:00",
       "url": "https://www.dawn.com/news/2040659/kp-dengue-cases-likely-to-drop-next-month-experts"
     },
     "fd61cdc3092d268654883d2d": {
@@ -20535,6 +20539,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:19:00.205014+00:00",
+  "last_cycle_at": "2026-10-29T05:19:19.218332+00:00",
   "schema_version": 1
 }
