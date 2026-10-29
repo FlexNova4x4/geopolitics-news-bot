@@ -6494,9 +6494,10 @@
     "5a86e741f9f9cfb688ec8dcd": {
       "published_at": "2026-10-28T20:29:03+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12168,
       "title": "Child safety awareness camps held in four Chamba schools",
-      "updated_at": "2026-10-29T04:17:53.647907+00:00",
+      "updated_at": "2026-10-29T04:18:09.463921+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/child-safety-awareness-camps-held-in-four-chamba-schools"
     },
     "5a8c14c29602311bd951aab3": {
@@ -7641,9 +7642,10 @@
     "6a938700fadd693c953748f4": {
       "published_at": "2026-10-28T20:27:53+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12165,
       "title": "Himachal Chief Minister Sukhvinder Singh Sukhu moots easier PG studies for trainee docs",
-      "updated_at": "2026-10-29T04:17:53.647878+00:00",
+      "updated_at": "2026-10-29T04:17:57.361345+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-chief-minister-sukhvinder-singh-sukhu-moots-easier-pg-studies-for-trainee-docs"
     },
     "6a9c882a4e35941d2610f929": {
@@ -13194,9 +13196,10 @@
     "b34dd726c6ec28968d95d7ef": {
       "published_at": "2026-10-28T20:28:40+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12167,
       "title": "New Collectors for Karur, Tiruppur and Tenkasi as T.N. government goes for bureaucratic reshuffle",
-      "updated_at": "2026-10-29T04:17:53.647902+00:00",
+      "updated_at": "2026-10-29T04:18:05.573890+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/new-collectors-for-karur-tiruppur-and-tenkasi-as-tn-govt-goes-for-bureaucratic-reshuffle/article71637559.ece"
     },
     "b39c462200e0c2e80897c3bf": {
@@ -16143,9 +16146,10 @@
     "d9b15cfb7aadc41bdca1eec8": {
       "published_at": "2026-10-28T20:28:21+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12166,
       "title": "पंजाब के ध्यानार्थ:::वॉलीबॉल में बाबक क्लब की टीम बनी विजेता",
-      "updated_at": "2026-10-29T04:17:53.647896+00:00",
+      "updated_at": "2026-10-29T04:18:01.459486+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/babak-club-team-emerged-as-the-winner-in-volleyball-kangra-news-c-95-1-kng1047-263817-2026-10-29"
     },
     "da1b46e682616586de2a5f9b": {
@@ -19203,6 +19207,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:17:53.649792+00:00",
+  "last_cycle_at": "2026-10-29T04:18:12.666417+00:00",
   "schema_version": 1
 }
