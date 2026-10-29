@@ -2333,9 +2333,10 @@
     "1acfb4d4660a81a30df61fb9": {
       "published_at": "2026-10-29T09:17:05+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12561,
       "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-      "updated_at": "2026-10-29T10:30:59.927430+00:00",
+      "updated_at": "2026-10-29T10:31:03.640583+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss"
     },
     "1b09205a382a09834abe190e": {
@@ -10789,9 +10790,10 @@
     "7c5e1a83b06584d7924bde15": {
       "published_at": "2026-10-29T09:17:10+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12562,
       "title": "Argentina farmers evacuate cattle by boat as El Nino escalates",
-      "updated_at": "2026-10-29T10:30:59.927449+00:00",
+      "updated_at": "2026-10-29T10:31:07.542732+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss"
     },
     "7c77b1d428298b4dd4cb44aa": {
@@ -14779,9 +14781,10 @@
     "aaacf9ffd4c770052bf2194e": {
       "published_at": "2026-10-29T09:30:35+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12564,
       "title": "Kerala judge says he was asleep when son took Mercedes involved in fatal Kochi crash",
-      "updated_at": "2026-10-29T10:30:59.927461+00:00",
+      "updated_at": "2026-10-29T10:31:15.405974+00:00",
       "url": "https://www.hindustantimes.com/india-news/kerala-judge-tells-high-court-he-was-asleep-when-son-took-mercedes-benz-involved-in-fatal-kochi-crash-101793262924735.html"
     },
     "aab31edad40ec73606e83bc4": {
@@ -16820,9 +16823,10 @@
     "c0728a590f590822868c8395": {
       "published_at": "2026-10-29T09:28:41+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12563,
       "title": "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’",
-      "updated_at": "2026-10-29T10:30:59.927455+00:00",
+      "updated_at": "2026-10-29T10:31:11.494059+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/delhi-hc-asks-sourav-ganguly-to-specify-infringing-content-in-film-doosra"
     },
     "c084134207c7001eb52917b7": {
@@ -22758,6 +22762,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T10:30:59.929670+00:00",
+  "last_cycle_at": "2026-10-29T10:31:18.608799+00:00",
   "schema_version": 1
 }
