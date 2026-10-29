@@ -4400,9 +4400,10 @@
     "33ab8b447dff27d417a7c0d3": {
       "published_at": "2026-10-29T10:02:47+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12589,
       "title": "Mother’s feeding practices may influence children’s reluctance to try new foods: NIN study",
-      "updated_at": "2026-10-29T11:02:24.127669+00:00",
+      "updated_at": "2026-10-29T11:02:31.331702+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/mothers-feeding-practices-may-influence-childrens-reluctance-to-try-new-foods-nin-study/article71636204.ece"
     },
     "33c34f3565a9aa9508494bb8": {
@@ -13146,9 +13147,10 @@
     "95acd1a7a3e5c55e14c1165c": {
       "published_at": "2026-10-29T10:03:34+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12590,
       "title": "Two Madhya Pradesh sisters die by suicide with four children within hours: Police",
-      "updated_at": "2026-10-29T11:02:24.127673+00:00",
+      "updated_at": "2026-10-29T11:02:35.278563+00:00",
       "url": "https://www.hindustantimes.com/india-news/two-madhya-pradesh-sisters-die-by-suicide-with-four-children-within-hours-police-101793268215054.html"
     },
     "95f143944ae592eec44b7020": {
@@ -19006,9 +19008,10 @@
     "d71c35b9305004713d4df17b": {
       "published_at": "2026-10-29T10:01:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12588,
       "title": "Clash on campus: Police keep vigil in Calicut University in Keralam; classes suspended",
-      "updated_at": "2026-10-29T11:02:24.127653+00:00",
+      "updated_at": "2026-10-29T11:02:27.426681+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/clash-on-campus-police-keep-vigil-in-calicut-university-in-keralam-classes-suspended/article71639292.ece"
     },
     "d7326455d3174baa940e497a": {
@@ -19913,9 +19916,10 @@
     "e1e7653f1abc102af9ab48ef": {
       "published_at": "2026-10-29T10:05:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12591,
       "title": "Allegations against me are baseless, malicious, and politically motivated: L. Murugan",
-      "updated_at": "2026-10-29T11:02:24.127676+00:00",
+      "updated_at": "2026-10-29T11:02:39.377059+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/allegations-against-me-are-baseless-malicious-and-politically-motivated-l-murugan/article71639365.ece"
     },
     "e1edbb1c228ccc93dc761a81": {
@@ -23001,6 +23005,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T11:02:24.130035+00:00",
+  "last_cycle_at": "2026-10-29T11:02:42.580002+00:00",
   "schema_version": 1
 }
