@@ -19598,6 +19598,14 @@
       "updated_at": "2026-10-29T08:10:49.715790+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
     },
+    "e1b5961b03d6af8dcf79c892": {
+      "published_at": "2026-10-29T09:24:22+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Upa Lokayukta finds expired food items in eateries in Belagavi bus stand",
+      "updated_at": "2026-10-29T09:31:14.154919+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/upa-lokayukta-finds-expired-food-items-in-eateries-in-belagavi-bus-stand/article71639730.ece"
+    },
     "e1be094a719375d43c682565": {
       "published_at": "2026-10-26T03:33:31+00:00",
       "source": "thehindu.com",
@@ -21235,6 +21243,14 @@
       "updated_at": "2026-10-29T05:11:58.630237+00:00",
       "url": "https://www.hindustantimes.com/india-news/treat-our-requests-as-binding-orders-sc-101793215417433.html"
     },
+    "f2159dbcf1ae0cdd5c8d4556": {
+      "published_at": "2026-10-29T09:19:33+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Accused must explain source of excess wealth, not investigators: Supreme Court",
+      "updated_at": "2026-10-29T09:31:14.154902+00:00",
+      "url": "https://www.hindustantimes.com/india-news/accused-must-explain-source-of-excess-wealth-not-investigators-supreme-court-101793265574101.html"
+    },
     "f224a9e296ec03494fb0550d": {
       "published_at": "2026-10-29T03:00:57+00:00",
       "source": "aljazeera.com",
@@ -22636,6 +22652,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:31:04.392284+00:00",
+  "last_cycle_at": "2026-10-29T09:31:14.157164+00:00",
   "schema_version": 1
 }
