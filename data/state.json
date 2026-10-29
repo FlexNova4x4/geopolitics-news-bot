@@ -624,9 +624,10 @@
     "05db01238212369be2951fd8": {
       "published_at": "2026-10-29T06:10:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12948,
       "title": "Rampur Bushahar News: ठियोग में 9 ग्राम चिट्टे के साथ दो युवक गिरफ्तार",
-      "updated_at": "2026-10-29T18:19:50.831829+00:00",
+      "updated_at": "2026-10-29T18:20:06.079679+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/rampur-bushahar/accused-arrested-with-chitta-rampur-hp-news-c-178-1-ssml1034-173614-2026-10-29"
     },
     "05db79eaf451f1ada32d431a": {
@@ -2216,9 +2217,10 @@
     "16329d366d52a96dfa6a679b": {
       "published_at": "2026-10-29T05:50:33+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12946,
       "title": "Bilaspur News: तीन दिन में खाते से उड़ाए 2.62 लाख रुपये, महज 106 रुपये बचे",
-      "updated_at": "2026-10-29T18:19:50.831822+00:00",
+      "updated_at": "2026-10-29T18:19:57.652331+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/rs-262-lakh-siphoned-off-from-account-in-three-days-only-rs-106-remains-bilaspur-news-c-92-1-bls1001-170916-2026-10-29"
     },
     "1658cc6f4dd2dc07a2a2ede5": {
@@ -8508,9 +8510,10 @@
     "5797c357746001ecd95646c2": {
       "published_at": "2026-10-29T05:48:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12945,
       "title": "Kullu News: सड़क सुधार और बाढ़ नियंत्रण पर खर्च होंगे 6.57 करोड़",
-      "updated_at": "2026-10-29T18:19:50.831804+00:00",
+      "updated_at": "2026-10-29T18:19:53.639510+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/657-crore-will-be-spent-on-road-improvements-and-flood-control-kullu-news-c-89-1-ssml1014-190566-2026-10-29"
     },
     "57b5c5db53960f34288a7a78": {
@@ -24628,9 +24631,10 @@
     "f33a3a8afb30aa363ad24f0a": {
       "published_at": "2026-10-29T06:10:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12947,
       "title": "Rampur Bushahar News: बरोट गांव में भालू ने गोशाला का दरवाजा तोड़ गाय को किया घायल",
-      "updated_at": "2026-10-29T18:19:50.831826+00:00",
+      "updated_at": "2026-10-29T18:20:01.996475+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/rampur-bushahar/fear-of-bear-in-rampur-rampur-hp-news-c-178-1-ram1006-173655-2026-10-29"
     },
     "f33aa78f7d5929e790907685": {
@@ -26187,6 +26191,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:19:50.835230+00:00",
+  "last_cycle_at": "2026-10-29T18:20:09.283892+00:00",
   "schema_version": 1
 }
