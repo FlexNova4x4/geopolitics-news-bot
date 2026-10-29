@@ -666,6 +666,14 @@
       "updated_at": "2026-10-29T06:11:55.743257+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-police-encounters-explained/article71639046.ece"
     },
+    "06dbacd5ba8662b72e3cdc15": {
+      "published_at": "2026-10-29T13:17:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Erdogan dials Trump; extends diplomatic resolution for Hormuz, Yemen, Russia-Ukraine conflict",
+      "updated_at": "2026-10-29T14:03:25.760580+00:00",
+      "url": "https://www.tribuneindia.com/news/donald-trump/erdogan-dials-trump-extends-diplomatic-resolution-for-hormuz-yemen-russia-ukraine-conflict"
+    },
     "0726b45718d40494e2b3bc8b": {
       "published_at": "2026-10-25T21:52:06+00:00",
       "source": "amarujala.com",
@@ -13108,6 +13116,14 @@
       "updated_at": "2026-10-27T09:05:38.838248+00:00",
       "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-quashes-fir-against-pune-student-for-social-media-post-over-operation-sindoor/article71630398.ece"
     },
+    "8dd76e232746e9c2ead8bdeb": {
+      "published_at": "2026-10-29T13:25:07+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "updated_at": "2026-10-29T14:03:25.760596+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
+    },
     "8ddaa6241c00fe78d9add81e": {
       "published_at": "2026-10-27T13:20:03+00:00",
       "source": "thehindu.com",
@@ -16153,6 +16169,14 @@
       "title": "Pakistan’s food supply falls short of healthy diet needs, FAO warns; vegetables and fruits face major gaps",
       "updated_at": "2026-10-26T09:15:53.855077+00:00",
       "url": "https://www.tribuneindia.com/news/dietary-guidelines/pakistans-food-supply-falls-short-of-healthy-diet-needs-fao-warns-vegetables-and-fruits-face-major-gaps"
+    },
+    "af9280c4dcec4b782c1ebb08": {
+      "published_at": "2026-10-29T13:26:07+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "The megadonors financing the US midterms to influence policy",
+      "updated_at": "2026-10-29T14:03:25.760600+00:00",
+      "url": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss"
     },
     "af99b23d02b52cd21b36603d": {
       "published_at": "2026-10-25T16:28:54+00:00",
@@ -21253,6 +21277,14 @@
       "updated_at": "2026-10-27T08:33:23.560458+00:00",
       "url": "https://www.hindustantimes.com/india-news/after-breaking-bad-prison-break-has-begun-in-tamil-nadu-stalin-slams-vijay-govt-over-theni-jailbreak-101793086875625.html"
     },
+    "e424d71ed68ac8964990368c": {
+      "published_at": "2026-10-29T13:26:38+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Rising fuel costs force passengers off cruise ship",
+      "updated_at": "2026-10-29T14:03:25.760603+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss"
+    },
     "e44b9bd853abbb389136f045": {
       "published_at": "2026-10-27T09:22:45+00:00",
       "source": "aljazeera.com",
@@ -24256,6 +24288,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T14:03:04.019775+00:00",
+  "last_cycle_at": "2026-10-29T14:03:25.763463+00:00",
   "schema_version": 1
 }
