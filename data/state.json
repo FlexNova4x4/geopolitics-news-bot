@@ -3088,9 +3088,10 @@
     "26aa90fabd1de7eb17bdd2ef": {
       "published_at": "2026-10-29T06:40:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12412,
       "title": "Sirmour News: करवा चौथ पर नाहन में निशुल्क मेहंदी शिविर, 100 से अधिक महिलाओं ने सजाए हाथ-पैर",
-      "updated_at": "2026-10-29T06:44:29.717771+00:00",
+      "updated_at": "2026-10-29T06:44:34.078101+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/free-mehandi-sivir-for-women-in-nahan-nahan-news-c-177-1-ssml1028-192734-2026-10-28"
     },
     "26b256a7922966953d9f3a23": {
@@ -4228,9 +4229,10 @@
     "36192417e74607f5fda1b54d": {
       "published_at": "2026-10-29T06:43:50+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12415,
       "title": "Una News: बैंक कर्मचारी की सतर्कता से बची महिला की 1.50 लाख की रकम",
-      "updated_at": "2026-10-29T06:44:29.717794+00:00",
+      "updated_at": "2026-10-29T06:44:46.414326+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/womans-rs-150-lakh-saved-thanks-to-bank-employees-alertness-una-news-c-93-1-ssml1048-211699-2026-10-29"
     },
     "36723c49cf4299245b1f71ea": {
@@ -8522,9 +8524,10 @@
     "6ae654433e4a144a817bda47": {
       "published_at": "2026-10-29T06:42:16+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12414,
       "title": "Una News: दौलतपुर चौक में आलू की पटाई शुरू, किसानों को 4000 रुपये तक भाव",
-      "updated_at": "2026-10-29T06:44:29.717791+00:00",
+      "updated_at": "2026-10-29T06:44:42.297250+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/potato-harvesting-begins-in-daulatpur-chowk-farmers-fetch-prices-of-up-to-4000-rupees-una-news-c-93-1-ssml1048-211634-2026-10-29"
     },
     "6af10201def60d35f0a421e8": {
@@ -9869,9 +9872,10 @@
     "794e198a0a8d5ccc7a2f089b": {
       "published_at": "2026-10-29T06:40:51+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12413,
       "title": "Una News: अजोली में किराये के कमरे से 12.88 ग्राम चिट्टा बरामद, तीन गिरफ्तार",
-      "updated_at": "2026-10-29T06:44:29.717787+00:00",
+      "updated_at": "2026-10-29T06:44:38.166903+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/una/1288-grams-of-chitta-synthetic-drug-seized-from-a-rented-room-in-ajoli-three-arrested-una-news-c-93-1-ssml1048-211643-2026-10-29"
     },
     "795474e4cedd2040c5ab21ad": {
@@ -21426,6 +21430,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:44:29.720221+00:00",
+  "last_cycle_at": "2026-10-29T06:44:49.617451+00:00",
   "schema_version": 1
 }
