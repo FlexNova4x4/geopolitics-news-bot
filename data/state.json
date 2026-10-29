@@ -1335,9 +1335,10 @@
     "126308cd8ccec22bb30dfb9e": {
       "published_at": "2026-10-28T19:15:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12096,
       "title": "What has driven the high Arab turnout in Israel’s elections?",
-      "updated_at": "2026-10-29T03:43:11.372589+00:00",
+      "updated_at": "2026-10-29T03:43:26.094549+00:00",
       "url": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece"
     },
     "12ec63ab29bac3924115a196": {
@@ -6456,9 +6457,10 @@
     "5ce2c706cefcfc257c2c53c0": {
       "published_at": "2026-10-28T19:15:02+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12095,
       "title": "Three schoolgirls from Tiruvannamalai rescued at Kilambakkam bus terminus",
-      "updated_at": "2026-10-29T03:43:11.372587+00:00",
+      "updated_at": "2026-10-29T03:43:22.185836+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/three-schoolgirls-from-tiruvannamalai-rescued-at-kilambakkam-bus-terminus/article71634937.ece"
     },
     "5cfa53eb5862a5b22d5018e6": {
@@ -15352,9 +15354,10 @@
     "d6b7cbd1e247328a6524795f": {
       "published_at": "2026-10-28T19:13:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12094,
       "title": "Rise in child marriage complaints in Mysuru district",
-      "updated_at": "2026-10-29T03:43:11.372583+00:00",
+      "updated_at": "2026-10-29T03:43:18.274548+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/rise-in-child-marriage-complaints-in-mysuru-district/article71635727.ece"
     },
     "d6c4c676d3450f1d1830ac99": {
@@ -16933,9 +16936,10 @@
     "ed359915044ec8923365ebb6": {
       "published_at": "2026-10-28T19:13:51+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12093,
       "title": "MIDS professor alleges police harassment over fake Instagram account",
-      "updated_at": "2026-10-29T03:43:11.372569+00:00",
+      "updated_at": "2026-10-29T03:43:14.323472+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/mids-professor-alleges-police-harassment-over-fake-instagram-account/article71637364.ece"
     },
     "edc148b7049142f2dbe949b1": {
@@ -18555,6 +18559,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:43:11.374432+00:00",
+  "last_cycle_at": "2026-10-29T03:43:29.296904+00:00",
   "schema_version": 1
 }
