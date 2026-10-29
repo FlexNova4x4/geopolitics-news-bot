@@ -2459,9 +2459,10 @@
     "1e1bb607cdccd91b1b23b789": {
       "published_at": "2026-10-29T07:28:35+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12462,
       "title": "सड़क दुर्घटनाओं के डाटा की हो ऑनलाइन अपलोडिंग : गर्ग",
-      "updated_at": "2026-10-29T08:12:31.948976+00:00",
+      "updated_at": "2026-10-29T08:12:35.553421+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/stop-misleading-the-public-sukhu-rakesh-hamirpur-hp-news-c-94-1-hmp1029-213643-2026-10-29"
     },
     "1e5f494aa42e0bd0a93aa660": {
@@ -4579,9 +4580,10 @@
     "39ed74f74277d4ceb58eca30": {
       "published_at": "2026-10-29T07:29:50+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12465,
       "title": "Hamirpur (Himachal) News: मनोह-टिक्कर सड़क के विस्तार पर खर्च होंगे 11 करोड़",
-      "updated_at": "2026-10-29T08:12:31.949009+00:00",
+      "updated_at": "2026-10-29T08:12:47.676106+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/11-crore-to-be-spent-on-the-expansion-of-the-manoh-tikkar-road-hamirpur-hp-news-c-94-1-hmp1029-213624-2026-10-29"
     },
     "39f628a3996a16421746c618": {
@@ -6153,9 +6155,10 @@
     "4cc5ea1fc83b034a03f5808c": {
       "published_at": "2026-10-29T07:28:42+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12463,
       "title": "हिमाचल: कुल्लू दशहरा में महंगे प्लॉट पर भड़के कारोबारी, दुकानें बंद कर ठेकेदार के खिलाफ की नारेबाजी",
-      "updated_at": "2026-10-29T08:12:31.948995+00:00",
+      "updated_at": "2026-10-29T08:12:39.673885+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/kullu-dussehra-expensive-stalls-plots-traders-protest-2026-10-29"
     },
     "4cc9cf7d90ebe0343fd265cf": {
@@ -16495,9 +16498,10 @@
     "c31dcae5dce3a6982446790a": {
       "published_at": "2026-10-29T07:29:44+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12464,
       "title": "कुल्लू दशहरा में महंगे प्लॉट पर भड़के कारोबारी, दुकानें बंद कर ठेकेदार के खिलाफ की नारेबाजी",
-      "updated_at": "2026-10-29T08:12:31.949003+00:00",
+      "updated_at": "2026-10-29T08:12:43.569247+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/kullu/video-kullu-dussehra-expensive-stalls-plots-traders-protest-2026-10-29"
     },
     "c32f2aaa9d0a06775cda28f4": {
@@ -21876,6 +21880,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:12:31.951299+00:00",
+  "last_cycle_at": "2026-10-29T08:12:50.879207+00:00",
   "schema_version": 1
 }
