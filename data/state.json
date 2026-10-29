@@ -36,6 +36,14 @@
       "updated_at": "2026-10-27T12:14:39.975707+00:00",
       "url": "https://www.tribuneindia.com/news/world/israel-records-highest-voter-turnout-by-10-am-since-1981"
     },
+    "003d3ea116091a9e14b9ed4b": {
+      "published_at": "2026-10-29T05:02:43+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सोलन में गड़गड़ाहट के साथ सुबह से बारिश, 3 से 4 डिग्री गिरा तापमान, बढ़ी ठंड",
+      "updated_at": "2026-10-29T05:20:00.312481+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-rain-thunderstorm-temperature-drop-cold-weather-2026-10-29"
+    },
     "00625d8e81bf9d15a1ebed1c": {
       "published_at": "2026-10-27T13:28:07+00:00",
       "source": "thehindu.com",
@@ -2168,6 +2176,14 @@
       "updated_at": "2026-10-27T07:04:05.497154+00:00",
       "url": "https://www.tribuneindia.com/news/bilateral-relations/pm-modi-holds-delegation-level-talks-with-liechtensteins-hereditary-prince-alois"
     },
+    "1bffa55f9b7c830af9c53316": {
+      "published_at": "2026-10-29T05:02:39+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "सोलन में एनएच-5 पर बाइक, कार और कैंटर ट्रक की जोरदार टक्कर, तीनों वाहन क्षतिग्रस्त",
+      "updated_at": "2026-10-29T05:20:00.312465+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/solan/video-solan-nh-5-bike-car-canter-truck-accident-2026-10-29"
+    },
     "1c11618bd298491d4737b23e": {
       "published_at": "2026-10-26T07:03:07+00:00",
       "source": "aljazeera.com",
@@ -3631,6 +3647,14 @@
       "title": "सिरमौर: शिलाई के शरली गांव में विवाह और समाज सुधार पर बड़े फैसले, दहेज पर रोक और बारातियों की संख्या होगी सीमित",
       "updated_at": "2026-10-26T04:53:41.206808+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-sharli-village-shillai-marriage-reform-rules-sirmaur-himachal-pradesh-2026-2026-10-26"
+    },
+    "2fe9e6d5174022661903ff6a": {
+      "published_at": "2026-10-29T05:03:52+00:00",
+      "source": "dawn.com",
+      "status": "reserved",
+      "title": "Inquiry holds school owner responsible for roof collapse that killed 30 students in Peshawar",
+      "updated_at": "2026-10-29T05:20:00.312485+00:00",
+      "url": "https://www.dawn.com/news/2040661/inquiry-holds-school-owner-responsible-for-roof-collapse-that-killed-30-students-in-peshawar"
     },
     "2ff4a1771e5181ce5d42e451": {
       "published_at": "2026-10-25T14:14:47+00:00",
@@ -14120,6 +14144,14 @@
       "updated_at": "2026-10-27T14:43:44.552452+00:00",
       "url": "https://www.tribuneindia.com/news/india/25-rounds-of-military-talks-stabilised-india-china-ties-but-normalisation-hinges-on-border-peace-shringla"
     },
+    "b39e3ee3b8a38d6aa3df5832": {
+      "published_at": "2026-10-29T05:08:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "बजंतरियों का मानदेय बढ़ाना संस्कृति संरक्षण की दिशा में अहम कदम : मेहर",
+      "updated_at": "2026-10-29T05:20:00.312490+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kullu/increasing-the-honorarium-for-traditional-musicians-is-a-significant-step-towards-cultural-preservation-meher-kullu-news-c-89-1-klu1002-190485-2026-10-28"
+    },
     "b3a60fa3671009c5c8257212": {
       "published_at": "2026-10-26T07:24:58+00:00",
       "source": "aljazeera.com",
@@ -20575,6 +20607,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:19:49.625874+00:00",
+  "last_cycle_at": "2026-10-29T05:20:00.314694+00:00",
   "schema_version": 1
 }
