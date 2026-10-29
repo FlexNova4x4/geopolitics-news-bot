@@ -606,9 +606,10 @@
     "06cd6bf18b4baa6af8436f42": {
       "published_at": "2026-10-29T05:47:24+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12366,
       "title": "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
-      "updated_at": "2026-10-29T06:11:51.834532+00:00",
+      "updated_at": "2026-10-29T06:11:55.743257+00:00",
       "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-police-encounters-explained/article71639046.ece"
     },
     "0726b45718d40494e2b3bc8b": {
@@ -911,9 +912,10 @@
     "09c09f3982a31d1faaa4ff5e": {
       "published_at": "2026-10-29T05:54:37+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12368,
       "title": "India, Austria look to deepen defence, security and technology ties",
-      "updated_at": "2026-10-29T06:11:51.834553+00:00",
+      "updated_at": "2026-10-29T06:12:03.883597+00:00",
       "url": "https://www.tribuneindia.com/news/india/india-austria-look-to-deepen-defence-security-and-technology-ties"
     },
     "0a0d9d55ddba5ec3db5235a9": {
@@ -964,9 +966,10 @@
     "0ab4ba1a503d1c7f3cb4dfe3": {
       "published_at": "2026-10-29T05:53:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12367,
       "title": "Fraudsters posed as company director to siphon off are 22.56 lakh; gold, items worth Rs 2.5 crore seized",
-      "updated_at": "2026-10-29T06:11:51.834548+00:00",
+      "updated_at": "2026-10-29T06:11:59.665106+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/fraudsters-posed-as-company-director-to-siphon-off-are-22-56-lakh-gold-items-worth-rs-2-5-crore-seized"
     },
     "0ad86da679ca75352a3bf1e0": {
@@ -18131,9 +18134,10 @@
     "e06591ed22be942aba70cb06": {
       "published_at": "2026-10-29T05:55:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12369,
       "title": "Congress rally on November 1: What are the conditions imposed by Delhi Police",
-      "updated_at": "2026-10-29T06:11:51.834556+00:00",
+      "updated_at": "2026-10-29T06:12:07.975702+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/congress-rally-november-1-ramlila-maidan-restrictions-by-delhi-police/article71635407.ece"
     },
     "e0662c36b9b20f30a85c2460": {
@@ -21012,6 +21016,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:11:51.836708+00:00",
+  "last_cycle_at": "2026-10-29T06:12:11.178762+00:00",
   "schema_version": 1
 }
