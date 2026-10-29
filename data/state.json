@@ -4220,9 +4220,10 @@
     "3bd58db3896512fa5b7e47eb": {
       "published_at": "2026-10-28T20:22:16+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12158,
       "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
-      "updated_at": "2026-10-29T04:16:56.841034+00:00",
+      "updated_at": "2026-10-29T04:17:05.042429+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss"
     },
     "3bfae3c07cde8e41f296c547": {
@@ -8297,9 +8298,10 @@
     "7298bf8c5097d2330a30cf8d": {
       "published_at": "2026-10-28T20:17:24+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12157,
       "title": "Himachal Minister Vikramaditya calls for waste segregation at source",
-      "updated_at": "2026-10-29T04:16:56.841018+00:00",
+      "updated_at": "2026-10-29T04:17:01.078928+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-minister-vikramaditya-calls-for-waste-segregation-at-source"
     },
     "72a2d33b808a214be974bc22": {
@@ -8943,9 +8945,10 @@
     "7a0afa3bcbecf0d501ae436c": {
       "published_at": "2026-10-28T20:22:25+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12159,
       "title": "Two dug peddlers arrested with 1.028 kg charas in Hamirpur",
-      "updated_at": "2026-10-29T04:16:56.841038+00:00",
+      "updated_at": "2026-10-29T04:17:09.141827+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/two-dug-peddlers-arrested-with-1-028-kg-charas-in-hamirpur"
     },
     "7a1d120985829e41204a3378": {
@@ -19008,9 +19011,10 @@
     "fe9a5e93f24287b7a4630153": {
       "published_at": "2026-10-28T20:24:29+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12160,
       "title": "MC to develop seven new playgrounds in Shimla",
-      "updated_at": "2026-10-29T04:16:56.841041+00:00",
+      "updated_at": "2026-10-29T04:17:13.242166+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mc-to-develop-seven-new-playgrounds-in-shimla"
     },
     "fea88e332656e9d9d93c9a21": {
@@ -19131,6 +19135,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:16:56.843087+00:00",
+  "last_cycle_at": "2026-10-29T04:17:16.444819+00:00",
   "schema_version": 1
 }
