@@ -3512,9 +3512,10 @@
     "24c739083af37b22d891469c": {
       "published_at": "2026-10-29T15:34:27+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12858,
       "title": "B-SMILE cancels tenders for two elevated corridor projects again, refloats on the same day with reestimates",
-      "updated_at": "2026-10-29T16:20:16.932881+00:00",
+      "updated_at": "2026-10-29T16:20:28.473644+00:00",
       "url": "https://www.thehindu.com/news/cities/bangalore/b-smile-cancels-tenders-for-two-elevated-corridor-projects-again-refloats-on-the-same-day-with-reestimates/article71641587.ece"
     },
     "24f42936a0cafb0637010f5c": {
@@ -12948,9 +12949,10 @@
     "8641c37564bdb7caf8036c34": {
       "published_at": "2026-10-29T15:32:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12857,
       "title": "Zelenskyy says Russia launched fresh strikes on civilian infrastructure as death toll in Dnipro station attack rises to 14",
-      "updated_at": "2026-10-29T16:20:16.932877+00:00",
+      "updated_at": "2026-10-29T16:20:24.545385+00:00",
       "url": "https://www.tribuneindia.com/news/chernihiv/zelenskyy-says-russia-launched-fresh-strikes-on-civilian-infrastructure-as-death-toll-in-dnipro-station-attack-rises-to-14"
     },
     "8668b0dd5cb4ceaa8001a83d": {
@@ -19979,9 +19981,10 @@
     "ccf1016aaf3fbe5d600912af": {
       "published_at": "2026-10-29T03:54:58+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12856,
       "title": "सरकार का फैसला: हिमाचल में अब ऑफलाइन लॉटरी शुरू करने की तैयारी, संशोधित टेंडर जारी",
-      "updated_at": "2026-10-29T16:20:16.932861+00:00",
+      "updated_at": "2026-10-29T16:20:20.339206+00:00",
       "url": "https://www.amarujala.com/shimla/hp-govt-decision-preparations-underway-to-launch-offline-lotteries-in-himachal-revised-tender-issued-2026-10-29"
     },
     "cd0fdecfaf7f0ed4a7c575d9": {
@@ -25299,9 +25302,10 @@
     "fedc9161181c612500011421": {
       "published_at": "2026-10-29T15:35:32+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12859,
       "title": "At BRICS, India must bank on the NDB",
-      "updated_at": "2026-10-29T16:20:16.932884+00:00",
+      "updated_at": "2026-10-29T16:20:32.295380+00:00",
       "url": "https://www.thehindu.com/news/national/at-brics-india-must-bank-on-the-ndb/article71451692.ece"
     },
     "ff00da6ff48d059a4de4b5a6": {
@@ -25404,6 +25408,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:20:16.935945+00:00",
+  "last_cycle_at": "2026-10-29T16:20:35.498837+00:00",
   "schema_version": 1
 }
