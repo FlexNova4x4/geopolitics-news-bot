@@ -9668,9 +9668,10 @@
     "67a2e5eadad6f532a7ee6f24": {
       "published_at": "2026-10-29T14:51:42+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12816,
       "title": "No government jobs in Uttar Pradesh for protesters ‘involved in regime change through violence’",
-      "updated_at": "2026-10-29T15:27:44.298451+00:00",
+      "updated_at": "2026-10-29T15:27:47.105830+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/no-government-jobs-in-uttar-pradesh-for-protesters-involved-in-regime-change-through-violence/article71641261.ece"
     },
     "67c27340fc7e64fa8b4a3aff": {
@@ -18505,9 +18506,10 @@
     "c04d03d3e611b78a1866897c": {
       "published_at": "2026-10-29T14:55:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12818,
       "title": "Govt. conspiring to damage Mallannasagar with blasts near bund, alleges Harish Rao",
-      "updated_at": "2026-10-29T15:27:44.298471+00:00",
+      "updated_at": "2026-10-29T15:27:54.639594+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/govt-conspiring-to-damage-mallannasagar-with-blasts-near-bund-alleges-harish-rao/article71641218.ece"
     },
     "c04d09efdfe915b6fd93ec3f": {
@@ -23117,17 +23119,19 @@
     "ef2a65d8b67b75f66829cb41": {
       "published_at": "2026-10-29T14:55:55+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12819,
       "title": "Jagan accuses government of neglecting cyclone-hit farmers",
-      "updated_at": "2026-10-29T15:27:44.298473+00:00",
+      "updated_at": "2026-10-29T15:27:58.613171+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-accuses-government-of-neglecting-cyclone-hit-farmers/article71641203.ece"
     },
     "ef4f64eb72a37ca019549fa5": {
       "published_at": "2026-10-29T14:52:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12817,
       "title": "APSRTC bus driver chased, attacked for not halting bus at a Annamayya village",
-      "updated_at": "2026-10-29T15:27:44.298466+00:00",
+      "updated_at": "2026-10-29T15:27:50.863823+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/youths-chase-assault-apsrtc-driver-for-not-halting-bus-at-a-annamayya-village/article71640257.ece"
     },
     "ef50a09ba73a9236ab350a70": {
@@ -25044,6 +25048,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T15:27:44.301279+00:00",
+  "last_cycle_at": "2026-10-29T15:28:01.816660+00:00",
   "schema_version": 1
 }
