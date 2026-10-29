@@ -7376,6 +7376,14 @@
       "updated_at": "2026-10-26T00:55:11.886358+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/number-of-diabetes-patients-in-solan-crosses-16000-young-people-also-affected-solan-news-c-176-1-sln1013-182727-2026-10-25"
     },
+    "484cb2af1a634de23c0cc3ce": {
+      "published_at": "2026-10-29T21:10:13+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+      "updated_at": "2026-10-29T22:45:32.023572+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss"
+    },
     "485484d27562c96f534ecf57": {
       "published_at": "2026-10-29T12:36:43+00:00",
       "source": "aljazeera.com",
@@ -11921,6 +11929,14 @@
       "title": "Kullu News: कुल्लू में 69 शैक्षणिक संस्थान आपदा के प्रति अति संवेदनशील",
       "updated_at": "2026-10-27T17:41:12.223910+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/69-educational-institutions-in-kullu-are-highly-vulnerable-to-disasters-kullu-news-r-399-1-sml1008-545108-2026-10-27"
+    },
+    "73f1e7806f7e081c569d1a24": {
+      "published_at": "2026-10-29T21:30:20+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Police barged into my office to arrest former Minister Anbil Mahesh Poyyamozhi, alleges senior advocate P. Wilson in Madras HC",
+      "updated_at": "2026-10-29T22:45:32.023599+00:00",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/police-barged-into-my-office-to-arrest-former-minister-anbil-mahesh-poyyamozhi-alleges-senior-advocate-p-wilson-in-madras-hc/article71641679.ece"
     },
     "73f7bc52cc2e773dbb96ba13": {
       "published_at": "2026-10-25T14:42:51+00:00",
@@ -20383,6 +20399,14 @@
       "updated_at": "2026-10-27T09:05:14.727829+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/delhi-hc-refuses-to-stay-probe-into-fir-against-journalist-over-casteist-remarks-against-acp"
     },
+    "c1b836a527c8ded752b58caa": {
+      "published_at": "2026-10-29T21:16:26+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+      "updated_at": "2026-10-29T22:45:32.023592+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss"
+    },
     "c1b909cea2548d29e2bc0bd0": {
       "published_at": "2026-10-29T15:43:23+00:00",
       "source": "thehindu.com",
@@ -20715,6 +20739,14 @@
       "title": "Survey of unincorporated enterprises to expand, shift to financial-year cycle from 2027",
       "updated_at": "2026-10-27T04:11:19.449556+00:00",
       "url": "https://www.hindustantimes.com/india-news/survey-of-unincorporated-enterprises-to-expand-shift-to-financial-year-cycle-from-2027-101793070454701.html"
+    },
+    "c4f506e7f0f82d7508424fd4": {
+      "published_at": "2026-10-29T21:27:14+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Christine Lagarde resigns as European Central Bank President",
+      "updated_at": "2026-10-29T22:45:32.023596+00:00",
+      "url": "https://www.tribuneindia.com/news/christine-lagarde/christine-lagarde-resigns-as-european-central-bank-president"
     },
     "c5239f39a393510fb972e02d": {
       "published_at": "2026-10-28T20:38:01+00:00",
@@ -27127,6 +27159,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T22:45:25.716666+00:00",
+  "last_cycle_at": "2026-10-29T22:45:32.025758+00:00",
   "schema_version": 1
 }
