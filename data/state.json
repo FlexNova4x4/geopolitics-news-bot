@@ -4308,6 +4308,14 @@
       "updated_at": "2026-10-26T22:42:05.819778+00:00",
       "url": "https://www.tribuneindia.com/news/india/rajnath-slams-congress-chief-kharge-over-remarks-against-modi"
     },
+    "2d3639bd7752205259b5f52f": {
+      "published_at": "2026-10-29T17:25:17+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "UAE sentences eight people to life over arms supplies to Sudan’s army",
+      "updated_at": "2026-10-29T18:20:18.607811+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss"
+    },
     "2d64d18832e02132a9255ebd": {
       "published_at": "2026-10-26T19:15:31+00:00",
       "source": "thehindu.com",
@@ -6790,6 +6798,14 @@
       "title": "Ex-Army captain arrested in Vellore over military intelligence leak",
       "updated_at": "2026-10-25T12:05:39.951506+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ex-army-captain-arrested-in-vellore-over-military-intelligence-leak/article71623053.ece"
+    },
+    "45cbc5657064454332d2ea31": {
+      "published_at": "2026-10-29T06:18:03+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Rampur Bushahar News: तकनीकी कर्मचारियों के 60 फीसदी पद रिक्त, जल्द भर्ती करे सरकार",
+      "updated_at": "2026-10-29T18:20:18.607802+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/rampur-bushahar/demands-of-pensioners-rampur-hp-news-c-178-1-ssml1032-173610-2026-10-29"
     },
     "45de2bc2b84e3786613310b2": {
       "published_at": "2026-10-25T20:03:06+00:00",
@@ -16245,6 +16261,14 @@
       "updated_at": "2026-10-27T03:12:16.048403+00:00",
       "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece"
     },
+    "a326f6708eab3dee819ce440": {
+      "published_at": "2026-10-29T06:17:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Kangra News: 25 साल पहले सड़क के लिए ली जमीन का मुआवजा देना होगा",
+      "updated_at": "2026-10-29T18:20:18.607786+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/kangra/compensation-must-be-paid-for-land-acquired-for-a-road-25-years-ago-kangra-news-c-90-1-mnd1001-219712-2026-10-29"
+    },
     "a33c6cedf51da838b63f46c5": {
       "published_at": "2026-10-29T13:57:50+00:00",
       "source": "thehindu.com",
@@ -18700,6 +18724,14 @@
       "title": "नाहन: वार्ड-4 में ढलान हटाकर फिर बना जा रही सीढ़ियां, बरसात में घरों में घुस जाता था पानी",
       "updated_at": "2026-10-29T13:01:17.677285+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-nahan-stairs-are-being-reconstructed-in-ward-4-after-removing-a-slope-previously-water-used-to-enter-homes-during-the-rainy-season-2026-10-29"
+    },
+    "b9b5f8cd426bb6c12e1420b2": {
+      "published_at": "2026-10-29T06:18:43+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "वीडियो: उखली पुल से नादौन तक 47 किलोमीटर का सत्यनिष्ठा मार्च निकाला",
+      "updated_at": "2026-10-29T18:20:18.607807+00:00",
+      "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-video-a-47-kilometer-march-for-integrity-was-held-from-ukhli-bridge-to-nadaun-2026-10-29"
     },
     "b9b798d590abe0e0dbad8654": {
       "published_at": "2026-10-29T16:57:34+00:00",
@@ -26191,6 +26223,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T18:20:09.283892+00:00",
+  "last_cycle_at": "2026-10-29T18:20:18.610850+00:00",
   "schema_version": 1
 }
