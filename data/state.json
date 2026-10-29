@@ -8412,9 +8412,10 @@
     "545ae91cb4dab6e7e05d8f4f": {
       "published_at": "2026-10-29T19:52:08+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13006,
       "title": "Kangra Coop Bank waives processing fees for select loans under festive offer",
-      "updated_at": "2026-10-29T20:21:28.948173+00:00",
+      "updated_at": "2026-10-29T20:21:35.593512+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kangra-coop-bank-waives-processing-fees-for-select-loans-under-festive-offer"
     },
     "547814c06e9294bda6dd2372": {
@@ -12337,9 +12338,10 @@
     "79a0623fc57afb3385b1af10": {
       "published_at": "2026-10-29T19:47:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13005,
       "title": "Himachal Pradesh High Court junks poll plea against Bara panchayat pradhan",
-      "updated_at": "2026-10-29T20:21:28.948158+00:00",
+      "updated_at": "2026-10-29T20:21:31.667850+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-pradesh-high-court-junks-poll-plea-against-bara-panchayat-pradhan"
     },
     "79a58b5c06a65e9c6e4a2cd9": {
@@ -17110,9 +17112,10 @@
     "a80a49795271c9bfdc240e03": {
       "published_at": "2026-10-29T19:53:05+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13008,
       "title": "‘Don’t worry about lathis, BJP doesn’t have guts’: Rahul ahead of Nov 1 rally",
-      "updated_at": "2026-10-29T20:21:28.948180+00:00",
+      "updated_at": "2026-10-29T20:21:43.344850+00:00",
       "url": "https://www.tribuneindia.com/news/india/dont-worry-about-lathis-bjp-doesnt-have-guts-rahul-ahead-of-nov-1-rally"
     },
     "a81ae82aff1b2ce5ce46d90a": {
@@ -22973,9 +22976,10 @@
     "dfb033e233295f62df490b09": {
       "published_at": "2026-10-29T19:52:22+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13007,
       "title": "Remote Shahpur village to get road connectivity; Rs 90 lakh earmarked for construction",
-      "updated_at": "2026-10-29T20:21:28.948177+00:00",
+      "updated_at": "2026-10-29T20:21:39.379275+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/remote-shahpur-village-to-get-road-connectivity-rs-90-lakh-earmarked-for-construction"
     },
     "dfc40f7163d06368a9b75e0b": {
@@ -26727,6 +26731,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:21:28.951196+00:00",
+  "last_cycle_at": "2026-10-29T20:21:46.548377+00:00",
   "schema_version": 1
 }
