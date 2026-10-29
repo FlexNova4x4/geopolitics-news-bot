@@ -5336,9 +5336,10 @@
     "35726a72b31adade91360065": {
       "published_at": "2026-10-29T20:14:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13026,
       "title": "Kullu left struggling as daily Delhi flights remain off radar",
-      "updated_at": "2026-10-29T20:23:34.224298+00:00",
+      "updated_at": "2026-10-29T20:23:41.029643+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/kullu-left-struggling-as-daily-delhi-flights-remain-off-radar"
     },
     "357e83d5d39c87578101f7ab": {
@@ -12004,9 +12005,10 @@
     "75f1209dcbf0340baa890ec1": {
       "published_at": "2026-10-29T20:13:52+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13025,
       "title": "Water crisis in Solan after snag at Giri pumping station; tanker supply on rise",
-      "updated_at": "2026-10-29T20:23:34.224284+00:00",
+      "updated_at": "2026-10-29T20:23:37.295967+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/water-crisis-in-solan-after-snag-at-giri-pumping-station-tanker-supply-on-rise"
     },
     "75feb9d3478ee9dd3e9e15d9": {
@@ -21257,9 +21259,10 @@
     "ce0467845a0ba26aae09196b": {
       "published_at": "2026-10-29T20:15:20+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13027,
       "title": "Himachal Road Transport Corporation to run 226 special buses ahead of Diwali",
-      "updated_at": "2026-10-29T20:23:34.224302+00:00",
+      "updated_at": "2026-10-29T20:23:44.917394+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-road-transport-corporation-to-run-226-special-buses-ahead-of-diwali"
     },
     "ce05360d5d90600be59775c7": {
@@ -26899,6 +26902,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:23:34.227433+00:00",
+  "last_cycle_at": "2026-10-29T20:23:48.121010+00:00",
   "schema_version": 1
 }
