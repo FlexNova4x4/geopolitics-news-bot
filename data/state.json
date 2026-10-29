@@ -3934,9 +3934,10 @@
     "26b737267b13fd10b0de733d": {
       "published_at": "2026-10-29T20:21:29+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13036,
       "title": "Surangani DAV School girls win U-17 national kabaddi title",
-      "updated_at": "2026-10-29T20:51:13.643580+00:00",
+      "updated_at": "2026-10-29T20:51:16.160466+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/surangani-dav-school-girls-win-u-17-national-kabaddi-title"
     },
     "26ba1981b8f9a2a095f54a1f": {
@@ -8152,9 +8153,10 @@
     "505384289e935450c1c19c14": {
       "published_at": "2026-10-29T20:23:55+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13038,
       "title": "Families affected by serious illness to get priority in BPL list at Karsog",
-      "updated_at": "2026-10-29T20:51:13.643598+00:00",
+      "updated_at": "2026-10-29T20:51:23.893417+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/families-affected-by-serious-illness-to-get-priority-in-bpl-list-at-karsog"
     },
     "50646b1f51a7a5ac5f3a5f3c": {
@@ -10180,9 +10182,10 @@
     "6438bbea1d3db92c7bd5776c": {
       "published_at": "2026-10-29T20:25:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13039,
       "title": "Sirmour News: राजगढ़ में अंडर-14 राज्यस्तरीय खेलकूद प्रतियोगिता शुरू, 480 खिलाड़ी दिखाएंगे दम",
-      "updated_at": "2026-10-29T20:51:13.643602+00:00",
+      "updated_at": "2026-10-29T20:51:27.584270+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/under-14-state-level-sports-competition-begins-in-rajgarh-480-athletes-to-showcase-their-skills-nahan-news-c-177-1-ssml1028-192825-2026-10-29"
     },
     "644a54ec241f14fd34719154": {
@@ -18080,9 +18083,10 @@
     "af11012ee96efea31f3cdaed": {
       "published_at": "2026-10-29T20:22:04+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13037,
       "title": "Israel election result shows no overall majority as vote count complete",
-      "updated_at": "2026-10-29T20:51:13.643595+00:00",
+      "updated_at": "2026-10-29T20:51:20.085421+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss"
     },
     "af1fbd9463a93bd6bc5bb3ed": {
@@ -27006,6 +27010,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:51:13.646832+00:00",
+  "last_cycle_at": "2026-10-29T20:51:30.788624+00:00",
   "schema_version": 1
 }
