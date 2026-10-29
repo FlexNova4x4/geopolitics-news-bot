@@ -10744,9 +10744,10 @@
     "93dfec3a72c0e753c4937a85": {
       "published_at": "2026-10-28T20:06:19+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12150,
       "title": "BJP suffers setback in bastions in UP MLC polls, SP gets boost ahead of 2027 assembly elections",
-      "updated_at": "2026-10-29T04:16:00.534852+00:00",
+      "updated_at": "2026-10-29T04:16:08.903235+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjp-suffers-setback-in-bastions-in-uttar-prades-up-mlc-polls-samajwadi-party-sp-gets-boost-ahead-of-2027-assembly-elections-101793217980515.html"
     },
     "940b4c9390cc8836b4fae9b1": {
@@ -11399,9 +11400,10 @@
     "9c184d1122252c977cc47f9c": {
       "published_at": "2026-10-28T20:12:03+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12152,
       "title": "कुंजी या एमबीडी की किताबों से पढ़ाने पर होगी कार्रवाई: शिक्षा निदेशक",
-      "updated_at": "2026-10-29T04:16:00.534859+00:00",
+      "updated_at": "2026-10-29T04:16:17.138844+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/action-will-be-taken-if-teaching-is-done-using-key-books-or-mbd-guides-director-of-education-solan-news-c-176-1-sln1009-183039-2026-10-28"
     },
     "9c2f4bea9633690be6f3bb97": {
@@ -12151,9 +12153,10 @@
     "a6d58f8f8cf002928165c385": {
       "published_at": "2026-10-28T20:07:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12151,
       "title": "Student behind Army drone project injured in hostel fall",
-      "updated_at": "2026-10-29T04:16:00.534856+00:00",
+      "updated_at": "2026-10-29T04:16:13.006056+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/student-behind-army-drone-project-injured-in-hostel-fall"
     },
     "a6def70ddd121613b81f6e1c": {
@@ -16215,9 +16218,10 @@
     "dc23540ed2b0e07d69dc25e4": {
       "published_at": "2026-10-28T20:06:05+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12149,
       "title": "Pioneering U.S. labour leader Dolores Huerta dies at 96",
-      "updated_at": "2026-10-29T04:16:00.534837+00:00",
+      "updated_at": "2026-10-29T04:16:04.969093+00:00",
       "url": "https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece"
     },
     "dc30a941cd2b90b52916b339": {
@@ -19059,6 +19063,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:16:00.536886+00:00",
+  "last_cycle_at": "2026-10-29T04:16:20.341452+00:00",
   "schema_version": 1
 }
