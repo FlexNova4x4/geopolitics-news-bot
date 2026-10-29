@@ -1542,9 +1542,10 @@
     "14902469ed4380afc415fbf3": {
       "published_at": "2026-10-28T19:52:00+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12134,
       "title": "CM to release book co-authored by late B. Madhusoodana Kurup",
-      "updated_at": "2026-10-29T04:13:15.870171+00:00",
+      "updated_at": "2026-10-29T04:13:23.389076+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/cm-to-release-book-co-authored-by-late-b-madhusoodana-kurup/article71637430.ece"
     },
     "14996176530da03b1025658d": {
@@ -5389,9 +5390,10 @@
     "4bea722745993b733c042f6b": {
       "published_at": "2026-10-28T19:51:59+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12133,
       "title": "NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail",
-      "updated_at": "2026-10-29T04:13:15.870156+00:00",
+      "updated_at": "2026-10-29T04:13:19.485313+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ntks-saattai-duraimurugan-moves-madras-high-court-seeking-anticipatory-bail/article71637572.ece"
     },
     "4c4507b441e36f8a51901405": {
@@ -7640,9 +7642,10 @@
     "6b7e8d2ad5a25488a03649da": {
       "published_at": "2026-10-28T19:52:21+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12136,
       "title": "Noel to quit 6 Tata boards on November 12",
-      "updated_at": "2026-10-29T04:13:15.870178+00:00",
+      "updated_at": "2026-10-29T04:13:31.495877+00:00",
       "url": "https://www.tribuneindia.com/news/world/noel-to-quit-6-tata-boards-on-november-12"
     },
     "6bc851e3443abd39e8b18177": {
@@ -8071,9 +8074,10 @@
     "7080f421bd631340741e546e": {
       "published_at": "2026-10-28T19:52:00+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12135,
       "title": "Asian Para Games gold medallist Nishad accorded warm welcome at hometown Amb",
-      "updated_at": "2026-10-29T04:13:15.870175+00:00",
+      "updated_at": "2026-10-29T04:13:27.292025+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/asian-para-games-gold-medallist-nishad-accorded-warm-welcome-at-hometown-amb"
     },
     "709698de401165344dff4e2d": {
@@ -18915,6 +18919,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:13:15.872050+00:00",
+  "last_cycle_at": "2026-10-29T04:13:34.698566+00:00",
   "schema_version": 1
 }
