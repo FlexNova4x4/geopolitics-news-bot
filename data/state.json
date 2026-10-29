@@ -4964,6 +4964,14 @@
       "updated_at": "2026-10-24T23:59:44.179047+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
     },
+    "3fd55028484ec2521875f21d": {
+      "published_at": "2026-10-29T06:25:02+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Europe’s wealth gap: Older households eight times richer than young ones",
+      "updated_at": "2026-10-29T07:09:35.884364+00:00",
+      "url": "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss"
+    },
     "3ff5d7b9a967598a92b51f15": {
       "published_at": "2026-10-27T06:12:04+00:00",
       "source": "aljazeera.com",
@@ -5260,6 +5268,14 @@
       "title": "Vijay inaugurates advanced electrical labs in 30 government ITIs",
       "updated_at": "2026-10-29T03:44:45.680406+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-inaugurates-advanced-electrical-labs-in-30-government-itis/article71635149.ece"
+    },
+    "43490cbad5105230e5e6f088": {
+      "published_at": "2026-10-29T06:30:31+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Chennai youth convicted to 22 yrs imprisonment for sexually assaulting minor girl",
+      "updated_at": "2026-10-29T07:09:35.884370+00:00",
+      "url": "https://www.hindustantimes.com/india-news/chennai-youth-convicted-to-22-yrs-imprisonment-for-sexually-assaulting-minor-girl-101793255432455.html"
     },
     "435118d1b6f8ff546b39db04": {
       "published_at": "2026-10-25T17:10:02+00:00",
@@ -6671,6 +6687,14 @@
       "title": "2012 Dharmasthala case: SIT summons 15 police officers for questioning on Oct 30",
       "updated_at": "2026-10-27T10:05:05.967038+00:00",
       "url": "https://www.hindustantimes.com/india-news/2012-dharmasthala-case-sit-summons-15-police-officers-for-questioning-on-oct-30-101793093880968.html"
+    },
+    "54ff0ae7a445776776403d80": {
+      "published_at": "2026-10-29T06:35:14+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "At least 68 dead after two trains collide in Spain’s Toledo Province",
+      "updated_at": "2026-10-29T07:09:35.884375+00:00",
+      "url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece"
     },
     "550da544b03b04299d531968": {
       "published_at": "2026-10-24T21:06:25+00:00",
@@ -20344,6 +20368,14 @@
       "updated_at": "2026-10-26T06:23:03.180210+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhis-min-temp-drops-to-season-s-lowest-16-2-c-air-quality-slips-to-178-101792994202120.html"
     },
+    "f47f8fa2fb575697d446d383": {
+      "published_at": "2026-10-29T06:19:37+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘Why is his arrest required?’: Kerala HC stays arrest of judge whose son was involved in Kochi Mercedes crash",
+      "updated_at": "2026-10-29T07:09:35.884344+00:00",
+      "url": "https://www.hindustantimes.com/india-news/why-is-his-arrest-required-kerala-hc-stays-arrest-of-judge-whose-son-was-involved-in-kochi-mercedes-crash-101793253500193.html"
+    },
     "f4d79de7047399b9ae493032": {
       "published_at": "2026-10-28T19:12:14+00:00",
       "source": "publish.tribuneindia.com",
@@ -21439,6 +21471,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T06:45:01.411221+00:00",
+  "last_cycle_at": "2026-10-29T07:09:35.886560+00:00",
   "schema_version": 1
 }
