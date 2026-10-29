@@ -171,6 +171,14 @@
       "updated_at": "2026-10-25T05:39:48.980594+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-morning-brief-october-25-ec-keeps-sir-software-under-wraps-pistols-used-in-shroff-firing-found-101792898097293.html"
     },
+    "01c89b3dcc836eb5b4a58222": {
+      "published_at": "2026-10-29T08:00:10+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab: Railway bridge near Andhra’s Ichchapuram inundated; trains cancelled, diverted",
+      "updated_at": "2026-10-29T08:44:01.998551+00:00",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-railway-bridge-near-andhras-ichchapuram-inundated-trains-cancelled-diverted/article71639000.ece"
+    },
     "0207b220ce053bf2f28629dc": {
       "published_at": "2026-10-27T11:42:56+00:00",
       "source": "thehindu.com",
@@ -5557,6 +5565,14 @@
       "title": "Jerusalem Daily: Israel expels thousands from Hebron",
       "updated_at": "2026-10-25T18:13:18.864548+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
+    },
+    "440db584964469a885f8c30a": {
+      "published_at": "2026-10-29T07:55:35+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rahul asks people to join ‘Chalo Dilli Ramlila March’ without worrying about police, batons",
+      "updated_at": "2026-10-29T08:44:01.998544+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rahul-asks-people-to-join-chalo-dilli-ramlila-march-without-worrying-about-police-batons-101793260536481.html"
     },
     "4416e1e84ee2d349095ccce6": {
       "published_at": "2026-10-25T20:49:34+00:00",
@@ -15146,6 +15162,14 @@
       "updated_at": "2026-10-25T19:41:16.374815+00:00",
       "url": "https://www.hindustantimes.com/india-news/at-least-2-feared-trapped-as-under-construction-building-collapses-in-delhis-harsh-vihar-101792954263019.html"
     },
+    "b2d1b80f0226163c3ff32e9f": {
+      "published_at": "2026-10-29T07:54:51+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "How to stop the US-Israel war on Iran",
+      "updated_at": "2026-10-29T08:44:01.998528+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss"
+    },
     "b2db4ebc26b9c11d55f8aaa8": {
       "published_at": "2026-10-29T04:43:06+00:00",
       "source": "dawn.com",
@@ -18843,6 +18867,14 @@
       "updated_at": "2026-10-27T19:34:22.677493+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/four-new-33-kv-substations-will-be-built-in-the-district-40-to-50-crore-rupees-will-be-spent-bilaspur-news-c-92-1-bls1001-170786-2026-10-28"
     },
+    "dbfeaa337de89b26a99f8595": {
+      "published_at": "2026-10-29T07:56:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Cyclone Arnab effect: Rain intensifies in parts of Jharkhand, to continue till October 30",
+      "updated_at": "2026-10-29T08:44:01.998548+00:00",
+      "url": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rainfall-in-jharkhand-with-orange-and-yellow-alerts-issued-across-several-districts-and-school-closures-through-friday/article71639339.ece"
+    },
     "dc0211b68a6d222749fceac1": {
       "published_at": "2026-10-27T08:33:33+00:00",
       "source": "hindustantimes.com",
@@ -22132,6 +22164,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T08:43:54.942666+00:00",
+  "last_cycle_at": "2026-10-29T08:44:02.000770+00:00",
   "schema_version": 1
 }
