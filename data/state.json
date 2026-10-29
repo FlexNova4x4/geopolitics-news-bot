@@ -1479,9 +1479,10 @@
     "0f31b9255e5f154f9242de95": {
       "published_at": "2026-10-29T16:43:37+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12923,
       "title": "France football chief backs Real Madrid’s Mbappe after China apology",
-      "updated_at": "2026-10-29T17:21:34.263206+00:00",
+      "updated_at": "2026-10-29T17:21:44.591718+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss"
     },
     "0f7dd16fe6cc0d9f990389da": {
@@ -6505,9 +6506,10 @@
     "432e3fe58c1ccfbe09ddb3e2": {
       "published_at": "2026-10-29T16:47:59+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12924,
       "title": "Amit Shah’s Lucknow visit to put BJP’s UP poll machinery in motion",
-      "updated_at": "2026-10-29T17:21:34.263209+00:00",
+      "updated_at": "2026-10-29T17:21:48.312161+00:00",
       "url": "https://www.tribuneindia.com/news/india/amit-shahs-lucknow-visit-to-put-bjps-up-poll-machinery-in-motion"
     },
     "433557c1edbacbb97819da92": {
@@ -24233,9 +24235,10 @@
     "f15fe17d1883123083d46f15": {
       "published_at": "2026-10-29T16:33:44+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12921,
       "title": "Why US Sports Owners Spend Millions on Politics",
-      "updated_at": "2026-10-29T17:21:34.263184+00:00",
+      "updated_at": "2026-10-29T17:21:37.042945+00:00",
       "url": "https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss"
     },
     "f17074f2bff6dfa7b5decd9b": {
@@ -24421,9 +24424,10 @@
     "f2edf2d6aff656ef12b3ca73": {
       "published_at": "2026-10-29T16:34:55+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12922,
       "title": "European Central Bank President Lagarde to step down early",
-      "updated_at": "2026-10-29T17:21:34.263202+00:00",
+      "updated_at": "2026-10-29T17:21:40.857751+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss"
     },
     "f30d142922e2ed99df3863c6": {
@@ -25989,6 +25993,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:21:34.266403+00:00",
+  "last_cycle_at": "2026-10-29T17:21:51.515801+00:00",
   "schema_version": 1
 }
