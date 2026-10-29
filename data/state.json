@@ -4589,9 +4589,10 @@
     "36e21661f2baa4ad2cb61100": {
       "published_at": "2026-10-29T09:06:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12556,
       "title": "Cyclone Arnab effect: Drizzle, chill set in MP; 9 districts on alert for heavy rain, gusty winds",
-      "updated_at": "2026-10-29T10:00:58.074810+00:00",
+      "updated_at": "2026-10-29T10:01:14.387099+00:00",
       "url": "https://www.tribuneindia.com/news/madhya-pradesh/cyclone-arnab-effect-drizzle-chill-set-in-mp-9-districts-on-alert-for-heavy-rain-gusty-winds"
     },
     "3705a6b0e9af55993543bb81": {
@@ -17154,9 +17155,10 @@
     "c41711f2dc6e408bd3df0c8d": {
       "published_at": "2026-10-29T09:03:55+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12555,
       "title": "‘NCLT completely hijacked by Ministry of Corporate Affairs’: Supreme Court",
-      "updated_at": "2026-10-29T10:00:58.074805+00:00",
+      "updated_at": "2026-10-29T10:01:10.270425+00:00",
       "url": "https://www.tribuneindia.com/news/india/nclt-completely-hijacked-by-ministry-of-corporate-affairs-supreme-court"
     },
     "c43aca3f5b82e12d2f982352": {
@@ -18071,9 +18073,10 @@
     "cffa4a70e2ee6f0638af87ea": {
       "published_at": "2026-10-29T07:28:26+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12554,
       "title": "BBC in the Philippines where Thomas Markle is expected to be investigated",
-      "updated_at": "2026-10-29T10:00:58.074800+00:00",
+      "updated_at": "2026-10-29T10:01:06.318144+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss"
     },
     "d0090389f6910285d7dd3799": {
@@ -19768,9 +19771,10 @@
     "e360d7d7d5395ffe45eff8b1": {
       "published_at": "2026-10-28T21:36:25+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12553,
       "title": "हमीरपुर: करवाचौथ पर अवाहदेवी माता मंदिर में उमड़ी सुहागिनों की भीड़, भजन-कीर्तन पर झूमीं महिलाएं",
-      "updated_at": "2026-10-29T10:00:58.074780+00:00",
+      "updated_at": "2026-10-29T10:01:02.204412+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-awahdevi-mata-temple-karwa-chauth-women-devotees-2026-10-29"
     },
     "e3771485bac45dc11005f126": {
@@ -22686,6 +22690,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T10:00:58.077399+00:00",
+  "last_cycle_at": "2026-10-29T10:01:17.590016+00:00",
   "schema_version": 1
 }
