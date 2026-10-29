@@ -4658,6 +4658,14 @@
       "updated_at": "2026-10-26T05:52:59.751218+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
     },
+    "30bab1d8a7a1ac9376536dcb": {
+      "published_at": "2026-10-29T16:59:51+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "₹8 milk price hike to push tea, coffee prices up by ₹5",
+      "updated_at": "2026-10-29T17:22:17.899029+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/8-milk-price-hike-to-push-tea-coffee-prices-up-by-5/article71641183.ece"
+    },
     "30bdb4c118690ef680d01483": {
       "published_at": "2026-10-28T20:41:32+00:00",
       "source": "thehindu.com",
@@ -7753,6 +7761,14 @@
       "title": "Supreme Court questions Sindh govt’s property claim",
       "updated_at": "2026-10-25T03:35:24.668058+00:00",
       "url": "https://www.dawn.com/news/2039585/supreme-court-questions-sindh-govts-property-claim"
+    },
+    "50756faa506e7b10e8a14633": {
+      "published_at": "2026-10-29T16:56:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bengaluru to get 4,900 new garbage collection vehicles with higher capacity",
+      "updated_at": "2026-10-29T17:22:17.899019+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-get-4900-new-garbage-collection-vehicles-with-higher-capacity/article71641961.ece"
     },
     "50a4cdb6e1ae84b61fbca6d1": {
       "published_at": "2026-10-27T12:20:50+00:00",
@@ -18584,6 +18600,14 @@
       "updated_at": "2026-10-29T13:01:17.677285+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/sirmour/video-nahan-stairs-are-being-reconstructed-in-ward-4-after-removing-a-slope-previously-water-used-to-enter-homes-during-the-rainy-season-2026-10-29"
     },
+    "b9b798d590abe0e0dbad8654": {
+      "published_at": "2026-10-29T16:57:34+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Bengaluru to get two reservoirs",
+      "updated_at": "2026-10-29T17:22:17.899024+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-get-two-reservoirs/article71641942.ece"
+    },
     "b9f51bfed272818e408aa895": {
       "published_at": "2026-10-27T01:16:08+00:00",
       "source": "thehindu.com",
@@ -21713,6 +21737,14 @@
       "title": "Bilaspur News: प्लांट के बाहर सड़क पर गाड़ी खड़ी कर रोका रास्ता, कर्मचारियों को धमकाने का आरोप",
       "updated_at": "2026-10-26T06:45:01.237179+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/accused-of-blocking-the-path-by-parking-a-vehicle-on-the-road-outside-the-plant-and-threatening-employees-bilaspur-news-c-92-1-bls1001-170695-2026-10-26"
+    },
+    "d924188b1f6bcef8f8a308e3": {
+      "published_at": "2026-10-29T16:53:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Post-Arnab cyclone, heavy rain wreaks havoc in Odisha’s Ganjam, Gajapati districts",
+      "updated_at": "2026-10-29T17:22:17.899000+00:00",
+      "url": "https://www.thehindu.com/news/national/odisha/post-arnab-cyclone-heavy-rain-wreaks-havoc-in-odishas-ganjam-gajapati-districts/article71641226.ece"
     },
     "d935c05371abf257fed0477b": {
       "published_at": "2026-10-29T04:02:19+00:00",
@@ -25993,6 +26025,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T17:21:51.515801+00:00",
+  "last_cycle_at": "2026-10-29T17:22:17.901941+00:00",
   "schema_version": 1
 }
