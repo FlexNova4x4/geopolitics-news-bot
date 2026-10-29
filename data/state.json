@@ -1188,6 +1188,14 @@
       "updated_at": "2026-10-26T13:45:13.254755+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss"
     },
+    "0f7dd16fe6cc0d9f990389da": {
+      "published_at": "2026-10-29T04:22:05+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "हिमाचल प्रदेश में मौसम ने ली करवट: वीरवार सुबह शिमला में हुई बारिश; अगले दिनों में बारिश-बर्फबारी के आसार",
+      "updated_at": "2026-10-29T05:17:36.644909+00:00",
+      "url": "https://www.amarujala.com/shimla/shimla-rain-today-29-october-2026-himachal-pradesh-weather-forecast-2026-10-29"
+    },
     "0fb97cbc377bdc7efb9851e9": {
       "published_at": "2026-10-29T01:14:01+00:00",
       "source": "feeds.bbci.co.uk",
@@ -1978,6 +1986,14 @@
       "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
       "updated_at": "2026-10-27T10:34:26.214969+00:00",
       "url": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss"
+    },
+    "17fd2fd2726ffe5880689d42": {
+      "published_at": "2026-10-29T04:22:09+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Traders seek action against street vendors, encroachments in Dharwad",
+      "updated_at": "2026-10-29T05:17:36.644926+00:00",
+      "url": "https://www.thehindu.com/news/national/karnataka/traders-seek-action-against-street-vendors-encroachments-in-dharwad/article71636398.ece"
     },
     "180a7ee7acd91f817526448f": {
       "published_at": "2026-10-29T02:12:20+00:00",
@@ -15721,6 +15737,14 @@
       "updated_at": "2026-10-26T06:44:56.919772+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/15000-devotees-offered-prayers-to-baba-balak-nath-at-shahtalai-bilaspur-news-c-92-1-bls1001-170668-2026-10-26"
     },
+    "c70ffc8d557943b6cc21ccc8": {
+      "published_at": "2026-10-29T04:22:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "‘India-ASEAN Youth Bridge’ will foster people-to-people connection, digital innovation, capacity building: Rajnath Singh at ADMM-Plus meet",
+      "updated_at": "2026-10-29T05:17:36.644931+00:00",
+      "url": "https://www.tribuneindia.com/news/admm-plus/india-asean-youth-bridge-will-foster-people-to-people-connection-digital-innovation-capacity-building-rajnath-singh-at-admm-plus-meet"
+    },
     "c72fd80e641756d52d21a881": {
       "published_at": "2026-10-26T03:13:04+00:00",
       "source": "thehindu.com",
@@ -16692,6 +16716,14 @@
       "title": "'Unanimity doesn't mean rules were followed': Congress leader rejects ECI affidavit amid CEC row",
       "updated_at": "2026-10-27T03:10:58.865588+00:00",
       "url": "https://www.hindustantimes.com/india-news/unanimity-doesnt-mean-rules-were-followed-congress-leader-rejects-eci-affidavit-amid-cec-row-101793066956964.html"
+    },
+    "d48899abd4ccbc7ce936faba": {
+      "published_at": "2026-10-29T04:23:30+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State",
+      "updated_at": "2026-10-29T05:17:36.644934+00:00",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-election-congress-bjp-nagpur/article71638769.ece"
     },
     "d48aecf50fb94cdb89b5d847": {
       "published_at": "2026-10-27T12:40:49+00:00",
@@ -20395,6 +20427,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T05:17:29.430227+00:00",
+  "last_cycle_at": "2026-10-29T05:17:36.647210+00:00",
   "schema_version": 1
 }
