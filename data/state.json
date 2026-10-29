@@ -7064,9 +7064,10 @@
     "49a1703f2db1353d3af62f6c": {
       "published_at": "2026-10-29T16:22:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12892,
       "title": "“Whoever becomes PM will pay special attention to ties”: Ex-diplomat Mahesh Sachdev on India-Israel relations",
-      "updated_at": "2026-10-29T16:54:23.807003+00:00",
+      "updated_at": "2026-10-29T16:54:26.998058+00:00",
       "url": "https://www.tribuneindia.com/news/arab-israeli-parties/whoever-becomes-pm-will-pay-special-attention-to-ties-ex-diplomat-mahesh-sachdev-on-india-israel-relations"
     },
     "49bad963a3556e142d805c93": {
@@ -18316,9 +18317,10 @@
     "b93bcfb65bdf6f583fdc902c": {
       "published_at": "2026-10-29T16:25:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12894,
       "title": "Awareness session on kidney, urological conditions held in Nizamabad",
-      "updated_at": "2026-10-29T16:54:23.807023+00:00",
+      "updated_at": "2026-10-29T16:54:34.751912+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/awareness-session-on-kidney-urological-conditions-held-in-nizamabad/article71640618.ece"
     },
     "b969e9a67a8a6280d8a51592": {
@@ -25113,9 +25115,10 @@
     "faf677dddb17fc111f269d6b": {
       "published_at": "2026-10-29T16:25:46+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12895,
       "title": "Keralam govt. to take health checks to the doorstep through ‘Hridayaragam’",
-      "updated_at": "2026-10-29T16:54:23.807027+00:00",
+      "updated_at": "2026-10-29T16:54:38.554273+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-to-take-health-checks-to-the-doorstep-through-hridayaragam/article71641797.ece"
     },
     "fafebdb403dde06cf560ba55": {
@@ -25292,9 +25295,10 @@
     "fc599e060914b66b827c2f49": {
       "published_at": "2026-10-29T16:24:13+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12893,
       "title": "Ukraine says at least 13 killed in Russian attack on train station",
-      "updated_at": "2026-10-29T16:54:23.807019+00:00",
+      "updated_at": "2026-10-29T16:54:30.981854+00:00",
       "url": "https://www.thehindu.com/news/international/ukraine-says-at-least-13-killed-in-russian-attack-on-train-station/article71641924.ece"
     },
     "fc7368afc2ad74520de6cd45": {
@@ -25728,6 +25732,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T16:54:23.809811+00:00",
+  "last_cycle_at": "2026-10-29T16:54:41.757824+00:00",
   "schema_version": 1
 }
