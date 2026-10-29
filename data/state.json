@@ -3704,6 +3704,14 @@
       "updated_at": "2026-10-26T22:41:24.841656+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece"
     },
+    "34eeaf405516b45060d91b61": {
+      "published_at": "2026-10-28T19:49:38+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Protruding posts, ad boards choke Kochi junctions, endanger commuters",
+      "updated_at": "2026-10-29T04:12:49.820620+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/protruding-posts-ad-boards-choke-kochi-junctions-endanger-commuters/article70963172.ece"
+    },
     "35164c58d2a823ed95f02152": {
       "published_at": "2026-10-28T19:17:13+00:00",
       "source": "publish.tribuneindia.com",
@@ -5611,6 +5619,14 @@
       "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
       "updated_at": "2026-10-27T07:36:23.914782+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+    },
+    "4fe0f0d756fda9cbcaedae2e": {
+      "published_at": "2026-10-28T19:50:04+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Bolsonaro, family land in US after Brazil poll defeat",
+      "updated_at": "2026-10-29T04:12:49.820662+00:00",
+      "url": "https://www.tribuneindia.com/news/world/bolsonaro-family-land-in-us-after-brazil-poll-defeat"
     },
     "4fe2e450c023050631d77d44": {
       "published_at": "2026-10-26T09:08:53+00:00",
@@ -11529,6 +11545,14 @@
       "title": "SC collegium recommends four judges for appointment as High Court chief justices",
       "updated_at": "2026-10-27T07:05:47.980716+00:00",
       "url": "https://www.thehindu.com/news/national/sc-collegium-recommends-four-judges-for-appointment-as-high-court-chief-justices/article71630086.ece"
+    },
+    "9fabf67d7b3b54c04b53a9db": {
+      "published_at": "2026-10-28T19:50:44+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Congress rout in Karnataka MLC poll, BJP loses Varanasi",
+      "updated_at": "2026-10-29T04:12:49.820665+00:00",
+      "url": "https://www.tribuneindia.com/news/india/congress-rout-in-karnataka-mlc-poll-bjp-loses-varanasi"
     },
     "9fb33e132a78349a3130fc80": {
       "published_at": "2026-10-27T14:14:27+00:00",
@@ -17716,6 +17740,14 @@
       "updated_at": "2026-10-25T10:04:25.407614+00:00",
       "url": "https://www.thehindu.com/news/national/eci-hiding-information-on-ecinet-software-as-it-will-reveal-manipulation-congress/article71622932.ece"
     },
+    "f3288c7bc28bf7125d68cb49": {
+      "published_at": "2026-10-28T19:49:59+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "UAE honours Indian pilot for averting mid-air disaster",
+      "updated_at": "2026-10-29T04:12:49.820658+00:00",
+      "url": "https://www.tribuneindia.com/news/india/uae-honours-indian-pilot-for-averting-mid-air-disaster"
+    },
     "f32c61db06e6f953d3a969c4": {
       "published_at": "2026-10-25T04:19:35+00:00",
       "source": "dawn.com",
@@ -18847,6 +18879,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T04:12:39.954183+00:00",
+  "last_cycle_at": "2026-10-29T04:12:49.822823+00:00",
   "schema_version": 1
 }
