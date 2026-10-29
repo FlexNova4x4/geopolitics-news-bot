@@ -3635,9 +3635,10 @@
     "3539988275121536d2cd5332": {
       "published_at": "2026-10-28T19:05:44+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12086,
       "title": "Fed leaves interest rates unchanged despite inflation in the US",
-      "updated_at": "2026-10-29T03:41:32.917960+00:00",
+      "updated_at": "2026-10-29T03:41:40.555073+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss"
     },
     "3549e8af29da89f78b3a9dc5": {
@@ -4489,9 +4490,10 @@
     "4181ac0fa80bb13df434b955": {
       "published_at": "2026-10-28T19:07:18+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12088,
       "title": "BJP’s new UP headquarters in Lucknow may bloom with lotus-shaped facade",
-      "updated_at": "2026-10-29T03:41:32.917967+00:00",
+      "updated_at": "2026-10-29T03:41:48.366592+00:00",
       "url": "https://www.hindustantimes.com/india-news/bjp-new-uttar-pradesh-up-headquarters-in-lucknow-may-bloom-with-lotus-shaped-facade-101793214439009.html"
     },
     "419d9f2013ec3a322daa40d7": {
@@ -10175,9 +10177,10 @@
     "90befcc13b0796426d2c064b": {
       "published_at": "2026-10-28T19:05:48+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12087,
       "title": "New RSS group registers with justice dept to lobby in America",
-      "updated_at": "2026-10-29T03:41:32.917964+00:00",
+      "updated_at": "2026-10-29T03:41:44.451986+00:00",
       "url": "https://www.hindustantimes.com/india-news/new-rss-group-registers-with-justice-dept-to-lobby-in-america-101793214349259.html"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -17230,9 +17233,10 @@
     "f111b0b1b8a124f2a1f59459": {
       "published_at": "2026-10-28T19:04:21+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12085,
       "title": "Kavitha threatens to block census operations over OBC column demand",
-      "updated_at": "2026-10-29T03:41:32.917945+00:00",
+      "updated_at": "2026-10-29T03:41:36.622923+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/kavitha-threatens-to-block-census-operations-over-obc-column-demand/article71635925.ece"
     },
     "f12a1ad96fc63a024b4f839c": {
@@ -18483,6 +18487,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:41:32.919757+00:00",
+  "last_cycle_at": "2026-10-29T03:41:51.568672+00:00",
   "schema_version": 1
 }
