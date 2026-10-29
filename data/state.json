@@ -822,9 +822,10 @@
     "09bc2b129d603bed1e3794ac": {
       "published_at": "2026-10-28T19:37:17+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12116,
       "title": "Ensure ring road for Palampur under 20-year master plan: Hoteliers",
-      "updated_at": "2026-10-29T03:46:11.182865+00:00",
+      "updated_at": "2026-10-29T03:46:26.894903+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/ensure-ring-road-for-palampur-under-20-year-master-plan-hoteliers"
     },
     "0a15affbb3f0fc4d24a69c87": {
@@ -3625,9 +3626,10 @@
     "3421f43d87c5f1d911ecc00b": {
       "published_at": "2026-10-28T19:35:30+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12113,
       "title": "Government working to provide best healthcare in Ghumarwin: Dharmani",
-      "updated_at": "2026-10-29T03:46:11.182833+00:00",
+      "updated_at": "2026-10-29T03:46:14.756481+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/government-working-to-provide-best-healthcare-in-ghumarwin-dharmani"
     },
     "3422328a7fdd5046fca5cd9b": {
@@ -4515,9 +4517,10 @@
     "41069dbf3849bf467176c6ed": {
       "published_at": "2026-10-28T19:35:43+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12114,
       "title": "Farmer injured by gun trap allegedly set for wild boars in Kasaragod",
-      "updated_at": "2026-10-29T03:46:11.182857+00:00",
+      "updated_at": "2026-10-29T03:46:18.872373+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/farmer-injured-by-gun-trap-allegedly-set-for-wild-boars-in-kasaragod/article71634712.ece"
     },
     "411b5e606230522c4cdb2a96": {
@@ -7810,9 +7813,10 @@
     "6e9ec055a9bc80c277955bd9": {
       "published_at": "2026-10-28T19:37:11+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12115,
       "title": "ED attaches Azam Khan’s Mohd Ali Jauhar University",
-      "updated_at": "2026-10-29T03:46:11.182861+00:00",
+      "updated_at": "2026-10-29T03:46:22.784799+00:00",
       "url": "https://www.tribuneindia.com/news/india/ed-attaches-azam-khans-mohd-ali-jauhar-university"
     },
     "6edc4a40f0cfb6016b734a0c": {
@@ -18735,6 +18739,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T03:46:11.184818+00:00",
+  "last_cycle_at": "2026-10-29T03:46:30.097486+00:00",
   "schema_version": 1
 }
