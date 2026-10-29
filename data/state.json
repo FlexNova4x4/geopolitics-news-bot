@@ -8096,9 +8096,10 @@
     "5a17990018d3ec4ed1e59435": {
       "published_at": "2026-10-29T13:22:31+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12719,
       "title": "Gadag district has 7.94 lakh voters after SIR",
-      "updated_at": "2026-10-29T13:35:12.655811+00:00",
+      "updated_at": "2026-10-29T13:35:27.949930+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/gadag-district-has-794-lakh-voters-after-sir/article71640604.ece"
     },
     "5a1f66392d0452c7d70c021a": {
@@ -8499,9 +8500,10 @@
     "5e352b03327a6e3f32d20dff": {
       "published_at": "2026-10-29T13:22:28+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12718,
       "title": "CSIR-NGRI director stresses need for expertise in carbon storage research",
-      "updated_at": "2026-10-29T13:35:12.655807+00:00",
+      "updated_at": "2026-10-29T13:35:24.024753+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/csir-ngri-director-stresses-need-for-expertise-in-carbon-storage-research/article71640518.ece"
     },
     "5e9f63da60135af8eddb38b9": {
@@ -14655,9 +14657,10 @@
     "9eeae43eb5f7c2a51144b4f2": {
       "published_at": "2026-10-29T13:20:26+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12717,
       "title": "Mysuru industry seeks easier business processes, better connectivity",
-      "updated_at": "2026-10-29T13:35:12.655804+00:00",
+      "updated_at": "2026-10-29T13:35:19.993682+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/mysuru-industry-seeks-easier-business-processes-better-connectivity/article71640570.ece"
     },
     "9f3bff8e1c83446273c69a25": {
@@ -17378,9 +17381,10 @@
     "bba3c160bde79f7c01278dd8": {
       "published_at": "2026-10-29T13:14:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12716,
       "title": "Cong. leader Ugrappa faces protest during his visit to Shivamogga",
-      "updated_at": "2026-10-29T13:35:12.655789+00:00",
+      "updated_at": "2026-10-29T13:35:16.035078+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/cong-leader-ugrappa-faces-protest-during-his-visit-to-shivamogga/article71640610.ece"
     },
     "bbad1694f31f2bb858225a73": {
@@ -24144,6 +24148,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T13:35:12.658702+00:00",
+  "last_cycle_at": "2026-10-29T13:35:31.153256+00:00",
   "schema_version": 1
 }
