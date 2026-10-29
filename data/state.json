@@ -15982,9 +15982,10 @@
     "9a4dbbdbc3060e0d4493c80f": {
       "published_at": "2026-10-29T20:41:12+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13044,
       "title": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86",
-      "updated_at": "2026-10-29T20:52:36.460041+00:00",
+      "updated_at": "2026-10-29T20:52:38.917161+00:00",
       "url": "https://www.thehindu.com/entertainment/patrick-stewart-shakespearean-actor-turned-star-trek-and-x-men-star-dies-at-86/article71642350.ece"
     },
     "9a5b65d9da514e8812f3ba6e": {
@@ -27054,6 +27055,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:52:36.463411+00:00",
+  "last_cycle_at": "2026-10-29T20:52:42.121027+00:00",
   "schema_version": 1
 }
