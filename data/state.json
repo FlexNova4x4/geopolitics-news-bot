@@ -432,6 +432,14 @@
       "updated_at": "2026-10-29T08:41:50.099526+00:00",
       "url": "https://www.tribuneindia.com/news/india/odisha-plans-air-evacuations-in-ganjam-district-as-cyclone-arnab-maroons-300-villages"
     },
+    "03f7e74c163aca886f098fd6": {
+      "published_at": "2026-10-29T19:40:55+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Fall brings Hamirpur student’s drone dream under scanner",
+      "updated_at": "2026-10-29T19:51:28.750786+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/fall-brings-hamirpur-students-drone-dream-under-scanner"
+    },
     "0406c27630451e1687f7d4ff": {
       "published_at": "2026-10-27T09:12:21+00:00",
       "source": "aljazeera.com",
@@ -16605,6 +16613,14 @@
       "updated_at": "2026-10-29T12:03:42.845945+00:00",
       "url": "https://www.thehindu.com/news/national/jamia-student-protest-why-is-the-lyngdoh-committee-report-significant-explained/article71640045.ece"
     },
+    "a347b718c3139e0ad76b5cbb": {
+      "published_at": "2026-10-29T19:41:18+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "Parking of vehicles in main market of Palampur banned",
+      "updated_at": "2026-10-29T19:51:28.750801+00:00",
+      "url": "https://www.tribuneindia.com/news/himachal/parking-of-vehicles-in-main-market-of-palampur-banned"
+    },
     "a3693251a05c5f9179cee4ae": {
       "published_at": "2026-10-29T02:30:35+00:00",
       "source": "publish.tribuneindia.com",
@@ -26605,6 +26621,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:51:22.644379+00:00",
+  "last_cycle_at": "2026-10-29T19:51:28.753911+00:00",
   "schema_version": 1
 }
