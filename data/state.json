@@ -13318,9 +13318,10 @@
     "83aeffbf918f1ff5bdacdae0": {
       "published_at": "2026-10-29T19:45:58+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13002,
       "title": "Himachal Education Minister takes up strategic road issues, reviews residential school in Udaipur",
-      "updated_at": "2026-10-29T20:20:59.967226+00:00",
+      "updated_at": "2026-10-29T20:21:07.138802+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/himachal-education-minister-takes-up-strategic-road-issues-reviews-residential-school-in-udaipur"
     },
     "83d7c8448e0641a064213d52": {
@@ -16079,9 +16080,10 @@
     "9d2d944e28b50977cc73663f": {
       "published_at": "2026-10-29T19:43:59+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13001,
       "title": "Shimla’s Atal Institute of Medical Super Specialties to get more doctors, paramedics",
-      "updated_at": "2026-10-29T20:20:59.967207+00:00",
+      "updated_at": "2026-10-29T20:21:03.192869+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/shimlas-atal-institute-of-medical-super-specialties-to-get-more-doctors-paramedics"
     },
     "9d3161d3790c7fa3c3ef2ffe": {
@@ -17712,9 +17714,10 @@
     "ae4595325edb7a777adcd83e": {
       "published_at": "2026-10-29T19:46:54+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13004,
       "title": "Youth gets life term for sexually assaulting minor in Solan",
-      "updated_at": "2026-10-29T20:20:59.967237+00:00",
+      "updated_at": "2026-10-29T20:21:14.825305+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/youth-gets-life-term-for-sexually-assaulting-minor-in-solan"
     },
     "ae476c4f094be01ac1f15493": {
@@ -26433,9 +26436,10 @@
     "fe117bb3d8f47f9ec423462f": {
       "published_at": "2026-10-29T19:46:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13003,
       "title": "A security deal, but not the end of the Arctic contest",
-      "updated_at": "2026-10-29T20:20:59.967232+00:00",
+      "updated_at": "2026-10-29T20:21:11.109287+00:00",
       "url": "https://www.thehindu.com/opinion/op-ed/a-security-deal-but-not-the-end-of-the-arctic-contest/article71641792.ece"
     },
     "fe11df87d0641661968fd5bc": {
@@ -26691,6 +26695,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T20:20:59.970416+00:00",
+  "last_cycle_at": "2026-10-29T20:21:18.028993+00:00",
   "schema_version": 1
 }
