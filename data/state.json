@@ -552,9 +552,10 @@
     "0556ffdb04406bd825011369": {
       "published_at": "2026-10-29T18:52:25+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12980,
       "title": "J&K High Court declares imposition of water usage charges under 2010 Act in UT as ‘ultra vires’",
-      "updated_at": "2026-10-29T19:49:46.663080+00:00",
+      "updated_at": "2026-10-29T19:49:49.675750+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece"
     },
     "0559fbba62aa2d59a81d89ca": {
@@ -4418,9 +4419,10 @@
     "2d7a5e12fd4164272bee759c": {
       "published_at": "2026-10-29T19:18:34+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12981,
       "title": "Ennore residents’ report card for govt. flags gaps in wetland restoration, pollution control",
-      "updated_at": "2026-10-29T19:49:46.663094+00:00",
+      "updated_at": "2026-10-29T19:49:53.607023+00:00",
       "url": "https://www.thehindu.com/news/cities/chennai/ennore-residents-report-card-for-govt-flags-gaps-in-wetlandrestoration-pollution-control/article71640851.ece"
     },
     "2d92a3d6567430c4713831a4": {
@@ -4875,9 +4877,10 @@
     "31c46011b22c0917860258e2": {
       "published_at": "2026-10-29T19:22:06+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12983,
       "title": "Ex-Mayor Bhagyalakshmi appeals to voters to give her another opportunity",
-      "updated_at": "2026-10-29T19:49:46.663101+00:00",
+      "updated_at": "2026-10-29T19:50:01.036655+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/ex-mayor-bhagyalakshmi-appeals-to-voters-to-give-her-another-opportunity/article71641446.ece"
     },
     "31c71c6c65f5615dba632c20": {
@@ -6845,9 +6848,10 @@
     "4498dfa315abeb874487c9ec": {
       "published_at": "2026-10-29T19:21:19+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12982,
       "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-      "updated_at": "2026-10-29T19:49:46.663098+00:00",
+      "updated_at": "2026-10-29T19:49:57.309555+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss"
     },
     "44a182d6c0b2641e91201771": {
@@ -26502,6 +26506,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T19:49:46.666173+00:00",
+  "last_cycle_at": "2026-10-29T19:50:04.240395+00:00",
   "schema_version": 1
 }
