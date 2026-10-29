@@ -1308,9 +1308,10 @@
     "102822b22f133e4c9a1acdcb": {
       "published_at": "2026-10-29T07:02:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12429,
       "title": "Solan News: 2134 खाताधारकों के 22 करोड़ रुपये फंसे, सभा के खिलाफ 22 किमी का पैदल मार्च",
-      "updated_at": "2026-10-29T07:10:52.496936+00:00",
+      "updated_at": "2026-10-29T07:10:55.741889+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/rs-22-crore-belonging-to-2134-account-holders-stuck-22-km-protest-march-held-against-the-society-solan-news-c-176-1-sln1014-183078-2026-10-28"
     },
     "102ad4eba123e65defe850f8": {
@@ -12489,9 +12490,10 @@
     "96c5bbe5438f47d54326a45a": {
       "published_at": "2026-10-29T07:17:04+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12430,
       "title": "Hamirpur (Himachal) News: भोरंज से 66 वर्षीय बुजुर्ग महिला लापता",
-      "updated_at": "2026-10-29T07:10:52.496952+00:00",
+      "updated_at": "2026-10-29T07:10:59.825046+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/66-year-old-woman-goes-missing-from-bhoranj-hamirpur-hp-news-c-94-1-hmp1005-213719-2026-10-29"
     },
     "96fd5266fabf22141e93546e": {
@@ -19004,9 +19006,10 @@
     "e58909561067843becf960cf": {
       "published_at": "2026-10-29T07:19:55+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12431,
       "title": "रिजीम चेंज के पैरोकारों को शिवाजी के आदर्शों से दें मात : अनुराग",
-      "updated_at": "2026-10-29T07:10:52.496956+00:00",
+      "updated_at": "2026-10-29T07:11:03.943461+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/defeat-the-proponents-of-regime-change-with-the-ideals-of-shivaji-anurag-hamirpur-hp-news-r-399-1-sml1005-545576-2026-10-29"
     },
     "e5b64acb905ad2c3c1760088": {
@@ -20721,9 +20724,10 @@
     "f744de8e89f823f58d69fc05": {
       "published_at": "2026-10-29T07:22:05+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12432,
       "title": "Hamirpur (Himachal) News: सात माह में 348 भेड़-बकरियां संक्रमित",
-      "updated_at": "2026-10-29T07:10:52.496959+00:00",
+      "updated_at": "2026-10-29T07:11:08.067659+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/348-sheep-and-goats-infected-in-seven-months-hamirpur-hp-news-c-94-1-hmp1005-213695-2026-10-29"
     },
     "f7a5b8c98d936ff6be3d9fef": {
@@ -21579,6 +21583,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T07:10:52.499599+00:00",
+  "last_cycle_at": "2026-10-29T07:11:11.270638+00:00",
   "schema_version": 1
 }
