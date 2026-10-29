@@ -5147,9 +5147,10 @@
     "3e6a85c04fcb656561dd411b": {
       "published_at": "2026-10-29T08:32:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12528,
       "title": "When home in Delhi became a death trap: Satya Niketan building collapse",
-      "updated_at": "2026-10-29T09:10:08.872744+00:00",
+      "updated_at": "2026-10-29T09:10:12.556024+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/when-home-in-delhi-became-a-death-trap-satya-niketan-building-collapse/article71456359.ece"
     },
     "3e6aa50c9b6b63e9d83faef0": {
@@ -6235,9 +6236,10 @@
     "4ad235a7df28f36841071368": {
       "published_at": "2026-10-29T08:51:30+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12531,
       "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
-      "updated_at": "2026-10-29T09:10:08.872766+00:00",
+      "updated_at": "2026-10-29T09:10:24.633562+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss"
     },
     "4ae7702a22d3612dfcd0dec6": {
@@ -16901,9 +16903,10 @@
     "c2893b3073b1ff5eb038da60": {
       "published_at": "2026-10-29T08:49:54+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12530,
       "title": "Are Texans divided over Republican and Democrat candidates?",
-      "updated_at": "2026-10-29T09:10:08.872762+00:00",
+      "updated_at": "2026-10-29T09:10:20.660579+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/are-texans-divided-over-republican-and-democrat-candidates-2?traffic_source=rss"
     },
     "c29a39126f667d71275d0ab1": {
@@ -17080,9 +17083,10 @@
     "c4a704ab30ed660096ef625e": {
       "published_at": "2026-10-29T08:45:16+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 12529,
       "title": "No info on ‘dimagi naxals’: MHA in first RTI reply on PM Modi’s catchphrase",
-      "updated_at": "2026-10-29T09:10:08.872758+00:00",
+      "updated_at": "2026-10-29T09:10:16.565272+00:00",
       "url": "https://www.tribuneindia.com/news/india/no-info-on-dimagi-naxals-mha-in-first-rti-reply-on-pm-modis-catch-phrase"
     },
     "c4c8261ae3cc76a949a9fae8": {
@@ -22461,6 +22465,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T09:10:08.875074+00:00",
+  "last_cycle_at": "2026-10-29T09:10:27.836585+00:00",
   "schema_version": 1
 }
