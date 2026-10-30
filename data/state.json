@@ -3851,6 +3851,14 @@
       "updated_at": "2026-10-26T07:13:15.188310+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
     },
+    "24f7e48c6a447640db55bc36": {
+      "published_at": "2026-10-30T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "INS Sahyadri Begins Sea Phase Of India-South Korea Naval Exercise In Busan",
+      "updated_at": "2026-10-30T04:46:26.576180+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/ins-sahyadri-begins-sea-phase-of-india.html"
+    },
     "25055fe601576605c587032b": {
       "published_at": "2026-10-25T15:48:52+00:00",
       "source": "thehindu.com",
@@ -12875,6 +12883,14 @@
       "updated_at": "2026-10-29T04:17:09.141827+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/two-dug-peddlers-arrested-with-1-028-kg-charas-in-hamirpur"
     },
+    "7a0ca876e407663e4925fcab": {
+      "published_at": "2026-10-30T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Four Killed In Italian Chinook Crash During EUFOR Bosnia Mission",
+      "updated_at": "2026-10-30T04:46:26.576173+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/four-killed-in-italian-chinook-crash.html"
+    },
     "7a1d120985829e41204a3378": {
       "published_at": "2026-10-25T03:34:02+00:00",
       "source": "dawn.com",
@@ -18260,6 +18276,14 @@
       "updated_at": "2026-10-25T16:14:27.242854+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece"
     },
+    "ac9dd4df72185ca07fffa2ab": {
+      "published_at": "2026-10-30T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Strait of Hormuz Vessel Fire Reported Off Oman Coast As Crew Status Remains Unknown",
+      "updated_at": "2026-10-30T04:46:26.576156+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/strait-of-hormuz-vessel-fire-reported.html"
+    },
     "acb566103b1edafc0ab16679": {
       "published_at": "2026-10-28T21:24:41+00:00",
       "source": "feeds.bbci.co.uk",
@@ -18529,6 +18553,14 @@
       "title": "Israel election result shows no overall majority as vote count complete",
       "updated_at": "2026-10-29T20:51:20.085421+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss"
+    },
+    "af1edd0e20b47df0fb04357d": {
+      "published_at": "2026-10-30T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India, Tanzania Deepen Military Partnership Through Inaugural Army Staff Talks",
+      "updated_at": "2026-10-30T04:46:26.576177+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/india-tanzania-deepen-military.html"
     },
     "af1fbd9463a93bd6bc5bb3ed": {
       "published_at": "2026-10-27T12:43:32+00:00",
@@ -27622,6 +27654,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T01:45:52.244112+00:00",
+  "last_cycle_at": "2026-10-30T04:46:26.578950+00:00",
   "schema_version": 1
 }
