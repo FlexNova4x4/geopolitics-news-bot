@@ -1875,9 +1875,10 @@
     "1188050ab3f9100af62d91b1": {
       "published_at": "2026-10-30T15:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13144,
       "title": "Rafale-Marine Makes Maiden Landing On INS Vikrant in Major Step Towards Indian Navy Operations",
-      "updated_at": "2026-10-30T15:43:49.771570+00:00",
+      "updated_at": "2026-10-30T15:44:01.257332+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/rafale-marine-makes-maiden-landing-on.html"
     },
     "118b609c09f14f4f57c4d78f": {
@@ -17327,9 +17328,10 @@
     "a20add36405c088b196a4f30": {
       "published_at": "2026-10-30T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13142,
       "title": "Army Unveils New Land Warfare Doctrine After Eight Years As Focus Shifts to Drones, AI And Two-Front Conflict",
-      "updated_at": "2026-10-30T15:43:49.771546+00:00",
+      "updated_at": "2026-10-30T15:43:52.998677+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/army-unveils-new-land-warfare-doctrine.html"
     },
     "a20b37a678bbd13ecb1e67b5": {
@@ -21671,9 +21673,10 @@
     "c885080c919dea6cf07068c3": {
       "published_at": "2026-10-30T15:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13143,
       "title": "IAF Draws The Battle Map For India’s Drone Future",
-      "updated_at": "2026-10-30T15:43:49.771565+00:00",
+      "updated_at": "2026-10-30T15:43:57.309914+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/iaf-draws-battle-map-for-indias-drone.html"
     },
     "c8adf34e373c2d83b0f300d5": {
@@ -27898,6 +27901,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T15:43:49.774639+00:00",
+  "last_cycle_at": "2026-10-30T15:44:04.460845+00:00",
   "schema_version": 1
 }
