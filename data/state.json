@@ -6263,9 +6263,10 @@
     "3cba3386d1189671b69c9148": {
       "published_at": "2026-10-30T04:36:06+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13124,
       "title": "Indian Defence Technology Heads To Oman With Major UAV And Counter-Drone Partnership",
-      "updated_at": "2026-10-30T04:47:46.140942+00:00",
+      "updated_at": "2026-10-30T04:47:49.053648+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/indian-defence-technology-heads-to-oman.html"
     },
     "3cbfb4ef22e3c8290eb1327f": {
@@ -27738,6 +27739,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T04:47:46.144079+00:00",
+  "last_cycle_at": "2026-10-30T04:47:52.257899+00:00",
   "schema_version": 1
 }
