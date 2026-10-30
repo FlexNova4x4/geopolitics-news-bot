@@ -4380,6 +4380,14 @@
       "updated_at": "2026-10-29T09:11:13.853343+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
     },
+    "2bb38e0ae7e7ba68796ff47d": {
+      "published_at": "2026-10-30T00:29:24+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
+      "updated_at": "2026-10-30T00:45:30.393072+00:00",
+      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss"
+    },
     "2bd08e7e550900e23c383a22": {
       "published_at": "2026-10-29T14:40:16+00:00",
       "source": "thehindu.com",
@@ -13522,6 +13530,14 @@
       "updated_at": "2026-10-26T05:24:08.917487+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss"
     },
+    "81a0820afea9a6f12d198415": {
+      "published_at": "2026-10-30T00:35:18+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+      "updated_at": "2026-10-30T00:45:30.393075+00:00",
+      "url": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece"
+    },
     "81a65c5014ffecf9069446e5": {
       "published_at": "2026-10-26T03:40:36+00:00",
       "source": "amarujala.com",
@@ -17550,6 +17566,14 @@
       "updated_at": "2026-10-26T08:14:34.648796+00:00",
       "url": "https://www.hindustantimes.com/india-news/from-rare-earths-to-trade-and-the-global-south-what-lula-s-re-election-in-brazil-means-for-india-101792998751924.html"
     },
+    "a749306aa99af9466c2b3d0d": {
+      "published_at": "2026-10-30T00:36:03+00:00",
+      "source": "aljazeera.com",
+      "status": "reserved",
+      "title": "Armenian parliament turns into a boxing ring, third time in a month",
+      "updated_at": "2026-10-30T00:45:30.393077+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss"
+    },
     "a75491afcf8ed78763648a34": {
       "published_at": "2026-10-27T06:45:03+00:00",
       "source": "amarujala.com",
@@ -21345,6 +21369,14 @@
       "title": "वीडियो: अंतरराष्ट्रीय लवी मेले के उपलक्ष्य पर रामपुर में बैडमिंटन प्रतियोगिता का हुआ शुभारंभ",
       "updated_at": "2026-10-27T12:12:02.256244+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/rampur-bushahar/video-badminton-tournament-has-commenced-in-rampur-on-the-occasion-of-the-international-lavi-fair-2026-10-27"
+    },
+    "c964b1545b16ec650616a30c": {
+      "published_at": "2026-10-30T00:26:29+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Gujarat court gives life term to 3 for cow slaughter, cites Manusmriti",
+      "updated_at": "2026-10-30T00:45:30.393052+00:00",
+      "url": "https://www.hindustantimes.com/india-news/gujarat-court-gives-life-term-to-3-for-cow-slaughter-cites-manusmriti-101793319303622.html"
     },
     "c988551e246a82a6cca26ffe": {
       "published_at": "2026-10-26T00:17:02+00:00",
@@ -27406,6 +27438,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:45:24.663159+00:00",
+  "last_cycle_at": "2026-10-30T00:45:30.395327+00:00",
   "schema_version": 1
 }
