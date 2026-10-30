@@ -11989,9 +11989,10 @@
     "715ec5b3c245551a187cb524": {
       "published_at": "2026-10-30T08:39:00+00:00",
       "source": "The Diplomat (Asia Defense)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13145,
       "title": "Can the US Defense Industry Keep Pace with China’s Military Machine?",
-      "updated_at": "2026-10-30T16:43:14.074892+00:00",
+      "updated_at": "2026-10-30T16:43:17.299536+00:00",
       "url": "https://thediplomat.com/2026/10/can-the-u-s-defense-industry-keep-pace-with-chinas-military-machine"
     },
     "71624a917528bbf7518c37d2": {
@@ -20116,9 +20117,10 @@
     "b9e3273834d769f997f1b08f": {
       "published_at": "2026-10-30T14:28:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13148,
       "title": "India’s China+1 Dilemma: It May Need China to Depend Less on China",
-      "updated_at": "2026-10-30T16:43:14.074915+00:00",
+      "updated_at": "2026-10-30T16:43:30.384125+00:00",
       "url": "https://thediplomat.com/2026/10/indias-china1-dilemma-it-may-need-china-to-depend-less-on-china"
     },
     "b9f51bfed272818e408aa895": {
@@ -21806,9 +21808,10 @@
     "c96d7439b8f780bee4ffa160": {
       "published_at": "2026-10-30T13:11:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13146,
       "title": "Amid India–China Border Tensions, Mega Hydel Project in Arunachal Pradesh Faces Local Heat",
-      "updated_at": "2026-10-30T16:43:14.074908+00:00",
+      "updated_at": "2026-10-30T16:43:21.239926+00:00",
       "url": "https://thediplomat.com/2026/10/amid-india-china-border-tensions-mega-hydel-project-in-arunachal-pradesh-faces-local-heat"
     },
     "c988551e246a82a6cca26ffe": {
@@ -22777,9 +22780,10 @@
     "d3c6978e4d5b2371babb3047": {
       "published_at": "2026-10-30T13:59:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13147,
       "title": "Pakistan’s Trump Bet Meets the US Midterms",
-      "updated_at": "2026-10-30T16:43:14.074912+00:00",
+      "updated_at": "2026-10-30T16:43:26.592763+00:00",
       "url": "https://thediplomat.com/2026/10/pakistans-trump-bet-meets-the-us-midterms"
     },
     "d3c7609cb69d9c4459a28c2b": {
@@ -27933,6 +27937,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T16:43:14.077867+00:00",
+  "last_cycle_at": "2026-10-30T16:43:33.587842+00:00",
   "schema_version": 1
 }
