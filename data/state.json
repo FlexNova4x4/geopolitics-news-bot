@@ -12410,9 +12410,10 @@
     "771fbaf6b48e349e118b0e4b": {
       "published_at": "2026-10-30T01:05:26+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13096,
       "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-      "updated_at": "2026-10-30T01:15:04.531145+00:00",
+      "updated_at": "2026-10-30T01:15:11.080802+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss"
     },
     "77294550dedc86b9512e331b": {
@@ -15018,9 +15019,10 @@
     "8e8e4f8e579727c907e622d8": {
       "published_at": "2026-10-30T01:11:02+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13097,
       "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-      "updated_at": "2026-10-30T01:15:04.531147+00:00",
+      "updated_at": "2026-10-30T01:15:14.863772+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
     },
     "8e9f9f0c6037c291ea387b5e": {
@@ -17254,9 +17256,10 @@
     "a3a39c0172903d03778f80bd": {
       "published_at": "2026-10-30T00:56:49+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13095,
       "title": "EU force helicopter crash kills four in Bosnia",
-      "updated_at": "2026-10-30T01:15:04.531127+00:00",
+      "updated_at": "2026-10-30T01:15:07.300032+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss"
     },
     "a3df215727480bf342cc847b": {
@@ -27511,6 +27514,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T01:15:04.533591+00:00",
+  "last_cycle_at": "2026-10-30T01:15:18.067010+00:00",
   "schema_version": 1
 }
