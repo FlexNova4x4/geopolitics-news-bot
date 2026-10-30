@@ -7577,9 +7577,10 @@
     "48197fb9d2502ff3b440b48e": {
       "published_at": "2026-10-30T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13138,
       "title": "MIDHANI, BARC And Heavy Water Board Join Hands To Recover Critical Nickel And Cobalt From Industrial Waste",
-      "updated_at": "2026-10-30T15:43:17.312690+00:00",
+      "updated_at": "2026-10-30T15:43:20.348723+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/midhani-barc-and-heavy-water-board-join.html"
     },
     "484cb2af1a634de23c0cc3ce": {
@@ -15738,9 +15739,10 @@
     "9397b487659189dbf6c9fd61": {
       "published_at": "2026-10-30T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13140,
       "title": "US Embassy Marks One Year of India-US Major Defence Partnership, Highlights Expanding Strategic Cooperation",
-      "updated_at": "2026-10-30T15:43:17.312706+00:00",
+      "updated_at": "2026-10-30T15:43:28.346904+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/us-embassy-marks-one-year-of-india-us.html"
     },
     "93a68d7da9fbf0f770351e6e": {
@@ -16636,9 +16638,10 @@
     "9b4275c28c7a917a23891b5e": {
       "published_at": "2026-10-30T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13139,
       "title": "Why India Is Investing Rs 40,000 Crore In Eight Next-Generation Corvettes To Secure Its Maritime Frontiers",
-      "updated_at": "2026-10-30T15:43:17.312703+00:00",
+      "updated_at": "2026-10-30T15:43:24.362466+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/why-india-is-investing-rs-40000-crore.html"
     },
     "9b4a0dc8fb83ea75681c64d8": {
@@ -24745,9 +24748,10 @@
     "e6e167d794f76027d1b1872a": {
       "published_at": "2026-10-30T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13141,
       "title": "Rajnath Singh Raises Concerns Over US F-16 Support Package For Pakistan",
-      "updated_at": "2026-10-30T15:43:17.312709+00:00",
+      "updated_at": "2026-10-30T15:43:32.537426+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/rajnath-singh-raises-concerns-over-us-f.html"
     },
     "e6f0fecb075731b9af897594": {
@@ -27870,6 +27874,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T15:43:17.315657+00:00",
+  "last_cycle_at": "2026-10-30T15:43:35.740904+00:00",
   "schema_version": 1
 }
