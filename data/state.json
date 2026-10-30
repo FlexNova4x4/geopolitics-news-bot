@@ -990,6 +990,14 @@
       "updated_at": "2026-10-25T07:34:53.275855+00:00",
       "url": "https://www.thehindu.com/news/national/mann-ki-baat-address-pm-modi-asks-citizens-to-strengthen-vocal-for-local-ahead-of-deepavali/article71622742.ece"
     },
+    "08eab20e98001f653e4523c8": {
+      "published_at": "2026-10-29T21:46:19+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Jailhouse rock, the ‘others’ in the dock",
+      "updated_at": "2026-10-30T00:14:43.137783+00:00",
+      "url": "https://www.thehindu.com/news/national/odisha/jailhouse-rock-the-others-in-the-dock/article71635156.ece"
+    },
     "08f61633443794391a7bf714": {
       "published_at": "2026-10-27T14:00:33+00:00",
       "source": "thehindu.com",
@@ -7681,6 +7689,14 @@
       "title": "Bilaspur News: गोबिंद सागर झील में 40 युवाओं ने सीखा जल क्रीड़ाओं का हुनर",
       "updated_at": "2026-10-27T06:37:10.639069+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/bilaspur/40-youths-learned-the-skills-of-water-sports-at-gobind-sagar-lake-bilaspur-news-c-92-1-bpr1005-170748-2026-10-27"
+    },
+    "4a7901ea23f52b97cdbd8893": {
+      "published_at": "2026-10-29T23:36:45+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "At risk of losing, Netanyahu cries poll fraud, rules out Arab alliance",
+      "updated_at": "2026-10-30T00:14:43.137808+00:00",
+      "url": "https://www.tribuneindia.com/news/world/at-risk-of-losing-netanyahu-cries-poll-fraud-rules-out-arab-alliance"
     },
     "4a975aa06806dc7441102042": {
       "published_at": "2026-10-29T17:17:15+00:00",
@@ -19178,6 +19194,14 @@
       "updated_at": "2026-10-29T14:01:29.807943+00:00",
       "url": "https://thediplomat.com/2026/10/delhis-de-hyphenation-policy-is-taking-shape-in-the-south-caucasus"
     },
+    "b78e47bf45f36135b8fb9218": {
+      "published_at": "2026-10-29T23:03:15+00:00",
+      "source": "feeds.bbci.co.uk",
+      "status": "reserved",
+      "title": "China made Mbappé apologise - but many people don't know exactly what he said",
+      "updated_at": "2026-10-30T00:14:43.137803+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss"
+    },
     "b794abd56a7ec775e14aca98": {
       "published_at": "2026-10-27T19:45:12+00:00",
       "source": "thehindu.com",
@@ -25654,6 +25678,14 @@
       "updated_at": "2026-10-29T04:12:57.304819+00:00",
       "url": "https://www.tribuneindia.com/news/india/uae-honours-indian-pilot-for-averting-mid-air-disaster"
     },
+    "f329b5580bfcd6cda434e054": {
+      "published_at": "2026-10-29T23:22:15+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "4 killed in Italian helicopter crash during EU peacekeeping operation in Bosnia",
+      "updated_at": "2026-10-30T00:14:43.137806+00:00",
+      "url": "https://www.tribuneindia.com/news/bosnia-helicopter-crash/4-killed-in-italian-helicopter-crash-during-eu-peacekeeping-operation-in-bosnia"
+    },
     "f32c61db06e6f953d3a969c4": {
       "published_at": "2026-10-25T04:19:35+00:00",
       "source": "dawn.com",
@@ -27253,6 +27285,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-29T23:45:01.836353+00:00",
+  "last_cycle_at": "2026-10-30T00:14:43.140601+00:00",
   "schema_version": 1
 }
