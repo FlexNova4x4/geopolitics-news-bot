@@ -1269,6 +1269,14 @@
       "updated_at": "2026-10-25T02:35:43.207566+00:00",
       "url": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension"
     },
+    "0b7c7d5bb14bada83247562f": {
+      "published_at": "2026-10-30T15:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Pakistan's Post-Sindoor Search For Partners Masks Persistent Military Weakness",
+      "updated_at": "2026-10-30T15:42:52.378995+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/pakistans-post-sindoor-search-for.html"
+    },
     "0b92aaf263ee55917f769d69": {
       "published_at": "2026-10-26T19:52:03+00:00",
       "source": "amarujala.com",
@@ -9829,6 +9837,14 @@
       "updated_at": "2026-10-26T22:44:37.108312+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss"
     },
+    "5d11734b286a926904bdd479": {
+      "published_at": "2026-10-30T15:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Iran Involved? Fire At Critical U.S. Nuclear Site Sparks Emergency Response In South Carolina, One Worker Injured",
+      "updated_at": "2026-10-30T15:42:52.378977+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/iran-involved-fire-at-critical-us.html"
+    },
     "5d11dbcca19fb079c2e3c7da": {
       "published_at": "2026-10-27T07:19:00+00:00",
       "source": "hindustantimes.com",
@@ -17126,6 +17142,14 @@
       "title": "Kangra News: कांगड़ा के बाजारों में उमड़ी रौनक, मेहंदी लगवाने का दिखा क्रेज",
       "updated_at": "2026-10-29T04:17:38.404053+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/markets-in-kangra-come-alive-a-craze-for-getting-henna-applied-is-seen-kangra-news-c-95-1-kng1047-263858-2026-10-29"
+    },
+    "a0d69cb343ddd08498d930e0": {
+      "published_at": "2026-10-30T15:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Aequs Advances India’s Aerospace Manufacturing Automation With Automatic Drill Units",
+      "updated_at": "2026-10-30T15:42:52.378999+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/aequs-advances-indias-aerospace.html"
     },
     "a0f98c42e671b2d28e2a751a": {
       "published_at": "2026-10-25T22:22:53+00:00",
@@ -24511,6 +24535,14 @@
       "updated_at": "2026-10-27T15:12:38.744740+00:00",
       "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-assembly-govt-has-put-in-place-measures-to-address-concerns-of-expatriates-in-saudi-says-cm/article71631870.ece"
     },
+    "e516daf6ad5e504cbacac8f4": {
+      "published_at": "2026-10-30T15:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India's National Interests Drive Reassessment of Indus Waters Treaty: Analyst",
+      "updated_at": "2026-10-30T15:42:52.378992+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/indias-national-interests-drive.html"
+    },
     "e54c0b9d62d110989b311887": {
       "published_at": "2026-10-25T19:50:01+00:00",
       "source": "publish.tribuneindia.com",
@@ -27802,6 +27834,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T15:42:46.815585+00:00",
+  "last_cycle_at": "2026-10-30T15:42:52.381938+00:00",
   "schema_version": 1
 }
