@@ -4383,9 +4383,10 @@
     "2bb38e0ae7e7ba68796ff47d": {
       "published_at": "2026-10-30T00:29:24+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13087,
       "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
-      "updated_at": "2026-10-30T00:45:30.393072+00:00",
+      "updated_at": "2026-10-30T00:45:37.209135+00:00",
       "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss"
     },
     "2bd08e7e550900e23c383a22": {
@@ -13533,9 +13534,10 @@
     "81a0820afea9a6f12d198415": {
       "published_at": "2026-10-30T00:35:18+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13088,
       "title": "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
-      "updated_at": "2026-10-30T00:45:30.393075+00:00",
+      "updated_at": "2026-10-30T00:45:40.977823+00:00",
       "url": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece"
     },
     "81a65c5014ffecf9069446e5": {
@@ -17569,9 +17571,10 @@
     "a749306aa99af9466c2b3d0d": {
       "published_at": "2026-10-30T00:36:03+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13089,
       "title": "Armenian parliament turns into a boxing ring, third time in a month",
-      "updated_at": "2026-10-30T00:45:30.393077+00:00",
+      "updated_at": "2026-10-30T00:45:44.830801+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss"
     },
     "a75491afcf8ed78763648a34": {
@@ -21373,9 +21376,10 @@
     "c964b1545b16ec650616a30c": {
       "published_at": "2026-10-30T00:26:29+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13086,
       "title": "Gujarat court gives life term to 3 for cow slaughter, cites Manusmriti",
-      "updated_at": "2026-10-30T00:45:30.393052+00:00",
+      "updated_at": "2026-10-30T00:45:33.262431+00:00",
       "url": "https://www.hindustantimes.com/india-news/gujarat-court-gives-life-term-to-3-for-cow-slaughter-cites-manusmriti-101793319303622.html"
     },
     "c988551e246a82a6cca26ffe": {
@@ -27438,6 +27442,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:45:30.395327+00:00",
+  "last_cycle_at": "2026-10-30T00:45:48.033615+00:00",
   "schema_version": 1
 }
