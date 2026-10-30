@@ -15,20 +15,28 @@ def _int(name: str, default: int, minimum: int = 1) -> int:
 
 
 
+DEFAULT_RSS_URLS: list[str] = [
+    "https://www.mea.gov.in/press-releases.htm?dtl/rss",
+    "https://thediplomat.com/regions/south-asia/feed/",
+    "https://thediplomat.com/category/asia-geopolitics/feed/",
+    "https://thediplomat.com/category/asia-defense/feed/",
+    "https://defence.economictimes.indiatimes.com/rss/topstories",
+    "https://defence.economictimes.indiatimes.com/rss/policy-partnerships",
+    "https://defence.economictimes.indiatimes.com/rss/military-systems",
+    "https://defence.economictimes.indiatimes.com/rss/research-security",
+    "https://www.livefistdefence.com/feed/",
+    "https://www.indiandefensenews.in/feeds/posts/default?alt=rss",
+    "https://api.thehawk.in/rss/international-relations/india-china",
+]
+
+
 def _rss_urls() -> list[str]:
-    default = (
-        "https://thediplomat.com/feed/,"
-        "https://feeds.bbci.co.uk/news/world/rss.xml,"
-        "https://feeds.bbci.co.uk/news/world/asia/rss.xml,"
-        "https://www.dawn.com/feeds/pakistan/,"
-        "https://www.aljazeera.com/xml/rss/all.xml,"
-        "https://www.mea.gov.in/press-releases.htm?dtl/rss,"
-        "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1"
-    )
     configured = os.getenv("WEBSITE_RSS_URLS", "").strip()
     if not configured:
-        configured = os.getenv("WEBSITE_RSS_URL", default).strip()
-    return [url.strip() for url in configured.split(",") if url.strip()]
+        configured = os.getenv("WEBSITE_RSS_URL", "").strip()
+    if configured:
+        return [url.strip() for url in configured.split(",") if url.strip()]
+    return list(DEFAULT_RSS_URLS)
 
 
 @dataclass(frozen=True)

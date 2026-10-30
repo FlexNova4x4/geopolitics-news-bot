@@ -11,13 +11,20 @@ from zoneinfo import ZoneInfo
 from urllib.parse import urlparse
 
 from ai_router import generate_posts, AIError
-from collectors import collect_sources, enrich_story
+from collectors import collect_sources, enrich_story, normalize_url
 from telegram_publisher import send_post, TelegramError
 
 
 def _norm_title(value: str) -> str:
-    value = re.sub(r"[^a-z0-9 ]+", " ", (value or "").lower())
-    return re.sub(r"\s+", " ", value).strip()
+    # Strip site names from titles (e.g., "Missile test - ET Defence", "Peace talks | The Diplomat")
+    cleaned = re.sub(
+        r"\s*[-|—–:]\s*(The Diplomat|ET Defence|Indian Defence News|Livefist Defence|Livefist|The Hawk|MEA India|MEA|PIB India|PIB|BBC News|The Indian Express).*$",
+        "",
+        value or "",
+        flags=re.IGNORECASE,
+    )
+    cleaned = re.sub(r"[^a-z0-9 ]+", " ", cleaned.lower())
+    return re.sub(r"\s+", " ", cleaned).strip()
 
 
 def _close_title(title: str, existing_title: str) -> bool:
@@ -26,15 +33,28 @@ def _close_title(title: str, existing_title: str) -> bool:
         return False
     if a == b:
         return True
-    # Titles must be sufficiently long for similarity-based dedupe to be useful.
-    return min(len(a), len(b)) >= 35 and SequenceMatcher(None, a, b).ratio() >= 0.91
+    # Word token overlap check for cross-source variants of the same news
+    words_a = set(a.split())
+    words_b = set(b.split())
+    content_a = {w for w in words_a if len(w) > 2}
+    content_b = {w for w in words_b if len(w) > 2}
+    if content_a and content_b:
+        intersection = len(content_a & content_b)
+        smaller = min(len(content_a), len(content_b))
+        if smaller >= 5 and (intersection / smaller) >= 0.85:
+            return True
+    return min(len(a), len(b)) >= 25 and SequenceMatcher(None, a, b).ratio() >= 0.85
 
 
 def _already_seen(story, state_store, already_current: list) -> bool:
     items = state_store.state.get("items", {})
     if story.key in items:
         return True
+    norm_url = normalize_url(story.url)
     for record in items.values():
+        rec_url = normalize_url(record.get("url", ""))
+        if rec_url and norm_url and rec_url == norm_url:
+            return True
         if _close_title(story.title, record.get("title", "")):
             try:
                 old = datetime.fromisoformat(record.get("published_at", "").replace("Z", "+00:00"))
@@ -46,7 +66,12 @@ def _already_seen(story, state_store, already_current: list) -> bool:
             except (ValueError, TypeError):
                 if _close_title(story.title, record.get("title", "")):
                     return True
-    return any(_close_title(story.title, other.title) for other in already_current)
+    for other in already_current:
+        if norm_url and normalize_url(other.url) == norm_url:
+            return True
+        if _close_title(story.title, other.title):
+            return True
+    return False
 
 
 def _tag_slug(value: str) -> str:
@@ -119,6 +144,12 @@ def _format_post(item: dict, story) -> str:
     host = (urlparse(str(getattr(story, "url", ""))).hostname or "").lower().removeprefix("www.")
     source_names = {
         "thediplomat.com": "The Diplomat",
+        "defence.economictimes.indiatimes.com": "ET Defence",
+        "economictimes.indiatimes.com": "ET Defence",
+        "livefistdefence.com": "Livefist Defence",
+        "indiandefensenews.in": "Indian Defence News",
+        "thehawk.in": "The Hawk",
+        "api.thehawk.in": "The Hawk",
         "indianexpress.com": "The Indian Express",
         "feeds.bbci.co.uk": "BBC News",
         "bbc.co.uk": "BBC News",
@@ -133,10 +164,15 @@ def _format_post(item: dict, story) -> str:
         "youtube.com": "YouTube",
         "youtu.be": "YouTube",
     }
-    label = source_names.get(source_key) or source_names.get(host)
-    if not label:
-        label = re.sub(r"\s*\(indexed fallback\)", "", source_raw, flags=re.IGNORECASE).strip()
-        label = label.removeprefix("www.") or "Source"
+    clean_source = re.sub(r"\s*\(indexed fallback\)", "", source_raw, flags=re.IGNORECASE).strip()
+    known_labels = (
+        "MEA India", "The Diplomat", "ET Defence", "Livefist Defence", "Indian Defence News", "The Hawk",
+        "The Indian Express", "PIB India", "BBC News", "Al Jazeera", "Dawn", "YouTube"
+    )
+    if any(clean_source == k or clean_source.startswith("The Diplomat (") for k in known_labels):
+        label = clean_source
+    else:
+        label = source_names.get(source_key) or source_names.get(host) or clean_source.removeprefix("www.") or "Source"
     article_url = str(getattr(story, "url", "")).strip()
     if article_url.startswith(("https://", "http://")):
         source_line = f"🗞️ स्रोत: <a href=\"{escape(article_url, quote=True)}\">{escape(label)}</a>"

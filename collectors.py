@@ -28,7 +28,10 @@ USER_AGENT = "GeopoliticsNewsBot/1.0 (+https://github.com; RSS reader)"
 HTTP = requests.Session()
 HTTP.headers.update({"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, text/html, */*"})
 _ROBOTS: dict[str, RobotFileParser | None] = {}
-_TRACKING_PARAMS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "source"}
+_TRACKING_PARAMS = {
+    "fbclid", "gclid", "mc_cid", "mc_eid", "ref", "source", "cmpid", "feature",
+    "igshid", "wt.mc_id", "rss", "from", "m", "_hsenc", "_hsmi", "feedtype", "feedname",
+}
 
 
 def normalize_url(url: str) -> str:
@@ -353,35 +356,60 @@ def _parse_youtube_videos_section(channel_id: str, max_age_hours: int) -> list[S
     return sorted(stories, key=lambda story: story.published_ts)
 
 
+def _domain_fallback(source: str, host: str) -> tuple[str, str] | tuple[None, None]:
+    s_lower = source.lower()
+    if "indexed fallback" in s_lower:
+        return None, None
+    if "mea.gov.in" in host or "mea" in s_lower:
+        return "https://news.google.com/rss/search?q=site%3Amea.gov.in&hl=en-IN&gl=IN&ceid=IN%3Aen", "MEA India (indexed fallback)"
+    if "thediplomat.com" in host or "diplomat" in s_lower:
+        return "https://news.google.com/rss/search?q=site%3Athediplomat.com&hl=en-IN&gl=IN&ceid=IN%3Aen", "The Diplomat (indexed fallback)"
+    if "pib.gov.in" in host or "pib" in s_lower:
+        return "https://news.google.com/rss/search?q=site%3Apib.gov.in&hl=en-IN&gl=IN&ceid=IN%3Aen", "PIB India (indexed fallback)"
+    return None, None
+
+
 def _parse_feed(url: str, source: str, max_age_hours: int) -> list[Story]:
+    host = (urlparse(url).hostname or "").lower().removeprefix("www.")
+    parsed = None
     try:
         response = _get_with_retries(url, timeout=25, attempts=2)
-        response.raise_for_status()
+        if not response.ok:
+            print(f"[collector] Feed HTTP {response.status_code} ({source}): {url}")
+            fallback_url, fallback_source = _domain_fallback(source, host)
+            if fallback_url:
+                print(f"[collector] {source} feed returned HTTP {response.status_code}; using domain-scoped search fallback.")
+                return _parse_feed(fallback_url, fallback_source, max_age_hours)
+            return []
         parsed = feedparser.parse(response.content)
     except Exception as exc:
-        response_obj = getattr(exc, "response", None)
-        status_code = getattr(response_obj, "status_code", None)
-        host = (urlparse(url).hostname or "").lower().removeprefix("www.")
-        fallback_url = None
-        fallback_source = None
-        if status_code == 403 and host == "mea.gov.in" and "indexed fallback" not in source.lower():
-            fallback_url = "https://news.google.com/rss/search?q=site%3Amea.gov.in&hl=en-IN&gl=IN&ceid=IN%3Aen"
-            fallback_source = "MEA (indexed fallback)"
-        elif status_code == 403 and host == "pib.gov.in" and "indexed fallback" not in source.lower():
-            fallback_url = "https://news.google.com/rss/search?q=site%3Apib.gov.in&hl=en-IN&gl=IN&ceid=IN%3Aen"
-            fallback_source = "PIB (indexed fallback)"
-        if fallback_url:
-            print(f"[collector] {source} official feed returned 403; using a domain-scoped search-index fallback.")
-            return _parse_feed(fallback_url, fallback_source, max_age_hours)
         print(f"[collector] Feed error ({source}): {exc}")
+        fallback_url, fallback_source = _domain_fallback(source, host)
+        if fallback_url:
+            print(f"[collector] {source} feed encountered error; using domain-scoped search fallback.")
+            return _parse_feed(fallback_url, fallback_source, max_age_hours)
         return []
+
     if getattr(parsed, "bozo", False) and not parsed.entries:
+        fallback_url, fallback_source = _domain_fallback(source, host)
+        if fallback_url:
+            print(f"[collector] {source} feed returned invalid XML/HTML; using domain-scoped search fallback.")
+            return _parse_feed(fallback_url, fallback_source, max_age_hours)
         print(f"[collector] Invalid/unavailable feed ({source}): {getattr(parsed, 'bozo_exception', 'unknown error')}")
+        return []
+
+    if not parsed.entries:
+        fallback_url, fallback_source = _domain_fallback(source, host)
+        if fallback_url:
+            print(f"[collector] {source} feed returned 0 parsed entries; using domain-scoped search fallback.")
+            return _parse_feed(fallback_url, fallback_source, max_age_hours)
+        print(f"[collector] Feed returned 0 parsed entries ({source}).")
         return []
 
     now = time.time()
     today_start_ts = _today_start_ts()
     stories: list[Story] = []
+    feed_lower = url.lower()
     for entry in parsed.entries:
         link = str(entry.get("link", "")).strip()
         title = clean_html(str(entry.get("title", "")))
@@ -389,7 +417,7 @@ def _parse_feed(url: str, source: str, max_age_hours: int) -> list[Story]:
             continue
 
         published_at, published_ts = _published(entry)
-        # Today's India-date only: do not publish 23 October or other previous-day items.
+        # Today's India-date only: do not publish previous-day items.
         if published_ts <= 0 or published_ts < today_start_ts:
             continue
         if published_ts > now + 15 * 60:
@@ -399,6 +427,26 @@ def _parse_feed(url: str, source: str, max_age_hours: int) -> list[Story]:
 
         summary = clean_html(str(entry.get("summary", "") or entry.get("description", "")))[:2500]
         source_tags = []
+        if "thediplomat.com" in feed_lower:
+            if "south-asia" in feed_lower:
+                source_tags.append("South Asia")
+            elif "asia-geopolitics" in feed_lower:
+                source_tags.append("Asia Geopolitics")
+            elif "asia-defense" in feed_lower:
+                source_tags.append("Asia Defense")
+        elif "defence.economictimes.indiatimes.com" in feed_lower:
+            source_tags.append("Defence")
+            if "topstories" in feed_lower:
+                source_tags.append("Top Stories")
+            elif "policy-partnerships" in feed_lower:
+                source_tags.append("Policy & Partnerships")
+            elif "military-systems" in feed_lower:
+                source_tags.append("Military Systems")
+            elif "research-security" in feed_lower:
+                source_tags.append("Research & Security")
+        elif "thehawk.in" in feed_lower and "india-china" in feed_lower:
+            source_tags.extend(["India-China Relations", "International Relations"])
+
         for tag in entry.get("tags", []) or []:
             if isinstance(tag, dict):
                 value = clean_html(str(tag.get("term") or tag.get("label") or ""))
@@ -409,20 +457,43 @@ def _parse_feed(url: str, source: str, max_age_hours: int) -> list[Story]:
             key, source, title, normalize_url(link), published_at, published_ts,
             summary, summary, source_tags[:12],
         ))
+    print(f"[collector] Parsed {source}: {len(parsed.entries)} entries; {len(stories)} eligible today.")
     # Oldest-first ensures all newly eligible articles are processed in publication order.
     return sorted(stories, key=lambda story: story.published_ts)
 
 
 def _source_label(url: str) -> str:
-    host = (urlparse(url).hostname or "").lower().removeprefix("www.")
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower().removeprefix("www.")
+    path = parsed.path.lower()
+    if host.endswith("mea.gov.in"):
+        return "MEA India"
     if host.endswith("thediplomat.com"):
+        if "south-asia" in path:
+            return "The Diplomat (South Asia)"
+        if "asia-geopolitics" in path:
+            return "The Diplomat (Asia Geopolitics)"
+        if "asia-defense" in path:
+            return "The Diplomat (Asia Defense)"
         return "The Diplomat"
+    if host.endswith("economictimes.indiatimes.com"):
+        return "ET Defence"
+    if host.endswith("livefistdefence.com"):
+        return "Livefist Defence"
+    if host.endswith("indiandefensenews.in"):
+        return "Indian Defence News"
+    if host.endswith("thehawk.in"):
+        return "The Hawk"
     if host.endswith("indianexpress.com"):
         return "The Indian Express"
-    if host.endswith("mea.gov.in"):
-        return "MEA"
     if host.endswith("pib.gov.in"):
-        return "PIB"
+        return "PIB India"
+    if host.endswith("bbc.co.uk") or host.endswith("bbc.com") or host.endswith("bbci.co.uk"):
+        return "BBC News"
+    if host.endswith("aljazeera.com"):
+        return "Al Jazeera"
+    if host.endswith("dawn.com"):
+        return "Dawn"
     return host or "Website"
 
 
@@ -449,7 +520,7 @@ def collect_sources(website_rss_urls: list[str] | str, youtube_channel_id: str, 
 
 def enrich_story(story: Story) -> Story:
     """Fetch allowed article content; resolve indexed-feed links when possible."""
-    if story.source.endswith("(indexed fallback)") and (urlparse(story.url).hostname or "").lower() == "news.google.com":
+    if "(indexed fallback)" in story.source.lower() and (urlparse(story.url).hostname or "").lower() == "news.google.com":
         try:
             response = HTTP.get(story.url, timeout=10, allow_redirects=True, stream=True)
             final_url = response.url
