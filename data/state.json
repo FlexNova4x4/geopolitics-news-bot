@@ -5255,9 +5255,10 @@
     "341dec501c5c4281b6f24424": {
       "published_at": "2026-10-29T23:52:30+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13075,
       "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
-      "updated_at": "2026-10-30T00:15:09.442190+00:00",
+      "updated_at": "2026-10-30T00:15:20.169303+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss"
     },
     "3421f43d87c5f1d911ecc00b": {
@@ -5335,9 +5336,10 @@
     "34a622000d2f764071e15fa7": {
       "published_at": "2026-10-29T23:42:14+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13073,
       "title": "Pakistan: PTI voices concern over deteriorating health of Imran Khan’s sister",
-      "updated_at": "2026-10-30T00:15:09.442164+00:00",
+      "updated_at": "2026-10-30T00:15:12.339535+00:00",
       "url": "https://www.tribuneindia.com/news/imran-khan-sister/pakistan-pti-voices-concern-over-deteriorating-health-of-imran-khans-sister"
     },
     "34a74e5845756f13fb70f040": {
@@ -12651,9 +12653,10 @@
     "797796247d0bae75581a9cdd": {
       "published_at": "2026-10-30T00:00:00+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13076,
       "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-      "updated_at": "2026-10-30T00:15:09.442193+00:00",
+      "updated_at": "2026-10-30T00:15:24.004700+00:00",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss"
     },
     "798f07244d5d555f1b7366d6": {
@@ -19016,9 +19019,10 @@
     "b5e26b0f57664c90c1a45b14": {
       "published_at": "2026-10-29T23:45:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13074,
       "title": "हिमाचल: हाईकोर्ट ने कहा- अपनी पसंद से कम वेतन चुना तो जूनियर से ज्यादा सैलरी नहीं मांग सकता सीनियर",
-      "updated_at": "2026-10-30T00:15:09.442187+00:00",
+      "updated_at": "2026-10-30T00:15:16.320119+00:00",
       "url": "https://www.amarujala.com/shimla/high-court-rules-that-if-an-employee-chooses-a-lower-salary-of-their-own-volition-they-cannot-claim-a-higher-2026-10-29"
     },
     "b5ff4b49b54797242ef3d0f3": {
@@ -27321,6 +27325,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:15:09.464337+00:00",
+  "last_cycle_at": "2026-10-30T00:15:27.208267+00:00",
   "schema_version": 1
 }
