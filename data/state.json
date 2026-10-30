@@ -4554,9 +4554,10 @@
     "2d2037b7438b458d14d44b17": {
       "published_at": "2026-10-30T01:18:26+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13107,
       "title": "A killing, two villages and a new fault line in Manipur",
-      "updated_at": "2026-10-30T01:45:34.494451+00:00",
+      "updated_at": "2026-10-30T01:45:41.108724+00:00",
       "url": "https://www.hindustantimes.com/india-news/a-killing-two-villages-and-a-new-fault-line-in-manipur-101793321794040.html"
     },
     "2d2824d82af7bb7e341611e4": {
@@ -9130,9 +9131,10 @@
     "5822e1d12887007a6b0a9e99": {
       "published_at": "2026-10-30T01:34:04+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13109,
       "title": "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
-      "updated_at": "2026-10-30T01:45:34.494459+00:00",
+      "updated_at": "2026-10-30T01:45:49.041232+00:00",
       "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
     },
     "5837ccab1351d5bcf45869b8": {
@@ -12157,9 +12159,10 @@
     "7441ccb3f95a2759461ce73c": {
       "published_at": "2026-10-30T01:17:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13106,
       "title": "You look like hell: Trump body-shames journalist on questions over cancelled rallies",
-      "updated_at": "2026-10-30T01:45:34.494431+00:00",
+      "updated_at": "2026-10-30T01:45:37.341891+00:00",
       "url": "https://www.tribuneindia.com/news/donald-trump-media-clash/you-look-like-hell-trump-body-shames-journalist-on-questions-over-cancelled-rallies"
     },
     "746609e7b8598597eb07af5f": {
@@ -18980,9 +18983,10 @@
     "b2f9ad5573ba5d7185e7184a": {
       "published_at": "2026-10-30T01:22:02+00:00",
       "source": "amarujala.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13108,
       "title": "Hamirpur (Himachal) News: टीबी के बढ़ते मामलों ने बढ़ाई चिंता, अब तक 709 मामले",
-      "updated_at": "2026-10-30T01:45:34.494455+00:00",
+      "updated_at": "2026-10-30T01:45:45.065329+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/rising-tb-cases-spark-concern-709-cases-reported-so-far-hamirpur-hp-news-c-94-1-hmp1005-213743-2026-10-29"
     },
     "b338259c6d957ff09cc53f22": {
@@ -27618,6 +27622,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T01:45:34.496791+00:00",
+  "last_cycle_at": "2026-10-30T01:45:52.244112+00:00",
   "schema_version": 1
 }
