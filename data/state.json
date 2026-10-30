@@ -16905,9 +16905,10 @@
     "a18d8dd8fbf1201f8b8e8bf8": {
       "published_at": "2026-10-30T00:07:07+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13077,
       "title": "“Does anyone want Baltic Sea to become like Hormuz?”: Putin warns Europe amid rising tensions",
-      "updated_at": "2026-10-30T00:15:31.487988+00:00",
+      "updated_at": "2026-10-30T00:15:34.485281+00:00",
       "url": "https://www.tribuneindia.com/news/baltic-sea-shipping/does-anyone-want-baltic-sea-to-become-like-hormuz-putin-warns-europe-amid-rising-tensions"
     },
     "a19da4fef1d3dfebd1ff9712": {
@@ -27333,6 +27334,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:15:31.492679+00:00",
+  "last_cycle_at": "2026-10-30T00:15:37.688591+00:00",
   "schema_version": 1
 }
