@@ -5795,9 +5795,10 @@
     "3875ce6530b9c792de604c3d": {
       "published_at": "2026-10-30T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13117,
       "title": "Rajnath Singh Departs For Delhi After Concluding ASEAN Defence Engagements In Philippines",
-      "updated_at": "2026-10-30T04:46:59.778933+00:00",
+      "updated_at": "2026-10-30T04:47:07.287805+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/rajnath-singh-departs-for-delhi-after.html"
     },
     "389047118581412ae4bee80e": {
@@ -6289,9 +6290,10 @@
     "3cec43af26dc41eb61a408a2": {
       "published_at": "2026-10-30T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13116,
       "title": "Arunachal CM Calls India-China Border Face-Offs 'Transgression, Not Intrusion'",
-      "updated_at": "2026-10-30T04:46:59.778911+00:00",
+      "updated_at": "2026-10-30T04:47:03.277756+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/arunachal-cm-calls-india-china-border.html"
     },
     "3cf13ec1155968a2b721ce44": {
@@ -24161,9 +24163,10 @@
     "e2dfa8be8304b5192cd163af": {
       "published_at": "2026-10-30T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13118,
       "title": "LeT Terrorist Ghazi Abdul Razzaq Dogar Dies Under Mysterious Circumstances Amid Series of Deaths of India-Focused Militants",
-      "updated_at": "2026-10-30T04:46:59.778940+00:00",
+      "updated_at": "2026-10-30T04:47:11.277111+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/let-terrorist-ghazi-abdul-razzaq-dogar.html"
     },
     "e2ed30f000f1355f247585dc": {
@@ -26518,9 +26521,10 @@
     "f6e2e998a87242d084b20be5": {
       "published_at": "2026-10-30T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13119,
       "title": "BPCL Plans To Invest An Additional $1.8 Billion In Mozambique LNG Project",
-      "updated_at": "2026-10-30T04:46:59.778946+00:00",
+      "updated_at": "2026-10-30T04:47:15.208321+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/bpcl-plans-to-invest-additional-18.html"
     },
     "f701c134aaa74d5b3681d0cc": {
@@ -27690,6 +27694,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T04:46:59.781995+00:00",
+  "last_cycle_at": "2026-10-30T04:47:18.412504+00:00",
   "schema_version": 1
 }
