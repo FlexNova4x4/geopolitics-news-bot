@@ -10443,9 +10443,10 @@
     "6591aade89d641ae7c9ac2d5": {
       "published_at": "2026-10-30T00:18:35+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13084,
       "title": "District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’",
-      "updated_at": "2026-10-30T00:45:07.103012+00:00",
+      "updated_at": "2026-10-30T00:45:17.614208+00:00",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/district-magistrate-declares-anantnag-bar-elections-null-and-void-cites-violations-of-official-orders/article71641241.ece"
     },
     "65a35f5b19650f1028268da0": {
@@ -12319,9 +12320,10 @@
     "769848585e5eced9d56ac3c7": {
       "published_at": "2026-10-30T00:26:17+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13085,
       "title": "Will repay political debt with interest: Neeraj Kumar on Lalan Singh",
-      "updated_at": "2026-10-30T00:45:07.103015+00:00",
+      "updated_at": "2026-10-30T00:45:21.460281+00:00",
       "url": "https://www.thehindu.com/news/national/bihar/will-repay-political-debt-with-interest-neeraj-kumar-on-lalan-singh/article71641017.ece"
     },
     "769bdd7c20b5f49159dbed00": {
@@ -14585,9 +14587,10 @@
     "8abe5993f6ad3f1e20efb642": {
       "published_at": "2026-10-30T00:08:50+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13082,
       "title": "What does bourbon have to do with the US midterms?",
-      "updated_at": "2026-10-30T00:45:07.102990+00:00",
+      "updated_at": "2026-10-30T00:45:09.995182+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss"
     },
     "8ac508c441b883cee54ee36d": {
@@ -26912,9 +26915,10 @@
     "fc44d62d6254da6fb17a37fe": {
       "published_at": "2026-10-30T00:11:20+00:00",
       "source": "aljazeera.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13083,
       "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-      "updated_at": "2026-10-30T00:45:07.103009+00:00",
+      "updated_at": "2026-10-30T00:45:13.827802+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss"
     },
     "fc5647aa20e96610287155ae": {
@@ -27402,6 +27406,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:45:07.105204+00:00",
+  "last_cycle_at": "2026-10-30T00:45:24.663159+00:00",
   "schema_version": 1
 }
