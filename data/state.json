@@ -8437,6 +8437,14 @@
       "updated_at": "2026-10-27T05:39:28.202760+00:00",
       "url": "https://www.hindustantimes.com/india-news/triple-c-gang-plotting-to-disrupt-festivals-vhp-slams-india-bloc-over-nov-1-ramlila-maidan-rally-cites-traders-appeal-101793078050261.html"
     },
+    "51a2e7effc703d345afe6265": {
+      "published_at": "2026-10-29T18:50:46+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Tamil Nadu to conduct social justice survey next year, panel gets cabinet nod",
+      "updated_at": "2026-10-30T00:44:43.321569+00:00",
+      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-to-conduct-social-justice-survey-next-year-panel-gets-cabinet-nod-101793299847191.html"
+    },
     "51bce90f8438efcaf6f9661f": {
       "published_at": "2026-10-27T04:36:47+00:00",
       "source": "thehindu.com",
@@ -18917,6 +18925,14 @@
       "updated_at": "2026-10-29T14:36:32.283450+00:00",
       "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss"
     },
+    "b4d0fe1203804d21b40e50d0": {
+      "published_at": "2026-10-29T23:59:21+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Supreme Court seeks bank liability for digital arrest fraud losses",
+      "updated_at": "2026-10-30T00:44:43.321596+00:00",
+      "url": "https://www.hindustantimes.com/india-news/supreme-court-seeks-bank-liability-for-digital-arrest-fraud-losses-101793317446009.html"
+    },
     "b4f660e47e6161bc60c10661": {
       "published_at": "2026-10-25T11:46:10+00:00",
       "source": "thehindu.com",
@@ -21148,6 +21164,14 @@
       "updated_at": "2026-10-29T05:19:38.431081+00:00",
       "url": "https://www.dawn.com/news/2040604/childs-kidnapping-murder-suspects-killed-in-encounter-in-muridke"
     },
+    "c7b68b6912f653b71b3ac54e": {
+      "published_at": "2026-10-29T18:59:45+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Election Commission extends SIR timelines for Delhi and 5 states",
+      "updated_at": "2026-10-30T00:44:43.321590+00:00",
+      "url": "https://www.hindustantimes.com/india-news/election-commission-extends-sir-timelines-for-delhi-and-5-states-101793300386247.html"
+    },
     "c7c467702108dbb0bc60178c": {
       "published_at": "2026-10-29T12:25:00+00:00",
       "source": "thehindu.com",
@@ -22586,6 +22610,14 @@
       "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
       "updated_at": "2026-10-27T12:17:17.857264+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss"
+    },
+    "d669986cc2dc4d7b447e54f5": {
+      "published_at": "2026-10-29T19:04:45+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "Rahul Gandhi rallies students for ‘Chalo Dilli’ march on November 1",
+      "updated_at": "2026-10-30T00:44:43.321593+00:00",
+      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-rallies-students-for-chalo-dilli-march-delhi-protest-101793300686272.html"
     },
     "d6871d0535130f899b48193f": {
       "published_at": "2026-10-26T11:27:39+00:00",
@@ -27334,6 +27366,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:15:37.688591+00:00",
+  "last_cycle_at": "2026-10-30T00:44:43.323720+00:00",
   "schema_version": 1
 }
