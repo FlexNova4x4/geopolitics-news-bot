@@ -8440,9 +8440,10 @@
     "51a2e7effc703d345afe6265": {
       "published_at": "2026-10-29T18:50:46+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13078,
       "title": "Tamil Nadu to conduct social justice survey next year, panel gets cabinet nod",
-      "updated_at": "2026-10-30T00:44:43.321569+00:00",
+      "updated_at": "2026-10-30T00:44:46.569224+00:00",
       "url": "https://www.hindustantimes.com/india-news/tamil-nadu-to-conduct-social-justice-survey-next-year-panel-gets-cabinet-nod-101793299847191.html"
     },
     "51bce90f8438efcaf6f9661f": {
@@ -18928,9 +18929,10 @@
     "b4d0fe1203804d21b40e50d0": {
       "published_at": "2026-10-29T23:59:21+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13081,
       "title": "Supreme Court seeks bank liability for digital arrest fraud losses",
-      "updated_at": "2026-10-30T00:44:43.321596+00:00",
+      "updated_at": "2026-10-30T00:44:58.645629+00:00",
       "url": "https://www.hindustantimes.com/india-news/supreme-court-seeks-bank-liability-for-digital-arrest-fraud-losses-101793317446009.html"
     },
     "b4f660e47e6161bc60c10661": {
@@ -21167,9 +21169,10 @@
     "c7b68b6912f653b71b3ac54e": {
       "published_at": "2026-10-29T18:59:45+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13079,
       "title": "Election Commission extends SIR timelines for Delhi and 5 states",
-      "updated_at": "2026-10-30T00:44:43.321590+00:00",
+      "updated_at": "2026-10-30T00:44:50.596348+00:00",
       "url": "https://www.hindustantimes.com/india-news/election-commission-extends-sir-timelines-for-delhi-and-5-states-101793300386247.html"
     },
     "c7c467702108dbb0bc60178c": {
@@ -22614,9 +22617,10 @@
     "d669986cc2dc4d7b447e54f5": {
       "published_at": "2026-10-29T19:04:45+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13080,
       "title": "Rahul Gandhi rallies students for ‘Chalo Dilli’ march on November 1",
-      "updated_at": "2026-10-30T00:44:43.321593+00:00",
+      "updated_at": "2026-10-30T00:44:54.607598+00:00",
       "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-rallies-students-for-chalo-dilli-march-delhi-protest-101793300686272.html"
     },
     "d6871d0535130f899b48193f": {
@@ -27366,6 +27370,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:44:43.323720+00:00",
+  "last_cycle_at": "2026-10-30T00:45:01.848431+00:00",
   "schema_version": 1
 }
