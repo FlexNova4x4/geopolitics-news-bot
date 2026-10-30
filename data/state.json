@@ -1272,9 +1272,10 @@
     "0b7c7d5bb14bada83247562f": {
       "published_at": "2026-10-30T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13136,
       "title": "Pakistan's Post-Sindoor Search For Partners Masks Persistent Military Weakness",
-      "updated_at": "2026-10-30T15:42:52.378995+00:00",
+      "updated_at": "2026-10-30T15:43:03.759855+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/pakistans-post-sindoor-search-for.html"
     },
     "0b92aaf263ee55917f769d69": {
@@ -9840,9 +9841,10 @@
     "5d11734b286a926904bdd479": {
       "published_at": "2026-10-30T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13134,
       "title": "Iran Involved? Fire At Critical U.S. Nuclear Site Sparks Emergency Response In South Carolina, One Worker Injured",
-      "updated_at": "2026-10-30T15:42:52.378977+00:00",
+      "updated_at": "2026-10-30T15:42:55.434520+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/iran-involved-fire-at-critical-us.html"
     },
     "5d11dbcca19fb079c2e3c7da": {
@@ -17146,9 +17148,10 @@
     "a0d69cb343ddd08498d930e0": {
       "published_at": "2026-10-30T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13137,
       "title": "Aequs Advances India’s Aerospace Manufacturing Automation With Automatic Drill Units",
-      "updated_at": "2026-10-30T15:42:52.378999+00:00",
+      "updated_at": "2026-10-30T15:43:07.689421+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/aequs-advances-indias-aerospace.html"
     },
     "a0f98c42e671b2d28e2a751a": {
@@ -24538,9 +24541,10 @@
     "e516daf6ad5e504cbacac8f4": {
       "published_at": "2026-10-30T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13135,
       "title": "India's National Interests Drive Reassessment of Indus Waters Treaty: Analyst",
-      "updated_at": "2026-10-30T15:42:52.378992+00:00",
+      "updated_at": "2026-10-30T15:42:59.741759+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/indias-national-interests-drive.html"
     },
     "e54c0b9d62d110989b311887": {
@@ -27834,6 +27838,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T15:42:52.381938+00:00",
+  "last_cycle_at": "2026-10-30T15:43:10.892942+00:00",
   "schema_version": 1
 }
