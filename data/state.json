@@ -459,6 +459,14 @@
       "updated_at": "2026-10-29T22:44:50.869828+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
     },
+    "04342d552ce9c1b34673ecbb": {
+      "published_at": "2026-10-29T20:22:36+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Witness protection scheme: Kerala High Court seeks State government’s response to PIL",
+      "updated_at": "2026-10-30T01:45:09.808967+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/witness-protection-scheme-kerala-high-court-seeks-state-governments-responseto-pil/article71637793.ece"
+    },
     "04372c1ba0c94e4a99ba4fc7": {
       "published_at": "2026-10-26T03:07:17+00:00",
       "source": "dawn.com",
@@ -13981,6 +13989,14 @@
       "updated_at": "2026-10-26T02:53:09.503389+00:00",
       "url": "https://www.hindustantimes.com/india-news/first-batch-of-18-300-agniveers-set-to-leave-armed-forces-by-december-31-as-4-year-tenure-ends-101792978955839.html"
     },
+    "858068b2e3321bb012af8611": {
+      "published_at": "2026-10-29T19:46:00+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Attempt to murder case: YouTuber surrenders before police in Keralam’s Kasaragod",
+      "updated_at": "2026-10-30T01:45:09.808936+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/attempt-to-murder-case-youtuber-surrenders-before-police-in-keralams-kasaragod/article71641552.ece"
+    },
     "858bac4d566303ced3b3ff4d": {
       "published_at": "2026-10-25T10:44:16+00:00",
       "source": "hindustantimes.com",
@@ -23972,6 +23988,14 @@
       "updated_at": "2026-10-29T08:43:19.974466+00:00",
       "url": "https://www.thehindu.com/sci-tech/health/why-india-rejected-a-patent-application-for-shorter-drug-resistant-tb-treatment-explained/article71639506.ece"
     },
+    "e228c993d43b16c79075e05c": {
+      "published_at": "2026-10-30T00:47:07+00:00",
+      "source": "publish.tribuneindia.com",
+      "status": "reserved",
+      "title": "India and Tanzania hold Army Staff Talks, discuss strengthening defence cooperation",
+      "updated_at": "2026-10-30T01:45:09.808970+00:00",
+      "url": "https://www.tribuneindia.com/news/army-staff-talks/india-and-tanzania-hold-army-staff-talks-discuss-strengthening-defence-cooperation"
+    },
     "e22a862beefa00ef9e27450e": {
       "published_at": "2026-10-29T06:02:36+00:00",
       "source": "hindustantimes.com",
@@ -26669,6 +26693,14 @@
       "updated_at": "2026-10-27T17:41:16.318910+00:00",
       "url": "https://www.tribuneindia.com/news/day-of-german-unity/germany-national-day-foreign-secy-vikram-misri-attends-celebrations-at-german-embassy-as-nations-mark-75-years-of-diplomatic-ties"
     },
+    "f904c1998d9a19142e79beea": {
+      "published_at": "2026-10-30T01:15:02+00:00",
+      "source": "amarujala.com",
+      "status": "reserved",
+      "title": "Hamirpur (Himachal) News: उखली पुल से नादौन तक 47 किलोमीटर का सत्यनिष्ठा मार्च निकाला",
+      "updated_at": "2026-10-30T01:45:09.808973+00:00",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/a-47-kilometer-march-for-integrity-satyanishtha-march-was-carried-out-from-ukhli-bridge-to-nadaun-hamirpur-hp-news-c-94-1-hmp1004-213801-2026-10-29"
+    },
     "f908df941637870d5323f014": {
       "published_at": "2026-10-29T02:31:26+00:00",
       "source": "hindustantimes.com",
@@ -27550,6 +27582,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T01:45:01.507750+00:00",
+  "last_cycle_at": "2026-10-30T01:45:09.811136+00:00",
   "schema_version": 1
 }
