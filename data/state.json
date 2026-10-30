@@ -4518,9 +4518,10 @@
     "2d0fe09b9dcf5709b726006f": {
       "published_at": "2026-10-29T18:42:41+00:00",
       "source": "hindustantimes.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13098,
       "title": "‘No evidence’: Punjab Police to file closure report in rape case that triggered LPU campus violence",
-      "updated_at": "2026-10-30T01:44:43.172219+00:00",
+      "updated_at": "2026-10-30T01:44:46.464332+00:00",
       "url": "https://www.hindustantimes.com/india-news/no-evidence-punjab-police-to-file-closure-report-in-rape-case-that-triggered-lpu-campus-violence-101793299362119.html"
     },
     "2d15af590c2510d7de39c640": {
@@ -7801,9 +7802,10 @@
     "4ad610b4adb19dcccdfda638": {
       "published_at": "2026-10-29T18:52:38+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13100,
       "title": "What does the law say about offences caused by underage drivers | Explained",
-      "updated_at": "2026-10-30T01:44:43.172240+00:00",
+      "updated_at": "2026-10-30T01:44:54.491270+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/what-does-the-law-say-about-offences-caused-by-underage-drivers-explained/article71641863.ece"
     },
     "4ae7702a22d3612dfcd0dec6": {
@@ -17659,9 +17661,10 @@
     "a75418a6fbc07071a953d3e8": {
       "published_at": "2026-10-29T19:31:53+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13101,
       "title": "SI arrested for alleged theft of seized drug from police station",
-      "updated_at": "2026-10-30T01:44:43.172242+00:00",
+      "updated_at": "2026-10-30T01:44:58.304853+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/si-arrested-for-alleged-theft-of-seized-drug-from-police-station/article71641530.ece"
     },
     "a75491afcf8ed78763648a34": {
@@ -18926,9 +18929,10 @@
     "b2e28b994f0c2cf4797be51c": {
       "published_at": "2026-10-29T18:50:16+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13099,
       "title": "Eight panchayats in Keralam’s Kasaragod to revive traditional surangam",
-      "updated_at": "2026-10-30T01:44:43.172238+00:00",
+      "updated_at": "2026-10-30T01:44:50.469410+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/eight-panchayats-in-keralams-kasaragod-to-revive-traditional-surangam/article71641224.ece"
     },
     "b338259c6d957ff09cc53f22": {
@@ -27546,6 +27550,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T01:44:43.174687+00:00",
+  "last_cycle_at": "2026-10-30T01:45:01.507750+00:00",
   "schema_version": 1
 }
