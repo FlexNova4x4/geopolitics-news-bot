@@ -4515,6 +4515,14 @@
       "updated_at": "2026-10-27T15:41:56.733165+00:00",
       "url": "https://www.tribuneindia.com/news/india/sashastra-seema-bal-chief-sanjay-singhal-to-hold-additional-charge-of-itbp"
     },
+    "2d0fe09b9dcf5709b726006f": {
+      "published_at": "2026-10-29T18:42:41+00:00",
+      "source": "hindustantimes.com",
+      "status": "reserved",
+      "title": "‘No evidence’: Punjab Police to file closure report in rape case that triggered LPU campus violence",
+      "updated_at": "2026-10-30T01:44:43.172219+00:00",
+      "url": "https://www.hindustantimes.com/india-news/no-evidence-punjab-police-to-file-closure-report-in-rape-case-that-triggered-lpu-campus-violence-101793299362119.html"
+    },
     "2d15af590c2510d7de39c640": {
       "published_at": "2026-10-27T07:08:27+00:00",
       "source": "publish.tribuneindia.com",
@@ -7789,6 +7797,14 @@
       "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
       "updated_at": "2026-10-29T09:10:24.633562+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss"
+    },
+    "4ad610b4adb19dcccdfda638": {
+      "published_at": "2026-10-29T18:52:38+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "What does the law say about offences caused by underage drivers | Explained",
+      "updated_at": "2026-10-30T01:44:43.172240+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/what-does-the-law-say-about-offences-caused-by-underage-drivers-explained/article71641863.ece"
     },
     "4ae7702a22d3612dfcd0dec6": {
       "published_at": "2026-10-24T22:58:43+00:00",
@@ -17640,6 +17656,14 @@
       "updated_at": "2026-10-30T00:45:44.830801+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss"
     },
+    "a75418a6fbc07071a953d3e8": {
+      "published_at": "2026-10-29T19:31:53+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "SI arrested for alleged theft of seized drug from police station",
+      "updated_at": "2026-10-30T01:44:43.172242+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/si-arrested-for-alleged-theft-of-seized-drug-from-police-station/article71641530.ece"
+    },
     "a75491afcf8ed78763648a34": {
       "published_at": "2026-10-27T06:45:03+00:00",
       "source": "amarujala.com",
@@ -18898,6 +18922,14 @@
       "title": "Demolition of pre-partition building in Hyderabad stopped",
       "updated_at": "2026-10-29T05:19:07.657722+00:00",
       "url": "https://www.dawn.com/news/2040539/demolition-of-pre-partition-building-in-hyderabad-stopped"
+    },
+    "b2e28b994f0c2cf4797be51c": {
+      "published_at": "2026-10-29T18:50:16+00:00",
+      "source": "thehindu.com",
+      "status": "reserved",
+      "title": "Eight panchayats in Keralam’s Kasaragod to revive traditional surangam",
+      "updated_at": "2026-10-30T01:44:43.172238+00:00",
+      "url": "https://www.thehindu.com/news/national/kerala/eight-panchayats-in-keralams-kasaragod-to-revive-traditional-surangam/article71641224.ece"
     },
     "b338259c6d957ff09cc53f22": {
       "published_at": "2026-10-29T12:37:43+00:00",
@@ -27514,6 +27546,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T01:15:18.067010+00:00",
+  "last_cycle_at": "2026-10-30T01:44:43.174687+00:00",
   "schema_version": 1
 }
