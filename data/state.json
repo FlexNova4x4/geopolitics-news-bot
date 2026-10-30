@@ -2226,9 +2226,10 @@
     "15547ee7498ddb78b4edf4a9": {
       "published_at": "2026-10-30T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13120,
       "title": "ECONOMY & WELFARE: India's Poverty Reduction Among Fastest Globally as Nearly 496 Million Move Out of Poverty: World Bank",
-      "updated_at": "2026-10-30T04:47:24.958124+00:00",
+      "updated_at": "2026-10-30T04:47:27.669579+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/economy-welfare-indias-poverty.html"
     },
     "15571e2b98d399c80a62461e": {
@@ -9813,9 +9814,10 @@
     "5d5ff50a06392849c8db35b8": {
       "published_at": "2026-10-30T04:33:30+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13123,
       "title": "K-9 Vajra In Ladakh: Winterised Firepower Expands Options, But Terrain Still Dictates Operations",
-      "updated_at": "2026-10-30T04:47:24.958147+00:00",
+      "updated_at": "2026-10-30T04:47:39.482019+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/k-9-vajra-in-ladakh-winterised.html"
     },
     "5d760321f07f2c6086c4baa8": {
@@ -18073,9 +18075,10 @@
     "aa9111e5a6a572576ee3880c": {
       "published_at": "2026-10-30T04:33:28+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13122,
       "title": "India's Weapons Exports To Europe Top $850 Million Since Russia-Ukraine War Began",
-      "updated_at": "2026-10-30T04:47:24.958144+00:00",
+      "updated_at": "2026-10-30T04:47:35.559221+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/indias-weapons-exports-to-europe-top.html"
     },
     "aa9b32d9414bf9a6f29fb5c0": {
@@ -21193,9 +21196,10 @@
     "c4b682a013735266d10c4c59": {
       "published_at": "2026-10-30T04:33:25+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13121,
       "title": "Imported AI Is a Strategic Liability For India’s Defence",
-      "updated_at": "2026-10-30T04:47:24.958139+00:00",
+      "updated_at": "2026-10-30T04:47:31.637654+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/imported-ai-is-strategic-liability-for.html"
     },
     "c4c8261ae3cc76a949a9fae8": {
@@ -27726,6 +27730,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T04:47:24.961153+00:00",
+  "last_cycle_at": "2026-10-30T04:47:42.686264+00:00",
   "schema_version": 1
 }
