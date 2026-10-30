@@ -9473,9 +9473,10 @@
     "5a495eccdd9ed30f042d0bc8": {
       "published_at": "2026-10-30T04:02:00+00:00",
       "source": "The Diplomat (Asia Defense)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13128,
       "title": "China’s Military Build-up Has Created ‘Pressure’ in Southeast Asia, Australian Defense Chief Says",
-      "updated_at": "2026-10-30T08:46:44.118849+00:00",
+      "updated_at": "2026-10-30T08:46:47.564151+00:00",
       "url": "https://thediplomat.com/2026/10/chinas-military-build-up-has-created-pressure-in-southeast-asia-australian-defense-chief-says"
     },
     "5a498be6490d6c4e6f6f7356": {
@@ -27765,6 +27766,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T08:46:44.122849+00:00",
+  "last_cycle_at": "2026-10-30T08:46:50.768340+00:00",
   "schema_version": 1
 }
