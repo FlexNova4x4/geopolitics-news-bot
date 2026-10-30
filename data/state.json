@@ -561,9 +561,10 @@
     "052d6cfa5573f333e250e010": {
       "published_at": "2026-10-30T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13133,
       "title": "Putin Warns Europe Against Baltic Sea Escalation Amid Hormuz Comparison",
-      "updated_at": "2026-10-30T15:42:28.040302+00:00",
+      "updated_at": "2026-10-30T15:42:43.612326+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/putin-warns-europe-against-baltic-sea.html"
     },
     "054e77d1e5ce1ec23102494b": {
@@ -1820,9 +1821,10 @@
     "1154ff6bcc4c33a9481ce645": {
       "published_at": "2026-10-30T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13131,
       "title": "Bangladesh's First Nuclear Power Plant Reaches Criticality Ahead of Grid Connection",
-      "updated_at": "2026-10-30T15:42:28.040296+00:00",
+      "updated_at": "2026-10-30T15:42:35.765370+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/bangladeshs-first-nuclear-power-plant.html"
     },
     "115c8f223273253aaab62e5c": {
@@ -4265,9 +4267,10 @@
     "2968f5e23805cb62b2222955": {
       "published_at": "2026-10-30T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13130,
       "title": "Tanker Hit by Explosive Devices in Strait of Hormuz; Crew Safe After Engine-Room Fire",
-      "updated_at": "2026-10-30T15:42:28.040278+00:00",
+      "updated_at": "2026-10-30T15:42:31.361276+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/tanker-hit-by-explosive-devices-in.html"
     },
     "299513eb564c0f80472c4ec3": {
@@ -21310,9 +21313,10 @@
     "c574530431758dd0d3ac4643": {
       "published_at": "2026-10-30T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13132,
       "title": "Indian Navy’s First Training Squadron Concludes Colombo Visit With Sri Lanka Navy PASSEX",
-      "updated_at": "2026-10-30T15:42:28.040299+00:00",
+      "updated_at": "2026-10-30T15:42:39.662775+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/indian-navys-first-training-squadron.html"
     },
     "c57933eeae4e71d3ef3462c0": {
@@ -27798,6 +27802,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T15:42:28.042832+00:00",
+  "last_cycle_at": "2026-10-30T15:42:46.815585+00:00",
   "schema_version": 1
 }
