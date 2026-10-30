@@ -993,9 +993,10 @@
     "08eab20e98001f653e4523c8": {
       "published_at": "2026-10-29T21:46:19+00:00",
       "source": "thehindu.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13069,
       "title": "Jailhouse rock, the ‘others’ in the dock",
-      "updated_at": "2026-10-30T00:14:43.137783+00:00",
+      "updated_at": "2026-10-30T00:14:46.303317+00:00",
       "url": "https://www.thehindu.com/news/national/odisha/jailhouse-rock-the-others-in-the-dock/article71635156.ece"
     },
     "08f61633443794391a7bf714": {
@@ -7693,9 +7694,10 @@
     "4a7901ea23f52b97cdbd8893": {
       "published_at": "2026-10-29T23:36:45+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13072,
       "title": "At risk of losing, Netanyahu cries poll fraud, rules out Arab alliance",
-      "updated_at": "2026-10-30T00:14:43.137808+00:00",
+      "updated_at": "2026-10-30T00:14:57.743060+00:00",
       "url": "https://www.tribuneindia.com/news/world/at-risk-of-losing-netanyahu-cries-poll-fraud-rules-out-arab-alliance"
     },
     "4a975aa06806dc7441102042": {
@@ -19197,9 +19199,10 @@
     "b78e47bf45f36135b8fb9218": {
       "published_at": "2026-10-29T23:03:15+00:00",
       "source": "feeds.bbci.co.uk",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13070,
       "title": "China made Mbappé apologise - but many people don't know exactly what he said",
-      "updated_at": "2026-10-30T00:14:43.137803+00:00",
+      "updated_at": "2026-10-30T00:14:50.116389+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss"
     },
     "b794abd56a7ec775e14aca98": {
@@ -25681,9 +25684,10 @@
     "f329b5580bfcd6cda434e054": {
       "published_at": "2026-10-29T23:22:15+00:00",
       "source": "publish.tribuneindia.com",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13071,
       "title": "4 killed in Italian helicopter crash during EU peacekeeping operation in Bosnia",
-      "updated_at": "2026-10-30T00:14:43.137806+00:00",
+      "updated_at": "2026-10-30T00:14:53.974261+00:00",
       "url": "https://www.tribuneindia.com/news/bosnia-helicopter-crash/4-killed-in-italian-helicopter-crash-during-eu-peacekeeping-operation-in-bosnia"
     },
     "f32c61db06e6f953d3a969c4": {
@@ -27285,6 +27289,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-30T00:14:43.140601+00:00",
+  "last_cycle_at": "2026-10-30T00:15:00.946562+00:00",
   "schema_version": 1
 }
