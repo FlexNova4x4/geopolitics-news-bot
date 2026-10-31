@@ -1494,6 +1494,14 @@
       "updated_at": "2026-10-29T04:11:58.714558+00:00",
       "url": "https://www.tribuneindia.com/news/world/israel-elections-netanyahu-rival-short-of-winning-mark-arab-parties-hold-key"
     },
+    "0e08aa792879da3256ff5b9a": {
+      "published_at": "2026-10-31T15:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Reliance Infrastructure's ₹5,000 Crore Push Into Aircraft Upgrades Signals Major Defence Aviation Ambitions",
+      "updated_at": "2026-10-31T15:28:30.340557+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/reliance-infrastructures-5000-crore.html"
+    },
     "0e34e10c2ea1b49326071a5a": {
       "published_at": "2026-10-26T09:32:15+00:00",
       "source": "publish.tribuneindia.com",
@@ -1664,6 +1672,14 @@
       "title": "Kangra News: दिवाली पर महंगाई का धमाका, पटाखों के दाम 30 फीसदी तक उछले",
       "updated_at": "2026-10-29T20:23:20.274397+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/price-surge-this-diwali-firecracker-costs-jump-by-up-to-30-percent-kangra-news-c-95-1-kng1060-264030-2026-10-30"
+    },
+    "0fc2fc7558c9acf646795397": {
+      "published_at": "2026-10-31T15:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "EAM Jaishankar, Rubio Review India-US Cooperation During G20 Talks In Atlanta",
+      "updated_at": "2026-10-31T15:28:30.340560+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/eam-jaishankar-rubio-review-india-us.html"
     },
     "0fe5303fb47015eaf9030dec": {
       "published_at": "2026-10-26T05:40:03+00:00",
@@ -4802,6 +4818,14 @@
       "title": "'No choice left but to look to increase fares': IndiGo CEO on 'very significant' rise in fuel bill",
       "updated_at": "2026-10-29T12:32:41.001168+00:00",
       "url": "https://www.hindustantimes.com/india-news/no-choice-left-but-to-look-to-increase-fares-indigo-ceo-on-very-significant-rise-in-fuel-bill-101793275288653.html"
+    },
+    "2e3e208457a1d88a33e05aec": {
+      "published_at": "2026-10-31T15:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India To Train 2.5 Lakh Nuclear Experts As IITs, NITs Gear Up For 100GW Push",
+      "updated_at": "2026-10-31T15:28:30.340542+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/india-to-train-25-lakh-nuclear-experts.html"
     },
     "2e460be7bd6b465144035a59": {
       "published_at": "2026-10-26T04:54:40+00:00",
@@ -8302,6 +8326,14 @@
       "title": "Congress accuses PM Modi, Shah of blocking INDIA bloc’s ‘public impeachment’ of CEC Gyanesh Kumar",
       "updated_at": "2026-10-27T09:34:57.915479+00:00",
       "url": "https://www.tribuneindia.com/news/india/congress-accuses-pm-modi-shah-of-blocking-india-blocs-public-impeachment-of-cec-gyanesh-kumar"
+    },
+    "4f3141da38f6a8058019c7d8": {
+      "published_at": "2026-10-31T15:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "EAM Jaishankar Holds Intensive Round of Diplomacy With EU, Germany, Brazil, Mexico, Canada And Argentina At G20 Gathering",
+      "updated_at": "2026-10-31T15:28:30.340564+00:00",
+      "url": "https://www.indiandefensenews.in/2026/10/eam-jaishankar-holds-intensive-round-of.html"
     },
     "4f32507c29205cded65b604b": {
       "published_at": "2026-10-26T06:58:05+00:00",
@@ -28135,6 +28167,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T15:28:22.918930+00:00",
+  "last_cycle_at": "2026-10-31T15:28:30.343430+00:00",
   "schema_version": 1
 }
