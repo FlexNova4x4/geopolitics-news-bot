@@ -3359,9 +3359,10 @@
     "1fb5d920582b390f80270e8a": {
       "published_at": "2026-10-31T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13299,
       "title": "Anantnag In Jammu & Kashmir Sees Massive Participation In 'Run For Unity' To Mark Rashtriya Ekta Diwas",
-      "updated_at": "2026-10-31T15:28:56.914416+00:00",
+      "updated_at": "2026-10-31T15:29:04.877220+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/anantnag-in-jammu-kashmir-sees-massive.html"
     },
     "1fde87a12af5a1c51dbe9ba7": {
@@ -5056,9 +5057,10 @@
     "30546bb7b6ae8082f1603bf9": {
       "published_at": "2026-10-31T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13301,
       "title": "‘We Are Closer To Gaganyaan' Says ISRO Chief, NVS-03 Success Strengthens NavIC And Future Space Missions",
-      "updated_at": "2026-10-31T15:28:56.914422+00:00",
+      "updated_at": "2026-10-31T15:29:14.235933+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/we-are-closer-to-gaganyaan-says-isro.html"
     },
     "3065d5af8ba6de4f6af66edf": {
@@ -7674,9 +7676,10 @@
     "485ac221ef11151a3eb5fa2f": {
       "published_at": "2026-10-31T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13298,
       "title": "Air Chief Marshal Ashutosh Dixit Takes Command As Indian Air Force's 29th Air Chief",
-      "updated_at": "2026-10-31T15:28:56.914401+00:00",
+      "updated_at": "2026-10-31T15:29:00.754043+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/air-chief-marshal-ashutosh-dixit-takes.html"
     },
     "485cadb53c686afce73731c2": {
@@ -27731,9 +27734,10 @@
     "fc6f7e5c79cd6c61b4d05bdd": {
       "published_at": "2026-10-31T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13300,
       "title": "Trishulopulsion Unveils Air-Breathing Rocket Engine Concept For Supersonic Naval Training Target",
-      "updated_at": "2026-10-31T15:28:56.914419+00:00",
+      "updated_at": "2026-10-31T15:29:09.641160+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/trishulopulsion-unveils-air-breathing.html"
     },
     "fc7368afc2ad74520de6cd45": {
@@ -28203,6 +28207,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T15:28:56.917331+00:00",
+  "last_cycle_at": "2026-10-31T15:29:17.439438+00:00",
   "schema_version": 1
 }
