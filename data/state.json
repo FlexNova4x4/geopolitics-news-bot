@@ -9626,9 +9626,10 @@
     "5adbe8fdd0939b9d75e8409b": {
       "published_at": "2026-10-31T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13157,
       "title": "Iran-US Draft Envisions Uranium Transfer And Hormuz Reopening Within Seven Days",
-      "updated_at": "2026-10-31T05:39:03.956051+00:00",
+      "updated_at": "2026-10-31T05:39:10.412062+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/iran-us-draft-envisions-uranium.html"
     },
     "5af4251633ca50b507341bec": {
@@ -21474,9 +21475,10 @@
     "c5b2a9396140e3e5496bbb32": {
       "published_at": "2026-10-31T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13159,
       "title": "India Urges UN Human Rights Council To Prioritise Dialogue Over Politicisation, Calls For Balanced Rights Approach",
-      "updated_at": "2026-10-31T05:39:03.956061+00:00",
+      "updated_at": "2026-10-31T05:39:18.336933+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/india-urges-un-human-rights-council-to.html"
     },
     "c5d819591e072513cc8dd440": {
@@ -21599,9 +21601,10 @@
     "c6f6a8f20729c9bdb639bc67": {
       "published_at": "2026-10-31T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13156,
       "title": "Air Marshal Inderpal Singh Walia Appointed As Next IAF Vice Chief",
-      "updated_at": "2026-10-31T05:39:03.956029+00:00",
+      "updated_at": "2026-10-31T05:39:06.474797+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/air-marshal-inderpal-singh-walia.html"
     },
     "c6f8bc9f042c1c298e39865f": {
@@ -23136,9 +23139,10 @@
     "d62bce3624ee59d8fc6cc071": {
       "published_at": "2026-10-31T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13158,
       "title": "Air India Extends Saudi Arabia Flight Suspension Until November 14 Amid Regional Security Concerns",
-      "updated_at": "2026-10-31T05:39:03.956057+00:00",
+      "updated_at": "2026-10-31T05:39:14.365373+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/air-india-extends-saudi-arabia-flight.html"
     },
     "d63dc77297c7978f01b69f7a": {
@@ -27978,6 +27982,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T05:39:03.958716+00:00",
+  "last_cycle_at": "2026-10-31T05:39:21.540698+00:00",
   "schema_version": 1
 }
