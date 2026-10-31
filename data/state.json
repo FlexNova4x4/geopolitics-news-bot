@@ -7658,9 +7658,10 @@
     "4820b20983926f3fca8b76e2": {
       "published_at": "2026-10-31T15:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13305,
       "title": "Scatter The Fleet, Multiply The Threat: India’s Missile Catamaran Concept For Indo-Pacific Sea Denial",
-      "updated_at": "2026-10-31T15:57:46.202652+00:00",
+      "updated_at": "2026-10-31T15:58:02.939361+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/scatter-fleet-multiply-threat-indias.html"
     },
     "484cb2af1a634de23c0cc3ce": {
@@ -8754,9 +8755,10 @@
     "52651a9670b167e6f2831f34": {
       "published_at": "2026-10-31T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13303,
       "title": "VyomIC Secures IN-SPACe Technology Adoption Fund 2026 To Advance Indigenous Atomic Clock Technology",
-      "updated_at": "2026-10-31T15:57:46.202645+00:00",
+      "updated_at": "2026-10-31T15:57:54.318776+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/vyomic-secures-in-space-technology.html"
     },
     "5268eb7755587adb3368102c": {
@@ -15557,9 +15559,10 @@
     "908276f178a20e2f99708447": {
       "published_at": "2026-10-31T15:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13304,
       "title": "IAF's Six Multi-Mission Tanker Contract Nears Signing As Deliveries Planned Between 2028 and 2030",
-      "updated_at": "2026-10-31T15:57:46.202649+00:00",
+      "updated_at": "2026-10-31T15:57:58.529321+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/iafs-six-multi-mission-tanker-contract.html"
     },
     "90bc5ec53cc284d545154fee": {
@@ -26752,9 +26755,10 @@
     "f40d0bb104102cf95b8b4d48": {
       "published_at": "2026-10-31T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13302,
       "title": "India Sets Sights On Semiconductor Self-Reliance By 2047 Through Next-Generation Chip Innovation: MoD",
-      "updated_at": "2026-10-31T15:57:46.202631+00:00",
+      "updated_at": "2026-10-31T15:57:50.243981+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/india-sets-sights-on-semiconductor-self.html"
     },
     "f41bb9d90381ef81b56f0ae5": {
@@ -28239,6 +28243,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T15:57:46.205677+00:00",
+  "last_cycle_at": "2026-10-31T15:58:06.142879+00:00",
   "schema_version": 1
 }
