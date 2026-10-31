@@ -1425,9 +1425,10 @@
     "0d27e45aa37e1dc47ad473fb": {
       "published_at": "2026-10-31T04:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13170,
       "title": "Three Private-Sector Contenders Submit Bids For ₹15,000 Crore AMCA Prototype Development Contract",
-      "updated_at": "2026-10-31T05:40:33.276840+00:00",
+      "updated_at": "2026-10-31T05:40:44.152330+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/three-private-sector-contenders-submit.html"
     },
     "0d3d1f14b5167333f55d8b7b": {
@@ -18119,9 +18120,10 @@
     "a8c3224b43efe69679c345e3": {
       "published_at": "2026-10-31T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13168,
       "title": "EAM Jaishankar Warns Against Ignoring Terror Threats Amid Strategic Calculations At G20 Foreign Ministers' Meeting",
-      "updated_at": "2026-10-31T05:40:33.276821+00:00",
+      "updated_at": "2026-10-31T05:40:35.867488+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/eam-jaishankar-warns-against-ignoring.html"
     },
     "a8fb3c457a70088aa88a3f1b": {
@@ -18181,9 +18183,10 @@
     "a9cb797334e558a1ccf25c97": {
       "published_at": "2026-10-31T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13169,
       "title": "DRDO Showcases Indigenous Chips Powering Advanced Radar, Electronic Warfare And Missile Systems",
-      "updated_at": "2026-10-31T05:40:33.276837+00:00",
+      "updated_at": "2026-10-31T05:40:40.203739+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/drdo-showcases-indigenous-chips.html"
     },
     "a9d26f55f205e4ebb7d190f5": {
@@ -28078,6 +28081,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T05:40:33.280289+00:00",
+  "last_cycle_at": "2026-10-31T05:40:47.356090+00:00",
   "schema_version": 1
 }
