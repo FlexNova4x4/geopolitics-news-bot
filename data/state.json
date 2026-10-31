@@ -1497,9 +1497,10 @@
     "0e08aa792879da3256ff5b9a": {
       "published_at": "2026-10-31T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13295,
       "title": "Reliance Infrastructure's ₹5,000 Crore Push Into Aircraft Upgrades Signals Major Defence Aviation Ambitions",
-      "updated_at": "2026-10-31T15:28:30.340557+00:00",
+      "updated_at": "2026-10-31T15:28:38.216425+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/reliance-infrastructures-5000-crore.html"
     },
     "0e34e10c2ea1b49326071a5a": {
@@ -1676,9 +1677,10 @@
     "0fc2fc7558c9acf646795397": {
       "published_at": "2026-10-31T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13296,
       "title": "EAM Jaishankar, Rubio Review India-US Cooperation During G20 Talks In Atlanta",
-      "updated_at": "2026-10-31T15:28:30.340560+00:00",
+      "updated_at": "2026-10-31T15:28:42.359840+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/eam-jaishankar-rubio-review-india-us.html"
     },
     "0fe5303fb47015eaf9030dec": {
@@ -4822,9 +4824,10 @@
     "2e3e208457a1d88a33e05aec": {
       "published_at": "2026-10-31T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13294,
       "title": "India To Train 2.5 Lakh Nuclear Experts As IITs, NITs Gear Up For 100GW Push",
-      "updated_at": "2026-10-31T15:28:30.340542+00:00",
+      "updated_at": "2026-10-31T15:28:34.134801+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/india-to-train-25-lakh-nuclear-experts.html"
     },
     "2e460be7bd6b465144035a59": {
@@ -8330,9 +8333,10 @@
     "4f3141da38f6a8058019c7d8": {
       "published_at": "2026-10-31T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13297,
       "title": "EAM Jaishankar Holds Intensive Round of Diplomacy With EU, Germany, Brazil, Mexico, Canada And Argentina At G20 Gathering",
-      "updated_at": "2026-10-31T15:28:30.340564+00:00",
+      "updated_at": "2026-10-31T15:28:46.535255+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/eam-jaishankar-holds-intensive-round-of.html"
     },
     "4f32507c29205cded65b604b": {
@@ -28167,6 +28171,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T15:28:30.343430+00:00",
+  "last_cycle_at": "2026-10-31T15:28:49.738836+00:00",
   "schema_version": 1
 }
