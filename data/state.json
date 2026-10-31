@@ -4383,9 +4383,10 @@
     "2abab3dfe1bbabd86996bd06": {
       "published_at": "2026-10-31T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13292,
       "title": "South Korea Completes Indigenous Maritime Attack Helicopter Development Ahead Of 2027 Production Program",
-      "updated_at": "2026-10-31T15:28:03.264627+00:00",
+      "updated_at": "2026-10-31T15:28:15.518595+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/south-korea-completes-indigenous.html"
     },
     "2ac5d225560f70aa9efb31de": {
@@ -18532,9 +18533,10 @@
     "ac38a83188af6ee3d6c089e6": {
       "published_at": "2026-10-31T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13293,
       "title": "US-Iran Direct Doha Talks Edge Closer After Breakthrough In Nuclear And Hormuz Negotiations",
-      "updated_at": "2026-10-31T15:28:03.264631+00:00",
+      "updated_at": "2026-10-31T15:28:19.715571+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/us-iran-direct-doha-talks-edge-closer.html"
     },
     "ac3ce2a68e95ddc507bda45e": {
@@ -19683,9 +19685,10 @@
     "b6c4d0efde80e2b7f8fa7ed8": {
       "published_at": "2026-10-31T15:23:30+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13290,
       "title": "Quad Joint Press Release on Economic Prosperity and Security - Ministry of External Affairs",
-      "updated_at": "2026-10-31T15:28:03.264606+00:00",
+      "updated_at": "2026-10-31T15:28:07.424571+00:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUJsV1ZMTENZLVZQV25aVDA0T3E4c09MbncxS3lDQWROdHMzaDdUUUs1WE03V1hQbEVtR044d1l2cmVPUlRhbUVlY3JzS1ZjRzRFZ0c3UWxDUWJxNld3NVNVV2hqa1BMWGU4WlhLQjVyd0x1bXZPM3ZkYlQzOVpOOENPcGRXc1hjZ3ZBLVVzZ1czcHdzMldGN0ROSk9BV3VIcXZiQnQ5cU9JVjFV?oc=5"
     },
     "b6c7003a5a2c3ea73103dc55": {
@@ -22273,9 +22276,10 @@
     "cd815e55889221aa7415cdec": {
       "published_at": "2026-10-31T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13291,
       "title": "Saudi Arabia Looks To China For Missile Capabilities",
-      "updated_at": "2026-10-31T15:28:03.264623+00:00",
+      "updated_at": "2026-10-31T15:28:11.352512+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/saudi-arabia-looks-to-china-for-missile.html"
     },
     "cd987678a3ec1d2822b51fa1": {
@@ -28131,6 +28135,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T15:28:03.267357+00:00",
+  "last_cycle_at": "2026-10-31T15:28:22.918930+00:00",
   "schema_version": 1
 }
