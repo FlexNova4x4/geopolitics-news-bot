@@ -8638,9 +8638,10 @@
     "5209f5f52f80bb2c3af18490": {
       "published_at": "2026-10-31T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13162,
       "title": "Shopian Terror Financing Network Busted, 10 Terrorists Held In Major Crackdown",
-      "updated_at": "2026-10-31T05:39:29.849970+00:00",
+      "updated_at": "2026-10-31T05:39:40.408929+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/shopian-terror-financing-network-busted.html"
     },
     "520abfc2877cc30ff2ea52bf": {
@@ -9202,9 +9203,10 @@
     "57cd654639dd6019ced6cffe": {
       "published_at": "2026-10-31T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13163,
       "title": "India-Brazil Trade Poised To Hit $20 Billion As Ties Deepen In Critical Minerals, AI And Defence",
-      "updated_at": "2026-10-31T05:39:29.849974+00:00",
+      "updated_at": "2026-10-31T05:39:44.306358+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/india-brazil-trade-poised-to-hit-20.html"
     },
     "57d39223ca6521e014c033ed": {
@@ -14648,9 +14650,10 @@
     "886bd443e87e66ca8629dbf0": {
       "published_at": "2026-10-31T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13161,
       "title": "Poland Hails Tusk's India Visit As Bilateral Relations Enter New Growth Phase",
-      "updated_at": "2026-10-31T05:39:29.849966+00:00",
+      "updated_at": "2026-10-31T05:39:36.693810+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/poland-hails-tusks-india-visit-as.html"
     },
     "886f6517ac2c914003485cf8": {
@@ -23631,9 +23634,10 @@
     "da058b93a8d8e69f9a90e8a4": {
       "published_at": "2026-10-31T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13160,
       "title": "INS Tarkash Strengthens India-Mauritius Maritime Ties During Port Louis Visit",
-      "updated_at": "2026-10-31T05:39:29.849949+00:00",
+      "updated_at": "2026-10-31T05:39:32.758388+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/ins-tarkash-strengthens-india-mauritius.html"
     },
     "da1b46e682616586de2a5f9b": {
@@ -28014,6 +28018,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T05:39:29.853326+00:00",
+  "last_cycle_at": "2026-10-31T05:39:47.509845+00:00",
   "schema_version": 1
 }
