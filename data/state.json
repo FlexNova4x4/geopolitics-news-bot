@@ -24691,6 +24691,14 @@
       "updated_at": "2026-10-29T14:03:41.585322+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss"
     },
+    "e4363b1668288533162fcf00": {
+      "published_at": "2026-10-31T08:01:11+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "CCS approves ₹40,000 crore deal for eight next-gen Navy corvettes",
+      "updated_at": "2026-10-31T08:39:10.671478+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/ccs-approves-40000-crore-deal-for-eight-next-gen-navy-corvettes/135393971"
+    },
     "e44b9bd853abbb389136f045": {
       "published_at": "2026-10-27T09:22:45+00:00",
       "source": "aljazeera.com",
@@ -28090,6 +28098,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-10-31T08:09:21.909146+00:00",
+  "last_cycle_at": "2026-10-31T08:39:10.674591+00:00",
   "schema_version": 1
 }
