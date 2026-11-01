@@ -10210,9 +10210,10 @@
     "5f92118a9f4ab27b7014bf04": {
       "published_at": "2026-11-01T07:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13325,
       "title": "Drones, Decoys And High-Altitude Mobility: Inside India's ₹2.12 Lakh Crore Push For Future Warfare",
-      "updated_at": "2026-11-01T07:32:00.000023+00:00",
+      "updated_at": "2026-11-01T07:32:07.346607+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/drones-decoys-and-high-altitude.html"
     },
     "5f9c325b1b2d3c7bf02f5786": {
@@ -18443,9 +18444,10 @@
     "aa8cdf9593716116872429b1": {
       "published_at": "2026-11-01T07:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13326,
       "title": "Marco Rubio Backs India On Terrorism But US F-16 Support For Pakistan Remains Sticking Point",
-      "updated_at": "2026-11-01T07:32:00.000026+00:00",
+      "updated_at": "2026-11-01T07:32:11.540762+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/marco-rubio-backs-india-on-terrorism.html"
     },
     "aa8ddfa1f7994c7b760d05ba": {
@@ -20628,9 +20630,10 @@
     "bc10ad980476324b8a033e29": {
       "published_at": "2026-11-01T07:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13327,
       "title": "India’s Evolving Air Power: Pilot Shortages, Carrier Challenges And The Future of Combat Aviation",
-      "updated_at": "2026-11-01T07:32:00.000030+00:00",
+      "updated_at": "2026-11-01T07:32:15.715510+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-evolving-air-power-pilot.html"
     },
     "bc22e1c991e1e70fc6be33c6": {
@@ -21382,9 +21385,10 @@
     "c233f919afac361074f25281": {
       "published_at": "2026-11-01T07:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13324,
       "title": "EAM Jaishankar And Lavrov Discuss Ukraine Conflict, Gulf Tensions And Global Challenges At G20 Meeting In Atlanta",
-      "updated_at": "2026-11-01T07:32:00.000005+00:00",
+      "updated_at": "2026-11-01T07:32:03.188533+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eam-jaishankar-and-lavrov-discuss.html"
     },
     "c23da13b62908c3f0401aed9": {
@@ -28365,6 +28369,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-01T07:32:00.002713+00:00",
+  "last_cycle_at": "2026-11-01T07:32:18.918456+00:00",
   "schema_version": 1
 }
