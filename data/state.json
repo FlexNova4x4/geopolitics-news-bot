@@ -17454,9 +17454,10 @@
     "a151d2a78e9235ee58bb3ffb": {
       "published_at": "2026-11-01T07:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13329,
       "title": "Three Private Bidders Vie For India’s AMCA Stealth Fighter Prototype Contract",
-      "updated_at": "2026-11-01T07:32:43.934385+00:00",
+      "updated_at": "2026-11-01T07:32:51.762675+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/three-private-bidders-vie-for-indias.html"
     },
     "a176d95bb554ebbd1769568e": {
@@ -27266,9 +27267,10 @@
     "f75e6d81d218517037980800": {
       "published_at": "2026-11-01T07:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13328,
       "title": "India's First Fusion Power Company Advances Plans For Private Tokamak Reactor",
-      "updated_at": "2026-11-01T07:32:43.934366+00:00",
+      "updated_at": "2026-11-01T07:32:47.456567+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-first-fusion-power-company.html"
     },
     "f7a5b8c98d936ff6be3d9fef": {
@@ -28108,9 +28110,10 @@
     "fdec4a6b6e57e9a55357ca6e": {
       "published_at": "2026-11-01T07:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13330,
       "title": "AMCA Bid Process Enters Crucial Phase as Industry Awaits Consortium Clarity",
-      "updated_at": "2026-11-01T07:32:43.934389+00:00",
+      "updated_at": "2026-11-01T07:32:56.037477+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/amca-bid-process-enters-crucial-phase.html"
     },
     "fe117bb3d8f47f9ec423462f": {
@@ -28393,6 +28396,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-01T07:32:43.936975+00:00",
+  "last_cycle_at": "2026-11-01T07:32:59.240621+00:00",
   "schema_version": 1
 }
