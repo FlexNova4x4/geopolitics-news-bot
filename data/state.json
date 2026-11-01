@@ -5804,9 +5804,10 @@
     "36f284439ef6d522101291c9": {
       "published_at": "2026-11-01T07:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13317,
       "title": "PM Modi Hails ISRO's NVS-03 Success As NavIC Capability Receives Major Boost",
-      "updated_at": "2026-11-01T07:30:48.322260+00:00",
+      "updated_at": "2026-11-01T07:30:55.731342+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pm-modi-hails-isros-nvs-03-success-as.html"
     },
     "3705a6b0e9af55993543bb81": {
@@ -9121,9 +9122,10 @@
     "561df9091cd0bda7b1b7ac08": {
       "published_at": "2026-11-01T07:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13318,
       "title": "Quad Launches $85 Million Trusted AI Push As US Commits $10 Million For Critical Minerals Recycling",
-      "updated_at": "2026-11-01T07:30:48.322264+00:00",
+      "updated_at": "2026-11-01T07:30:59.836829+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/quad-launches-85-million-trusted-ai.html"
     },
     "563f0f5692d1e1cb1a496a98": {
@@ -19818,9 +19820,10 @@
     "b6d9007fd95119f4a74ee614": {
       "published_at": "2026-11-01T07:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13319,
       "title": "Quad Nations Deepen Maritime Security, Critical Minerals And Cyber Crime Cooperation In Indo-Pacific",
-      "updated_at": "2026-11-01T07:30:48.322268+00:00",
+      "updated_at": "2026-11-01T07:31:04.020415+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/quad-nations-deepen-maritime-security.html"
     },
     "b6eec6e95b1f2367ee92b313": {
@@ -27695,9 +27698,10 @@
     "fb9405744de40e0c3e960bfe": {
       "published_at": "2026-11-01T07:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13316,
       "title": "G20 Foreign Ministers Conclude Atlanta Summit Without Consensus As EAM Jaishankar Pushes Diplomacy And Economic Stability",
-      "updated_at": "2026-11-01T07:30:48.322242+00:00",
+      "updated_at": "2026-11-01T07:30:51.626781+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/g20-foreign-ministers-conclude-atlanta.html"
     },
     "fb9ddaac8c9ec5da26867373": {
@@ -28293,6 +28297,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-01T07:30:48.324944+00:00",
+  "last_cycle_at": "2026-11-01T07:31:07.223419+00:00",
   "schema_version": 1
 }
