@@ -30,9 +30,10 @@
     "002c9c0cf412b4d22e2c88f1": {
       "published_at": "2026-11-01T07:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13323,
       "title": "India-France Defence Partnership Deepens Through Rafale Marine Induction, Joint Exercises And Strategic Technology Collaboration",
-      "updated_at": "2026-11-01T07:31:27.670163+00:00",
+      "updated_at": "2026-11-01T07:31:44.914900+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-france-defence-partnership.html"
     },
     "0039eeff93841b27b6b4fb90": {
@@ -14325,9 +14326,10 @@
     "85510fd3f19e0e1ce42eb95f": {
       "published_at": "2026-11-01T07:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13321,
       "title": "Su-57 Outguns F-22 And F-35 In Combat, New Claim Says",
-      "updated_at": "2026-11-01T07:31:27.670154+00:00",
+      "updated_at": "2026-11-01T07:31:36.829938+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/su-57-outguns-f-22-and-f-35-in-combat.html"
     },
     "85616f4dbf5ab1cf6473a90e": {
@@ -15737,9 +15739,10 @@
     "91b59ac56d65b1e41dc3e0f4": {
       "published_at": "2026-11-01T07:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13320,
       "title": "India Closely Tracks China’s Naval Expansion, Says Navy Chief Admiral K Swaminathan",
-      "updated_at": "2026-11-01T07:31:27.670135+00:00",
+      "updated_at": "2026-11-01T07:31:32.709691+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-closely-tracks-chinas-naval.html"
     },
     "91b92ab6ffee9efb0baddb65": {
@@ -26887,9 +26890,10 @@
     "f48305324fe3ea075bdb9d2e": {
       "published_at": "2026-11-01T07:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13322,
       "title": "Marco Rubio Says Quad Is Not An Anti-China Coalition As Group Expands Indo-Pacific Cooperation",
-      "updated_at": "2026-11-01T07:31:27.670159+00:00",
+      "updated_at": "2026-11-01T07:31:40.797428+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/marco-rubio-says-quad-is-not-anti-china.html"
     },
     "f4d79de7047399b9ae493032": {
@@ -28329,6 +28333,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-01T07:31:27.673524+00:00",
+  "last_cycle_at": "2026-11-01T07:31:48.118321+00:00",
   "schema_version": 1
 }
