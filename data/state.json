@@ -4069,9 +4069,10 @@
     "2675d14a88e57aca8b7b771c": {
       "published_at": "2026-11-01T06:27:49+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13315,
       "title": "Visit of Minister of State for External Affairs, and Textiles Shri Pabitra Margherita to the Kingdom of Spain (November 3-5, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-01T06:30:35.352571+00:00",
+      "updated_at": "2026-11-01T06:30:38.988495+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDJfdTZ3dXB0WlY4ZUhHVlBQZGJ4VFI3UEMzUUhjTTVVOWNfRXdPWGJ6aHgwYzlxcHVDVzExY0hsU1I2TkJoZHk2cVZ0Rjd1eXNDSW10cEJXUEd4c3N0RTJqYTJkOHQtR1hMa2h0eDlJWF9MdkJVM21pQ1ozLUFrRG14WDhabm9NMGZTV3RFdXpfYVYxaXd6d0E3RVh0SlpBU2V3UHhReHUwLWRud3Nlc0RxUEJnVjFndWZYdmJxbnpReWpGMUMwb3dlWmtnUXphOTRUdldyLTk3SThGclVaa3FlZ196b2xIMmFMSVU1S1J0NXNXbHVyYndCaHcxXzdLVjdV?oc=5"
     },
     "26aa90fabd1de7eb17bdd2ef": {
@@ -28260,6 +28261,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-01T06:30:35.354786+00:00",
+  "last_cycle_at": "2026-11-01T06:30:42.191473+00:00",
   "schema_version": 1
 }
