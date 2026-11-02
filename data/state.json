@@ -19649,9 +19649,10 @@
     "b41f9a00974fd2eed8865f16": {
       "published_at": "2026-11-02T03:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13345,
       "title": "Air Chief Marshal Ashutosh Dixit Sets Course For IAF Revival With TEJAS, AMCA And Combat Expansion",
-      "updated_at": "2026-11-02T03:31:28.617486+00:00",
+      "updated_at": "2026-11-02T03:31:31.596761+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/air-chief-marshal-ashutosh-dixit-sets.html"
     },
     "b45cfa094494fc414d34d28a": {
@@ -28476,6 +28477,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T03:31:28.619926+00:00",
+  "last_cycle_at": "2026-11-02T03:31:34.799400+00:00",
   "schema_version": 1
 }
