@@ -6182,9 +6182,10 @@
     "3a1bdba7c2439e82142fc4e2": {
       "published_at": "2026-11-02T05:16:28+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13353,
       "title": "India and Australia are getting serious about defence",
-      "updated_at": "2026-11-02T06:00:18.398076+00:00",
+      "updated_at": "2026-11-02T06:00:32.509500+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-and-australia-are-getting-serious-about-defence/135446383"
     },
     "3a2996b3e21949c99dc23c9a": {
@@ -8440,9 +8441,10 @@
     "4f2c9fa67233431546a15c8c": {
       "published_at": "2026-11-02T03:58:40+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13350,
       "title": "India’s Fifth-Generation Fighter Race Nears A Critical Juncture",
-      "updated_at": "2026-11-02T06:00:18.398051+00:00",
+      "updated_at": "2026-11-02T06:00:21.168800+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-fifth-generation-fighter-race.html"
     },
     "4f3141da38f6a8058019c7d8": {
@@ -12517,9 +12519,10 @@
     "73e7fb46dfb709f1d7d5c41d": {
       "published_at": "2026-11-02T03:58:46+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13351,
       "title": "IAI Poised To Secure $906 Million Indian Air Force Refuelling Tanker Contract",
-      "updated_at": "2026-11-02T06:00:18.398068+00:00",
+      "updated_at": "2026-11-02T06:00:24.883053+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iai-poised-to-secure-906-million-indian.html"
     },
     "73f1e7806f7e081c569d1a24": {
@@ -23577,9 +23580,10 @@
     "d61f8ccbd26b95e557c2f468": {
       "published_at": "2026-11-02T05:14:28+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13352,
       "title": "Why Indian Rafales should add France’s new anti-drone rockets",
-      "updated_at": "2026-11-02T06:00:18.398072+00:00",
+      "updated_at": "2026-11-02T06:00:28.603318+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/why-indian-rafales-should-add-frances-new-anti-drone-rockets/135446316"
     },
     "d62bce3624ee59d8fc6cc071": {
@@ -28545,6 +28549,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T06:00:18.409388+00:00",
+  "last_cycle_at": "2026-11-02T06:00:35.713060+00:00",
   "schema_version": 1
 }
