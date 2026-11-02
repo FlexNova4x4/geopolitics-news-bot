@@ -2879,6 +2879,14 @@
       "updated_at": "2026-10-29T15:28:21.327570+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/railway-employees-urged-to-uphold-integrity-gain-public-trust/article71640853.ece"
     },
+    "1a4438669e8bb0526491714a": {
+      "published_at": "2026-11-02T05:27:06+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Rafale lands on INS Vikrant: why the milestone matters for Indian Navy",
+      "updated_at": "2026-11-02T06:00:44.627681+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/rafale-lands-on-ins-vikrant-why-the-milestone-matters-for-indian-navy/135446733"
+    },
     "1a4b43006e38173ffabbb601": {
       "published_at": "2026-10-27T10:36:54+00:00",
       "source": "aljazeera.com",
@@ -8824,6 +8832,14 @@
       "updated_at": "2026-10-25T12:05:48.661694+00:00",
       "url": "https://www.thehindu.com/news/national/no-room-to-stand-still-iaf-chief-ap-singh-on-building-future-air-power-after-success-of-operation-sindoor/article71623161.ece"
     },
+    "52277a19dd2e5937ee9f7477": {
+      "published_at": "2026-11-02T05:18:10+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Can Indian defence tech start-ups go the distance?",
+      "updated_at": "2026-11-02T06:00:44.627658+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/can-indian-defence-tech-start-ups-go-the-distance/135446422"
+    },
     "523360c7bc459ecb6210b896": {
       "published_at": "2026-10-27T04:30:56+00:00",
       "source": "hindustantimes.com",
@@ -12596,6 +12612,14 @@
       "title": "Modi ka baap bhi jayega: Congress chief Kharge’s jibe draws BJP’s ire",
       "updated_at": "2026-10-26T01:22:41.674300+00:00",
       "url": "https://www.tribuneindia.com/news/india/modi-ka-baap-bhi-jayega-congress-chief-kharges-jibe-draws-bjps-ire"
+    },
+    "74717e84f9035f6d24795355": {
+      "published_at": "2026-11-02T05:18:43+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "India clears mega corvette project for navy",
+      "updated_at": "2026-11-02T06:00:44.627674+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/india-clears-mega-corvette-project-for-navy/135446443"
     },
     "74776fbb1a48e2043d27cf8c": {
       "published_at": "2026-10-27T12:45:12+00:00",
@@ -24243,6 +24267,14 @@
       "updated_at": "2026-10-25T17:12:13.103401+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/well-planned-dasara-boosts-mysuru-tourism-lakshman/article71624014.ece"
     },
+    "db907d5468649d179fb4427d": {
+      "published_at": "2026-11-02T05:19:47+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "India may need 500 Su-57 fighters, says CAWAT",
+      "updated_at": "2026-11-02T06:00:44.627677+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/india-may-need-500-su-57-fighters-says-cawat/135446486"
+    },
     "db9316751e4e601cf165fa2d": {
       "published_at": "2026-10-29T09:54:43+00:00",
       "source": "thehindu.com",
@@ -28549,6 +28581,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T06:00:35.713060+00:00",
+  "last_cycle_at": "2026-11-02T06:00:44.630996+00:00",
   "schema_version": 1
 }
