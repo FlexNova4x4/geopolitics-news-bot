@@ -1047,9 +1047,10 @@
     "09196272a03a82ffa3cb310e": {
       "published_at": "2026-11-02T05:29:48+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13358,
       "title": "Water ingress reported on INS Kesari at Vizag Naval Dockyard; no casualties",
-      "updated_at": "2026-11-02T06:30:17.868703+00:00",
+      "updated_at": "2026-11-02T06:30:20.694043+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/water-ingress-reported-on-ins-kesari-at-vizag-naval-dockyard-no-casualties/135446796"
     },
     "091e50dcca9cc58a1e451e7d": {
@@ -28593,6 +28594,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T06:30:17.871762+00:00",
+  "last_cycle_at": "2026-11-02T06:30:23.897482+00:00",
   "schema_version": 1
 }
