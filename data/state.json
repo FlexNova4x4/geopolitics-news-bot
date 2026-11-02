@@ -2882,9 +2882,10 @@
     "1a4438669e8bb0526491714a": {
       "published_at": "2026-11-02T05:27:06+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13357,
       "title": "Rafale lands on INS Vikrant: why the milestone matters for Indian Navy",
-      "updated_at": "2026-11-02T06:00:44.627681+00:00",
+      "updated_at": "2026-11-02T06:00:58.750202+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/rafale-lands-on-ins-vikrant-why-the-milestone-matters-for-indian-navy/135446733"
     },
     "1a4b43006e38173ffabbb601": {
@@ -8835,9 +8836,10 @@
     "52277a19dd2e5937ee9f7477": {
       "published_at": "2026-11-02T05:18:10+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13354,
       "title": "Can Indian defence tech start-ups go the distance?",
-      "updated_at": "2026-11-02T06:00:44.627658+00:00",
+      "updated_at": "2026-11-02T06:00:47.039875+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/can-indian-defence-tech-start-ups-go-the-distance/135446422"
     },
     "523360c7bc459ecb6210b896": {
@@ -12616,9 +12618,10 @@
     "74717e84f9035f6d24795355": {
       "published_at": "2026-11-02T05:18:43+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13355,
       "title": "India clears mega corvette project for navy",
-      "updated_at": "2026-11-02T06:00:44.627674+00:00",
+      "updated_at": "2026-11-02T06:00:50.943747+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/india-clears-mega-corvette-project-for-navy/135446443"
     },
     "74776fbb1a48e2043d27cf8c": {
@@ -24270,9 +24273,10 @@
     "db907d5468649d179fb4427d": {
       "published_at": "2026-11-02T05:19:47+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13356,
       "title": "India may need 500 Su-57 fighters, says CAWAT",
-      "updated_at": "2026-11-02T06:00:44.627677+00:00",
+      "updated_at": "2026-11-02T06:00:54.855795+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/india-may-need-500-su-57-fighters-says-cawat/135446486"
     },
     "db9316751e4e601cf165fa2d": {
@@ -28581,6 +28585,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T06:00:44.630996+00:00",
+  "last_cycle_at": "2026-11-02T06:01:01.953933+00:00",
   "schema_version": 1
 }
