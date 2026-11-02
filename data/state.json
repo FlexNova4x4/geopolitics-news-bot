@@ -24911,9 +24911,10 @@
     "e29e4c02f13713a48ba055b4": {
       "published_at": "2026-11-02T10:12:47+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13361,
       "title": "Shri Inbasekar Sundaramurthi appointed as the next Ambassador of India to the Republic of Senegal - Ministry of External Affairs",
-      "updated_at": "2026-11-02T10:29:40.825109+00:00",
+      "updated_at": "2026-11-02T10:29:43.692847+00:00",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN0t1Vm5oaFJrYXdnOVBIV2c2TDBIWFZTZzMyTzJjYWFzY24wZWtkUm1pNmFpZTRqN2R4RWdna3FjSThlam1GZzVYQWZZSW9FTHAydnA2TUppUjg4azNYWjVUU3c0Vk1IY0xMOWZRVUxCQzFQSDctS0swQ0tfVElpVTV4YnZubE10V0FISThBMUlKaHB5RU5NUlpyLUtEZ1RfX1dxa0doWDMyRV94TkYtTy1Nakk3LU5JRmRNREsxczVEYW5HVkRhM2hoX1hiaFFvS0dtMzBnSFI2bElibnc?oc=5"
     },
     "e2a61990e40d0a2906b49808": {
@@ -28611,6 +28612,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T10:29:40.828546+00:00",
+  "last_cycle_at": "2026-11-02T10:29:46.896432+00:00",
   "schema_version": 1
 }
