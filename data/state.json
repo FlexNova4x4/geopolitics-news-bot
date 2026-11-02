@@ -570,9 +570,10 @@
     "051edbf3389da0ba09d62843": {
       "published_at": "2026-11-02T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13371,
       "title": "Navy Eyes Containerised Mine-Laying System To Enable Flexible Capability Across Multiple Hulls",
-      "updated_at": "2026-11-02T15:50:25.979022+00:00",
+      "updated_at": "2026-11-02T15:50:29.352953+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/navy-eyes-containerised-mine-laying.html"
     },
     "052d6cfa5573f333e250e010": {
@@ -11107,9 +11108,10 @@
     "66812dbc69d4f71f09a1e29f": {
       "published_at": "2026-11-02T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13374,
       "title": "Indian Navy Seeks Low-Cost Indigenous Anti-Drone Ammunition For Existing Naval Guns",
-      "updated_at": "2026-11-02T15:50:25.979046+00:00",
+      "updated_at": "2026-11-02T15:50:40.928186+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-seeks-low-cost-indigenous.html"
     },
     "6696e809752ca0f706555118": {
@@ -19215,9 +19217,10 @@
     "aeda1f58f906a1515d584690": {
       "published_at": "2026-11-02T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13372,
       "title": "PAARTH: India’s Indigenous Answer To The Challenge of Carrier Landings At Sea",
-      "updated_at": "2026-11-02T15:50:25.979038+00:00",
+      "updated_at": "2026-11-02T15:50:33.277762+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/paarth-indias-indigenous-answer-to.html"
     },
     "aede50b0da19ddf319913e1a": {
@@ -20924,9 +20927,10 @@
     "bc2ce0ac3594adfcdcad688c": {
       "published_at": "2026-11-02T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13373,
       "title": "Indian Navy Eyes Advanced RDE Propulsion For Future Supersonic Cruise Missiles",
-      "updated_at": "2026-11-02T15:50:25.979043+00:00",
+      "updated_at": "2026-11-02T15:50:37.199292+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-eyes-advanced-rde.html"
     },
     "bc4f6f4fd9cd2a069500ac6d": {
@@ -28716,6 +28720,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T15:50:25.982035+00:00",
+  "last_cycle_at": "2026-11-02T15:50:44.131787+00:00",
   "schema_version": 1
 }
