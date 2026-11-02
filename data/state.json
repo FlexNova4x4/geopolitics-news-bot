@@ -10174,9 +10174,10 @@
     "5e4481cd4f8eb6873dbe683f": {
       "published_at": "2026-11-02T03:53:56+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13348,
       "title": "Indian Navy Pushes Indigenous LM2500 Digital Control System Under Make In India Drive",
-      "updated_at": "2026-11-02T05:59:52.855807+00:00",
+      "updated_at": "2026-11-02T06:00:03.062762+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-pushes-indigenous-lm2500.html"
     },
     "5e9f63da60135af8eddb38b9": {
@@ -11251,9 +11252,10 @@
     "693aed7f62739e1aecbc2a8a": {
       "published_at": "2026-11-02T03:53:20+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13347,
       "title": "Indian Navy Seeks Large 'ASTRA' Uncrewed Surface Vessel For Surveillance And Strike Missions",
-      "updated_at": "2026-11-02T05:59:52.855803+00:00",
+      "updated_at": "2026-11-02T05:59:59.339204+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-seeks-large-astra-uncrewed.html"
     },
     "694b3fbcd2692ac803bfc84c": {
@@ -18936,9 +18938,10 @@
     "adc77f7fb66d2adcfa1370b6": {
       "published_at": "2026-11-02T03:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13346,
       "title": "Jaishankar Urges Diplomatic Pathways, Energy Stability And Resilient Supply Chains At G20 Meeting",
-      "updated_at": "2026-11-02T05:59:52.855786+00:00",
+      "updated_at": "2026-11-02T05:59:55.434976+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/jaishankar-urges-diplomatic-pathways.html"
     },
     "ade915771d0f628884a3794e": {
@@ -28404,9 +28407,10 @@
     "ff0628c5811c199cf66f0730": {
       "published_at": "2026-11-02T03:58:29+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13349,
       "title": "Constelli Signals Emerges As Lowest Bidder For DRDO Airborne Surveillance Data Fusion Test Bed Project",
-      "updated_at": "2026-11-02T05:59:52.855810+00:00",
+      "updated_at": "2026-11-02T06:00:06.968904+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/constelli-signals-emerges-as-lowest.html"
     },
     "ff17e3833b40bff7be915bc3": {
@@ -28509,6 +28513,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T05:59:52.858433+00:00",
+  "last_cycle_at": "2026-11-02T06:00:10.172367+00:00",
   "schema_version": 1
 }
