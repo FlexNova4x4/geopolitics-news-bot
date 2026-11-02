@@ -1515,9 +1515,10 @@
     "0df811d1e49186b6f901b0e4": {
       "published_at": "2026-11-02T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13370,
       "title": "Why Sovereign LM2500 Digital Control And Digital Twin Capability Matters To India",
-      "updated_at": "2026-11-02T15:49:54.706677+00:00",
+      "updated_at": "2026-11-02T15:50:10.041563+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/why-sovereign-lm2500-digital-control.html"
     },
     "0e08aa792879da3256ff5b9a": {
@@ -2854,9 +2855,10 @@
     "1948f5787df090db83fe9cf0": {
       "published_at": "2026-11-02T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13369,
       "title": "Aethrone Aerospace Build Indigenous VTOL Drones For Indian Army And Navy, Driving Defence Innovation",
-      "updated_at": "2026-11-02T15:49:54.706674+00:00",
+      "updated_at": "2026-11-02T15:50:06.101243+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/aethrone-aerospace-build-indigenous.html"
     },
     "19ad7508b91406a321c70087": {
@@ -8430,9 +8432,10 @@
     "4d9bdf4776f5d855857f12c9": {
       "published_at": "2026-11-02T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13368,
       "title": "NSA Doval And Vietnam Defence Chief Agree To Deepen Strategic Security And Defence Ties",
-      "updated_at": "2026-11-02T15:49:54.706671+00:00",
+      "updated_at": "2026-11-02T15:50:02.195879+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/nsa-doval-and-vietnam-defence-chief.html"
     },
     "4e3de2377cfa722e0860eaef": {
@@ -17094,9 +17097,10 @@
     "9b783d0c3d0832059ef5fc2d": {
       "published_at": "2026-11-02T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13367,
       "title": "Defence Minister Rajnath Singh Meets Newly Appointed Chief Marshal Ashutosh Dixit",
-      "updated_at": "2026-11-02T15:49:54.706656+00:00",
+      "updated_at": "2026-11-02T15:49:58.186137+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/defence-minister-rajnath-singh-meets.html"
     },
     "9b9ec05c423818f1f07a62c6": {
@@ -28680,6 +28684,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T15:49:54.709754+00:00",
+  "last_cycle_at": "2026-11-02T15:50:13.245618+00:00",
   "schema_version": 1
 }
