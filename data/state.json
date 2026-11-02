@@ -1044,6 +1044,14 @@
       "updated_at": "2026-10-27T06:06:00.987560+00:00",
       "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hrtc-conductor-union-warns-delhi-routes-may-be-closed-rest-house-facilities-2026-10-27"
     },
+    "09196272a03a82ffa3cb310e": {
+      "published_at": "2026-11-02T05:29:48+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Water ingress reported on INS Kesari at Vizag Naval Dockyard; no casualties",
+      "updated_at": "2026-11-02T06:30:17.868703+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/water-ingress-reported-on-ins-kesari-at-vizag-naval-dockyard-no-casualties/135446796"
+    },
     "091e50dcca9cc58a1e451e7d": {
       "published_at": "2026-10-25T18:47:33+00:00",
       "source": "hindustantimes.com",
@@ -28585,6 +28593,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T06:01:01.953933+00:00",
+  "last_cycle_at": "2026-11-02T06:30:17.871762+00:00",
   "schema_version": 1
 }
