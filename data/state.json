@@ -2316,9 +2316,10 @@
     "155e02daacbc11f6bbbf7cf4": {
       "published_at": "2026-11-02T03:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13344,
       "title": "Vikram Misri, Reem Al Hashimy Review India-UAE Strategic Partnership, Discuss Regional And Global Issues",
-      "updated_at": "2026-11-02T03:30:57.840739+00:00",
+      "updated_at": "2026-11-02T03:31:12.598710+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/vikram-misri-reem-al-hashimy-review.html"
     },
     "155ff8d706b312b08ae90a50": {
@@ -12096,9 +12097,10 @@
     "7037ac6b6d932ca4213e1aa0": {
       "published_at": "2026-11-02T03:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13341,
       "title": "Aparajit Strengthens Coast Guard Fleet As Seventh Adamya-Class Patrol Vessel ICGS Aparajit Joins Service",
-      "updated_at": "2026-11-02T03:30:57.840713+00:00",
+      "updated_at": "2026-11-02T03:31:00.566365+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/aparajit-strengthens-coast-guard-fleet.html"
     },
     "70473ee940eb61a0cf7da84e": {
@@ -18163,9 +18165,10 @@
     "a7341a5e75b9d10f597ee640": {
       "published_at": "2026-11-02T03:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13342,
       "title": "Republican Midterm Success Could Bring Negative Consequences For India, Expert Warns",
-      "updated_at": "2026-11-02T03:30:57.840733+00:00",
+      "updated_at": "2026-11-02T03:31:04.545556+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/republican-midterm-success-could-bring.html"
     },
     "a74149f0be2669b92cd8072d": {
@@ -22129,9 +22132,10 @@
     "c8ca07f6b248c2544ed2b385": {
       "published_at": "2026-11-02T03:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13343,
       "title": "Ajit Doval Arrives In Hanoi To Review Enhanced India-Vietnam Strategic Partnership",
-      "updated_at": "2026-11-02T03:30:57.840736+00:00",
+      "updated_at": "2026-11-02T03:31:08.383184+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/ajit-doval-arrives-in-hanoi-to-review.html"
     },
     "c8d412277bdfa6974e671373": {
@@ -28464,6 +28468,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T03:30:57.843133+00:00",
+  "last_cycle_at": "2026-11-02T03:31:15.801774+00:00",
   "schema_version": 1
 }
