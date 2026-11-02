@@ -17544,9 +17544,10 @@
     "a05dfd4ab8916ab622683241": {
       "published_at": "2026-11-02T09:57:59+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13360,
       "title": "Official visit of Foreign Secretary to UAE - Ministry of External Affairs",
-      "updated_at": "2026-11-02T10:00:06.399267+00:00",
+      "updated_at": "2026-11-02T10:00:09.724132+00:00",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXFVcUFTZXB5djFRXzZmdzZ0a21MOTRKQVZEczAzMjZrbXRQek41aXhrTWx4WmhVT2lQOXEzVmpYUld1WTg3Y0pEQk5GWExaM3dYMVBKZThYRks5MC1HTHRCVFVpRGhOV0VaaVp0ak5uZ1pBdjd1NE8xcXpoMl90YmlMbDdla2JFRm85d0VxdzF1d2hw?oc=5"
     },
     "a08cc9d5487b5aeb4a1fac50": {
@@ -28602,6 +28603,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T10:00:06.402780+00:00",
+  "last_cycle_at": "2026-11-02T10:00:12.927706+00:00",
   "schema_version": 1
 }
