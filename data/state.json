@@ -13445,9 +13445,10 @@
     "7a1eb2d6e41e717fb9ab3a37": {
       "published_at": "2026-11-02T12:22:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13380,
       "title": "Rahul Gandhi and Neha Bora’s Politics of Resistance to Save India’s Democracy",
-      "updated_at": "2026-11-02T16:18:56.935428+00:00",
+      "updated_at": "2026-11-02T16:19:08.003347+00:00",
       "url": "https://thediplomat.com/2026/11/rahul-gandhi-and-neha-boras-politics-of-resistance-to-save-indias-democracy"
     },
     "7a361650c9cde0eabbd1d6c3": {
@@ -15450,9 +15451,10 @@
     "8c58ba18f64e33f1142f8e8b": {
       "published_at": "2026-11-02T06:20:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13378,
       "title": "As Violence in Manipur Spirals, New Conflict Faultlines Emerge",
-      "updated_at": "2026-11-02T16:18:56.935409+00:00",
+      "updated_at": "2026-11-02T16:19:00.298490+00:00",
       "url": "https://thediplomat.com/2026/11/as-violence-in-manipur-spirals-new-conflict-faultlines-emerge"
     },
     "8c71b5ed79c28ccb30833596": {
@@ -24891,9 +24893,10 @@
     "e10b922c5ce1cba82d39e6c4": {
       "published_at": "2026-11-02T11:49:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13379,
       "title": "President Muizzu’s Pakistan Visit Tests the Maldives’ Fragile Thaw With India",
-      "updated_at": "2026-11-02T16:18:56.935425+00:00",
+      "updated_at": "2026-11-02T16:19:04.083358+00:00",
       "url": "https://thediplomat.com/2026/11/president-muizzus-pakistan-visit-tests-the-maldives-fragile-thaw-with-india"
     },
     "e127edf653344941d2b9c0e0": {
@@ -28771,6 +28774,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T16:18:56.938516+00:00",
+  "last_cycle_at": "2026-11-02T16:19:11.206872+00:00",
   "schema_version": 1
 }
