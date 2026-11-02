@@ -3143,9 +3143,10 @@
     "1cecd0556b158af5ad80d3ae": {
       "published_at": "2026-11-02T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13365,
       "title": "Quad Partners Reaffirm Commitment To A Secure And Prosperous Indo-Pacific, Says Australian Envoy",
-      "updated_at": "2026-11-02T15:49:21.384333+00:00",
+      "updated_at": "2026-11-02T15:49:32.793899+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/quad-partners-reaffirm-commitment-to.html"
     },
     "1d0831819e7272b31fe0232d": {
@@ -5065,9 +5066,10 @@
     "2fa5b56da6f3c9288b8c1872": {
       "published_at": "2026-11-02T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13363,
       "title": "INFRA Security: First Glimpse of B28, India’s First Indigenous Bullet Train Takes Shape At Manufacturing Facility",
-      "updated_at": "2026-11-02T15:49:21.384310+00:00",
+      "updated_at": "2026-11-02T15:49:24.859958+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/first-glimpse-of-b28-indias-first.html"
     },
     "2fc9182cfe3c596ec571b8b6": {
@@ -5118,9 +5120,10 @@
     "3016890c948056dbba9fb1ee": {
       "published_at": "2026-11-02T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13364,
       "title": "Florida Learjet Crash Kills All Nine On Board After Jet Plunges Into Palm Beach County Neighbourhood",
-      "updated_at": "2026-11-02T15:49:21.384329+00:00",
+      "updated_at": "2026-11-02T15:49:28.845750+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/florida-learjet-crash-kills-all-nine-on.html"
     },
     "301fd8a98aa035d8080f0fe9": {
@@ -10081,9 +10084,10 @@
     "5ca8d9b4c527bf90f9ddd917": {
       "published_at": "2026-11-02T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13366,
       "title": "Andhra Pradesh Secures ₹1,614 Crore Auto Component Investment Boost From Hyundai-Kia Suppliers",
-      "updated_at": "2026-11-02T15:49:21.384336+00:00",
+      "updated_at": "2026-11-02T15:49:36.696704+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/andhra-pradesh-secures-1614-crore-auto.html"
     },
     "5caca2ddb3d0720d4cc1c16b": {
@@ -28644,6 +28648,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T15:49:21.387138+00:00",
+  "last_cycle_at": "2026-11-02T15:49:39.900232+00:00",
   "schema_version": 1
 }
