@@ -14542,9 +14542,10 @@
     "8433de7150268662ebdf5e3c": {
       "published_at": "2026-11-03T04:19:19+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13400,
       "title": "NSA’s visit to Viet Nam (November 01 - 02, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-03T04:27:45.322235+00:00",
+      "updated_at": "2026-11-03T04:27:50.721754+00:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVVCZlIwRG1RamQycjJXdlRiU3MxbDVscEFHN21NbzMtYjZvQUZINGVjbDFQVzFOYmJHZXJVTVVaRkYxd1FfY2dVUnlNbXp5NkZLUGt5aU1kOG95LVZ3Y1lGNGM4NFhsVGFkNGpKeFBjTWM3aDktSTJpZV96V01uVm1zeDBhX0VKUGRVV3RWOVBiSEVGZFE?oc=5"
     },
     "843bda69ad3649e8932b78da": {
@@ -28935,6 +28936,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T04:27:45.329127+00:00",
+  "last_cycle_at": "2026-11-03T04:27:53.926019+00:00",
   "schema_version": 1
 }
