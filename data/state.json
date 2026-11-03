@@ -7577,9 +7577,10 @@
     "45f4ba9d4a7f6797f7d2fcaa": {
       "published_at": "2026-11-03T03:55:49+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13390,
       "title": "China's Shadow Looms Large As Vietnam Seeks Real-Time Intel From India As Security Ties Expand",
-      "updated_at": "2026-11-03T03:59:23.084066+00:00",
+      "updated_at": "2026-11-03T03:59:32.345749+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/chinas-shadow-looms-large-as-vietnam.html"
     },
     "464744a6dd62a2b9b2060442": {
@@ -9616,9 +9617,10 @@
     "58c24d373ad101f154a455d2": {
       "published_at": "2026-11-03T03:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13389,
       "title": "Pakistan: Turning Human Rights Activists Into Terrorists",
-      "updated_at": "2026-11-03T03:59:23.084051+00:00",
+      "updated_at": "2026-11-03T03:59:27.930338+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistan-turning-human-rights-activists.html"
     },
     "58cc22c0756a28f9bed641ba": {
@@ -15188,9 +15190,10 @@
     "8960dfd0c7d92c3d66871e4b": {
       "published_at": "2026-11-03T03:55:54+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13391,
       "title": "IZI Enterprise Wins DRDO Order For Indigenous VANA Multi-Mission UAV Platform",
-      "updated_at": "2026-11-03T03:59:23.084071+00:00",
+      "updated_at": "2026-11-03T03:59:36.613341+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/izi-enterprise-wins-drdo-order-for.html"
     },
     "8964912df921f6fcda7c2f87": {
@@ -26158,9 +26161,10 @@
     "eba9114e014d18dcfe767ec2": {
       "published_at": "2026-11-03T03:56:01+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13392,
       "title": "How Indian Navy Ships Stay On Course When Satellite Navigation Fails",
-      "updated_at": "2026-11-03T03:59:23.084074+00:00",
+      "updated_at": "2026-11-03T03:59:40.825364+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/how-indian-navy-ships-stay-on-course.html"
     },
     "ebabd24cd98299557972ea38": {
@@ -28860,6 +28864,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T03:59:23.094374+00:00",
+  "last_cycle_at": "2026-11-03T03:59:44.029013+00:00",
   "schema_version": 1
 }
