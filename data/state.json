@@ -2709,6 +2709,14 @@
       "updated_at": "2026-10-29T04:19:20.433592+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
     },
+    "1767b0d5fa809108c8f6ebee": {
+      "published_at": "2026-11-03T15:27:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "NVS-03 Completes First Orbit Manoeuvre as ISRO Advances Towards Geosynchronous Deployment",
+      "updated_at": "2026-11-03T15:44:06.218407+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/nvs-03-completes-first-orbit-manoeuvre.html"
+    },
     "177467fc1699cf1469a93cd1": {
       "published_at": "2026-10-27T13:23:43+00:00",
       "source": "dawn.com",
@@ -4712,6 +4720,14 @@
       "title": "Liechtenstein’s Hereditary Prince Alois, Princess Sophie pay tribute to Mahatma Gandhi at Rajghat",
       "updated_at": "2026-10-27T06:35:29.793430+00:00",
       "url": "https://www.tribuneindia.com/news/liechtenstein/liechtensteins-hereditary-prince-alois-princess-sophie-pay-tribute-to-mahatma-gandhi-at-rajghat"
+    },
+    "2c3e7c94f20537aaf1b5d5fb": {
+      "published_at": "2026-11-03T15:28:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Zen Technologies Advances 400+ km HyperStrike Munition; 1,80,000-Unit Annual Production Capacity Outlined",
+      "updated_at": "2026-11-03T15:44:06.218411+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/zen-technologies-advances-400-km.html"
     },
     "2c60c9ac76aefef338528c2b": {
       "published_at": "2026-10-27T15:32:47+00:00",
@@ -21068,6 +21084,14 @@
       "updated_at": "2026-10-29T03:45:11.925472+00:00",
       "url": "https://www.tribuneindia.com/news/cross-border-terrorism/terror-financing-cross-border-terrorism-need-to-be-held-accountable-mea-on-fatf-meeting"
     },
+    "bb2fc0150d1e8568798afb4e": {
+      "published_at": "2026-11-03T15:27:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India, Israel Oppose Pakistan-Belarus UN Arms Control Resolution, Cite Broader Security Concerns",
+      "updated_at": "2026-11-03T15:44:06.218386+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/india-israel-oppose-pakistan-belarus-un.html"
+    },
     "bb4d4d8a67dda909f62d6bf2": {
       "published_at": "2026-10-27T01:19:57+00:00",
       "source": "amarujala.com",
@@ -26275,6 +26299,14 @@
       "updated_at": "2026-10-26T00:55:45.117247+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/solan/problem-of-stray-bulls-persists-in-baddi-10-sent-to-a-gaushala-cow-shelter-solan-news-c-176-1-ssml1044-182785-2026-10-25"
     },
+    "eaed8da3e9a4519793e17c19": {
+      "published_at": "2026-11-03T15:28:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India’s First Indigenous Solar Silver Paste Marks Major Leap For Solar Manufacturing Self-Reliance",
+      "updated_at": "2026-11-03T15:44:06.218414+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indias-first-indigenous-solar-silver.html"
+    },
     "eaffa8c895b53cbead099202": {
       "published_at": "2026-10-25T15:15:02+00:00",
       "source": "thehindu.com",
@@ -29062,6 +29094,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T15:43:31.930770+00:00",
+  "last_cycle_at": "2026-11-03T15:44:06.221084+00:00",
   "schema_version": 1
 }
