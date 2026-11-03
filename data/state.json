@@ -1254,9 +1254,10 @@
     "0ad502ceb4998040dc1a24c0": {
       "published_at": "2026-11-03T08:43:49+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13405,
       "title": "India locks in ₹53,866 crore corvette order to expand naval reach",
-      "updated_at": "2026-11-03T14:12:18.175082+00:00",
+      "updated_at": "2026-11-03T14:12:25.651035+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/india-locks-in-53866-crore-corvette-order-to-expand-naval-reach/135489675"
     },
     "0ad86da679ca75352a3bf1e0": {
@@ -1460,9 +1461,10 @@
     "0cff8dbcfff0466271722102": {
       "published_at": "2026-11-02T21:29:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13404,
       "title": "Is India Extending Its Control Over Islamic Practice In Kashmir?",
-      "updated_at": "2026-11-03T14:12:18.175059+00:00",
+      "updated_at": "2026-11-03T14:12:21.789113+00:00",
       "url": "https://thediplomat.com/2026/11/is-india-extending-its-control-over-islamic-practice-in-kashmir"
     },
     "0d118f3e06b335a85d153136": {
@@ -2089,9 +2091,10 @@
     "12bf502f447742618a3d02ba": {
       "published_at": "2026-11-03T10:39:23+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13407,
       "title": "India and the US need to turn defence promises into hard power",
-      "updated_at": "2026-11-03T14:12:18.175090+00:00",
+      "updated_at": "2026-11-03T14:12:33.694632+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-and-the-us-need-to-turn-defence-promises-into-hard-power/135493072"
     },
     "12ec63ab29bac3924115a196": {
@@ -9272,9 +9275,10 @@
     "556482a12a3b4427a296da8b": {
       "published_at": "2026-11-03T08:48:51+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13406,
       "title": "India's defence exports surge past ₹38,000 crore as European demand reshapes global arms market",
-      "updated_at": "2026-11-03T14:12:18.175086+00:00",
+      "updated_at": "2026-11-03T14:12:29.699651+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/indias-defence-exports-surge-past-38000-crore-as-european-demand-reshapes-global-arms-market/135489793"
     },
     "557f8661cafd5174462fe852": {
@@ -28977,6 +28981,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T14:12:18.177357+00:00",
+  "last_cycle_at": "2026-11-03T14:12:36.898303+00:00",
   "schema_version": 1
 }
