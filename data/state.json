@@ -14539,6 +14539,14 @@
       "updated_at": "2026-10-26T06:22:26.613318+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
     },
+    "8433de7150268662ebdf5e3c": {
+      "published_at": "2026-11-03T04:19:19+00:00",
+      "source": "MEA India (indexed fallback)",
+      "status": "reserved",
+      "title": "NSA’s visit to Viet Nam (November 01 - 02, 2026) - Ministry of External Affairs",
+      "updated_at": "2026-11-03T04:27:45.322235+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVVCZlIwRG1RamQycjJXdlRiU3MxbDVscEFHN21NbzMtYjZvQUZINGVjbDFQVzFOYmJHZXJVTVVaRkYxd1FfY2dVUnlNbXp5NkZLUGt5aU1kOG95LVZ3Y1lGNGM4NFhsVGFkNGpKeFBjTWM3aDktSTJpZV96V01uVm1zeDBhX0VKUGRVV3RWOVBiSEVGZFE?oc=5"
+    },
     "843bda69ad3649e8932b78da": {
       "published_at": "2026-10-25T23:54:16+00:00",
       "source": "amarujala.com",
@@ -28927,6 +28935,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T04:00:38.860458+00:00",
+  "last_cycle_at": "2026-11-03T04:27:45.329127+00:00",
   "schema_version": 1
 }
