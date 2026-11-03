@@ -5786,9 +5786,10 @@
     "3563afc7407648383435c0b8": {
       "published_at": "2026-11-03T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13412,
       "title": "IIT-Hyderabad, CEEPL Celebrate Successful Completion of First Nuclear Technology Training Cohort",
-      "updated_at": "2026-11-03T15:42:28.693852+00:00",
+      "updated_at": "2026-11-03T15:42:44.799004+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iit-hyderabad-ceepl-celebrate.html"
     },
     "356861b34c4ab40fa46ce631": {
@@ -9418,9 +9419,10 @@
     "568b2c2a79ab16e2295a4dee": {
       "published_at": "2026-11-03T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13411,
       "title": "Colombia Truck Bomb Attack Kills Four",
-      "updated_at": "2026-11-03T15:42:28.693849+00:00",
+      "updated_at": "2026-11-03T15:42:40.619318+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/colombia-truck-bomb-attack-kills-four.html"
     },
     "568eed9a47f700369ee3226c": {
@@ -13695,9 +13697,10 @@
     "7ba3d002baf911081488ad84": {
       "published_at": "2026-11-03T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13410,
       "title": "US Secretly Hits Iran's Qeshm Island As Trump Keeps Door Open To Nuclear Deal",
-      "updated_at": "2026-11-03T15:42:28.693846+00:00",
+      "updated_at": "2026-11-03T15:42:36.512365+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-secretly-hits-irans-qeshm-island-as.html"
     },
     "7ba3ee19fbc6da2f7d46f1fc": {
@@ -18981,9 +18984,10 @@
     "aab63ff02b146348aecb269a": {
       "published_at": "2026-11-03T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13409,
       "title": "Indian Sailor Killed After 'Al Jusufi' Struck Off Oman Coast Amid Gulf Security Threats",
-      "updated_at": "2026-11-03T15:42:28.693828+00:00",
+      "updated_at": "2026-11-03T15:42:32.493317+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-sailor-killed-after-al-jusufi.html"
     },
     "aac495bda801d77a6a40b2cf": {
@@ -29022,6 +29026,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T15:42:28.696888+00:00",
+  "last_cycle_at": "2026-11-03T15:42:48.002414+00:00",
   "schema_version": 1
 }
