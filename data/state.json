@@ -1452,9 +1452,10 @@
     "0d118f3e06b335a85d153136": {
       "published_at": "2026-11-03T03:56:44+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13397,
       "title": "Indian Navy Pits Quantum Atoms Against Classic Radios In Radar-Listening Showdown",
-      "updated_at": "2026-11-03T04:00:22.672506+00:00",
+      "updated_at": "2026-11-03T04:00:27.126316+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-pits-quantum-atoms-against.html"
     },
     "0d27e45aa37e1dc47ad473fb": {
@@ -20170,9 +20171,10 @@
     "b6087af94dfbacd097f668e7": {
       "published_at": "2026-11-03T03:57:29+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13398,
       "title": "Indian Navy Seeks Plug-And-Play Helicopter Submarine Hunter With A Magnetic Twist",
-      "updated_at": "2026-11-03T04:00:22.672522+00:00",
+      "updated_at": "2026-11-03T04:00:31.370370+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-seeks-plug-and-play.html"
     },
     "b63c71edb881e6106775a702": {
@@ -23066,9 +23068,10 @@
     "cf156d0217ca37184e6e2192": {
       "published_at": "2026-11-03T03:57:37+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13399,
       "title": "K9 Vajra's Indigenous Leap: SIGMA 30N Navigation System Now Integrated Into India's Artillery Backbone",
-      "updated_at": "2026-11-03T04:00:22.672526+00:00",
+      "updated_at": "2026-11-03T04:00:35.656795+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/k9-vajras-indigenous-leap-sigma-30n.html"
     },
     "cf2eeae66cc6d0fbb510913d": {
@@ -28924,6 +28927,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T04:00:22.675669+00:00",
+  "last_cycle_at": "2026-11-03T04:00:38.860458+00:00",
   "schema_version": 1
 }
