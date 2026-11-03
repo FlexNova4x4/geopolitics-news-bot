@@ -1533,9 +1533,10 @@
     "0d9941562903df6fd2e327f6": {
       "published_at": "2026-11-03T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13416,
       "title": "Clean Energy Key To Future Energy Security, Says PM Modi As India Accelerates Renewable Push",
-      "updated_at": "2026-11-03T15:43:13.221031+00:00",
+      "updated_at": "2026-11-03T15:43:28.727332+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/clean-energy-key-to-future-energy.html"
     },
     "0dd736df51ea9188a674d863": {
@@ -8377,9 +8378,10 @@
     "4c69dba6ce4619bdc675e79c": {
       "published_at": "2026-11-03T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13415,
       "title": "Aditya-L1 Uncovers The Hidden Third Dimension of A Solar Eruption",
-      "updated_at": "2026-11-03T15:43:13.221028+00:00",
+      "updated_at": "2026-11-03T15:43:24.635154+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/aditya-l1-uncovers-hidden-third.html"
     },
     "4c6bad04d7b7cf57f778fabb": {
@@ -16592,9 +16594,10 @@
     "94da8570247c0a4742ecfbd1": {
       "published_at": "2026-11-03T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13413,
       "title": "CRPF Achieves First Fatality-Free Operational Year In 47 Years",
-      "updated_at": "2026-11-03T15:43:13.221010+00:00",
+      "updated_at": "2026-11-03T15:43:16.659186+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/crpf-achieves-first-fatality-free.html"
     },
     "94fa238d56915c5d2ca491a4": {
@@ -19286,9 +19289,10 @@
     "acf56a8a67d0a252ebf6568b": {
       "published_at": "2026-11-03T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13414,
       "title": "NSA Ajit Doval Briefs Vietnam’s President To Lam On Outcomes of Hanoi Visit, Reviews Strategic Cooperation",
-      "updated_at": "2026-11-03T15:43:13.221025+00:00",
+      "updated_at": "2026-11-03T15:43:20.641909+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/nsa-ajit-doval-briefs-vietnams.html"
     },
     "ad4cf4e90865236df6372fd3": {
@@ -29058,6 +29062,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T15:43:13.223886+00:00",
+  "last_cycle_at": "2026-11-03T15:43:31.930770+00:00",
   "schema_version": 1
 }
