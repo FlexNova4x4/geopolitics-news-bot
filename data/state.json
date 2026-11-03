@@ -2712,9 +2712,10 @@
     "1767b0d5fa809108c8f6ebee": {
       "published_at": "2026-11-03T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13418,
       "title": "NVS-03 Completes First Orbit Manoeuvre as ISRO Advances Towards Geosynchronous Deployment",
-      "updated_at": "2026-11-03T15:44:06.218407+00:00",
+      "updated_at": "2026-11-03T15:44:13.834523+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/nvs-03-completes-first-orbit-manoeuvre.html"
     },
     "177467fc1699cf1469a93cd1": {
@@ -4724,9 +4725,10 @@
     "2c3e7c94f20537aaf1b5d5fb": {
       "published_at": "2026-11-03T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13419,
       "title": "Zen Technologies Advances 400+ km HyperStrike Munition; 1,80,000-Unit Annual Production Capacity Outlined",
-      "updated_at": "2026-11-03T15:44:06.218411+00:00",
+      "updated_at": "2026-11-03T15:44:17.949269+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/zen-technologies-advances-400-km.html"
     },
     "2c60c9ac76aefef338528c2b": {
@@ -21087,9 +21089,10 @@
     "bb2fc0150d1e8568798afb4e": {
       "published_at": "2026-11-03T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13417,
       "title": "India, Israel Oppose Pakistan-Belarus UN Arms Control Resolution, Cite Broader Security Concerns",
-      "updated_at": "2026-11-03T15:44:06.218386+00:00",
+      "updated_at": "2026-11-03T15:44:09.759934+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-israel-oppose-pakistan-belarus-un.html"
     },
     "bb4d4d8a67dda909f62d6bf2": {
@@ -26302,9 +26305,10 @@
     "eaed8da3e9a4519793e17c19": {
       "published_at": "2026-11-03T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13420,
       "title": "India’s First Indigenous Solar Silver Paste Marks Major Leap For Solar Manufacturing Self-Reliance",
-      "updated_at": "2026-11-03T15:44:06.218414+00:00",
+      "updated_at": "2026-11-03T15:44:21.968499+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-first-indigenous-solar-silver.html"
     },
     "eaffa8c895b53cbead099202": {
@@ -29094,6 +29098,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T15:44:06.221084+00:00",
+  "last_cycle_at": "2026-11-03T15:44:25.172327+00:00",
   "schema_version": 1
 }
