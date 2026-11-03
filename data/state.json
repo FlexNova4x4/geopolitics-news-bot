@@ -17211,6 +17211,14 @@
       "updated_at": "2026-10-27T01:10:09.991338+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss"
     },
+    "9c1256f62827aae65fc065dd": {
+      "published_at": "2026-11-02T20:00:00+00:00",
+      "source": "The Diplomat (South Asia)",
+      "status": "reserved",
+      "title": "‘The Indian Question’: The Rise of Anti-Indian Hate in America",
+      "updated_at": "2026-11-03T00:57:20.579293+00:00",
+      "url": "https://thediplomat.com/2026/11/the-indian-question-the-rise-of-anti-indian-hate-in-america"
+    },
     "9c184d1122252c977cc47f9c": {
       "published_at": "2026-10-28T20:12:03+00:00",
       "source": "amarujala.com",
@@ -27085,6 +27093,14 @@
       "updated_at": "2026-10-25T05:05:36.678286+00:00",
       "url": "https://www.dawn.com/news/2039659/factors-behind-pakistans-push-for-joint-production-in-defence-pacts"
     },
+    "f32e218d17c840d89042327f": {
+      "published_at": "2026-11-02T19:44:00+00:00",
+      "source": "The Diplomat (South Asia)",
+      "status": "reserved",
+      "title": "From New Delhi to Manila to Atlanta, the Quad Finds Its Rhythm in 2026",
+      "updated_at": "2026-11-03T00:57:20.579272+00:00",
+      "url": "https://thediplomat.com/2026/11/from-new-delhi-to-manila-to-atlanta-the-quad-finds-its-rhythm-in-2026"
+    },
     "f33a3a8afb30aa363ad24f0a": {
       "published_at": "2026-10-29T06:10:02+00:00",
       "source": "amarujala.com",
@@ -28774,6 +28790,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-02T16:19:11.206872+00:00",
+  "last_cycle_at": "2026-11-03T00:57:20.581898+00:00",
   "schema_version": 1
 }
