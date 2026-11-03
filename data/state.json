@@ -1449,6 +1449,14 @@
       "updated_at": "2026-10-29T07:10:07.816145+00:00",
       "url": "https://www.thehindu.com/food/features/how-five-women-from-a-palakkad-bakery-found-youtube-stardom/article71631858.ece"
     },
+    "0d118f3e06b335a85d153136": {
+      "published_at": "2026-11-03T03:56:44+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Indian Navy Pits Quantum Atoms Against Classic Radios In Radar-Listening Showdown",
+      "updated_at": "2026-11-03T04:00:22.672506+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indian-navy-pits-quantum-atoms-against.html"
+    },
     "0d27e45aa37e1dc47ad473fb": {
       "published_at": "2026-10-31T04:30:00+00:00",
       "source": "Indian Defence News",
@@ -20159,6 +20167,14 @@
       "updated_at": "2026-10-29T04:25:57.812216+00:00",
       "url": "https://www.hindustantimes.com/india-news/tb-alliance-fails-to-get-patent-for-six-month-treatment-regimen-101793215103983.html"
     },
+    "b6087af94dfbacd097f668e7": {
+      "published_at": "2026-11-03T03:57:29+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Indian Navy Seeks Plug-And-Play Helicopter Submarine Hunter With A Magnetic Twist",
+      "updated_at": "2026-11-03T04:00:22.672522+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indian-navy-seeks-plug-and-play.html"
+    },
     "b63c71edb881e6106775a702": {
       "published_at": "2026-10-27T18:31:54+00:00",
       "source": "thehindu.com",
@@ -23046,6 +23062,14 @@
       "title": "Gangakatwa canal in Sangareddy to be restored with ₹37 crore: Jagga Reddy",
       "updated_at": "2026-10-29T12:05:28.364290+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/gangakatwa-canal-in-sangareddy-to-be-restored-with-37-crore-jagga-reddy/article71640237.ece"
+    },
+    "cf156d0217ca37184e6e2192": {
+      "published_at": "2026-11-03T03:57:37+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "K9 Vajra's Indigenous Leap: SIGMA 30N Navigation System Now Integrated Into India's Artillery Backbone",
+      "updated_at": "2026-11-03T04:00:22.672526+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/k9-vajras-indigenous-leap-sigma-30n.html"
     },
     "cf2eeae66cc6d0fbb510913d": {
       "published_at": "2026-10-27T15:10:27+00:00",
@@ -28900,6 +28924,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T04:00:13.401091+00:00",
+  "last_cycle_at": "2026-11-03T04:00:22.675669+00:00",
   "schema_version": 1
 }
