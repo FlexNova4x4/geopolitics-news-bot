@@ -7946,9 +7946,10 @@
     "49172aa6705f52a086eeb85b": {
       "published_at": "2026-11-03T06:10:16+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13402,
       "title": "Statement on attack on a commercial vessel off the coast of Oman - Ministry of External Affairs",
-      "updated_at": "2026-11-03T06:28:12.308584+00:00",
+      "updated_at": "2026-11-03T06:28:17.466753+00:00",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjJuaDJNR1haSHk3TldfMTZHaGxMVEZSUHBVM2Y4NkdYMk9CZ2JienlPTk1iUVFXNXdEVTMzN2xPcTd4a2JHYXcyYS1vM1pSWm9ES3pBN25GdEppQ0Z0b19QT3B6MUhva1REWlgzdndwM0dLT0N6OENFMkZ3eDdwMGJoWGpwelhrOWNpUFlzOG80bzRKSXBaaG9qZ2VkSGlfWThUNnZidG5IeU8zMmpwbmxpS2V1WTlZ?oc=5"
     },
     "491b365c90b02703c5108a4a": {
@@ -28944,6 +28945,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T06:28:12.313126+00:00",
+  "last_cycle_at": "2026-11-03T06:28:20.672370+00:00",
   "schema_version": 1
 }
