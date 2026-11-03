@@ -2235,9 +2235,10 @@
     "142af5e6ececf21dbdd5532c": {
       "published_at": "2026-11-03T03:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13385,
       "title": "Indian Navy Rescues All 20 Crew of Hijacked Iranian Vessel In Daring 48-Hour Arabian Sea Operation",
-      "updated_at": "2026-11-03T03:58:53.396706+00:00",
+      "updated_at": "2026-11-03T03:58:58.374489+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-rescues-all-20-crew-of.html"
     },
     "146270cb1d48d0736a73993d": {
@@ -9607,9 +9608,10 @@
     "58cc22c0756a28f9bed641ba": {
       "published_at": "2026-11-03T03:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13386,
       "title": "US And Indian Forces Launch Tiger Triumph 2026 In Visakhapatnam To Boost Joint Crisis Response Capabilities",
-      "updated_at": "2026-11-03T03:58:53.396719+00:00",
+      "updated_at": "2026-11-03T03:59:02.608275+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-and-indian-forces-launch-tiger.html"
     },
     "58dd76d6c952bad2ddd61861": {
@@ -22859,9 +22861,10 @@
     "cded01f5ac0647f675003e5d": {
       "published_at": "2026-11-03T03:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13387,
       "title": "NSA Ajit Doval, Vietnam Leaders Advance Strategic Partnership Ahead of 55th Anniversary Milestone In 2027",
-      "updated_at": "2026-11-03T03:58:53.396722+00:00",
+      "updated_at": "2026-11-03T03:59:06.871529+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/nsa-ajit-doval-vietnam-leaders-advance.html"
     },
     "ce0241c076847a73f676e590": {
@@ -27472,9 +27475,10 @@
     "f5e9de97e596170906191134": {
       "published_at": "2026-11-03T03:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13388,
       "title": "India-Brazil Defence Partnership Deepens As Brazilian Army Delegation Undertakes Strategic Visit",
-      "updated_at": "2026-11-03T03:58:53.396725+00:00",
+      "updated_at": "2026-11-03T03:59:11.137736+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-brazil-defence-partnership.html"
     },
     "f5f96302deaee98cea5e0452": {
@@ -28824,6 +28828,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T03:58:53.400782+00:00",
+  "last_cycle_at": "2026-11-03T03:59:14.341358+00:00",
   "schema_version": 1
 }
