@@ -13499,9 +13499,10 @@
     "7978af603f1f61a41111712a": {
       "published_at": "2026-11-03T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13421,
       "title": "India Targets ₹3 Lakh Crore Defence Production And ₹50,000 Crore Exports By 2029",
-      "updated_at": "2026-11-03T15:44:45.124918+00:00",
+      "updated_at": "2026-11-03T15:44:48.794283+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-targets-3-lakh-crore-defence.html"
     },
     "798f07244d5d555f1b7366d6": {
@@ -18812,9 +18813,10 @@
     "a8f84de9621454da4c2782cf": {
       "published_at": "2026-11-03T15:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13422,
       "title": "IISc-Bangalore Develops A Portable Six-Qubit Photonic Quantum Computer; Marks Major Milestone For India's Quantum Ambitions",
-      "updated_at": "2026-11-03T15:44:45.124936+00:00",
+      "updated_at": "2026-11-03T15:44:52.777620+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iisc-bangalore-develops-portable-six.html"
     },
     "a8fb3c457a70088aa88a3f1b": {
@@ -22760,9 +22762,10 @@
     "c9ac408285e72dbb48d4ca25": {
       "published_at": "2026-11-03T15:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13423,
       "title": "India Conducts Trial of Indigenous Short-Range Tactical Missile System Off Odisha Coast",
-      "updated_at": "2026-11-03T15:44:45.124940+00:00",
+      "updated_at": "2026-11-03T15:44:56.791800+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-conducts-trial-of-indigenous.html"
     },
     "c9f894a0c8e6ed22ceefa2b6": {
@@ -29122,6 +29125,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-03T15:44:45.127672+00:00",
+  "last_cycle_at": "2026-11-03T15:44:59.995170+00:00",
   "schema_version": 1
 }
