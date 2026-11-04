@@ -5930,9 +5930,10 @@
     "35bb48afa0f3c9c6ec7e9c8f": {
       "published_at": "2026-11-04T04:59:01+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13445,
       "title": "INS Vikrant gets a French touch for Rafale M",
-      "updated_at": "2026-11-04T06:19:10.154659+00:00",
+      "updated_at": "2026-11-04T06:19:18.000174+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/ins-vikrant-gets-a-french-touch-for-rafale-m/135524316"
     },
     "35c67fdb10b3910ba1b39a56": {
@@ -7459,9 +7460,10 @@
     "437e3e8e8b8aa6759888012f": {
       "published_at": "2026-11-04T05:56:29+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13447,
       "title": "Pakistan’s reported SLC-14 radar sighting raises stakes for India’s missile strategy",
-      "updated_at": "2026-11-04T06:19:10.154667+00:00",
+      "updated_at": "2026-11-04T06:19:25.965114+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/pakistans-reported-slc-14-radar-sighting-raises-stakes-for-indias-missile-strategy/135526265"
     },
     "43867bd36d6ac3d8da447c02": {
@@ -9804,9 +9806,10 @@
     "58a4e564a7c16a61ccd7869d": {
       "published_at": "2026-11-04T05:45:46+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13446,
       "title": "India and Poland deepen defence ties",
-      "updated_at": "2026-11-04T06:19:10.154664+00:00",
+      "updated_at": "2026-11-04T06:19:21.969308+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-and-poland-deepen-defence-ties/135525839"
     },
     "58b4d0f21cb4aa50c1fc0442": {
@@ -25062,9 +25065,10 @@
     "dc872cc8d261b38cdf451274": {
       "published_at": "2026-11-04T04:53:52+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13444,
       "title": "Navy needs more R&D to stay ready, Admiral Swaminathan says",
-      "updated_at": "2026-11-04T06:19:10.154643+00:00",
+      "updated_at": "2026-11-04T06:19:14.018313+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/navy-needs-more-rd-to-stay-ready-admiral-swaminathan-says/135524128"
     },
     "dc8b7bdc87ae7809504e6702": {
@@ -29301,6 +29305,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-04T06:19:10.157252+00:00",
+  "last_cycle_at": "2026-11-04T06:19:29.168726+00:00",
   "schema_version": 1
 }
