@@ -3827,9 +3827,10 @@
     "21d596b39994ecb1e830383a": {
       "published_at": "2026-11-04T05:59:04+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13448,
       "title": "India's armed forces overhaul takes shape, but command questions remain",
-      "updated_at": "2026-11-04T06:49:29.231360+00:00",
+      "updated_at": "2026-11-04T06:49:32.436402+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/indias-armed-forces-overhaul-takes-shape-but-command-questions-remain/135526334"
     },
     "21e0db5a507b27324fabeaab": {
@@ -22716,9 +22717,10 @@
     "c79bd1f6804b22bd23087ac0": {
       "published_at": "2026-11-04T06:00:54+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13449,
       "title": "Lockheed Martin wins $2.1 billion Ukraine missile order",
-      "updated_at": "2026-11-04T06:49:29.231376+00:00",
+      "updated_at": "2026-11-04T06:49:36.403995+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/lockheed-martin-wins-2-1-billion-ukraine-missile-order/135526415"
     },
     "c7a033a34e1dac3a99e2b568": {
@@ -29321,6 +29323,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-04T06:49:29.234894+00:00",
+  "last_cycle_at": "2026-11-04T06:49:39.607809+00:00",
   "schema_version": 1
 }
