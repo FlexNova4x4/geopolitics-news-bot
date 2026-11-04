@@ -3251,9 +3251,10 @@
     "1cffd7828c26393d8dc8d1ee": {
       "published_at": "2026-11-04T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13433,
       "title": "Indian-American Voters Say Democrats Back Their Community More Strongly Than Republicans",
-      "updated_at": "2026-11-04T04:24:42.674768+00:00",
+      "updated_at": "2026-11-04T04:24:45.439242+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-american-voters-say-democrats.html"
     },
     "1d0831819e7272b31fe0232d": {
@@ -5057,9 +5058,10 @@
     "2e82c44e752f267cce3a1579": {
       "published_at": "2026-11-04T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13436,
       "title": "India Among Four Global Superpowers As Jeffrey Sachs Declares End of Western Dominance",
-      "updated_at": "2026-11-04T04:24:42.674790+00:00",
+      "updated_at": "2026-11-04T04:24:57.060198+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-among-four-global-superpowers-as.html"
     },
     "2e99c29fb77fee3536d2f42c": {
@@ -11906,9 +11908,10 @@
     "6bdd1961a40a7129c976088c": {
       "published_at": "2026-11-04T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13434,
       "title": "EAM Jaishankar Showcases India’s Digital Public Infrastructure And Trade Agenda At CHOGM 2026",
-      "updated_at": "2026-11-04T04:24:42.674783+00:00",
+      "updated_at": "2026-11-04T04:24:49.389004+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eam-jaishankar-showcases-indias-digital.html"
     },
     "6beb965a5c0b5ca84dd0c71f": {
@@ -15565,9 +15568,10 @@
     "8b397349fc81cd5fb083bd10": {
       "published_at": "2026-11-04T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13435,
       "title": "China's Mysterious '18-Missile Submarine' Could Give The U.S. Navy A Pacific Nightmare",
-      "updated_at": "2026-11-04T04:24:42.674787+00:00",
+      "updated_at": "2026-11-04T04:24:53.163257+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/chinas-mysterious-18-missile-submarine.html"
     },
     "8b3b3c973784f490ddd78776": {
@@ -29202,6 +29206,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-04T04:24:42.678014+00:00",
+  "last_cycle_at": "2026-11-04T04:25:00.263756+00:00",
   "schema_version": 1
 }
