@@ -3386,9 +3386,10 @@
     "1e50dae62e7894878ea22714": {
       "published_at": "2026-11-04T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13437,
       "title": "West Asia Conflict Claims 23 Indian Lives As MEA Reports Maritime Casualties And Missing Nationals",
-      "updated_at": "2026-11-04T04:25:16.036540+00:00",
+      "updated_at": "2026-11-04T04:25:18.768900+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/west-asia-conflict-claims-23-indian.html"
     },
     "1e5f494aa42e0bd0a93aa660": {
@@ -10066,9 +10067,10 @@
     "5a61f17bfad33849b981c775": {
       "published_at": "2026-11-04T03:57:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13440,
       "title": "India's Daring Airborne Commando Rescue Wins Iran's Gratitude After 48-Hour Anti-Piracy Mission",
-      "updated_at": "2026-11-04T04:25:16.036563+00:00",
+      "updated_at": "2026-11-04T04:25:30.423554+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-daring-airborne-commando-rescue.html"
     },
     "5a86e741f9f9cfb688ec8dcd": {
@@ -14459,9 +14461,10 @@
     "81bb33b994aecc5ade446708": {
       "published_at": "2026-11-04T03:57:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13439,
       "title": "'Thorium Links India’s Natural Resources With Its Long-Term Nuclear Energy Vision' Says IGCAR Chief",
-      "updated_at": "2026-11-04T04:25:16.036560+00:00",
+      "updated_at": "2026-11-04T04:25:26.704397+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/thorium-links-indias-natural-resources.html"
     },
     "81f3c1491a3f03128e98de7b": {
@@ -17293,9 +17296,10 @@
     "9a66f81cf4343a32b25e32f9": {
       "published_at": "2026-11-04T03:57:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13438,
       "title": "First Rocket Launch From Tamil Nadu's Kulasekharapatnam Spaceport Set For March-April 2027, Says ISRO Chief",
-      "updated_at": "2026-11-04T04:25:16.036556+00:00",
+      "updated_at": "2026-11-04T04:25:22.713906+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/first-rocket-launch-from-tamil-nadus.html"
     },
     "9a68a9401ca29677ae843954": {
@@ -29238,6 +29242,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-04T04:25:16.039621+00:00",
+  "last_cycle_at": "2026-11-04T04:25:33.627134+00:00",
   "schema_version": 1
 }
