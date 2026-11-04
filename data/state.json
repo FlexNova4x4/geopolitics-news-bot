@@ -9770,9 +9770,10 @@
     "5858bc1fde2f9ff4492ce4dc": {
       "published_at": "2026-11-04T03:58:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13442,
       "title": "CSIR-NAL's Gas-Dynamic Resonance Ignitor Success Marks Major Step Towards Methane-Fuelled Space Propulsion",
-      "updated_at": "2026-11-04T04:25:38.605390+00:00",
+      "updated_at": "2026-11-04T04:25:45.033917+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/csir-nals-gas-dynamic-resonance-ignitor.html"
     },
     "585ed1deca6325c7e6cd6318": {
@@ -12923,9 +12924,10 @@
     "7411c992c598cac52983aa82": {
       "published_at": "2026-11-04T03:58:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13443,
       "title": "Adani Defence Eyes Narrow-Body Aircraft Engine MRO As India’s Aviation Market Accelerates",
-      "updated_at": "2026-11-04T04:25:38.605394+00:00",
+      "updated_at": "2026-11-04T04:25:48.947639+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/adani-defence-eyes-narrow-body-aircraft.html"
     },
     "742a03813971fe41ac0c6b80": {
@@ -15197,9 +15199,10 @@
     "877053e7ea27d67af0a0df92": {
       "published_at": "2026-11-04T03:58:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13441,
       "title": "'Very Happy', Philippines Hails India-Made BrahMos As ‘Unmatched’, Signals Scope For Deeper Defence Partnerships",
-      "updated_at": "2026-11-04T04:25:38.605369+00:00",
+      "updated_at": "2026-11-04T04:25:41.122961+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/philippines-hails-india-made-brahmos-as.html"
     },
     "878288f1cf06d645290d5869": {
@@ -29266,6 +29269,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-04T04:25:38.608473+00:00",
+  "last_cycle_at": "2026-11-04T04:25:52.150952+00:00",
   "schema_version": 1
 }
