@@ -507,9 +507,10 @@
     "045d509f66cb7d86d59de399": {
       "published_at": "2026-11-04T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13432,
       "title": "India-EU Trade Deal Set To Be A Big Game Changer, Says Lithuanian Ambassador Diana Mickevičienė",
-      "updated_at": "2026-11-04T04:24:09.322021+00:00",
+      "updated_at": "2026-11-04T04:24:23.876351+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-eu-trade-deal-set-to-be-big-game.html"
     },
     "0468a15c1cfdb3dd0fdb22c9": {
@@ -7252,9 +7253,10 @@
     "428a57c29f084b3985631f45": {
       "published_at": "2026-11-04T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13429,
       "title": "'They Don't Need It': Trump To End US $4 Billion Annual Aid To Israel As Golan Warns of Security Fallout",
-      "updated_at": "2026-11-04T04:24:09.321999+00:00",
+      "updated_at": "2026-11-04T04:24:12.127703+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/they-dont-need-it-trump-to-end-us.html"
     },
     "429796a639a89bbec392b84f": {
@@ -20124,9 +20126,10 @@
     "b3edd734cc62c61420c8b9bf": {
       "published_at": "2026-11-04T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13431,
       "title": "Germany Sees Renewable Energy Partnership With India As Key To Strengthening Atmanirbhar Bharat",
-      "updated_at": "2026-11-04T04:24:09.322019+00:00",
+      "updated_at": "2026-11-04T04:24:19.969003+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/germany-sees-renewable-energy.html"
     },
     "b3ee218c35f4b505f444e1d0": {
@@ -25663,9 +25666,10 @@
     "e4690a1d3ba4c731606ad39e": {
       "published_at": "2026-11-04T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13430,
       "title": "Pakistan Tests Turkish GÖKTUĞ Fa'az Air-To-Air Missile, Strengthening Indigenous Air Combat Capability",
-      "updated_at": "2026-11-04T04:24:09.322015+00:00",
+      "updated_at": "2026-11-04T04:24:16.068164+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistan-tests-turkish-goktug-faaz-air.html"
     },
     "e4958df7c1525d81d23fd60a": {
@@ -29166,6 +29170,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-04T04:24:09.324769+00:00",
+  "last_cycle_at": "2026-11-04T04:24:27.080155+00:00",
   "schema_version": 1
 }
