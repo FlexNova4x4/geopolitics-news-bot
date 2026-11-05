@@ -7811,9 +7811,10 @@
     "47140ab30226f88606916b89": {
       "published_at": "2026-11-05T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13458,
       "title": "Foreign Secretary Misri, Nepal's Finance Minister Discuss Broadening India-Nepal Economic Cooperation During Kathmandu Visit",
-      "updated_at": "2026-11-05T06:45:07.046084+00:00",
+      "updated_at": "2026-11-05T06:45:14.210816+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/foreign-secretary-misri-nepals-finance.html"
     },
     "47245942f54fb155ec0350ab": {
@@ -16386,9 +16387,10 @@
     "91e913bb6f6322f0d7a712af": {
       "published_at": "2026-11-05T03:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13457,
       "title": "NVS-03 NavIC Satellite Reaches Geo-Synchronous Orbit Following Successful Final Orbit Manoeuvring",
-      "updated_at": "2026-11-05T06:45:07.046069+00:00",
+      "updated_at": "2026-11-05T06:45:10.140086+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/nvs-03-navic-satellite-reaches-geo.html"
     },
     "91ee9952970e21fd9a42b354": {
@@ -21618,9 +21620,10 @@
     "be3e8669d6ed6a3e2228a10c": {
       "published_at": "2026-11-05T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13459,
       "title": "'War Cost Us The Midterms': Vance Blames Iran Conflict For Republican Defeat, Urges America First Reset",
-      "updated_at": "2026-11-05T06:45:07.046088+00:00",
+      "updated_at": "2026-11-05T06:45:18.235064+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/war-cost-us-midterms-vance-blames-iran.html"
     },
     "be4641bdd9eb4c706093ffa5": {
@@ -22174,9 +22177,10 @@
     "c22fdeafacb11479fe658621": {
       "published_at": "2026-11-05T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13460,
       "title": "New Agnipath Scheme Extends Agniveer Service To Six Years With New Route To Regular Enrolment",
-      "updated_at": "2026-11-05T06:45:07.046091+00:00",
+      "updated_at": "2026-11-05T06:45:22.130780+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/new-agnipath-scheme-extends-agniveer.html"
     },
     "c233f919afac361074f25281": {
@@ -29363,6 +29367,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-05T06:45:07.048903+00:00",
+  "last_cycle_at": "2026-11-05T06:45:25.334396+00:00",
   "schema_version": 1
 }
