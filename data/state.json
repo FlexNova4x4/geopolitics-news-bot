@@ -1758,9 +1758,10 @@
     "0fbd4baab62364cc4c9dcca1": {
       "published_at": "2026-11-05T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13461,
       "title": "EAM Jaishankar, UK PM Burnham Discuss Economic Partnership And CETA On CHOGM Sidelines",
-      "updated_at": "2026-11-05T06:46:09.785159+00:00",
+      "updated_at": "2026-11-05T06:46:12.310938+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eam-jaishankar-uk-pm-burnham-discuss.html"
     },
     "0fc2fc7558c9acf646795397": {
@@ -2099,9 +2100,10 @@
     "125f4929953ec31d816378c1": {
       "published_at": "2026-11-05T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13462,
       "title": "'Diwali Gift' For Agniveers: Former Navy Chief Dinesh K Tripathi Welcomes Tenure Extension, Highlights Indian Navy's Expanding Maritime Role",
-      "updated_at": "2026-11-05T06:46:09.785176+00:00",
+      "updated_at": "2026-11-05T06:46:16.325756+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/diwali-gift-for-agniveers-former-navy.html"
     },
     "126308cd8ccec22bb30dfb9e": {
@@ -9678,9 +9680,10 @@
     "57733d396c1f2cb18ffa355f": {
       "published_at": "2026-11-05T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13463,
       "title": "Defence Minister Urges Broader Maritime Security Focus To Protect Undersea Cables And Critical Infrastructure",
-      "updated_at": "2026-11-05T06:46:09.785181+00:00",
+      "updated_at": "2026-11-05T06:46:20.286239+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/defence-minister-urges-broader-maritime.html"
     },
     "5775757c9c57f82e07d8426b": {
@@ -12049,9 +12052,10 @@
     "6c3331ed413bb386e5d79d5e": {
       "published_at": "2026-11-05T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13464,
       "title": "CISF And Digital India Corporation Join Forces To Modernise And Integrate IT Systems",
-      "updated_at": "2026-11-05T06:46:09.785183+00:00",
+      "updated_at": "2026-11-05T06:46:24.279970+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/cisf-and-digital-india-corporation-join.html"
     },
     "6c341cbc584f98de4705efb6": {
@@ -29399,6 +29403,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-05T06:46:09.788405+00:00",
+  "last_cycle_at": "2026-11-05T06:46:27.483702+00:00",
   "schema_version": 1
 }
