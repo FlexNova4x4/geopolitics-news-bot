@@ -5067,9 +5067,10 @@
     "2deab6e0a04986f423b829f8": {
       "published_at": "2026-11-06T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13487,
       "title": "US Envoy Sergio Gor Extends Diwali Greetings After Celebrations At US Embassy In New Delhi",
-      "updated_at": "2026-11-06T06:42:12.498892+00:00",
+      "updated_at": "2026-11-06T06:42:27.112728+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-envoy-sergio-gor-extends-diwali.html"
     },
     "2dedc59da5f3f65dbcef7698": {
@@ -17313,9 +17314,10 @@
     "987d6b02b664ed0843f7089a": {
       "published_at": "2026-11-06T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13484,
       "title": "EAM Jaishankar Holds Key Talks With Australian And UK Prime Ministers At CHOGM 2026",
-      "updated_at": "2026-11-06T06:42:12.498874+00:00",
+      "updated_at": "2026-11-06T06:42:15.265117+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eam-jaishankar-holds-key-talks-with.html"
     },
     "98a816ed69f52680cd432a3c": {
@@ -26986,9 +26988,10 @@
     "ecfa2f5509bf76ae1db42157": {
       "published_at": "2026-11-06T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13486,
       "title": "Eisenkot Secures 67 Endorsements To Lead Government Bid As Netanyahu’s Bloc Falls To 46 Seats",
-      "updated_at": "2026-11-06T06:42:12.498890+00:00",
+      "updated_at": "2026-11-06T06:42:23.134794+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eisenkot-secures-67-endorsements-to.html"
     },
     "ecfa72bd109e809fa70c5c3e": {
@@ -28110,9 +28113,10 @@
     "f534d9d4caa77e735f1aee42": {
       "published_at": "2026-11-06T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13485,
       "title": "Trusted Trade Routes Key To Stronger Commonwealth Supply Chains, Says EAM Jaishankar",
-      "updated_at": "2026-11-06T06:42:12.498888+00:00",
+      "updated_at": "2026-11-06T06:42:19.194223+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trusted-trade-routes-key-to-stronger.html"
     },
     "f53e80b645a6719e9347ef7c": {
@@ -29552,6 +29556,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T06:42:12.501029+00:00",
+  "last_cycle_at": "2026-11-06T06:42:30.315424+00:00",
   "schema_version": 1
 }
