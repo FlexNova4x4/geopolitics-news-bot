@@ -2352,9 +2352,10 @@
     "14803f3817c53e8d58b9d8ea": {
       "published_at": "2026-11-06T03:59:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13490,
       "title": "Zen Technologies' Indigenous Anti-Drone Shield Strengthens India's Defence Preparedness",
-      "updated_at": "2026-11-06T06:42:37.239280+00:00",
+      "updated_at": "2026-11-06T06:42:48.229588+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/zen-technologies-indigenous-anti-drone.html"
     },
     "14902469ed4380afc415fbf3": {
@@ -11153,9 +11154,10 @@
     "62d0a61f21811ca9b6ce7abf": {
       "published_at": "2026-11-06T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13488,
       "title": "Foreign Secretary Misri Reviews Bilateral Cooperation Ahead of Nepal PM Balendra Shah's India Visit",
-      "updated_at": "2026-11-06T06:42:37.239260+00:00",
+      "updated_at": "2026-11-06T06:42:40.393461+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/foreign-secretary-misri-reviews.html"
     },
     "62e64f5653374fe97913c140": {
@@ -26753,9 +26755,10 @@
     "eb1646c0cb62cd316ca54606": {
       "published_at": "2026-11-06T04:00:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13491,
       "title": "IIT-Madras Start-Up AstraYAN Outpaces Global Rivals For Propulsion Integration Deal On ₹32,000 Crore Navy Warships",
-      "updated_at": "2026-11-06T06:42:37.239282+00:00",
+      "updated_at": "2026-11-06T06:42:52.001599+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iit-madras-start-up-astrayan-outpaces.html"
     },
     "eb202e00dec56c6e4f2c4d20": {
@@ -28666,9 +28669,10 @@
     "f945ff7537f66a5e5053312d": {
       "published_at": "2026-11-06T03:57:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13489,
       "title": "Artemon Aerospace Showcases Indigenous Delta-Wing UAV To Indian Navy For Long-Range Surveillance And Strike Operations",
-      "updated_at": "2026-11-06T06:42:37.239275+00:00",
+      "updated_at": "2026-11-06T06:42:44.403984+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/artemon-aerospace-showcases-indigenous.html"
     },
     "f94ea868ac4228638090569d": {
@@ -29588,6 +29592,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T06:42:37.241451+00:00",
+  "last_cycle_at": "2026-11-06T06:42:55.204334+00:00",
   "schema_version": 1
 }
