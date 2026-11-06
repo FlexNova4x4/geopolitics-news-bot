@@ -3089,9 +3089,10 @@
     "1bbb2da13f454feacbdef132": {
       "published_at": "2026-11-06T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13481,
       "title": "PoK Protesters Allege Drone Strikes And Heavy Firing In Rawalakot Amid Escalating Unrest",
-      "updated_at": "2026-11-06T06:41:44.308657+00:00",
+      "updated_at": "2026-11-06T06:41:51.507939+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pok-protesters-allege-drone-strikes-and.html"
     },
     "1bddb0948a2186c4c5b46ab9": {
@@ -8917,9 +8918,10 @@
     "4ffaf10130e3074a4425e437": {
       "published_at": "2026-11-06T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13480,
       "title": "Harmeet Dhillon Steps Down As US Assistant Attorney General Following Republican Midterm Setback",
-      "updated_at": "2026-11-06T06:41:44.308641+00:00",
+      "updated_at": "2026-11-06T06:41:47.551587+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/harmeet-dhillon-steps-down-as-us.html"
     },
     "5006d2bc5bf44c8c3875e444": {
@@ -13263,9 +13265,10 @@
     "75ea85cec1d22efebe22f1ed": {
       "published_at": "2026-11-06T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13482,
       "title": "Xi Likely To Miss ASEAN Summit In Manila As China Prepares To Send Premier Li",
-      "updated_at": "2026-11-06T06:41:44.308661+00:00",
+      "updated_at": "2026-11-06T06:41:55.498942+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/xi-likely-to-miss-asean-summit-in.html"
     },
     "75f1209dcbf0340baa890ec1": {
@@ -29035,9 +29038,10 @@
     "fc87dad5ad2e4d15c6d4bc72": {
       "published_at": "2026-11-06T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13483,
       "title": "Putin Holds Kremlin Talks With Iran Security Chief Mohsen Rezaei Amid Intensifying US-Iran Tensions",
-      "updated_at": "2026-11-06T06:41:44.308664+00:00",
+      "updated_at": "2026-11-06T06:41:59.471711+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/putin-holds-kremlin-talks-with-iran.html"
     },
     "fc99f6fd646bc1d82285de1e": {
@@ -29516,6 +29520,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T06:41:44.310230+00:00",
+  "last_cycle_at": "2026-11-06T06:42:02.674255+00:00",
   "schema_version": 1
 }
