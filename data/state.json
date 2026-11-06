@@ -13463,9 +13463,10 @@
     "7727b2aaa38b8d7fc684b89c": {
       "published_at": "2026-11-06T05:40:38+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13497,
       "title": "Philippines eyes more BrahMos missiles to bolster coastal defence",
-      "updated_at": "2026-11-06T06:43:31.000259+00:00",
+      "updated_at": "2026-11-06T06:43:37.746673+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/philippines-eyes-more-brahmos-missiles-to-bolster-coastal-defence/135595567"
     },
     "77294550dedc86b9512e331b": {
@@ -16602,9 +16603,10 @@
     "921ff1375599366dd507b46f": {
       "published_at": "2026-11-06T05:38:28+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13496,
       "title": "Lockheed Martin wins $122.4 million Trident II navigation contract",
-      "updated_at": "2026-11-06T06:43:31.000243+00:00",
+      "updated_at": "2026-11-06T06:43:33.759886+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/lockheed-martin-wins-122-4-million-trident-ii-navigation-contract/135595523"
     },
     "9226fa9310a0accc274a0fe5": {
@@ -19719,9 +19721,10 @@
     "ad6f75be8f908a238c2218ee": {
       "published_at": "2026-11-06T05:41:28+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13498,
       "title": "Russia's hidden arms deal with Iran: 90 launchers for precision-guided missiles",
-      "updated_at": "2026-11-06T06:43:31.000262+00:00",
+      "updated_at": "2026-11-06T06:43:41.768877+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/russias-hidden-arms-deal-with-iran-90-launchers-for-precision-guided-missiles/135595589"
     },
     "ad95eb880a07271a4c815de1": {
@@ -29652,6 +29655,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T06:43:31.010570+00:00",
+  "last_cycle_at": "2026-11-06T06:43:44.971472+00:00",
   "schema_version": 1
 }
