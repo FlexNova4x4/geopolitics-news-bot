@@ -27510,9 +27510,10 @@
     "f02c2811c6ce602d01eb904f": {
       "published_at": "2026-11-06T21:00:00+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13504,
       "title": "Envoys of Four Nations Present Credentials to the President of India (November 06, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-06T21:53:26.454019+00:00",
+      "updated_at": "2026-11-06T21:53:29.821956+00:00",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUGp1Sno3NElwdUhhcjhneElBemgwTkRtVnk0cHdiSjY4VHdkaWhLWG9fVGt0ckRHUHEtcEQ2c09aa0Z2N2xPZUo4dlJmZVJaY3Zfd0hSR3lHUjJLZE1rZDR2U1laelU3OHBxNVpwME9oMG5qTVpPM3Nmc0lQbEhTc196cUNJZy1heVhIOUpfN3VmSGM3WmlkZDlDd2VyMTFWUVU2NmFUMnJQR252T2xseG9tUGlPQWgtbkFEMHhQbEZwNWFYSHNlbzdHelJwZw?oc=5"
     },
     "f0424110d7e234fe5df74630": {
@@ -29681,6 +29682,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T21:53:26.456967+00:00",
+  "last_cycle_at": "2026-11-06T21:53:33.025434+00:00",
   "schema_version": 1
 }
