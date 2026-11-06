@@ -6785,9 +6785,10 @@
     "3d39f5e7b44929bf647a0f3b": {
       "published_at": "2026-11-06T04:05:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13492,
       "title": "Silicon Chip Breakthrough Lets Terahertz Signals Cross Barriers, Boosting Prospects For Future 6G Networks",
-      "updated_at": "2026-11-06T06:43:04.608332+00:00",
+      "updated_at": "2026-11-06T06:43:07.422373+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/silicon-chip-breakthrough-lets.html"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -15720,9 +15721,10 @@
     "8a5500fd5c77e682a113c902": {
       "published_at": "2026-11-06T04:08:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13494,
       "title": "Pralay Passes: Defence Minister Hails Successful Test As 'Another Significant Milestone In Indigenous Capabilities'",
-      "updated_at": "2026-11-06T06:43:04.608350+00:00",
+      "updated_at": "2026-11-06T06:43:15.409099+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/confirmed-pralay-passes-defence.html"
     },
     "8a6a7a5cfabb06cf7b2a41f7": {
@@ -23210,9 +23212,10 @@
     "cabc7822eb32eb9be5b17f18": {
       "published_at": "2026-11-06T05:36:57+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13495,
       "title": "$23bn Trump-class battleship faces political storm as Democrats capture Congress",
-      "updated_at": "2026-11-06T06:43:04.608353+00:00",
+      "updated_at": "2026-11-06T06:43:19.378314+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/23bn-trump-class-battleship-faces-political-storm-as-democrats-capture-congress/135595468"
     },
     "cad7ec98c61a8453fc9cdb7f": {
@@ -28460,9 +28463,10 @@
     "f750a1f42b6f2a587acc6904": {
       "published_at": "2026-11-06T04:07:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13493,
       "title": "'India Won’t Bow to China On Tunnel-Boring Machines, We Will Make Our Own', Says Piyush Goyal",
-      "updated_at": "2026-11-06T06:43:04.608348+00:00",
+      "updated_at": "2026-11-06T06:43:11.433907+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-wont-bow-to-china-on-tunnel.html"
     },
     "f75e6d81d218517037980800": {
@@ -29624,6 +29628,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T06:43:04.610556+00:00",
+  "last_cycle_at": "2026-11-06T06:43:22.581150+00:00",
   "schema_version": 1
 }
