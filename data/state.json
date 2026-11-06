@@ -13460,6 +13460,14 @@
       "updated_at": "2026-10-30T01:15:11.080802+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss"
     },
+    "7727b2aaa38b8d7fc684b89c": {
+      "published_at": "2026-11-06T05:40:38+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Philippines eyes more BrahMos missiles to bolster coastal defence",
+      "updated_at": "2026-11-06T06:43:31.000259+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/philippines-eyes-more-brahmos-missiles-to-bolster-coastal-defence/135595567"
+    },
     "77294550dedc86b9512e331b": {
       "published_at": "2026-10-26T13:00:14+00:00",
       "source": "thehindu.com",
@@ -16591,6 +16599,14 @@
       "updated_at": "2026-10-27T05:40:07.730833+00:00",
       "url": "https://www.dawn.com/news/2040087/ahsan-bhoon-files-rs5bn-defamation-suit-against-capt-safdar"
     },
+    "921ff1375599366dd507b46f": {
+      "published_at": "2026-11-06T05:38:28+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Lockheed Martin wins $122.4 million Trident II navigation contract",
+      "updated_at": "2026-11-06T06:43:31.000243+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/lockheed-martin-wins-122-4-million-trident-ii-navigation-contract/135595523"
+    },
     "9226fa9310a0accc274a0fe5": {
       "published_at": "2026-10-29T11:12:43+00:00",
       "source": "aljazeera.com",
@@ -19699,6 +19715,14 @@
       "title": "12 hours, 3 missions: Army choppers rescue 3 stranded paragliders in Kangra’s Dhauladhars",
       "updated_at": "2026-10-26T13:38:06.524903+00:00",
       "url": "https://www.tribuneindia.com/news/defence/12-hours-3-missions-army-choppers-rescue-3-stranded-paragliders-in-kangras-dhauladhars"
+    },
+    "ad6f75be8f908a238c2218ee": {
+      "published_at": "2026-11-06T05:41:28+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Russia's hidden arms deal with Iran: 90 launchers for precision-guided missiles",
+      "updated_at": "2026-11-06T06:43:31.000262+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/russias-hidden-arms-deal-with-iran-90-launchers-for-precision-guided-missiles/135595589"
     },
     "ad95eb880a07271a4c815de1": {
       "published_at": "2026-10-27T15:41:46+00:00",
@@ -29628,6 +29652,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T06:43:22.581150+00:00",
+  "last_cycle_at": "2026-11-06T06:43:31.010570+00:00",
   "schema_version": 1
 }
