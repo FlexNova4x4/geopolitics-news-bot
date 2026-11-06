@@ -1341,6 +1341,14 @@
       "updated_at": "2026-10-26T08:45:43.566952+00:00",
       "url": "https://www.tribuneindia.com/news/adeel-baloch/byc-demands-probe-into-alleged-extrajudicial-killing-of-adeel-baloch-as-missing-persons-protest-continues-in-quetta"
     },
+    "0be9a1c407ca045534a1bfd5": {
+      "published_at": "2026-11-05T20:39:00+00:00",
+      "source": "The Diplomat (South Asia)",
+      "status": "reserved",
+      "title": "For More Than 20 Years, Bangladesh’s One Constant Has Been Political Violence",
+      "updated_at": "2026-11-06T08:11:26.681764+00:00",
+      "url": "https://thediplomat.com/2026/11/for-more-than-20-years-bangladeshs-one-constant-has-been-political-violence"
+    },
     "0c02315661a4840bbc2e06c3": {
       "published_at": "2026-10-29T17:52:27+00:00",
       "source": "thehindu.com",
@@ -29655,6 +29663,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T06:43:44.971472+00:00",
+  "last_cycle_at": "2026-11-06T08:11:26.684108+00:00",
   "schema_version": 1
 }
