@@ -10732,9 +10732,10 @@
     "5f2ef69f9dfdf74fc4f75d51": {
       "published_at": "2026-11-06T00:30:00+00:00",
       "source": "The Diplomat (Asia Defense)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13500,
       "title": "Leaner, Meaner, More Networked: The Royal Thai Air Force’s Modernization Drive",
-      "updated_at": "2026-11-06T08:41:29.285420+00:00",
+      "updated_at": "2026-11-06T08:41:32.232504+00:00",
       "url": "https://thediplomat.com/2026/11/leaner-meaner-more-networked-the-royal-thai-air-forces-modernization-drive"
     },
     "5f32385f71dfaa9a97b2e6e9": {
@@ -29672,6 +29673,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T08:41:29.287920+00:00",
+  "last_cycle_at": "2026-11-06T08:41:35.435360+00:00",
   "schema_version": 1
 }
