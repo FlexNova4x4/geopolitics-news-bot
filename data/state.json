@@ -1344,9 +1344,10 @@
     "0be9a1c407ca045534a1bfd5": {
       "published_at": "2026-11-05T20:39:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13499,
       "title": "For More Than 20 Years, Bangladesh’s One Constant Has Been Political Violence",
-      "updated_at": "2026-11-06T08:11:26.681764+00:00",
+      "updated_at": "2026-11-06T08:11:29.893822+00:00",
       "url": "https://thediplomat.com/2026/11/for-more-than-20-years-bangladeshs-one-constant-has-been-political-violence"
     },
     "0c02315661a4840bbc2e06c3": {
@@ -29663,6 +29664,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-06T08:11:26.684108+00:00",
+  "last_cycle_at": "2026-11-06T08:11:33.096550+00:00",
   "schema_version": 1
 }
