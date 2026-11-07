@@ -3251,9 +3251,10 @@
     "1c8548ea595f74041a0c4ad3": {
       "published_at": "2026-11-07T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13530,
       "title": "Amnesty International Condemns Pakistan’s Use of Anti-Terror Laws Against Human Rights Lawyers",
-      "updated_at": "2026-11-07T15:28:46.703379+00:00",
+      "updated_at": "2026-11-07T15:28:53.668663+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/amnesty-international-condemns.html"
     },
     "1c8b6c85e08f31432c7b90e0": {
@@ -9088,9 +9089,10 @@
     "509391e296a7ec00d3a81a34": {
       "published_at": "2026-11-07T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13529,
       "title": "Balochistan Parties Announce Province-Wide Shutdown As Political And Economic Crisis Deepens",
-      "updated_at": "2026-11-07T15:28:46.703363+00:00",
+      "updated_at": "2026-11-07T15:28:49.679438+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/balochistan-parties-announce-province.html"
     },
     "50a4cdb6e1ae84b61fbca6d1": {
@@ -9203,9 +9205,10 @@
     "513643e8d3cec8ace84825b4": {
       "published_at": "2026-11-07T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13531,
       "title": "US Offers $20 Million Reward For Intelligence On Iran's Nuclear Program",
-      "updated_at": "2026-11-07T15:28:46.703382+00:00",
+      "updated_at": "2026-11-07T15:28:57.610278+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-offers-20-million-reward-for.html"
     },
     "513d4a9797c2ede1430e1545": {
@@ -19943,9 +19946,10 @@
     "ada605e149bbf6771e935e75": {
       "published_at": "2026-11-07T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13532,
       "title": "Trump Recklessly Flaunts 'Mr. Veto' Image After Democrats' Midterm Crushing Defeat",
-      "updated_at": "2026-11-07T15:28:46.703385+00:00",
+      "updated_at": "2026-11-07T15:29:01.556561+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trump-recklessly-flaunts-mr-veto-image.html"
     },
     "adb3f3fffa0eb19c6a946233": {
@@ -29885,6 +29889,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T15:28:46.705978+00:00",
+  "last_cycle_at": "2026-11-07T15:29:04.760209+00:00",
   "schema_version": 1
 }
