@@ -1521,6 +1521,14 @@
       "updated_at": "2026-10-31T05:40:44.152330+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/three-private-sector-contenders-submit.html"
     },
+    "0d34f90517293943383adb94": {
+      "published_at": "2026-11-07T15:30:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Advancing Artillery Modernisation: India Clears Bulk Production For 307 Advanced Towed Systems",
+      "updated_at": "2026-11-07T15:58:37.902009+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/advancing-artillery-modernisation-india.html"
+    },
     "0d3d1f14b5167333f55d8b7b": {
       "published_at": "2026-10-26T18:59:17+00:00",
       "source": "dawn.com",
@@ -7636,6 +7644,14 @@
       "title": "Pakistan’s reported SLC-14 radar sighting raises stakes for India’s missile strategy",
       "updated_at": "2026-11-04T06:19:25.965114+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/pakistans-reported-slc-14-radar-sighting-raises-stakes-for-indias-missile-strategy/135526265"
+    },
+    "43829c4eb2e6b9d6e5851575": {
+      "published_at": "2026-11-07T15:29:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Bharat Forge Expects ATAGS Deliveries To Commence From Q1 FY28 As Production Clearance Unlocks Execution",
+      "updated_at": "2026-11-07T15:58:37.902006+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/bharat-forge-expects-atags-deliveries.html"
     },
     "43867bd36d6ac3d8da447c02": {
       "published_at": "2026-10-27T11:33:31+00:00",
@@ -24406,6 +24422,14 @@
       "updated_at": "2026-10-29T13:34:10.926729+00:00",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/woman-gym-trainer-arrested-for-murder-bid-on-sleeping-husband/article71640691.ece"
     },
+    "d36f4b8717e5d35bf728e289": {
+      "published_at": "2026-11-07T15:29:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Kalyani’s Mounted Gun System Clears Pokhran Trials, Advances To Sikkim Winter Evaluation",
+      "updated_at": "2026-11-07T15:58:37.901992+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/kalyanis-mounted-gun-system-clears.html"
+    },
     "d3805b47e18355e1e8d97bd8": {
       "published_at": "2026-10-26T07:37:19+00:00",
       "source": "publish.tribuneindia.com",
@@ -29961,6 +29985,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T15:30:02.547448+00:00",
+  "last_cycle_at": "2026-11-07T15:58:37.905217+00:00",
   "schema_version": 1
 }
