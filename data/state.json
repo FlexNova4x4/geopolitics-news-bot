@@ -2334,9 +2334,10 @@
     "1444bb32328abae42b327199": {
       "published_at": "2026-11-07T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13517,
       "title": "Pakistani Occupying Forces Launch Deadly Crackdown In PoK As Rawalakot Protest Unrest Deepens",
-      "updated_at": "2026-11-07T05:57:53.027224+00:00",
+      "updated_at": "2026-11-07T05:57:59.780396+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistani-occupying-forces-launch.html"
     },
     "146270cb1d48d0736a73993d": {
@@ -15270,9 +15271,10 @@
     "862c182c0f37f9010002d3e9": {
       "published_at": "2026-11-07T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13516,
       "title": "'Guyana Ready To Meet Up To 20 Per Cent of India's Crude Oil Demand' Says Guyana Envoy To India",
-      "updated_at": "2026-11-07T05:57:53.027208+00:00",
+      "updated_at": "2026-11-07T05:57:55.787036+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/guyana-ready-to-meet-up-to-20-per-cent.html"
     },
     "863522b208dac4e855863d32": {
@@ -18388,9 +18390,10 @@
     "a0b3965ec2f7a4f4bac59667": {
       "published_at": "2026-11-07T03:58:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13519,
       "title": "IAF, IIT-Madras And IITM Pravartak Join Forces To Develop Indigenous Secure Airborne Communication System",
-      "updated_at": "2026-11-07T05:57:53.027230+00:00",
+      "updated_at": "2026-11-07T05:58:07.699576+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iaf-iit-madras-and-iitm-pravartak-join.html"
     },
     "a0d69cb343ddd08498d930e0": {
@@ -28326,9 +28329,10 @@
     "f5368f8f56c9283bc2b4412f": {
       "published_at": "2026-11-07T03:57:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13518,
       "title": "Tonbo Imaging Seeks Land In Karnataka For High-Power Microwave Production And Testing Expansion",
-      "updated_at": "2026-11-07T05:57:53.027227+00:00",
+      "updated_at": "2026-11-07T05:58:03.903966+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/tonbo-imaging-seeks-land-in-karnataka.html"
     },
     "f53e80b645a6719e9347ef7c": {
@@ -29786,6 +29790,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T05:57:53.029746+00:00",
+  "last_cycle_at": "2026-11-07T05:58:10.902325+00:00",
   "schema_version": 1
 }
