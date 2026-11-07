@@ -390,9 +390,10 @@
     "03521b5b18742e8dbdfc32b6": {
       "published_at": "2026-11-07T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13537,
       "title": "India Unleashes ₹40,000-Crore Weapon Export Surge! Mega BrahMos Deal Alters Geopolitics Forever!",
-      "updated_at": "2026-11-07T15:29:44.834999+00:00",
+      "updated_at": "2026-11-07T15:29:47.313767+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-unleashes-40000-crore-weapon.html"
     },
     "0360aa497854ba4d4205a7c3": {
@@ -8413,9 +8414,10 @@
     "4a0d735077545b028a816432": {
       "published_at": "2026-11-07T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13538,
       "title": "Swachh Space: India's Push To Eliminate Orbital Debris By 2030",
-      "updated_at": "2026-11-07T15:29:44.835014+00:00",
+      "updated_at": "2026-11-07T15:29:51.426393+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/swachh-space-indias-push-to-eliminate.html"
     },
     "4a10d704320287fe9b01869c": {
@@ -12051,9 +12053,10 @@
     "6a345b081e4ba0fbc2f1cda7": {
       "published_at": "2026-11-07T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13540,
       "title": "BEL Sees Over ₹20,000 Crore Next Generation Corvette Electronics Opportunity Within Order-Inflow Guidance",
-      "updated_at": "2026-11-07T15:29:44.835021+00:00",
+      "updated_at": "2026-11-07T15:29:59.344007+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/bel-sees-over-20000-crore-next.html"
     },
     "6a59736be554ac035e49a0c2": {
@@ -22867,9 +22870,10 @@
     "c42cbc6aefffb49fa784670d": {
       "published_at": "2026-11-07T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13539,
       "title": "BEL Says QRSAM Readiness Could Accelerate Execution After Order Award",
-      "updated_at": "2026-11-07T15:29:44.835018+00:00",
+      "updated_at": "2026-11-07T15:29:55.366200+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/bel-says-qrsam-readiness-could.html"
     },
     "c43aca3f5b82e12d2f982352": {
@@ -29957,6 +29961,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T15:29:44.838361+00:00",
+  "last_cycle_at": "2026-11-07T15:30:02.547448+00:00",
   "schema_version": 1
 }
