@@ -5696,9 +5696,10 @@
     "339e51019649d7a8985dbe59": {
       "published_at": "2026-11-07T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13508,
       "title": "US Unveils New Iran Sanctions As Crackdown On Sanctions-Evasion Networks Intensifies",
-      "updated_at": "2026-11-07T05:57:03.609374+00:00",
+      "updated_at": "2026-11-07T05:57:06.585809+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-unveils-new-iran-sanctions-as.html"
     },
     "33ab8b447dff27d417a7c0d3": {
@@ -6550,9 +6551,10 @@
     "3a9532aeac5ec1090d79870b": {
       "published_at": "2026-11-07T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13511,
       "title": "India Strengthens Maritime Cooperation With ASEAN Through Security And Awareness Briefing",
-      "updated_at": "2026-11-07T05:57:03.609396+00:00",
+      "updated_at": "2026-11-07T05:57:18.475192+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-strengthens-maritime-cooperation.html"
     },
     "3acc79dd63119b7007188d12": {
@@ -17339,9 +17341,10 @@
     "97fe6fcc9b092ccf4304a3ad": {
       "published_at": "2026-11-07T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13509,
       "title": "Leaked Files Reveal Russia's Plan To Supply Iran With 90 Missile Launchers: Report",
-      "updated_at": "2026-11-07T05:57:03.609390+00:00",
+      "updated_at": "2026-11-07T05:57:10.565070+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/leaked-files-reveal-russias-plan-to.html"
     },
     "980911d1dfb0bd3fd87503c1": {
@@ -23272,9 +23275,10 @@
     "ca7d7a3ace917f59c38584bc": {
       "published_at": "2026-11-07T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13510,
       "title": "US Carries Out Fresh Limited Strike On Iran As Qatar Pushes New Nuclear De-Escalation Proposal",
-      "updated_at": "2026-11-07T05:57:03.609394+00:00",
+      "updated_at": "2026-11-07T05:57:14.508597+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-carries-out-fresh-limited-strike-on.html"
     },
     "caa7e24606af0a6925293452": {
@@ -29714,6 +29718,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T05:57:03.611661+00:00",
+  "last_cycle_at": "2026-11-07T05:57:21.678204+00:00",
   "schema_version": 1
 }
