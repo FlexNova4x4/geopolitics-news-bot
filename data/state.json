@@ -4564,9 +4564,10 @@
     "294a607f8b56868d9f806feb": {
       "published_at": "2026-11-07T03:59:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13520,
       "title": "Martin-Baker To Establish ₹380 Crore Aircraft Ejection Seat Manufacturing Facility In Karnataka",
-      "updated_at": "2026-11-07T05:58:15.415230+00:00",
+      "updated_at": "2026-11-07T05:58:18.042541+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/martin-baker-to-establish-380-crore.html"
     },
     "295047aef89a7f65795f594a": {
@@ -4670,9 +4671,10 @@
     "2a685fa1cc708bd4ad88c9c0": {
       "published_at": "2026-11-07T03:59:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13521,
       "title": "An Alternative View On India-Israel Convergence And Pakistan's Strategic Anxiety",
-      "updated_at": "2026-11-07T05:58:15.415245+00:00",
+      "updated_at": "2026-11-07T05:58:22.007611+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/an-alternative-view-on-india-israel.html"
     },
     "2a8c416b364eaca224ff945c": {
@@ -25728,9 +25730,10 @@
     "e0502db0bea4e3a9023d7feb": {
       "published_at": "2026-11-07T04:00:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13522,
       "title": "China's Helicopter Build-Up Raises The Stakes In The Himalayan Challenge: Is India Ready?",
-      "updated_at": "2026-11-07T05:58:15.415248+00:00",
+      "updated_at": "2026-11-07T05:58:25.958679+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/chinas-helicopter-build-up-raises.html"
     },
     "e06591ed22be942aba70cb06": {
@@ -29814,6 +29817,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T05:58:15.417762+00:00",
+  "last_cycle_at": "2026-11-07T05:58:29.161486+00:00",
   "schema_version": 1
 }
