@@ -3719,9 +3719,10 @@
     "20662c12d1b0c9497cb8b6a8": {
       "published_at": "2026-11-07T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13533,
       "title": "India, EU Conclude Talks On 93.5-Billion-Euro Research Program",
-      "updated_at": "2026-11-07T15:29:10.847759+00:00",
+      "updated_at": "2026-11-07T15:29:13.826354+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-eu-conclude-talks-on-935-billion.html"
     },
     "208807a29b94609868fddbdb": {
@@ -18911,9 +18912,10 @@
     "a4c7a6d515919bdb9893fc4b": {
       "published_at": "2026-11-07T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13536,
       "title": "India Clears 12 More Electronics Manufacturing Projects, Unveils SEMICON 2.0 Application Portal",
-      "updated_at": "2026-11-07T15:29:10.847783+00:00",
+      "updated_at": "2026-11-07T15:29:25.643704+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-clears-12-more-electronics.html"
     },
     "a4e06e2e20343cc36dc9216f": {
@@ -19926,9 +19928,10 @@
     "ad842938e2e650d12e91c381": {
       "published_at": "2026-11-07T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13535,
       "title": "Diwali Celebrations Shine Brighter As UK Highlights Landmark India FTA Deal",
-      "updated_at": "2026-11-07T15:29:10.847781+00:00",
+      "updated_at": "2026-11-07T15:29:21.679299+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/diwali-celebrations-shine-brighter-as.html"
     },
     "ad95eb880a07271a4c815de1": {
@@ -26770,9 +26773,10 @@
     "e7eadc474bbc0f47694acea5": {
       "published_at": "2026-11-07T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13534,
       "title": "ISRO Chairman V Narayanan Recalls Russia's Crucial Support In India's Rise As A Space Power",
-      "updated_at": "2026-11-07T15:29:10.847777+00:00",
+      "updated_at": "2026-11-07T15:29:17.770697+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/isro-chairman-v-narayanan-recalls.html"
     },
     "e7f6dc288435f2578c5a3c05": {
@@ -29921,6 +29925,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T15:29:10.850905+00:00",
+  "last_cycle_at": "2026-11-07T15:29:28.847242+00:00",
   "schema_version": 1
 }
