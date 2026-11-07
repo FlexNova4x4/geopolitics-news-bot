@@ -9887,9 +9887,10 @@
     "578afc2238522c8ff65d20a4": {
       "published_at": "2026-11-07T09:39:00+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13526,
       "title": "India’s defence spending surge runs into a fighter jet shortfall",
-      "updated_at": "2026-11-07T10:26:56.205965+00:00",
+      "updated_at": "2026-11-07T10:27:07.468148+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/indias-defence-spending-surge-runs-into-a-fighter-jet-shortfall/135632819"
     },
     "5791a4e5f805bd6122fea29d": {
@@ -12168,9 +12169,10 @@
     "6b6c986552349c23bc760d0d": {
       "published_at": "2026-11-07T09:38:06+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13524,
       "title": "Russia dangles S-500 access in expanded air defence pitch to India",
-      "updated_at": "2026-11-07T10:26:56.205947+00:00",
+      "updated_at": "2026-11-07T10:26:59.474543+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/russia-dangles-s-500-access-in-expanded-air-defence-pitch-to-india/135632794"
     },
     "6b7e8d2ad5a25488a03649da": {
@@ -13515,9 +13517,10 @@
     "769fd319012baf136878ed0f": {
       "published_at": "2026-11-07T09:38:38+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13525,
       "title": "BrahMos is shaping India’s next defence export push",
-      "updated_at": "2026-11-07T10:26:56.205962+00:00",
+      "updated_at": "2026-11-07T10:27:03.448024+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/brahmos-is-shaping-indias-next-defence-export-push/135632804"
     },
     "76c36ad86e563e5798ac1800": {
@@ -23137,9 +23140,10 @@
     "c7b46c10d005a8b96aae8725": {
       "published_at": "2026-11-07T09:39:30+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13527,
       "title": "Philippines weighs bigger BrahMos buy as India’s missile exports gather pace",
-      "updated_at": "2026-11-07T10:26:56.205968+00:00",
+      "updated_at": "2026-11-07T10:27:11.456615+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/philippines-weighs-bigger-brahmos-buy-as-indias-missile-exports-gather-pace/135632836"
     },
     "c7b68b6912f653b71b3ac54e": {
@@ -29849,6 +29853,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T10:26:56.208605+00:00",
+  "last_cycle_at": "2026-11-07T10:27:14.659655+00:00",
   "schema_version": 1
 }
