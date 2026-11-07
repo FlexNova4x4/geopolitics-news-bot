@@ -444,9 +444,10 @@
     "03e4ce44d1565c107b8a3943": {
       "published_at": "2026-11-07T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13514,
       "title": "Tri-Service Maritime Electronic Warfare Drill Showcases India's Joint Warfighting Readiness",
-      "updated_at": "2026-11-07T05:57:28.205033+00:00",
+      "updated_at": "2026-11-07T05:57:39.307884+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/tri-service-maritime-electronic-warfare.html"
     },
     "03f7e74c163aca886f098fd6": {
@@ -8656,9 +8657,10 @@
     "4cb5fda612efcb543b03e266": {
       "published_at": "2026-11-07T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13513,
       "title": "Pralay Missile Test: How India’s New Weapon, Twice As Fast As BrahMos, Could Counter China-Pakistan Threats And Strengthen Its Upcoming Rocket Force",
-      "updated_at": "2026-11-07T05:57:28.205030+00:00",
+      "updated_at": "2026-11-07T05:57:35.329083+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pralay-missile-test-how-indias-new.html"
     },
     "4cc348df077388f9eab90d32": {
@@ -9472,9 +9474,10 @@
     "5488cd834cff3da7fb16e753": {
       "published_at": "2026-11-07T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13512,
       "title": "Mecca Defence Pact With Pakistan Sparks Row In Turkish Parliament As MPs Question Risks To Turkish Youth In Future Conflicts",
-      "updated_at": "2026-11-07T05:57:28.205015+00:00",
+      "updated_at": "2026-11-07T05:57:31.339362+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/mecca-defence-pact-with-pakistan-sparks.html"
     },
     "54afb6f88f116879093f0ff1": {
@@ -15889,9 +15892,10 @@
     "8ae4299c137bbbbcc0ec056d": {
       "published_at": "2026-11-07T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13515,
       "title": "Quad Navies Launch Malabar 2026 Multi-Domain Drills To Strengthen Free And Open Indo-Pacific",
-      "updated_at": "2026-11-07T05:57:28.205035+00:00",
+      "updated_at": "2026-11-07T05:57:43.189959+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/quad-navies-launch-malabar-2026-multi.html"
     },
     "8b397349fc81cd5fb083bd10": {
@@ -29750,6 +29754,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-07T05:57:28.207626+00:00",
+  "last_cycle_at": "2026-11-07T05:57:46.392995+00:00",
   "schema_version": 1
 }
