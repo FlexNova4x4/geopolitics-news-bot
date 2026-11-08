@@ -1299,9 +1299,10 @@
     "0af1c1af579b88acbe9e3958": {
       "published_at": "2026-11-08T10:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13558,
       "title": "Trump's Post-Midterm Balancing Act: Hegseth Under Pressure As Rubio Stays Put Amid Iran War Fallout",
-      "updated_at": "2026-11-08T10:29:37.505367+00:00",
+      "updated_at": "2026-11-08T10:29:47.856957+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trumps-post-midterm-balancing-act.html"
     },
     "0af1e4b1c954f2a446bab006": {
@@ -7450,9 +7451,10 @@
     "422a66b40e082275bb4d4c0a": {
       "published_at": "2026-11-08T10:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13557,
       "title": "Israeli Envoy Reuven Azar Extends Diwali Greetings, Draws Parallels Between Diwali And Hanukkah",
-      "updated_at": "2026-11-08T10:29:37.505364+00:00",
+      "updated_at": "2026-11-08T10:29:43.934738+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/israeli-envoy-reuven-azar-extends.html"
     },
     "42336781dfa56f9f3784a961": {
@@ -8592,9 +8594,10 @@
     "4b10a2afc1b6b42d9f7489fb": {
       "published_at": "2026-11-08T10:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13559,
       "title": "Made-in-India Technology Powers Armed Forces as Rajnath Singh Marks Diwali With Air Warriors",
-      "updated_at": "2026-11-08T10:29:37.505369+00:00",
+      "updated_at": "2026-11-08T10:29:51.767826+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/made-in-india-technology-powers-armed.html"
     },
     "4b492a77223e31223293d106": {
@@ -18567,9 +18570,10 @@
     "a085d6f7538bcb4a8df49774": {
       "published_at": "2026-11-08T10:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13556,
       "title": "UAE Prime Minister Extends Diwali Wishes, Celebrating Peace, Hope and Prosperity",
-      "updated_at": "2026-11-08T10:29:37.505351+00:00",
+      "updated_at": "2026-11-08T10:29:40.012788+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/uae-prime-minister-extends-diwali.html"
     },
     "a08cc9d5487b5aeb4a1fac50": {
@@ -30065,6 +30069,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-08T10:29:37.508334+00:00",
+  "last_cycle_at": "2026-11-08T10:29:54.971441+00:00",
   "schema_version": 1
 }
