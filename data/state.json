@@ -1731,9 +1731,10 @@
     "0ee67c59953687bccff076eb": {
       "published_at": "2026-11-08T10:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13555,
       "title": "Gadi Eisenkot Secures Mandate From President Herzog To Form Israeli Government After Netanyahu Setback",
-      "updated_at": "2026-11-08T10:29:12.916311+00:00",
+      "updated_at": "2026-11-08T10:29:28.614339+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/gadi-eisenkot-secures-mandate-from.html"
     },
     "0f009f942ee26702f0dca122": {
@@ -12879,9 +12880,10 @@
     "70361a005c5e504ca0d06bd3": {
       "published_at": "2026-11-08T10:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13554,
       "title": "US Forces Disable Cargo Ship After Alleged Attempt To Breach Iran Blockade In Gulf of Oman",
-      "updated_at": "2026-11-08T10:29:12.916307+00:00",
+      "updated_at": "2026-11-08T10:29:24.672061+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-forces-disable-cargo-ship-after.html"
     },
     "7037ac6b6d932ca4213e1aa0": {
@@ -17933,9 +17935,10 @@
     "9b0853e5887a4b68d27d9b39": {
       "published_at": "2026-11-08T10:05:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13552,
       "title": "Iran Envoy Links Diwali’s Victory of Light To Shared India-Iran Heritage In Festive Message",
-      "updated_at": "2026-11-08T10:29:12.916283+00:00",
+      "updated_at": "2026-11-08T10:29:16.722642+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iran-envoy-links-diwalis-victory-of.html"
     },
     "9b16aefcca22880c3b6959cf": {
@@ -24721,9 +24724,10 @@
     "d4e9ec060f358bc32e289df7": {
       "published_at": "2026-11-08T10:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13553,
       "title": "Explosions Reported On Qeshm Island Amid Strait of Hormuz Security Incidents",
-      "updated_at": "2026-11-08T10:29:12.916301+00:00",
+      "updated_at": "2026-11-08T10:29:20.666340+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/explosions-reported-on-qeshm-island.html"
     },
     "d4f4b4c5bee0c02c0f567751": {
@@ -30029,6 +30033,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-08T10:29:12.919395+00:00",
+  "last_cycle_at": "2026-11-08T10:29:31.817870+00:00",
   "schema_version": 1
 }
