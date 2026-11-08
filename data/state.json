@@ -1209,9 +1209,10 @@
     "09f8e1217d336469ad977eb9": {
       "published_at": "2026-11-08T10:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13560,
       "title": "Prime Minister Modi Marks Diwali With Bastar Forces, Hails End of Naxalism Across India",
-      "updated_at": "2026-11-08T10:30:00.951377+00:00",
+      "updated_at": "2026-11-08T10:30:03.981633+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/prime-minister-modi-marks-diwali-with.html"
     },
     "0a0d9d55ddba5ec3db5235a9": {
@@ -12375,9 +12376,10 @@
     "6c00204a93d5f332f21c7756": {
       "published_at": "2026-11-08T10:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13561,
       "title": "Shinkula Tunnel Marks Major Boost To All-Weather Connectivity With Dual-End Excavation",
-      "updated_at": "2026-11-08T10:30:00.951392+00:00",
+      "updated_at": "2026-11-08T10:30:07.923683+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/shinkula-tunnel-marks-major-boost-to.html"
     },
     "6c10494498b8ab38756ccb24": {
@@ -25513,9 +25515,10 @@
     "db14809f154b80551ed68b9b": {
       "published_at": "2026-11-08T10:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13563,
       "title": "Nyoma Milestone: IAF's IL-76MD Sets World High-Altitude Landing Record Near China Border",
-      "updated_at": "2026-11-08T10:30:00.951399+00:00",
+      "updated_at": "2026-11-08T10:30:15.836639+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/nyoma-milestone-iafs-il-76md-sets-world.html"
     },
     "db16e7340c29a71e02965c16": {
@@ -26240,9 +26243,10 @@
     "e2943327167198172a7b3ada": {
       "published_at": "2026-11-08T10:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13562,
       "title": "Pralay Missile Nears Induction After 500-km Range, 1,000 Kg Payload Strike Test",
-      "updated_at": "2026-11-08T10:30:00.951396+00:00",
+      "updated_at": "2026-11-08T10:30:11.832737+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pralay-missile-nears-induction-after.html"
     },
     "e29e4c02f13713a48ba055b4": {
@@ -30101,6 +30105,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-08T10:30:00.954598+00:00",
+  "last_cycle_at": "2026-11-08T10:30:19.040091+00:00",
   "schema_version": 1
 }
