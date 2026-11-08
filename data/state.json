@@ -4660,6 +4660,14 @@
       "updated_at": "2026-10-30T15:42:31.361276+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/tanker-hit-by-explosive-devices-in.html"
     },
+    "2991b1f0a907006506d2bff7": {
+      "published_at": "2026-11-08T10:29:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Amca Reaches The Wiring Stage: ADA Tenders Out Electrical Harness Design",
+      "updated_at": "2026-11-08T10:58:57.152006+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/amca-reaches-wiring-stage-ada-tenders.html"
+    },
     "299513eb564c0f80472c4ec3": {
       "published_at": "2026-10-27T11:58:37+00:00",
       "source": "dawn.com",
@@ -9372,6 +9380,14 @@
       "title": "Kangra News: पौंग झील में बढ़ेगा मछली उत्पादन, 17 लाख मत्स्य बीज छोड़ने का लक्ष्य",
       "updated_at": "2026-10-26T22:45:39.965326+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/fish-production-to-increase-in-pong-lake-target-set-to-release-17-million-fish-seeds-kangra-news-c-95-1-kng1047-263454-2026-10-27"
+    },
+    "51cc2be4a667dc548a7ca9a9": {
+      "published_at": "2026-11-08T10:30:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Stealth Hurdles And Strategic Horizons For India's Indigenous AMCA Fighter Jet Program",
+      "updated_at": "2026-11-08T10:58:57.152020+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/stealth-hurdles-and-strategic-horizons.html"
     },
     "51f6768493cfcd1e7d74be50": {
       "published_at": "2026-10-29T06:00:22+00:00",
@@ -30114,6 +30130,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-08T10:30:28.321847+00:00",
+  "last_cycle_at": "2026-11-08T10:58:57.155272+00:00",
   "schema_version": 1
 }
