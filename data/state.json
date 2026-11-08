@@ -30035,9 +30035,10 @@
     "ff721fb0be4ac7bc1ac8dcff": {
       "published_at": "2026-11-08T10:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13564,
       "title": "Indian Navy Strengthens Space-Based Maritime Network With Indigenous SATCOM Push",
-      "updated_at": "2026-11-08T10:30:22.465044+00:00",
+      "updated_at": "2026-11-08T10:30:25.118402+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-strengthens-space-based.html"
     },
     "ff9d0f685de616595da2bf82": {
@@ -30113,6 +30114,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-08T10:30:22.468108+00:00",
+  "last_cycle_at": "2026-11-08T10:30:28.321847+00:00",
   "schema_version": 1
 }
