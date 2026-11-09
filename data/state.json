@@ -4259,9 +4259,10 @@
     "24cad95c34f6f99ad0a4af97": {
       "published_at": "2026-11-09T05:10:39+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13587,
       "title": "Allison Transmission lands ₹2,084 crore defence contract with BAE Systems",
-      "updated_at": "2026-11-09T06:27:03.133137+00:00",
+      "updated_at": "2026-11-09T06:27:18.666463+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/allison-transmission-lands-2084-crore-defence-contract-with-bae-systems/135671685"
     },
     "24f42936a0cafb0637010f5c": {
@@ -16476,9 +16477,10 @@
     "8dad6191df84934bbffcd49a": {
       "published_at": "2026-11-09T04:00:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13586,
       "title": "The Unpredictable Arrow, The Unscripted Missile: Pralay That Brakes The Ballistic Rulebook",
-      "updated_at": "2026-11-09T06:27:03.133134+00:00",
+      "updated_at": "2026-11-09T06:27:14.544467+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/the-unpredictable-arrow-unscripted.html"
     },
     "8db046a20064a0048ee7e45c": {
@@ -18570,9 +18572,10 @@
     "9f5780f2bfeee08c7b9111eb": {
       "published_at": "2026-11-09T03:58:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13585,
       "title": "Leonardo Positions M-346 As Strong Contender For IAF Stage-III Advanced Jet Trainer Requirement",
-      "updated_at": "2026-11-09T06:27:03.133131+00:00",
+      "updated_at": "2026-11-09T06:27:10.450462+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/leonardo-positions-m-346-as-strong.html"
     },
     "9f6220e20379b9fa65b9674b": {
@@ -21212,9 +21215,10 @@
     "b604179467c01db3a37a6bfc": {
       "published_at": "2026-11-09T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13584,
       "title": "Rajnath Singh Warns Warfare Now Spans Cyberattacks, Drone Swarms And Information Operations",
-      "updated_at": "2026-11-09T06:27:03.133116+00:00",
+      "updated_at": "2026-11-09T06:27:06.524986+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/rajnath-singh-warns-warfare-now-spans.html"
     },
     "b6087af94dfbacd097f668e7": {
@@ -30272,6 +30276,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T06:27:03.144425+00:00",
+  "last_cycle_at": "2026-11-09T06:27:21.870133+00:00",
   "schema_version": 1
 }
