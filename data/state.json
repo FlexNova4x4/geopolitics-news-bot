@@ -23506,6 +23506,14 @@
       "updated_at": "2026-10-29T04:21:42.869625+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss"
     },
+    "c743f8b921c36301e56dca78": {
+      "published_at": "2026-11-09T02:35:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "New NorthStar Engine Gives Blue Origin More Power For Future New Glenn Missions",
+      "updated_at": "2026-11-09T10:54:21.644714+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/new-northstar-engine-gives-blue-origin.html"
+    },
     "c788b34d1e8c41c01a9ba36f": {
       "published_at": "2026-10-25T14:31:15+00:00",
       "source": "thehindu.com",
@@ -30330,6 +30338,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T08:24:28.361569+00:00",
+  "last_cycle_at": "2026-11-09T10:54:21.648173+00:00",
   "schema_version": 1
 }
