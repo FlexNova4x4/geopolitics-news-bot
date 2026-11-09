@@ -19866,9 +19866,10 @@
     "aa995002a58d83141375e610": {
       "published_at": "2026-11-09T05:47:46+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13592,
       "title": "Rajnath Singh reviews Sukna preparedness and urges vigilance",
-      "updated_at": "2026-11-09T06:27:55.430475+00:00",
+      "updated_at": "2026-11-09T06:27:58.047101+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/rajnath-singh-reviews-sukna-preparedness-and-urges-vigilance/135672517"
     },
     "aa9b32d9414bf9a6f29fb5c0": {
@@ -30320,6 +30321,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T06:27:55.434846+00:00",
+  "last_cycle_at": "2026-11-09T06:28:01.250700+00:00",
   "schema_version": 1
 }
