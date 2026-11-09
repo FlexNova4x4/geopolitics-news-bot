@@ -23581,9 +23581,10 @@
     "c814d23bf5461d7af9b7e933": {
       "published_at": "2026-11-09T07:57:44+00:00",
       "source": "Livefist Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13593,
       "title": "‘Bad Decision’: Ex-IAF Chief Slams HAL For Bypassing Local Uttam Radar On Tejas Mk1A",
-      "updated_at": "2026-11-09T08:24:20.756016+00:00",
+      "updated_at": "2026-11-09T08:24:25.157931+00:00",
       "url": "https://www.livefistdefence.com/bad-decision-ex-iaf-chief-slams-hal-for-bypassing-local-uttam-radar-on-tejas-mk1a"
     },
     "c819abece4e4453075cea224": {
@@ -30329,6 +30330,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T08:24:20.759102+00:00",
+  "last_cycle_at": "2026-11-09T08:24:28.361569+00:00",
   "schema_version": 1
 }
