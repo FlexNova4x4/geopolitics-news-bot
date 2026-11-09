@@ -23509,9 +23509,10 @@
     "c743f8b921c36301e56dca78": {
       "published_at": "2026-11-09T02:35:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13595,
       "title": "New NorthStar Engine Gives Blue Origin More Power For Future New Glenn Missions",
-      "updated_at": "2026-11-09T10:54:21.644714+00:00",
+      "updated_at": "2026-11-09T10:54:25.775756+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/new-northstar-engine-gives-blue-origin.html"
     },
     "c788b34d1e8c41c01a9ba36f": {
@@ -30338,6 +30339,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T10:54:21.648173+00:00",
+  "last_cycle_at": "2026-11-09T10:54:28.979429+00:00",
   "schema_version": 1
 }
