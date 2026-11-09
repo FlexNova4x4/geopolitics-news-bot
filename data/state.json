@@ -768,9 +768,10 @@
     "0605b50d5b27560b8c042ff3": {
       "published_at": "2026-11-09T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13580,
       "title": "Russia Keeps Su-57E Export Push Alive Despite India’s Rejection",
-      "updated_at": "2026-11-09T06:26:21.235128+00:00",
+      "updated_at": "2026-11-09T06:26:24.333201+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/russia-keeps-su-57e-export-push-alive.html"
     },
     "06275aa865466e5b1644448d": {
@@ -16278,9 +16279,10 @@
     "8baef52647dfad50c1d3534a": {
       "published_at": "2026-11-09T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13582,
       "title": "IAF Chief Celebrates Diwali With Frontline Air Warriors at Forward Air Base",
-      "updated_at": "2026-11-09T06:26:21.235147+00:00",
+      "updated_at": "2026-11-09T06:26:32.523193+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iaf-chief-celebrates-diwali-with.html"
     },
     "8bd501ff6870c87c0790a899": {
@@ -27185,9 +27187,10 @@
     "e92f201c49a28f86e01d4a6f": {
       "published_at": "2026-11-09T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13583,
       "title": "Backpack-Portability Meets Precision: SYENA ASTRA-1 Delivers Long-Endurance Loitering Strike Capability",
-      "updated_at": "2026-11-09T06:26:21.235155+00:00",
+      "updated_at": "2026-11-09T06:26:36.654376+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/backpack-portability-meets-precision.html"
     },
     "e9520f70f2f81375a5967cc0": {
@@ -28443,9 +28446,10 @@
     "f3215fc84cc1f7537651671d": {
       "published_at": "2026-11-09T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13581,
       "title": "Security Forces Unearth Maoist Cache Containing Over 900 Detonators And Explosives Materials In Bijapur, Chhattisgarh",
-      "updated_at": "2026-11-09T06:26:21.235143+00:00",
+      "updated_at": "2026-11-09T06:26:28.449526+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/security-forces-unearth-maoist-cache.html"
     },
     "f3288c7bc28bf7125d68cb49": {
@@ -30236,6 +30240,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T06:26:21.238386+00:00",
+  "last_cycle_at": "2026-11-09T06:26:39.857927+00:00",
   "schema_version": 1
 }
