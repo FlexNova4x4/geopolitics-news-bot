@@ -5031,9 +5031,10 @@
     "2d280bec12b83be9ba3ddebc": {
       "published_at": "2026-11-09T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13575,
       "title": "Marco Rubio Says US-Iran Peace Talks Remain Deadlocked Amid 'Outrageous' Iranian Demands",
-      "updated_at": "2026-11-09T06:24:54.345035+00:00",
+      "updated_at": "2026-11-09T06:25:10.184511+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/marco-rubio-says-us-iran-peace-talks.html"
     },
     "2d2824d82af7bb7e341611e4": {
@@ -9581,9 +9582,10 @@
     "53ef0e180417efbabd6bf87a": {
       "published_at": "2026-11-09T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13572,
       "title": "Israel President To Hand Government Formation Mandate To Eisenkot As New Knesset Prepares For Swearing-In",
-      "updated_at": "2026-11-09T06:24:54.345013+00:00",
+      "updated_at": "2026-11-09T06:24:57.818162+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/israel-president-to-hand-government.html"
     },
     "54010e89ed3e735dab04e829": {
@@ -11691,9 +11693,10 @@
     "660ed006c84d7809226a58de": {
       "published_at": "2026-11-09T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13574,
       "title": "Diwali Greetings Pour In From UK, Israel And Italy",
-      "updated_at": "2026-11-09T06:24:54.345032+00:00",
+      "updated_at": "2026-11-09T06:25:06.088994+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/diwali-greetings-pour-in-from-uk-israel.html"
     },
     "662be6236a873ed8a6983fb3": {
@@ -18434,9 +18437,10 @@
     "9e1e008c3bce418a2215154b": {
       "published_at": "2026-11-09T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13573,
       "title": "Eisenkot Vows New Era Of Unity And Zionism After Receiving Formal Mandate To Form Israel's Next Government",
-      "updated_at": "2026-11-09T06:24:54.345028+00:00",
+      "updated_at": "2026-11-09T06:25:01.918666+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eisenkot-vows-new-era-of-unity-and.html"
     },
     "9e3bfb5f97aac0942e1a92e4": {
@@ -30164,6 +30168,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T06:24:54.348634+00:00",
+  "last_cycle_at": "2026-11-09T06:25:13.388139+00:00",
   "schema_version": 1
 }
