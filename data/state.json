@@ -6881,6 +6881,14 @@
       "updated_at": "2026-10-27T07:06:07.491450+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/sirmour/aayush-sivir-in-trilokpur-nahan-news-c-177-1-nhn1006-192565-2026-10-26"
     },
+    "3c6b1ac007ed785aad4b1fe4": {
+      "published_at": "2026-11-09T05:43:44+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "RTX scouts German suppliers for Tomahawk missile push",
+      "updated_at": "2026-11-09T06:27:31.823525+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/rtx-scouts-german-suppliers-for-tomahawk-missile-push/135672417"
+    },
     "3cba3386d1189671b69c9148": {
       "published_at": "2026-10-30T04:36:06+00:00",
       "source": "Indian Defence News",
@@ -11250,6 +11258,14 @@
       "updated_at": "2026-10-26T13:40:36.733756+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/239-vulnerable-areas-identified-in-cuddalore-district/article71625876.ece"
     },
+    "614c29bb2a5784528cc67169": {
+      "published_at": "2026-11-09T05:46:20+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "IAF’s Gajraj sets record with high-altitude landing in Ladakh",
+      "updated_at": "2026-11-09T06:27:31.823529+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/iafs-gajraj-sets-record-with-high-altitude-landing-in-ladakh/135672488"
+    },
     "615edb8afb43a7891fa20267": {
       "published_at": "2026-10-27T10:13:01+00:00",
       "source": "hindustantimes.com",
@@ -14513,6 +14529,14 @@
       "updated_at": "2026-10-26T09:14:37.551857+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/mandi/dharampur-kotli-road-accident-tipper-falls-200-metres-driver-dies-2026-10-26"
     },
+    "7c7c84e9b29cbee56ac93adf": {
+      "published_at": "2026-11-09T05:42:37+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "BAE Systems unveils shipping container-mountable naval guns",
+      "updated_at": "2026-11-09T06:27:31.823511+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/bae-systems-unveils-shipping-container-mountable-naval-guns/135672398"
+    },
     "7cb6939ad55d89e5fafe8506": {
       "published_at": "2026-10-26T01:45:30+00:00",
       "source": "thehindu.com",
@@ -17427,6 +17451,14 @@
       "title": "Solar Defence Exports 1,000 Guided Pinaka Rockets To Armenia In Major Defence Milestone",
       "updated_at": "2026-11-05T06:47:10.552904+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/solar-defence-exports-1000-guided.html"
+    },
+    "95643bf9304066000e8b69c1": {
+      "published_at": "2026-11-09T05:46:59+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Cold War bomber gets a hypersonic upgrade",
+      "updated_at": "2026-11-09T06:27:31.823532+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/cold-war-bomber-gets-a-hypersonic-upgrade/135672507"
     },
     "95695fd4f9f797a4252cb692": {
       "published_at": "2026-10-27T01:46:38+00:00",
@@ -30276,6 +30308,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T06:27:21.870133+00:00",
+  "last_cycle_at": "2026-11-09T06:27:31.826611+00:00",
   "schema_version": 1
 }
