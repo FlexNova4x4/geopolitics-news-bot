@@ -5028,6 +5028,14 @@
       "updated_at": "2026-10-30T01:45:41.108724+00:00",
       "url": "https://www.hindustantimes.com/india-news/a-killing-two-villages-and-a-new-fault-line-in-manipur-101793321794040.html"
     },
+    "2d280bec12b83be9ba3ddebc": {
+      "published_at": "2026-11-09T03:54:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Marco Rubio Says US-Iran Peace Talks Remain Deadlocked Amid 'Outrageous' Iranian Demands",
+      "updated_at": "2026-11-09T06:24:54.345035+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/marco-rubio-says-us-iran-peace-talks.html"
+    },
     "2d2824d82af7bb7e341611e4": {
       "published_at": "2026-10-26T19:52:33+00:00",
       "source": "publish.tribuneindia.com",
@@ -9570,6 +9578,14 @@
       "updated_at": "2026-10-26T13:35:18.419078+00:00",
       "url": "https://www.thehindu.com/news/national/congress-leader-seeks-action-against-chief-secretaries-of-six-states-for-skipping-pac-hearing/article71620836.ece"
     },
+    "53ef0e180417efbabd6bf87a": {
+      "published_at": "2026-11-09T03:54:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Israel President To Hand Government Formation Mandate To Eisenkot As New Knesset Prepares For Swearing-In",
+      "updated_at": "2026-11-09T06:24:54.345013+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/israel-president-to-hand-government.html"
+    },
     "54010e89ed3e735dab04e829": {
       "published_at": "2026-10-29T12:56:14+00:00",
       "source": "thehindu.com",
@@ -11671,6 +11687,14 @@
       "title": "Maharashtra CM responds positively to Telangana’s request for 152-metre Tummidihatti barrage",
       "updated_at": "2026-10-26T10:44:18.710363+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/maharashtra-cm-responds-positively-to-telanganas-request-for-152-metre-tummidihatti-barrage/article71626235.ece"
+    },
+    "660ed006c84d7809226a58de": {
+      "published_at": "2026-11-09T03:54:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Diwali Greetings Pour In From UK, Israel And Italy",
+      "updated_at": "2026-11-09T06:24:54.345032+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/diwali-greetings-pour-in-from-uk-israel.html"
     },
     "662be6236a873ed8a6983fb3": {
       "published_at": "2026-10-26T11:39:12+00:00",
@@ -18406,6 +18430,14 @@
       "title": "Western Command to hold mechanisation technology seminar at Chandimandir on December 14-15",
       "updated_at": "2026-10-26T13:36:48.159301+00:00",
       "url": "https://www.tribuneindia.com/news/india/western-command-to-hold-mechanisation-technology-seminar-at-chandimandir-on-december-14-15"
+    },
+    "9e1e008c3bce418a2215154b": {
+      "published_at": "2026-11-09T03:54:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Eisenkot Vows New Era Of Unity And Zionism After Receiving Formal Mandate To Form Israel's Next Government",
+      "updated_at": "2026-11-09T06:24:54.345028+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/eisenkot-vows-new-era-of-unity-and.html"
     },
     "9e3bfb5f97aac0942e1a92e4": {
       "published_at": "2026-10-29T15:44:45+00:00",
@@ -30132,6 +30164,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-08T10:59:06.969802+00:00",
+  "last_cycle_at": "2026-11-09T06:24:54.348634+00:00",
   "schema_version": 1
 }
