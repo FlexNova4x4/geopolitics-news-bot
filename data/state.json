@@ -1380,9 +1380,10 @@
     "0b9ebf3ec574e8900c37e7bc": {
       "published_at": "2026-11-09T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13576,
       "title": "Canadian Prime Minister Mark Carney Says Diwali Reflects Light, Hope and Shared Values Across Canada",
-      "updated_at": "2026-11-09T06:25:33.256878+00:00",
+      "updated_at": "2026-11-09T06:25:36.864857+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/canadian-prime-minister-mark-carney.html"
     },
     "0be9a1c407ca045534a1bfd5": {
@@ -4123,9 +4124,10 @@
     "239d1f30d37f9c398d418bbd": {
       "published_at": "2026-11-09T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13578,
       "title": "Indian Start-Up Aerolaunch India Carries CarzSpa Paint Protection Film to Near-Space Altitude of 21 Km",
-      "updated_at": "2026-11-09T06:25:33.256896+00:00",
+      "updated_at": "2026-11-09T06:25:45.049342+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-start-up-aerolaunch-india.html"
     },
     "23a6b1a9ced838532696dc10": {
@@ -20817,9 +20819,10 @@
     "b2cf3cc8d2dc5110621e294f": {
       "published_at": "2026-11-09T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13579,
       "title": "Indian Seafarers Safely Evacuated From Yemen After Two-Week Ordeal",
-      "updated_at": "2026-11-09T06:25:33.256900+00:00",
+      "updated_at": "2026-11-09T06:25:49.138625+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-seafarers-safely-evacuated-from.html"
     },
     "b2d1b80f0226163c3ff32e9f": {
@@ -21950,9 +21953,10 @@
     "bb513cf4e7776f69af1c6ba1": {
       "published_at": "2026-11-09T03:54:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13577,
       "title": "Emmanuel Macron, Anthony Albanese Extend Diwali Greetings, Calls For Unity, Peace And Hope",
-      "updated_at": "2026-11-09T06:25:33.256893+00:00",
+      "updated_at": "2026-11-09T06:25:40.938465+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/emmanuel-macron-anthony-albanese-extend.html"
     },
     "bb6bb539bd0d678995e322e4": {
@@ -30200,6 +30204,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-09T06:25:33.259980+00:00",
+  "last_cycle_at": "2026-11-09T06:25:52.342179+00:00",
   "schema_version": 1
 }
