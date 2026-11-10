@@ -3620,9 +3620,10 @@
     "1f11f12ee89c5d726ab56e01": {
       "published_at": "2026-11-10T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13601,
       "title": "'Biggest Oil Deal In World History': JD Vance Says US Gains Majority Control of Venezuelan Reserves Amid Energy Expansion",
-      "updated_at": "2026-11-10T07:16:16.764369+00:00",
+      "updated_at": "2026-11-10T07:16:24.210386+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/biggest-oil-deal-in-world-history-jd.html"
     },
     "1f4bee06e2b5fa2cf7ec1b97": {
@@ -9043,9 +9044,10 @@
     "4f0c2244d7208b44e2f1b5a3": {
       "published_at": "2026-11-10T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13602,
       "title": "IRGC Claims 260 US Aircraft Downed And Seven Reconnaissance Drones Captured As Iran Expands Underground Arms Production",
-      "updated_at": "2026-11-10T07:16:16.764373+00:00",
+      "updated_at": "2026-11-10T07:16:28.200012+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/irgc-claims-260-us-aircraft-downed-and.html"
     },
     "4f188aa53abfa58b648b7894": {
@@ -13282,9 +13284,10 @@
     "72558f4da7cf3de250ef7404": {
       "published_at": "2026-11-10T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13603,
       "title": "Fresh Collapse Halts Work At Tarbela-5 Hydropower Project In Pakistan Amid Growing Questions Over Chinese-Linked Construction Failures",
-      "updated_at": "2026-11-10T07:16:16.764375+00:00",
+      "updated_at": "2026-11-10T07:16:32.177440+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/fresh-collapse-halts-work-at-tarbela-5.html"
     },
     "7273336d556c6ef3b6a36c77": {
@@ -23839,9 +23842,10 @@
     "ca90a3d51ff9b0db23de8ef8": {
       "published_at": "2026-11-10T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13600,
       "title": "Trump Inside White House As Car Crashes Near Lafayette Park, Prompting Security Lockdown",
-      "updated_at": "2026-11-10T07:16:16.764348+00:00",
+      "updated_at": "2026-11-10T07:16:20.192035+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trump-inside-white-house-as-car-crashes.html"
     },
     "caa7e24606af0a6925293452": {
@@ -30371,6 +30375,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-10T07:16:16.766799+00:00",
+  "last_cycle_at": "2026-11-10T07:16:35.382252+00:00",
   "schema_version": 1
 }
