@@ -5247,9 +5247,10 @@
     "2dddc840ca3edd9af172fa20": {
       "published_at": "2026-11-10T05:43:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13611,
       "title": "India-France Strategic Talks Focus On Space, Critical Technologies And Supply Chain Resilience",
-      "updated_at": "2026-11-10T07:18:12.635384+00:00",
+      "updated_at": "2026-11-10T07:18:28.133226+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-france-strategic-talks-focus-on.html"
     },
     "2deab6e0a04986f423b829f8": {
@@ -10947,9 +10948,10 @@
     "5d968e6a344ce48f7a71a073": {
       "published_at": "2026-11-10T05:42:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13610,
       "title": "L&T Delivers Fourth Crew Escape Shroud Set For Gaganyaan-2 Mission From Coimbatore Facility",
-      "updated_at": "2026-11-10T07:18:12.635382+00:00",
+      "updated_at": "2026-11-10T07:18:24.054926+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/l-delivers-fourth-crew-escape-shroud.html"
     },
     "5dbe267e2f70d5376a2d8caf": {
@@ -13543,9 +13545,10 @@
     "743cd7c05e90cc1d407eeef6": {
       "published_at": "2026-11-10T05:08:15+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13609,
       "title": "DRDO Launches Indigenous Acoustic Drone Detection System Development Initiative",
-      "updated_at": "2026-11-10T07:18:12.635380+00:00",
+      "updated_at": "2026-11-10T07:18:20.245599+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/drdo-launches-indigenous-acoustic-drone.html"
     },
     "7441ccb3f95a2759461ce73c": {
@@ -20375,9 +20378,10 @@
     "adc39c7fd1d6fc0267ec4185": {
       "published_at": "2026-11-10T05:01:41+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13608,
       "title": "Dhruva Space Emerges As Lowest Bidder For DRDO's LEO And Terrestrial IoT Communications Project",
-      "updated_at": "2026-11-10T07:18:12.635361+00:00",
+      "updated_at": "2026-11-10T07:18:16.227914+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/dhruva-space-emerges-as-lowest-bidder.html"
     },
     "adc596c2dbae0efbd0575394": {
@@ -30443,6 +30447,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-10T07:18:12.637956+00:00",
+  "last_cycle_at": "2026-11-10T07:18:31.336502+00:00",
   "schema_version": 1
 }
