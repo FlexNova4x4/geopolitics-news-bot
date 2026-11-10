@@ -3458,9 +3458,10 @@
     "1d929ad9abb1c8e407f8bfd8": {
       "published_at": "2026-11-10T05:45:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13612,
       "title": "EAM Jaishankar, Lavrov Discuss Ukraine Conflict As India Pushes Diplomatic Efforts For Peace",
-      "updated_at": "2026-11-10T07:18:39.392739+00:00",
+      "updated_at": "2026-11-10T07:18:42.386922+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eam-jaishankar-lavrov-discuss-ukraine.html"
     },
     "1da737e52ac2a0302b1c0a85": {
@@ -24615,9 +24616,10 @@
     "d0962045663cebaaacde4806": {
       "published_at": "2026-11-10T05:46:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13613,
       "title": "India-EU Advance FTA Talks, Supply Chain Resilience And Economic Security At Delhi Strategic Review",
-      "updated_at": "2026-11-10T07:18:39.392758+00:00",
+      "updated_at": "2026-11-10T07:18:46.433505+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-eu-advance-fta-talks-supply-chain.html"
     },
     "d0b2f32fda4086864b28b74f": {
@@ -27545,9 +27547,10 @@
     "eac31ce946d1836c815a3141": {
       "published_at": "2026-11-10T05:47:32+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13614,
       "title": "Ex-IAF Chief Bhadauria Flags HAL’s Deferral of Uttam Radar Integration For TEJAS MK-1A Amid Fighter Fleet Debate",
-      "updated_at": "2026-11-10T07:18:39.392761+00:00",
+      "updated_at": "2026-11-10T07:18:50.564611+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/ex-iaf-chief-bhadauria-flags-hals.html"
     },
     "ead83328e8799898ade44649": {
@@ -30471,6 +30474,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-10T07:18:39.395744+00:00",
+  "last_cycle_at": "2026-11-10T07:18:53.768387+00:00",
   "schema_version": 1
 }
