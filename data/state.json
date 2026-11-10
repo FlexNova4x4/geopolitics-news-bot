@@ -12296,9 +12296,10 @@
     "6a74ce15dc259908517ed810": {
       "published_at": "2026-11-10T08:32:45+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13617,
       "title": "US removes military aircraft from UK base amid escalating Iran tensions",
-      "updated_at": "2026-11-10T09:46:00.420933+00:00",
+      "updated_at": "2026-11-10T09:46:07.824174+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/us-removes-military-aircraft-from-uk-base-amid-escalating-iran-tensions/135704949"
     },
     "6a7b3fd69ceb0551ff4a4945": {
@@ -19136,9 +19137,10 @@
     "a2ece0744ba38b987ae57e74": {
       "published_at": "2026-11-10T08:34:28+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13618,
       "title": "AAIB pushes for tighter civil-defence data sharing after Dabolim runway scare",
-      "updated_at": "2026-11-10T09:46:00.420936+00:00",
+      "updated_at": "2026-11-10T09:46:11.880072+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/research-security/aaib-pushes-for-tighter-civil-defence-data-sharing-after-dabolim-runway-scare/135705025"
     },
     "a305795c0eb48a0da10f3915": {
@@ -20062,9 +20064,10 @@
     "aad4b98dd703a0782889d0a6": {
       "published_at": "2026-11-10T08:31:34+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13616,
       "title": "Army adds robotic pack animals to harden Akhnoor border watch",
-      "updated_at": "2026-11-10T09:46:00.420917+00:00",
+      "updated_at": "2026-11-10T09:46:03.738997+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/army-adds-robotic-pack-animals-to-harden-akhnoor-border-watch/135704893"
     },
     "aad5348a3ccc090174484751": {
@@ -30507,6 +30510,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-10T09:46:00.432364+00:00",
+  "last_cycle_at": "2026-11-10T09:46:15.083266+00:00",
   "schema_version": 1
 }
