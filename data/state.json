@@ -11280,9 +11280,10 @@
     "6145197e54e3b4de1b1916d9": {
       "published_at": "2026-11-10T05:01:07+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13607,
       "title": "Four Firms Clear DRDO Technical Evaluation For High-Purity SiC Source Powder Development",
-      "updated_at": "2026-11-10T07:16:54.871612+00:00",
+      "updated_at": "2026-11-10T07:17:10.140302+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/four-firms-clear-drdo-technical.html"
     },
     "614c29bb2a5784528cc67169": {
@@ -14362,9 +14363,10 @@
     "7a98840a06c1e25366f1258c": {
       "published_at": "2026-11-10T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13605,
       "title": "PM Modi Reaffirms India’s Support For Peaceful Resolution In Call With Zelenskyy",
-      "updated_at": "2026-11-10T07:16:54.871607+00:00",
+      "updated_at": "2026-11-10T07:17:01.893341+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pm-modi-reaffirms-indias-support-for.html"
     },
     "7aac1bc4340066498ab38d30": {
@@ -15161,9 +15163,10 @@
     "827ec0491f9b1c48bb90865c": {
       "published_at": "2026-11-10T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13604,
       "title": "Leaked Russian Death Records Suggest Up To 4,50,000 Fatalities In Ukraine War",
-      "updated_at": "2026-11-10T07:16:54.871586+00:00",
+      "updated_at": "2026-11-10T07:16:57.894325+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/leaked-russian-death-records-suggest-up.html"
     },
     "829be2a70b156779d4e5d045": {
@@ -19080,9 +19083,10 @@
     "a305795c0eb48a0da10f3915": {
       "published_at": "2026-11-10T04:39:48+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13606,
       "title": "SplashBI Expands Hyderabad Presence With New GCC And US$4 Million AI Data Centre Investment",
-      "updated_at": "2026-11-10T07:16:54.871610+00:00",
+      "updated_at": "2026-11-10T07:17:05.986406+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/splashbi-expands-hyderabad-presence.html"
     },
     "a30c5ace461e48bb862b9b74": {
@@ -30407,6 +30411,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-10T07:16:54.875262+00:00",
+  "last_cycle_at": "2026-11-10T07:17:13.343553+00:00",
   "schema_version": 1
 }
