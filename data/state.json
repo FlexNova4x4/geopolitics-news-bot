@@ -5244,6 +5244,14 @@
       "updated_at": "2026-10-29T11:30:46.057882+00:00",
       "url": "https://www.amarujala.com/shimla/hp-big-news-weather-update-karwa-chauth-crowd-chitta-seized-from-a-car-outrage-over-high-priced-plots-2026-10-29"
     },
+    "2dddc840ca3edd9af172fa20": {
+      "published_at": "2026-11-10T05:43:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India-France Strategic Talks Focus On Space, Critical Technologies And Supply Chain Resilience",
+      "updated_at": "2026-11-10T07:18:12.635384+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/india-france-strategic-talks-focus-on.html"
+    },
     "2deab6e0a04986f423b829f8": {
       "published_at": "2026-11-06T03:55:00+00:00",
       "source": "Indian Defence News",
@@ -10936,6 +10944,14 @@
       "updated_at": "2026-10-29T06:40:16.138512+00:00",
       "url": "https://www.tribuneindia.com/news/delhi/delhi-to-host-1st-chinese-film-festival"
     },
+    "5d968e6a344ce48f7a71a073": {
+      "published_at": "2026-11-10T05:42:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "L&T Delivers Fourth Crew Escape Shroud Set For Gaganyaan-2 Mission From Coimbatore Facility",
+      "updated_at": "2026-11-10T07:18:12.635382+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/l-delivers-fourth-crew-escape-shroud.html"
+    },
     "5dbe267e2f70d5376a2d8caf": {
       "published_at": "2026-10-29T10:18:59+00:00",
       "source": "thehindu.com",
@@ -13523,6 +13539,14 @@
       "title": "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
       "updated_at": "2026-10-29T05:42:36.273571+00:00",
       "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/dvac-launches-search-at-ex-minister-kn-nehrus-residence-in-tiruchi/article71638830.ece"
+    },
+    "743cd7c05e90cc1d407eeef6": {
+      "published_at": "2026-11-10T05:08:15+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "DRDO Launches Indigenous Acoustic Drone Detection System Development Initiative",
+      "updated_at": "2026-11-10T07:18:12.635380+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/drdo-launches-indigenous-acoustic-drone.html"
     },
     "7441ccb3f95a2759461ce73c": {
       "published_at": "2026-10-30T01:17:07+00:00",
@@ -20347,6 +20371,14 @@
       "title": "Israel elections 2026: Benjamin Netanyahu is down but not out",
       "updated_at": "2026-10-29T08:46:04.827570+00:00",
       "url": "https://www.thehindu.com/news/international/israel-election-2026-benjamin-netanyahu-is-down-but-not-out/article71639548.ece"
+    },
+    "adc39c7fd1d6fc0267ec4185": {
+      "published_at": "2026-11-10T05:01:41+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Dhruva Space Emerges As Lowest Bidder For DRDO's LEO And Terrestrial IoT Communications Project",
+      "updated_at": "2026-11-10T07:18:12.635361+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/dhruva-space-emerges-as-lowest-bidder.html"
     },
     "adc596c2dbae0efbd0575394": {
       "published_at": "2026-10-27T08:19:21+00:00",
@@ -30411,6 +30443,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-10T07:17:13.343553+00:00",
+  "last_cycle_at": "2026-11-10T07:18:12.637956+00:00",
   "schema_version": 1
 }
