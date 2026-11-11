@@ -12179,9 +12179,10 @@
     "68c4ac95b88c02ea8503a038": {
       "published_at": "2026-11-11T10:33:53+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13645,
       "title": "3rd India-Moldova Foreign Office Consultations (November 11, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-11T10:45:14.010124+00:00",
+      "updated_at": "2026-11-11T10:45:17.672190+00:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTEtRTVBNQ25MRzZ5LVZUcEdaRjRBdGdaQ0JzMVE3SE1pSWVYbnVwclMwdmFPSFI5cG83djNWd0U1NEJ0aDVUdFdIVFlzU2s1ZmRab3RoRmFTbUxFdWZOLXRWREdoWTdoRkNMalpHTXkzQ09MM3hOTlNESE01RzFxaloybm8wRjBrbnZaeWRVWkt2ZXhvN3l5Vm5QZGRwdWxfeUxsRUpfU29yYVExREg4?oc=5"
     },
     "68e7b909ab5f553637cb1d10": {
@@ -30698,6 +30699,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-11T10:45:14.012898+00:00",
+  "last_cycle_at": "2026-11-11T10:45:20.875361+00:00",
   "schema_version": 1
 }
