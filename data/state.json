@@ -11442,9 +11442,10 @@
     "62363c6dea0bd2eb4f5183f6": {
       "published_at": "2026-11-11T04:50:52+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13643,
       "title": "US watchdog finds $85m in missing F-35 parts as Morocco eyes the jet",
-      "updated_at": "2026-11-11T06:17:20.683984+00:00",
+      "updated_at": "2026-11-11T06:17:32.101995+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/us-watchdog-finds-85m-in-missing-f-35-parts-as-morocco-eyes-the-jet/135726230"
     },
     "624db8d33cbd1c4d89fca2bf": {
@@ -12277,9 +12278,10 @@
     "69ccd5aa040721abb3d7ab81": {
       "published_at": "2026-11-11T04:50:15+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13642,
       "title": "BAE Systems speeds up LRASM sensor deliveries",
-      "updated_at": "2026-11-11T06:17:20.683981+00:00",
+      "updated_at": "2026-11-11T06:17:28.004797+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/bae-systems-speeds-up-lrasm-sensor-deliveries/135726203"
     },
     "69e058644fe1149428252c0f": {
@@ -13336,9 +13338,10 @@
     "71ad4e04d10bfb24ad2f8a9c": {
       "published_at": "2026-11-11T04:48:24+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13641,
       "title": "China's jet engine powers Russia's deadly Geran-5: should India worry if similar tech reaches Pakistan?",
-      "updated_at": "2026-11-11T06:17:20.683966+00:00",
+      "updated_at": "2026-11-11T06:17:23.870666+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/chinas-jet-engine-powers-russias-deadly-geran-5-should-india-worry-if-similar-tech-reaches-pakistan/135726153"
     },
     "71db2c665ed2bc4a44947583": {
@@ -30687,6 +30690,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-11T06:17:20.695804+00:00",
+  "last_cycle_at": "2026-11-11T06:17:35.305228+00:00",
   "schema_version": 1
 }
