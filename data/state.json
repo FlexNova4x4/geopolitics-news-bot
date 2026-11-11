@@ -19245,9 +19245,10 @@
     "a2d5cb7e324d01762c00e5ea": {
       "published_at": "2026-11-11T19:34:36+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13648,
       "title": "EAM’s remarks at the launch of the 19th PBD website (November 11, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-11T23:04:34.838978+00:00",
+      "updated_at": "2026-11-11T23:04:38.567671+00:00",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzhYcHgtTnBfeFdjakhpZ2JXQlY1NlRXNlV5UlpSZ0lNRlZXOTUyLXM0aW1VNXBrV25RNVg2eVRRWm9uQVV0Y2swMkkzSzBOQkZoX2Zza0pPSkVyb1hnT0pHZ0pLNUZmcjVJbElmS3hhS25CdFloUkdFUDNjQ2Z5RTZaY0pXSVI1MEJTSFNEZVhaUHZRLXI0RFZrRmdjRHRKa0cyRmRUMTMxWk0wb19lRk54LXF3S01iOTZueQ?oc=5"
     },
     "a2dfd95d0b7e14d405ede880": {
@@ -30707,6 +30708,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-11T23:04:34.843622+00:00",
+  "last_cycle_at": "2026-11-11T23:04:41.770808+00:00",
   "schema_version": 1
 }
