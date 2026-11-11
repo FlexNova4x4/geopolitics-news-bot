@@ -15457,6 +15457,14 @@
       "updated_at": "2026-10-26T05:22:29.807987+00:00",
       "url": "https://www.dawn.com/news/2039850/khuhro-rules-out-possibility-of-any-new-province-in-sindh"
     },
+    "840670ee6fa62c53dd116cf6": {
+      "published_at": "2026-11-11T04:09:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Raman-1 Thruster Passes Hot Fire Trial in Readiness For Vikram-1 Second Mission",
+      "updated_at": "2026-11-11T06:16:52.958054+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/raman-1-thruster-passes-hot-fire-trial.html"
+    },
     "8410832ab8890106f188d049": {
       "published_at": "2026-11-11T03:55:00+00:00",
       "source": "Indian Defence News",
@@ -23254,6 +23262,14 @@
       "updated_at": "2026-11-03T16:42:10.258202+00:00",
       "url": "https://thediplomat.com/2026/11/indonesias-navy-is-growing-is-its-combat-power-keeping-up"
     },
+    "c2c5641fd05fff38fd5faadf": {
+      "published_at": "2026-11-11T04:10:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India’s Ocean Lifeline: Why the Strait of Malacca Holds The Key To Its Energy and Economic Security",
+      "updated_at": "2026-11-11T06:16:52.958069+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indias-ocean-lifeline-why-strait-of.html"
+    },
     "c2fdb31c7e76de48df57a9bd": {
       "published_at": "2026-10-29T18:03:39+00:00",
       "source": "publish.tribuneindia.com",
@@ -23343,6 +23359,14 @@
       "title": "Pakistan rejects Afghan Taliban's claims of civilian casualties in counterterrorism operations",
       "updated_at": "2026-10-26T10:46:58.438262+00:00",
       "url": "https://www.dawn.com/news/2039958/pakistan-rejects-afghan-talibans-claims-of-civilian-casualties-in-counterterrorism-operations"
+    },
+    "c36ab86e826abdb055cf2ea8": {
+      "published_at": "2026-11-11T04:46:37+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "India and Oman kick off naval drill in the Arabian Sea",
+      "updated_at": "2026-11-11T06:16:52.958075+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/india-and-oman-kick-off-naval-drill-in-the-arabian-sea/135726095"
     },
     "c36ad6347a250b24af4d36b4": {
       "published_at": "2026-10-25T16:08:45+00:00",
@@ -29468,6 +29492,14 @@
       "updated_at": "2026-11-01T07:32:47.456567+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-first-fusion-power-company.html"
     },
+    "f78566ccdb46433081ed196c": {
+      "published_at": "2026-11-11T04:10:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "China Unveils Closer Look At GJ-11 Stealth Combat Drone In New Official Footage",
+      "updated_at": "2026-11-11T06:16:52.958072+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/china-unveils-closer-look-at-gj-11.html"
+    },
     "f7a5b8c98d936ff6be3d9fef": {
       "published_at": "2026-10-27T03:58:13+00:00",
       "source": "publish.tribuneindia.com",
@@ -30627,6 +30659,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-11T06:16:37.782276+00:00",
+  "last_cycle_at": "2026-11-11T06:16:52.960895+00:00",
   "schema_version": 1
 }
