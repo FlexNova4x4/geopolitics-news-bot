@@ -11676,9 +11676,10 @@
     "6499ab9ac9d6028f6b7ff849": {
       "published_at": "2026-11-11T03:59:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13632,
       "title": "India-US Ties Enjoy Bipartisan Backing Despite US Midterm Political Upheaval",
-      "updated_at": "2026-11-11T06:15:54.023032+00:00",
+      "updated_at": "2026-11-11T06:16:09.507130+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-us-ties-enjoy-bipartisan-backing.html"
     },
     "64a97563cb28ef1849dd8b62": {
@@ -14497,9 +14498,10 @@
     "7b25e7cd40495d676ad64a2e": {
       "published_at": "2026-11-11T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13629,
       "title": "Agnipath 2.0: What The Six-Year Agniveer Actually Takes Home",
-      "updated_at": "2026-11-11T06:15:54.023012+00:00",
+      "updated_at": "2026-11-11T06:15:57.253549+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/agnipath-20-what-six-year-agniveer.html"
     },
     "7b8ac08390a32740dcb00fdc": {
@@ -18400,9 +18402,10 @@
     "9bff536313d1853f6d583070": {
       "published_at": "2026-11-11T03:57:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13630,
       "title": "CRPF Eyes Kamikaze Drone Capability To Strengthen Counter-Terror Operations",
-      "updated_at": "2026-11-11T06:15:54.023027+00:00",
+      "updated_at": "2026-11-11T06:16:01.335293+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/crpf-eyes-kamikaze-drone-capability-to.html"
     },
     "9c1256f62827aae65fc065dd": {
@@ -24694,9 +24697,10 @@
     "d0722af443a9cfd41112bcac": {
       "published_at": "2026-11-11T03:58:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13631,
       "title": "Angry India Dismisses Khalistani Terrorist Pannun's Lawsuit As ‘Fabricated And Malicious’, Rejects Allegations Against Senior Officials",
-      "updated_at": "2026-11-11T06:15:54.023030+00:00",
+      "updated_at": "2026-11-11T06:16:05.425343+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/angry-india-dismisses-khalistani.html"
     },
     "d07bb31e3d4d6590d3db52cc": {
@@ -30587,6 +30591,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-11T06:15:54.025886+00:00",
+  "last_cycle_at": "2026-11-11T06:16:12.709951+00:00",
   "schema_version": 1
 }
