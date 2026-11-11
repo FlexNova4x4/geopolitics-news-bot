@@ -8999,9 +8999,10 @@
     "4dd0175a096ca9e136722f77": {
       "published_at": "2026-11-11T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13626,
       "title": "Opening of Space Sector To Private Players Creates New Opportunities For Young Talent, Helps Reduce Brain Drain: Dr Jitendra Singh",
-      "updated_at": "2026-11-11T06:15:27.246417+00:00",
+      "updated_at": "2026-11-11T06:15:35.030884+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/opening-of-space-sector-to-private.html"
     },
     "4e3de2377cfa722e0860eaef": {
@@ -15423,9 +15424,10 @@
     "8410832ab8890106f188d049": {
       "published_at": "2026-11-11T03:55:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13625,
       "title": "Assam Sets Out 3,750-Acre Defence Park Plan To Accelerate Defence Manufacturing Growth",
-      "updated_at": "2026-11-11T06:15:27.246401+00:00",
+      "updated_at": "2026-11-11T06:15:30.915987+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/assam-sets-out-3750-acre-defence-park.html"
     },
     "8413486b0800ccdbd5841e13": {
@@ -18946,9 +18948,10 @@
     "a176c46ba3ced591195c935c": {
       "published_at": "2026-11-11T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13628,
       "title": "DRDO Releases Security APIs Completing India’s Military Radio Standard",
-      "updated_at": "2026-11-11T06:15:27.246424+00:00",
+      "updated_at": "2026-11-11T06:15:43.173788+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/drdo-releases-security-apis-completing.html"
     },
     "a176d95bb554ebbd1769568e": {
@@ -22454,9 +22457,10 @@
     "bd479ff76e8601bdf990d1b7": {
       "published_at": "2026-11-11T03:56:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13627,
       "title": "TKMS And CFF Fluid Control Deepen India Underwater Defence Partnership With New Joint Venture",
-      "updated_at": "2026-11-11T06:15:27.246421+00:00",
+      "updated_at": "2026-11-11T06:15:39.103201+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/tkms-and-cff-fluid-control-deepen-india.html"
     },
     "bd5380a91e30b1c02d7bfbf4": {
@@ -30551,6 +30555,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-11T06:15:27.248589+00:00",
+  "last_cycle_at": "2026-11-11T06:15:46.376898+00:00",
   "schema_version": 1
 }
