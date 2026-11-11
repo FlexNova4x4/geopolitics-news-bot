@@ -15460,9 +15460,10 @@
     "840670ee6fa62c53dd116cf6": {
       "published_at": "2026-11-11T04:09:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13637,
       "title": "Raman-1 Thruster Passes Hot Fire Trial in Readiness For Vikram-1 Second Mission",
-      "updated_at": "2026-11-11T06:16:52.958054+00:00",
+      "updated_at": "2026-11-11T06:16:56.354028+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/raman-1-thruster-passes-hot-fire-trial.html"
     },
     "8410832ab8890106f188d049": {
@@ -23265,9 +23266,10 @@
     "c2c5641fd05fff38fd5faadf": {
       "published_at": "2026-11-11T04:10:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13638,
       "title": "India’s Ocean Lifeline: Why the Strait of Malacca Holds The Key To Its Energy and Economic Security",
-      "updated_at": "2026-11-11T06:16:52.958069+00:00",
+      "updated_at": "2026-11-11T06:17:00.474045+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-ocean-lifeline-why-strait-of.html"
     },
     "c2fdb31c7e76de48df57a9bd": {
@@ -23363,9 +23365,10 @@
     "c36ab86e826abdb055cf2ea8": {
       "published_at": "2026-11-11T04:46:37+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13640,
       "title": "India and Oman kick off naval drill in the Arabian Sea",
-      "updated_at": "2026-11-11T06:16:52.958075+00:00",
+      "updated_at": "2026-11-11T06:17:08.753546+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/india-and-oman-kick-off-naval-drill-in-the-arabian-sea/135726095"
     },
     "c36ad6347a250b24af4d36b4": {
@@ -29495,9 +29498,10 @@
     "f78566ccdb46433081ed196c": {
       "published_at": "2026-11-11T04:10:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13639,
       "title": "China Unveils Closer Look At GJ-11 Stealth Combat Drone In New Official Footage",
-      "updated_at": "2026-11-11T06:16:52.958072+00:00",
+      "updated_at": "2026-11-11T06:17:04.858782+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/china-unveils-closer-look-at-gj-11.html"
     },
     "f7a5b8c98d936ff6be3d9fef": {
@@ -30659,6 +30663,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-11T06:16:52.960895+00:00",
+  "last_cycle_at": "2026-11-11T06:17:11.956738+00:00",
   "schema_version": 1
 }
