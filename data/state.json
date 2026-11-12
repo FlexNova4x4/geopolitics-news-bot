@@ -12817,9 +12817,10 @@
     "6daee9438dec7b197db04c18": {
       "published_at": "2026-11-12T04:31:19+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13665,
       "title": "BEL Ready To Triple Missile Seeker Output As Demand Accelerates",
-      "updated_at": "2026-11-12T07:38:30.844562+00:00",
+      "updated_at": "2026-11-12T07:38:37.346053+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/bel-ready-to-triple-missile-seeker.html"
     },
     "6dcdc66103a457706f1d000e": {
@@ -14497,9 +14498,10 @@
     "7a48dfa7bd782811a5c91841": {
       "published_at": "2026-11-12T04:31:16+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13664,
       "title": "Philippines Eyes Indian Air Defence Systems To Shield Expanding BrahMos Missile Force",
-      "updated_at": "2026-11-12T07:38:30.844545+00:00",
+      "updated_at": "2026-11-12T07:38:33.395571+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/philippines-eyes-indian-air-defence.html"
     },
     "7a48f95e2d0a59a5acb7296a": {
@@ -25046,9 +25048,10 @@
     "d24bb253eff6b32b6e031c90": {
       "published_at": "2026-11-12T04:31:32+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13666,
       "title": "Private-Firm Missile Completes Second Successful Flight Trial From The Integrated Test Range",
-      "updated_at": "2026-11-12T07:38:30.844565+00:00",
+      "updated_at": "2026-11-12T07:38:41.250815+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/private-firm-missile-completes-second.html"
     },
     "d256f4dc7d1f9b8e2b5be4c0": {
@@ -30840,6 +30843,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-12T07:38:30.848477+00:00",
+  "last_cycle_at": "2026-11-12T07:38:44.455000+00:00",
   "schema_version": 1
 }
