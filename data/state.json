@@ -7835,6 +7835,14 @@
       "updated_at": "2026-11-05T06:47:02.681553+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/piersight-clears-key-structural-test.html"
     },
+    "43d07009ef680e1cec1d0b9c": {
+      "published_at": "2026-11-12T10:30:55+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Why India needs a public information framework for LAC flare-ups",
+      "updated_at": "2026-11-12T11:08:30.773472+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/why-india-needs-a-public-information-framework-for-lac-flare-ups/135765516"
+    },
     "43d8fc7f64f914a4f28aa358": {
       "published_at": "2026-10-27T06:23:10+00:00",
       "source": "hindustantimes.com",
@@ -8986,6 +8994,14 @@
       "title": "Supreme Court says 14 states agree to raise judicial officers’ retirement age to 62",
       "updated_at": "2026-10-26T07:45:06.515549+00:00",
       "url": "https://www.tribuneindia.com/news/india/supreme-court-says-14-states-agree-to-raise-judicial-officers-retirement-age-to-62"
+    },
+    "4d4aba72891251f1ceb72097": {
+      "published_at": "2026-11-12T10:32:15+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Why India’s defence start-ups need a clearer bridge from trials to orders",
+      "updated_at": "2026-11-12T11:08:30.773490+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/why-indias-defence-start-ups-need-a-clearer-bridge-from-trials-to-orders/135765549"
     },
     "4d51911fd4693094b9020e65": {
       "published_at": "2026-10-26T09:32:22+00:00",
@@ -30852,6 +30868,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-12T08:08:29.049947+00:00",
+  "last_cycle_at": "2026-11-12T11:08:30.777467+00:00",
   "schema_version": 1
 }
