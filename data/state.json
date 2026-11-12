@@ -11757,9 +11757,10 @@
     "64fba6fae0c35fa008d43329": {
       "published_at": "2026-11-12T04:30:29+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13659,
       "title": "Norwegian Journalist Who Heckled PM Modi In Oslo Denied Entry Into The Country",
-      "updated_at": "2026-11-12T07:09:17.385039+00:00",
+      "updated_at": "2026-11-12T07:09:32.115648+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/norwegian-journalist-who-heckled-pm.html"
     },
     "65053c0b0bf5eaa367864d8d": {
@@ -13059,9 +13060,10 @@
     "6f370d8cb12cfe9a9c59f04d": {
       "published_at": "2026-11-12T04:30:25+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13658,
       "title": "Indian Navy To Conduct Fifth Sea Vigil Exercise From 11 November, Covering Entire Coastline And EEZ",
-      "updated_at": "2026-11-12T07:09:17.385036+00:00",
+      "updated_at": "2026-11-12T07:09:28.344494+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-to-conduct-fifth-sea-vigil.html"
     },
     "6f3e96f353e18d3137072cf0": {
@@ -24776,9 +24778,10 @@
     "cfe5e9a10a10fa2ffe2b4729": {
       "published_at": "2026-11-12T04:29:49+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13656,
       "title": "Congressman-Elect Amish Shah Pledges To Tackle Anti-India Hate And Restore Congress' Tariff Authority",
-      "updated_at": "2026-11-12T07:09:17.385008+00:00",
+      "updated_at": "2026-11-12T07:09:20.418360+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/congressman-elect-amish-shah-pledges-to.html"
     },
     "cffa4a70e2ee6f0638af87ea": {
@@ -28506,9 +28509,10 @@
     "ef9907c04e18a81af2ef7881": {
       "published_at": "2026-11-12T04:30:17+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13657,
       "title": "India's Coastal Defence Capability Set For Major Boost As DRDO's Junput Test Range Takes Shape In West Bengal",
-      "updated_at": "2026-11-12T07:09:17.385032+00:00",
+      "updated_at": "2026-11-12T07:09:24.331803+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-coastal-defence-capability-set.html"
     },
     "ef996350f7a4e863c55aca6d": {
@@ -30776,6 +30780,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-12T07:09:17.389027+00:00",
+  "last_cycle_at": "2026-11-12T07:09:35.319537+00:00",
   "schema_version": 1
 }
