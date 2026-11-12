@@ -14543,9 +14543,10 @@
     "7aea2628767577383b90f779": {
       "published_at": "2026-11-12T04:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13654,
       "title": "Adani's Kutch Copper, Chile's Codelco Forge Strategic Partnership To Strengthen India's Copper Security",
-      "updated_at": "2026-11-12T07:08:49.677759+00:00",
+      "updated_at": "2026-11-12T07:09:00.397439+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/adanis-kutch-copper-chiles-codelco.html"
     },
     "7b0b19b84fa04860f7e64f07": {
@@ -23571,9 +23572,10 @@
     "c4c9d010f02b9f1ce672c4df": {
       "published_at": "2026-11-12T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13652,
       "title": "Trump, Xi And Putin Trilateral Meeting Discussed As Rubio, Wang Yi Prepare Ground For Key Summit Engagements",
-      "updated_at": "2026-11-12T07:08:49.677703+00:00",
+      "updated_at": "2026-11-12T07:08:52.502267+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trump-xi-and-putin-trilateral-meeting.html"
     },
     "c4f506e7f0f82d7508424fd4": {
@@ -27068,9 +27070,10 @@
     "e4504b4a1dadfd99c635b048": {
       "published_at": "2026-11-12T04:29:43+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13655,
       "title": "ENERGY SECURITY: India Approves ₹68,800-Crores High-Capacity Power Corridor To Link Western Renewable Energy Hubs With Eastern Demand Centres",
-      "updated_at": "2026-11-12T07:08:49.677766+00:00",
+      "updated_at": "2026-11-12T07:09:04.386106+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/energy-security-india-approves-68800.html"
     },
     "e45447987be3d824ed5c553c": {
@@ -28056,9 +28059,10 @@
     "eca4e674e1083f2d8f022787": {
       "published_at": "2026-11-12T04:28:05+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13653,
       "title": "Iran Claims Missiles Pierced THAAD Shield Amid Questions Over Costly Air Defence Network",
-      "updated_at": "2026-11-12T07:08:49.677751+00:00",
+      "updated_at": "2026-11-12T07:08:56.430651+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iran-claims-missiles-pierced-thaad.html"
     },
     "ecb9e3921a68cdce7d497ada": {
@@ -30740,6 +30744,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-12T07:08:49.680235+00:00",
+  "last_cycle_at": "2026-11-12T07:09:07.589938+00:00",
   "schema_version": 1
 }
