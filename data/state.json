@@ -1830,9 +1830,10 @@
     "0f9d47e6684868ea698a745b": {
       "published_at": "2026-11-12T04:30:52+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13663,
       "title": "China’s Fourth Aircraft Carrier Spotted At Sea Following Landmark Stealth Drone Operations",
-      "updated_at": "2026-11-12T07:09:48.962610+00:00",
+      "updated_at": "2026-11-12T07:10:03.416480+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/chinas-fourth-aircraft-carrier-spotted.html"
     },
     "0fb97cbc377bdc7efb9851e9": {
@@ -14821,9 +14822,10 @@
     "7d68a9d9a8c52a7ad57bcf6a": {
       "published_at": "2026-11-12T04:30:35+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13660,
       "title": "CUMI Secures NATO STANAG Level 4 Qualification For Indigenous Ceramic Armour Solution",
-      "updated_at": "2026-11-12T07:09:48.962581+00:00",
+      "updated_at": "2026-11-12T07:09:51.506103+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/cumi-secures-nato-stanag-level-4.html"
     },
     "7d8a918c47040eda3543805f": {
@@ -15719,9 +15721,10 @@
     "85629c3d9315ad98c5a1bacb": {
       "published_at": "2026-11-12T04:30:40+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13661,
       "title": "India's Push For Sovereign Geospatial Intelligence Gains Momentum Amid Evolving Warfare Needs",
-      "updated_at": "2026-11-12T07:09:48.962602+00:00",
+      "updated_at": "2026-11-12T07:09:55.521898+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-push-for-sovereign-geospatial.html"
     },
     "856370cf3481d05c7d53e1cb": {
@@ -17941,9 +17944,10 @@
     "9758b37c40bb606ded01fb32": {
       "published_at": "2026-11-12T04:30:44+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13662,
       "title": "Gaganyaan First Test Flight Set For December 2026, ISRO Chief Confirms",
-      "updated_at": "2026-11-12T07:09:48.962606+00:00",
+      "updated_at": "2026-11-12T07:09:59.477088+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/gaganyaan-first-test-flight-set-for.html"
     },
     "977568d22b522185612e2f01": {
@@ -30812,6 +30816,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-12T07:09:48.966566+00:00",
+  "last_cycle_at": "2026-11-12T07:10:06.620511+00:00",
   "schema_version": 1
 }
