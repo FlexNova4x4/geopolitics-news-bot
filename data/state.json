@@ -11754,6 +11754,14 @@
       "updated_at": "2026-10-26T09:15:14.240953+00:00",
       "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
     },
+    "64fba6fae0c35fa008d43329": {
+      "published_at": "2026-11-12T04:30:29+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Norwegian Journalist Who Heckled PM Modi In Oslo Denied Entry Into The Country",
+      "updated_at": "2026-11-12T07:09:17.385039+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/norwegian-journalist-who-heckled-pm.html"
+    },
     "65053c0b0bf5eaa367864d8d": {
       "published_at": "2026-10-25T14:39:47+00:00",
       "source": "feeds.bbci.co.uk",
@@ -13047,6 +13055,14 @@
       "title": "NoRKA Care enrolment portal launched for Non-Resident Keralites",
       "updated_at": "2026-10-29T16:53:25.032202+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/norka-care-enrolment-portal-launched-for-non-resident-keralites/article71641087.ece"
+    },
+    "6f370d8cb12cfe9a9c59f04d": {
+      "published_at": "2026-11-12T04:30:25+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Indian Navy To Conduct Fifth Sea Vigil Exercise From 11 November, Covering Entire Coastline And EEZ",
+      "updated_at": "2026-11-12T07:09:17.385036+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indian-navy-to-conduct-fifth-sea-vigil.html"
     },
     "6f3e96f353e18d3137072cf0": {
       "published_at": "2026-10-25T20:11:26+00:00",
@@ -24757,6 +24773,14 @@
       "updated_at": "2026-10-26T09:45:21.771157+00:00",
       "url": "https://www.thehindu.com/news/national/manipur/manipur-cm-says-all-possible-assistance-will-be-provided-to-families-of-three-killed-in-october-19-gun-attack/article71626253.ece"
     },
+    "cfe5e9a10a10fa2ffe2b4729": {
+      "published_at": "2026-11-12T04:29:49+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Congressman-Elect Amish Shah Pledges To Tackle Anti-India Hate And Restore Congress' Tariff Authority",
+      "updated_at": "2026-11-12T07:09:17.385008+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/congressman-elect-amish-shah-pledges-to.html"
+    },
     "cffa4a70e2ee6f0638af87ea": {
       "published_at": "2026-10-29T07:28:26+00:00",
       "source": "feeds.bbci.co.uk",
@@ -28479,6 +28503,14 @@
       "updated_at": "2026-11-05T06:46:38.101570+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/ocean-science-funding-gap-demands.html"
     },
+    "ef9907c04e18a81af2ef7881": {
+      "published_at": "2026-11-12T04:30:17+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India's Coastal Defence Capability Set For Major Boost As DRDO's Junput Test Range Takes Shape In West Bengal",
+      "updated_at": "2026-11-12T07:09:17.385032+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indias-coastal-defence-capability-set.html"
+    },
     "ef996350f7a4e863c55aca6d": {
       "published_at": "2026-10-27T11:15:06+00:00",
       "source": "publish.tribuneindia.com",
@@ -30744,6 +30776,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-12T07:09:07.589938+00:00",
+  "last_cycle_at": "2026-11-12T07:09:17.389027+00:00",
   "schema_version": 1
 }
