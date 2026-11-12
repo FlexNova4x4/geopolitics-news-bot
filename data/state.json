@@ -111,9 +111,10 @@
     "00859810c271c6b0318051c4": {
       "published_at": "2026-11-12T07:49:24+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13667,
       "title": "12th round of India - South Africa Foreign Office Consultations - Ministry of External Affairs",
-      "updated_at": "2026-11-12T08:08:22.931529+00:00",
+      "updated_at": "2026-11-12T08:08:25.832616+00:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVY3Mndxb0ZDazZvdWFoallMaUhCNmlaX20xMUhCTHJxZVlYVjZrVnhRalVwMnJBX3lWbDlhaFVOYmpsZm5TdjA3UXFfTk14WUpObnZLWmFiS2JqOGFlSVRKTFhQNkhlNS11cUExLTIyeXZLV3poWG54a1dKclNSeU1zMDdSZWNBcWxpeDdBZWlMNjhqaGZEVDVVR19ESVYwZWhhVGhEbGNheW5yQjJN?oc=5"
     },
     "008c6f0e993b6823da7fcb06": {
@@ -30851,6 +30852,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-12T08:08:22.935524+00:00",
+  "last_cycle_at": "2026-11-12T08:08:29.049947+00:00",
   "schema_version": 1
 }
