@@ -2226,9 +2226,10 @@
     "12866cf4b15a3a05be725c7e": {
       "published_at": "2026-11-12T19:52:10+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13675,
       "title": "Transcript of Special Briefing by MEA on the visit of Prime Minister to the Philippines (November 12, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-13T00:23:05.361824+00:00",
+      "updated_at": "2026-11-13T00:23:08.880592+00:00",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPblVFNkRsZHVYMzAtZjVxVnp4MXluSWkxbWp4enp4T1F1dlBsNEwxYVdURTNpbUkzcXBWZk1tX2RmVHluQmlwMnZESHBSMDRmaEM3NEJyNVRlTGd1cVdZbllMTDNBQ0NoYkk0QUdRUDZqbkVheWYyU0dfNHMwa096OGhLRy1HbF9xWEt1eS12cldHY25QMzhtb3Rmd1RPR05SNk5kWDFaZGpCdnJMbUo2TVNLdDBLbkhJTUZ1RU5WREp0TGwzOUtFWmVrSkgwSFVkeVk2WUNNZHFkanhPQXlvWTBfRjlKWXc5?oc=5"
     },
     "128f20f65e0ac6456e39a7f2": {
@@ -30887,6 +30888,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-13T00:23:05.368330+00:00",
+  "last_cycle_at": "2026-11-13T00:23:12.085210+00:00",
   "schema_version": 1
 }
