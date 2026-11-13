@@ -7610,6 +7610,14 @@
       "updated_at": "2026-10-29T16:51:57.137913+00:00",
       "url": "https://www.thehindu.com/news/national/karnataka/government-to-evaluate-impact-of-guarantee-and-other-schemes/article71641626.ece"
     },
+    "423dd2fae618263b7791e5cf": {
+      "published_at": "2026-11-13T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Indian Army Delegation Visits Indonesia To Deepen Defence Cooperation",
+      "updated_at": "2026-11-13T06:43:17.765804+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indian-army-delegation-visits-indonesia.html"
+    },
     "42455d786ad26e61c8bc7d7e": {
       "published_at": "2026-11-03T03:56:23+00:00",
       "source": "Indian Defence News",
@@ -10325,6 +10333,14 @@
       "updated_at": "2026-10-27T18:04:41.887569+00:00",
       "url": "https://www.hindustantimes.com/india-news/india-bloc-leaders-to-hold-public-impeachment-of-cec-at-kharges-delhi-residence-on-october-30-101793116383425.html"
     },
+    "58728b1ca093a28206cc8365": {
+      "published_at": "2026-11-12T21:01:00+00:00",
+      "source": "The Diplomat (Asia Geopolitics)",
+      "status": "reserved",
+      "title": "Chips, Cheats, and China: The Nvidia Espionage Scandal",
+      "updated_at": "2026-11-13T06:43:17.765772+00:00",
+      "url": "https://thediplomat.com/2026/11/chips-cheats-and-china-the-nvidia-espionage-scandal"
+    },
     "58a4e564a7c16a61ccd7869d": {
       "published_at": "2026-11-04T05:45:46+00:00",
       "source": "ET Defence",
@@ -10998,6 +11014,14 @@
       "title": "Cancer 360: Overview of Detection, Treatment, Palliation",
       "updated_at": "2026-10-27T04:13:10.972274+00:00",
       "url": "https://www.thehindu.com/sci-tech/health/cancer-360-overview-of-detection-treatment-palliation/article71629701.ece"
+    },
+    "5d357afa0f4ad08886b9fbdf": {
+      "published_at": "2026-11-13T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Iran Showcases Underground Missile City As Tehran Warns US Bases In Europe Could Be Targeted",
+      "updated_at": "2026-11-13T06:43:17.765797+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/iran-showcases-underground-missile-city.html"
     },
     "5d37ae1020a3bd90c3126f48": {
       "published_at": "2026-10-25T14:48:21+00:00",
@@ -26502,6 +26526,14 @@
       "updated_at": "2026-10-29T04:12:02.812195+00:00",
       "url": "https://www.tribuneindia.com/news/arab-parties-seats/trump-says-netanyahu-is-in-pretty-good-shape-after-horror-reports-of-israeli-election"
     },
+    "dd4223388c2372af4e05204f": {
+      "published_at": "2026-11-13T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Trump Threatens To Quit NATO— Europe Starts A Side Chat Without America",
+      "updated_at": "2026-11-13T06:43:17.765800+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/trump-threatens-to-quit-nato-europe.html"
+    },
     "dd8e1e97240376c764a4b008": {
       "published_at": "2026-10-27T07:57:57+00:00",
       "source": "publish.tribuneindia.com",
@@ -30888,6 +30920,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-13T00:23:12.085210+00:00",
+  "last_cycle_at": "2026-11-13T06:43:17.767505+00:00",
   "schema_version": 1
 }
