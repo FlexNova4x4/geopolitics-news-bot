@@ -4301,6 +4301,14 @@
       "updated_at": "2026-11-13T06:43:57.243650+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-supports-coordinated-maritime.html"
     },
+    "24688ea942898fd339ae0143": {
+      "published_at": "2026-11-13T04:27:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "PSLV Third Stage Successfully Clears Key Ground Test Following Configuration Upgrades",
+      "updated_at": "2026-11-13T06:44:08.016356+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/pslv-third-stage-successfully-clears.html"
+    },
     "24877472ff335fb4c261d465": {
       "published_at": "2026-10-26T09:16:52+00:00",
       "source": "thehindu.com",
@@ -10765,6 +10773,14 @@
       "title": "Banks must compensate digital arrest victims if due diligence fails: Supreme Court",
       "updated_at": "2026-10-29T12:03:38.598454+00:00",
       "url": "https://www.hindustantimes.com/india-news/banks-must-compensate-digital-arrest-victims-if-due-diligence-fails-supreme-court-101793272191660.html"
+    },
+    "5b27a10ce479ce17fa972d5a": {
+      "published_at": "2026-11-13T04:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Constelli India Seals Spark Grant Deal For Drone-Based Signal Intelligence In Hilly Terrain & High-Altitude Areas",
+      "updated_at": "2026-11-13T06:44:08.016353+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/constelli-india-seals-spark-grant-deal.html"
     },
     "5b291389965e6d3b09b9fd79": {
       "published_at": "2026-10-23T14:15:00+00:00",
@@ -23704,6 +23720,14 @@
       "updated_at": "2026-10-29T09:10:16.565272+00:00",
       "url": "https://www.tribuneindia.com/news/india/no-info-on-dimagi-naxals-mha-in-first-rti-reply-on-pm-modis-catch-phrase"
     },
+    "c4ada03304da69cd588d7a70": {
+      "published_at": "2026-11-13T04:27:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Freed A Year After Acquittal, Rampur Attack Accused Gunned Down Metres From Police Station",
+      "updated_at": "2026-11-13T06:44:08.016358+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/freed-year-after-acquittal-rampur.html"
+    },
     "c4b682a013735266d10c4c59": {
       "published_at": "2026-10-30T04:33:25+00:00",
       "source": "Indian Defence News",
@@ -26402,6 +26426,14 @@
       "title": "Raja Ravi Varma awards for C. Douglas, N.N. Rimzon",
       "updated_at": "2026-10-27T15:42:14.527045+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/raja-ravi-varma-awards-for-c-douglas-nn-rimzon/article71632231.ece"
+    },
+    "dbf036320607833a93cacf05": {
+      "published_at": "2026-11-13T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Defence Minister Unveils Indigenous AI Tools Developed By The IAF To Accelerate Modernisation",
+      "updated_at": "2026-11-13T06:44:08.016334+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/defence-minister-unveils-indigenous-ai.html"
     },
     "dbf5f1d6245ce95c19ca3775": {
       "published_at": "2026-10-27T19:30:11+00:00",
@@ -30960,6 +30992,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-13T06:44:00.446522+00:00",
+  "last_cycle_at": "2026-11-13T06:44:08.019640+00:00",
   "schema_version": 1
 }
