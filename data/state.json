@@ -13779,9 +13779,10 @@
     "743b0a61809072cba1810234": {
       "published_at": "2026-11-13T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13691,
       "title": "Ski-Jump Drone Trials Could Unlock India's Next Naval Aviation Leap",
-      "updated_at": "2026-11-13T06:44:32.621910+00:00",
+      "updated_at": "2026-11-13T06:44:39.035204+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/ski-jump-drone-trials-could-unlock.html"
     },
     "743cd7c05e90cc1d407eeef6": {
@@ -19190,9 +19191,10 @@
     "a0edcf1475cad6643ca0bb46": {
       "published_at": "2026-11-13T04:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13692,
       "title": "India's Quiet War To Purge Chinese Technology From Its Armoury",
-      "updated_at": "2026-11-13T06:44:32.621913+00:00",
+      "updated_at": "2026-11-13T06:44:42.816579+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-quiet-war-to-purge-chinese.html"
     },
     "a0f98c42e671b2d28e2a751a": {
@@ -22923,9 +22925,10 @@
     "bf206f6e920772cfff5944cf": {
       "published_at": "2026-11-13T04:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13693,
       "title": "Indian Navy's Ageing Chetak Helicopters Set For New Life As Autonomous Combat Drones",
-      "updated_at": "2026-11-13T06:44:32.621915+00:00",
+      "updated_at": "2026-11-13T06:44:46.758542+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navys-ageing-chetak-helicopters.html"
     },
     "bf2bcf50e29be153b0ae83ac": {
@@ -25746,9 +25749,10 @@
     "d6623baa4b44cb83b49f3d88": {
       "published_at": "2026-11-13T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13690,
       "title": "TDB-DST Backs Astrome's AI-Enabled Space Intelligence Constellation With ₹64.05 Crore RDI Support",
-      "updated_at": "2026-11-13T06:44:32.621891+00:00",
+      "updated_at": "2026-11-13T06:44:35.245757+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/tdb-dst-backs-astromes-ai-enabled-space.html"
     },
     "d669986cc2dc4d7b447e54f5": {
@@ -31028,6 +31032,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-13T06:44:32.625029+00:00",
+  "last_cycle_at": "2026-11-13T06:44:49.961147+00:00",
   "schema_version": 1
 }
