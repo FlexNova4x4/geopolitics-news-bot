@@ -4304,9 +4304,10 @@
     "24688ea942898fd339ae0143": {
       "published_at": "2026-11-13T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13688,
       "title": "PSLV Third Stage Successfully Clears Key Ground Test Following Configuration Upgrades",
-      "updated_at": "2026-11-13T06:44:08.016356+00:00",
+      "updated_at": "2026-11-13T06:44:18.753541+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pslv-third-stage-successfully-clears.html"
     },
     "24877472ff335fb4c261d465": {
@@ -10777,9 +10778,10 @@
     "5b27a10ce479ce17fa972d5a": {
       "published_at": "2026-11-13T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13687,
       "title": "Constelli India Seals Spark Grant Deal For Drone-Based Signal Intelligence In Hilly Terrain & High-Altitude Areas",
-      "updated_at": "2026-11-13T06:44:08.016353+00:00",
+      "updated_at": "2026-11-13T06:44:14.758907+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/constelli-india-seals-spark-grant-deal.html"
     },
     "5b291389965e6d3b09b9fd79": {
@@ -23723,9 +23725,10 @@
     "c4ada03304da69cd588d7a70": {
       "published_at": "2026-11-13T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13689,
       "title": "Freed A Year After Acquittal, Rampur Attack Accused Gunned Down Metres From Police Station",
-      "updated_at": "2026-11-13T06:44:08.016358+00:00",
+      "updated_at": "2026-11-13T06:44:22.748435+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/freed-year-after-acquittal-rampur.html"
     },
     "c4b682a013735266d10c4c59": {
@@ -26430,9 +26433,10 @@
     "dbf036320607833a93cacf05": {
       "published_at": "2026-11-13T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13686,
       "title": "Defence Minister Unveils Indigenous AI Tools Developed By The IAF To Accelerate Modernisation",
-      "updated_at": "2026-11-13T06:44:08.016334+00:00",
+      "updated_at": "2026-11-13T06:44:10.823011+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/defence-minister-unveils-indigenous-ai.html"
     },
     "dbf5f1d6245ce95c19ca3775": {
@@ -30992,6 +30996,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-13T06:44:08.019640+00:00",
+  "last_cycle_at": "2026-11-13T06:44:25.951467+00:00",
   "schema_version": 1
 }
