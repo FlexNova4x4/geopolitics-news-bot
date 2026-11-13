@@ -4295,9 +4295,10 @@
     "2461b048fd1f075c664fc344": {
       "published_at": "2026-11-13T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13685,
       "title": "India Supports Coordinated Maritime Patrols Near Malacca Strait Amid Expanding Indo-Pacific Security Challenges",
-      "updated_at": "2026-11-13T06:43:41.819989+00:00",
+      "updated_at": "2026-11-13T06:43:57.243650+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-supports-coordinated-maritime.html"
     },
     "24877472ff335fb4c261d465": {
@@ -6874,9 +6875,10 @@
     "3b9d55ca76ff5bb983d6825e": {
       "published_at": "2026-11-13T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13682,
       "title": "UAE Coast Guard Rescues 19 Indian Seafarers After Projectile Attack On Oil Tanker",
-      "updated_at": "2026-11-13T06:43:41.819966+00:00",
+      "updated_at": "2026-11-13T06:43:45.157879+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/uae-coast-guard-rescues-19-indian.html"
     },
     "3bba03134ad1911343414dbf": {
@@ -27851,9 +27853,10 @@
     "e92f71b72d12f2e407f24ee9": {
       "published_at": "2026-11-13T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13684,
       "title": "Turkey-Pakistan Defence Cooperation In Bangladesh A 'Very Serious Development': Former Envoy To Bangladesh",
-      "updated_at": "2026-11-13T06:43:41.819987+00:00",
+      "updated_at": "2026-11-13T06:43:53.208756+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/turkey-pakistan-defence-cooperation-in.html"
     },
     "e9520f70f2f81375a5967cc0": {
@@ -30196,9 +30199,10 @@
     "fad9d8d94350c803d9063488": {
       "published_at": "2026-11-13T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13683,
       "title": "Indian Army Expands MSME And Start-Up Role To Secure Critical Combat Spare Supply Chain",
-      "updated_at": "2026-11-13T06:43:41.819985+00:00",
+      "updated_at": "2026-11-13T06:43:49.125173+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-army-expands-msme-and-start-up.html"
     },
     "fae5e71f5e5c0857cd92cfc0": {
@@ -30956,6 +30960,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-13T06:43:41.822538+00:00",
+  "last_cycle_at": "2026-11-13T06:44:00.446522+00:00",
   "schema_version": 1
 }
