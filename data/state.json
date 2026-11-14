@@ -10571,9 +10571,10 @@
     "5939299c5702a95693cbf752": {
       "published_at": "2026-11-14T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13769,
       "title": "SFO Technologies And Cochin Shipyard Jointly Develops India’s First Indigenous Hybrid Laser Arc Welding Technology",
-      "updated_at": "2026-11-14T18:00:41.058089+00:00",
+      "updated_at": "2026-11-14T18:00:56.134806+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/sfo-technologies-and-cochin-shipyard.html"
     },
     "59393e455b38b9c448469a5b": {
@@ -17340,9 +17341,10 @@
     "902b294bff686b481a9949ec": {
       "published_at": "2026-11-14T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13766,
       "title": "India And Italy Reinforce Defence Industrial Ties Through High-Level Cooperation Dialogue In New Delhi",
-      "updated_at": "2026-11-14T18:00:41.058061+00:00",
+      "updated_at": "2026-11-14T18:00:43.846236+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-and-italy-reinforce-defence.html"
     },
     "9040f2bb7e72bd2ce79b80e9": {
@@ -18266,9 +18268,10 @@
     "979226960553f984788cc664": {
       "published_at": "2026-11-14T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13768,
       "title": "Trump, Xi And Putin Set For Historic First-Ever Trilateral Talks At APEC Summit In China",
-      "updated_at": "2026-11-14T18:00:41.058086+00:00",
+      "updated_at": "2026-11-14T18:00:51.950723+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trump-xi-and-putin-set-for-historic.html"
     },
     "97a727283adb09ee5227fa21": {
@@ -23893,9 +23896,10 @@
     "c42b3d23bc7112e4735e15c8": {
       "published_at": "2026-11-14T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13767,
       "title": "PM Modi Pushes For Greater Nuclear Power Investment As AI And Data Centres Drive India’s Rising Electricity Demand",
-      "updated_at": "2026-11-14T18:00:41.058084+00:00",
+      "updated_at": "2026-11-14T18:00:47.975652+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pm-modi-pushes-for-greater-nuclear.html"
     },
     "c42cbc6aefffb49fa784670d": {
@@ -31298,6 +31302,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T18:00:41.061396+00:00",
+  "last_cycle_at": "2026-11-14T18:00:59.337418+00:00",
   "schema_version": 1
 }
