@@ -6173,9 +6173,10 @@
     "356522a186dd42b86b52851f": {
       "published_at": "2026-11-14T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13745,
       "title": "India Extends Invitations To All SCO Nations For Landmark Civilizational Dialogue Forum In New Delhi",
-      "updated_at": "2026-11-14T06:21:00.783964+00:00",
+      "updated_at": "2026-11-14T06:21:12.311632+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-extends-invitations-to-all-sco.html"
     },
     "356861b34c4ab40fa46ce631": {
@@ -6298,9 +6299,10 @@
     "36131cb3bb0b9580dc335c7b": {
       "published_at": "2026-11-14T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13746,
       "title": "India, Oman, And The UAE To Form Trilateral Technical Panel Amid West Asia Airspace Disruptions: Union Civil Aviation Minister Ram Mohan Naidu",
-      "updated_at": "2026-11-14T06:21:00.783965+00:00",
+      "updated_at": "2026-11-14T06:21:16.561242+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-oman-and-uae-to-form-trilateral.html"
     },
     "36192417e74607f5fda1b54d": {
@@ -22536,9 +22538,10 @@
     "ba764f21dc5ef1cc66e508ca": {
       "published_at": "2026-11-14T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13744,
       "title": "Pakistan Prepared To Take All Necessary Defensive Measures To Safeguard Saudi Arabia: Military Spokesman",
-      "updated_at": "2026-11-14T06:21:00.783960+00:00",
+      "updated_at": "2026-11-14T06:21:08.189197+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistan-prepared-to-take-all-necessary.html"
     },
     "baa1d723ea3a76c98b16b952": {
@@ -26781,9 +26784,10 @@
     "dea146e5bcbbc69f6a53eb1a": {
       "published_at": "2026-11-14T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13743,
       "title": "IAF 'Honeytrap' Scandal: Wing Commander Accused of Leaking War Plans To Pakistani Operative For Explicit Photographs",
-      "updated_at": "2026-11-14T06:21:00.783942+00:00",
+      "updated_at": "2026-11-14T06:21:03.961889+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iaf-honeytrap-scandal-wing-commander.html"
     },
     "dea35d3b22eed21fb84ee7e0": {
@@ -31109,6 +31113,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T06:21:00.786642+00:00",
+  "last_cycle_at": "2026-11-14T06:21:19.763807+00:00",
   "schema_version": 1
 }
