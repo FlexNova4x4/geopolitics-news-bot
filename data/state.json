@@ -1911,9 +1911,10 @@
     "1019e1ba8cc81c21930a4b82": {
       "published_at": "2026-11-14T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13749,
       "title": "India's Heavy-Lift Guardian: Inside ISRO's Human-Rated HLVM3 Rocket Built To Safely Carry Gaganyaan Astronauts To Orbit",
-      "updated_at": "2026-11-14T06:21:26.196119+00:00",
+      "updated_at": "2026-11-14T06:21:37.289962+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-heavy-lift-guardian-inside-isros.html"
     },
     "101bd51f27cb2cc32ac25830": {
@@ -8926,9 +8927,10 @@
     "4c5a9f366a36346c2b3447a9": {
       "published_at": "2026-11-14T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13750,
       "title": "India And Brazil Join Forces To Explore New Small-Satellite Launcher",
-      "updated_at": "2026-11-14T06:21:26.196122+00:00",
+      "updated_at": "2026-11-14T06:21:41.451378+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-and-brazil-join-forces-to-explore.html"
     },
     "4c69dba6ce4619bdc675e79c": {
@@ -14775,9 +14777,10 @@
     "7b0ff205a1c67602f8233cc4": {
       "published_at": "2026-11-14T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13747,
       "title": "Defence Minister Backs Agniveers' Second Tour of Duty, Says Move Will Boost Armed Forces",
-      "updated_at": "2026-11-14T06:21:26.196094+00:00",
+      "updated_at": "2026-11-14T06:21:28.997504+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/defence-minister-backs-agniveers-second.html"
     },
     "7b25e7cd40495d676ad64a2e": {
@@ -17302,9 +17305,10 @@
     "90f67a4c6a39d9019c23fd00": {
       "published_at": "2026-11-14T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13748,
       "title": "India Seeks Consular Assistance From Pakistan For 6 Seafarers Stranded At Karachi Port While Repatriating Kerala Mariner From Iran",
-      "updated_at": "2026-11-14T06:21:26.196116+00:00",
+      "updated_at": "2026-11-14T06:21:33.100823+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-seeks-consular-assistance-from.html"
     },
     "90fd25d5e400c10fb50f1c26": {
@@ -31145,6 +31149,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T06:21:26.198903+00:00",
+  "last_cycle_at": "2026-11-14T06:21:44.653963+00:00",
   "schema_version": 1
 }
