@@ -3971,9 +3971,10 @@
     "2115a3f3c236e88787e3a615": {
       "published_at": "2026-11-14T15:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13770,
       "title": "Envoy Kwatra Rebukes USCIRF Over Jailed Ultra Sharjeel Imam Remarks, Says Panel Has ‘No Locus Standi’",
-      "updated_at": "2026-11-14T18:01:05.630898+00:00",
+      "updated_at": "2026-11-14T18:01:11.753245+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/envoy-kwatra-rebukes-uscirf-over.html"
     },
     "21302d91b0835123bede03d8": {
@@ -13302,9 +13303,10 @@
     "6f3403882150de8cce4ae589": {
       "published_at": "2026-11-14T15:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13771,
       "title": "How India's Nuclear Triad Works: Bombers, ICBMs And Submarines",
-      "updated_at": "2026-11-14T18:01:05.630941+00:00",
+      "updated_at": "2026-11-14T18:01:16.075097+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/how-indias-nuclear-triad-works-bombers.html"
     },
     "6f370d8cb12cfe9a9c59f04d": {
@@ -29245,9 +29247,10 @@
     "f15ae302bd51681de58b6766": {
       "published_at": "2026-11-14T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13772,
       "title": "Israeli Strategist Urges India-Israel Defence Partnership To Evolve Into Genuine Co-Development",
-      "updated_at": "2026-11-14T18:01:05.630944+00:00",
+      "updated_at": "2026-11-14T18:01:20.190896+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/israeli-strategist-urges-india-israel.html"
     },
     "f15fe17d1883123083d46f15": {
@@ -29865,9 +29868,10 @@
     "f5a63feee737e4102ec56602": {
       "published_at": "2026-11-14T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13773,
       "title": "'If Verified As An Indian National, We Take Them Back': MEA Reaffirms Deportation Protocols Amid ASEAN, Quad And FATF Engagements",
-      "updated_at": "2026-11-14T18:01:05.630946+00:00",
+      "updated_at": "2026-11-14T18:01:24.325075+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/if-verified-as-indian-national-we-take.html"
     },
     "f5ac949b61ab526bee0feccd": {
@@ -31334,6 +31338,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T18:01:05.633943+00:00",
+  "last_cycle_at": "2026-11-14T18:01:27.528074+00:00",
   "schema_version": 1
 }
