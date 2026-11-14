@@ -2538,6 +2538,14 @@
       "updated_at": "2026-10-27T07:05:23.364158+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kullu/bjp-to-intensify-struggle-over-public-issues-shrikant-kullu-news-c-89-1-ssml1015-190318-2026-10-27"
     },
+    "14d67af9cb09528e3ccf382d": {
+      "published_at": "2026-11-14T04:28:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Soft-Kill RF Jamming & GNSS Spoofing Vs Hard-Kill Laser DEWs: The Modern Counter-Drone Showdown",
+      "updated_at": "2026-11-14T06:22:19.769355+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/soft-kill-rf-jamming-gnss-spoofing-vs.html"
+    },
     "14ec9f3534961735d10cbd53": {
       "published_at": "2026-10-27T05:46:40+00:00",
       "source": "dawn.com",
@@ -9588,6 +9596,14 @@
       "title": "Indian Navy Pushes For Indigenous Space-Based ELINT Satellite To Track Oceanic Emitters",
       "updated_at": "2026-11-02T15:50:57.349349+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indian-navy-pushes-for-indigenous-space.html"
+    },
+    "516e44ec496cd6a1ecbacb92": {
+      "published_at": "2026-11-14T04:28:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "How Drones Are Countered - India's Indigenous Anti-Drone And Directed-Energy Systems",
+      "updated_at": "2026-11-14T06:22:19.769335+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/how-drones-are-countered-indias.html"
     },
     "5184e130af284ee04e0a285a": {
       "published_at": "2026-10-27T08:30:53+00:00",
@@ -27814,6 +27830,14 @@
       "updated_at": "2026-10-25T15:12:04.067408+00:00",
       "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-october-25-jaishankar-urges-dialogue-on-global-conflicts-kharge-targets-bjp-sindhu-loses-french-open-final-101792934164929.html"
     },
+    "e7440ffe77897a88bc0ef2db": {
+      "published_at": "2026-11-14T04:30:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "DRDO Seeks Indian Industry Partner to Build 'BEDHAK' High-Power RF Directed Energy Weapon",
+      "updated_at": "2026-11-14T06:22:19.769367+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/drdo-seeks-indian-industry-partner-to.html"
+    },
     "e749d6eb84069fcff952587f": {
       "published_at": "2026-10-25T03:29:32+00:00",
       "source": "hindustantimes.com",
@@ -31185,6 +31209,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T06:22:09.534758+00:00",
+  "last_cycle_at": "2026-11-14T06:22:19.772512+00:00",
   "schema_version": 1
 }
