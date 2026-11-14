@@ -4582,9 +4582,10 @@
     "26cc59a28298c82bb027e324": {
       "published_at": "2026-11-14T10:22:03+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13760,
       "title": "DRDO looks to Indian industry for high-power microwave weapon push",
-      "updated_at": "2026-11-14T11:22:12.400888+00:00",
+      "updated_at": "2026-11-14T11:22:20.120431+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/drdo-looks-to-indian-industry-for-high-power-microwave-weapon-push/135829929"
     },
     "26dd2c26783fde2f386c5975": {
@@ -19532,9 +19533,10 @@
     "a2638d982516beedc8d77a13": {
       "published_at": "2026-11-14T10:21:34+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13759,
       "title": "IAF shifts anti-drone shield towards cheaper ground-based interceptors",
-      "updated_at": "2026-11-14T11:22:12.400870+00:00",
+      "updated_at": "2026-11-14T11:22:15.999744+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/iaf-shifts-anti-drone-shield-towards-cheaper-ground-based-interceptors/135829921"
     },
     "a26d6b1f7774d055bf37b9d3": {
@@ -31228,6 +31230,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T11:22:12.404776+00:00",
+  "last_cycle_at": "2026-11-14T11:22:23.323242+00:00",
   "schema_version": 1
 }
