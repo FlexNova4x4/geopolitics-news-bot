@@ -1029,9 +1029,10 @@
     "086083fb53856d50beecc1bf": {
       "published_at": "2026-11-14T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13764,
       "title": "MEA Defends Bharat Summit Visa Decisions, Says Visa Matters Are Sovereign Functions of Governments",
-      "updated_at": "2026-11-14T18:00:16.651052+00:00",
+      "updated_at": "2026-11-14T18:00:28.260896+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/mea-defends-bharat-summit-visa.html"
     },
     "08875df5985649198dc7bf36": {
@@ -13787,9 +13788,10 @@
     "736108c3fe401036ded29f41": {
       "published_at": "2026-11-14T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13765,
       "title": "Eisenkot Pledges Stable Government As Coalition Talks Advance And Reaches Out To Arab Parties",
-      "updated_at": "2026-11-14T18:00:16.651054+00:00",
+      "updated_at": "2026-11-14T18:00:32.432378+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eisenkot-pledges-stable-government-as.html"
     },
     "736dd129378993c7b13aac9d": {
@@ -29632,9 +29634,10 @@
     "f43f41812449f20e4708b556": {
       "published_at": "2026-11-14T15:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13762,
       "title": "US Agencies Probe Possible Sabotage After Aviation System Failure Grounds Flights Nationwide",
-      "updated_at": "2026-11-14T18:00:16.651031+00:00",
+      "updated_at": "2026-11-14T18:00:19.798552+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/us-agencies-probe-possible-sabotage.html"
     },
     "f459b5ba542bf345bf7b5451": {
@@ -30520,9 +30523,10 @@
     "fb0ecaf466cb568c10fafab0": {
       "published_at": "2026-11-14T15:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13763,
       "title": "European Parliament Defence Committee Chief Holds Strategic Talks At South Block As India-EU Defence Ties Gather Momentum",
-      "updated_at": "2026-11-14T18:00:16.651049+00:00",
+      "updated_at": "2026-11-14T18:00:23.940902+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/european-parliament-defence-committee.html"
     },
     "fb1acb802321b5d0d0564a33": {
@@ -31262,6 +31266,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T18:00:16.653079+00:00",
+  "last_cycle_at": "2026-11-14T18:00:35.635764+00:00",
   "schema_version": 1
 }
