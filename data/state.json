@@ -4579,6 +4579,14 @@
       "updated_at": "2026-10-27T15:45:23.143551+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/the-hindu-group-wins-seven-laurels-at-love-of-advertising-awards/article71632361.ece"
     },
+    "26cc59a28298c82bb027e324": {
+      "published_at": "2026-11-14T10:22:03+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "DRDO looks to Indian industry for high-power microwave weapon push",
+      "updated_at": "2026-11-14T11:22:12.400888+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/drdo-looks-to-indian-industry-for-high-power-microwave-weapon-push/135829929"
+    },
     "26dd2c26783fde2f386c5975": {
       "published_at": "2026-10-27T18:37:50+00:00",
       "source": "dawn.com",
@@ -19521,6 +19529,14 @@
       "updated_at": "2026-10-29T08:47:03.729677+00:00",
       "url": "https://www.hindustantimes.com/india-news/terror-suspect-wanted-in-punjab-grenade-attack-case-arrested-from-haryanas-faridabad-101793261897039.html"
     },
+    "a2638d982516beedc8d77a13": {
+      "published_at": "2026-11-14T10:21:34+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "IAF shifts anti-drone shield towards cheaper ground-based interceptors",
+      "updated_at": "2026-11-14T11:22:12.400870+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/iaf-shifts-anti-drone-shield-towards-cheaper-ground-based-interceptors/135829921"
+    },
     "a26d6b1f7774d055bf37b9d3": {
       "published_at": "2026-10-27T12:52:59+00:00",
       "source": "thehindu.com",
@@ -31212,6 +31228,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T06:22:34.098244+00:00",
+  "last_cycle_at": "2026-11-14T11:22:12.404776+00:00",
   "schema_version": 1
 }
