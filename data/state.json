@@ -1848,9 +1848,10 @@
     "0f5b26f7fc923d18ed764a0c": {
       "published_at": "2026-11-14T15:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13774,
       "title": "IIT-Madras’ SEANAV Platform Paves Way For Safer Autonomous Maritime Navigation",
-      "updated_at": "2026-11-14T18:01:50.203155+00:00",
+      "updated_at": "2026-11-14T18:01:53.820397+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iit-madras-seanav-platform-paves-way.html"
     },
     "0f7dd16fe6cc0d9f990389da": {
@@ -17763,9 +17764,10 @@
     "9374a5c3243363901b32ce2b": {
       "published_at": "2026-11-14T15:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13776,
       "title": "Closing The Fighter-Squadron Gap: Can India’s Defence-Industrial Base Deliver Airpower For A Two-Front Contingency?",
-      "updated_at": "2026-11-14T18:01:50.203183+00:00",
+      "updated_at": "2026-11-14T18:02:02.006505+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/closing-fighter-squadron-gap-can-indias.html"
     },
     "9374b36218aa40d4d311bff3": {
@@ -20422,9 +20424,10 @@
     "a963ad7eedb3bfeab86b529a": {
       "published_at": "2026-11-14T15:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13775,
       "title": "India's Drones Are No Longer Taking Off, They Are Taking Over",
-      "updated_at": "2026-11-14T18:01:50.203180+00:00",
+      "updated_at": "2026-11-14T18:01:57.875500+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-drones-are-no-longer-taking-off.html"
     },
     "a976981d646d9aeaa7a62d84": {
@@ -31362,6 +31365,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T18:01:50.206143+00:00",
+  "last_cycle_at": "2026-11-14T18:02:05.209155+00:00",
   "schema_version": 1
 }
