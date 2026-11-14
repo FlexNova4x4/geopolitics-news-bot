@@ -10391,9 +10391,10 @@
     "58ae3a608ed38e1d4efa5d77": {
       "published_at": "2026-11-14T02:27:18+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13741,
       "title": "Indian Army and the problem of learning from failure",
-      "updated_at": "2026-11-14T06:20:35.510186+00:00",
+      "updated_at": "2026-11-14T06:20:47.211001+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/research-security/indian-army-and-the-problem-of-learning-from-failure/135820675"
     },
     "58b4d0f21cb4aa50c1fc0442": {
@@ -13419,9 +13420,10 @@
     "7116e86cf8ecd8c4f72755f3": {
       "published_at": "2026-11-14T02:26:53+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13740,
       "title": "Indian Army’s four-legged robots are changing border surveillance in J&K",
-      "updated_at": "2026-11-14T06:20:35.510182+00:00",
+      "updated_at": "2026-11-14T06:20:43.081523+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/indian-armys-four-legged-robots-are-changing-border-surveillance-in-jk/135820658"
     },
     "7121600e1d48934c9d4272ea": {
@@ -14748,9 +14750,10 @@
     "7b7b898bcc426f0468766cc0": {
       "published_at": "2026-11-14T02:28:07+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13742,
       "title": "Philippines considers India's Akash air defence system for BrahMos cover",
-      "updated_at": "2026-11-14T06:20:35.510188+00:00",
+      "updated_at": "2026-11-14T06:20:51.314776+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/philippines-considers-indias-akash-air-defence-system-for-brahmos-cover/135820696"
     },
     "7b8ac08390a32740dcb00fdc": {
@@ -30905,9 +30908,10 @@
     "feb5d82761986e88085b481e": {
       "published_at": "2026-11-14T02:24:55+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13739,
       "title": "India's new defence battle: Rooting out Chinese tech from its weapons",
-      "updated_at": "2026-11-14T06:20:35.510161+00:00",
+      "updated_at": "2026-11-14T06:20:38.941262+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/indias-new-defence-battle-rooting-out-chinese-tech-from-its-weapons/135820612"
     },
     "febee1870ad6481304347370": {
@@ -31073,6 +31077,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-14T06:20:35.512205+00:00",
+  "last_cycle_at": "2026-11-14T06:20:54.518561+00:00",
   "schema_version": 1
 }
