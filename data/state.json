@@ -4376,9 +4376,10 @@
     "2479d05f63e6b373fdbf1355": {
       "published_at": "2026-11-14T22:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13781,
       "title": "Kulasekarapattinam Lifts Off: But Sriharikota Stays India’s Strategic Launch Hub",
-      "updated_at": "2026-11-15T04:52:16.761854+00:00",
+      "updated_at": "2026-11-15T04:52:19.348111+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/kulasekarapattinam-lifts-off-but.html"
     },
     "24877472ff335fb4c261d465": {
@@ -31373,6 +31374,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-15T04:52:16.764879+00:00",
+  "last_cycle_at": "2026-11-15T04:52:22.550907+00:00",
   "schema_version": 1
 }
