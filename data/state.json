@@ -2046,9 +2046,10 @@
     "10d3fcdd82b650b16ef453c1": {
       "published_at": "2026-11-15T10:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13784,
       "title": "SpaceX Achieves Historic Starship 'Catch' In Breakthrough For Fully Reusable Spaceflight",
-      "updated_at": "2026-11-15T10:29:01.087757+00:00",
+      "updated_at": "2026-11-15T10:29:08.044154+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/spacex-achieves-historic-starship-catch.html"
     },
     "10d753aa8708ee944b30aa43": {
@@ -19820,9 +19821,10 @@
     "a3f3821681fea77d580b2d07": {
       "published_at": "2026-11-15T10:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13783,
       "title": "A New Yalta? Proposed Trump-Xi-Putin Summit Raises Global Concerns Over Great-Power Bargaining",
-      "updated_at": "2026-11-15T10:29:01.087741+00:00",
+      "updated_at": "2026-11-15T10:29:04.125541+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/a-new-yalta-proposed-trump-xi-putin.html"
     },
     "a413d69746cd3f64b9930917": {
@@ -20898,9 +20900,10 @@
     "aca9b9e27d95b03ef51f690a": {
       "published_at": "2026-11-15T10:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13786,
       "title": "20-Year-Old Held Over Reconnaissance of 26/11 Target Nariman House In Mumbai",
-      "updated_at": "2026-11-15T10:29:01.087791+00:00",
+      "updated_at": "2026-11-15T10:29:15.989922+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/20-year-old-held-over-reconnaissance-of.html"
     },
     "acb566103b1edafc0ab16679": {
@@ -30045,9 +30048,10 @@
     "f681397fdaa1b6dfb1276b7f": {
       "published_at": "2026-11-15T10:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13785,
       "title": "Two Oil Tankers Explode And Catch Fire After Striking Naval Mines Near Hormuz, Says Iran's IRGC Navy",
-      "updated_at": "2026-11-15T10:29:01.087760+00:00",
+      "updated_at": "2026-11-15T10:29:11.981223+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/two-oil-tankers-explode-and-catch-fire.html"
     },
     "f69acd8f27cee6b54c8870d9": {
@@ -31406,6 +31410,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-15T10:29:01.090569+00:00",
+  "last_cycle_at": "2026-11-15T10:29:19.193569+00:00",
   "schema_version": 1
 }
