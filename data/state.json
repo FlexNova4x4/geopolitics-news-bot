@@ -9834,9 +9834,10 @@
     "52e3718d4ea575ea6ea6d050": {
       "published_at": "2026-11-15T10:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13796,
       "title": "Chinese Military Aircraft Reportedly Breaches Indian Airspace Over Sikkim, Triggers IAF Warnings",
-      "updated_at": "2026-11-15T10:58:36.260997+00:00",
+      "updated_at": "2026-11-15T10:58:47.208542+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/chinese-military-aircraft-reportedly.html"
     },
     "52f0d24601bfdef5427da1b8": {
@@ -23257,9 +23258,10 @@
     "beb8fdd965bacde109c1168c": {
       "published_at": "2026-11-15T10:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13795,
       "title": "India’s Drone War Will Be Won—Or Lost—In The Chip",
-      "updated_at": "2026-11-15T10:58:36.260993+00:00",
+      "updated_at": "2026-11-15T10:58:43.415987+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-drone-war-will-be-wonor-lostin.html"
     },
     "bf0fe8c22deff580e861168d": {
@@ -26107,9 +26109,10 @@
     "d64c60c7747142e1df43dac8": {
       "published_at": "2026-11-15T10:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13794,
       "title": "Fear of Fresh Strikes And 'Unknown Gunmen': Terrorists Hafiz Saeed, Masood Azhar Relocated To Fortified Pakistan Safe Houses",
-      "updated_at": "2026-11-15T10:58:36.260978+00:00",
+      "updated_at": "2026-11-15T10:58:39.312550+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/fear-of-fresh-strikes-and-unknown.html"
     },
     "d6623baa4b44cb83b49f3d88": {
@@ -31497,6 +31500,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-15T10:58:36.264701+00:00",
+  "last_cycle_at": "2026-11-15T10:58:50.411869+00:00",
   "schema_version": 1
 }
