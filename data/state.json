@@ -4493,9 +4493,10 @@
     "2573cd7c14e99277035258eb": {
       "published_at": "2026-11-15T10:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13792,
       "title": "India Reaffirms BrahMos Support For Philippines As South China Sea Tensions Persist",
-      "updated_at": "2026-11-15T10:29:57.176375+00:00",
+      "updated_at": "2026-11-15T10:30:03.670452+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-reaffirms-brahmos-support-for.html"
     },
     "257aed234e8fa4afa5b2a014": {
@@ -27349,9 +27350,10 @@
     "e1c366fe906ceafd605b1a7e": {
       "published_at": "2026-11-15T10:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13793,
       "title": "Jaishankar Says China Border More Active As India Strengthens Frontier Infrastructure And Military Deployment",
-      "updated_at": "2026-11-15T10:29:57.176378+00:00",
+      "updated_at": "2026-11-15T10:30:07.666937+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/jaishankar-says-china-border-more.html"
     },
     "e1d9eef7d1bb7de79381e1c6": {
@@ -28346,9 +28348,10 @@
     "e9b14d9f6f87ce752d9a39d7": {
       "published_at": "2026-11-15T10:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13791,
       "title": "China Concentrates J-20 Fighters And H-6 Bombers In Massive Air Exercise With Major Implications For US Forces",
-      "updated_at": "2026-11-15T10:29:57.176361+00:00",
+      "updated_at": "2026-11-15T10:29:59.743559+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/china-concentrates-j-20-fighters-and-h.html"
     },
     "e9c6b5d0a134a1c689f8f293": {
@@ -31470,6 +31473,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-15T10:29:57.179579+00:00",
+  "last_cycle_at": "2026-11-15T10:30:10.870186+00:00",
   "schema_version": 1
 }
