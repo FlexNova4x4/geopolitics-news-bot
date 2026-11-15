@@ -7577,9 +7577,10 @@
     "4080b4af04f0b5c05b49d8da": {
       "published_at": "2026-11-15T11:33:32+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13797,
       "title": "First India - Somalia Foreign Office Consultations - Ministry of External Affairs",
-      "updated_at": "2026-11-15T11:58:26.426116+00:00",
+      "updated_at": "2026-11-15T11:58:29.178230+00:00",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSE9CcEhTVTdnX01NdEtVdGhWS1VUQ0pTUy0wUjFKM1AyWUI5NkFIX04xX3d3V3dGWldkWU13NXFXWTRjZDJLVTNsemI1c2lyVnkyeUpOMjFFUzN5dm03alZlSndxZ19SYnhTVlBnWmxvZi02YU41N3A5bFo2aDJWWmZLSWtjVDhBZlN6REdzRHFycjlLcDBZRUFlVmQ3Zw?oc=5"
     },
     "409489efcdb60ceddcd8840f": {
@@ -31508,6 +31509,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-15T11:58:26.429258+00:00",
+  "last_cycle_at": "2026-11-15T11:58:32.381626+00:00",
   "schema_version": 1
 }
