@@ -17152,9 +17152,10 @@
     "8cce804d1c90188c9c271e76": {
       "published_at": "2026-11-16T00:10:00+00:00",
       "source": "The Diplomat (Asia Defense)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13819,
       "title": "Philippines, Australia Sign New Defense Agreement Amid China Pressure",
-      "updated_at": "2026-11-16T06:55:43.955997+00:00",
+      "updated_at": "2026-11-16T06:55:47.500461+00:00",
       "url": "https://thediplomat.com/2026/11/philippines-australia-sign-new-defense-agreement-amid-china-pressure"
     },
     "8cd50293985dd714395fa64a": {
@@ -31661,6 +31662,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-16T06:55:43.959423+00:00",
+  "last_cycle_at": "2026-11-16T06:55:50.704475+00:00",
   "schema_version": 1
 }
