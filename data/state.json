@@ -10823,9 +10823,10 @@
     "59f828b65fae0c2b0968e61b": {
       "published_at": "2026-11-16T04:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13817,
       "title": "AMCA Fifth-Generation Fighter Program Moves Ahead As Three Bidders Enter Evaluation Phase",
-      "updated_at": "2026-11-16T06:27:38.459803+00:00",
+      "updated_at": "2026-11-16T06:27:49.803085+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/amca-fifth-generation-fighter-program.html"
     },
     "5a03f5a7d7cfb256e17453fb": {
@@ -13464,9 +13465,10 @@
     "6fa97853d9ed7a27f9937653": {
       "published_at": "2026-11-16T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13816,
       "title": "DRDO Develops Ceramic-Faced Composite Armour Protection Panels For DHRUV Advanced Light Helicopter Army Variant",
-      "updated_at": "2026-11-16T06:27:38.459799+00:00",
+      "updated_at": "2026-11-16T06:27:45.716135+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/drdo-develops-ceramic-faced-composite.html"
     },
     "6fabe6311aee0a66128a8ed1": {
@@ -17906,9 +17908,10 @@
     "936fd9dfc4cd23337e3db546": {
       "published_at": "2026-11-16T04:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13818,
       "title": "India’s Indigenous SuryAstra Rocket Launcher Clears 300 km Trial Milestone",
-      "updated_at": "2026-11-16T06:27:38.459806+00:00",
+      "updated_at": "2026-11-16T06:27:53.891027+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-indigenous-suryastra-rocket.html"
     },
     "9374a5c3243363901b32ce2b": {
@@ -29523,9 +29526,10 @@
     "f12d813ec920e607b2c52d20": {
       "published_at": "2026-11-16T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13815,
       "title": "Army Chief General Dhiraj Seth Begins Czech Republic Visit To Deepen Defence And Industrial Cooperation",
-      "updated_at": "2026-11-16T06:27:38.459784+00:00",
+      "updated_at": "2026-11-16T06:27:41.662260+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/army-chief-general-dhiraj-seth-begins.html"
     },
     "f13d334f366b3255cf928c64": {
@@ -31649,6 +31653,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-16T06:27:38.463233+00:00",
+  "last_cycle_at": "2026-11-16T06:27:57.094484+00:00",
   "schema_version": 1
 }
