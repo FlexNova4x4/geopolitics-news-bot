@@ -17149,6 +17149,14 @@
       "updated_at": "2026-10-26T22:44:09.715717+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/dance-drama-mark-blooming-buds-schools-annual-function"
     },
+    "8cce804d1c90188c9c271e76": {
+      "published_at": "2026-11-16T00:10:00+00:00",
+      "source": "The Diplomat (Asia Defense)",
+      "status": "reserved",
+      "title": "Philippines, Australia Sign New Defense Agreement Amid China Pressure",
+      "updated_at": "2026-11-16T06:55:43.955997+00:00",
+      "url": "https://thediplomat.com/2026/11/philippines-australia-sign-new-defense-agreement-amid-china-pressure"
+    },
     "8cd50293985dd714395fa64a": {
       "published_at": "2026-10-25T14:11:15+00:00",
       "source": "thehindu.com",
@@ -31653,6 +31661,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-16T06:27:57.094484+00:00",
+  "last_cycle_at": "2026-11-16T06:55:43.959423+00:00",
   "schema_version": 1
 }
