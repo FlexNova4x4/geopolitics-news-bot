@@ -13393,9 +13393,10 @@
     "6f0f36de524df2094fdd5149": {
       "published_at": "2026-11-16T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13814,
       "title": "China Unveils Upgraded VT-4B Tank Used By Pakistan Army",
-      "updated_at": "2026-11-16T06:27:03.284309+00:00",
+      "updated_at": "2026-11-16T06:27:19.183000+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/china-unveils-upgraded-vt-4b-tank-used.html"
     },
     "6f2a3db7d00479152bd4c254": {
@@ -18105,9 +18106,10 @@
     "94c82bb58d1e7e74c12a2370": {
       "published_at": "2026-11-16T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13811,
       "title": "DRDL Advances Indigenous Electro-Magnetic Pulse Welding Project With ₹49 Lakh Industry Partnership",
-      "updated_at": "2026-11-16T06:27:03.284279+00:00",
+      "updated_at": "2026-11-16T06:27:06.971151+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/drdl-advances-indigenous-electro.html"
     },
     "94da8570247c0a4742ecfbd1": {
@@ -23732,9 +23734,10 @@
     "c154b9ebd3a026a946966f1e": {
       "published_at": "2026-11-16T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13812,
       "title": "‘Utterly Ridiculous’: State Department Pushes Back on Report That Trump Is Ignoring Quad",
-      "updated_at": "2026-11-16T06:27:03.284299+00:00",
+      "updated_at": "2026-11-16T06:27:11.018879+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/utterly-ridiculous-state-department.html"
     },
     "c155aba7bdd9dd0a4a4e8f26": {
@@ -30386,9 +30389,10 @@
     "f757f3899782d809ed893bb5": {
       "published_at": "2026-11-16T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13813,
       "title": "PM Modi Heads To Manila For ASEAN Summit As Maritime Security And Trade Take Centre Stage",
-      "updated_at": "2026-11-16T06:27:03.284304+00:00",
+      "updated_at": "2026-11-16T06:27:15.131102+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pm-modi-heads-to-manila-for-asean.html"
     },
     "f75e6d81d218517037980800": {
@@ -31613,6 +31617,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-16T06:27:03.287587+00:00",
+  "last_cycle_at": "2026-11-16T06:27:22.386737+00:00",
   "schema_version": 1
 }
