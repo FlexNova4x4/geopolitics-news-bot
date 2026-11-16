@@ -831,9 +831,10 @@
     "06ff185897ab7b4ada405beb": {
       "published_at": "2026-11-16T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13804,
       "title": "Voyager-1 Set To Become First Human-Made Object To Reach One Light-Day From Earth",
-      "updated_at": "2026-11-16T06:26:09.352065+00:00",
+      "updated_at": "2026-11-16T06:26:16.915920+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/voyager-1-set-to-become-first-human.html"
     },
     "0726b45718d40494e2b3bc8b": {
@@ -1604,9 +1605,10 @@
     "0d2ac1b496e540e9883dcbbb": {
       "published_at": "2026-11-16T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13806,
       "title": "Pakistan Sends Indus Treaty Hardliner Musadik Malik To Delhi For SCO Forum Visit",
-      "updated_at": "2026-11-16T06:26:09.352076+00:00",
+      "updated_at": "2026-11-16T06:26:25.105362+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistan-sends-indus-treaty-hardliner.html"
     },
     "0d34f90517293943383adb94": {
@@ -27878,9 +27880,10 @@
     "e57fc9cb952e81f40ed9d6d5": {
       "published_at": "2026-11-16T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13805,
       "title": "India-Philippines Strategic Partnership Gains Momentum Ahead of PM Modi’s Manila Visit",
-      "updated_at": "2026-11-16T06:26:09.352072+00:00",
+      "updated_at": "2026-11-16T06:26:21.027215+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-philippines-strategic-partnership.html"
     },
     "e58909561067843becf960cf": {
@@ -29433,9 +29436,10 @@
     "f13d334f366b3255cf928c64": {
       "published_at": "2026-11-16T02:48:57+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13803,
       "title": "Prime Minister’s Departure Statement Ahead of His Visit to the Philippines - Ministry of External Affairs",
-      "updated_at": "2026-11-16T06:26:09.352045+00:00",
+      "updated_at": "2026-11-16T06:26:13.021363+00:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnZwRUFrSjJ6R2UwbzdhYTdGZHpxVnlRUXd6UW9ERjFVUmhXN2lQY2lJSG1MaTZkTzVVOHJuZFFWTWdCU0JBV2lQZEhMZjBmRG40YWlrM2otWHAxT0Y5UDBBb0hQelVLcEJERXZLQWVxang3SkNZY1RRNTEwclhxSUVURDZheXluZFFnRng1MUdUZ095dUNwdmRIeDNVbmFuWmlGUnUtVmxsX2Y5ZHNFckJGTGw0RUdwSDY5TU1R?oc=5"
     },
     "f15ae302bd51681de58b6766": {
@@ -31541,6 +31545,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-16T06:26:09.358362+00:00",
+  "last_cycle_at": "2026-11-16T06:26:28.308728+00:00",
   "schema_version": 1
 }
