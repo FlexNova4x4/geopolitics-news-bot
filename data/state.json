@@ -16288,9 +16288,10 @@
     "8528999fe6ed3ac0baec150c": {
       "published_at": "2026-11-17T12:53:40+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13851,
       "title": "Quad Leaders’ Summit Joint Press Release - Ministry of External Affairs",
-      "updated_at": "2026-11-17T13:23:20.117044+00:00",
+      "updated_at": "2026-11-17T13:23:23.703178+00:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc24xcnFZQ1ctREFoWnhRNThvWHlWQlExTm5qUkc2Y1J6bGpjRlcyS3pOR0hRLXdGMHlYcW5YdUxwVU4xM3V0Qy11WnI1Ti0xYlR0Zkx6aUlmSnJwT0UzWUgzRlNRbU9oVVhaQkdXN2ZWYmtVeUFCTHNPWFZud1NCdlpCZWdJZEJJTUZNR3NxZUY?oc=5"
     },
     "852b030c5bbfb220c5aeb5fe": {
@@ -31895,6 +31896,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T13:23:20.120023+00:00",
+  "last_cycle_at": "2026-11-17T13:23:26.906269+00:00",
   "schema_version": 1
 }
