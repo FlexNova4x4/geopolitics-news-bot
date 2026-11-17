@@ -237,9 +237,10 @@
     "02222871533ed1dfe3133be3": {
       "published_at": "2026-11-17T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13838,
       "title": "IAF Chief Ashutosh Dixit Says India In 'Okay Situation' To Deter China, But Challenges Remain",
-      "updated_at": "2026-11-17T07:54:48.812173+00:00",
+      "updated_at": "2026-11-17T07:55:05.107907+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/iaf-chief-ashutosh-dixit-says-india-in.html"
     },
     "022684d1443a25e0db1b6b22": {
@@ -641,9 +642,10 @@
     "053c96ac0b82d77b7c0f42c8": {
       "published_at": "2026-11-17T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13837,
       "title": "Pakistani Ship Suffered Greater Damage After Collision With INS Kolkata, Says Navy Chief",
-      "updated_at": "2026-11-17T07:54:48.812170+00:00",
+      "updated_at": "2026-11-17T07:55:00.939157+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistani-ship-suffered-greater-damage.html"
     },
     "054e77d1e5ce1ec23102494b": {
@@ -19075,9 +19077,10 @@
     "9bafd7ed1ebccf67ac23e201": {
       "published_at": "2026-11-17T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13836,
       "title": "Trump Heads To Asia For ASEAN Summit, Putin-Xi Meeting As PM Modi To Advance India’s Indo-Pacific, QUAD Agenda In Manila",
-      "updated_at": "2026-11-17T07:54:48.812166+00:00",
+      "updated_at": "2026-11-17T07:54:56.601928+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trump-heads-to-asia-for-asean-summit.html"
     },
     "9bb7c67af820c8bfe92384cf": {
@@ -30189,9 +30192,10 @@
     "f50dcf94494342c158dc2379": {
       "published_at": "2026-11-17T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13835,
       "title": "Quad Reunites In Manila: Trump, Modi, Albanese And Takaichi Set Indo-Pacific Agenda",
-      "updated_at": "2026-11-17T07:54:48.812148+00:00",
+      "updated_at": "2026-11-17T07:54:52.476998+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/quad-reunites-in-manila-trump-modi.html"
     },
     "f51c704a4e0662c7e1c0acea": {
@@ -31775,6 +31779,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T07:54:48.814916+00:00",
+  "last_cycle_at": "2026-11-17T07:55:08.310920+00:00",
   "schema_version": 1
 }
