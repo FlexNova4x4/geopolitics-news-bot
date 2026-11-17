@@ -2703,9 +2703,10 @@
     "15db86040a01952f4dd881c8": {
       "published_at": "2026-11-17T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13828,
       "title": "Russian Scientists Advance Hybrid Vertical-Axis Wind Turbine Technology",
-      "updated_at": "2026-11-17T07:53:46.591699+00:00",
+      "updated_at": "2026-11-17T07:53:54.399616+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/russian-scientists-advance-hybrid.html"
     },
     "15e5d16c9bb68c99b214d3d6": {
@@ -4483,9 +4484,10 @@
     "24f8ee6dc15197fb67001986": {
       "published_at": "2026-11-17T03:34:51+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13827,
       "title": "Prime Minister visits Khalsa Diwan Gurudwara in Manila, Philippines | Ministry of External Affairs , Government of India - Ministry of External Affairs",
-      "updated_at": "2026-11-17T07:53:46.591682+00:00",
+      "updated_at": "2026-11-17T07:53:50.448228+00:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWhwN1lNYkRVcE9zNUtpVldidWFRVW5ydV90Z20xZEZGay1LOWpNN2NPenBpVG9nSFc5cjhmNF9QRVAtQXVhMjhMTlI4Q3JPYlpyZjNLdnExMmhuN09FQkI4UVJBTGt2Y3AxT0xNamtNa3VVeWhwN1RqbWhkaVVpbHZlRm95OHVNUFQ5QXJrOHl0YW00Sk1RMnBES245LUZ1LU96M1ZMVTkwWEs2eWhjWTJLMTY?oc=5"
     },
     "25055fe601576605c587032b": {
@@ -18248,9 +18250,10 @@
     "953be5825b59ed1fa225919f": {
       "published_at": "2026-11-17T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13829,
       "title": "Bangla Army Deploys Drones, APCs And Body Cameras In Gopalganj Amid Sheikh Hasina Return Speculation",
-      "updated_at": "2026-11-17T07:53:46.591702+00:00",
+      "updated_at": "2026-11-17T07:53:58.304195+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/bangla-army-deploys-drones-apcs-and.html"
     },
     "95449db266d3ea50ef521ae6": {
@@ -22265,9 +22268,10 @@
     "b65db42ccf81cf00ad583ebd": {
       "published_at": "2026-11-17T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13830,
       "title": "Former United States Secretary of State Antony Blinken Says U.S. Must Respect India’s Right To Defend Itself And Maintain Zero Tolerance Towards Terrorism",
-      "updated_at": "2026-11-17T07:53:46.591705+00:00",
+      "updated_at": "2026-11-17T07:54:02.479436+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/former-united-states-secretary-of-state.html"
     },
     "b65e6dc8bf8570fb344d29ae": {
@@ -31703,6 +31707,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T07:53:46.593820+00:00",
+  "last_cycle_at": "2026-11-17T07:54:05.682344+00:00",
   "schema_version": 1
 }
