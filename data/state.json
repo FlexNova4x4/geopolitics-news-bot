@@ -1524,9 +1524,10 @@
     "0c743eb2faf2185c95d9b5be": {
       "published_at": "2026-11-17T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13832,
       "title": "EU-India FTA Poised To Unlock New Opportunities For Assam And The Northeast, Says EU Ambassador",
-      "updated_at": "2026-11-17T07:54:11.982263+00:00",
+      "updated_at": "2026-11-17T07:54:19.770260+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eu-india-fta-poised-to-unlock-new.html"
     },
     "0c845ea173953c6e4050feeb": {
@@ -6748,9 +6749,10 @@
     "3921b16cd4d99b5da930ca8e": {
       "published_at": "2026-11-17T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13834,
       "title": "Ex-Pakistan Army Captain Rehman Gul Takes Charge of Baloch Liberation Army",
-      "updated_at": "2026-11-17T07:54:11.982269+00:00",
+      "updated_at": "2026-11-17T07:54:28.179231+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/ex-pakistan-army-captain-rehman-gul.html"
     },
     "394c1b37d8ee881b2942a9f7": {
@@ -23373,9 +23375,10 @@
     "be39d1aead63d46c9b3f41d3": {
       "published_at": "2026-11-17T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13833,
       "title": "PM Modi Receives Warm Welcome In Manila Ahead of ASEAN-India And East Asia Summits",
-      "updated_at": "2026-11-17T07:54:11.982266+00:00",
+      "updated_at": "2026-11-17T07:54:23.963090+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pm-modi-receives-warm-welcome-in-manila.html"
     },
     "be3b35495768a628df6e3a26": {
@@ -31365,9 +31368,10 @@
     "fd599b3ada3bc16d88e76bae": {
       "published_at": "2026-11-17T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13831,
       "title": "PM Modi Attends Gala Dinner Hosted By Philippine President Marcos In Manila",
-      "updated_at": "2026-11-17T07:54:11.982247+00:00",
+      "updated_at": "2026-11-17T07:54:15.502692+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pm-modi-attends-gala-dinner-hosted-by.html"
     },
     "fd61cdc3092d268654883d2d": {
@@ -31739,6 +31743,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T07:54:11.985210+00:00",
+  "last_cycle_at": "2026-11-17T07:54:31.382242+00:00",
   "schema_version": 1
 }
