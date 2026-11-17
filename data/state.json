@@ -4475,9 +4475,10 @@
     "24b740151524b9ad848783c2": {
       "published_at": "2026-11-17T06:39:01+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13844,
       "title": "India widens defence pitch to the Philippines beyond BrahMos",
-      "updated_at": "2026-11-17T08:23:28.424889+00:00",
+      "updated_at": "2026-11-17T08:23:35.782142+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-widens-defence-pitch-to-the-philippines-beyond-brahmos/135913977"
     },
     "24c739083af37b22d891469c": {
@@ -6550,9 +6551,10 @@
     "36ac2624261d96281930f3ef": {
       "published_at": "2026-11-17T06:26:23+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13843,
       "title": "Prime Minister's Opening Remarks at the 23rd ASEAN-India Summit (November 17, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-17T08:23:28.424870+00:00",
+      "updated_at": "2026-11-17T08:23:31.812741+00:00",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjctc19jWXc2RmpvTWQ3V0lRdExGRUhEQ2l1V0RSYVJhM0thTlVsQXRmRGtHRy00bEhUd3ViSkJULXJaaGNQNUpaREdNOGFrdm1NVFAtLUZMRHU3bjVSZUg1NmdBU2J3T3J2dDk1dzBfdF9LZXRpUUZzRjJBMmhHS1padUdUR3dFRUZoLUk5ZFdOTTZ1bVo3Q2w4TDgxZmU4ZUNDYW5mdEJYOGxXQlE3RTZfVnBuSGM0eUlLcGVCWmdOX3E0RmRDaHZTTQ?oc=5"
     },
     "36b5f46ed3bdc74083f77377": {
@@ -17303,9 +17305,10 @@
     "8d2c72e2285066daa7e8bfb7": {
       "published_at": "2026-11-17T07:51:19+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13846,
       "title": "Prime Minister participates in the 23rd India-ASEAN Summit in Manila - Ministry of External Affairs",
-      "updated_at": "2026-11-17T08:23:28.424896+00:00",
+      "updated_at": "2026-11-17T08:23:44.030836+00:00",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkVlTFVtWWs1YjJDV1l6MVRXaFpfSThLSFUtSmdTMDU1LThuTm1hUExUTm9CLUhIeU40QjRiVUFhS0ZseXVra2lLTW1RbXdHVGpJdVZMQkhfVFpIWXQ5bnltdll4Skc0RHVxY2NNZnNKWEZDSS1UOTJTWHVMVFhQT1pfaFZ4YmdnV1JVR2RpTk5ZU0FTd0JoclBkRi1fYU9TbWlaN0JCSG5MRW9pbTVwakJIRmpTQQ?oc=5"
     },
     "8d610e1c0e4165a8a9ecaaba": {
@@ -24514,9 +24517,10 @@
     "c5b567e9f3201d8093f33fe5": {
       "published_at": "2026-11-17T06:45:21+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13845,
       "title": "India to keep BrahMos upgrade details under wraps, says defence secretary",
-      "updated_at": "2026-11-17T08:23:28.424893+00:00",
+      "updated_at": "2026-11-17T08:23:39.867297+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-to-keep-brahmos-upgrade-details-under-wraps-says-defence-secretary/135914245"
     },
     "c5d819591e072513cc8dd440": {
@@ -31847,6 +31851,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T08:23:28.427779+00:00",
+  "last_cycle_at": "2026-11-17T08:23:47.233826+00:00",
   "schema_version": 1
 }
