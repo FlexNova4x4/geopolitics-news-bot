@@ -6227,9 +6227,10 @@
     "34703b2ac5268bdac0f58708": {
       "published_at": "2026-11-17T10:17:13+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13850,
       "title": "Prime Minister meets with the Prime Minister of Singapore on the sidelines of the ASEAN Summit in Manila - Ministry of External Affairs",
-      "updated_at": "2026-11-17T10:23:23.556279+00:00",
+      "updated_at": "2026-11-17T10:23:34.540046+00:00",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQjhkSktjZG44Y0J5aXR1ZkZHdkYxX2lWUC1jTUQ3RWVkMGtEUkF3TDhPN1YwV1N6S3c3cjZscjgzQ0NsbnJUNGNDcHBSM2JnRVhiQVBXSUdLNkQ0aDBQdGRWb2FrdG5uUk8xNjJYMnVLdGR1eDgwRmJoaG9sUmdvNjMxcmhna2l0X0NNbXF6Tm5xMjdNQURGczBWUlc3bXJzQUQ5cHBJWkwyN3FFbEVXekt1OG9EREk5Y213a28wTW5haUdSbkhuMnpUUGxJdmRZYmVtbUdSb2pxVzM0NlBlX3ZnSUhlZWM?oc=5"
     },
     "34883c4e31ccf10a081906fa": {
@@ -9151,9 +9152,10 @@
     "4c1773968cd300a6cf594cfa": {
       "published_at": "2026-11-17T10:12:11+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13849,
       "title": "Prime Minister addresses the 21st East Asia Summit in Manila - Ministry of External Affairs",
-      "updated_at": "2026-11-17T10:23:23.556274+00:00",
+      "updated_at": "2026-11-17T10:23:30.634357+00:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb3kxck1xa2dfaWx6ZnhLRkNlMGlMV2xiaUF5TFlmVTVoa18xT2E5OU1qb1NwRlhmVURyNmg2MENVWFBvLUROdUFTSVlpeUhhVjFMSzVwLVoxWUlScEFRaGEteFJLRGROTXkzSUR6RlhkazlGN3FwMW1udWVHU2xRUmFzODFTYmE5Q1dtOGllTWFqcHZuelEtclR1SWV1eDNVVUc4dDJEcTdaejBp?oc=5"
     },
     "4c4507b441e36f8a51901405": {
@@ -25946,9 +25948,10 @@
     "d349236563b9d98feb588a87": {
       "published_at": "2026-11-17T10:02:39+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13848,
       "title": "Prime Minister's Statement at the 21st East Asia Summit (November 17, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-17T10:23:23.556256+00:00",
+      "updated_at": "2026-11-17T10:23:26.674415+00:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUHZqMW9xSXA2YWNjbFJ5VDNRZ1plT2tvVHVScE14RG5iR0Uwc2lkeGNnb2p5QmxvVklkQlBHZU1HLW1Ha2dIZmZtY0pvaU9fZzlTZ0d6RjBPV2tiNFUwS2U0SC1qdXQ4NnVnYjJybXVjT2NDZ2NjYUxaQWdGY1V0cEFaT0MydnhNRXZMdnlzUVR0QmJ0VTBEcUJoRGxBQlhDOUZvNlh4TVJWNEt1MGxiNjhMTW43WXpSSEZUcktaOHZLQQ?oc=5"
     },
     "d34ac04bf63ca9bd616f8b3a": {
@@ -31884,6 +31887,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T10:23:23.559225+00:00",
+  "last_cycle_at": "2026-11-17T10:23:37.743212+00:00",
   "schema_version": 1
 }
