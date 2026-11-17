@@ -2700,6 +2700,14 @@
       "updated_at": "2026-10-25T22:00:35.419759+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
     },
+    "15db86040a01952f4dd881c8": {
+      "published_at": "2026-11-17T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Russian Scientists Advance Hybrid Vertical-Axis Wind Turbine Technology",
+      "updated_at": "2026-11-17T07:53:46.591699+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/russian-scientists-advance-hybrid.html"
+    },
     "15e5d16c9bb68c99b214d3d6": {
       "published_at": "2026-10-29T16:37:34+00:00",
       "source": "thehindu.com",
@@ -4471,6 +4479,14 @@
       "title": "INS Sahyadri Begins Sea Phase Of India-South Korea Naval Exercise In Busan",
       "updated_at": "2026-10-30T04:46:41.418585+00:00",
       "url": "https://www.indiandefensenews.in/2026/10/ins-sahyadri-begins-sea-phase-of-india.html"
+    },
+    "24f8ee6dc15197fb67001986": {
+      "published_at": "2026-11-17T03:34:51+00:00",
+      "source": "MEA India (indexed fallback)",
+      "status": "reserved",
+      "title": "Prime Minister visits Khalsa Diwan Gurudwara in Manila, Philippines | Ministry of External Affairs , Government of India - Ministry of External Affairs",
+      "updated_at": "2026-11-17T07:53:46.591682+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWhwN1lNYkRVcE9zNUtpVldidWFRVW5ydV90Z20xZEZGay1LOWpNN2NPenBpVG9nSFc5cjhmNF9QRVAtQXVhMjhMTlI4Q3JPYlpyZjNLdnExMmhuN09FQkI4UVJBTGt2Y3AxT0xNamtNa3VVeWhwN1RqbWhkaVVpbHZlRm95OHVNUFQ5QXJrOHl0YW00Sk1RMnBES245LUZ1LU96M1ZMVTkwWEs2eWhjWTJLMTY?oc=5"
     },
     "25055fe601576605c587032b": {
       "published_at": "2026-10-25T15:48:52+00:00",
@@ -18229,6 +18245,14 @@
       "updated_at": "2026-10-27T15:42:22.305402+00:00",
       "url": "https://www.hindustantimes.com/india-news/network-glitch-hits-mumbai-airport-indigo-and-air-india-operations-affected-101793113773565.html"
     },
+    "953be5825b59ed1fa225919f": {
+      "published_at": "2026-11-17T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Bangla Army Deploys Drones, APCs And Body Cameras In Gopalganj Amid Sheikh Hasina Return Speculation",
+      "updated_at": "2026-11-17T07:53:46.591702+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/bangla-army-deploys-drones-apcs-and.html"
+    },
     "95449db266d3ea50ef521ae6": {
       "published_at": "2026-10-28T23:07:13+00:00",
       "source": "publish.tribuneindia.com",
@@ -22237,6 +22261,14 @@
       "title": "NDA sweeps Pulivendula ZPTC, MPTC polls in YSR family bastion",
       "updated_at": "2026-10-27T15:18:18.638846+00:00",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-sweeps-pulivendula-zptc-mptc-polls-in-ysr-family-bastion/article71632157.ece"
+    },
+    "b65db42ccf81cf00ad583ebd": {
+      "published_at": "2026-11-17T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Former United States Secretary of State Antony Blinken Says U.S. Must Respect India’s Right To Defend Itself And Maintain Zero Tolerance Towards Terrorism",
+      "updated_at": "2026-11-17T07:53:46.591705+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/former-united-states-secretary-of-state.html"
     },
     "b65e6dc8bf8570fb344d29ae": {
       "published_at": "2026-10-25T23:57:15+00:00",
@@ -31671,6 +31703,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T00:30:11.041175+00:00",
+  "last_cycle_at": "2026-11-17T07:53:46.593820+00:00",
   "schema_version": 1
 }
