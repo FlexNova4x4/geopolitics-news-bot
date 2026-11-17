@@ -1521,6 +1521,14 @@
       "updated_at": "2026-10-27T09:04:01.825001+00:00",
       "url": "https://www.hindustantimes.com/india-news/up-three-businessmen-found-dead-inside-car-pulled-out-of-sitapur-pond-101793089679259.html"
     },
+    "0c743eb2faf2185c95d9b5be": {
+      "published_at": "2026-11-17T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "EU-India FTA Poised To Unlock New Opportunities For Assam And The Northeast, Says EU Ambassador",
+      "updated_at": "2026-11-17T07:54:11.982263+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/eu-india-fta-poised-to-unlock-new.html"
+    },
     "0c845ea173953c6e4050feeb": {
       "published_at": "2026-10-27T10:17:36+00:00",
       "source": "feeds.bbci.co.uk",
@@ -6736,6 +6744,14 @@
       "title": "Free medical camp held for construction workers in Vellore",
       "updated_at": "2026-10-25T18:14:04.457509+00:00",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/free-medical-camp-held-for-construction-workers-in-vellore/article71623138.ece"
+    },
+    "3921b16cd4d99b5da930ca8e": {
+      "published_at": "2026-11-17T04:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Ex-Pakistan Army Captain Rehman Gul Takes Charge of Baloch Liberation Army",
+      "updated_at": "2026-11-17T07:54:11.982269+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/ex-pakistan-army-captain-rehman-gul.html"
     },
     "394c1b37d8ee881b2942a9f7": {
       "published_at": "2026-10-25T11:23:11+00:00",
@@ -23354,6 +23370,14 @@
       "updated_at": "2026-10-29T14:02:51.798712+00:00",
       "url": "https://www.hindustantimes.com/india-news/delhi-jantar-mantar-added-as-venue-for-indian-biennale-2026-101793278787855.html"
     },
+    "be39d1aead63d46c9b3f41d3": {
+      "published_at": "2026-11-17T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "PM Modi Receives Warm Welcome In Manila Ahead of ASEAN-India And East Asia Summits",
+      "updated_at": "2026-11-17T07:54:11.982266+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/pm-modi-receives-warm-welcome-in-manila.html"
+    },
     "be3b35495768a628df6e3a26": {
       "published_at": "2026-10-25T14:05:22+00:00",
       "source": "thehindu.com",
@@ -31338,6 +31362,14 @@
       "updated_at": "2026-10-29T05:19:11.734985+00:00",
       "url": "https://www.dawn.com/news/2040659/kp-dengue-cases-likely-to-drop-next-month-experts"
     },
+    "fd599b3ada3bc16d88e76bae": {
+      "published_at": "2026-11-17T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "PM Modi Attends Gala Dinner Hosted By Philippine President Marcos In Manila",
+      "updated_at": "2026-11-17T07:54:11.982247+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/pm-modi-attends-gala-dinner-hosted-by.html"
+    },
     "fd61cdc3092d268654883d2d": {
       "published_at": "2026-10-29T03:12:47+00:00",
       "source": "aljazeera.com",
@@ -31707,6 +31739,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T07:54:05.682344+00:00",
+  "last_cycle_at": "2026-11-17T07:54:11.985210+00:00",
   "schema_version": 1
 }
