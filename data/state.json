@@ -4382,6 +4382,14 @@
       "updated_at": "2026-10-26T23:10:23.322565+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwj3425g5381o?at_medium=RSS&at_campaign=rss"
     },
+    "23f89789cde9a69069ff5c22": {
+      "published_at": "2026-11-17T04:30:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India To Name AMCA Fighter Developer Within A Month, Defence Secretary Gives Major Update",
+      "updated_at": "2026-11-17T07:55:22.460969+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/india-to-name-amca-fighter-developer.html"
+    },
     "240852db51392a025bfef118": {
       "published_at": "2026-10-29T13:44:39+00:00",
       "source": "feeds.bbci.co.uk",
@@ -9644,6 +9652,14 @@
       "updated_at": "2026-11-07T15:28:49.679438+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/balochistan-parties-announce-province.html"
     },
+    "509ccbc9e11c8ce781e08aab": {
+      "published_at": "2026-11-17T04:28:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India Advances Laser Power Beaming With Ambitious Space And Aviation Goals",
+      "updated_at": "2026-11-17T07:55:22.460963+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/india-advances-laser-power-beaming-with.html"
+    },
     "50a4cdb6e1ae84b61fbca6d1": {
       "published_at": "2026-10-27T12:20:50+00:00",
       "source": "dawn.com",
@@ -9929,6 +9945,14 @@
       "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
       "updated_at": "2026-10-26T11:45:06.602724+00:00",
       "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss"
+    },
+    "52b4a80aac46678dc800f51a": {
+      "published_at": "2026-11-17T04:29:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India’s ₹1.11 Lakh Crore Submarine Push Nears Go-Ahead: German And French Deals In Final Lap",
+      "updated_at": "2026-11-17T07:55:22.460966+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/indias-111-lakh-crore-submarine-push.html"
     },
     "52dddde132de801ff7d604fe": {
       "published_at": "2026-10-27T04:21:30+00:00",
@@ -28093,6 +28117,14 @@
       "updated_at": "2026-10-29T03:41:04.669401+00:00",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss"
     },
+    "e5d95d6d9c69fdd647ccf814": {
+      "published_at": "2026-11-17T04:28:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "'NO': Defence Secretary Shuts Door On Revealing Upgraded BrahMos Details",
+      "updated_at": "2026-11-17T07:55:22.460947+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/no-defence-secretary-shuts-door-on.html"
+    },
     "e5f3482befc22ed1ccad3206": {
       "published_at": "2026-10-26T08:18:39+00:00",
       "source": "aljazeera.com",
@@ -31779,6 +31811,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T07:55:08.310920+00:00",
+  "last_cycle_at": "2026-11-17T07:55:22.464197+00:00",
   "schema_version": 1
 }
