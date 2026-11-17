@@ -4385,9 +4385,10 @@
     "23f89789cde9a69069ff5c22": {
       "published_at": "2026-11-17T04:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13842,
       "title": "India To Name AMCA Fighter Developer Within A Month, Defence Secretary Gives Major Update",
-      "updated_at": "2026-11-17T07:55:22.460969+00:00",
+      "updated_at": "2026-11-17T07:55:38.065303+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-to-name-amca-fighter-developer.html"
     },
     "240852db51392a025bfef118": {
@@ -9655,9 +9656,10 @@
     "509ccbc9e11c8ce781e08aab": {
       "published_at": "2026-11-17T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13840,
       "title": "India Advances Laser Power Beaming With Ambitious Space And Aviation Goals",
-      "updated_at": "2026-11-17T07:55:22.460963+00:00",
+      "updated_at": "2026-11-17T07:55:29.827281+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-advances-laser-power-beaming-with.html"
     },
     "50a4cdb6e1ae84b61fbca6d1": {
@@ -9949,9 +9951,10 @@
     "52b4a80aac46678dc800f51a": {
       "published_at": "2026-11-17T04:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13841,
       "title": "India’s ₹1.11 Lakh Crore Submarine Push Nears Go-Ahead: German And French Deals In Final Lap",
-      "updated_at": "2026-11-17T07:55:22.460966+00:00",
+      "updated_at": "2026-11-17T07:55:33.961586+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-111-lakh-crore-submarine-push.html"
     },
     "52dddde132de801ff7d604fe": {
@@ -28120,9 +28123,10 @@
     "e5d95d6d9c69fdd647ccf814": {
       "published_at": "2026-11-17T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13839,
       "title": "'NO': Defence Secretary Shuts Door On Revealing Upgraded BrahMos Details",
-      "updated_at": "2026-11-17T07:55:22.460947+00:00",
+      "updated_at": "2026-11-17T07:55:25.691395+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/no-defence-secretary-shuts-door-on.html"
     },
     "e5f3482befc22ed1ccad3206": {
@@ -31811,6 +31815,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T07:55:22.464197+00:00",
+  "last_cycle_at": "2026-11-17T07:55:41.268219+00:00",
   "schema_version": 1
 }
