@@ -5112,9 +5112,10 @@
     "2bbb0066c24133fb799e5440": {
       "published_at": "2026-11-16T18:37:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13824,
       "title": "Is Bangladesh Sending Human Rights Violators Abroad as Peacekeepers?",
-      "updated_at": "2026-11-17T00:30:04.207873+00:00",
+      "updated_at": "2026-11-17T00:30:07.837837+00:00",
       "url": "https://thediplomat.com/2026/11/is-bangladesh-sending-human-rights-violators-abroad-as-peacekeepers"
     },
     "2bd08e7e550900e23c383a22": {
@@ -31670,6 +31671,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-17T00:30:04.210829+00:00",
+  "last_cycle_at": "2026-11-17T00:30:11.041175+00:00",
   "schema_version": 1
 }
