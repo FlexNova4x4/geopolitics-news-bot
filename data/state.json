@@ -6245,9 +6245,10 @@
     "347d9ccbe8b80ff023be4c64": {
       "published_at": "2026-11-18T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13864,
       "title": "Modi Urges India-ASEAN Cooperation To Build Peace, Stability And Predictability",
-      "updated_at": "2026-11-18T07:27:35.705317+00:00",
+      "updated_at": "2026-11-18T07:27:49.493391+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/modi-urges-india-asean-cooperation-to.html"
     },
     "34883c4e31ccf10a081906fa": {
@@ -12709,9 +12710,10 @@
     "68f56f5aad5cd320878f135d": {
       "published_at": "2026-11-18T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13861,
       "title": "India And Japan To Deepen Defence Cooperation At 2+2 Talks",
-      "updated_at": "2026-11-18T07:27:35.705291+00:00",
+      "updated_at": "2026-11-18T07:27:38.003805+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-and-japan-to-deepen-defence.html"
     },
     "68ff44b81e3eead272369b09": {
@@ -17843,9 +17845,10 @@
     "91596266ad76a4d165d36de7": {
       "published_at": "2026-11-18T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13863,
       "title": "Finance Minister Sitharaman Holds Third Pre-Budget Meeting With Manufacturing Leaders Ahead of Union Budget 2027-28",
-      "updated_at": "2026-11-18T07:27:35.705313+00:00",
+      "updated_at": "2026-11-18T07:27:45.771849+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/finance-minister-sitharaman-holds-third.html"
     },
     "915e447cb7555f7e2bdd16c6": {
@@ -28489,9 +28492,10 @@
     "e75587f3b8f1daa22cb91a2b": {
       "published_at": "2026-11-18T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13862,
       "title": "PM Modi Says India's Growth And ASEAN's Prosperity Are Closely Linked At 23rd ASEAN-India Summit",
-      "updated_at": "2026-11-18T07:27:35.705308+00:00",
+      "updated_at": "2026-11-18T07:27:41.731914+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pm-modi-says-indias-growth-and-aseans.html"
     },
     "e7641a5f203bce7754c1b7b1": {
@@ -31973,6 +31977,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-18T07:27:35.708483+00:00",
+  "last_cycle_at": "2026-11-18T07:27:52.697090+00:00",
   "schema_version": 1
 }
