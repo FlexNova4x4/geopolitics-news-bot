@@ -11488,9 +11488,10 @@
     "5d8e39ca66ab944f4b0ab7c9": {
       "published_at": "2026-11-18T04:51:03+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13872,
       "title": "Hormuz tensions deepen as another U.S. carrier enters the Gulf",
-      "updated_at": "2026-11-18T07:28:43.136212+00:00",
+      "updated_at": "2026-11-18T07:28:57.368568+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/research-security/hormuz-tensions-deepen-as-another-u-s-carrier-enters-the-gulf/135949631"
     },
     "5d968e6a344ce48f7a71a073": {
@@ -20504,9 +20505,10 @@
     "a64f5bdf3f5a5a592e241f9d": {
       "published_at": "2026-11-18T04:40:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13871,
       "title": "LeT Commander’s Alleged Aide Killed In Kulgam Encounter After Months of Providing Shelter",
-      "updated_at": "2026-11-18T07:28:43.136209+00:00",
+      "updated_at": "2026-11-18T07:28:53.460100+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/let-commanders-alleged-aide-killed-in.html"
     },
     "a66b8c8c034ae4b80f630886": {
@@ -25379,9 +25381,10 @@
     "ccafb9af81b364f69e789346": {
       "published_at": "2026-11-18T04:39:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13869,
       "title": "L&T Targets Zorawar Tank Production By 2029, Awaits Outcome of Competitive AMCA Bid",
-      "updated_at": "2026-11-18T07:28:43.136191+00:00",
+      "updated_at": "2026-11-18T07:28:45.990275+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/l-targets-zorawar-tank-production-by.html"
     },
     "ccc58351ac825cce4a52baac": {
@@ -29622,9 +29625,10 @@
     "ef86fcc06e94cbe88a31221b": {
       "published_at": "2026-11-18T04:40:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13870,
       "title": "Builders' Navy: Indian Navy Says 49 Indigenous Warships Are Under Construction In India",
-      "updated_at": "2026-11-18T07:28:43.136205+00:00",
+      "updated_at": "2026-11-18T07:28:49.735753+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/builders-navy-indian-navy-says-49.html"
     },
     "ef9907c04e18a81af2ef7881": {
@@ -32045,6 +32049,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-18T07:28:43.139518+00:00",
+  "last_cycle_at": "2026-11-18T07:29:00.571950+00:00",
   "schema_version": 1
 }
