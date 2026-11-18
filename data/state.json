@@ -14355,9 +14355,10 @@
     "74c42d1807dfa2e4905f9429": {
       "published_at": "2026-11-18T04:56:55+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13875,
       "title": "Indian Army's next-gen artillery gets smarter, longer range and more precise",
-      "updated_at": "2026-11-18T07:29:09.068787+00:00",
+      "updated_at": "2026-11-18T07:29:19.408796+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/indian-armys-next-gen-artillery-gets-smarter-longer-range-and-more-precise/135949827"
     },
     "74fd03933f58a12b1008e03e": {
@@ -19892,9 +19893,10 @@
     "a1596167960367dd80ee957f": {
       "published_at": "2026-11-18T04:55:20+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13874,
       "title": "IAF's long wait for Tejas Mk-1A nears end",
-      "updated_at": "2026-11-18T07:29:09.068782+00:00",
+      "updated_at": "2026-11-18T07:29:15.458112+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/iafs-long-wait-for-tejas-mk-1a-nears-end/135949770"
     },
     "a176c46ba3ced591195c935c": {
@@ -24677,9 +24679,10 @@
     "c5c1ba9078f9de1570fd2d69": {
       "published_at": "2026-11-18T04:51:45+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13873,
       "title": "Chinese military aircraft reportedly enters Indian airspace over Sikkim",
-      "updated_at": "2026-11-18T07:29:09.068767+00:00",
+      "updated_at": "2026-11-18T07:29:11.538835+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/research-security/chinese-military-aircraft-reportedly-enters-indian-airspace-over-sikkim/135949651"
     },
     "c5d819591e072513cc8dd440": {
@@ -32073,6 +32076,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-18T07:29:09.071918+00:00",
+  "last_cycle_at": "2026-11-18T07:29:22.612231+00:00",
   "schema_version": 1
 }
