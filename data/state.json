@@ -930,9 +930,10 @@
     "0778a63fbba2b61a6ccd2511": {
       "published_at": "2026-11-18T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13859,
       "title": "India, Japan Navies Deepen Maritime Ties Through JAIMEX26 Exercise",
-      "updated_at": "2026-11-18T07:27:03.122502+00:00",
+      "updated_at": "2026-11-18T07:27:13.104067+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-japan-navies-deepen-maritime-ties.html"
     },
     "0779980b6101bb6bb57ce453": {
@@ -13446,9 +13447,10 @@
     "6e71df6881b2d4db8d79cf5f": {
       "published_at": "2026-11-18T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13857,
       "title": "Pakistani National Jailed For More Than 27 Years Over Iranian-Backed Plot To Assassinate Trump",
-      "updated_at": "2026-11-18T07:27:03.122478+00:00",
+      "updated_at": "2026-11-18T07:27:05.599318+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistani-national-jailed-for-more-than.html"
     },
     "6e81a0dcdc2b30442b469f92": {
@@ -15908,9 +15910,10 @@
     "81a7ed2346d4e70a2b4e8ffa": {
       "published_at": "2026-11-18T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13860,
       "title": "India Backs Japan's BRIDGE Asia Initiative At AZEC Summit, Reaffirms Commitment To Energy Security And Resilient Supply Chains",
-      "updated_at": "2026-11-18T07:27:03.122507+00:00",
+      "updated_at": "2026-11-18T07:27:16.846721+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-backs-japans-bridge-asia.html"
     },
     "81bb33b994aecc5ade446708": {
@@ -29928,9 +29931,10 @@
     "f20b22a003142eca0e3dc029": {
       "published_at": "2026-11-18T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13858,
       "title": "Siberia Military Plane Crash Kills 19 As Investigators Probe Suspected Equipment Failure",
-      "updated_at": "2026-11-18T07:27:03.122496+00:00",
+      "updated_at": "2026-11-18T07:27:09.327806+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/siberia-military-plane-crash-kills-19.html"
     },
     "f2159dbcf1ae0cdd5c8d4556": {
@@ -31937,6 +31941,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-18T07:27:03.128656+00:00",
+  "last_cycle_at": "2026-11-18T07:27:20.050016+00:00",
   "schema_version": 1
 }
