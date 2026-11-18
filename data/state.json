@@ -10418,9 +10418,10 @@
     "567d81672cc29e146fdf6457": {
       "published_at": "2026-11-18T04:37:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13868,
       "title": "BITS Hyderabad Students Develop Pocket-Sized Walkie-Talkie That Draws Indian Army Interest, Costs Five Times Less Than Imported Systems",
-      "updated_at": "2026-11-18T07:28:08.667646+00:00",
+      "updated_at": "2026-11-18T07:28:22.376061+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/bits-hyderabad-students-develop-pocket.html"
     },
     "568b2c2a79ab16e2295a4dee": {
@@ -19973,9 +19974,10 @@
     "a1cc1520c0f5b0879c355852": {
       "published_at": "2026-11-18T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13866,
       "title": "Bangladesh Border Guards Detain BSF Jawan After Accidental Border Crossing",
-      "updated_at": "2026-11-18T07:28:08.667640+00:00",
+      "updated_at": "2026-11-18T07:28:14.899514+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/bangladesh-border-guards-detain-bsf.html"
     },
     "a1f9d76ba72aadc0ba4bb3ba": {
@@ -25631,9 +25633,10 @@
     "cf5f9b80f1fbffd331e35d25": {
       "published_at": "2026-11-18T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13867,
       "title": "BBBS Unveils 'Vajra Sind' Wideband Handheld Counter-Drone Jammer",
-      "updated_at": "2026-11-18T07:28:08.667643+00:00",
+      "updated_at": "2026-11-18T07:28:18.626862+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/bbbs-unveils-vajra-sind-wideband.html"
     },
     "cf659bc34df86749ffc236c7": {
@@ -26700,9 +26703,10 @@
     "d75ca82246af85bec9aa42f9": {
       "published_at": "2026-11-18T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13865,
       "title": "India-Japan 2+2 Talks Begin As Defence Minister Rajnath Singh Arrives In Tokyo For Key Strategic Dialogue",
-      "updated_at": "2026-11-18T07:28:08.667624+00:00",
+      "updated_at": "2026-11-18T07:28:11.007981+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-japan-22-talks-begin-as-defence.html"
     },
     "d75f3ffe5160208fc42d7dc7": {
@@ -32009,6 +32013,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-18T07:28:08.670773+00:00",
+  "last_cycle_at": "2026-11-18T07:28:25.579398+00:00",
   "schema_version": 1
 }
