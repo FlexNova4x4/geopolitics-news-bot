@@ -1056,9 +1056,10 @@
     "0842695b4cc1134d83ff50d2": {
       "published_at": "2026-11-19T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13885,
       "title": "IndiGo Suspends Flights To Four Saudi Cities Until 30 November Amid Security Concerns",
-      "updated_at": "2026-11-19T07:24:36.023199+00:00",
+      "updated_at": "2026-11-19T07:24:39.699532+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indigo-suspends-flights-to-four-saudi.html"
     },
     "086000a28fffe43fcf802c57": {
@@ -6685,9 +6686,10 @@
     "37dea7f61337b863bdd90b00": {
       "published_at": "2026-11-19T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13888,
       "title": "Pakistan Army Claims Successful Test of China Supplied HD-1 (Fatah-3) Supersonic Cruise Missile",
-      "updated_at": "2026-11-19T07:24:36.023230+00:00",
+      "updated_at": "2026-11-19T07:24:51.878356+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pakistan-army-claims-successful-test-of.html"
     },
     "37e7767f7d4c27dd860963db": {
@@ -23283,9 +23285,10 @@
     "baa5f0eac5e832125098be31": {
       "published_at": "2026-11-19T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13887,
       "title": "Rajnath Singh Visits Yokosuka Naval Base, Underscores Expanding India-Japan Maritime Partnership",
-      "updated_at": "2026-11-19T07:24:36.023225+00:00",
+      "updated_at": "2026-11-19T07:24:47.862498+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/rajnath-singh-visits-yokosuka-naval.html"
     },
     "baf5623d0a3ae983ca1284bf": {
@@ -29433,9 +29436,10 @@
     "edd68a4c3d7cf4334c78c25a": {
       "published_at": "2026-11-19T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13886,
       "title": "Trump-Putin One-To-One Talks Set For Shenzhen Ahead of Landmark Trilateral Summit With Xi",
-      "updated_at": "2026-11-19T07:24:36.023218+00:00",
+      "updated_at": "2026-11-19T07:24:43.885251+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/trump-putin-one-to-one-talks-set-for.html"
     },
     "edea632a5379f83cdabe6203": {
@@ -32144,6 +32148,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-19T07:24:36.026607+00:00",
+  "last_cycle_at": "2026-11-19T07:24:55.081727+00:00",
   "schema_version": 1
 }
