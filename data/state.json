@@ -16387,9 +16387,10 @@
     "853cb4bacde27779e19a8893": {
       "published_at": "2026-11-19T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13884,
       "title": "Eisenkot-Led Bloc Pushes Ahead With Bid To Form Israeli Emergency Government",
-      "updated_at": "2026-11-19T07:24:09.912507+00:00",
+      "updated_at": "2026-11-19T07:24:25.396269+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/eisenkot-led-bloc-pushes-ahead-with-bid.html"
     },
     "85510fd3f19e0e1ce42eb95f": {
@@ -18834,9 +18835,10 @@
     "98310dcdae68290ca6e97744": {
       "published_at": "2026-11-19T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13883,
       "title": "INS Sahyadri And HMCS Regina Deepen India-Canada Maritime Cooperation Through Joint Naval Exercise",
-      "updated_at": "2026-11-19T07:24:09.912503+00:00",
+      "updated_at": "2026-11-19T07:24:21.202938+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/ins-sahyadri-and-hmcs-regina-deepen.html"
     },
     "983d3f6b91640daa829aea67": {
@@ -21807,9 +21809,10 @@
     "b01121b2787290f93f5edc99": {
       "published_at": "2026-11-19T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13881,
       "title": "India, Oman Deepen Security And Counter-Terrorism Cooperation At Strategic Dialogue",
-      "updated_at": "2026-11-19T07:24:09.912483+00:00",
+      "updated_at": "2026-11-19T07:24:13.163451+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-oman-deepen-security-and-counter.html"
     },
     "b01998506128901fb8ea703e": {
@@ -25279,9 +25282,10 @@
     "cb8a3866b8184ef72f584e3e": {
       "published_at": "2026-11-19T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13882,
       "title": "Liberia-Flagged Tanker Hit Near Strait of Hormuz; All 3 Indian Seafarers Safe, Says Union Minister S Sonowal",
-      "updated_at": "2026-11-19T07:24:09.912499+00:00",
+      "updated_at": "2026-11-19T07:24:17.209256+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/liberia-flagged-tanker-hit-near-strait.html"
     },
     "cb8a416306827b3c19cce147": {
@@ -32108,6 +32112,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-19T07:24:09.915355+00:00",
+  "last_cycle_at": "2026-11-19T07:24:28.599528+00:00",
   "schema_version": 1
 }
