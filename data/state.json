@@ -7385,6 +7385,14 @@
       "updated_at": "2026-11-06T06:43:07.422373+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/silicon-chip-breakthrough-lets.html"
     },
+    "3d3eb224d900aea1b8c309a8": {
+      "published_at": "2026-11-19T08:58:49+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "India, Japan widen defence agenda as ministers gather in Tokyo",
+      "updated_at": "2026-11-19T09:52:58.264321+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-japan-widen-defence-agenda-as-ministers-gather-in-tokyo/135984074"
+    },
     "3d40bf7c5ccd76e0d34b0491": {
       "published_at": "2026-10-25T01:05:16+00:00",
       "source": "hindustantimes.com",
@@ -12814,6 +12822,14 @@
       "title": "India-EU FTA to benefit Netherlands as trade, investment ties expand: Indian envoy to Netherlands Tuhin",
       "updated_at": "2026-10-27T05:35:15.012533+00:00",
       "url": "https://www.tribuneindia.com/news/economic-cooperation/india-eu-fta-to-benefit-netherlands-as-trade-investment-ties-expand-indian-envoy-to-netherlands-tuhin"
+    },
+    "69767ad223ac083020b59bbe": {
+      "published_at": "2026-11-19T09:03:19+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "India’s defence output surges past ₹1.8 lakh crore as exports hit a record high",
+      "updated_at": "2026-11-19T09:52:58.264340+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/indias-defence-output-surges-past-1-8-lakh-crore-as-exports-hit-a-record-high/135984191"
     },
     "6984c622f96021e5985857c3": {
       "published_at": "2026-10-27T17:37:51+00:00",
@@ -32084,6 +32100,14 @@
       "updated_at": "2026-10-29T16:20:32.295380+00:00",
       "url": "https://www.thehindu.com/news/national/at-brics-india-must-bank-on-the-ndb/article71451692.ece"
     },
+    "fee22cc6e5d6e6ef87f91804": {
+      "published_at": "2026-11-19T09:02:22+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "India, Canada move towards defence deal as Modi visit opens a new phase",
+      "updated_at": "2026-11-19T09:52:58.264337+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-canada-move-towards-defence-deal-as-modi-visit-opens-a-new-phase/135984168"
+    },
     "ff00da6ff48d059a4de4b5a6": {
       "published_at": "2026-10-25T05:15:52+00:00",
       "source": "feeds.bbci.co.uk",
@@ -32220,6 +32244,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-19T08:53:00.178161+00:00",
+  "last_cycle_at": "2026-11-19T09:52:58.267552+00:00",
   "schema_version": 1
 }
