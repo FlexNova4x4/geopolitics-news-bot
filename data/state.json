@@ -4313,9 +4313,10 @@
     "2337db2ce77ffb027ef0cabe": {
       "published_at": "2026-11-19T04:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13894,
       "title": "VyomIC Secures ₹12.55 Crore To Develop Indigenous Atomic Clock Technology For Space Applications",
-      "updated_at": "2026-11-19T07:25:36.869853+00:00",
+      "updated_at": "2026-11-19T07:25:44.311046+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/vyomic-secures-1255-crore-to-develop.html"
     },
     "234cf72de8843a7ec588f8b1": {
@@ -18690,9 +18691,10 @@
     "968532b1591678c33915209e": {
       "published_at": "2026-11-19T04:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13895,
       "title": "Can India Really Get A 6th-Generation Fighter By 2030? Raphe mPhibr Chief’s Bold Claim Faces Tough Questions",
-      "updated_at": "2026-11-19T07:25:36.869856+00:00",
+      "updated_at": "2026-11-19T07:25:48.338782+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/can-india-really-get-6th-generation.html"
     },
     "9696e1d2aa2b24343e43f01e": {
@@ -25550,9 +25552,10 @@
     "ccea3b74a78395d9b9176e23": {
       "published_at": "2026-11-19T04:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13893,
       "title": "Defence Ministry Seeks 20% Capex Boost As India Targets Record Procurement And Export Growth",
-      "updated_at": "2026-11-19T07:25:36.869838+00:00",
+      "updated_at": "2026-11-19T07:25:40.250273+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/defence-ministry-seeks-20-capex-boost.html"
     },
     "ccf1016aaf3fbe5d600912af": {
@@ -32208,6 +32211,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-19T07:25:36.873065+00:00",
+  "last_cycle_at": "2026-11-19T07:25:51.542181+00:00",
   "schema_version": 1
 }
