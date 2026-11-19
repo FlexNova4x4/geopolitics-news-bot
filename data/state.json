@@ -7388,9 +7388,10 @@
     "3d3eb224d900aea1b8c309a8": {
       "published_at": "2026-11-19T08:58:49+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13897,
       "title": "India, Japan widen defence agenda as ministers gather in Tokyo",
-      "updated_at": "2026-11-19T09:52:58.264321+00:00",
+      "updated_at": "2026-11-19T09:53:01.732514+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-japan-widen-defence-agenda-as-ministers-gather-in-tokyo/135984074"
     },
     "3d40bf7c5ccd76e0d34b0491": {
@@ -12826,9 +12827,10 @@
     "69767ad223ac083020b59bbe": {
       "published_at": "2026-11-19T09:03:19+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13899,
       "title": "India’s defence output surges past ₹1.8 lakh crore as exports hit a record high",
-      "updated_at": "2026-11-19T09:52:58.264340+00:00",
+      "updated_at": "2026-11-19T09:53:09.762465+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/indias-defence-output-surges-past-1-8-lakh-crore-as-exports-hit-a-record-high/135984191"
     },
     "6984c622f96021e5985857c3": {
@@ -32103,9 +32105,10 @@
     "fee22cc6e5d6e6ef87f91804": {
       "published_at": "2026-11-19T09:02:22+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13898,
       "title": "India, Canada move towards defence deal as Modi visit opens a new phase",
-      "updated_at": "2026-11-19T09:52:58.264337+00:00",
+      "updated_at": "2026-11-19T09:53:05.731648+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/policy-partnerships/india-canada-move-towards-defence-deal-as-modi-visit-opens-a-new-phase/135984168"
     },
     "ff00da6ff48d059a4de4b5a6": {
@@ -32244,6 +32247,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-19T09:52:58.267552+00:00",
+  "last_cycle_at": "2026-11-19T09:53:12.965876+00:00",
   "schema_version": 1
 }
