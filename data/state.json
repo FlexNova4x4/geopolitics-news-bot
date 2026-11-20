@@ -450,6 +450,14 @@
       "updated_at": "2026-10-27T13:45:08.271479+00:00",
       "url": "https://www.thehindu.com/news/national/telangana/five-year-old-girl-of-anganwadi-centre-in-khammam-dies-after-suspected-insect-bite/article71631719.ece"
     },
+    "037c5ac50030ccf19b779646": {
+      "published_at": "2026-11-20T04:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India, Japan To Advance Collaboration In State-of-The-Art Missile Technologies",
+      "updated_at": "2026-11-20T07:13:20.159352+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/india-japan-to-advance-collaboration-in.html"
+    },
     "03a79ae44f5197c0e7b172d8": {
       "published_at": "2026-10-29T12:53:11+00:00",
       "source": "aljazeera.com",
@@ -12276,6 +12284,14 @@
       "updated_at": "2026-10-27T05:35:11.037246+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandi-college-sweeps-overall-hockey-titles"
     },
+    "6464116b2e752d2f912e3e48": {
+      "published_at": "2026-11-20T04:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India Advances Indigenous Robotics With PELVYN Omni Inspect And Sky Pod Integration Vision",
+      "updated_at": "2026-11-20T07:13:20.159340+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/india-advances-indigenous-robotics-with.html"
+    },
     "647df2688e94042229a4a8a1": {
       "published_at": "2026-11-20T04:25:00+00:00",
       "source": "Indian Defence News",
@@ -13263,6 +13279,14 @@
       "title": "Afghan farmers pushed to opium farming to make a living",
       "updated_at": "2026-10-29T13:03:53.489334+00:00",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/title-afghan-farmers-pushed-to-opium-farming-to-make-a-living?traffic_source=rss"
+    },
+    "6c331d331a9edf1cb9ded710": {
+      "published_at": "2026-11-20T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Gaganyaan's First Test Flight Set For December As ISRO Nears Human Spaceflight Milestone",
+      "updated_at": "2026-11-20T07:13:20.159322+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/gaganyaans-first-test-flight-set-for.html"
     },
     "6c3331ed413bb386e5d79d5e": {
       "published_at": "2026-11-05T03:56:00+00:00",
@@ -25279,6 +25303,14 @@
       "updated_at": "2026-10-26T00:58:28.069345+00:00",
       "url": "https://www.amarujala.com/himachal-pradesh/kangra/three-grand-entrance-gates-to-be-built-in-jwalamukhi-rs-100-crore-sanctioned-for-bus-stand-sanjay-kangra-news-c-95-1-kng1036-263443-2026-10-26"
     },
+    "c98dfe8c3df69df18aedd1b6": {
+      "published_at": "2026-11-20T04:26:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "BlackVolt Technologies' Manta-Inspired AUV Targets 45-Day Maritime ISR Missions",
+      "updated_at": "2026-11-20T07:13:20.159346+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/blackvolt-technologies-manta-inspired.html"
+    },
     "c9ac408285e72dbb48d4ca25": {
       "published_at": "2026-11-03T15:30:00+00:00",
       "source": "Indian Defence News",
@@ -32292,6 +32324,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T07:13:11.725142+00:00",
+  "last_cycle_at": "2026-11-20T07:13:20.162941+00:00",
   "schema_version": 1
 }
