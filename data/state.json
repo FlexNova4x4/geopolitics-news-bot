@@ -3314,9 +3314,10 @@
     "1a601d9e29d07dad48b418e9": {
       "published_at": "2026-11-20T02:53:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13925,
       "title": "COP31: Why India’s Stress on Country-led Just Transition Pathways Is Justified",
-      "updated_at": "2026-11-20T08:42:50.832313+00:00",
+      "updated_at": "2026-11-20T08:42:57.365124+00:00",
       "url": "https://thediplomat.com/2026/11/cop31-why-indias-stress-on-country-led-just-transition-pathways-is-justified"
     },
     "1acfb4d4660a81a30df61fb9": {
@@ -7108,9 +7109,10 @@
     "3a86d66b7ed0dd26ca4b45de": {
       "published_at": "2026-11-20T00:15:00+00:00",
       "source": "The Diplomat (South Asia)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13924,
       "title": "Where the Mango Meets the Orchid: Prospects in Pakistan-Singapore Relations",
-      "updated_at": "2026-11-20T08:42:50.832295+00:00",
+      "updated_at": "2026-11-20T08:42:53.585725+00:00",
       "url": "https://thediplomat.com/2026/11/where-the-mango-meets-the-orchid-prospects-in-pakistan-singapore-relations"
     },
     "3a8d35937e08d6bc43415bca": {
@@ -15540,9 +15542,10 @@
     "7c434c23f03ad32d861d4fba": {
       "published_at": "2026-11-20T03:34:22+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13926,
       "title": "Visit of External Affairs Minister, Dr. S. Jaishankar, to Japan (November 18-20, 2026) - Ministry of External Affairs , Government of India",
-      "updated_at": "2026-11-20T08:42:50.832316+00:00",
+      "updated_at": "2026-11-20T08:43:01.072231+00:00",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURsY3hRNjdHRlhiOEJkYnBmRGZyT1lzcWpNRkZGVXUxMjd2ZzYzY1JXb0tyaVJfLUhMSy1tWEltTG11bERyNGdVTk9oQi14c3hlaDJjYk0xRGxPUUJUa2lYU08tY1M4c0lqUWVZRmVVMzhkZUV2ZzZqZ01Mdlg4b3B1WmdtZG40bjdWYURFYzlycVFzR1I5U1NpS09hcTlQZUFIcHBQMHp6ZkFybWxOSjZQT3Npa1JRZWZmRTlveUN0Y0Ux?oc=5"
     },
     "7c4a16c98964e534628eff4e": {
@@ -32433,6 +32436,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T08:42:50.836190+00:00",
+  "last_cycle_at": "2026-11-20T08:43:04.276503+00:00",
   "schema_version": 1
 }
