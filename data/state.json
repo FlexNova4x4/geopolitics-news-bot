@@ -4696,6 +4696,14 @@
       "updated_at": "2026-11-19T10:22:54.832581+00:00",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUNUVHgwQWhpa282MFVFcHFidnVwZW1idmd0NjVKQng5czlQWW5LT25FLXZjbXJnVVNucVhCeE4zMG40X3RBakdFZWFMMS1ZQ2ZpNXJwYkk2RkdQUU4wd3lRZEJBeEZyNXF0cjlLREVBaEdiVlZxaTFmSGRtNDM1ZWJNX3BMU3pyOHlvREwtZmtLRXFMWnRlSUpKbF9vZXpkS1RZVkxZd0t5dmJGWVNDR052dWp6U2VKX1FBZXpSeF9VRDdlMHBjNm10QXIzcFU?oc=5"
     },
+    "265e0e42d554535292a43dbf": {
+      "published_at": "2026-11-20T04:24:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Russia, China And US Adopt ‘Declaration Towards Peace’ At Landmark Shenzhen Summit",
+      "updated_at": "2026-11-20T07:12:57.809479+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/russia-china-and-us-adopt-declaration.html"
+    },
     "2662fa12750c3bc70ec96902": {
       "published_at": "2026-10-27T03:51:00+00:00",
       "source": "The Diplomat",
@@ -12266,6 +12274,14 @@
       "title": "Mandi college sweeps overall hockey titles",
       "updated_at": "2026-10-27T05:35:11.037246+00:00",
       "url": "https://www.tribuneindia.com/news/himachal/mandi-college-sweeps-overall-hockey-titles"
+    },
+    "647df2688e94042229a4a8a1": {
+      "published_at": "2026-11-20T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "Expanding Satellite Launch Services Through Private Sector Participation",
+      "updated_at": "2026-11-20T07:12:57.809505+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/expanding-satellite-launch-services.html"
     },
     "6484f00632091419199b94ba": {
       "published_at": "2026-10-29T16:35:14+00:00",
@@ -21706,6 +21722,14 @@
       "title": "Battle-lines drawn in Israel ahead of Tuesday’s vote, exit-polls show dead heat between Netanyahu-Eisenkot",
       "updated_at": "2026-10-26T03:52:40.396236+00:00",
       "url": "https://www.tribuneindia.com/news/coalition-governments/battle-lines-drawn-in-israel-ahead-of-tuesdays-vote-exit-polls-show-dead-heat-between-netanyahu-eisenkot"
+    },
+    "ae66b8e437cd9f86ad877f44": {
+      "published_at": "2026-11-20T04:25:00+00:00",
+      "source": "Indian Defence News",
+      "status": "reserved",
+      "title": "India, Japan Renew Call For Global Action Against LeT, JeM And Al Qaeda",
+      "updated_at": "2026-11-20T07:12:57.809500+00:00",
+      "url": "https://www.indiandefensenews.in/2026/11/india-japan-renew-call-for-global.html"
     },
     "ae9ef4a522439e9992faf2ad": {
       "published_at": "2026-10-29T13:52:15+00:00",
@@ -32265,6 +32289,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-19T10:52:57.973275+00:00",
+  "last_cycle_at": "2026-11-20T07:12:57.818607+00:00",
   "schema_version": 1
 }
