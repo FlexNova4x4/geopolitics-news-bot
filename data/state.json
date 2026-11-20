@@ -8711,9 +8711,10 @@
     "47afbd9408c8711fb5bec5da": {
       "published_at": "2026-11-20T04:39:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13919,
       "title": "India Moves Closer To Expanding Kalvari-Class Submarine Fleet With Three New Boats",
-      "updated_at": "2026-11-20T07:14:10.864246+00:00",
+      "updated_at": "2026-11-20T07:14:13.419292+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-moves-closer-to-expanding-kalvari.html"
     },
     "47cb7ee84070f706e546de08": {
@@ -9169,9 +9170,10 @@
     "4b447acb4dd486b29c8b70a2": {
       "published_at": "2026-11-20T06:22:04+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13922,
       "title": "State Visit of Prime Minister of Nepal (November 22–23, 2026) | Ministry of External Affairs , Government of India - Ministry of External Affairs , Government of India",
-      "updated_at": "2026-11-20T07:14:10.864302+00:00",
+      "updated_at": "2026-11-20T07:14:25.001071+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWlZMlhtd1llYjdYZUdDVW05NHlPYXJZTFRYckxSNl82NFJ3ZTl6WEFLaU10MUJfWkNwVUpxMXJRSGlhWGh0TFBaT1EyY2s5YW9xMDRETndHaGhyUFlDZ0kxTEd1eDBsLWRGdkxXTXh1bldpbW05cS1Eb0dTWndXd01DdmJxcW5JU3NtRHRxZ3prNjhyOWhoZnhsMU85VVI5RzJBWWNEQjI?oc=5"
     },
     "4b492a77223e31223293d106": {
@@ -27835,9 +27837,10 @@
     "de67495fb87affc71259c64d": {
       "published_at": "2026-11-20T05:11:57+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13921,
       "title": "GE Dispatches 15th Engine For TEJAS MK-1A As IAF Targets First Squadron By March 2027",
-      "updated_at": "2026-11-20T07:14:10.864298+00:00",
+      "updated_at": "2026-11-20T07:14:21.089428+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/ge-dispatches-15th-engine-for-tejas-mk.html"
     },
     "de7efc17cfe351fb464a6529": {
@@ -29092,9 +29095,10 @@
     "e8f2936d9f6e472cf3d98e4e": {
       "published_at": "2026-11-20T04:40:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13920,
       "title": "SSS Defence Emerges As Lowest Bidder For Indian Army's 84-Unit 12-Gauge Shotgun Requirement",
-      "updated_at": "2026-11-20T07:14:10.864291+00:00",
+      "updated_at": "2026-11-20T07:14:17.349553+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/sss-defence-emerges-as-lowest-bidder.html"
     },
     "e8f80441ab3e76aaafa1e2c3": {
@@ -32396,6 +32400,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T07:14:10.869002+00:00",
+  "last_cycle_at": "2026-11-20T07:14:28.204930+00:00",
   "schema_version": 1
 }
