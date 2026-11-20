@@ -4699,9 +4699,10 @@
     "265e0e42d554535292a43dbf": {
       "published_at": "2026-11-20T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13908,
       "title": "Russia, China And US Adopt ‘Declaration Towards Peace’ At Landmark Shenzhen Summit",
-      "updated_at": "2026-11-20T07:12:57.809479+00:00",
+      "updated_at": "2026-11-20T07:13:00.713296+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/russia-china-and-us-adopt-declaration.html"
     },
     "2662fa12750c3bc70ec96902": {
@@ -12278,9 +12279,10 @@
     "647df2688e94042229a4a8a1": {
       "published_at": "2026-11-20T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13910,
       "title": "Expanding Satellite Launch Services Through Private Sector Participation",
-      "updated_at": "2026-11-20T07:12:57.809505+00:00",
+      "updated_at": "2026-11-20T07:13:08.521141+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/expanding-satellite-launch-services.html"
     },
     "6484f00632091419199b94ba": {
@@ -21726,9 +21728,10 @@
     "ae66b8e437cd9f86ad877f44": {
       "published_at": "2026-11-20T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13909,
       "title": "India, Japan Renew Call For Global Action Against LeT, JeM And Al Qaeda",
-      "updated_at": "2026-11-20T07:12:57.809500+00:00",
+      "updated_at": "2026-11-20T07:13:04.600781+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-japan-renew-call-for-global.html"
     },
     "ae9ef4a522439e9992faf2ad": {
@@ -32289,6 +32292,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T07:12:57.818607+00:00",
+  "last_cycle_at": "2026-11-20T07:13:11.725142+00:00",
   "schema_version": 1
 }
