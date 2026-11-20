@@ -10445,9 +10445,10 @@
     "55d40a2dc0a38ead2cacb7bb": {
       "published_at": "2026-11-20T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13916,
       "title": "India, Japan Step Up Defence Ties With Focus On Underwater Technologies",
-      "updated_at": "2026-11-20T07:13:47.908180+00:00",
+      "updated_at": "2026-11-20T07:13:54.126623+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-japan-step-up-defence-ties-with.html"
     },
     "55fde60706cfb8ab19c17081": {
@@ -12556,9 +12557,10 @@
     "666693a2337da413c990def2": {
       "published_at": "2026-11-20T04:38:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13918,
       "title": "India Seeks Private Investment For Its Largest Strategic Petroleum Reserve In Odisha At ₹8,571 Crores",
-      "updated_at": "2026-11-20T07:13:47.908188+00:00",
+      "updated_at": "2026-11-20T07:14:02.145022+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-seeks-private-investment-for-its.html"
     },
     "66672a72b1333056df7ecdb4": {
@@ -13958,9 +13960,10 @@
     "7076df7c41da5b354ac88115": {
       "published_at": "2026-11-20T04:36:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13917,
       "title": "Reusable Launch Vehicle Tech: ISRO's Quest To Master The New Economics of Spaceflight",
-      "updated_at": "2026-11-20T07:13:47.908184+00:00",
+      "updated_at": "2026-11-20T07:13:58.242872+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/reusable-launch-vehicle-tech-isros.html"
     },
     "7080f421bd631340741e546e": {
@@ -21995,9 +21998,10 @@
     "afeeef4a778c2e30ba117b50": {
       "published_at": "2026-11-20T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13915,
       "title": "Australia Flags Uranium Supply, Mining And Nuclear Cooperation Opportunities In Bengal",
-      "updated_at": "2026-11-20T07:13:47.908158+00:00",
+      "updated_at": "2026-11-20T07:13:50.404153+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/australia-flags-uranium-supply-mining.html"
     },
     "b01121b2787290f93f5edc99": {
@@ -32360,6 +32364,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T07:13:47.911666+00:00",
+  "last_cycle_at": "2026-11-20T07:14:05.349092+00:00",
   "schema_version": 1
 }
