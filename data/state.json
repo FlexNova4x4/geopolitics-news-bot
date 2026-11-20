@@ -1299,9 +1299,10 @@
     "09e117d7cba7888dc8328244": {
       "published_at": "2026-11-20T09:14:00+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13928,
       "title": "USNS Wally Schirra arrives at Kattupalli for repairs, highlighting India’s Growing Ship-Repair Capabilities - Ministry of External Affairs",
-      "updated_at": "2026-11-20T09:42:36.839398+00:00",
+      "updated_at": "2026-11-20T09:42:39.440083+00:00",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQzZNVjBJakxhWTlhcDNVc3FzbGhVMVJ5eVJlbVVuWGJPQ2g1VTlLM2JkM2c4cGx1aVhja2hzcjBxeERLNGZkZERUUWo3X0xMNW1YUlc2SmIzOGRVRlBqQXBuRTY1Z21JLURXZlB3UFpkWU03OUEtX0htYzAyVVhNbkpWTWlYSzVjSkJwXzBid2xseDlXZzZmWDlqbTVuVEtnOHRsRzZOT2ZscnZ5c2RqMkpiLS10dVBDRVcxT0V0S3hrTzVyYklfd3R2ek0xSWh4NEd1aVBuRFg1RzhMM2Mtb0dtR1NaVDg?oc=5"
     },
     "09f8e1217d336469ad977eb9": {
@@ -25461,9 +25462,10 @@
     "ca800509447aa5806cde6683": {
       "published_at": "2026-11-20T09:28:25+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13929,
       "title": "18th meeting of the India-France Joint Working Group on Counter Terrorism - Ministry of External Affairs",
-      "updated_at": "2026-11-20T09:42:36.839421+00:00",
+      "updated_at": "2026-11-20T09:42:43.251622+00:00",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2Zxa09LVHRUSXNKQWEtS2tMZ1hjTmY5dmVYdkJBaEtrWkJILU9mbjhhOGlxWFk4LUF5SjBnandURU9JWGNuWEwxbFYxeXBZeG1NUE5XbUVjdG54ZTd5dDFVZ203SmVjTUlLelBTLWpUUzVhaXhBdS0wb2txcm1vT2k4T3ZWSzhRblJkU2syWWdFVWdBRnNpWmNZMHowY0NhSTlDWnRsS0tzOS1OcWxLcEpOeEZ6c1pFb2pCUA?oc=5"
     },
     "ca90a3d51ff9b0db23de8ef8": {
@@ -32461,6 +32463,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T09:42:36.844003+00:00",
+  "last_cycle_at": "2026-11-20T09:42:46.456321+00:00",
   "schema_version": 1
 }
