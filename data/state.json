@@ -17737,9 +17737,10 @@
     "8deda37b3251b9a90c021e2b": {
       "published_at": "2026-11-20T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13923,
       "title": "Cochin Shipyard Lays Keel For First 70-Ton Bollard Pull Tug For Polestar Maritime",
-      "updated_at": "2026-11-20T07:42:36.843730+00:00",
+      "updated_at": "2026-11-20T07:42:39.364383+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/cochin-shipyard-lays-keel-for-first-70.html"
     },
     "8e1ab631b1ba1abf6a115a0f": {
@@ -32408,6 +32409,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T07:42:36.847703+00:00",
+  "last_cycle_at": "2026-11-20T07:42:42.568369+00:00",
   "schema_version": 1
 }
