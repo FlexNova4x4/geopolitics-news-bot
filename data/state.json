@@ -453,9 +453,10 @@
     "037c5ac50030ccf19b779646": {
       "published_at": "2026-11-20T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13914,
       "title": "India, Japan To Advance Collaboration In State-of-The-Art Missile Technologies",
-      "updated_at": "2026-11-20T07:13:20.159352+00:00",
+      "updated_at": "2026-11-20T07:13:34.261241+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-japan-to-advance-collaboration-in.html"
     },
     "03a79ae44f5197c0e7b172d8": {
@@ -12287,9 +12288,10 @@
     "6464116b2e752d2f912e3e48": {
       "published_at": "2026-11-20T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13912,
       "title": "India Advances Indigenous Robotics With PELVYN Omni Inspect And Sky Pod Integration Vision",
-      "updated_at": "2026-11-20T07:13:20.159340+00:00",
+      "updated_at": "2026-11-20T07:13:26.424091+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-advances-indigenous-robotics-with.html"
     },
     "647df2688e94042229a4a8a1": {
@@ -13283,9 +13285,10 @@
     "6c331d331a9edf1cb9ded710": {
       "published_at": "2026-11-20T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13911,
       "title": "Gaganyaan's First Test Flight Set For December As ISRO Nears Human Spaceflight Milestone",
-      "updated_at": "2026-11-20T07:13:20.159322+00:00",
+      "updated_at": "2026-11-20T07:13:22.500049+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/gaganyaans-first-test-flight-set-for.html"
     },
     "6c3331ed413bb386e5d79d5e": {
@@ -25306,9 +25309,10 @@
     "c98dfe8c3df69df18aedd1b6": {
       "published_at": "2026-11-20T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13913,
       "title": "BlackVolt Technologies' Manta-Inspired AUV Targets 45-Day Maritime ISR Missions",
-      "updated_at": "2026-11-20T07:13:20.159346+00:00",
+      "updated_at": "2026-11-20T07:13:30.355157+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/blackvolt-technologies-manta-inspired.html"
     },
     "c9ac408285e72dbb48d4ca25": {
@@ -32324,6 +32328,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-20T07:13:20.162941+00:00",
+  "last_cycle_at": "2026-11-20T07:13:37.465029+00:00",
   "schema_version": 1
 }
