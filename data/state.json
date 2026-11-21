@@ -14532,6 +14532,14 @@
       "updated_at": "2026-11-04T04:25:48.947639+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/adani-defence-eyes-narrow-body-aircraft.html"
     },
+    "74234b12c21533d576a94c6c": {
+      "published_at": "2026-11-21T06:10:10+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Lockheed Martin’s 300kW laser takes down cruise missile in first test",
+      "updated_at": "2026-11-21T07:36:29.091009+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/lockheed-martins-300kw-laser-takes-down-cruise-missile-in-first-test/136046730"
+    },
     "742a03813971fe41ac0c6b80": {
       "published_at": "2026-10-29T20:30:57+00:00",
       "source": "publish.tribuneindia.com",
@@ -17814,6 +17822,14 @@
       "title": "Kozhikode tourism committees remain inactive, fail to propose development projects",
       "updated_at": "2026-10-25T11:35:37.422297+00:00",
       "url": "https://www.thehindu.com/news/national/kerala/kozhikode-tourism-committees-remain-inactive-fail-to-propose-development-projects/article71622982.ece"
+    },
+    "8daad3803ed987edbe5e8e57": {
+      "published_at": "2026-11-21T06:01:27+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "India’s active Rafale fleet falls to 32, says FlightGlobal",
+      "updated_at": "2026-11-21T07:36:29.090992+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/indias-active-rafale-fleet-falls-to-32-says-flightglobal/136046504"
     },
     "8dad6191df84934bbffcd49a": {
       "published_at": "2026-11-09T04:00:00+00:00",
@@ -22786,6 +22802,14 @@
       "title": "ECI team, including Maneesh Garg, visited Manipur to review poll preps",
       "updated_at": "2026-10-29T05:12:45.630307+00:00",
       "url": "https://www.hindustantimes.com/india-news/eci-team-including-maneesh-garg-visited-manipur-to-review-poll-preps-101793241329811.html"
+    },
+    "b5589eaa550395476a403f0e": {
+      "published_at": "2026-11-21T06:03:12+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Inside India’s artillery revolution",
+      "updated_at": "2026-11-21T07:36:29.091002+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/inside-indias-artillery-revolution/136046613"
     },
     "b5602e38a0898ddab2e084e1": {
       "published_at": "2026-10-26T01:09:41+00:00",
@@ -29299,6 +29323,14 @@
       "updated_at": "2026-10-26T13:44:25.976907+00:00",
       "url": "https://www.tribuneindia.com/news/defence/army-artillery-drones-helicopters-and-more-centre-clears-rs-2-12-lakh-crore-deals-who-gets-what"
     },
+    "e8d9a22a5e0611211e28cbf0": {
+      "published_at": "2026-11-21T06:08:05+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Indian Navy gets ₹1,976 crore Barak upgrade",
+      "updated_at": "2026-11-21T07:36:29.091006+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/indian-navy-gets-1976-crore-barak-upgrade/136046689"
+    },
     "e8e8485050729ea9bcf12f69": {
       "published_at": "2026-10-25T09:27:42+00:00",
       "source": "thehindu.com",
@@ -32652,6 +32684,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-21T07:36:19.264249+00:00",
+  "last_cycle_at": "2026-11-21T07:36:29.094525+00:00",
   "schema_version": 1
 }
