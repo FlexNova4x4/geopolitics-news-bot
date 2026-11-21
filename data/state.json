@@ -3117,9 +3117,10 @@
     "17be47ba2bdce7af37fbaef9": {
       "published_at": "2026-11-21T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13949,
       "title": "Vayuvya's Vayu-250 Micro Jet Engine Test Marks Key Step in Indigenous Propulsion Development",
-      "updated_at": "2026-11-21T07:35:35.880123+00:00",
+      "updated_at": "2026-11-21T07:35:38.483074+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/vayuvyas-vayu-250-micro-jet-engine-test.html"
     },
     "17e2bbf5d767a08e3d2c6e96": {
@@ -14049,9 +14050,10 @@
     "706be67db200f6e53de0215e": {
       "published_at": "2026-11-21T04:29:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13950,
       "title": "BEML Eyes Indigenous 1,350 HP Engine To Power Upgraded T-90 Bhishma Fleet",
-      "updated_at": "2026-11-21T07:35:35.880137+00:00",
+      "updated_at": "2026-11-21T07:35:42.509358+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/beml-eyes-indigenous-1350-hp-engine-to.html"
     },
     "707504f07005a69065cf8dc0": {
@@ -16511,9 +16513,10 @@
     "8408e73c820055414e9d909d": {
       "published_at": "2026-11-21T04:30:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13951,
       "title": "Pinaka Aerospace Secures ₹41 Crore LRDE Contract for Airborne Radar Test System",
-      "updated_at": "2026-11-21T07:35:35.880143+00:00",
+      "updated_at": "2026-11-21T07:35:46.478429+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/pinaka-aerospace-secures-41-crore-lrde.html"
     },
     "8410832ab8890106f188d049": {
@@ -23687,9 +23690,10 @@
     "bb3bfcd22e27a27520573ab5": {
       "published_at": "2026-11-21T04:49:35+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13952,
       "title": "Minister of Foreign Affairs of Bulgaria Calls on the President (November 20, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-21T07:35:35.880147+00:00",
+      "updated_at": "2026-11-21T07:35:50.533356+00:00",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXpJSUQ5TVF3dnBhZnBBYVFEZnNCNkNUdXo5Vy0wa0dVV01UVXBoTXB6SWN2bS1DZXZXcWZXdGh6Y0dIQ2Y5NUhVajg0aVRobUlPQnFNWHVQOWs5aFhVSUdxLXFObUY2LVkwVXNDbW1SUVA0cnB1QnA4VVFmY2xCdUxwbmVTVnhoNUFIeno4Uk93NENSWVBYcmRJb2R3c1hPU0RWRWM4bkRiMG9zdlJ6SmR6azN5dXhEUS12NFNfelBLUWJrSnc?oc=5"
     },
     "bb4d4d8a67dda909f62d6bf2": {
@@ -32612,6 +32616,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-21T07:35:35.883286+00:00",
+  "last_cycle_at": "2026-11-21T07:35:53.736985+00:00",
   "schema_version": 1
 }
