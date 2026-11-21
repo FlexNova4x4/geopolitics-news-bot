@@ -22187,9 +22187,10 @@
     "b0f316432270a35d12642361": {
       "published_at": "2026-11-20T23:48:45+00:00",
       "source": "MEA India (indexed fallback)",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13934,
       "title": "Transcript of Bi-weekly Media Briefing by the Official Spokesperson (November 20, 2026) - Ministry of External Affairs",
-      "updated_at": "2026-11-21T00:45:46.211522+00:00",
+      "updated_at": "2026-11-21T00:45:50.081940+00:00",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWctS1lFdXhLR1E3M1FINGJBcHVTQ3hILXlXT1NqSm16NEtSekZyenhteG1EMjFxTUtXV1BtODZMemo5QWY0UzQ0VkxpbW5pQUdfWnA3aGhjUXhralY4Ynhha1l5RlUwZEdrdDF3Q1lfcEI5ek00MkNLLUxpcFZXYkYtUy1WM0kxTFJVS3R2blNHWVdzQUdWZ1kxdERBbWxlZGZnX000UkNDQ1ZrRXIwZk95NDgxN0w3RzFRS05MbERyT0x2UVlESUw0a2Q?oc=5"
     },
     "b0f8384bfc05b48815d9fd9f": {
@@ -32471,6 +32472,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-21T00:45:46.213391+00:00",
+  "last_cycle_at": "2026-11-21T00:45:53.285315+00:00",
   "schema_version": 1
 }
