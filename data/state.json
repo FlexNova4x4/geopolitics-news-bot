@@ -7520,6 +7520,14 @@
       "updated_at": "2026-10-27T15:11:41.883566+00:00",
       "url": "https://www.tribuneindia.com/news/business/india-faced-no-pressure-from-us-to-reduce-russian-oil-imports-hardeep-puri"
     },
+    "3d9e004ab5b264c68106483c": {
+      "published_at": "2026-11-21T06:14:18+00:00",
+      "source": "ET Defence",
+      "status": "reserved",
+      "title": "Bae Systems unveils passive radar that can spot drones without giving itself away",
+      "updated_at": "2026-11-21T07:36:53.030677+00:00",
+      "url": "https://defence.economictimes.indiatimes.com/news/military-systems/bae-systems-unveils-passive-radar-that-can-spot-drones-without-giving-itself-away/136046809"
+    },
     "3dcf9a3a5f4334e99f74f0c3": {
       "published_at": "2026-10-27T05:43:08+00:00",
       "source": "dawn.com",
@@ -32688,6 +32696,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-21T07:36:48.176467+00:00",
+  "last_cycle_at": "2026-11-21T07:36:53.033816+00:00",
   "schema_version": 1
 }
