@@ -7523,9 +7523,10 @@
     "3d9e004ab5b264c68106483c": {
       "published_at": "2026-11-21T06:14:18+00:00",
       "source": "ET Defence",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13961,
       "title": "Bae Systems unveils passive radar that can spot drones without giving itself away",
-      "updated_at": "2026-11-21T07:36:53.030677+00:00",
+      "updated_at": "2026-11-21T07:36:56.139035+00:00",
       "url": "https://defence.economictimes.indiatimes.com/news/military-systems/bae-systems-unveils-passive-radar-that-can-spot-drones-without-giving-itself-away/136046809"
     },
     "3dcf9a3a5f4334e99f74f0c3": {
@@ -32696,6 +32697,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-21T07:36:53.033816+00:00",
+  "last_cycle_at": "2026-11-21T07:36:59.342172+00:00",
   "schema_version": 1
 }
