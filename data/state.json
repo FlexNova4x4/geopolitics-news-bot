@@ -9242,9 +9242,10 @@
     "4b8bf0afca810fd58a3b1f76": {
       "published_at": "2026-11-21T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13937,
       "title": "Commander of USS George Washington Aircraft Carrier Sees Scope For Expanded India-US Naval Exercises",
-      "updated_at": "2026-11-21T07:04:47.695490+00:00",
+      "updated_at": "2026-11-21T07:04:51.048063+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/commander-of-uss-george-washington.html"
     },
     "4bb894fad370ceda3903bc35": {
@@ -9385,9 +9386,10 @@
     "4ca906ceb986f61f14a7767c": {
       "published_at": "2026-11-21T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13938,
       "title": "Senate Republicans Block Democratic Push To End Iran War",
-      "updated_at": "2026-11-21T07:04:47.695506+00:00",
+      "updated_at": "2026-11-21T07:04:55.033079+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/senate-republicans-block-democratic.html"
     },
     "4caca38ca77f64f5c5eeb5a0": {
@@ -16070,9 +16072,10 @@
     "80d1c992a072022f569d6eb1": {
       "published_at": "2026-11-21T04:25:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13940,
       "title": "India's $3.2 Billion Shipbuilding Drive Gains Momentum With SCI's 22-Vessel Expansion Plan",
-      "updated_at": "2026-11-21T07:04:47.695520+00:00",
+      "updated_at": "2026-11-21T07:05:03.007512+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-32-billion-shipbuilding-drive.html"
     },
     "810fb7345ab985206c5626e8": {
@@ -20124,9 +20127,10 @@
     "a0c20a20989d9021f955a7fd": {
       "published_at": "2026-11-21T04:24:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13939,
       "title": "First AI-Assisted Cyberattack Forces EU Digital Systems Offline Amid Ongoing Investigation",
-      "updated_at": "2026-11-21T07:04:47.695514+00:00",
+      "updated_at": "2026-11-21T07:04:59.021422+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/first-ai-assisted-cyberattack-forces-eu.html"
     },
     "a0d69cb343ddd08498d930e0": {
@@ -32504,6 +32508,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-21T07:04:47.708917+00:00",
+  "last_cycle_at": "2026-11-21T07:05:06.210812+00:00",
   "schema_version": 1
 }
