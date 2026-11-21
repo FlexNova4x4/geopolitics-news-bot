@@ -6596,9 +6596,10 @@
     "35e860445bae0d23f90ac084": {
       "published_at": "2026-11-21T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13946,
       "title": "Farooq Abdullah Welcomes Pakistan Minister's Delhi Visit For SCO Meeting",
-      "updated_at": "2026-11-21T07:35:09.563514+00:00",
+      "updated_at": "2026-11-21T07:35:16.536615+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/farooq-abdullah-welcomes-pakistan.html"
     },
     "35f62fd8ad296c087852d374": {
@@ -8593,9 +8594,10 @@
     "46c2c77126f8384077750c6f": {
       "published_at": "2026-11-21T04:27:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13947,
       "title": "'Baseless Lawsuit': Case Against Ajit Doval In US Court Sparks Fresh India-Pannun Row",
-      "updated_at": "2026-11-21T07:35:09.563517+00:00",
+      "updated_at": "2026-11-21T07:35:20.537097+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/baseless-lawsuit-case-against-ajit.html"
     },
     "46c7e7e1288a613916df1508": {
@@ -22770,9 +22772,10 @@
     "b56ef48369371d097a241ac2": {
       "published_at": "2026-11-21T04:26:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13945,
       "title": "India's Quantum Shield Arrives As Scytale Alpha Takes On The Cyber Threat",
-      "updated_at": "2026-11-21T07:35:09.563504+00:00",
+      "updated_at": "2026-11-21T07:35:12.555573+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/indias-quantum-shield-arrives-as.html"
     },
     "b571e4ef116f7692754b0d0c": {
@@ -26881,9 +26884,10 @@
     "d514b415ce18b3b8170df996": {
       "published_at": "2026-11-21T04:28:00+00:00",
       "source": "Indian Defence News",
-      "status": "reserved",
+      "status": "posted",
+      "telegram_message_id": 13948,
       "title": "India Poised To Reach ₹50,000 Crore Defence Export Goal A Year Ahead Of Schedule",
-      "updated_at": "2026-11-21T07:35:09.563520+00:00",
+      "updated_at": "2026-11-21T07:35:24.553802+00:00",
       "url": "https://www.indiandefensenews.in/2026/11/india-poised-to-reach-50000-crore.html"
     },
     "d51f6ad35b5b5481439ac051": {
@@ -32576,6 +32580,6 @@
       "url": "https://www.tribuneindia.com/news/bangladesh/bangladesh-pm-tarique-rahman-emphasises-strengthening-cooperation-with-japan-in-energy-technology-infrastructure-investment"
     }
   },
-  "last_cycle_at": "2026-11-21T07:35:09.566990+00:00",
+  "last_cycle_at": "2026-11-21T07:35:27.757075+00:00",
   "schema_version": 1
 }
